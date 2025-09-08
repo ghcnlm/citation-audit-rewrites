@@ -1,22 +1,23 @@
-﻿# (same patterns as above)
+﻿# Python
 __pycache__/
 *.py[cod]
 *.egg-info/
-.dist/
-build/
-dist/
 .venv/
 .env
 *.log
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
-node_modules/
-npm-debug.log*
+dist/
+build/
+
+# VS Code / OS
 .vscode/
 .history/
 .DS_Store
 Thumbs.db
+
+# Data / artifacts
 outputs/
 data/
 .cache/
@@ -27,6 +28,8 @@ data/
 *.jsonl
 *.sqlite
 *.db
+
+# Secrets / keys
 *.key
 *.pem
 *.crt

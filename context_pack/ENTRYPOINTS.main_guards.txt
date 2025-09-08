@@ -1,0 +1,199 @@
+﻿C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\anyio\to_process.py:257: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\charset_normalizer\cli\__main__.py:380: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\charset_normalizer\__main__.py:5: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\colorama\tests\ansitowin32_test.py:293: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\colorama\tests\ansi_test.py:75: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\colorama\tests\initialise_test.py:188: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\colorama\tests\isatty_test.py:56: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\colorama\tests\winterm_test.py:130: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\distro\distro.py:1402: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\distro\__main__.py:3: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\joblib\externals\cloudpickle\cloudpickle.py:353: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\joblib\externals\loky\backend\context.py:389: ``executor`` should be protected by ``if __name__ == "__main__":`` and the
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\joblib\externals\loky\backend\popen_loky_posix.py:152: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\joblib\externals\loky\backend\spawn.py:49: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\joblib\externals\loky\backend\spawn.py:225: # "if __name__ == '__main__'" guard, so we work around that
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\joblib\test\data\create_numpy_pickle.py:72: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\joblib\test\test_memmapping.py:423: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\joblib\test\test_memmapping.py:457: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\joblib\test\test_memmapping.py:645: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\joblib\test\test_memmapping.py:720: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\joblib\test\test_memmapping.py:842: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\joblib\test\test_parallel.py:1167: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\joblib\test\test_parallel.py:1251: # Here, we do not need the `if __name__ == "__main__":` safeguard when
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\joblib\test\test_parallel.py:1273: # require if __name__ == '__main__' even when the __main__ module is
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\lxml\html\diff.py:970: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\lxml\doctestcompare.py:484: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\app\chartparser_app.py:2553: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\app\chunkparser_app.py:1497: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\app\collocations_app.py:435: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\app\concordance_app.py:706: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\app\nemo_app.py:160: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\app\rdparser_app.py:1049: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\app\srparser_app.py:934: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\app\wordfreq_app.py:33: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\app\wordnet_app.py:1003: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\ccg\chart.py:479: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\chat\eliza.py:336: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\chat\iesha.py:159: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\chat\rude.py:124: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\chat\suntsu.py:139: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\chat\zen.py:328: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\chunk\named_entity.py:404: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\chunk\regexp.py:1473: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\chunk\util.py:641: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\classify\decisiontree.py:348: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\classify\maxent.py:1630: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\classify\naivebayes.py:259: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\classify\scikitlearn.py:123: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\classify\tadm.py:120: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\classify\textcat.py:192: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\classify\weka.py:371: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\cluster\em.py:218: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\cluster\gaac.py:169: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\cluster\kmeans.py:229: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\corpus\reader\chasen.py:152: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\corpus\reader\childes.py:629: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\corpus\reader\framenet.py:3427: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\corpus\reader\knbc.py:185: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\corpus\reader\lin.py:182: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\corpus\reader\toolbox.py:75: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\corpus\__init__.py:534: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\draw\cfg.py:858: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\draw\dispersion.py:60: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\draw\table.py:1177: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\draw\tree.py:1128: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\draw\util.py:2574: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\inference\discourse.py:650: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\inference\mace.py:382: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\inference\nonmonotonic.py:560: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\inference\prover9.py:506: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\inference\resolution.py:758: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\inference\tableau.py:711: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\metrics\agreement.py:350: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\metrics\aline.py:1358: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\metrics\confusionmatrix.py:350: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\metrics\distance.py:507: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\metrics\paice.py:388: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\metrics\scores.py:227: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\misc\chomsky.py:133: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\misc\sort.py:175: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\misc\wordfinder.py:138: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\parse\chart.py:1847: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\parse\dependencygraph.py:798: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\parse\earleychart.py:551: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\parse\featurechart.py:663: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\parse\generate.py:87: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\parse\malt.py:324: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\parse\nonprojectivedependencyparser.py:771: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\parse\pchart.py:578: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\parse\projectivedependencyparser.py:715: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\parse\recursivedescent.py:683: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\parse\shiftreduce.py:477: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\parse\viterbi.py:452: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\sem\boxer.py:1564: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\sem\chat80.py:855: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\sem\cooper_storage.py:123: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\sem\drt.py:1459: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\sem\drt_glue_demo.py:552: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\sem\evaluate.py:829: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\sem\glue.py:834: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\sem\hole.py:390: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\sem\lfg.py:260: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\sem\linearlogic.py:480: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\sem\logic.py:2063: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\sem\relextract.py:530: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\sem\util.py:305: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\sentiment\util.py:870: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\tag\perceptron.py:397: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\tbl\demo.py:417: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\tree\prettyprinter.py:626: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\tree\transforms.py:334: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\twitter\twitter_demo.py:298: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\collocations.py:392: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\downloader.py:2491: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\featstruct.py:2763: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\grammar.py:1694: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\help.py:65: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\probability.py:2548: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\text.py:775: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\nltk\toolbox.py:523: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\numpy\f2py\crackfortran.py:3652: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\numpy\f2py\diagnose.py:148: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\numpy\lib\_user_array_impl.py:282: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\numpy\testing\print_coercion_tables.py:186: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\numpy\typing\tests\data\pass\lib_user_array.py:1: """Based on the `if __name__ == "__main__"` test code in `lib/_user_array_impl.py`."""
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\numpy\_core\tests\test_cpu_features.py:150: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\numpy\_core\cversions.py:11: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\numpy\_core\_machar.py:354: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\numpy\_configtool.py:38: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\openai\cli\_cli.py:232: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pandas\tests\io\generate_legacy_storage_files.py:349: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pandas\util\_doctools.py:201: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pdfminer\__init__.py:9: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_internal\operations\install\wheel.py:413: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\cachecontrol\_cmd.py:69: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\dependency_groups\_lint_dependency_groups.py:58: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\dependency_groups\_pip_wrapper.py:61: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\dependency_groups\__main__.py:64: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\distlib\scripts.py:45: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\distro\distro.py:1402: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\distro\__main__.py:3: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\packaging\_musllinux.py:75: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\platformdirs\__main__.py:54: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\pygments\unistring.py:110: if __name__ == '__main__':  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py:388: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\requests\certs.py:16: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\requests\help.py:126: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\abc.py:21: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\align.py:285: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\box.py:424: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\cells.py:168: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\color.py:594: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\columns.py:174: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\console.py:2627: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\control.py:211: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\default_styles.py:172: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\diagnose.py:38: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\emoji.py:76: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\highlighter.py:201: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\json.py:105: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\layout.py:418: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\live.py:296: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\logging.py:242: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\markup.py:234: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\padding.py:138: if __name__ == "__main__":  #  pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\pager.py:28: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\palette.py:75: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\panel.py:300: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\pretty.py:955: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\progress.py:1653: if __name__ == "__main__":  # pragma: no coverage
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\progress_bar.py:210: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\prompt.py:366: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\repr.py:123: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\rule.py:117: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\scope.py:70: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\segment.py:721: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\spinner.py:117: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\status.py:109: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\styled.py:37: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\syntax.py:868: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\table.py:929: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\text.py:1336: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\theme.py:113: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\traceback.py:873: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\tree.py:204: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\_log_render.py:89: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\_ratio.py:143: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\_win32_console.py:575: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\_windows.py:64: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\_wrap.py:81: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\__init__.py:176: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\_vendor\rich\__main__.py:209: if __name__ == "__main__":  # pragma: no cover
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pip\__main__.py:21: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pycparser\ply\cpp.py:891: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pycparser\ply\ygen.py:68: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pytz\tzfile.py:125: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\pytz\__init__.py:515: if __name__ == '__main__':
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\regex\test_regex.py:4539: if __name__ == "__main__":
+C:\Users\ghcnl\OneDrive\Documents\citation-pilot\citation_audit_repo_v2\.venv\Lib\site-packages\tqdm\contrib\logging.py:71: if __name__ == '__main__':
