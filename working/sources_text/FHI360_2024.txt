@@ -1,0 +1,895 @@
+<<<PAGE=1>>>
+Monitoring and Evaluation Systems 
+Assessment Guide  
+Version 2.0: With PEPFAR Strategic Information Capacity Assessment Standards  
+ 
+Authors: 
+Gervasio Nazare 
+Linda Muyumbu 
+Navindra Persaud 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MARCH 2024
+<<<PAGE=2>>>
+Monitoring and Evaluation Systems Assessment Guide–Version 2 With PSICA Standards  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Suggested citation: 
+FHI 360. Monitoring and Evaluation Systems Assessment Guide Version 2.0: 
+With PEPFAR Strategic Information Capacity Assessment Performance Standards. Durham (NC): 
+FHI 360; 2024. 
+© 2024 by FHI 360. 
+ 
+Disclaimer/Acknowledgments   
+This guide is an adaptation of the Monitoring and Evaluation Systems Assessment Guide Version 
+1.0 (2021). The development and adaptation of the guide and accompanying tool were made 
+possible with FHI 360 institutional funds. The content is the sole responsibility of the authors and 
+does not necessarily represent the views of the U.S. Government. The authors encourage use and 
+adaptation of the tool with proper acknowledgment of the original source.  
+Version 2.0 was developed by Gervasio Nazare and Linda Muyumbu with advice from colleagues 
+Hayley Bryant and Belmiro Sousa. We are grateful for the valuable support, technical leadership, 
+and contributions of Navindra Persaud. We extend special thanks to Pradeep Thakur, Caximo 
+Caximo, and Linda Muyumbu, who developed the original guide and tool that informed this 
+version. We also acknowledge the developers of the PEPFAR Strategic Information Capacity 
+Assessment (PSICA) Tool (2020); the Data for Implementation (Data.FI) project, from which 
+selected standards and performance expectations were extracted; and the FHI 360 Mozambique 
+team that piloted the adapted tool and provided invaluable feedback. We also thank the FHI 360 
+knowledge management team that copy-edited the guide.
+<<<PAGE=3>>>
+Monitoring and Evaluation Systems Assessment Guide–Version 2 With PSICA Standards   
+Table of Contents 
+1.0 Introduction ......................................................................................................................... 1 
+2.0 Objectives of the M&E System Assessment Guide and Tool ................................................... 1 
+3.0 How to Use the Monitoring and Systems Assessment Tool .................................................... 2 
+4.0 Organization of the Monitoring and Systems Assessment Tool .............................................. 2 
+4.1 Scoring ...................................................................................................................................... 3 
+4.2 Methodology ............................................................................................................................ 4 
+4.3 Assessment Team ..................................................................................................................... 4 
+5.0 How to Complete the Tool .................................................................................................... 4 
+6.0 Frequency of Implementation ............................................................................................... 5 
+7.0 Improvement of Action Plans ................................................................................................ 5 
+8.0 After the Assessment ........................................................................................................... 5 
+9.0 Report Writing ..................................................................................................................... 5 
+Appendix I: FHI 360 M&E Systems Assessment Tool Version 2.0: With PEPFAR Strategic 
+Information Capacity Assessment Standards ................................................................................... 6 
+Appendix II: Template for Improvement Action Plan ................................................................... 17
+<<<PAGE=4>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards 1  
+1.0 Introduction  
+A program or project-level monitoring and evaluation (M&E) system organizes the 
+collection, analysis, dissemination, and use of strategic information (SI) to measure 
+achievements against objectives, benchmarks, and targets to inform course corrections as 
+well as assess the impact of the interventions. FHI 360 recognizes the importance of robust 
+M&E systems in both accountability for funds spent and facilitating program/project success 
+and learning through the development of evidence-based projects. Our extensive 
+experience guiding the development of these systems in health and other development 
+programs led to the development of the Monitoring and Evaluation Systems Assessment 
+Tool (M&ESAT) Version 1.0 to assess compliance with the minimum standards set for 
+project M&E systems in general. Version 2.0 of the tool includes PEPFAR Strategic 
+Information Capacity Assessment (PSICA) performance standards (see Appendix I or access 
+the Excel version). The inclusion of the PSICA performance standards helps ensure that tool 
+users including program/project staff, implementing partners, and host government 
+representatives responsible for President’s Emergency Plan for AIDS Relief (PEPFAR)-funded 
+programs/projects can monitor and evaluate their M&E systems according to the PSICA 
+standards.  
+The tool uses a participatory process for assessing system quality and developing 
+interventions for system strengthening. This tool seeks to guide teams to conduct a 
+comprehensive assessment of their M&E systems to identify gaps and develop plans for 
+strengthening their M&E system to ensure the availability of human capacity, financial 
+resources, infrastructure, equipment, and supplies to support the timely production of high-
+quality strategic information. The process of implementing this tool also provides a valuable 
+mentoring and capacity-building opportunity between experienced technical assistance (TA) 
+providers and program/project-level M&E teams, while generating metrics that provide a 
+picture of strengths and weaknesses. This tool can also be used to assess and support M&E 
+system strengthening for PEPFAR programs/projects and implementing partners that are 
+supported by FHI 360. The process of assessing the M&E system using the tool is highly 
+participatory, with scores representing consensus from the program/project counterparts; 
+each standard has a means of verification intended to enhance the objectivity and validity of 
+the findings. This guide was developed to provide tool users with information about the 
+purpose of the tool, how it is organized, and the necessary steps to implement the tool 
+successfully when conducting an M&E system assessment.  
+2.0 Objectives of the M&E System Assessment Guide and Tool  
+The goal is to provide a systematic approach to strengthen the quality of M&E systems at 
+FHI 360 offices and at PEPFAR local implementing partners.  
+Specifically, the tool has been designed to:  
+• Provide a comprehensive overview of the functionality, effectiveness, strengths, and 
+weaknesses of a program/project/partner M&E system.  
+• Guide the development of specific quality improvement plans to address gaps and 
+strengthen M&E systems.  
+• Ensure that M&E systems by programs/projects and partners are aligned at national, 
+regional, and global levels and with pertinent PEPFAR standards.
+<<<PAGE=5>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards 2  
+• Build capacity in M&E systems analysis, improvement, and implementation at 
+FHI 360 and local implementing partners. 
+• Identify human resource and capacity-related needs for a well-functioning PEPFAR 
+SI/M&E system.  
+3.0 How to Use the Monitoring and Systems Assessment Tool   
+The M&ESAT was developed for programs/projects to critically examine their existing M&E 
+systems, identify areas performing well and critical gaps, and develop a quality improvement 
+plan to maintain strengths and overcome weaknesses. Repeated measurements using this 
+tool can help document improvements in the M&E system over time. This tool can also be 
+used at start-up to document compliance with the minimum standards and performance 
+expectations required for a functional PEPFAR SI/M&E system. It can be used in M&E training, 
+as technical guidance, or to identify needs for technical assistance and capacity-building 
+activities. Programs/projects can choose to use all or some of the modules in the tool based 
+on the structure and stage of development of their system. As such, we recommend that this 
+tool be used at the start of all newly awarded program/project to establish a baseline and 
+repeated annually or biannually throughout the life of the program/project—when the system 
+should be fully established—to assess and inform functionality and effectiveness continually.  
+While the tool was designed for programs/projects/partners that deliver services, it can be 
+adapted for use in government settings and smaller projects/sites. It is very flexible; only the 
+standards that apply to the program/project being assessed need to be scored.  
+4.0 Organization of the Monitoring and Systems Assessment Tool  
+This tool is designed around the M&E systems standards defined by FHI 360 and selected 
+PSICA performance standards. It is divided into 12 domains of a functional M&E system as 
+defined by FHI 360. A series of key questions is used to assess whether the 
+benchmarks/standards conform with the minimum standards for a particular domain. 
+While most, if not all, domains apply to all programs/projects, some standards will be 
+program/project specific. Below is a brief explanation of what each domain attempts to 
+answer as defined by the standards: 
+Table 1. M&E System Standards 
+Domain Domain Name Key Questions 
+1 
+Human Resources 
+Capacity and 
+Management  
+Is M&E adequately resourced? Are staff competent? Is capacity building 
+for staff and partners standardized? Have staff, including partners, 
+received training and mentoring?  
+2 
+M&E Plans and 
+Standard Operating 
+Procedures 
+Is there adequate documentation for all aspects of the M&E system? Are 
+documentation roles clearly outlined?  
+3 Data Collection 
+and Management  
+Is there a well-functioning data collection and management system for routine 
+data that employs standardized forms and aggregation procedures for both 
+paper-based and electronic data including individual-level data systems?  
+4 Data Safety and 
+Security  
+Are processes and systems in place to ensure the security of program data 
+from collection to storage and retrieval? 
+5 Data Systems 
+Are there processes and systems to ensure appropriate data systems are 
+in place, functional, and maintained to generate data for PEPFAR, USAID, 
+and program reporting?
+<<<PAGE=6>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards 3  
+6 Data Quality 
+Assurance  
+Are processes and systems in place to generate quality data from various 
+sources? Are results reported accurately and can they be substantiated?  
+7 Data Analysis, 
+Use, and Feedback 
+Is there a system to ensure data are well analyzed and used for program 
+management and improvement?  
+8 Learning  Are systems in place to document lessons learned and facilitate learning at 
+different levels? 
+9 Evaluation Is there adequate planning, implementation, and use of evaluations?  
+10 M&E Leadership  Is there adequate planning and capacity to demonstrate leadership 
+through forums, conferences, and publications? 
+11 M&E System 
+Assessment  
+Is there a system to periodically assess the functionality of the M&E system 
+as needed? 
+12 Budgeting 
+Is there a standard budget to support the M&E work plan including 
+resources for data collection, data management, analysis, data quality 
+assurance, and for hardware and software technology and maintenance? 
+4.1 Scoring  
+The overall score is determined by the number of questions within each of the 
+12 domains. Each domain has a subtotal score based on the number of questions, with 
+M&E plans and standard operating procedures, data safety and security, data quality 
+assurance, and data analysis use and feedback domains comprising 63% of the overall 
+score. This reflects the high importance attached to these elements and, specifically, to 
+data quality and use, and the need for having strong M&E systems to support all 
+program functions. Scores for each of the 12 domains are automatically calculated and 
+tabulated on the Summary sheet so tool users can readily identify which domains need 
+urgent attention. The comment section is to record any additional information that 
+may provide clarification or help inform remediation plans. Comments may include 
+insights into the cause of the problem since the scores simply highlight whether a 
+problem exists, not why it does. It is also an opportunity to acknowledge performance 
+that meets the standards as reflected in the high scores. 
+Final Score: The final score is a total of the subtotal scores for all 12 domains. It 
+appears on the Summary sheet and is rendered as a bar graph and radar chart on the 
+Charts sheet in the MS Excel version. The overall percentage for each site/organization 
+is used for categorizing and prioritizing programs/projects in need of remediation 
+actions and technical assistance. The scores are categorized as follows: 
+Color (% Range) Description Follow-up Action 
+Green  
+(90%–100%)   
+Strong capacity, where there are no 
+deficiencies or significant weaknesses. 
+Needs minor improvement. 
+Repeat assessment after 12 months. 
+Monitor progress every 6 months. 
+Yellow  
+(70%–89%)  
+Adequate capacity, where there are no 
+deficiencies. Needs improvement. 
+Repeat assessment after 12 months. 
+Monitor progress quarterly. 
+Orange  
+(50%–69%) 
+Weak capacity, where there are some 
+deficiencies and significant weaknesses. 
+Needs urgent remediation. 
+Repeat assessment after 6 months. 
+Monitor progress monthly. 
+Red  
+(Less than 49%)   
+Inadequate capacity, where there are key 
+deficiencies and significant weaknesses. 
+Needs very urgent remediation. 
+Repeat assessment after 3 months. 
+Monitor progress monthly.
+<<<PAGE=7>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards 4  
+Following the assessment, recommendations are generated to address the gaps and 
+the needed frequency of assessments to monitor progress. A participatory 
+prioritization exercise is done to agree on priority recommendations that will form the 
+basis for a quality improvement plan.  
+4.2 Methodology  
+This tool is a participatory, standards-based self-assessment. For each standard, a 
+means of verification is suggested, which provides a method for objectively verifying 
+the extent to which each standard is met. This verification is important for grounding 
+the results in evidence and reducing desirability bias from the self-assessment process. 
+Detailed steps for implementing the tool are described below.  
+This tool is also designed to complement FHI 360’s Data Verification and Improvement 
+Guide which is used for data verification.  
+4.3 Assessment Team  
+An assessment team comprising program/project/implementing partner M&E staff and SI 
+backstop or other implementing partner (IP) staff as applicable should be formed. The 
+number of participating project staff will depend on the size and organization of the M&E 
+team, but critical to this process is the SI/M&E Advisor, Data Manager, or Health 
+Management Information System (HMIS) Manager and any other designated technical staff 
+who are familiar with the M&E system of the program/project. 
+The scope of work for the assessment team includes:  
+1. Inform the program/projects to be assessed at least two weeks prior to the exercise 
+to ensure the availability of documents and personnel required for the exercise.  
+2. Conduct an introductory meeting with the program/staff to highlight the objectives 
+of the assessment and expectations.  
+3. Review previous assessment reports and improvement action plans.  
+4. Interview staff involved in the M&E system implementation including data collection, 
+compilation, analysis, and reporting to understand how the system functions. 
+5. Record scores and complete the M&ESAT including comment sections where 
+appropriate. In the process, the team will review the availability of all verifiable 
+documents and observe any processes as expected. Explanations for any 
+observations will be sought and recorded in the comments section.  
+6. Calculate and record the program/project's overall score and categorization. 
+7. Develop a draft action plan with the project/program team. 
+5.0 How to Complete the Tool  
+To complete the tool, most standards rely on some form of documentation 
+and/or interview with key staff members at programs/projects and implementing 
+partners, as well as observations. Scores are allocated for the performance of the 
+system against each identified standard on a scale from 0–2, where:  
+ 0 = standard is not met  
+ 1 = standard is partially met  
+ 2 = standard is fully met  
+N/A = standard is not applicable, or not available for review purposes
+<<<PAGE=8>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards 5  
+ 
+The M&ESAT is included in Appendix I. The M&ESAT can be printed and the paper form 
+scored and tabulated manually. However, it is highly recommended that users access and 
+use the MS Excel version of the tool, which automatically calculates the scores in each 
+domain, aggregates the scores in the Summary tab, generates a visual display in the Charts 
+tab, and serves as an electronic record of the assessment. Some tool users prefer to take 
+notes on a paper form during their interviews and observations and then transfer their 
+scores into the Excel version to ensure the scores are accurately tabulated and the feedback 
+can be easily shared with the program/project staff in a digital format.  
+6.0 Frequency of Implementation  
+For newly awarded programs/projects, this tool should first be implemented at start-up to 
+establish a baseline and then annually to assess progress with implementation of the 
+action plan. In instances where severe deficiencies are identified, the assessment can be 
+conducted more frequently depending on the size of the gap identified (see table, 
+Section 4.1). Existing programs with no baseline assessment and at least two years until the 
+end of the program/project should implement the tool at the earliest opportunity and 
+follow up as needed. Assessment results should be tracked over time to demonstrate 
+progress in improving the M&E system over the life of the project.  
+7.0 Improvement of Action Plans  
+The assessment team should work with the program/project/partner to jointly develop an 
+improvement action plan (see Appendix II for template) to ensure identified gaps are 
+clearly articulated and a work plan is developed to address them. The improvement 
+planning process should determine areas of priority, based on performance for each 
+domain. The work plan should include provisions to monitor implementation of the 
+corrective actions.  
+8.0 After the Assessment  
+The assessment team should provide feedback on findings of the M&E system assessment 
+to the M&E team and program/project management with recommendations, and an action 
+plan on how to address challenges identified, and timelines. The SI headquarters (HQ) 
+backstop will provide regular follow-up to ensure plans are followed through to logical 
+conclusion. 
+9.0 Report Writing  
+Following completion of the M&E system assessment, the assessment team will provide a 
+detailed written report of the exercise to program/project management within two weeks. 
+The report will detail assessment methodologies, findings, recommendations, action plans, 
+and limitations/challenges of the exercise. Relevant data summarization/visualization 
+including infographics, charts, maps, and tables will be used to summarize the findings as 
+appropriate.
+<<<PAGE=9>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards  6 
+Appendix I: FHI 360 M&E Systems Assessment Tool Version 2.0: With PEPFAR Strategic Information Capacity Assessment Standards 
+Name of country/Program/  
+Project Name 
+  
+Date of assessment   
+Program Lead: 
+[Name and position of staff] 
+ Other staff members: [Name and position of staff interviewed] 
+External Lead: 
+[Name and position of staff] 
+ Other external team members 
+Level of data collection 
+[Program/IP/Service delivery point, etc.] 
+ 
+Methodology and Scoring: This tool is a facilitated self-assessment, using a standards-based tool. For each standard, a means of 
+verification is suggested that provides a method for objectively verifying the extent to which it is met.  Select an appropriate score 
+0=does not meet, 1=partially meets, 2=fully meets, N/A=standard is not applicable, or not available for review purposes. Ask to 
+verify all documentation. 
+NB: Questions highlighted in blue are PSICA standards. 
+Key Questions (Standards)  Means of Verification Score 
+(0, 1, 2, NA)  
+Observations, rationale for rating and 
+recommendations 
+1. Human Resources Capacity and Management  
+1. Does your program have adequate and dedicated 
+staff for monitoring and evaluation (M&E) 
+including an advisor, M&E officer, database 
+manager, health informatics officer, and at least one 
+data entry clerk (DEC) or equivalent?  For care and 
+treatment sites, at least one DEC for those with 
+more than 1,000 patients currently 
+on antiretroviral therapy (ART).    
+Discussion, review of M&E 
+structure and organogram 
+    
+2. Do the qualifications and experience of staff hired 
+for all strategic information (SI)/M&E positions 
+match the requirements of their job descriptions 
+related to PEPFAR SI? 
+Discussions, review of 
+M&E structure, CVs, and 
+job descriptions
+<<<PAGE=10>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards  7 
+Key Questions (Standards)  Means of Verification Score 
+(0, 1, 2, NA)  
+Observations, rationale for rating and 
+recommendations 
+3. Have all the relevant (M&E, implementing partner) 
+staff received initial M&E training using a standard 
+M&E curriculum?  
+Discussion, review of 
+curriculum and training 
+records 
+    
+4. Does the M&E lead visit all M&E team members for 
+mentorship/technical support/supervision at least 
+twice a year? 
+Discussion with partners, 
+review supervision reports     
+5. Are the Strategic Information staff able to complete 
+all SI work without routinely working >5 hours 
+overtime per week (on average)?  
+Discussions with SI staff, 
+review of timesheets   
+Subtotal Score:  Maximum Score=10; Score < 5 (49%) is RED 
+2. M&E Plans and Standard Operating Procedures (SOPs) 
+1. Does the program have an up-to-date (annual 
+updates) Monitoring Evaluation and Learning Plan 
+(MELP)/Performance Monitoring Plan (PMP) that 
+includes a graphic Results Framework or Theory of 
+Change outlining how project/program goals, 
+intermediate results, and outcomes or outputs are 
+linked?  
+Discussion, review of 
+MELP/PMP 
+    
+2. Does the program set targets for key performance 
+indicators to achieve every month and quarter for 
+each intervention?   
+Discussion, review of 
+MELP/PMP     
+3. Does the MELP have a dataflow chart that clearly 
+demonstrates how data flows and is reviewed from 
+implementation sites to reach program managers 
+and donors/government?  
+Discussion, review of 
+MELP/PMP     
+4. Does the MELP plan have an organogram describing 
+the organization of the M&E unit in relation to the 
+overall project team?  
+Discussion, review of 
+MELP/PMP     
+5. Does the program have performance indicator 
+reference sheets that include clear operational 
+definitions consistent with U.S. President's 
+Emergency Plan for AIDS Relief (PEPFAR) monitoring, 
+Discussion, review of 
+MELP/PMP
+<<<PAGE=11>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards  8 
+Key Questions (Standards)  Means of Verification Score 
+(0, 1, 2, NA)  
+Observations, rationale for rating and 
+recommendations 
+evaluation, and reporting (MER) guidance and 
+relevant national/global indicators (e.g., PEPFAR, 
+PMI, UNGASS, etc.)?  
+6. Does the M&E team understand PEPFAR indicators 
+and PEPFAR types of support?  
+MER discussion 
+7. Does the program have an up-to-date Data Quality 
+Assessment (DQA) plan available (virtual and in 
+person, annually updated) with SOP and guidelines?   
+Discussion, review of DQA 
+plan     
+8. Has your program provided implementing 
+partner(s)/sites with standard guidelines describing 
+reporting requirements (what to report on, due 
+dates, data sources, report recipients, etc.)?  
+Discussion, review of 
+Reporting guidelines     
+9. Do you have standard data collection tools and 
+reporting template(s) for use across all 
+implementing partner(s)/sites? 
+Discussion, review of 
+standard reporting tools     
+10. Do you have written clear instructions/guidance on 
+how to complete all data collection tools for 
+implementing partners or service delivery points?    
+Discussion, and review of 
+tools for clear 
+instructions/guidance 
+    
+11. Does your program allocate program target up to 
+facility- or service-site level? 
+Target division matrix   
+Subtotal Score:  Maximum Score=22; Score < 11 (49%) is RED 
+3. Data Collection and Management  
+1. Has your program included all required program 
+indicators with required PEPFAR/USAID 
+disaggregation in (manual and electronic) data 
+collection tools?   
+Review of program data 
+collection tools      
+2. Has your program clearly defined the data sources 
+and collection methods for each indicator including 
+indicators earmarked for the national program 
+(government)?  
+Review of reporting 
+guidelines, manuals, and 
+protocols
+<<<PAGE=12>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards  9 
+Key Questions (Standards)  Means of Verification Score 
+(0, 1, 2, NA)  
+Observations, rationale for rating and 
+recommendations 
+3. Does the data collected on the source documents 
+have sufficient precision/detail to measure the 
+indicator(s)?  
+Review of program data 
+collection tools      
+4. Do you have data management guidelines that cover 
+both physical file storage/management and 
+electronic data, if applicable are in place?  
+Review of data 
+management guidelines, 
+manuals  
+  
+5. Was the organization's monthly data collection and 
+management in the last 12 months done entirely 
+with staff employed directly by the organization and 
+without external support from prime partners, 
+international partners, or consulting firms? 
+Discussion, review of 
+program data collection 
+tools, data management 
+plans, and review of data 
+management systems  
+    
+Subtotal Score:  Maximum Score=10; Score < 5 (49%) is RED 
+4. Data Safety and Security  
+1. Is there a filing protocol for physical 
+records/registers with client-level personal 
+information that is proper, and information is easily 
+retrievable (where applicable)?    
+Review of filing SOP, 
+discussions     
+2. Are relevant personal data maintained according to 
+national (preferable) or international confidentiality 
+guidelines, including using unique alpha-numerical 
+IDs (where applicable)?  
+Observations and records 
+review     
+3. Is there restricted access to personal identifiable 
+information through providing (where applicable) 
+lockable rooms/filing cabinets?  
+Observation and records 
+review     
+4.  Is there restricted access to both the program 
+database and any personal identifiable information 
+through password-protected datasets/databases?  
+Observation and records 
+review    
+5. Is there a protocol for changing password when staff 
+depart?  
+Observation and review   
+6. Does a back-up system for electronic data exist and 
+is it up to date? 
+Observation and review
+<<<PAGE=13>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards  10 
+Key Questions (Standards)  Means of Verification Score 
+(0, 1, 2, NA)  
+Observations, rationale for rating and 
+recommendations 
+7. Are there protocols/guidelines for sharing data with 
+other partners?  
+Observation and review   
+8. Is there a list of individuals (s) with rights to destroy 
+data (e.g., in case of a pending police raid)?  
+Observation and review   
+9. Is there a protocol for safe data destruction of 
+records?  
+Observation and review   
+10. Have employees been trained in data confidentiality 
+within the past year?  
+Observation and review   
+11. Are protocols in place to guide action in case of 
+individuals who may have intentionally violated data 
+confidentiality regulations?  
+Observation and review 
+  
+Subtotal Score:  Maximum Score=22; Score < 11 (49%) is RED 
+5. Data Systems  
+1. Does your program have a longitudinal individual-
+level database/tracker to track, verify, analyze, and 
+present data to program/technical teams at all 
+levels, including HIV cascade data support, other 
+program data support, and finances?  
+Discussion and review of 
+database 
+  
+2. Does your program have an electronic client-level 
+database to generate data for PEPFAR and USAID 
+required reporting?  
+Discussion and review of 
+database   
+3. Does your organization electronic data management 
+system(s) have a complete and updated data 
+dictionary? 
+Discussion and review of 
+database dictionary   
+4. Has your organization purchased/licensed all 
+hardware and software currently used for data 
+collection, analysis, and reporting (exclusive of 
+PEPFAR and national databases and tools)? 
+Discussion and review of 
+licenses     
+5. Does your program implement a unique identifier 
+code (UIC) to provide individual-level data and track 
+individual beneficiaries along the HIV cascade?  
+Discussion and review of 
+database
+<<<PAGE=14>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards  11 
+Key Questions (Standards)  Means of Verification Score 
+(0, 1, 2, NA)  
+Observations, rationale for rating and 
+recommendations 
+6. Does your program implement a unique identifier 
+code (UIC) to provide individual-level data and track 
+individual beneficiaries along the HIV cascade?  
+Discussion and review of 
+database     
+7. Are training and support provided to the staff 
+members on UIC generation, implementation, and 
+use? 
+Discussion and review of 
+database   
+Subtotal Score:  Maximum Score=14; Score < 7 (49%) is RED 
+6. Data Quality Assurance  
+1. Does your program have a system to ensure 
+standard forms/tools are used consistently within 
+and between partners/site levels?  
+Discussion and review of 
+records     
+2. Are definitions and interpretations for indicators 
+uniformly understood and followed correctly (latest 
+PEPFAR MER guidance)? 
+Discussion, review of 
+guidance   
+3. Is there a system to adjust for double counting at 
+site level on a quarterly basis?   
+Discussion and review of 
+records     
+4. Is there a system in place to detect missing data?  Review of system   
+5. Are 100% of the sites visited at least once a year 
+(where applicable) and more frequently for high-
+volume sites for data quality audits for key 
+indicators?   
+Discussion and review of 
+site visit and DQA reports      
+6. Have sites supported by the organization applied 
+procedures and tools to verify the accuracy and 
+completeness of reported HIV program data in the 
+last 4 quarters? 
+Discussion and review of 
+SOPs, records     
+7. Has the organization conducted an internal, formal 
+data quality assessment (internal DQA) at sample 
+sites in each of the last 4 quarters?   
+Discussion and review of 
+DQA reports      
+8. Did the most recent internal DQA results 
+demonstrate the acceptable level of variance  
+Review of DQA reports
+<<<PAGE=15>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards  12 
+Key Questions (Standards)  Means of Verification Score 
+(0, 1, 2, NA)  
+Observations, rationale for rating and 
+recommendations 
+(+5%/-5%), per site across all sampled sites, for 
+reported results against recounted data? 
+9. Are the data quality problems clearly documented 
+including how these problems have been resolved?  
+Discussion and review of 
+site visit reports    
+10. Do staff directly employed by the organization lead 
+routine quality improvement processes without 
+external support from a prime partner, international 
+partner, or consulting firm?  
+Discussion and review of 
+data quality improvement 
+plans and status     
+11. Is there a clear data reporting schedule that 
+corresponds with donor-specified report periods and 
+program needs?  
+Discussion and review of 
+site visit reports    
+12. Does the program have minimal transcription stages 
+(manual transfer of data from one form to another) 
+to limit transcription errors? 
+Discussion and review of 
+site visit reports    
+13. Are reports received within reporting time from the 
+service sites/facility?  
+Discussion and review of 
+site visit reports    
+14. Has the organization submitted the quarterly 
+narrative reports to USAID on time as scheduled in 
+the last 4 quarters?  
+Discussion and review of 
+reports, submission emails   
+15. Has the organization responded to all USAID HFR 
+requirements on time in the last 12 months? 
+Discussion and review of 
+reports, submission emails   
+16. Has the organization consistently provided HFR data 
+in the format expected by USAID in the last 
+12 months? 
+Discussion and review of 
+reports, submission emails   
+17. Has the organization consistently submitted data 
+into DATIM on time in the last 4 quarters? 
+Discussion and review of 
+reports, submission emails   
+18. Has the organization responded to all PEPFAR ER 
+requirements on time in the last 4 quarters? 
+Discussion and review of 
+reports, submission emails   
+19. Has the organization consistently provided ER data 
+in the format expected by PEPFAR in the last 
+4 quarters? 
+Discussion and review of 
+reports, submission emails
+<<<PAGE=16>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards  13 
+Key Questions (Standards)  Means of Verification Score 
+(0, 1, 2, NA)  
+Observations, rationale for rating and 
+recommendations 
+20. Has the organization responded to all 
+Mission/Agency report requests on time and in the 
+format required in the last 12 months?  
+Discussion and review of 
+reports, submission emails   
+21. Were the PEPFAR quarterly reports and DATIM 
+submissions in the last 4 quarters, produced without 
+contributions or review by a support agency (e.g., 
+prime partner, international partner, consulting 
+firm)? 
+Discussion and review of 
+reports, submission emails 
+  
+22. Does the program hold periodic sessions with all 
+program staff to create awareness on data quality 
+and integrity? 
+Review of records/minutes 
+  
+Subtotal Score:  Maximum Score=44; Score < 22(49%) is RED 
+7. Data Analysis, Use, and Feedback  
+1. Does the program conduct regular analysis including 
+trends in performance indicators over time (e.g., 
+real time, daily, weekly, monthly, or quarterly or as 
+may be required) - and disaggregated by sex and/or 
+age, location?   
+Discussion and review of 
+records 
+    
+2. Have staff directly employed by the organization 
+analyzed PEPFAR data without external technical 
+assistance or support from a prime partner, 
+international partner, or consulting firm in the last 
+4 quarters? 
+Discussion and review of 
+analysis plan and outputs 
+    
+3. Does the program have a senior staff member (e.g., 
+Program Manager) responsible for reviewing 
+aggregated data prior to release of reports from 
+M&E unit?  
+Discussion and review of 
+records     
+4. Are there documented procedures to ensure regular 
+(at least monthly) review of M&E data by 
+program/project managers and/or chief of party, 
+M&E staff, other technical staff, and partners?  
+Discussion and review of 
+SOP, records
+<<<PAGE=17>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards  14 
+Key Questions (Standards)  Means of Verification Score 
+(0, 1, 2, NA)  
+Observations, rationale for rating and 
+recommendations 
+5. Does your program document reasons for under- or 
+over-performance (e.g., not achieving important 
+targets)?  
+Discussion and review of 
+SOP, records     
+6. Is there evidence that performance issues (e.g., not 
+meeting targets) are followed up with 
+partners/others and documented?  
+Review of records 
+    
+7. Does your program hold at least one data review 
+and interpretation meeting in a quarter at the 
+national/program level involving managers and 
+program/technical staff?  
+Discussion and review of 
+SOP, records     
+8. Does your program hold at least one data review 
+and interpretation meeting in a month with local 
+implementing partners/site level involving partner 
+managers and program/technical staff?  
+Discussion and review of 
+SOP, records   
+Subtotal Score:  Maximum Score=16; Score < 8 (49%) is RED 
+8. Learning  
+1. Does your program conduct secondary analysis?   Discussion and review of 
+records     
+2. Does your program document, present the lessons 
+learned, and facilitate the exchange of information 
+among partners and stakeholders?   
+Discussion and review of 
+records   
+Subtotal Score:  Maximum Score=4; Score < 2 (49%) is RED 
+9. Evaluation  
+1. Does your program conduct mapping, collect, and 
+review existing size estimates and mapping data 
+for target populations?  
+Review of records 
+    
+2. When applicable, does your program conduct 
+process evaluation or mid-term review, outcome, or 
+impact evaluation in line with the implementation 
+phase and donor requirements?  
+Review of records
+<<<PAGE=18>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards  15 
+Key Questions (Standards)  Means of Verification Score 
+(0, 1, 2, NA)  
+Observations, rationale for rating and 
+recommendations 
+3. Does your program facilitate the use of 
+evaluation/mapping data for programming?  
+Discussion and review of 
+records     
+Subtotal Score:  Maximum Score=6; Score < 3 (49%) is RED 
+10. M&E Leadership  
+1. Does your program participate in 
+national/state/province M&E Technical Working 
+Groups (TWGs) or other fora accordingly?  
+Discussion 
+    
+2. Has your program presented any components of 
+M&E system as abstracts, posters, or publications 
+at national conferences or other meetings at least 
+once in the past two years?  
+Records review 
+    
+Subtotal Score:  Maximum Score=4; Score < 2 (49%) is RED 
+11. M&E System Assessment  
+1. Does your program conduct an internal M&E system 
+assessment for the program and implementing 
+partners (where applicable) in the initial year of 
+program and annually, or as needed, thereafter?   
+Discussion and records 
+review     
+Subtotal Score:  Maximum Score=2; Score < 2 (49%) is RED 
+12. Budgeting  
+1. Is the monitoring and evaluation (M&E) budget 
+between 5%–10% of the overall program budget?  
+Discussion and review of 
+budget     
+2. Does the annual project budget include resources 
+for data collection, data management, analysis, and 
+data quality assurance? 
+Discussion and review of 
+budget   
+3. Are the resources budgeted for data collection, data 
+management, analysis, and data quality sufficient to 
+support high-quality SI management? 
+Discussion and review of 
+budget   
+4. Does the annual project budget include resources 
+for hardware and software technology and upkeep 
+needed to sustain high-quality SI? 
+Discussion and review of 
+budget
+<<<PAGE=19>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards  16 
+Key Questions (Standards)  Means of Verification Score 
+(0, 1, 2, NA)  
+Observations, rationale for rating and 
+recommendations 
+5. Does your organization have a budget, internal 
+expertise, or a contract with an external vendor for 
+hardware and software maintenance? 
+Discussion and review of 
+vendor contracts   
+Subtotal Score:  Maximum Score=10; Score < 5 (49%) is RED 
+Total Score   ________/122 _________%
+<<<PAGE=20>>>
+Monitoring and Evaluation Systems Assessment Guide—Version 2 with PSICA Standards  17 
+Appendix II: Template for Improvement Action Plan 
+  Identified gaps  Description of action point  Responsible(s)  Timeline  Technical assistance needs  
+1            
+2             
+3            
+4            
+5            
+6            
+7            
+8           
+Overall score for 
+systems assessment

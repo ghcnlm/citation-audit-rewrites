@@ -1,0 +1,1818 @@
+<<<PAGE=1>>>
+Rodrigues, Margarida; Fernández-Macías, Enrique; Sostero, Matteo
+Working Paper
+A unified conceptual framework of tasks, skills and
+competences
+JRC Working Papers Series on Labour, Education and Technology, No. 2021/02
+Provided in Cooperation with:
+Joint Research Centre (JRC), European Commission
+Suggested Citation: Rodrigues, Margarida; Fernández-Macías, Enrique; Sostero, Matteo (2021) :
+A unified conceptual framework of tasks, skills and competences, JRC Working Papers Series on
+Labour, Education and Technology, No. 2021/02, European Commission, Joint Research Centre
+(JRC), Seville
+This Version is available at:
+https://hdl.handle.net/10419/231348
+Standard-Nutzungsbedingungen:
+Die Dokumente auf EconStor dürfen zu eigenen wissenschaftlichen
+Zwecken und zum Privatgebrauch gespeichert und kopiert werden.
+Sie dürfen die Dokumente nicht für öffentliche oder kommerzielle
+Zwecke vervielfältigen, öffentlich ausstellen, öffentlich zugänglich
+machen, vertreiben oder anderweitig nutzen.
+Sofern die Verfasser die Dokumente unter Open-Content-Lizenzen
+(insbesondere CC-Lizenzen) zur Verfügung gestellt haben sollten,
+gelten abweichend von diesen Nutzungsbedingungen die in der dort
+genannten Lizenz gewährten Nutzungsrechte.
+Terms of use:
+Documents in EconStor may be saved and copied for your personal
+and scholarly purposes.
+You are not to copy documents for public or commercial purposes, to
+exhibit the documents publicly, to make them publicly available on the
+internet, or to distribute or otherwise use the documents in public.
+If the documents have been made available under an Open Content
+Licence (especially Creative Commons Licences), you may exercise
+further usage rights as specified in the indicated licence.
+  https://creativecommons.org/licenses/by/4.0/
+<<<PAGE=2>>>
+1 
+Centre 
+ 
+JRC Technical Report 
+ 
+ 
+A unified conceptual framework  
+of tasks, skills and competences 
+ 
+JRC Working Papers Series on  
+Labour, education and Technology 
+2021/02 
+ 
+ 
+Margarida Rodrigues, Enrique Fernández-Macías, Matteo Sostero
+<<<PAGE=3>>>
+Centre 
+ 
+This Working Paper is part of a Working paper series on Labour, Education and Technology  by the 
+Joint Research Centre (JRC) The JRC is  the European Commission’s science and knowledge service. It 
+aims to provide evidence -based scientific s upport to the European policymaking process. The 
+scientific output expressed does not imply a policy position of the European Commission. Neither the 
+European Commission nor any person acting on behalf of the Commission is responsible for the use 
+that might be made of this publication. 
+ 
+Contact information 
+Name: Enrique Fernández-Macías 
+Address: Joint Research Centre, European Commission (Seville, Spain) 
+Email: Enrique.FERNANDEZ-MACIAS@ec.europa.eu 
+Tel.: +34 9544-87109  
+ 
+EU Science Hub 
+https://ec.europa.eu/jrc 
+ 
+ 
+JRC121897 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Seville: European Commission, 2021 
+ 
+© European Union, 2021 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The reuse policy of the European Commission is implemented by the Commission Decision 
+2011/833/EU of 12 December 2011 on the reuse of Commission documents (OJ L 330, 14.12.2011, 
+p. 39). Except otherwise noted, the reuse of this document is authorised under the Creative 
+Commons Attribution 4.0 International (CC BY 4.0) licence 
+(https://creativecommons.org/licenses/by/4.0/). This means that reuse is allowed provided appropriate 
+credit is given and any changes are indicated. For any use or reproduction of photos or other 
+material that is not owned by the EU, permission must be sought directly from the copyright holders. 
+ 
+All content © European Union 2021 
+ 
+How to cite this report:  Roddrigues, M, Fernández -Macías, E., Sostero, M ., A unified conceptual 
+framework of tasks, skills and competences, Seville: European Commission, 2021, JRC121897.
+<<<PAGE=4>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+1 
+A u nified conceptual framework of tasks, 
+skills and competences 
+ 
+Margarida Rodrigues1, Enrique Fernández-Macías2, Matteo Sostero2 
+ 
+1: NOVA School of Business and Economics, Lisbon 
+2: European Commission, Joint Research Centre, Unit B4 – Human Capital and Employment 
+ 
+ 
+ 
+Abstract 
+Skills and competences are frequently invoked by policy –makers in reference to labour 
+market developments and education objectives. However, these concepts have different 
+meanings across academic disciplines such as sociology , economics, and education.  
+This paper proposes a unified conceptual framework for tasks, skills and competences.  
+We start from the concept of task, as the smallest unit o f work involved in an economic 
+process. Skills are defined as the ability to perform tasks. Sim ilar tasks are grouped into 
+task domains, which are bundled by employers into jobs. Likewise, similar skills make up 
+skill domains , while competence is the ability to master skills across domains.  
+This framework has two major advantages. First, it provides distinct definitions of relevant 
+concepts and the relations between them. Second, it bridges  the socio-economic concepts 
+of skills and tasks, which relate to the labour market, with  the education and training  
+literature, which focuses on skill and competence development as learning objectives . We 
+also propose a way to measure the different concepts empirically. 
+ 
+Keywords: Tasks, skills, competences, framework
+<<<PAGE=5>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+2 
+ 
+ 
+ 
+  
+Authors: Margarida Rodrigues (NOVA School of Business and Economics, Lisbon), Enrique 
+Fernández-Macías (European Commission, Joint Research Centre, Unit B4), Matteo Sostero 
+(European Commission, Joint Research Centre, Unit B4) 
+ 
+Acknowledgements: The authors would like to thank  Luca Marcolin (OECD), Mantas 
+Sekmokas (European Commission), Konstantinos Pouli akas (Cedefop), Martina Bisello 
+(Eurofound), Sally Wright (Warwick University), Jim Allen (Maastricht University), Golo 
+Henseke (University College London),  Fabienne Montaigne (Eurostat), Dario Guarascio (Rome 
+University), Valeria Cirillo (Bari University) , Jorge Rodriguez Menes (Pompeu Fabra University) 
+and other participants at the Research Seminar on Tasks, Skills and Occupations that took 
+place in JRC Sevilla in February 2019  for their useful comments to previous versions of this 
+paper. The views  expressed in this paper  are those of the authors and do not necessarily 
+reflect those of the European Commission. 
+ 
+Joint Research Centre reference number: JRC121897
+<<<PAGE=6>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+3 
+Contents 
+1. Introduction and policy context .................................................................................................................................. 4 
+2. How the concepts are used in different disciplines ........................................................................................ 5 
+3. Main definitions and conceptual framework ...................................................................................................... 5 
+3.1 The underlying relation between tasks and skills ......................................................................................................... 6 
+Tasks .................................................................................................................................................................................................................... 6 
+Skills ...................................................................................................................................................................................................................... 9 
+Skills hierarchy ............................................................................................................................................................................................... 9 
+Skills transferability ................................................................................................................................................................................ 10 
+Tasks and skills domains ..................................................................................................................................................................... 10 
+3.2 Competences ......................................................................................................................................................................................... 12 
+Knowledge .................................................................................................................................................................................................... 13 
+Attitudes ......................................................................................................................................................................................................... 13 
+A production function approach to the concept of competence ................................................................................. 14 
+3.3 Jobs as a special type of task domain .............................................................................................................................. 15 
+3.4 A unified conceptual framework of tasks, skills and competences ............................................................. 16 
+4. Competence development: a life course perspective ................................................................................. 16 
+4.1 The acquisition of competences throughout the life course ............................................................................. 17 
+4.2 A dynamic competence production function ................................................................................................................. 17 
+4.3 Representing the development of competence over the life course........................................................... 18 
+5. Some additional illustrations .................................................................................................................................... 20 
+Supply-side factors ...................................................................................................................................................................................... 20 
+Demand-side factors .................................................................................................................................................................................. 21 
+Supply-Demand matching factors ..................................................................................................................................................... 21 
+6. Conclusions ......................................................................................................................................................................... 22 
+References ................................................................................................................................................................................. 23 
+Annex .............................................................................................................................................................................................. 25 
+Annex A – Definitions of competence and skills in documents by the European Commission 
+and the OECD ................................................................................................................................................................................................. 25 
+Annex B – Monitoring tasks, skills and competences: some possible indicators ........................................ 27 
+Annex C – A brief overview of existing skills monitoring frameworks ............................................................... 34 
+Education and Training 2020 Strategy (DG EAC) ................................................................................................................. 34 
+European Skills Index (Cedefop) ...................................................................................................................................................... 34 
+Eurostat .......................................................................................................................................................................................................... 35 
+Getting Skills Right: Skills for jobs indicators (OECD) ........................................................................................................ 36 
+World Indicators of Skills for Employment (OECD) ............................................................................................................. 36 
+Glossary and references ................................................................................................................................................. 38
+<<<PAGE=7>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+4 
+1. Introduction and policy context 
+Skills are at the heart of European policy. The New Skills Agenda for E urope1 states that 
+skills are a pathway to employability and prosperity, and a catalyst in the virtuous circle of 
+job creation and growth. It proposes ten actions to make the right training, skills and 
+support available to citizens so that Europe can face the challenges of global competition, 
+skill-biased technological change and population ageing. The European Pillar of Social 
+Rights2 gives an even broader role to skills by stating that they are important not only to 
+manage successful transitions in the labour market, but also to participate fully in society. 
+In terms of specific actions and initiatives, the Upskilling Pathways and the Key 
+Competences for Lifelong Learning are building blocks of the Pillar and of the New Skills 
+Agenda for Europe. They aim t o help people, including adults with low skill levels, acquire 
+the core set of skills necessary to work and live in the 21st century. The underlying 
+assumption is that everyone has the right to quality and inclusive education, training and 
+lifelong learning in order to maintain and acquire skills. Thus, the fundamental question 
+for EU policy-oriented research in the area of skills is "how well do systems responsible for 
+skills development (i.e. education and training) function in providing required skills a nd 
+addressing skills mismatches, thus ensuring good labour market and social outcomes?"  
+(ESTAT/EMPL, 2016). 
+Answering this question requires a well -defined framework and system of indicators for 
+measuring skills at large. Although there is a proliferation of indicators and benchmarks 
+for skills in the EU, such as the World Indicators of Skills for Employment (WISE) database3 
+or Skills for Jobs Indicators 4 by the OECD, or the European Skills Index by Cedefop5, there 
+is no common and consistent conceptual def inition, which makes them difficult to 
+compare, sometimes even contradictory. A consistent definition and conceptual framework 
+for skills at large is still needed (Green 2011).  
+Part of the problem is that the area of skills straddles across disciplines, w hich can be 
+themselves inconsistent in their approach and basic concepts, and it is not always clear 
+which is the perspective taken. For instance, although the policy discourse mostly refers to 
+the economic concept of skills (with a focus on the labour mar ket), when it comes to the 
+development of learning outcomes and the process of skills development the educational 
+concept of competences is often used. It is unclear how these two central (and at least 
+partly overlapping) concepts relate to each other. In some recent policy documents and 
+discussions, skills and competences are used interchangeably, in some others they seem 
+to refer to different things.  
+This paper proposes a unified conceptual framework for tasks, skills and competences. We 
+present simple d efinitions of the main concepts in this area that are consistent with the 
+relevant disciplines and approaches; in particular, we focus on bridging the socio-economic 
+approach centred in the application of skills to tasks in the labour market and the 
+educational perspective focused on the development of skills and competences in 
+education and training. Although our primary perspective is the world of work and 
+employment – and what these concepts mean in the labour market – this framework also 
+tries to interf ace with the understanding of skills and competences used in the field of 
+education. We hope that this paper can foster inter -discipline dialogue and feed into 
+subsequent efforts of measuring and monitoring skills at large and at the European level. 
+                                                      
+1 http://ec.europa.eu/social/main.jsp?catId=1223 
+2https://ec.europa.eu/commission/priorities/deeper-and-fairer-economic-and-monetary-union/european-pillar-
+social-rights_en 
+3 https://www.oecd.org/employment/skills-for-employment-indicators.htm 
+4https://www.oecd.org/employment/getting-skills-right-skills-for-jobs-indicators-9789264277878-en.htm  
+5 https://skillspanorama.cedefop.europa.eu/en/indicators/european-skills-index
+<<<PAGE=8>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+5 
+2. How the concepts are used in different disciplines 
+There are differences, both within and across disciplines, in how the concepts of skills and 
+competences are defined and linked to each other, and in the purposes for which they are 
+used (see Green 2011 and Payne 2017).  
+The economic concept of skill is broadly related to that of human capital,  which 
+encompasses all individual attributes that have a market value (Green, 2013). In 
+economics, skills are used to explain or account for a variety of phenomena such as wage 
+inequality, economic growth or organizational performance (e.g., Hanushek and 
+Woessmann 2012; Hanushek et al., 2015). Recent applied economic research has shown 
+that, besides ‘cognitive skills’, the so-called ‘non-cognitive skills’ and personality traits also 
+play an important economic role (e.g., Heineck and Anger, 2010, Heckman, 2012). In 
+general, the term competence is not often used in this literature. 
+In economics, the term skill is also used as a defining element of occupations, which are in 
+turn typically related to the concepts of division of labour. For example, the International 
+Standard Classification of Occupations by the International Labour Organisation defines 
+skill as “the ability to carry out the tasks and duties of a given job”, and di stinguishes 
+between skill level  and skill specialization  to classify different occupations (ILO 2012). 
+From a sociological perspective, skills in relation to occupations are one of the 
+determinants of the position that individuals occupy in the social stru cture, or social class 
+(Vallas 1990; Warhurst et al. 2017). 
+In contrast, in psychology and education the focus is generally on how learning outcomes 
+are achieved and can be enhanced. What is seen as an input in economics and sociology is 
+seen as an output in psychology and education. Hence the need in these areas to 
+disentangle the components of learning outcomes and to come up with the more 
+comprehensive concept of competence, which encompasses knowledge, skills and 
+attitudes as elements that can be acquir ed and developed in education and training 
+episodes. Even within these disciplines, there is no broadly accepted definition of 
+competence, let alone a unifying theory (Weinert 2001; Delamare Le Deist and Winterton 
+2005; Winterton et al. 2006). 
+To some exte nt, skills in economics is conceptually similar to competence in psychology 
+and education (Green, 2011), and as previously mentioned the two terms are often used 
+interchangeably. However, they are not identical concepts and using them as synonyms 
+can lead to confusion. In educational research, skills are a component of competences.  
+Although knowledge and attitudes are also attributes of individuals with clear economic 
+value, they are fundamentally different from skills in the way they are acquired and 
+applied to tasks in labour markets. 6 A clear demarcation of each of those concepts is 
+necessary to inform education and training systems, but also to correctly interpret 
+changes in labour markets in terms of their implicit skills demands. 
+3. Main definitions and conceptual framework 
+This section provides definitions for the concepts of task, skill, and competence which 
+are used throughout the paper and introduces the links between them. These concepts 
+                                                      
+6 A concept that is strongly linked to skills and which has become increasingly popular within labour economics 
+lately is that of tasks (Autor 2013). A task can be simply defined as a unit of work activity that produces 
+output; from this perspective, a skill can be defined as the ability to perform a particular type of task, 
+consistently with the ILO definition. This approach opens up the possibility of a conceptualisation and 
+classification of skills that is anchored in what people actually do at work, and thus can be used to bridge the 
+supply side concept of skills (linked to competence development) and the demand side of tasks (linked to the 
+performance of work).
+<<<PAGE=9>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+6 
+refer to attributes of individuals (skill and competence) or to  the activities that they carry 
+out (tasks and occupations). 
+In this sense, the two groups of concepts refer to the supply and demand sides of the 
+labour market. On the supply side, we have concepts such as skill or competence, which 
+apply to individuals and refer to potentialities, that is, to abilities to do something. On the 
+demand side, we have concepts such as tasks, tasks bundles, and jobs, which apply to 
+activities carried out by individuals and refer to s pecific acts of transformation  within the 
+context of economic organisations (i.e., labour inputs into production processes).  
+Although both sides are distinct, they are necessarily linked and to a large extent 
+correspond to each other in ways that we will discuss later: for instance, a skill (supply 
+side) is an ability to perform a specific task (demand side); a cluster of tasks  (demand 
+side) can be associated to a competence (supply side). 
+ 
+3.1 The underlying relation between tasks and skills 
+Tasks 
+From a material perspective, the economy is a process of transforming inputs into outputs 
+which have economic value. Work is an input in this process, and tasks are more or less 
+discrete units of work that contribute to produce the final output (Autor, 2013)7. 
+In analytical terms, the level of granularity o r discreteness of the concept of task is 
+arbitrary. In practice, it depends mainly on the complexity of the economic process and on 
+the forms of work organisation that hold in each moment of history and even in each 
+industry, sector or firm. For instance, Taylorism as a form of work organisation explicitly 
+aimed at discretising, standardising and simplifying as much as possible the tasks of each 
+worker, in order to increase the degree of managerial control of the labour process, reduce 
+wages and increase efficiency (Braverman 1974).  
+In other words, the idea of tasks as the smallest unit of labour input presupposes a degree 
+of structure and differentiation that is the deliberate result of a historical process of work 
+organisation and division of labour. In i tself, work as transformative activity need not be 
+split into tasks, but can be continuous and undifferentiated. The breakdown of work into 
+tasks, especially as it accelerated during the Industrial Revolution, is associated with gains 
+from specialisation a nd exchange. This phenomenon is secularly increasing in the 
+economic process as a whole, because of the unfolding of the division of labour and 
+growing economic complexity. 
+Although the differentiation of labour into tasks is historically determined by the  division 
+of labour and economic complexity, the level at which tasks are defined analytically is 
+arbitrary and ultimately depends on the research objectives. A task can be defined at the 
+most discrete level possible: a very small unit of labour input with in a very specific 
+transformation process, such as fastening a screw or writing an e -mail.  It can also be 
+defined as a complex cluster of different sub -tasks, such as factory assembly, or 
+managing correspondence. In fact, we could go as far as considering the economic process 
+                                                      
+7 The main proponent of the tasks approach, David Autor, uses the concept at a level of generality that does 
+not specify whether the task has to be performed by humans or not (it could be performed by a robot, or by an 
+animal). This is intentional, because it allows to explicitly discuss under which conditions will the task will be 
+performed by a human: assuming technological feasibility, whether a task is performed by a human or by a 
+machine depends on the relative cost of each alternative. For us, this is problematic because machines lack 
+real agency, and thus they can always be understood as tools used by some human worker, who would be the 
+one providing the labour input in the last instance. In this paper, tasks are assumed to refer always to human 
+input following the approach of Fernández-Macías and Bisello 2020.
+<<<PAGE=10>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+7 
+as a unique all -encompassing and very complex task. However, for definition and 
+classification purposes it is useful to regard them at their most discrete level possible.  
+Therefore, we define task as a discrete unit of work activity that contributes to the 
+production of economic output. To classify tasks, we use the taxonomy proposed by 
+Fernández-Macías and Bisello (2020) that is organised along the dimensions of content 
+and method (see  Figure 1 below).  
+The first dimension refers to the content of the tasks themselves, which is what people 
+do at work. It is based on the object that is transformed in the production process (things, 
+ideas or social relations) and on the type of processing involved (which is strongly linked to 
+the types of skills required).  
+At the highest level of generality, this taxonomy differentiates three domains or categories 
+of task contents: i) physical tasks (that operate on things), further subdivided into strength, 
+dexterity and navig ation; ii) intellectual tasks (that operate on ideas), subdivided into 
+information processing and problem solving; and iii) social tasks (that operate on people), 
+subdivided into serving, teaching, selling, managing and caring. Within each of these high -
+level categories, different subcategories of tasks are differentiated based on their typical 
+skills requirements, with further low -level indicators under each of the subcategories. 
+Although there is an obvious arbitrary aspect in the selection of categories and the 
+boundaries between them, this proposal reflects the main elements identified in the 
+specialised literature on this subject (see Fernández-Macías and Bisello 2020). 
+The second dimension of this taxonomy refers to the methods and tools  used to 
+perform those tasks (how people work) and reflect the forms of work organisation and 
+technology used in production. See Figure 1 below for more details on this task 
+classification. 
+Implicit in the classification shown above is the fact t hat, even though they are defined as 
+discrete and distinct units of work, tasks can be related to each other by similarity. The 
+reason behind this similarity is that different tasks can share some key properties, most 
+importantly with respect to the object  on which they operate (things, ideas or people) and 
+the type of transformation process they entail (for instance, all codified information 
+processing literacy tasks involve cognitive processes such as comprehension and 
+expression operating on different ty pes of text). These relations of similarity between 
+tasks allow us to classify them as in Figure 1, and is also reflected in relationships 
+between skills and competences that we will discuss later.
+<<<PAGE=11>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+8 
+Figure 1 - A classification of tasks according to their contents and methods 
+A. In terms of the content of work 
+1. Physical tasks 
+a. Strength 
+b. Dexterity 
+c. Navigation 
+2. Intellectual tasks 
+a. Information processing 
+i. Processing of uncodified 
+information 
+ii. Processing of codified 
+information 
+1. Literacy 
+a. Business 
+b. Technical 
+c. Humanities 
+2. Numeracy 
+a. Accounting 
+b. Analytic 
+b. Problem solving 
+i. Information gathering 
+1. Information search 
+and retrieval 
+2. Conceptualization, 
+learning and 
+abstraction 
+ii. Creativity 
+1. Creativity 
+2. Planning 
+3. Social tasks 
+a. Serving/attending 
+b. Teaching/training 
+c. Selling/influencing 
+d. Managing/coordinating 
+B. In terms of the methods and tools of work 
+1. Methods (work organisation) 
+a. Autonomy 
+i. Latitude 
+ii. Control 
+b. Teamwork 
+c. Routine 
+i. Repetitiveness 
+ii. Standardisation 
+iii. Uncertainty 
+2. Tools (technology) 
+a. Machinery (non-digital) 
+b. Digitally-enabled machines 
+i. Autonomous (robots) 
+ii. Non-autonomous 
+1. Computing devices/ICT 
+a. Basic ICT 
+b. Advanced ICT 
+c. Specialised ICT 
+2. Others 
+ 
+Source: Fernández-Macías and Bisello (2020)
+<<<PAGE=12>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+9 
+Skills 
+Skill can be generally defined as the ability to per form a task well. Although a skill is an 
+attribute of individuals, it necessarily refers to a specific activity (or as we are saying, act 
+of transformation). In our context, the specific act of transformation that the concept of 
+skill refers to is a discre te task within a particular work process. Therefore, each task has 
+an associated skill and its completion is skill-dependent.8 
+For our current purposes, skills have two crucial features: 
+1. A skill can be graded depending on how well the task is performed. In other words, skill 
+is a relative concept, as one can be very skilled or not very skilled in doing something. 
+This gradation is specific to each type of task.  
+2. A skill is something that is acquired and that can be improved by different means, 
+mostly by learning and practising. 
+Because skills are directly related to tasks, we can classify them in a way analogous to the 
+one presented earlier in Figure 1, along three categories: 
+1. Physical skills: ability to do well physical tasks, involving strength or dexterity.  
+2. Intellectual (or cognitive) skills: ability to do well intellectual tasks, involving information 
+processing or problem-solving. 
+3. Social skills: ability to do well social tasks, involving attending, teaching, influencing or 
+managing. 
+Depending on the degree of granularity or discreteness aimed for, we could construct skills 
+classifications and indicators at different levels of the tasks framework presented in 
+Figure 1. 
+The methods and tools dimension of the tasks framework refers to how rather than what 
+is done at work, and therefore there is not such a clear skills equivalency. However, there 
+can be skills associated with those categories too, to the extent that operating wi th a 
+particular tool, or under a particular form of work organisation, involves also physical, 
+intellectual or social tasks. For instance, operating with computers requires some physical 
+dexterity skills (for typing), intellectual information -processing skills, and problem -solving 
+skills. Working in teams requires some social skills. 
+Skills hierarchy  
+Skills can also differ in complexity. A more complex skill is one that incorporates or 
+requires mastering lower-level skills. In other words, less complex ski lls are enablers of or 
+pre-requisites to the acquisition of more complex skills.  
+This complexity property of skills implies a vertical or hierarchical relation between skills, 
+in two possible ways:  
+ Development, whereby one skill may develop into a more complex one (Panel A of 
+Figure 2). 
+ Aggregation, whereby two or more skills are combined into a more complex one 
+(Panel B of Figure 2). 
+An example of a complex skill developed from a simpler one could be a very specific 
+numeracy skill, for instance making powers of a number: this skill requires having acquired 
+first the skills of multiplying, which in turn requires having mastered adding. An example 
+of a complex skill aggregated  from many lower -level skills could be programming, which 
+                                                      
+8 This definition of skill is very broad and abstract and, therefore, it could refer to a person or a machine. For 
+instance, an Artificial Intelligence (AI) agent could be skilled in the performance of a specific task. However, as 
+previously mentioned the fact that machines lack agency makes this concept problematic, and in any case all 
+the discussion in this paper refers to human beings.
+<<<PAGE=13>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+10 
+requires both literacy and numeracy skills, on top of technical skills related to the use of 
+digital tools.9 
+Based on this relation of hierarchy between skills, they can be classified and compared 
+according to their complexity. Simple skills are those that do not require mastering 
+additional lower-level skills; the more low -level skills are required for mastering a given 
+skill, the highest its complexity. Also, we can call basic or foundational skills those that are 
+necessary for acquiring many important higher-level skills.  
+Figure 2 - Examples of vertical/hierarchical relations between skills 
+ 
+Skills transferability 
+Although the concept of skill is specific to a particular task, skills can be laterally 
+transferable to other tasks insofar as those tasks share some properties. The 
+transferability of skills across tasks requires necessarily some common properties in the 
+related tasks, but these common properties may not be obvious at all. 
+The degree of transferability between skills varies, depending on the similarity between 
+the tasks considered. Some skills may have limited transferability because they relate to 
+tasks whose properties make them peculiar (so that there are few similar tasks). Some 
+other skills may relate to tasks whose properties apply to many other tasks, and thus 
+those skills will have a high transferability. The range of different skills to which a skill 
+may be transferable indicates how general or specific a skill is. 
+Based on this transferability attribute, and consistently with the literature,  we adopt one 
+additional dimension to classify skills: 
+ Generic skills are transferable to many similar tasks (to varying degrees). 
+ Specific skills apply only to a specific task and therefore are not transferable. 
+Ultimately, skills generality can be understood as a continuum, ranging from very task -
+specific skills to very generic skills.  
+Tasks and skills domains 
+We previously defined task as a discrete unit of work act ivity that contributes to the 
+production of economic value, and skill as the ability to perform a task well. Figure 3 
+represents how tasks and skills are linked, in a very simplified way. As explained above, to 
+each task correspond s one skill and the (horizontal) distance between tasks (skills) 
+                                                      
+9 Unlike skills, it does not make sense to characterise tasks as more or less complex because they are simply 
+units of work in a production process that do not have a hierarchical position as such. If anything, the skill 
+required to perform a task may be more or less complex. For instance, suppose the task of making the power 
+of numbers. The skill to do that requires having mastered the skill of multiplication and before that the skill of 
+addition. However, the task itself does not require actually adding and multiplying numbers. 
+ 
+  
+Complexity 
+Panel B – Aggregation 
+ 
+ 
+Complexity 
+Panel A – Development
+<<<PAGE=14>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+11 
+indicates the similarity (transferability) between them. 10 The complexity axis is only 
+present in the skills space and for simplicity we only consider two levels: basic and 
+complex skills. In this example, skills C, D and E are basic ones while skills A, B, and F are 
+complex ones. 
+Figure 3 - An example of tasks and skills spaces  
+ 
+The tasks represented in Figure 3 can be cluster ed by similarity, represented by their 
+horizontal proximity. For instance, tasks a, b and c above can be put together in a cluster, 
+task d in another, and tasks e and f in a third one. We refer to any cluster of tasks as a 
+task domain. By analogy, a skill domain can be defined as the corresponding cluster of 
+skills (and their associated lower -level skills). Again, in Figure 3 we could identify three 
+clusters of skills or  skills domains  (A, B and C; D; and E and F). In Figure 4 below, we 
+present other examples of task and skill domains. 
+Figure 4 - Examples of tasks and skills domains 
+ 
+Even though all task domains  depicted are formed by three tasks, the corresponding 
+skill domains are very different. The domain in Panel B is composed of tasks that only 
+require basic skills, while the domain in panel A is formed by tasks that require three basic 
+and two complex skills, and the domain in panel C requires fo ur basic and one complex 
+skill. Apart from the number of skills and their complexity, a crucial difference between the 
+domains is how similar are the tasks involved. While in the domain represented in Panel A 
+the tasks are very similar, in Panels B and C t hey are quite dissimilar, as represented by 
+the horizontal distance between them.  
+  
+                                                      
+10 In the diagram, there are more skills than tasks simply because some of the tasks depicted here require 
+complex skills, which themselves build on basic skills. The tasks corresponding to these basic skills are not 
+represented.
+<<<PAGE=15>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+12 
+We can define the main attributes of skill domains as follows: 
+ The complexity of a skills domain is related to the complexity of the skills that 
+compose it. The domain in Panel B is less complex than those in panels C and A. 
+ The consistency of a skills domain depends on the similarity of the tasks that 
+constitute it, and hence on the transferability between the corresponding skills. 
+The domain in Panel A is highly consistent because the tasks are similar among 
+them and the related skills are to a great extent transferable. In contrast, the 
+domains in Panels B and C are less consistent because the necessary skills to 
+perform well in the domain are also quite distinct (and less transferable).  
+The attributes of complexity and consistency only apply to skills domains, but since every 
+skill has an associated task, they can be also indirectly applied to task domains. In other 
+words, a task domain whose associated skills domain is complex but consistent can also 
+be considered as a complex and consistent task domain. 
+Since we have defined (task or skill) domain just as a cluster of tasks or skills, any domain 
+is conceivable in principle. But only domains that have some degree of cons istency have 
+practical value, and they are implicitly used by organisations to structure labour input into 
+production (resulting in jobs or occupations, which are consistent clusters of tasks, more 
+on this later) and by educational systems to organise the learning process (resulting in 
+competences and curricula, which are consistent clusters of skills). An example of skills 
+domain with practical value is “digital skills”, which can be defined as a cluster of 
+transferable and hierarchically related skills li nked to the performance of tasks involving 
+digital tools. 
+ 
+3.2 Competences  
+We can now define competence as a general ability to do well in a particular task 
+domain. By definition, there can be as many competences as task domains can be defined.  
+It is imp ortant to note that the concept of competence is related but not synonymous to 
+the concept of skills domain, because it includes much more than just a cluster of skills. 
+This is because “to do well in a particular task domain” requires not only to have a number 
+of specific skills, but also to have a general understanding of the domain (knowledge) as 
+well as certain attitudes that help to do well in that domain. Thus, there are the three 
+elements of competence: 
+1. A set of key skills for the domain . Notice that  a task domain can contain a 
+potentially infinite number of tasks, and it is thus impossible for any person to be 
+skilled in every possible task within a domain, strictly speaking. 11 The individual 
+must possess some key skills in the domain; the transferabi lity property of skills 
+should enable her to deal with other (similar) tasks in that domain. 
+2. A general knowledge of the domain,  that enables an understanding of the object 
+and transformation processes of the tasks involved, which will allow to respond 
+better to new tasks or situations of uncertainty that may emerge in the domain.  
+3. A particular set of attitudes  which are beneficial for performance in the domain 
+and to act when confronted with uncertainty in the domain. 
+These components are what enable someon e to successfully confront different and 
+uncertain challenges and tasks in a particular domain. For instance, being digitally 
+competent does not mean having all the possible skills in the digital domain, but having a 
+certain level of key skills in the digi tal domain, some general knowledge of that domain 
+                                                      
+11 That is why in the definition, we say that competence is “a general ability to do well in a particular task 
+domain”, rather than “being skilled in all tasks of a particular domain”.
+<<<PAGE=16>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+13 
+and a particular set of attitudes (such as attention to detail, openness to change, or 
+capacity to focus) that are useful to confront different tasks and situations in the digital 
+domain.  
+The properties that we previously used to characterise skills (and indirectly tasks) domains 
+(consistency and complexity) are directly related to the difficulty of attaining competence 
+in a domain. In general, the more complex and the less consistent a domain is, the more 
+difficult it will be to attain competence in such a domain, because the requirements in 
+terms of skills, knowledge and attitudes necessary for the associated competence will be 
+more demanding. 
+Knowledge 
+For our purposes,  knowledge is the cognitive outcome of an assimilation of facts and 
+figures, concepts, ideas and theories which are already established ( know-what) about a 
+domain. Knowledge can be acquired and developed in the context of the formal education 
+system, in so -called non-formal learning settings  – structured learning outside the 
+education system, such as workplace training – and in informal settings through one’s life 
+experience.  
+Because we restrict the definition of skill to a specific task or work activity, a skill does not 
+necessarily require  knowledge. It is possible to have “the ability to do a task” without 
+knowing facts, figures, ideas and theories. An “operational'” knowledge that allows carrying 
+out the task well can be enough. However, since competence refers to the ability of doing 
+well many different tasks in a domain (potentially including situations that the person may 
+never have confronted before), some knowledge of the domain is necessary. Knowledge 
+supports the transferability of skills to similar tasks, the capacity to respond to uncertainty 
+and to find solutions to new problems in a domain.  
+Attitudes 
+In our context, attitudes can be defined as any personality trait that can be learned (i.e., 
+not innate) and that contributes to a more effective performance in a domain. 12 Attitudes 
+are of a psychological, emotional and behavioural nature, rather than of a cognitive or 
+operational nature (contrary to skills or knowledge). While they can evolve over the life 
+course, attitudes are mostly acquired in childhood and remain relatively stab le attributes 
+for adult individuals (Caspi et al. 2005).  
+In some cases, it may be difficult to differentiate attitudes from skills, since both can be 
+learned and can be beneficial for the performance of a task or set of tasks. For instance, 
+social tasks o ften require empathy; since empathy can be trained, it can be considered a 
+skill; but it is also a psychological trait rather than an operational ability, and thus it can be 
+considered an attitude. Here we refer to attitudes as pre -dispositions to act in a particular 
+way and that are relevant for the performance in a task domain rather than a specific 
+ability to perform a task as such. In practice, the same trait can be considered an attitude 
+or a skill depending on the specific task or domain in question. For instance, for the task of 
+providing psychological care, empathy can be considered a skill; whereas for statistical 
+analysis empathy can be a desirable attribute for a better competence, but it cannot be 
+considered a skill since statistical work does not require empathy as such. 
+Attitudes are more general than skills and knowledge. Whereas skills are by definition 
+linked directly to specific tasks, and knowledge refers to objects and processes linked to a 
+                                                      
+12 One could argue that attitudes can also affect skill, i.e. the ability to perform a specific task. However, since 
+we have made a narrow and technical definition of tasks, the effect of attitudes would be marginal at that 
+level, while they would be very relevant at the level of competence, which involves dealing with more 
+uncertainty and complexity.
+<<<PAGE=17>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+14 
+particular domain, attitudes are not task - or dom ain-specific. What is specific to each 
+domain is the relative importance or relevance of specific attitudes for doing well in such 
+a domain. For instance, concern for others can be an important attitude for teachers, but 
+irrelevant for software developers; whereas openness to change can be a positive attitude 
+in many different domains.  
+The concept of attitudes as a component of competence is similar to other concepts used 
+in occupational or psychological research. For instance, the O*NET occupational datab ase  
+describes 16 “work styles” as personal characteristics that can affect how well someone 
+performs a job: achievement/effort; adaptability/flexibility; analytical thinking; attention to 
+detail; concern for others; cooperation; dependability; independenc e; initiative; innovation; 
+integrity; leadership; persistence; self-control; social orientation and stress tolerance. 
+A production function approach to the concept of competence 
+Building on the previous ideas, we can use a production function approach to d iscuss and 
+study the concept of competence. In general, the competence of individual i in the domain 
+j would be given by: 
+𝐶𝑖𝑗 = 𝑔(𝐸𝑖𝑗). 𝑓(𝑆𝑖𝑗, 𝐾𝑖𝑗, 𝐴𝑖𝑗) 
+Where 𝑆𝑖𝑗, 𝐾𝑖𝑗, 𝐴𝑖𝑗 stand for skills, knowledge and attitudes, respectively. The other 
+component of competence, 𝐸𝑖𝑗, is an efficiency term, inspired by total factor productivi ty 
+in the standard production function in economics. This efficiency term implies that, for 
+equal amounts of the remaining components, there could be different competence levels 
+depending on how efficiently the components are combined. 
+We propose that this efficiency term can be linked to the concept of expertise, which can 
+increase competence for a given level of skills, knowledge and attitudes by improving the 
+efficiency of their use. Expertise involves a deeper understanding of the domain’s 
+processes and  context that can be acquired mainly by accumulating experience in the 
+domain, rather than in learning contexts. We will come back to this concept of expertise 
+later, when we present a life-course approach to skills and competences. 
+The functional form f should have the following properties: 
+ Allow for the components’ substitution; 
+ Be multiplicative, so that a balanced combination of components yields a better 
+outcome; 
+ Allow each component to have different weights. 
+A Cobb-Douglas production function encompasses all these features and could be used to 
+illustrate a particular example of the desired production function: 
+𝐶𝑖𝑗 = 𝑔(𝐸𝑖𝑗 )𝑆𝑖𝑗
+𝛼𝐾𝑖𝑗
+𝛽𝐴𝑖𝑗
+𝛾  
+This production function is general enough to encompass different weights ( 𝛼, 𝛽, 𝑎𝑛𝑑 𝛾) 
+for each of the components, so that in some domain skills can be more important than 
+attitudes, while in other domains knowledge can be more important than skills, etc.  
+Depending on the rate of substitution between the components, we can have similar levels 
+of competence with different combinations of its components. 
+Thus, competence can be modelled as a continuous variable that results from the 
+combination of its components and can change due to shifts either in the efficiency term 
+or in some  component. In Section 4, we introduce a dynamic perspective to these supply 
+side concepts, by taking a life course perspective.
+<<<PAGE=18>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+15 
+3.3 Jobs as a special type of task domain 
+The conceptual framework proposed here defines task as a discrete unit of work act ivity 
+and a task domain as any cluster of tasks. The equivalent concepts in the supply side of 
+the labour market would be skill and competence.  
+At the level of generality of the previous discussion, any task domain is conceivable, 
+including one that encompasses the entire space of tasks. Indeed, there are some possible 
+task domains that would make no sense because they bundle tasks that, in practice, would 
+be impossible to be performed well by any individual (no individual would be able to 
+master all the n ecessary skills, nor acquire all the necessary knowledge and attitudes). In 
+contrast, other possible task domains have a consistency that makes them practical for 
+arranging work patterns in economic organisations. Indeed, economic organisations 
+typically try to bundle the tasks to be performed by workers in a way that is efficient and 
+maximises profit. For an illustration of how tasks are bundled into jobs, see box 1 below.  
+ 
+Box 1: How do organisations bundle tasks into jobs? 
+ 
+Let us suppose that we want to set up a productive organisation to provide some goods to 
+the market, shoes for instance. We initially assume a given amount and type of demand, 
+and a given technology. With those conditions, we will have to combine a number of 
+inputs, including labour. This labour input can be split into a vector of specific tasks that 
+have to be carried out, each with an associated amount of labour input necessary (x 
+amount of working hours for cutting the leather, x amount of hours for sewing, etc; there 
+will also be many administrative, design, marketing and other types of tasks). Let us say 
+there are in total about 1,000 distinct tasks to be carried out, each with their associated 
+necessary labour input. 
+As implied by Ronald Coase in his classic treatise on the nature of the firm (Coase 1937), 
+it would be impossible to contract via the market the labour input to perform each of the 
+tasks individually for a given production process because the coordination costs would be 
+enormous. Therefore, tasks are bundled into jobs to be performed by workers under a 
+labour contract. But how do we bundle tasks in the most efficient way? 
+As previously discussed, the fact that each task requires a different skill, and that skills 
+are related by transferability and hierarchy, suggests that it makes sense to bundle tasks 
+that require related skills. This way, jobs will tend to involve task domains which are 
+consistent, and occupational careers will tend to imply increasing levels of complexity 
+(because mastering low-level skills gives access to related higher-level skills). 
+But for a specific productive organisation, the amount of demand may not allow a very 
+detailed task specialisation (Adam Smith famously argued that the division of labour is 
+limited by the size of the market), and perhaps there will be several jobs requiring skills 
+across different domains (in other words, jobs with inconsistent task domains). Task 
+bundling may also be affected by business strategy: we may prefer to limit task 
+specialisation and hire competent but generalist workers with a high degree of skills and 
+autonomy (for instance, to produce luxury customised shoes), or opt for a Taylorist-type 
+extreme task division limiting generalist skills and autonomy (to produce cheap 
+standardised shoes). There are many other factors that can affect the bundling of tasks 
+into jobs in particular organisations, from industrial relations systems and cultural norms 
+to personal relations. Therefore, jobs will partly, but never perfectly, reflect skill domains. 
+ 
+We can thus define a job as consistent bundle of tasks (or task domain) that is associated 
+with a specific position within an economic organisation, for some level of task 
+consistency. Since we previously defined competence as a general ability to do well in a 
+particular task domain, competence would be the supply -side equivalent to the demand -
+<<<PAGE=19>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+16 
+side concept of job. That is why we speak about a “competent cook” or a “competent 
+mechanic”. 
+Finally, occupations are groups of jobs that are similar in terms of the competences they 
+require and their hierarchical position within organisations. The concept of occupation, 
+which is regularly used to classify jobs in the economy, tends to reflect more directly the 
+complexity of the domains as previously defined, because they are in fact cons tructed as 
+groups of jobs that require similar competence levels. 
+ 
+3.4 A unified conceptual framework of tasks, skills and competences 
+Figure 5 puts together the previously discussed concepts of tasks, skills and co mpetences 
+and illustrates the links between them. This framework classifies the concepts in two 
+sides, depending on whether they refer to the supply or the demand side of the labour 
+market. In the demand side, the key concepts are task, task domain and job, in order of 
+complexity. Tasks are small and discrete units of labour input, task domains are clusters of 
+tasks, and jobs are clusters of tasks used by organisations to structure labour input into 
+their production processes. In the supply side, the concep ts are skills, skill domains and 
+competences, again in order of increasing complexity. Skills are abilities to perform 
+specific tasks, skill domains are clusters of skills linked to task domains, and competences 
+are a combination of skills, knowledge and a ttitudes that allow the worker to do well in a 
+given task domain, or in a job. In this framework, each of the supply-side concepts has one 
+related demand side concept (or two). The relationship between task and skill is strictly 
+one-to-one, as well as the relationship between task domain and skill domain. The 
+demand-side correspondence of the concept of competence is less direct and unequivocal, 
+because it refers to a task domain but there is a certain degree of uncertainty in the 
+definition of such a domain, as previously explained. The concept of competence can apply 
+both to a job (as a particular cluster of tasks, within a productive organisation) and to a 
+task domain. 
+Figure 5 - Conceptual framework for tasks, skills and competences 
+ 
+4. Competence development: a life course perspective 
+As described above, the concepts of competence, skills, knowledge, attitudes and expertise 
+refer to potentialities of individuals. These potentialities evolve over the life course as a 
+Demand side 
+ Supply side 
+Task 
+ Skill 
+Task 
+domain 
+Skill 
+domain 
+Job 
+ Competence 
+Skills 
+Knowledge 
+Attitudes 
+[Expertise]
+<<<PAGE=20>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+17 
+result of learning experiences of a formal, non-formal or informal nature.13  In this section, 
+we follow a life course approach to explore the dynamic aspect of competence and its 
+components.  
+4.1 The acquisition of competences throughout the life course 
+It is well establ ished that individuals have the capacity to learn throughout life. Research 
+in neuroscience shows that learning capacity is particularly high in childhood, when the 
+brain has a very high level of plasticity. Starting in adolescence, the brain structure is 
+consolidated by reinforcing (weakening) the most (least) used synapses. During adulthood 
+this plasticity is reduced, which makes learning still possible albeit more demanding from 
+a cognitive point of view. At this stage, the learning capacity is determine d by the relation 
+between what we attempt to learn and what we already know. If these are too different, 
+the brain structures must be reshaped, which is particularly demanding. Despite this lower 
+plasticity during adulthood (affecting the capacity to learn  new things), cognitive ability 
+and performance are not compromised. In fact, adults tend to show high levels of 
+functionality due to the relative specialisation on specific areas, which makes brain 
+processes more efficient. In sum, through specialisation and experience adults get better 
+at doing what they have already learned.  
+Educational psychology also assumes that individuals maintain a capacity to learn 
+throughout their lives, but at different degrees and in different ways. For instance, during 
+childhood most of the learning is done through “cumulative learning”, whereby new mental 
+schemes or patterns are established. During adolescence and adulthood, most of the 
+learning happens by assimilation and/or accommodation, whereby the result of a new 
+stimulus is generally linked to an existing mental structure, although it can contribute to 
+change it slightly (Piaget 1954). 
+The learning process, or the acquisition and development of competences (skills, 
+knowledge and attitudes), is also affected by genetic and environmental factors. The latter 
+refers to the types of learning environment one is exposed to and includes how frequently 
+what has been learned is practiced in reality. When learning outcomes are not applied (in 
+paid work or any type of activity), they  will not evolve or consolidate as they would if they 
+are applied regularly. If they are only rarely used, they may even depreciate in the long 
+run. 
+4.2 A dynamic competence production function 
+Clearly, the competence in a domain, and its constituents, wil l vary significantly over the 
+life course. Hence, we can add a time dimension to the production function of competence, 
+so that the competence in period t depends on the skills, knowledge, attitudes and 
+expertise at that point in time: 
+𝐶𝑖𝑗𝑡 = 𝑔(𝐸𝑖𝑗𝑡). 𝑓(𝑆𝑖𝑗𝑡, 𝐾𝑖𝑗𝑡, 𝐴𝑖𝑗𝑡) 
+The level of each of these elements ( 𝐸, 𝑆, 𝐾, 𝐴) in period t results from the level in the 
+previous period t-1 and from the experience acquired between t-1 and t (𝐿𝑡): 
+𝑋𝑖𝑗𝑡 = 𝑓(𝑋𝑖𝑗𝑡−1, 𝐿𝑖𝑗𝑡), where 𝑋 = {𝐸, 𝑆, 𝐾, 𝐴} 
+                                                      
+13 We can define these concepts following Cedefop (2014). Formal learning refers to learning occurring in an 
+organised and structured environment (such as in an education or training institution or on the job) and that is 
+explicitly designated as learning (in terms of objectives, time or resources). Formal learning is intentional from 
+the learner’s point of view and it typically leads to certification. Non-formal learning refers to learning which 
+is embedded in planned activities not explicitly designated as learning, but which contain an important learning 
+element. It is intentional from the learner’s point of view and it typically does not lead to certification. 
+Informal learning refers to learning resulting from daily activities related to work, family or leisure. It is not 
+organised or structured in terms of objectives, time or learning support. Informal learning is in most cases 
+unintentional from the learner’s perspective.
+<<<PAGE=21>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+18 
+The experience, 𝐿 (which should not be confused with expertise, E), can be of a positive 
+nature - practicing a competence - or of a negative nature - not practicing a competence. 
+In summary, competence development occurs when either expertise, skills, knowledge and 
+attitudes change over time. The case of expertise is particularly interesting because it 
+allows competence to improve even with constant skills, knowledge and attitudes. One 
+increases expertise by devel oping an in -depth understanding of the domain that allows 
+using resources (skills, knowledge and attitudes) in a more efficient way. An expert can 
+build on accumulated experience to identify the most efficient strategies for dealing with 
+uncertainty in a given task domain.  
+4.3 Representing the development of competence over the life course 
+The development of competence and its constituents is largely specific to each individual, 
+as it depends on individual genetic and environmental factors. However, despit e this 
+diversity, it is possible to articulate a set of general principles that would broadly apply to 
+all individuals. Linking insights from educational psychology and neuroscience to the 
+concepts presented in previous pages, we propose the following typi cal patterns of 
+competence development throughout three main stages of the life course. 
+1. Childhood and adolescence - Period of initial education and training 
+As already discussed, learning starts very early in childhood and it initially comprises 
+mostly basic and general knowledge, skills and attitudes. These basic elements will then 
+be developed into more specific and complex ones as people progress in education and in 
+life. 
+2. Adulthood - Work 
+After initial education and training, most individuals join the la bour market. The 
+knowledge, skills and attitudes accumulated during initial education and training will be 
+put into practice, normally in a specific task domain (or job). In this context, the concept of 
+occupational mismatch (over - and under -education) ref ers to situations in which the 
+competences (knowledge, skills and attitudes) initially accumulated by the individual are 
+not adequate for the job she takes up when joining the labour market. This mismatch can 
+reflect inconsistencies between the educational  system and the available jobs, some 
+dysfunction in the sorting and matching process of individuals to jobs, or individual 
+deficiencies in the processes of competence acquisition or job design (at either side of the 
+market). 
+Whatever the initial level of competence in the domain and the degree of matching to the 
+actual job performed, continuing work activity in a given domain results in further 
+accumulation of skills, knowledge and attitudes relevant for doing well in that domain. In 
+other words, the level of competence in the domain continues to grow. In fact, experience 
+in the domain contributes to an increasing practical understanding and efficiency in that 
+domain, which allows individuals to develop better strategies to operate and cope with 
+uncertainties in that domain. This accumulation of efficiency and practical understanding 
+of the domain is what we have called expertise, and it can only be acquired through 
+experience and thus at work. 
+As individuals age, their cognitive abilities start declining. While this process starts already 
+in early adulthood (as early as the twenties), in many cases it is only apparent in late 
+adulthood because the accumulation of expertise more than compensates the declining 
+cognitive ability with a more efficient use of the available skills and knowledge.  
+3. Old age - Retirement 
+When individuals retire, they are less likely to put their work -related skills into practice, 
+which contributes to their depreciation. Eventually, in the later stages of life, the cognitive
+<<<PAGE=22>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+19 
+abilities decline to an extent that not even expertise is able to compensate (especially if 
+there is no practice), and the overall level of competence in the domain will decline. 
+Following the production function approach proposed earlier, the evolution of competence 
+over the life course would result from the combined effect of all these constituent 
+elements at each point in time. On this basis, we can represent a typical life course 
+development of competence to be as follows: 
+The stage of highest competence growth is typically around the transition from education 
+to work, when expertise also starts being accumulated.  
+Its peak typically occurs when expertise reaches its maximum, after a certain period of 
+experience in the domain. At this point, skills and attitudes are  also likely to be close to 
+their highest, whereas knowledge is likely to have already declined for some time. 
+After this peak towards the second half of the career, the level of competence would 
+typically start a very slow decline driven by dropping knowl edge and skills but contained 
+by continuing peak (or even growing) expertise; after retirement, the decline in competence 
+would be steeper. 
+Figure 6 - An illustration of the development of competence over the life course 
+ 
+Figure 6 provides a stylised depiction of the evolution of competence and its components 
+in a particular domain over the life course, to illustrate some of the ideas discussed so far. 
+For instance, knowledge is mostly accumulated over the initial education period, peaking 
+very early in adulthood and slowly declining over the work period because of growing 
+specialisation. Skills, on the other hand, grow much more slowly before adulthood, because 
+they are mostly acquired by practice in a particular domain, and they tend to peak around 
+the middle of the career, declining more slowly (until retirement, when they would drop 
+fast). Attitudes are difficult to represent (the metric reflects how at titudes contribute to 
+competence in the domain), but we have tried to reflect the fact that in early childhood 
+some of the key attitudes are acquired, and then the more domain -specific attitudes are 
+acquired in the work period. Finally, expertise (correspo nding to the efficiency term in our 
+equation) would only start to grow in the work period, peaking around the time of 
+retirement, and declining much less steeply afterwards. These different paths imply a 
+different effect of the different stages of life on the development of overall competence. 
+In the early years, competence would mostly grow because of knowledge accumulation, 
+while in adulthood skills and expertise would be the main drivers. After the middle of the
+<<<PAGE=23>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+20 
+career, the overall competence level would  be mostly maintained by growing expertise, 
+whereas skills and especially knowledge would tend to contribute negatively in these later 
+years. 
+This description of the development of competence and its components is very general 
+and purely illustrative, but it may apply broadly across domains or jobs, at least in cases 
+where there is a relatively good match between initial education and the labour market, 
+and thus some consistency in the process of competence development. In practice, the 
+actual development o f competences could depart from this ideal type in several ways. 
+First, at the individual level, the specific timing of different evolutions will depend on 
+genetic, nurture, and environment, as well as the opportunities to apply learning. Second, it 
+can vary greatly across domains, depending on the weight that each component has in the 
+formation of competence. For instance, some jobs require mainly practical skills rather 
+than abstract knowledge (e.g. , dexterity), in whose case competence development may 
+follow more closely that of skills. Third and final, the development pictured in  Figure 6  
+assumes a prototypical life course with a highly consistent career, with initial education 
+matching the adult oc cupation, and no significant spells of unemployment or periods of 
+additional adult education. This stylised pattern may be fundamentally altered, by 
+idiosyncratic external shocks driven by either demand or supply factors, or by an increase 
+in lifelong learning. We elaborate some of these points in the next section. 
+The framework presented in this paper can also serve as a blueprint to develop indicators 
+for monitoring skills and competence development at large. An ideal monitoring 
+framework would require an  ad-hoc longitudinal survey, following cohorts of people over 
+their life course to measure the acquisition, development and use of skills and 
+competences. In the absence of such a survey, in Annex B we show that some indicators 
+already available in the Eur opean Statistical system can be used to measure some of the 
+dimensions of the framework described in this paper. 
+5. Some additional illustrations 
+The conceptual framework presented in the previous pages provides consistent definitions 
+and explicit hypotheses about the structure and relationships between the concepts of 
+jobs, tasks, skills and competences. This framework tries to bring together concepts that 
+are normally discussed separately, typically only from the point of view of supply 
+(competences, skills) or demand (jobs, tasks). It also tries to incorporate those concepts 
+into a life -course perspective that is particularly useful to discuss the development of 
+competences over time.  In this section, we present some illustrative applications of this 
+framework to specific concepts or phenomena in the area of skills and human capital. In 
+particular, we will discuss supply -side and demand -side effects in the development of 
+competences that depart from the typical pattern discuss above, as well as the topic of 
+mismatch between supply and demand of skills.  
+Supply-side factors 
+During the period of initial education and training, adolescents may follow a 
+general/academic or a vocational type of education (VET). In both cases, students 
+accumulate skills, knowledge a nd attitudes that are potentially useful for their careers. 
+The main difference is that students in VET are trained for a specific profession and learn 
+from hands-on situations. According to our conceptual framework, this would mean that 
+students in genera l education and those in vocational education develop their 
+competences differently. VET students immediately start accumulating skills and expertise 
+for the job, and they start specialising in one domain earlier in life than those in general 
+education. The accumulation (and importance) of general knowledge in the development 
+of their competences would be lower than for those in general education.
+<<<PAGE=24>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+21 
+During their careers, adults may decide to participate in further training or education. 
+According to Cedefop (2014), adult learning is defined as “general or vocational education 
+provided for adults after initial education and training for professional and/or personal 
+purposes, and which aims to provide general education, provide compensatory learning in 
+basic skills, give access to qualifications or acquire, improve or update knowledge, skills or 
+competences is a specific field”. Adults can also participate in education and training 
+episodes, by their own initiative or through on -the-job training. These episodes aim at 
+refreshing or expanding their skills, knowledge or attitudes, thus increasing their general 
+competence14. Initiatives like the European Skills Agenda are developed to encourage this 
+type of adult learning (e.g., the Upskilling Pathways program 15). In our framework, adult 
+learning would be illustrated by an upward shift in the skills, knowledge or attitudes 
+curves, depending on the type of training followed.  
+Demand-side factors 
+On the demand side, it is important to note that the task contents of a jo b can 
+substantially change during the life of individuals, which may render their initially 
+accumulated competences inadequate for carrying out their tasks. For instance, the 
+introduction of new technologies or a reorganisation of production or work can tr igger a 
+significant change in the task content of a job. In the conceptual framework, the impact of 
+a significant change in the task contents of a job on the competence curve of the 
+individual can be represented as a sudden drop in the relevant curves, to the extent that 
+the stock of expertise, skills, knowledge or attitudes of the individual is not so relevant 
+anymore for the job. It is important to remember that the competence curves represent 
+the development of competence and its components for a particu lar task domain or job: if 
+the task domain changes, the curves necessarily change as well. Periods of adult 
+education or training can bring up the curves again, or experience; or the drop can have 
+long-term effects on the competences of the worker.  
+Supply-Demand matching factors 
+Cedefop (2014) defines skills mismatch as the “situation of imbalance in which the level 
+or type of skills available does not correspond to labour market needs.” Following our 
+framework, we would argue that the level at which the c oncept of mismatch should be 
+discussed is at the level of competences relative to the jobs (and their associated tasks). 
+Our concept would also imply that the mismatch can differently affect the components of 
+competences, namely skills, knowledge or attitudes. 
+A specific case of mismatch is when the worker cannot find a job according to her initial 
+education, i.e., a trained doctor has to work as a waiter because she cannot find any job as 
+a doctor. In this case, the typical development illustrated earlier in Figure 6 would not 
+apply. We could picture this situation with two separate curves. The first case 
+(underutilised competence) would be identical to Figure 6 until the adulthood period, when 
+the absence of any practical application of these competences would lead to a decline in 
+skills and knowledge and no expertise accumulation; in other words, a decline in the 
+overall competence curve from the adulthood period. Since the frustrated doctor would 
+work as a waiter, she would develop the associated competences, which we could picture 
+with a second set of curves. In this case, there would be no initial competence 
+development before adulthood, because there was no training at all for the waiting 
+profession. There would also be a steep accumulation of competence in the beginning of 
+                                                      
+14 The terms up-skill or re-skill are commonly used, but here we refer to upgrade and increase competences as 
+a whole.  
+15 Council Recommendation of 19 December 2016 on Upskilling Pathways: New Opportunities for Adults OJ C 
+484, 24.12.2016, p. 1–6 .
+<<<PAGE=25>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+22 
+the adult period (mostly of a practical skill nature), coinciding with the necessity of 
+learning in the practice of a job for which there was no previous preparation. 
+6. Conclusions 
+There are two main motivations behind this paper. On the one hand, it tries to address the 
+confusion and conceptual inconsistency that, in our view, is often found in policy 
+documents and papers on the subject of skills and competences. On the other hand, it 
+attempts to provide explicit concepts and links for bridging the analysis of the supply and 
+the demand side of skills, in education systems and the labour market respectively. In our 
+view, the acceleration of technical change in the economy associated with t he digital 
+revolution makes increasingly important to integrate the demand and supply perspectives 
+in any analysis of skills and competences. 
+The cornerstone of our proposal is the strong and direct link that can be established 
+between the concepts of task and skill: a skill is the ability to do a task well. On this simple 
+basis, it is possible to establish a series of equivalencies between the supply and demand 
+side of skills and tasks that provide the basic structure of our framework. The equivalency 
+between tasks and skills also allows using task taxonomies to classify the corresponding 
+skills in a very practical way. 
+In this framework, competence is a much broader concept than skill, because it implies 
+being able to cope not only with a number of predefined tasks but also with uncertainty in 
+a given domain. This uncertainty, which is an important element in all real -life 
+employment contexts, is what explains the importance of the other elements – beyond 
+skills – that make up competence: knowledge, attitudes, and expertise. The acquisition and 
+development of competence, which in our proposal is always domain -specific, takes place 
+throughout the life-course, with the different components growing or declining separately 
+in different periods. Typically, initia l education at a young age develops mostly the 
+components of knowledge and attitudes, whereas skills mostly develop (and consolidate) 
+with their application in an actual work context and expertise accumulates slowly with 
+work experience. The overall level of competence of a person in a given domain at a given 
+time is an aggregate function of these different components, and can be affected by 
+different events such as a change in task content (for instance as a result of technical 
+change) which can make some skills obsolete, career shifts or spells of adult education. 
+The framework proposed in this paper, thus, has a quasi -symmetrical structure that builds 
+upon the basic equivalence between tasks and skills. On each side, tasks and skills cluster 
+into domains. Since any domain can incorporate uncertainty in the undefined space that 
+lies between its component tasks, these domains become the real -world concepts of job 
+(as a particular task domain embedded in the division of labour of an economic 
+organisation) and competence (as a general ability to do well in a given task domain). 
+As previously discussed, competences encompass other elements beyond skills. In this 
+paper, we proposed a production function approach to operationalise this framework, with 
+competence being a function of knowledge, skills and attitudes relevant to a given domain, 
+with expertise added as an efficiency term since it entails a better use of the available 
+cognitive resources, and which is acquired by long -term practice. This operationalisati on 
+can also be applied dynamically to the development of competence in a given domain over 
+the life-course, as proposed in the last section of this paper with a number of illustrations.
+<<<PAGE=26>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+23 
+References  
+Autor, D. (2013). The “task approach” to labour markets: an overview. Technical Report, 
+National Bureau of Economic Research 
+Caspi, A., Roberts, B. W., & Shiner, R. L. (2005). Personality development: Stability and 
+change. Annu. Rev. Psychol., 56, 453-484.  
+Cedefop (2014). Terminology of European education and training policy. A selection of 130 
+terms. Luxembourg: Publications Office of the European Union 
+Delamare Le Deist, F. and Winterton, J. (2005). What is competence? Human Resource 
+Development International, vol. 8 (1), 27-46 
+Deming, D., and Kahn, L. B. "Ski ll requirements across firms and labor markets: Evidence 
+from job postings for professionals." Journal of Labor Economics 36, no. S1 (2018): S337 -
+S369. 
+ESTAT/EMPL (2016). Statistical approaches to the measurement of skills . Eurostat 
+Statistical Working Papers, Luxembourg: Publications Office of the European Union 
+Eurostat (2017). Towards a harmonised methodology for statistical indicators. Part 3 - 
+Relevance of indicators for policy making. Eurostat Manuals and Guidelines, Luxembourg: 
+Publications Office of the European Union 
+Fernández-Macias and Bisello (2017). Measuring the content and methods of work: A 
+comprehensive task framework. Technical Report, European Foundation for the 
+Improvement of Living and Working Conditions 
+Green, F. (2011). What is skill? An inter-disciplinary synthesis. LLAKES Research Paper 20 
+Green, F. (2013). Skills and Skilled Work. An Economic and Social Analysis. Oxford 
+University Press 
+Hanushek, E. and Woessmann, L. (2012). Do better schools lead to more growth? Cognitive 
+skills, economic outcomes and causation. Journal of Economic Growth , vol. 17 (4), 267 -
+321 
+Hanushek, E., Schwerdt, G., Wiederhold, S. and Woessmann, L. (2015). Returns to Skills 
+around the World: Evidence from PIAAC. European Economic Review, vol. 73, pp. 103-130  
+Heckman, James J. (2012). Hard evidence on soft skills. Labour Economics, vol. 19 (4), 
+451-464 
+Heineck, G. and Anger, S. (2010). The returns to cognitive abilities and personality traits in 
+Germany. Labour Economics, vol. 17 (3), 535-546 
+International Standard Classification of Occupations: ISCO-08 / International Labour Office, 
+- Geneva: ILO, 2012 
+OECD (1998). Human Capital Investment: An international Comparison. OECD Publishing 
+OECD (2013). The Survey of Adult Skills: Reader’s Companion, OECD Publishing 
+OECD (2002), DEELSA/ED/CERI/CD(2002). Definition and selection of competences 
+(DESECO): Theoretical and conceptual foundations: Strategy paper. OECD Publishing 
+OECD (2018). The future of Education and Skills - Education 2030. OECD Publishing (link) 
+Tijdens KG, Beblavý M, Thum -Thysen A (2018) Skill mismatch comparing e ducational 
+requirements vs attainments by occupation, International Journal of Manpower, 39(8), 
+997-1009 
+https://www.emeraldinsight.com/doi/full/10.1108/IJM-10-2018-0328
+<<<PAGE=27>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+24 
+Vallas, S. P. (1990). The Concept of Skill: A Critical Review. Work and Occupations , vol. 
+17(4), 379–398 
+Warhust, Chris, et al. (ed.). The Oxford Handbook of Skills and Training . Oxford University 
+Press, 2017 
+Weinert, F. E. (2001). Concept of competence: A conc eptual clarification. In D. S. Rychen & 
+L. H. Salganik (Eds.), Defining and selecting key competencies (pp. 45-65). Ashland, OH, US: 
+Hogrefe & Huber Publishers. 
+Winterton, J. (2011). Competence in European Policy Instruments: A moving target for 
+developing a national qualifications framework? Journal of Contemporary Educational 
+Studies, vol. 5, 72-87 
+Winterton, J., Delamare -Le Deist, F. and Stringfellow, E. (2006). Typology of knowledge, 
+skills and competences: clarification of the concept and prototype.  Cedefop Reference 
+series 64. Luxembourg: Office for Official Publications of the European Communities
+<<<PAGE=28>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+25 
+Annex 
+Annex A – Definitions of competence and skills in documents by the European 
+Commission and the OECD 
+Source Competence Skill 
+Cedefop 
+(2014) 
+Competence is the ability to apply learning 
+outcomes adequately in a defined context 
+(education, work, personal or professional 
+development) and is not limited to cognitive 
+elements, but also encompasses functional 
+aspects and interpersonal attributes and 
+ethical values. 
+Ability to apply knowledge and 
+use know-how to complete 
+tasks and solve problems. 
+Key 
+Competences 
+for Lifelong 
+learning 
+Competence are conceptualized as a 
+combination of knowledge, skills and 
+attitudes; where attitudes are dispositions 
+and mind-set to act/react to ideas, persons 
+or situations and also include values, 
+thoughts and beliefs. 
+Ability and capacity to carry 
+out processes and use the 
+existing knowledge to achieve 
+results 
+European 
+Qualification 
+Framework 
+Proven ability to use knowledge, skills and 
+personal, social and/or methodological 
+abilities, in work or study situations and in a 
+professional and personal development. 
+Competence is described in terms of 
+responsibility and autonomy. 
+Ability to apply knowledge and 
+use know-how to complete 
+tasks and solve problems. 
+Skills are described as 
+cognitive or practical. 
+ESCO16[1] The ESCO skills pillar distinguishes between i) skill/competence concepts and 
+ii) knowledge concepts by indicating the skill type. There is however no 
+distinction between skills and competences. 
+Skills 
+Panorama 
+(Cedefop) 
+Proven ability to use knowledge, skills and 
+personal, social and/or methodological 
+abilities, in work or study situations and in 
+professional and personal development 
+Ability to apply knowledge, use 
+know-how to complete tasks 
+and solve problems and carry 
+out tasks that comprise a 
+particular job. 
+                                                      
+16 ESCO - European Skills/Competences, Qualifications and Occupations 
+https://ec.europa.eu/esco/portal)
+<<<PAGE=29>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+26 
+OECD (1998) The ability to use knowledge and skills 
+appropriately in real-life contexts and 
+situations. It is often conceived in terms of 
+capacity to exercise responsibility and act 
+autonomously. 
+The ability to apply knowledge 
+and use know-how to 
+complete tasks and solve 
+problems. Classified into 
+cognitive, technical, 
+communication, interpersonal 
+and intrapersonal 
+OECD (2002) 
+DeSeCo project 
+Ability to meet demands of a high degree 
+of complexity. It includes knowledge and 
+skills but also strategies and routines 
+needed to apply knowledge and skills, as 
+well as appropriate emotions and attitudes 
+and effective management of these 
+components. 
+Ability to use one’s knowledge 
+with relative ease to perform 
+relatively simple tasks.
+<<<PAGE=30>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+27 
+Annex B – Monitoring tasks, skills and competences: some possible indicators 
+The conceptual framework presented in this paper provides a consistent definition of the 
+key concept of competence, which is composed of four different elements: skills, 
+knowledge, attitudes and expertise. These different components evolve over the life course 
+of an individual as they are acquired, developed and deployed in education, work, and 
+other aspects of life. As  they evolve, they need to be measured consistently, to guide 
+policymaking coordinate skills policy in initial education, vocational education, and on -the 
+job training.  
+An ideal monitoring framework to measure skills, tasks, and competence over time would  
+focus on individuals, following their development in education, in the transition to work, 
+and throughout their professional life. Implementing this monitoring framework would 
+involve developing a dedicated survey, combining standardised testing with qual itative 
+self-assessment for skills, knowledge, attitudes and expertise. It would also measure the 
+task content of occupations – what people do at work and the skills this requires – 
+following the classification presented in this paper (see Figure 1).   
+Direct measures of skills and competences across countries are still scarce. The two 
+international data sets that come closest to measuring these concepts are the Programme 
+for International Student Assessment (PISA) and the Programme  for the International 
+Assessment of Adult Competencies (PIAAC), both developed by the OECD. PISA provides 
+internationally comparable survey of students on a relatively narrow set of knowledge and 
+skills, including language proficiency and numeracy. PIAAC is measures some skills used by 
+adults at work and in everyday life – namely literacy, numeracy, computer skills, but offers 
+little to no information on skills for social and physical tasks (see Box 2 below). The other 
+important data source is the LFS, whi ch provides national aggregate indicators for early -
+school leavers, unemployment, mismatch, expertise, among others.  
+Granular data on the skills required in the labour market is also very scarce at the 
+European level. Ideally, we would like to know the pr ecise tasks each worker performs (or 
+is expected to perform) at work in each occupation. Some data on work organization and 
+tasks can be found in international surveys such as the European Working Condition 
+Survey (EWCS), conducted every five years by Euro found, but the focus on working 
+conditions only partially overlaps with the range of possible tasks described in the 
+framework. PIAAC does contain survey information on whether employees are adequately 
+skilled for their position, and whether they use the s kills (literacy, numeracy, and digital) 
+that they possess in their line of work. However, is mostly cross -section data and not 
+available in all EU countries (see Fernández-Macias and Bisello, 2017). 
+To improve data on tasks and skills of occupations at the  European level, we would 
+suggest to complement the currently available data on tasks with data on job vacancies – 
+and the descriptors of requirements therein, which provide the competences (and skills) 
+sought by employers in real time. This could allow ca pturing the changing demand for 
+skills by employers over time, by collecting the skills that they require in real time. Indeed, 
+previous studies such as Deming et al. (2019) used it to track the changing requirement of 
+skills across occupation groups in th e U.S., while Tijdens et al.  (2018) relied in part on it to 
+quantify skill mismatches by occupations. The JRC has acquired pilot data for the UK from 
+Burning Glass Technologies, a commercial provider, and is validating its suitability to act 
+as an indicator of occupational tasks and skill demand. Cedefop is also currently testing its 
+own data collection platform for European job vacancies, and the JRC is in talks to achieve 
+a shared methodology. From an initial analysis of this type of data, it emerges that  it also 
+presents some disadvantages. First, the availability of online job vacancies varies by 
+country, sector and occupation, which limits representativeness. According to Cedefop, the 
+detail of content also changes considerably by European country and l anguage, 
+complicating international comparisons. Some sectors, such as the software industry and
+<<<PAGE=31>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+28 
+healthcare, appear to be over-represented relative to their share of total occupation, which 
+can only be partially explained by higher turnover in those sector s. Second, online 
+vacancies inevitably provide a partial, one-sided perspective of the task and skills required 
+for any given position. They emphasise the methods and tools of work – and related skills 
+– especially knowledge of a specific software or techn ology, and refer less explicitly to 
+other types of skills such as basic literacy or numeracy, which may only be required at an 
+advanced level. This is to be expected from the aspirational type of communication use in 
+vacancy notices, which will only explic itly mention the skills and competences that it 
+cannot take for granted from a typical applicant, leaving basic skill requirements implicit. 
+Moreover, vacancy notices provide limited objective task -related information of work 
+organization, rarely mentionin g the degree of control or (lack of) autonomy that 
+employees in those occupations experience. Overall, online vacancy data can provide a 
+valuable complement of a monitoring framework, by providing timely signals about 
+emerging skills, but offer limited comparable data of skill use across occupations.  
+Box 2: What does PIAAC measure? 
+ 
+The Programme for the International Assessment of Adult Competencies (PIAAC) 
+developed and conducted the Survey of Adult Skills. The OECD defines human capital as 
+“the knowledge, skills, competencies and other attributes embodied in individuals that are 
+relevant to economic activity” (OECD, 1998, p. 9). Skills are further classified into cognitive, 
+technical, communication and interpersonal and intrapersonal skills. In spite of the 
+pragmatic approach taken by the OECD, whereby “competencies” and “skills” are used 
+interchangeably (OECD, 2013), the PIAAC skills assessment module measures mainly 
+cognitive skills (literacy, numeracy and problem solving), and to a limited extent technical 
+skills (via computer use) and knowledge (via the literacy and numeracy tests) (see OECD 
+2013, p. 101). The survey focuses on key skills needed for individuals to participate in 
+society and for economies to prosper. It directly assesses adult proficiency in key 
+information-processing skills – literacy, numeracy and problem solving in technology-rich 
+environments – and gathers information on how adults use their skills at home, at work 
+and in the wider community. Hence, from the perspective of our conceptual framework, 
+the PIAAC assessment module captures mainly transversal skills, rather than competences 
+as defined. It also overlooks the physical and social skills, described in Section 3 of this 
+paper. Physical skills relate to physical tasks, involving strength or dexterity. Social skills 
+relate to proficiency in tasks such as attending, teaching, influencing or managing. 
+ 
+In the absence of unified data sources to implement this monitoring framework, we 
+compile a set of existing indicators that shed some light on tasks, skills and competences.  
+Table 1 lists these indicators, reports their source, explains the reason for their inclusion, 
+and reports the frequency with whi ch they are collected. Taken together, they can help 
+shed some light on the state of skills development and use in the European Union, and can 
+be used to benchmark country performance and at guide and monitoring competence 
+development policies. However, th ey are imperfect surrogates of a dedicated longitudinal 
+survey: most of them capture a snapshot of single life stages (like education or transition 
+to employment) and tend to describe cross -sectional national aggregates, rather than the 
+evolution of individuals in cohorts. Although there are indicators covering all main aspects 
+of the framework, they are not all collected as frequently.  
+Annex C lists and briefly describes other existing skills monitoring frameworks.  Compared 
+to these other frameworks, the  conceptual framework for tasks, skills and competences 
+presented in this document seems better suited to the needs of policy -making. It is also 
+the only one directly contemplating tasks and skill demand (WISE being the only one that 
+considers tasks). More  importantly, our proposal is unique in integrating the tasks and
+<<<PAGE=32>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+29 
+skills perspectives and in taking an explicit lifecycle perspective, which helps in 
+coordinating the skills policies across stages of life that make up skill ecosystems.    
+By adopting a lif elong perspective, the proposed monitoring framework would allow to 
+identify problems in competence development at different stages of life. This is relevant 
+to identify problems during adolescence before students enter the labour market, such as 
+a lack of basic skills because this will compromise future competence development. It can 
+also be useful to identify and target the segment of the labour force that may need re -
+skilling or up-skilling activities, in terms of either demographics, geography, occupati on or 
+industry. Updating the monitoring framework at different points in time would help 
+identify the most relevant changes in the area of tasks, skills and competences. For 
+instance, the changes in tasks (skills used at work, or sought after by employers)  provide 
+valuable information on the change in skills needs – in terms of both skill obsolescence 
+and the appearance of new types of skills – which will allow skills development systems to 
+change accordingly.
+<<<PAGE=33>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+30 
+Table 1: Details of selected indicators for stage-specific aspects 
+Childhood & Adolescence (Initial E&T) 
+Area Indicator Description Rationale Source Periodicity 
+Competence acquisition Early-school leavers 
+(ESL) 
+Share of population 
+aged 18-24 that have 
+not completed upper-
+secondary school and is 
+not enrolled in 
+education 
+Share of young adults 
+that left education 
+without the minimum 
+requirements  
+LFS 
+(18-24 years old) 
+Yearly 
+Type/level of studies VET in upper-
+secondary (VET_US) 
+Share of students in 
+upper-secondary school 
+attending VET 
+programs 
+Type of studies being 
+taken by students in 
+upper-secondary 
+OECD, Eurostat, 
+UNESCO joint data 
+collection 
+Yearly 
+ 
+School-to-work transition (Initial E&T) 
+Area Indicator Description Rationale Source Periodicity 
+Competence use Employment of recent 
+graduates 
+Share of population 
+aged 20-34 that have 
+graduated within the 
+last three (or five) years 
+and are employed 
+Share of recent 
+graduates that are 
+working, hence 
+applying competence.   
+LFS 
+ 
+Yearly 
+Competence use Mismatch_SWT Share of recent 
+graduates that are 
+over-qualified in their 
+current job 
+Share of recent 
+graduates that are 
+working, but in less 
+demanding jobs that 
+the ones they were 
+trained for, hence not 
+making use of the 
+recently acquired 
+LFS Yearly
+<<<PAGE=34>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+31 
+competence. 
+ 
+Adulthood/Work life 
+Area Indicator Description Rationale Source Periodicity 
+Competence acquisition Adult learning  Share of population 
+aged 25-64 who stated 
+they received formal or 
+non-formal training in 
+the 4 weeks preceding 
+the survey 
+Share of adults that 
+are acquiring 
+competence in 
+episodes specifically 
+with that purpose.  
+LFS 
+ 
+Yearly 
+Type/level of 
+competences 
+Tertiary degree Share of the population 
+holding a university 
+degree 
+Provides a proxy of the 
+stock of complex skills 
+hold by the adult 
+population. 
+LFS Yearly 
+Type/level of 
+competences 
+VET  Share of the population 
+with a VET-oriented 
+education degree 
+Share of the 
+population that has 
+been trained for a 
+specific profession  
+LFS Yearly 
+Type/level of 
+competences 
+Expertise Average time working 
+for the same employer 
+Proxy for expertise, 
+that would be better 
+captured by the time 
+working in the same 
+occupation  
+LFS Yearly 
+Competence use Skills_everyday Share of the population 
+using specific skills in 
+everyday life 
+Reflects the skills used 
+in everyday life and 
+hence being 
+developed. 
+PIAAC Once (mainly 2013)
+<<<PAGE=35>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+32 
+Competence use Skills_work Share of the population 
+doing specific tasks at 
+work 
+Reflects the skills used 
+at work and hence 
+being developed. 
+PIAAC Once (mainly 2013) 
+Competence use Long-term 
+unemployment 
+Share of the labour 
+force unemployed for 
+at least one year 
+Share of labour force 
+that is not putting in 
+use the competences 
+at work 
+LFS Yearly 
+Competence use Mismatch Share of employed 
+individuals 
+overqualified for the 
+job 
+Share of employed 
+individuals that are 
+working in less 
+demanding jobs, hence 
+not fully taking using 
+the competences they 
+have.  
+LFS Yearly 
+ 
+Table 2: Details of selected indicators for aspects relevant throughout the lifecycle 
+Childhood & Adolescence (Initial E&T) 
+Area Indicator Description Rationale Source Periodicity 
+Skills levels PISA skills Average score in PISA, 
+different subjects 
+Stock of basic and 
+transversal 
+skills/competences 
+PISA 
+(15 years old) 
+2000, 2003, 2006, 
+2009, 2012, 2015. 
+(2018 soon) 
+Skills levels Low achievers in PISA  Share of 15 year sold 
+with insufficient basic 
+skills/competences 
+PISA 
+(15 years old) 
+2000, 2003, 2006, 
+2009, 2012, 2015. 
+(2018 soon) 
+  
+Adulthood/Work
+<<<PAGE=36>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+33 
+Area Indicator Description Rationale Source Periodicity  
+Skills levels 
+ 
+Skill levels 
+Adult skills 
+(transversal 
+subjects, PIAAC) 
+Average score of adult 
+population in PIAAC 
+subjects 
+Provides a better proxy of transversal 
+competences: literacy, numeracy and 
+problem-solving in technological-rich 
+environments.   
+PIAAC Once  
+(mainly 2013) 
+Skills levels Low achievers 
+(transversal 
+subjects, PIAAC) 
+Share of adults with 
+insufficient levels of 
+transversal skills. 
+Provides a measure of the share of 
+the adult population that has low 
+levels of transversal skills and that 
+may need up-skilling actions.  
+PIAAC Once  
+(mainly 2013) 
+Skills demand by 
+employers 
+Own elaboration 
+from Cedefop 
+data 
+Types of skills required, 
+by occupation or job 
+title 
+Provides a partial but useful  measure 
+of the skills that employers are 
+currently demanding 
+Cedefop (soon) Continuous 
+Tasks at work Own elaboration 
+from Cedefop 
+data 
+Types of tasks 
+mentioned, by 
+occupation or job title 
+Provides a partial but useful indication 
+of the types of tasks that employees 
+perform in different occupations. 
+Cedefop (soon) Continuous
+<<<PAGE=37>>>
+Annex C – A brief overview of existing skills monitoring frameworks 
+Education and Training 2020 Strategy (DG EAC) 
+“Education and Training (2020) is a strategic framework for European cooperation in education and 
+training. It provides common strategic objectives for EU member states, including a set of principles 
+for achieving these objectives, as well as common working methods with priority areas.  
+There are six objectives described in the following benchmarks for 2020: 
+1. Early leavers from education and training: The share of early school leavers from education and 
+training aged 18 to 24 should be less than 10%; 
+2. Tertiary education attainment: By 2020, the share of 30 -34 years old with tertiary educational 
+attainment should be at least 40%. 
+3. Early childhood education and training : At least 95% of children between 4 years old and the 
+age for starting compulsory education should participate in childhood education. 
+4. Employment rate of recent graduates : The share of employed graduates (20 -34 years old) 
+having left education and trainin g no more than three years before the reference year should 
+be at least 82%. 
+5. Low achievers in reading, mathematics and science : The share of 15 years old with insufficient 
+abilities in reading, mathematics and science should be less than 15%. 
+6. Learning mobility 
+o An EU average of at least 205 of higher education graduates should have had a period 
+of higher education -related study or training (including work placements) abroad, 
+representing a minimum of 15 ECTS credits or lasting a minimum of three months. 
+o An EU average of at least 6% of 18 -34 years old with an initial vocational education 
+and training (IVET) qualification should have had an IVET -related study or training 
+period (including work placements) abroad lasting a minimum of two weeks, or less if 
+documented by Europass. 
+European Skills Index (Cedefop) 
+The European Skills Index (ESI) is developed by Cedefop. It has three pillars to assess how well the 
+skills formation and matching systems of EU MS are performing in relation to the degree to which 
+they are developing, activating and matching skills reserves within their economies. The ESI focuses 
+on these supply and matching aspects of the skills system.  
+Each pillar is broken down further into sub -pillars to further organise the indicators into related 
+groups. In total, ESI has 3 pillars, 6 sub-pillars and 15 indicators.
+<<<PAGE=38>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+ 
+ 
+Eurostat 
+The Eurostat dataset on skills -related statistics contains indicators originating from multiple data 
+sources which focus on the following topics:  
+● skills supply (the existing skills of the labour force); 
+● skills demand (the skills needed by employers); 
+● skills development  (the skills developed by participation in education and training 
+activities). 
+Skills supply and skills demand are measured through three different approaches: 
+● indirect measures, for instance skills assumed to be acquired through formal education; 
+● direct measures, which are direct assessments of skills through e.g. test scores for skills 
+supply; 
+● self-reported level of skills, that is people's self-evaluations of skills. 
+Eurostat´s Conceptual Framework on skills along with the different measurement approaches:
+<<<PAGE=39>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+ 
+ 
+Getting Skills Right: Skills for jobs indicators (OECD) 
+Based on O*NET database descriptors, OECD (2017) measures mainly skills needs and mismatch 
+indicators. The indicators on skills needs include a mapping of the shortage or surplus for three 
+domains of competence: skills, knowledge and abilities. 
+The structure and components of the OECD Skills for Jobs Indicators: 
+ 
+World Indicators of Skills for Employment (OECD) 
+The WISE database provides a statistical snapshot of skills development in 214 countries. It 
+contains 64 indicators in five broad areas: 
+● contextual factors 
+● skill acquisition
+<<<PAGE=40>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+ 
+● skill requirements 
+● skill mismatch 
+● economic and social outcomes
+<<<PAGE=41>>>
+A unified conceptual framework of tasks, skills and competences 
+ 
+ 
+Glossary and references 
+ 
+ECTS: European Credit Transfer and Accumulation System. https://ec.europa.eu/education/resources-
+and-tools/european-credit-transfer-and-accumulation-system-ects_en 
+ESCO: European Skills, Competences, Qualifications and Occupations. 
+https://ec.europa.eu/esco/portal/home  
+ESI: European Skills Index (Cedefop). 
+https://skillspanorama.cedefop.europa.eu/en/indicators/european-skills-index  
+EWCS: European Working Conditions Survey (Eurofound): 
+https://www.eurofound.europa.eu/surveys/european-working-conditions-surveys  
+IE&T: Initial Education and Training 
+KCLLL: Key Competences for Lifelong Learning.  
+https://op.europa.eu/en/publication-detail/-/publication/297a33c8-a1f3-11e9-9d01-01aa75ed71a1  
+LFS: (European Union) Labour Force Survey. https://ec.europa.eu/eurostat/web/microdata/european-
+union-labour-force-survey  
+PIAAC: Programme for the International Assessment of Adult Competencies (OECD). 
+https://www.oecd.org/skills/piaac/  
+PISA: Programme for International Student Assessment (OECD). https://www.oecd.org/pisa/   
+O*NET: Occupational Information Network (US Department of Labor): https://www.onetonline.org/   
+STW: School-to-Work transition. 
+(I)VET: (Initial) Vocational Education and Training
+<<<PAGE=42>>>
+GETTING IN TOUCH WITH THE EU 
+In person 
+All over the European Union there are hundreds of Europe Direct information centres. You can find the address of the centre 
+nearest you at: https://europa.eu/european-union/contact_en 
+On the phone or by email 
+Europe Direct is a service that answers your questions about the European Union. You can contact this service: 
+- by freephone: 00 800 6 7 8 9 10 11 (certain operators may charge for these calls), 
+- at the following standard number: +32 22999696, or 
+- by electronic mail via: https://europa.eu/european-union/contact_en 
+FINDING INFORMATION ABOUT THE EU 
+Online 
+Information about the European Union in all the official languages of the EU is available on the Europa website at: 
+https://europa.eu/european-union/index_en 
+EU publications 
+You can download or order free and priced EU publications from EU Bookshop at: https://publications.europa.eu/en/publications. 
+Multiple copies of free publications may be obtained by contacting Europe Direct or your local information centre (see 
+https://europa.eu/european-union/contact_en). 
+ 
+GETTING IN TOUCH WITH THE EU 
+In person 
+All over the European Union there are hundreds of Europe Direct information centres. You can find the address of the centre 
+nearest you at: https://europa.eu/european-union/contact_en 
+On the phone or by email 
+Europe Direct is a service that answers your questions about the European Union. You can contact this service: 
+- by freephone: 00 800 6 7 8 9 10 11 (certain operators may charge for these calls), 
+- at the following standard number: +32 22999696, or 
+- by electronic mail via: https://europa.eu/european-union/contact_en 
+FINDING INFORMATION ABOUT THE EU 
+Online
+<<<PAGE=43>>>
+A unified conceptual framework of tasks, skills and competences

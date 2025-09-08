@@ -1,0 +1,1059 @@
+<<<PAGE=1>>>
+Taking stock of monitoring and evaluation
+systems in the health sector: findings
+from Rwanda and Uganda
+Nathalie Holvoet* and Liesbeth Inberg
+Institute of Development Policy and Management, University of Antwerp, Lange St. Annastraat 7, 2000 Antwerpen, Belgium
+*Corresponding author. Institute of Development Policy and Management, University of Antwerp, Lange St. Annastraat 7, 2000 Antwerpen,
+Belgium. E-mail: nathalie.holvoet@ua.ac.be
+Accepted 13 May 2013
+In the context of sector-wide approaches and the considerable funding being put
+into the health sectors of low-income countries, the need to invest in well-
+functioning national health sector monitoring and evaluation (M&E) systems is
+widely acknowledged. Regardless of the approach adopted, an important first
+step in any strategy for capacity development is to diagnose the quality of
+existing systems or arrangements, taking into account both the supply and
+demand sides of M&E. As no standardized M&E diagnostic instrument currently
+exists, we first invested in the development of an assessment tool for sector
+M&E systems. To counter the criticism that M&E is often narrowed down to a
+focus on technicalities, our diagnostic tool assesses the quality of M&E systems
+according to six dimensions: (i) policy; (ii) quality of indicators and data
+(collection) and methodology; (iii) organization (further divided into iiia: struc-
+ture and iiib: linkages); (iv) capacity; (v) participation of non-government actors
+and (vi) M&E outputs: quality and use. We subsequently applied the assessment
+tool to the health sector M&E systems of Rwanda and Uganda, and this article
+provides a comparative overview of the main research findings. Our research
+may have important implications for policy, as both countries receive health
+sector (budget) support in relation to which M&E system diagnosis and
+improvement are expected to be high on the agenda. The findings of our
+assessments indicate that, thus far, the health sector M&E systems in Rwanda
+and Uganda can at best be diagnosed as ‘fragmentary’, with some stronger and
+weaker elements.
+Keywords Monitoring and evaluation systems, health sector, sector-wide approaches,
+Rwanda, Uganda
+KEY MESSAGES
+/C15 An important first step in any M&E capacity improvement effort is to take stock of what already exists from each of the
+M&E supply and demand perspectives.
+/C15 The health sector M&E systems in Rwanda and Uganda are diagnosed as ‘fragmentary’, with some stronger and weaker
+elements.
+Published by Oxford University Press in association with The London School of Hygiene and Tropical Medicine
+/C223The Author 2013; all rights reserved. Advance Access publication 12 June 2013
+Health Policy and Planning2014;29:506–516
+doi:10.1093/heapol/czt038
+506
+Downloaded from https://academic.oup.com/heapol/article/29/4/506/652391 by guest on 08 September 2025
+<<<PAGE=2>>>
+Introduction
+Sector-wide approaches (SWAps) were introduced in the health
+sectors of low-income countries during the 1990s, in response to
+a growing acknowledgement of the limitations of project
+support. Health SWAps are characterized by policy frameworks
+that focus on priorities in the health sector, by expenditure
+frameworks that define budgets for these priorities, by the use
+and improvement of national management systems and by
+partnerships between governments and donors (Peters and Chao
+1998). SWAps are expected to contribute to better co-ordination,
+harmonization and alignment, and to enhance national owner-
+ship and domestic accountability. These principles were also
+adopted more generally in the 2005 Paris Declaration (Walford
+2007), which sets out a reform agenda for both donors and
+recipients with the aim of increasing aid effectiveness.
+In practice, however, the impact of health SWAps has been
+relatively limited, due to the fact that many participating
+donors fail to adhere to the SWAp principles and continue to
+use their own planning, budgeting and monitoring and evalu-
+ation (M&E) systems (Walford 2007; Chansa et al. 2008). The
+reluctance of donors to rely on recipient M&E systems relates to
+the fact that many SWAp countries’ M&E systems and
+statistical institutions remain weak (Boesen and Dietvorst
+2007). This reluctance, however, actually blocks the further
+development and maturation of recipient M&E systems.
+As the financial means and activities intended to attain the
+health-related millennium development goals (MDGs) are
+scaled up, the need to invest in well-functioning health sector
+M&E systems becomes increasingly apparent (see IHP þ 2008;
+Chan et al. 2010). According to the International Health
+Partnership and related initiatives (IPH þ), a sound M&E
+system within the health sector provides information on
+inputs (e.g. funding, planning), processes (e.g. capacity build-
+ing), outputs (e.g. service delivery, health systems), outcomes
+(e.g. service utilization, equity) and impact (e.g. child mortality,
+maternal mortality, morbidity) (IHP þ 2008). In 2010, eight
+agencies working in the global health field committed them-
+selves to reserving funding for M&E system improvement, and
+to supporting countries in the development of a coherent M&E
+plan (Chan et al. 2010).
+Improvement of sector M&E systems generally leads to
+improvement in accountability and learning, which may ultim-
+ately lead to better performance and results on the ground.
+Moreover, it is also essential for improving the quality of joint
+sector reviews. A joint sector review is an M&E mechanism used
+in the SWAp context that is supposed to replace the evaluation
+of individual projects (Peters and Chao 1998). While no
+standardized definition has emerged to date, a joint sector
+review could be described as ‘a type of joint periodic assessment
+of performance in a specific sector with the aim to satisfy donor
+and recipient’s accountability and learning needs’ (Holvoet and
+Inberg 2009, p. 205). ‘Performance’ is to be interpreted broadly,
+and may include a focus on substance at various levels (i.e. input,
+activity, output, outcome and impact) and on underlying systemic
+and institutional issues. The main input into the joint sector
+review is often the sector performance report, which is one of the
+main outputs of a sector M&E system.
+Prior to the improvement of any M&E system, it is important to
+diagnose the quality of existing systems or arrangements, taking
+into account both the supply and demand sides of M&E. Thus
+far, no harmonized M&E diagnostic tool exists, though there are
+certain instruments and checklists that could be useful in this
+respect, such as the diagnostic guide for evaluation capacity
+building (Mackay 1999), the similar M&E readiness assessment
+(Kusek and Rist 2002), the diagnostic tool for the institutional
+dimensions of M&E systems (Bedi et al.2006) and the checklist
+used by Holvoet and Renard (2007) in their diagnosis of M&E
+systems in 11 Sub-Saharan African countries. While these tools
+are mainly used for the assessment of central M&E systems, they
+could also guide assessment exercises on sector M&E systems.
+While the scope of sector diagnosis is obviously more limited,
+the key components and guiding principles of a sector M&E
+system largely overlap with those of a central M&E system. An
+important specific issue within sector diagnosis is the contribu-
+tion of sector M&E activities to the central M&E system (Mackay
+2007). Specific tools for the assessment of (components of) the
+M&E system in the health sector have been developed as well,
+including the Framework and Standards for Country Health
+Information Systems developed by the Health Metrics Network
+(HMN 2008), the Performance of Routine Information System
+Management (PRISM) framework developed by Aqil et al.(2009)
+and the Monitoring, Evaluation and Review Platform for
+National Health Strategies developed by IHP þ and the World
+Health Organisation (WHO) (2011). These tools are further
+discussed in the ‘Methods’ section below where we also present
+the assessment tool that was used in our diagnostic exercises of
+the health sector M&E systems of Rwanda and Uganda.
+1 The
+main findings of these diagnostic reviews are compared and
+discussed in this article.
+General background: Rwanda
+and Uganda
+Rwanda and Uganda are both low-income countries in central
+Africa with low human development: they rank 166th (human
+development index value of 0.429) and 161st (value 0.446),
+respectively, of a total of 187 countries (UNDP 2011). Uganda
+was the first country in the world to develop a Poverty
+Reduction Strategy Paper (PRSP) in 1997 and it recently began
+to implement its National Development Plan 2010/11–2014/15.
+Rwanda’s first PRSP was developed in 2002 and implementa-
+tion of its second PRSP began in 2008 (i.e. the Economic
+Development and Poverty Reduction Strategy 2008–12).
+While Uganda outperformed Rwanda on many of the Paris
+Declaration indicators
+2 in 2005, the selective overview of
+indicators shown in Table 1 demonstrates the remarkable
+progress made by Rwanda in the period 2005–10. Only on the
+indicator that measures progress in results orientation was no
+change in status recorded. Using a five-point scoring system,
+Rwanda’s national performance assessment framework is rated
+modest (C score: action taken towards achieving good practice).
+Uganda, being one of only two countries to have a largely
+developed results-oriented framework (B score) in 2005,
+received a lower score (C) in 2010. Several of our interviewees
+in Uganda, however, do not agree with this relegation and
+stress that the quality of the performance assessment frame-
+work has actually improved over the past few years because of
+stronger sector performance indicators.
+MONITORING AND EVALUATION SYSTEMS IN RWANDA’S AND UGANDA’S HEALTH SECTOR 507
+Downloaded from https://academic.oup.com/heapol/article/29/4/506/652391 by guest on 08 September 2025
+<<<PAGE=3>>>
+Table 1 also highlights 2005–10 progress on the six Kaufmann
+et al. governance indicators. While Rwanda had previously
+scored well on the more technocratic governance indicators
+(‘governance effectiveness’, ‘regulatory quality’ and ‘control of
+corruption’) and less well on the more political ones (‘voice and
+accountability’, ‘political stability’ and ‘rule of law’) (see
+Holvoet and Rombouts 2008), in 2010, it scored above the
+regional- (Sub-Saharan Africa) and income-group averages
+(low income) on all indicators except ‘voice and accountability’,
+which persistently lags behind in the 10th–25th percentile
+3
+(Kaufmann et al. 2010). In contrast, Uganda scored slightly
+better on ‘voice and accountability’ than the regional- and
+income-group averages, whereas its weakest scores lay in the
+areas of ‘political stability’ and ‘control of corruption’ (both in
+the 10th–25th percentile). No significant improvement was
+made by Uganda in the governance indicators between 2005
+and 2010.
+As far as the health sector is concerned, both countries have
+developed health strategies over the last decade: Rwanda has
+developed the Health Sector Strategic Plan II (July 2009–July
+2012), and Uganda has developed the Health Sector Strategic
+and Investment Plan (2010/11–2014/15). Donors provide their
+support through a health SWAp, which has been in place since
+2007 in Rwanda and since 1999 in Uganda. Table 2 shows the
+progress made by Rwanda and Uganda on some of the
+indicators related to the health MDGs. The progress made by
+Rwanda, in particular, is remarkable.
+Methods
+Rwanda and Uganda have been selected for this sector M&E
+stocktaking exercise since the health sectors in both countries
+receive (budget) support through an SWAp, where improve-
+ment and diagnosis of existing M&E systems are expected to be
+high on the agenda. This is especially the case for budget
+support donors which are largely dependent on recipient sector
+M&E systems to satisfy the accountability needs of their own
+constituencies. Case selection was also influenced by the fact
+that our research aims to feed into the policy and practice of
+the Belgium aid agency that provides health sector budget
+support to both countries. The assessments have been endorsed
+by the ministries of health, and terms of references and results
+of the assessment exercises have been discussed in the Joint
+Health Sector Working Group in Rwanda and the Health Policy
+Advisory Committee in Uganda. The embeddedness of our
+diagnostic exercises in these fora which regroup the majority of
+Table 1 Progress on selected Paris Declaration and governance indicators
+Rwanda Uganda
+2005 2010 2005 2010
+Paris Declaration indicators
+Alignment
+Use of country’s public financial management systems 39% 50% 60% 66%
+Use of country’s procurement systems 46% 64% 54% 43%
+Harmonization
+Joint missions 9% 44% 17% 24%
+Joint analytical work 36% 82% 40% 56%
+Managing for results
+Results-oriented framework C C B C
+Governance indicators
+Voice and accountability 10th–25th 10th–25th 25th–50th 25th–50th
+Political stability 10th–25th 25th–50th 10th–25th 10th–25th
+Governance effectiveness 10th–25th 50th–75th 25th–50th 25th–50th
+Regulatory quality 10th–25th 25th–50th 25th–50th 25th–50th
+Rule of law 10th–25th 25th–50th 25th–50th 25th–50th
+Control of corruption 25th–50th 50th–75th 10th–25th 10th–25th
+Sources: Kaufmann et al. (2010) and OECD (2011).
+Table 2 Progress on selected health indicators
+Health indicators Rwanda Uganda
+2004 2009 2004 2009
+Under-five mortality rate (per 1000 live births) 203 111 138 128
+Maternal mortality rate (per 100 000 live births) 1300 (2005) 540 (2008) 550 (2005) 430 (2008)
+Prevalence of HIV among adults aged 15–49 years (%) 5.1 (2003) 2.9 4.1 (2003) 6.5
+Malaria mortality rate (per 100 000 population) 59 (2006) 15 (2008) 145 (2006) 103 (2008)
+Sources: World Health Organisation (2006, 2008, 2009, 2011).
+508 HEALTH POLICY AND PLANNING
+Downloaded from https://academic.oup.com/heapol/article/29/4/506/652391 by guest on 08 September 2025
+<<<PAGE=4>>>
+the stakeholders involved in the health sector was deliberate
+and in line with the basic Paris Declaration principles of
+‘harmonization’ and ‘alignment’.
+For the assessment of elements of health sector M&E systems
+several interesting tools already exist, including the above-
+mentioned Framework and Standards for Country Health
+Information Systems (also known as the HMN framework).
+Health information systems are essential suppliers of data for
+M&E activities, particularly with regard to coverage and
+utilization (Alliance for Health Policy and System Research
+2007) and, therefore, the improvement of sector M&E systems
+will logically require health information system strengthening.
+The HMN framework is supposed to function as a kind of
+benchmark for the collection, reporting and use of health
+information (Health Metrics Network 2008) and describes six
+components of a health information system, subdivided into
+inputs, processes and outputs. ‘Inputs’ more specifically refer to
+health information system resources, ‘processes’ to indicators,
+data sources and data management, whereas ‘outputs’ focus on
+information products, dissemination and use. Based on the
+argument that health management information systems,
+through which facility-based data are collected, are generally
+weaker than other data sources including household and
+facility surveys, Aqil et al. (2009) developed a specific tool for
+the design, strengthening and evaluation of health manage-
+ment information systems, that is the PRISM framework. This
+framework takes into account technical, organizational and
+behavioural factors (Aqil et al. 2009). In addition to these tools
+that zoom in on specific components of health sector M&E
+systems, other tools have been developed that focus on disease-
+specific M&E systems, including among others the ‘12
+Components Monitoring and Evaluation System Strengthening
+Tool’ of UNAIDS and the Monitoring and Evaluation Reference
+Group (UNAIDS and MERG 2009) and the ‘Monitoring and
+Evaluation Strengthening Tool’ of the Global Fund to Fight
+AIDS, Tuberculosis and Malaria et al. (2006) which is recom-
+mended to be used by Malaria and Tuberculosis programmes in
+the assessment of their M&E systems.
+More recently, the IHP þ and the WHO developed a tool that
+provides guidance to countries that intend to strengthen their
+entire M&E and review of national health plans and strategies
+through the establishment of a common platform. The IHP þ
+and the WHO identify four areas that are considered key to a
+sound M&E and review platform, including the national health
+strategy as the basis for information and accountability,
+institutional capacity, technical elements of M&E and country
+mechanism for review and action (IHP þ and World Health
+Organisation 2011). Our own assessment tool is most similar to
+this tool, as we do not focus on specific diseases while we also
+provide a more comprehensive overview than the HMN and
+PRISM frameworks, which focus on the health (management)
+information system. More specifically, our checklist aims at
+assessing the quality of M&E systems according to six dimen-
+sions, including (i) policy; (ii) quality of indicators and data
+(collection) and methodology; (iii) organization (further
+divided into iiia: structure and iiib: linkages); (iv) capacity;
+(v) participation of non-government actors and (vi) M&E
+outputs: quality and use. These criteria are further subdivided
+into 34 topics (see Table 3).
+While there is a considerable degree of overlap among the
+IHPþ and WHO platform and our checklist, we also include
+issues such as the degree of vertical integration, the linkage
+between M&E at the level of the ministry of health (MoH) and
+the statistical office as well as the linkages with donor project
+M&E. This focus on linkages with donor project M&E as well as
+the involvement of non-governmental actors (domestic ac-
+countability) is indicative of the fact that we adopt a broader
+view than government health sector M&E. In addition, our
+checklist is applicable to other sectors as well and could thus be
+used for comparison between M&E systems of different sectors.
+As low-income countries are stimulated to strengthen their
+national M&E systems in the context of the Paris Declaration,
+streamlining between the M&E systems of different line
+ministries becomes increasingly important. From this vantage
+point, a checklist that is applicable across sectors is particularly
+welcome and could be complemented with tools that specific-
+ally focus on (specific components) of health sector M&E
+systems. Such combinations of tools might be particularly
+useful in cases where the assessment on the basis of our tool
+points at specific weaknesses in the system, for instance, at the
+level of the health (management) information system.
+Another point of divergence between our tool and the IHP þ
+and the WHO platform is the combination of a more indepth
+qualitative discussion with a quantitative assessment that assigns
+each topic a score using a five-point scoring system, that is weak
+(1), partially satisfactory (2), satisfactory (3), good (4) or
+excellent (5). As the aim of the scoring system is to identify the
+comparative strengths and weaknesses of one M&E system,
+rather than to compare or rank systems across countries, the
+‘Discussion’ section below focuses on a comparative qualitative
+assessment without providing explicit scores.
+Our assessment is based upon a combination of primary and
+secondary data. Secondary data include official documents
+provided by the Rwandan and Ugandan governments, as well
+as academic and grey literature on Rwanda, Uganda, M&E and
+health (management) information systems. We also conducted
+semi-structured interviews in both countries with various
+stakeholders directly involved in and responsible for M&E in
+the health sector at district level (e.g. health district officers and
+district data managers) and central levels (e.g. MOH staff
+involved in M&E overview and coordination, MOH staff
+responsible for data collection, including the Health Manage-
+ment Information System and the Institute of Statistics). In
+addition, we also interviewed users of the M&E output
+including health planners and policy makers [e.g. MoH com-
+missioner and MoH policy analysts, civil society organizations,
+parliament and donors (staff responsible for SWAp/budget
+support)]. Interviews in Rwanda and Uganda took place during
+May/June 2011 and October 2011, respectively. We also
+benefited greatly from participant observation during the 2008
+Joint Health Sector Review in Rwanda and the pre-Joint
+Review Meeting field mission to Jinja, the National Health
+Assembly and the Joint Review Meeting in Uganda (October
+2011). Moreover, valuable feedback on preliminary research
+findings was provided during debriefing workshops.
+The findings of our diagnostic exercises are useful for the
+various audiences of the M&E supply and demand side that we
+have targeted during our interviews and particularly aim to feed
+MONITORING AND EVALUATION SYSTEMS IN RWANDA’S AND UGANDA’S HEALTH SECTOR 509
+Downloaded from https://academic.oup.com/heapol/article/29/4/506/652391 by guest on 08 September 2025
+<<<PAGE=5>>>
+Table 3 The dimensions and topics of the sector M&E system assessment tool
+Topics Question
+1. Policy
+1 M&E plan Is there a comprehensive M&E plan, indicating what to evaluate, why, how and for whom?
+2 M vs E Is the difference and relationship between M and E clearly spelled out?
+3 Autonomy and impartiality
+(accountability)
+Is the need for autonomy and impartiality explicitly mentioned? Does the M&E plan allow for tough issues
+to be analysed? Is there an independent budget?
+4 Feedback Is there an explicit and consistent approach to reporting, dissemination and integration?
+5 Alignment planning and
+budgeting
+Are M&E results integrated in planning and budgeting?
+2. Quality of indicators and data (collection) and methodology
+6 Selection of indicators Is it clear what to monitor and evaluate? Is there a list of indicators? Are sector indicators harmonized with
+the PRSP indicators?
+7 Quality of indicators Are indicators SMART (specific, measurable, achievable, relevant, time-bound)? Are baselines and targets
+attached?
+8 Disaggregation Are indicators disaggregated by sex, region or socio-economic status?
+9 Selection criteria Are the criteria for the selection of indicators clear? Is it clear who is involved in the selection?
+10 Priority setting Is the need to set priorities and limit the number of indicators to be monitored acknowledged?
+11 Causality chain Are different levels of indicators (input–output–outcome–impact) explicitly linked (programme theory)?
+(vertical logic)
+12 Methodologies used Is it clear how to monitor and evaluate? Are methodologies well identified and mutually integrated?
+13 Data (collection) What is the quality of the data collected (reliability)? Are sources of data collection clearly identified? Are
+indicators linked to sources of data collection? (horizontal logic)
+3a. Organization: structure
+14 Co-ordination and overview Is there an appropriate institutional structure for co-ordination, support, overview, analyses of data and
+feedback at sector level? With different stakeholders? What is its location?
+15 Joint sector review Does the JSR cover accountability and learning needs for both substance and systemic issues? What is the
+place/linkage of the JSR within the sector M&E system? Does the JSR promote the reform agenda of the
+Paris Declaration?
+16 Sector working groups Are sector working groups active in monitoring? Is their composition stable? Are various stakeholders
+represented?
+17 Ownership Does the demand for (improvement of the) M&E system come from the sector ministry, a central
+ministry (e.g. ministry of planning or finance) or from external actors (e.g. donors)? Is there a
+highly placed ‘champion’ within the sector ministry who advocates the (strengthening of the) M&E
+system?
+18 Incentives Are incentives (at central and local level) used to stimulate data collection and data use?
+3b. Organization: linkages
+19 Linkage with statistical office Is there a link between sector M&E and the statistical office? Is the role of the statistical office in sector
+M&E clear?
+20 ‘Horizontal’ integration Are there M&E units in different sub-sectors and semi-governmental institutions? Are these properly linked
+to the sector’s central unit?
+21 ‘Vertical’ upward integration Is the sector M&E unit properly linked to the central M&E unit (PRS monitoring system)?
+22 ‘Vertical’ downward
+integration
+Are there M&E units at decentralized levels and are these properly linked to the sector M&E unit?
+23 Link with projects Is any effort being made to co-ordinate with donor M&E mechanism for projects and vertical funds in the
+sector?
+4. Capacity
+24 Present capacity What is the present capacity of the M&E unit at central sector level, sub-sector level and decentralized level
+(e.g. FTE, skills, financial resources)?
+25 Problem acknowledgement Have current weaknesses in the system been identified?
+26 Capacity-building plan Are there any plans/activities for remediation? Do these include training, appropriate salaries, etc.?
+(continued)
+510 HEALTH POLICY AND PLANNING
+Downloaded from https://academic.oup.com/heapol/article/29/4/506/652391 by guest on 08 September 2025
+<<<PAGE=6>>>
+into capacity strengthening efforts. To trigger the use of our
+findings and comply with Paris Declaration principles of
+harmonization and alignment, we have embedded our exercise
+from the start within the framework of the existing Joint
+Health Sector Working Groups and Committees.
+Results
+In this section, a selection of findings from the stocktaking
+exercise on the Rwandan and Ugandan health sectors’ M&E
+systems are presented alongside the assessment tool’s
+dimensions.
+Policy
+An M&E plan tends to indicate what to monitor and evaluate,
+why, how and for whom. In their study on the quality of
+central M&E systems in 20 Sub-Saharan African countries,
+Holvoet et al. (2012) demonstrate that the quality of an M&E
+plan is a relatively good proxy for the overall quality of M&E:
+countries with well-established evaluation plans tend to per-
+form better on M&E activities and outputs than countries
+without such a ‘grand design’.
+In Uganda, a MoH task force recently (2011) developed an
+M&E plan for the Health Sector Strategic and Investment Plan,
+with the support of, for example, the WHO and the Global
+Fund to Fight AIDS, Tuberculosis and Malaria and in the
+context of the IHP þ and WHO initiative to support country-led
+M&E platforms (World Health Organisation 2010). While it is
+somewhat surprising that this is the first M&E plan developed
+for the health sector since the introduction of SWAps in the
+1990s, the situation is comparable with other countries with
+health SWAps which also lack fully developed M&E strategies
+and plans (see Vaillancourt 2009). In Rwanda’s MoH, on the
+other hand, several documents are circulating which describe
+components of the M&E policy and strategy, but no clear,
+validated overview document that might be considered the
+sector M&E plan yet exists. In fact, the recent IHP þ assessment
+of Rwanda’s third Health Sector Strategic Plan also includes in
+its key recommendations the development of a detailed
+operational M&E plan (IHP þ 2012).
+While the M&E policies and plans in both countries stress the
+importance of the twin key M&E objectives of ‘accountability’
+and ‘learning’, in practice the emphasis seems to lie more on
+accountability than on learning, and more on upward than on
+downward accountability. In Uganda, however, accountability
+is undermined by a lack of data control at the various levels of
+the health management information system, resulting in
+unreliable data. This is in sharp contrast with the situation in
+Rwanda, where local health data are controlled in a context of
+performance-based financing (Ireland et al. 2011), and where
+very strong intra-governmental accountability generally exists
+from local to central level and from sector ministries to the
+Ministry of Finance and Economic Development.
+Quality of indicators and data (collection) and
+methodology
+In both Rwanda and Uganda, it is the ‘monitoring’ components
+of the M&E system that have been most thoroughly developed,
+and the identification of indicators, baselines, targets and the
+set up of various data collection sources have been particularly
+well-established. While there is a continuous tendency of
+donors and especially vertical health programmes to push for
+additional indicators, efforts are being made to prioritize and
+harmonize better among various indicator sets and data
+collection sources. Important data sources include census and
+population-based surveys and health management information
+systems. In both countries, the health information systems have
+been assessed on the basis of the HMN framework. The HMN
+Table 3 Continued
+Topics Question
+5. Participation of non-government actors
+27 Parliament Is the role of parliament properly recognized, and is there alignment with parliamentary control and
+overview procedures? Does parliament participate in joint sector reviews and/or sector working groups?
+28 Civil society Is the role of civil society recognized? Are there clear procedures for the participation of civil society? Is the
+participation institutionally arranged or ad hoc? Does civil society participate in joint sector reviews and/
+or sector working groups?
+29 Donors Is the role of donors recognized? Are there clear procedures for the participation of donors? Do donors
+participate in joint sector reviews and/or sector working groups?
+6. M&E outputs: quality and use
+30 Quality of M&E outputs Are relevant M&E results presented? Are results compared to targets? Are discrepancies analysed? Is the
+M&E output adapted for different audiences?
+31 Effective use of M&E by
+donors
+Are donors using the outputs of the sector M&E system for their information needs? Is the demand for M&E
+data from donors co-ordinated?
+32 Effective use of M&E at
+central level
+Are the results of M&E activities used for internal purposes? Is it an instrument of policy-making and/or
+policy influence and advocacy at central level?
+33 Effective use of M&E at local
+level
+Are the results of M&E activities used for internal purposes? Is it an instrument of policy-making and/or
+policy influence and advocacy at local level?
+34 Effective use of M&E by
+non-government actors
+Are the results of M&E used as an instrument for holding the government accountable?
+PRS ¼Poverty Reduction Strategy.
+MONITORING AND EVALUATION SYSTEMS IN RWANDA’S AND UGANDA’S HEALTH SECTOR 511
+Downloaded from https://academic.oup.com/heapol/article/29/4/506/652391 by guest on 08 September 2025
+<<<PAGE=7>>>
+assessments, which include assessments of various data
+sources, conclude among others that the quality of data
+collected through census and population-based surveys is
+generally higher than that of facility-based data collected
+through the health management information systems
+(Health Metrics Network 2007; Republic of Rwanda 2009).
+Interestingly, various interviewees in both countries emphasized
+that little cross-reading has so far been carried out among
+survey and facility-based data. The lack of cross-reading among
+data sources, insufficient disaggregation according to relevant
+categories, a lack of qualitative facility-based data and deficient
+integration of indicators into causal chains all contribute to a
+lack of evaluative analysis. Deficient analytical quality is also
+obvious in the M&E outputs (e.g. health sector performance
+reports), which are mainly limited to an overview of progress
+made in health indicators with no provision of insights into
+the underlying reasons behind progress or lack of progress.
+Obviously, this also hampers the usefulness of the M&E output
+for learning purposes.
+Organization and capacity
+As many actors are involved in data collection, analyses
+and feedback, an appropriate institutional structure for co-
+ordination, support, overview and feedback is crucial. Both in
+Rwanda and Uganda, the creation and positioning of this
+health sector M&E overview structure is proving to be highly
+problematic. In Rwanda, an M&E taskforce established in 2008
+was no longer operational at the time of our 2011 field mission,
+while a new M&E overview unit was still being set up.
+Interviewees drew attention to the continuous reforms and
+changes taking place in the health ministry’s organizational
+set-up, the ongoing discussions among the health and finance
+ministries with respect to health sector M&E overview, as well
+as the lengthy procedures related to the appointment of the
+head of this unit.
+In Uganda, the Quality Assurance Department, under the
+Directorate of Planning and Development, is responsible for the
+co-ordination and overview of M&E activities in the health sector.
+Various interviewees hinted at the fact that the power of the
+Quality Assurance Department is curtailed by the limited number
+of staff members and its positioning under the Directorate of
+Planning and Development. An M&E overview function logically
+necessitates a position that is hierarchically higher, and that has
+some degree of independence, since evaluation might in some
+instances be a sensitive matter. At local levels, M&E capacity also
+appears to be fairly limited, and hampered by high staff turnover
+and defection to donor agencies.
+While M&E capacity in Rwanda is limited at central level,
+M&E capacity at local level has been strengthened in recent
+years by the appointment and training of M&E co-ordinators
+and data managers in hospitals, and data managers in health
+centres. Nevertheless, the relation between these M&E staff and
+the MoH is not clearly specified. M&E staff in the health
+facilities that were visited during our field missions indicated
+that information flows are mainly upwards, with the ministry
+providing minimal feedback with regard to data analysis. In
+Uganda, supervision is provided during quarterly area team
+visits, but several interviewees remarked that these visits are
+very expensive, time consuming and of limited use.
+While none of the policies or plans developed by the Rwandan
+MoH refers explicitly to linkages between health sector M&E
+and the central M&E unit, serious efforts are being made
+in practice by the Ministry of Finance and Economic Planning
+to establish a unified M&E framework that links sector M&E
+units with the central M&E co-ordination unit. In doing so,
+M&E focal points have been installed in sector ministries,
+including the MoH, with the aim of assisting sectors in the
+establishment and improvement of a unified M&E system. In
+Uganda, on the other hand, it is the responsibility of the health
+sector’s Quality Assurance Department to align with the
+National Policy on Sector M&E. Until recently, there was less
+of a strong coercive mandate on the part of one central actor,
+and more of a complex interaction and competition among
+various players at central level to take the lead in central M&E
+co-ordination.
+4 However, over the last year, the Office of the
+Prime Minister has clearly become the most powerful actor in
+central M&E oversight and co-ordination among different line
+ministries.
+Joint health sector reviews are organized in both countries,
+twice a year in Rwanda (one retrospective and one forward
+looking), and once a year in Uganda. While joint health sector
+reviews in Rwanda have been criticized for their poor prepar-
+ation, for example, performance reports not being made
+available prior to the review, recent reviews hint at a number
+of improvements in this respect (BTC 2010). If anything, joint
+health sector reviews in both countries are more focused on
+progress in substance (health sector inputs, activities, outputs,
+outcomes and impact) than on underlying systemic issues, such
+as, for instance, the quality of the M&E system. In Rwanda,
+field visits in the context of the joint sector review have only
+recently been introduced. While some of the interviewees were
+rather sceptical and referred to a lack of independence, in
+principle field visits offer opportunities to confront the
+aggregated data provided by the ministry with reality checks
+on the ground. Field visits spread over different regions and
+across different layers of inequality might be particularly
+valuable in the Rwandan context, where concerns have been
+voiced over increasing levels of inequality and potentially
+exclusionary poverty reduction policy and outcomes (see
+Evans et al. 2006).
+In Uganda, field visits are systematically organized by the
+Quality Assurance Department prior to the Annual Review
+Meeting. They include reality checks and structured interviews
+at the levels of health districts, hospitals and health centres on
+the basis of a pre-determined and standardized checklist.
+Somewhat surprisingly, this checklist does not include topics
+related to data collection, use of data or feedback on data
+quality, despite the fact that the MoH itself identified poor data
+collection as a major weakness (Republic of Uganda 2009).
+Field visits clearly focus on monitoring and local level reality
+checks, and do not investigate the underlying reasons for local
+non-performance. As a result, potential weaknesses or obstacles
+at other levels of the health system, which may nevertheless
+have a strong influence on local-level performance, are not
+disclosed. On the positive side, immediate feedback is given and
+there is room for negotiation and discussion with regard to the
+main findings and recommendations, which are two of the
+ways in which effective use of M&E findings may be stimulated
+(see Patton 1998).
+512 HEALTH POLICY AND PLANNING
+Downloaded from https://academic.oup.com/heapol/article/29/4/506/652391 by guest on 08 September 2025
+<<<PAGE=8>>>
+Participation of non-government actors
+Donors and civil society organizations in Rwanda and Uganda
+participate in the technical dialogue through technical working
+groups, and in the policy dialogue through joint sector reviews
+and sector working groups. 5 However, several interviewees in
+both countries highlighted the limited efficacy of civil society
+organizations, particularly with regard to policy dialogue, while
+also hinting at deficient connections between central and local-
+level civil society organizations, which puts their representa-
+tiveness into perspective somewhat. Moreover, Rwanda’s low
+scores on the ‘voice and accountability’ governance indicator
+(see Table 1) and the fact that civil society organizations
+generally have limited room for manoeuvre (see e.g. Holvoet
+and Rombouts 2008) might also explain why participating civil
+society organizations do not adopt a critical stance. In Uganda,
+interviewees referred to the poor quality of input from civil
+society organizations in the technical and political dialogues,
+which is often considered ‘anecdotal’. Several Ugandan civil
+society organizations, however, are active in community-based
+monitoring. The Uganda Debt Network, for example, has been
+involved in community-based monitoring since 2002. Together
+with 15 community-based organizations, they have trained
+more than 6000 community monitors in 22 districts to monitor
+service delivery at village level not only in relation to health but
+also to education, rural roads, agriculture and water and
+sanitation (Uganda Debt Network 2009). On the basis of
+information provided by the community monitors, the Uganda
+Debt Network facilitates dialogue meetings which focus both on
+accountability and learning. To date, however, the information
+they provide is scarcely used by the MoH, donors or parliament.
+In Rwanda, parliament is hardly involved in health sector
+M&E, which is in line with the more generally observed limited
+parliamentary overview capacity (Government of Rwanda and
+Development Partners 2008). This is in contrast to the Ugandan
+Parliament, which adopts a more active stance. Here, for
+instance, the parliamentary Social Service Committee has
+visited 16 districts to document health performance, on the
+basis of which the committee underlined, for example, the need
+for increased community involvement in decision-making (Wild
+and Domingo 2010). However, various interviewees also point
+out that parliamentarians are particularly active only when it
+comes to issues that directly affect their own districts, and fail
+to show sustained interest in issues that affect the country or
+the system as a whole.
+M&E outputs: quality and use
+In Rwanda and Uganda, an important output of the M&E
+systems is the annual health sector performance report. While
+these reports produce a lot of data and information, their
+analytical quality remains weak, notwithstanding considerable
+improvement over time. In particular, the lack of data analysis
+regarding underlying causal pathways, which could subse-
+quently be influenced to produce better performance on health
+outcome indicators, hampers systematic use of M&E outputs
+at both central and local levels. In the Rwandan case, however,
+ad hoc instances of learning, and rapid changes in programmes
+made on the basis of evidence, are not unknown. An example
+of this can be seen in the field of maternal and under-
+five mortality, where Rwanda had previously failed to reach
+Sub-Saharan African averages, and where several measures
+were subsequently taken to successfully redress the situation
+(Basinga et al. 2010; Sekabaraga et al. 2011). The effective use of
+evidence and speed of remediation was particularly aided by
+strong linkage between planning and M&E, by the govern-
+ment’s strong leadership and by the effective functioning of the
+government’s institutional apparatus. However, when it comes
+to the more sensitive issues (including, among others, issues of
+inequality in the health sector), analysis and learning appears
+to be less straightforward.
+In Uganda, ad hoc instances have also arisen in which data
+have been used for planning, but the level of usage remains
+relatively low due to poor data quality, among other things.
+However, interest in data quality and use is on the increase in
+the context of the recent adoption of a system of half-yearly
+high-level retreats with the president, ministers and permanent
+secretaries, during which sector performance is discussed.
+According to several interviewees, this ‘naming and shaming’
+ceremony, for example, has fed into a revision of the health
+management information system, the appointment of a staff
+member from the Ugandan Bureau of Statistics in the health
+ministry’s information resource centre, and the set up of an
+e-health management information system project.
+Use of data at local level has increased in Rwanda since
+the introduction of performance-based financing in the
+health sector, and district hospitals and health centres have
+also begun to use their data analyses for their own planning.
+However, analytical depth is still lacking, and the analyses are
+mainly limited to tabular overviews and the use of graphs.
+In Uganda, health facilities do not currently use data system-
+atically, and this limited usage of data does not motivate staff
+to control and improve data quality, which in turn affects data
+usage.
+As far as donors are concerned, as expected, budget support
+donors in particular use information from joint sector reviews
+and M&E outputs from the MoH, whereas non-sector budget
+support donors rely to a much larger extent on their own
+additional data collection (OECD 2011).
+Discussion
+Our stocktaking exercise demonstrates that health sector M&E
+systems in Rwanda and Uganda can thus far be diagnosed as
+‘fragmentary’ at best, with certain stronger and weaker elem-
+ents. The M&E systems both score relatively well on indicators
+and data collection. With regard to the broader policy issues,
+the strong linkages between the local and central levels, and
+between the health sector and finance ministry, are particularly
+striking in Rwanda. They are also indicative of the generally
+strong intra-governmental accountability. Uganda has an over-
+arching health sector M&E plan which outlines the various
+components of the M&E system. The extent to which this plan
+will actually be put into practice, however, remains unclear. In
+addition to a lack of earmarked funds is Uganda’s reputation
+for being good at drafting laws and policies that ultimately fail
+to be implemented (Republic of Uganda 2010). Uganda’s weak
+track record of implementation contrasts sharply with the
+situation in Rwanda, which is also obvious from the latter’s
+relatively high score on the ‘government effectiveness’
+MONITORING AND EVALUATION SYSTEMS IN RWANDA’S AND UGANDA’S HEALTH SECTOR 513
+Downloaded from https://academic.oup.com/heapol/article/29/4/506/652391 by guest on 08 September 2025
+<<<PAGE=9>>>
+governance indicator (see Table 1) and the impressive improve-
+ments made in relation to several health and Paris Declaration
+indicators (see Tables 1 and 2). Rwanda has also been widely
+applauded for its successful implementation of performance-
+based financing in the health sector (see e.g. Basinga et al.2010;
+Meessen et al. 2011), which has contributed to improved data
+collection and use at local level. In Uganda, the introduction
+of performance-based financing has recently been proposed
+in the context of the October 2011 joint sector review
+(Quality Assurance Department 2011). However, as discussed
+in Ireland et al. (2011), it is not possible to generalize Rwanda’s
+‘success story’,
+6 which is heavily indebted to generally strong
+intra-governmental accountability, to other contexts, such as
+Uganda, where such strong ‘control’ does not yet exist and
+where many of the documented side effects of performance-
+based financing (e.g. ‘crowding-out’ effect and ‘gaming’) are a
+real possibility.
+The fact that health sector M&E systems in Uganda and
+Rwanda focus on monitoring does not come as a surprise when
+we consider that rigorous evaluation is not possible without a
+proper monitoring system. However, a focus on monitoring at
+the expense of evaluation leads to ignorance of the underlying
+reasons for (non)-performance, which also hampers the M&E
+feedback loop in terms of systematic learning and improving
+outcomes over time. While Rwanda, in particular, has made
+remarkable progress on several health indicators in recent
+years, it is highly probable that the need for (qualitative) in-
+depth analysis and disaggregation will become more pro-
+nounced in the future as achievements in the health sector
+slow down, and as measures need to be taken to reach the less
+accessible segments of the population.
+A lack of evaluative analysis also affects the quality of the
+joint sector reviews. The minimal attention paid to the quality
+of the underlying health sector M&E system during these joint
+sector reviews is somewhat contrary to what we might expect.
+This is especially the case for budget support donors, as these
+rely in principle upon the health sector M&E system to satisfy
+accountability to their own constituencies. Refraining from
+investing in ‘systemic’ issues risks triggering parallel M&E
+processes, which in turn undermines the M&E reform agenda.
+On the other hand, improvements in sector M&E systems are
+expected to contribute to improvements in the quality of joint
+sector reviews in the short term, and may change its outlook
+over time. In fact, joint sector reviews could evolve towards a
+kind of meta-evaluation instrument for monitoring and
+evaluating the existing sector M&E system (including a
+number of reality checks on the ground) instead of functioning
+as an M&E instrument for activities and outputs (see Holvoet
+and Inberg 2009).
+In line with the scores on the ‘voice and accountability’
+governance indicator, domestic accountability actors are notably
+stronger in Uganda than in Rwanda. Whereas civil society
+organizations participating in Uganda’s health SWAp are
+considered weak, the organizations active in community-based
+monitoring contribute to the supply of a continuous flow of
+information on local-level realities. Williamson and Dom (2010)
+consider both the Rwandan and Ugandan parliaments weak. In
+particular, they point out the lack of effective pluralism, which
+is also evident in the fact that the political opposition, while
+formally permitted, is weak in comparison with the ruling
+party. However, several interviewees reported that the recently
+installed Ugandan Parliament (May 2011) has taken up a more
+critical stance and a more active role in (health) M&E. Hedger
+et al. (2010) also mention that the role of the Ugandan
+Parliament as watchdog is increasing, and that parliamentary
+committees such as the Social Service Committee and the
+Public Accounts Committee have become better informed. In
+both countries, connections between non-government actors
+tend to be largely underdeveloped in spite of the fact that they
+have different comparative advantages when it comes to
+(steering) M&E: while civil society organizations tend to have
+easier access to local-level data, universities are often better
+equipped for analysis, and parliament and donors may have
+more leverage at policy level. So far, however, parliament and
+donors have made little use of findings from community-based
+monitoring. It may be interesting for donors to consider
+supporting domestic accountability actors within the frame-
+work of a portfolio approach, where capacity improvement of
+domestic accountability actors is combined with increasing
+these actors’ room for manoeuvre, as well as with using
+information from local-level monitoring exercises in donors’
+sector dialogue with the government.
+Conclusion
+While the importance of M&E system improvement is
+increasingly being acknowledged, little strategic engagement
+has been shown in this area to date, even among donors that
+mention it in their mandates. We have aimed to contribute to
+this challenging and policy-relevant research agenda through
+the development of a diagnostic tool and its application to
+sector M&E systems. In this article, we have compared the
+health sector M&E systems of Rwanda and Uganda according
+to six broad dimensions of M&E: policy; quality of indicators
+and data (collection) and methodology; organization (struc-
+ture and linkages); capacity; participation of non-government
+actors; M&E output: quality and use. The focus on diagnosis
+is built on the assertion that, regardless of the approach
+adopted, an important first step in any M&E capacity
+improvement effort is to take stock of what already exists
+from both the supply and demand sides of M&E. This is
+consistent with the idea that small incremental changes to
+existing systems might be more feasible and workable than
+radical and abrupt changes that seek to impose blueprints
+from the outside.
+Acknowledgements
+We are grateful to the Ministries of Health, the Belgian
+Embassies and the offices of the Belgian Technical Co-operation
+in Rwanda and Uganda for their support during our field
+mission. We would also like to thank the interviewees we met
+in various settings for their invaluable contribution to this
+study. The findings, interpretations and conclusions presented
+in this report are entirely those of the authors and do not
+represent the views of the Rwandan or Ugandan Ministries of
+Health, the Belgian Development Co-operation or the Belgian
+Technical Co-operation.
+514 HEALTH POLICY AND PLANNING
+Downloaded from https://academic.oup.com/heapol/article/29/4/506/652391 by guest on 08 September 2025
+<<<PAGE=10>>>
+Funding
+The research has been conducted within the framework of the
+O-platform aid effectiveness. The policy research platform
+receives funding from the Belgian Directorate General of
+Development Cooperation through the Flemish Interuniversity
+Council for Development Cooperation.
+Endnotes
+1 For a more elaborate overview of the findings of the diagnostic
+reviews, please see Holvoet and Inberg (2011, 2012).
+2 Progress on the five Paris Declaration principles of ‘country owner-
+ship’, ‘harmonization’, ‘alignment’, ‘results orientation’ and
+‘mutual accountability’ is assessed on the basis of 12 indicators.
+3 The percentile rank specifies the percentage of countries that score
+below the country. The regional- and income-group averages for
+‘voice and accountability’ are in the 25th–50th percentile.
+4 The Ministry of Finance, Planning and Economic Development is
+responsible for budget monitoring, and both the Office of the
+Prime Minister and the National Planning Authority are respon-
+sible for the M&E of outputs and outcomes.
+5 The Joint Health Sector Working Group in Rwanda and the Health
+Policy Advisory Committee in Uganda.
+6 Kalk et al. (2010) highlight how the ‘crowding-out’ effect (the
+diminishing or erasing of intrinsic motivation due to external
+rewards) and ‘gaming’ (the focus on indicators that are in the
+system, thereby neglecting unrewarded indicators, or the falsifica-
+tion of results for maximization of reward) also remain a reality in
+Rwanda’s health sector.
+References
+Alliance for Health Policy and System Research. 2007. Health System
+Strengthening Interventions: Making the Case for Impact Evaluation.
+Briefing Note 2. Geneva: World Health Organisation.
+Aqil A, Lippeveld T, Hozumi D. 2009. PRISM framework: a paradigm
+shift for designing, strengthening and evaluating routine health
+information systems. Health Policy and Planning 24: 217–28.
+Basinga P, Gertler PJ, Binagwaho A et al. 2010. Paying Primary Health
+Case Centers for Performance in Rwanda. Policy Research Working Paper
+5190. Washington DC: World Bank.
+Bedi T, Coudouel A, Cox M, Goldstein M, Thornton N. 2006. Beyond the
+Numbers. Understanding the Institutions for Poverty Reduction Strategies.
+Washington DC: World Bank.
+Boesen N, Dietvorst D. 2007. SWAps in motion Sector Wide Approaches:
+from an aid delivery to a sector development perspective.
+Reflections from the Joint Learning Programme on Sector Wide
+Approaches, January 2006 to April 2007. Brussels: Europeaid
+(Train4dev.net).
+BTC (Belgian Development Agency). 2010. Debriefing revue sante´ 5–6
+octobre 2010—Gisenyi . Brussels: BTC, Last asccessed on May 2, 2013.
+Chan M, Kazatchkine M, Lob-Levyt J et al. 2010. Meeting the demand
+for results and accountability: a call for action on health data from
+eight global health agencies. PLoS Medicine 7: 1–4.
+Chansa C, Sundewall J, McIntyre D, Tomson G, Forsberg BC. 2008.
+Exploring SWAp’s contribution to the efficient allocation and use
+of resources in the health sector in Zambia. Health Policy and
+Planning 23: 244–51.
+Evans A, Piron L, Curran Z, Driscoll R. 2006. Independent Evaluation of
+Rwanda’s Poverty Reducation Strategy 2002-2005 (PRSP1) . London/
+Sussex: Overseas Development Institute (ODI)/Institute of
+Development Studies (IDS).
+Global Fund to Fight AIDS, Tuberculosis and Malaria, President’s
+Emergency Plan for AIDS Relief, United States Agency for
+International Development (USAID) et al. 2006. Monitoring and
+Evaluation Systems Strengthening Tool. USAID, Washington DC
+and Measure Evaluation. http://www.cpc.unc.edu/measure,
+accessed 2 May 2013.
+Government of Rwanda, Development Partners. 2008. Rwanda: Joint
+Governance Assessment. Brussels: Europeaid (Train4dev.net)
+Adopted by Cabinet on 12/09/08.
+Health Metrics Network. 2007. Assessment of the Health Information System
+in Uganda. Under Guidance of the Ministry of Health . Kampala:
+Resource Centre.
+Health Metrics Network. 2008. Framework and Standards for Country
+Health Information Systems . 2nd edn.Geneva: World Health
+Organisation.
+Hedger E, Williamson T, Muzoora T, Stroh J. 2010. Sector Budget Support
+in Practice. Case Study Education Sector in Uganda. London: Overseas
+Development Institute and Oxford: Mokoro.
+Holvoet N, Gildemyn M, Inberg L. 2012. Taking stock of monitoring and
+evaluation arrangements in the context of poverty reduction
+strategy papers: evidence from 20 aid-dependent countries in
+sub-saharan Africa. Development Policy Review 30: 749–72.
+Holvoet N, Inberg L. 2009. Joint sector reviews—M&E experiments in an
+era of changing aid modalities: experiences from JSRs in the
+education sectors of Burkina Faso, Mali and Niger. Public
+Administration and Development 29: 204–17.
+Holvoet N, Inberg L. 2011. Stocktaking and Assessing M&E Arrangements in
+Rwanda’s Health Sector: Evidence from Desk and Field Study. Antwerp:
+University of Antwerp, Institute of Development Policy and
+Management.
+Holvoet N, Inberg L. 2012. Sector M&E Systems in the Context of Changing
+Aid Modalities: the Case of Uganda’s Health Sector. Antwerp: University
+of Antwerp, Institute of Development Policy and Management.
+Holvoet N, Renard R. 2007. Monitoring and evaluation under the PRSP:
+solid rock or quicksand? Evaluation and Program Planning30: 66–81.
+Holvoet N, Rombouts H. 2008. The challenge of monitoring and
+evaluation under the new aid modalities: experiences from
+Rwanda. Journal of African Studies 46: 577–602.
+IHPþ. 2008. Monitoring performance and evaluating progress in the
+scale-up for better health, a proposed framework. Prepared by the
+monitoring and evaluation working group of the international
+health partnership and related initiatives (IHP þ) led by World
+Health Organisation and the World Bank.
+IHPþ. 2012. Joint Assessment of Rwanda’s Third Health Sector Strategic Plan
+(HSSP III’). Geneva: IHP þ.
+IHPþ, World Health Organisation. 2011. Monitoring, Evaluation and
+Review of National Health Strategies. A Country-led Platform for
+Information and Accountability. Geneva: World Health Organisation.
+Ireland M, Paul E, Dujardan B. 2011. Can performance-based financing
+be used to reform health systems in developing countries? Bulletin
+of the World Health Organisation89: 695–8.
+Kalk A, Paul FA, Grabosch E. 2010. Payment for performence in
+Rwanda: does it pay off? Tropical Medicine and International Health
+15: 182–90.
+Kaufmann D, Kraay A, Mastruzzi M. 2010. The Worldwide Governance
+Indicators: Methodology and Analytical Issues. World Bank Policy Research
+Working Paper 5430. Washington DC: World Bank.
+Kusek JZ, Rist RC. 2002. Building results-based monitoring and
+evaluation systems: assessing developing countries readiness.
+Zeitschrift fu¨r Evaluation 1: 151–8.
+Mackay K. 1999.A Diagnostic Guide and Action Framework. Evaluation Capacity
+Building—ECD Working Series No. 6. Washington DC: World Bank.
+MONITORING AND EVALUATION SYSTEMS IN RWANDA’S AND UGANDA’S HEALTH SECTOR 515
+Downloaded from https://academic.oup.com/heapol/article/29/4/506/652391 by guest on 08 September 2025
+<<<PAGE=11>>>
+Mackay K. 2007. How to Build M&E Systems to Support Better Government.
+Washington DC: World Bank, Independent Evaluation Group.
+Meessen B, Soucat A, Sekabaraga C. 2011. Performance-based
+financing: just a donor fad or a catalyst towards comprehensive
+health-care reform? Bulletin of the World Health Organisation 89:
+153–6.
+OECD (Organisation for Economic Cooperation and Development).
+2011. Progress and Challenges in Aid Effectiveness. What Can We Learn
+from the Health Sector? Final report. Paris: OECD. Working Party on
+Aid Effectiveness, Task Team on Health as a Tracer Sector.
+Patton MQ. 1998. Discovering process use. Evaluation 4: 225–33.
+Peters D, Chao S. 1998. The sector-wide approach in health: what is it?
+Where is it leading? International Journal of Health Planning and
+Management 13: 177–90.
+Quality Assurance Department. 2011. Resolutions of the 8th National Health
+Assembly. Powerpoint presentation at the National Health Assembly,
+October 2011. Kampala: Ministry of Health.
+Republic of Rwanda. 2009. Health Sector Monitoring and Evaluation Strategy
+2009/10-2012/13. Kigali: Republic of Rwanda, Ministry of Health.
+Republic of Uganda. 2009. Health Information System Strategic Plan 2009/
+10–2013/14. Draft May 2009. Kampala: Republic of Uganda.
+Republic of Uganda. 2010. First Annual Report on Corruption Trends in
+Uganda: Using the Data Tracking Mechanism. Kampala: Republic of
+Uganda, Inspectorate of Government.
+Sekabaraga C, Diop F, Soucat A. 2011. Can innovative health policies
+increase access to MDG-related services? Evidence from Rwanda.
+Health Policy and Planning 26: ii52–62.
+Uganda Debt Network. 2009. A Sourcebook for Community Based Monitoring
+and Evaluation System. Kampala: Uganda Debt Network.
+UNAIDS (Joint United Nations Programme on HIV/AIDS), MERG. 2009.
+12 Components Monitoring and Evaluation System Assessment Tool .
+Geneva: UNAIDS.
+UNDP (United Nations Development Programme). 2011. Human
+Development Report 2011. Sustainablity and Equity: A Better Future for
+All. New York: UNDP.
+Vaillancourt D. 2009. Do Health Sector-wide Approaches Achieve Results?
+Emerging Evidence and Lessons from Six Countries. Bangladesh, Ghana,
+Kyrgyz Republic, Malawi, Nepal, Tanzania. IEG Working Paper2009/4.
+Washington DC: Independent Evaluation Group, World Bank.
+Walford V. 2007. A Review of Health Sector Wide Approaches in Africa. HLSP
+Technical Paper. London: HLSP.
+Wild L, Domingo P. 2010. Accountability and Aid in the Health Sector .
+London: Overseas Development Institute and World Vision.
+Williamson T, Dom C. 2010. Sector Budget Support in Practice. Synthesis
+Report. London: Overseas Development Institute.
+World Health Organisation. 2006. World Health Statistics 2006. Geneva:
+World Health Organisation.
+World Health Organisation. 2008. World Health Statistics 2008. Geneva:
+World Health Organisation.
+World Health Organisation. 2009. World Health Statistics 2009. Geneva:
+World Health Organisation.
+World Health Organisation. 2010. Strengthening Monitoring and Evaluation
+Practices in the Context of Scaling-up the IHP þ Compact and Country
+Health Systems Surveillance, Uganda . Geneva: World Health
+Organisation.
+World Health Organisation. 2011. World Health Statistics 2011
+. Geneva:
+World Health Organisation.
+516 HEALTH POLICY AND PLANNING
+Downloaded from https://academic.oup.com/heapol/article/29/4/506/652391 by guest on 08 September 2025

@@ -1,0 +1,2281 @@
+<<<PAGE=1>>>
+RESEARCH ARTICLE
+Information use in public administration and policy
+decision-making: A research synthesis
+Paola Cantarelli1 | Nicola Belle 1 | Jeremy L. Hall2
+1Management and Healthcare Laboratory,
+Institute of Management, Scuola Superiore
+Sant’Anna, Pisa, Pisa, Italy
+2School of Public Administration, College of
+Community Innovation and Education, Orlando,
+Florida, USA
+Correspondence
+Nicola Belle, Management and Healthcare
+Laboratory, Institute of Management, Scuola
+Superiore Sant’Anna, Pisa, Via San Zeno 2,
+56127 Pisa, Italy.
+Email:
+nicola.belle@santannapisa.it
+Abstract
+This article presents a research synthesis of 162 studies focusing on information
+use for decision-making in public administration, management, and policy. The
+findings reveal that a significant proportion of work is centered around perfor-
+mance management and policy implementation. Notably, around one third of the
+reviewed studies adopt a behavioral science perspective. The analysis predomi-
+nantly includes civil servants and citizens as the subjects, with quantitative studies
+outnumbering qualitative investigations by more than twofold. We identify three
+distinct components in understanding information use: the objective features of
+information architecture; the subjective mechanisms involving cognitive biases
+(i.e., over-/under-reaction to irrelevant information features) and decision noise
+(i.e., heterogeneity); and the moderating role of information user typology. Context
+should also be taken into account. The article explores how these findings relate
+to current societal challenges and emphasizes the potential of mixed-methods,
+multisample, and/or multisite research in advancing knowledge in this area.
+Evidence for practice
+ Navigating information use for decision-making in public administration, man-
+agement, and policy is pivotal given the pressure to adopt interventions that
+work and the rapid growth in computational capacity.
+ Going beyond the actual fragmentation in the understanding of information use
+in public decision-making requires distinguishing objective features of informa-
+tion, subjective mechanisms of information use, and the moderating role of user
+characteristics, while also taking context into account.
+ If information use is influenced by behavior, we should broaden our concerns to
+include information technology, encompassing data collection, analysis systems,
+and the transformation of data into usable information.
+INTRODUCTION
+With increasing emphasis on big data, frequent admoni-
+tion to follow the science, and a heightened attention to
+evidence-based practice, there is renewed need to ask
+how is information used to make decisions in the context
+of public administration? What factors shape the kinds of
+information individuals seek, and how do they weigh
+information from different sources? Thinking ahead, will
+we need to reexamine our understanding with the advent
+of new technologies, such as artificial intelligence, that
+are capable of aggregating and analyzing vast quantities
+of data in a way that will reshape information use in pub-
+lic decisions? The literature on information use in public
+policy and administration is deeply fragmented, and con-
+sequently its application is varied and its meaning
+context-dependent. While our adoption of the term
+“information use” may carry certain connotations for dif-
+ferent subsets of that literature, that is, purposeful infor-
+mation use from the performance management literature
+(Kroll,
+2015a; Mikkelsen et al.,2023), we characterize the
+term more broadly in order to capture its role in a variety
+Received: 28 June 2023 Revised: 26 September 2023 Accepted: 26 September 2023
+DOI: 10.1111/puar.13735
+This is an open access article under the terms of theCreative Commons AttributionLicense, which permits use, distribution and reproduction in any medium, provided the
+original work is properly cited.
+© 2023 The Authors.Public Administration Reviewpublished by Wiley Periodicals LLC on behalf of American Society for Public Administration.
+Public Admin Rev.2023;83:1667– 1686. wileyonlinelibrary.com/journal/puar 1667
+<<<PAGE=2>>>
+of decision architectures and unique conceptualizations
+across our field (which is to say, including, but not limited
+to, performance management). Further, our research syn-
+thesis specifically explores cognitive biases.
+Recent studies provide prescriptive approaches to
+evidence-based and best practice integration (Hall &
+Jennings,
+2008;H e a d ,2008; Newcomer et al.,2023); others
+have endeavored to produce a descriptive foundation of
+differences that exist across geographies and organizations
+(Jennings & Hall,
+2012). The behavioral movement brings
+with it the use of experimental methodologies that exam-
+ine the effects of cognitive bias on the presentation, pro-
+cessing, and use of information, which have well
+established the human capacity to succumb unwittingly to
+errors of judgment in making decisions. But the behavioral
+perspective has only recently entered the sphere of aca-
+demic inquiry related to public decision makers’use of var-
+ied types of information. Stated differently, the kinds of
+information available to decision makers are now more
+varied and considerably more sophisticated. We are begin-
+ning to crack open the shell of independent components
+in information use, which necessitates we look more
+closely at how and when information is used with an eye
+toward how behavioral approaches might impact such
+decisions (Grimmelikhuijsen et al.,
+2017).
+This study takes a broad look at information use in
+public sector decision-making, including policy making,
+administrative choices, management and practice, by
+analyzing articles that contain at least one of the follow-
+ing keywords in the title: information, decision, use, or
+data. By conducting a synthesis of the literature, we
+explore the fundamental constructs that underpin the
+information use in public administration and policy. Par-
+ticularly salient to our understanding of this body of
+knowledge is the variety and scope of research methodol-
+ogies employed to understand information use. Hendren
+et al. (
+2018) point out the potential for a positive quantita-
+tive bias to crowd out qualitative studies that seek to drill
+down to an individual, organizational, or decision-level
+understanding of the cognitive factors at work in informa-
+tion processing and use. We are particularly attentive to
+work that employs a behavioral perspective, utilizing con-
+structs related to errors in judgment in the form of cogni-
+tive biases (Bellé et al.,
+2018). We report on several
+characteristics of the state of the art of scholarly under-
+standing of information use in public administration and
+policy decision-making, so as to pinpoint its main inde-
+pendent components and distill three key recommenda-
+tions for the advancement of knowledge for theory and
+practice alike.
+THEORETICAL FRAMEWORK
+Information is an essential component of decision-
+making, and consequentially, an integral component of
+public policy implementation and public management.
+Simon’s(
+1947) work reveals that we curtail information
+search by satisficing, rather than optimizing outcomes.
+Lindblom’s( 1959) theory of incrementalism, or successive
+limited comparisons, builds a framework of policy change
+based on limited information seeking, or rather, informa-
+tion seeking only at the margin. Fast forward half a cen-
+tury, and we find ourselves inundated with new
+applications for big data, fueled by rapid growth in tech-
+nological capacity and a performance movement that
+values collecting data to inform management (Andersen &
+Moynihan,
+2016; Desmidt & Meyfroodt,2023; Kroll,2015a;
+Mikkelsen et al., 2022; Moynihan, 2015; Pandey, 2015;
+Vogel & Hattke,2018). Since the turn of the millennium,
+the policy making elite have developed a new infatuation
+with science, calling for increased use of evidence to
+inform policy decisions at nearly every turn. Following the
+increasing sophistication of the electorate, and their
+attention to science as an answer to difficult questions
+from climate change to criminal justice, politicians have
+intensified their own admonition to follow the science.
+The result is an evidence movement spawned out of
+desire to replicate for other areas of policy and practice
+what experimental results have been able to achieve
+with pharmaceutical schedules. This movement has
+been referred to somewhat flippantly as “evidence-
+based everything” (Hall,
+2021). And finally, a concomi-
+tant movement in behavioralism, and behavioral public
+administration in particular, has begun to enhance our
+focus on the flaws in our information search, processing,
+and consequentially our decisions, as a result of cogni-
+tive biases and errors in judgment (Battaglio et al.,
+2019;
+Grimmelikhuijsen et al.,2017).
+Information plays a central role in public decisions, both
+policy making and management, breaching both realms at
+key junctures. In the 75 years since Simon’s( 1947)w o r k ,w e
+have come to understand most decisions in terms of
+whether or not they are intuitive or rational, and when ratio-
+nal, to what extent the information search is attenuated by
+satisficing. Information and its use are ubiquitous to public
+management, but we have not, as researchers, carved out
+an overt focus on information, per se. The advent of
+machine learning and artificial intelligence is raising new
+concerns about the manner in which information is used to
+influence decisions (Grimmelikhuijsen,
+2023; Hartmann &
+Wenzelburger, 2021). There is growing concern that infor-
+mation may be manipulated at various stages of the deci-
+sion process to achieve preconceived goals. Evidence itself
+has come under attack; President Trump famously forbade
+the use of the term “evidence-based” in agency budget
+requests (Hall and Battaglio
+2018) .T h es y m b o l i cu s eo fe v i -
+dence rather than the substantive use for improved out-
+comes is a real concern (Hall,
+2017). In this environment, the
+value of information— valid and reliable information— is at a
+premium. We need to take stock of the existing knowledge
+in our field through a systematic understanding of how
+information is treated in public administration research;
+doing so will enable us to identify the gaps and weaknesses
+1668 USE OF INFORMATION IN PUBLIC ADMINISTRATION
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=3>>>
+that decision makers will face as they move forward in this
+rapidly changing environment.
+Attention to information is not new; scholars have
+been concerned with how information enters various
+decision processes in the public sphere through both pol-
+icy and management. If we take these two broad classifi-
+cations, we see two distinct sets of theory building
+around the use of information in policy design and imple-
+mentation. Naturally, such division is myopic and neglects
+the central flaws of the politics versus administration
+dichotomy. It is impossible to eliminate the effects of poli-
+tics on implementation. And, as Pandey and colleagues
+note, policy making continues through implementation at
+the street level (Pandey, Cheng, and Hall
+2022). Nonethe-
+less, for conceptual circumspectness and clarity, the two-
+pronged approach is the way the field has developed. In
+public management, the focus on information grew with
+the performance movement, but the prominence of infor-
+mation use in that subfield neglects its important roles
+throughout other dimensions of practice and research.
+We are concerned with collecting information, comparing
+information, and from a management perspective, exam-
+ining how it has been used (Grossi et al.,
+2016;
+Kroll, 2015c; Vogel & Hattke,2018).
+The literature on information use is scattered and
+fragmented, with conceptual attention developing within
+unique silos (e.g., performance management, decision sci-
+ence, policy formulation, evidence-based practice). For
+example, Dimitrijevska-Markoski and Edward French
+(
+2019) examine the factors that influence managers’ use
+of performance information in Florida, finding that institu-
+tionalization and adequacy of the system design play
+measurably into information use. Li (2023) has shown that
+mandatory performance information disclosure has led to
+increased environmental inspections. Boer et al. (2018)
+show that disclosure of performance information influ-
+ences bureaucrats’ enforcement style. Kroll (
+2013) sug-
+gests that managers explore not only systematic
+quantitative information in making decisions, but that
+they also receive and process considerable amounts of
+nonroutine information, primarily from organizational
+insiders and relevant external stakeholders.
+Baekgaard and Serritzlew (
+2016) prompt us with the
+notion that performance information might be examined
+for comprehension or interpreted through motivated rea-
+soning. They find, in fact, that decision makers systemati-
+cally interpret performance information in ways that
+conform to their prior beliefs. Relatedly, Mikkelsen et al.
+(
+2022) find that the internal use of information is higher
+when data show a declining performance and the exter-
+nal use of information is higher when data show an
+improving performance. Belardinelli et al. (
+2018) examine
+whether the type of performance information use and
+the request to justify decisions affect the manner in which
+information is processed. Through survey experiments,
+their findings reveal that managers process performance
+information differently under ex post versus ex ante uses;
+managers are more likely to be subject to framing bias
+under ex post conditions. A recent literature review on
+the use that scholars make of data collected through the
+Federal Employee Viewpoint Survey signals that the field
+of human resource management is not absent in this
+domain (Somers,
+2018). These studies only scratch the
+surface of the information use literature. What is clear,
+however, is that it continues to be a central concern of
+management studies; there is a growing behavioral inter-
+est in the topic; that information use in this context is
+conceptually amorphous; and the science is growing
+increasingly sophisticated over time.
+On the policy side of the house, the role of informa-
+tion in shaping and influencing support for policy pro-
+posals has been of keen interest since the beginning of
+policy theory itself. Incrementalism or the successive lim-
+ited comparisons approach introduced by Lindblom is an
+explanation for the limited information seeking that takes
+place in making policy decisions. The counterpart, the
+rational comprehensive model, is presented as an infeasi-
+ble waste of time, digging up information on every possi-
+ble alternative, evaluating its likely effectiveness, and
+making purely rational decisions. Baumgartner and Jones’
+(
+1993) punctuated equilibrium theory unifies the
+approaches to explain how information is used in a lim-
+ited fashion when change is incremental, but more exten-
+sively when a problem reaches crisis stage. Workman
+et al. (
+2009) draw on these advances to lay out a broad
+theory of government information processing that inte-
+grates the study of agenda setting, policy dynamics, and
+information flows in the policy process, and relate it to
+core features of American government as inter-
+institutional dynamics and delegation within the policy
+process. Recent effort to systematize knowledge has
+focused on the use of data to foster social equity (Ruijer
+et al.,
+2023). All this is to say, simply, that agendas are
+influenced by information, and subsequent information is
+used to evaluate and advocate for different policy alterna-
+tives. A desire to know the effects of such policies has
+fueled efforts in policy analysis and evaluation, and these
+serve as the fodder for the evidence movement.
+The recent evidence-based movement is rooted in
+rationality, seeking to use scientific information in particu-
+lar to guide policy decisions. As Head (
+2016) notes, even
+though public agencies gather and process tremendous
+amounts of information, there has been scant analysis of
+how such information is actually utilized for policy and
+program improvement. Head (
+2016) has previously
+pointed out that scientific information, such as evaluation
+findings, must compete with other kinds of information,
+including political wisdom about what is acceptable and
+administrative wisdom about what is technically feasible.
+It is important, also, that we seek to better understand
+information use so as to disentangle these complexities.
+Newcomer et al. (
+2023) examine one clearinghouse of
+evidence-based approaches and find that the variety of
+information considered in making program classifications
+PUBLIC ADMINISTRATION REVIEW 1669
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=4>>>
+and rankings is woefully insufficient in its failure to inte-
+grate facts about context, and its failure to break down
+impact in ways that promote social equity. In any
+evidence-based endeavor, considerable variation will be
+observed as there are differences in motivation to seek
+information, varying levels of information availability, and
+information from professional and other sources about
+what works and what does not. Notably for our present
+interest, Newcomer et al. (
+2023) makes a point of noting
+that selection bias may be “limiting our knowledge of
+what works and where” (1057).
+Information seeking during the policy process does
+not take place in a sterile setting; it is not immune from
+politics. Hansen (2023), for example, examines whether
+performance information affects the political agenda. His
+results show that performance shortfalls receive political
+attention, regardless of the politicization of the environ-
+ment, which counters an extensive literature suggesting
+political context alters attention to performance informa-
+tion. In other words, political entities use performance
+data to focus attention on problem areas. Even budget
+policy has revealed that information shapes outcomes in
+important ways (Demaj,
+2017). Information processing as
+part of the policy process has been the subject of consid-
+erable theorizing, and information plays prominently into
+the framing of issues and policy alternatives.
+While information use is clearly important, it is also
+clear that its study is, at best, bifurcated, and at worst
+deeply fragmented. We seek to bring organization and
+understanding to this literature at this crucial time in
+order to fuel stronger theorization and conceptual devel-
+opment that bridges the policy and management divide,
+that reveals the array of methodological approaches to its
+study, and that reveals the extent to which behavioral
+approaches have begun to influence theories of informa-
+tion use and influence.
+Engaging a topic as broad and fragmented as this—
+information use— for a research focus poses certain haz-
+ards. Taking a novel approach to the construct, such as
+our explicit examination of behavioral concerns, compli-
+cates that considerably. In particular, we lack as a starting
+point any clear theoretical framework to guide the formu-
+lation of testable hypotheses in a traditional deductive
+manner. To that end, our work can be characterized as
+both exploratory and inductive, seeking to build theory
+and understanding from fragments of seemingly uncon-
+nected evidence scattered throughout the literature.
+Much like factor analysis seeks to define the dimensional-
+ity of a dataset, our efforts here seek to define the con-
+ceptual dimensionality of an otherwise broad and
+amorphous construct, information use. Our purpose can
+be best understood as being derived from an epistemo-
+logical foundation tied to a generative purpose, poten-
+tially constrained by the application of previous
+typologies/frameworks. This effort was inspired largely by
+the call to open up new avenues of knowledge and
+understanding through a reimagination or rethinking of
+the silos into which we have previously divided our work.
+As Alvesson and Sandberg (
+2020) note in their counter-
+point to Elsbach and Van Knippenberg’s argument for inte-
+grative reviews, “in contrast to the integrative review,
+which regards reviews as a‘building exercise’, the proble-
+matizing review regards reviews as an‘opening up exer-
+cise’ that enables researchers to imagine how to rethink
+existing literature in ways that generate new and‘better’
+ways of thinking about specific phenomena ” (1290).
+Others have made a strong case for a problematizing
+approach to literature synthesis to counter overly narrow
+conceptualizations of key phenomena (Strader et al.,2023).
+RESEARCH DESIGN
+Adopting Breslin and Gatrell ’s( 2023) metaphor of a
+miner-prospector continuum focused on the degree to
+which a literature review project aspires to develop a new
+theory, our research qualifies mostly as a miner-like effort
+that reaches the middle of the spectrum and heads
+toward being a prospector. In fact, our approach spans
+from spotting conceptual gaps, organizing and problema-
+tizing findings up to transferring theories across domains.
+This last component is trackable in the special focus dedi-
+cated to articles that adopt a behavioral science
+perspective.
+Inspired by searching criteria adopted in recent
+research syntheses in public administration scholarship
+(Andersen et al.,
+2016; Battaglio et al., 2019; George
+et al., 2021; Pandey et al., 2023), we defined the set of
+journals to search for primary studies by considering
+those outlets that are simultaneously ranked among the
+top 20 in the ISI Thomson Public Administration list and
+in the Public Policy and Administration Google Scholar
+Metrics list. At the time of our search (i.e., February 2023),
+the most updated rankings corresponded to 2021 and
+January 2023, respectively. The rationale behind this jour-
+nal selection process is twofold. On the one hand, the fact
+that a journal is included simultaneously in two rankings
+that are independent one from the other — instead of
+being listed in any of the two rankings alone— signals its
+general relevance for the discipline. Considering the over-
+lap between two independent lists might serve as a
+methodological advancement compared with existing
+research syntheses in public administration that have
+relied on a single ranking (e.g., Andersen et al.,
+2016;
+Battaglio et al., 2019). On the other hand, as both lists
+include blind peer-reviewed journals only, any articles
+published in such journals would have gone through
+peer-review processes aimed at maximizing theoretical
+soundness and empirical rigor. All in all, our procedure for
+the selection of journals diminishes the probability that
+we are ignoring relevant trends in the literature devoted
+to understanding the use of information in public admin-
+istration and policy decision-making. Based on these cri-
+teria, the journals of reference for our research synthesis
+1670 USE OF INFORMATION IN PUBLIC ADMINISTRATION
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=5>>>
+are the following 14 (in alphabetical order): Administra-
+tion & Society; Governance; Journal of Public
+Administration Research and Theory; Policy & Politics; Pol-
+icy and Society; Policy Sciences; Policy Studies Journal;
+Public Administration; Public Administration Review; Pub-
+lic Management Review; Public Money & Management;
+Regulation & Governance; Review of Public Personnel
+Administration; and The American Review of Public
+Administration. In developing our research string, we
+focused our keywords on our core research interest: the
+use of information for decision-making. The two funda-
+mental components of information use and decision-
+making form the heart of our research endeavor. As a
+result, keywords like“information,”“ use,” and “decision”
+naturally emerged. To minimize the risk of false-negative
+instances, we chose to avoid combinations of these key-
+words, such as “information use. ” Additionally, we
+included the term “data” to complement “information,”
+recognizing that these two concepts might sometimes be
+used interchangeably. To identify potentially relevant arti-
+cles, we used the Scopus website and restricted our
+search to manuscripts (i) written in English, (ii) classified
+as “article” instead of other typologies of outputs, and
+(iii) that contained at least one of the words
+“information,”“ decision,”“ use,” or “data” in their title.
+Precisely, then, our query was as follows:
+(TITLE (information) OR TITLE (decision) OR TITLE (use) OR
+TITLE (data)) AND (LIMIT-TO (EXACTSRCTITLE,“Public Adminis-
+tration Review”) OR LIMIT-TO (EXACTSRCTITLE,“Public Man-
+agement Review”) OR LIMIT-TO (EXACTSRCTITLE,“Journal of
+Public AdministrationR e s e a r c ha n dT h e o r y”) OR LIMIT-TO
+(EXACTSRCTITLE,“The American Review of Public Administra-
+tion”) OR LIMIT-TO (EXACTSRCTITLE,“Policy and Society”)O R
+LIMIT-TO (EXACTSRCTITLE,“Policy Studies Journal”) OR LIMIT-
+TO (EXACTSRCTITLE, “Review of Public Personnel Adminis-
+tration”) OR LIMIT-TO (EXACTSRCTITLE,“Governance”)O R
+LIMIT-TO (EXACTSRCTITLE, “
+Public Administration ”)
+OR LIMIT-TO (EXACTSRCTITLE, “Administration & Society”)
+OR LIMIT-TO (EXACTSRCTITLE, “Policy & Politics ”)O R
+LIMIT-TO (EXACTSRCTITLE, “Policy Sciences ”) OR LIMIT-
+TO (EXACTSRCTITLE, “Regulation & Governance ”)O R
+LIMIT-TO (EXACTSRCTITLE, “Public Money & Manage-
+ment”)) AND (LIMIT-TO (LANGUAGE, “English”)) AND
+(LIMIT-TO (DOCTYPE, “ar”))
+This process led to the identification of 413 primary
+studies. We retained all articles that focused on the use of
+information for making decisions. In other words, any
+research that explored the use of information to nurture
+decisions would meet our inclusion criteria. Conversely,
+studies lacking either an information use component or a
+focus on decision-making were excluded from our data-
+set. As an illustration, we excluded works solely con-
+cerned with information sharing if they were not
+relevant to information use and decision-making. To safe-
+guard intercoder reliability, we began assigning 10 articles
+to two authors, who initially screened and coded studies
+independently. Afterwards, the two authors conferred to
+ensure consistency in coding and discussed any mis-
+matches at length until reaching agreement on the code-
+book and coding approaches. The remaining articles were
+divided randomly and each coded by one author. Each
+author cross-checked the coding of the other on a subset
+of articles. At a later stage, to further validate intercoder
+reliability, the same two authors jointly analyzed 44 addi-
+tional articles. For each of the primary studies included in
+our final sample, we documented articles’ DOI, journal of
+publication, author(s), year of publication, research
+design, type of sample analyzed (if any), and geographic
+area of reference. Also, we classified primary studies along
+the following dimensions: public administration and pol-
+icy topic, main feature of the use of information being
+investigated, and behavioral public administration frame-
+work (if any) and related psychological mechanism inves-
+tigated. Figure
+1 summarizes the process used for the
+selection of primary studies based on the standard and
+widely used PRISMA flow diagram (
+http://prisma-
+statement.org/prismastatement/flowdiagram.aspx).
+RESEARCH FINDINGS
+The in-depth analysis of primary studies that were
+retrieved based on our search criteria returned 162 articles
+on the use of information in public administration and
+policy decision-making. Results are reported in a series of
+tables, whose order mirrors the dimensions targeted by
+our review, namely topic, target feature of information,
+behavioral focus, sample, research design, and country.
+We further include a segmentation by decade in Tables
+4
+through 6 to enhance readability and elucidate the
+observed trends.
+Table 1 provides a breakdown of the 162 articles by
+journal of publication and public administration and pol-
+icy topic. As to the outlet, the vast majority of primary
+articles appear in Public Administration Review, which
+published about 28 percent of the entire sample of stud-
+ies synthesized. About 16 percent of articles are published
+in Public Administration and 14 percent in Public Man-
+agement Review. These top-three outlets are followed by
+the Journal of Public Administration Research and Theory,
+counting the publication of about 10 percent of the pri-
+mary studies, Policy Sciences with about 8 percent of
+primary articles, and Policy Studies Journal and Gover-
+nance with 6 percent each. Of the 14 journals that were
+included in our search strategy, two have not published
+any articles of interest for our work at this point. Those
+are Regulation & Governance and Public Money & Man-
+agement. The remaining outlets published articles on the
+use of information to make decisions that account for a
+maximum of 4 percent and a minimum of 2 percent of
+the total.
+Moving to the main topic investigated, the top two
+areas of research for the use of information in decisions
+are related to performance management (among the most
+PUBLIC ADMINISTRATION REVIEW 1671
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=6>>>
+recent Choi & Woo, 2022; Christensen & James, 2022;
+Hansen & Nielsen, 2022; Lerusse & van de Walle,2022a,
+2022b;M e i e re ta l . ,2022; Mikkelsen et al.,2022) and policy
+making and implementation (among the most recent
+Chen & Greitens, 2022;D e L e o&D u a r t e ,2022; Ruijer
+et al., 2023;S h a f r a n ,2022;T u r n e re ta l . ,2022;Z h u
+et al., 2022). More precisely, the use of data in managing
+performance accounts for 28 percent of the total number
+of primary studies, equaling the use of data to design and
+implement public policies that also accounts for 28 percent
+of the sample. These topics are followed by investigations
+of the use of information for stakeholder governance
+(14 percent of the studies) (e.g., Funke et al.,
+2021;
+Jungblut & Jungblut, 2022; Meyfroodt & Desmidt, 2022;
+Solorio et al.,2023), budgeting and finance (11 percent)
+(e.g., Brunner et al., 2021; Lindermüller et al., 2022;v a n
+d e rV o e t&L e m s ,2022), and managing human resources
+(9 percent) (Hong & Kim,2019; Petersen et al.,2019). The
+o c c u r r e n c eo fe a c ho ft h er e m a i n d e ro ft o p i c si sl e s s
+than 6 percent in the final sample. Nevertheless, a better
+understanding of these topics might well be on the rise
+in terms of both research and practice in the near future
+because of their relevance for today ’s societal chal-
+lenges. These topics are related to the use of information
+to better understand the psychology of decision-making
+(5 percent) (e.g., Murat Yildirim
+2020; Nowlin, 2021), to
+govern during public emergencies (3 percent)
+(e.g., Phillips et al.,2023;W ue ta l . ,2022), to account for
+the role of algorithmic decisions and artificial intelli-
+gence (1 percent) (Grimmelikhuijsen,
+2023; Hartmann &
+Wenzelburger, 2021), and the reduction of administra-
+tive burdens faced by citizens when interacting with
+government organization or faced by civil servants while
+engaged in delivering public services (1 percent) (Linos
+et al.,
+2022). Overall, Public Administration Review seems
+to be the journal that has taken the lead in publishing
+research on the use of information to make decisions for
+both the most and least investigated topics.
+Table
+2 portrays the breakdown of our primary studies
+classified by the main feature of information being con-
+sidered. A subgroup of studies is focused on one feature
+only, whereas other studies simultaneously investigate up
+to three features of the use of information. Generally
+speaking, the range of aspects that previous studies have
+explored to gain a better understanding of information
+use in decision-making in public administration and pol-
+icy tend to be wide. In other words, the variability of key
+aspects of information being considered when data use is
+concerned is high, with just a handful of features recur-
+ring more frequently. The most frequent features being
+studied are: information content (19 studies focused on
+that feature alone, and 6 additional articles investigate
+content in conjunction with other information features)
+(e.g., Bel et al.,
+2021; Blom-Hansen et al.,2021; DeLeo &
+Duarte, 2022; Harrits, 2019; Hong & Kim,2019; Mizrahi &
+Minchuk, 2020; Walker et al.,2018; Wang & Niu,2020)a n d
+information purpose (18 studies) (e.g., Choi & Woo,2022;
+George & Desmidt,2018; Korac et al.,2020; Meyfroodt &
+Desmidt, 2021; Micheli & Pavlov,2020; Nitzl et al.,2019;
+Ruijer et al., 2023; Tantardini, 2022), followed by
+evidence-based information (16 studies with exclusive
+focus and 1 study with an additional focus) (e.g., Hall &
+van Ryzin,
+2019; Head, 2016; Petty et al., 2018; Turner
+et al., 2022; Wagner et al., 2021), information relativity
+Records identified from:
+Databases (n = 413)
+Records screened
+(n = 413)
+Records excluded
+(n = 251)
+Studies included in review
+(n = 162)
+Identification of studies via databases
+IdentificationScreeningIncluded
+FIGURE 1 PRISMA 2020 flow diagram.
+1672 USE OF INFORMATION IN PUBLIC ADMINISTRATION
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=7>>>
+(16 studies) (e.g., George, Baekgaard, et al., 2020;
+Holm, 2017; Hong et al.,2020; Petersen et al.,2019; van
+der Voet & Lems,2022), information availability (10 stud-
+ies) (e.g., Boer et al.,2018; Wit & Bekkers,2020), and fram-
+ing of information (10 studies interested on framing alone
+and an additional study interested on its framing and pur-
+pose) (e.g., Belardinelli et al.,
+2018; Mikkelsen et al.,2022;
+Porumbescu et al.,2021).
+Of the 162 primary studies synthesized in our work,
+49 adopt a behavioral public administration approach. In
+other words, about 30 percent of the available public
+administration research on the use of information to
+make decisions applies insights from the broader social
+science to study how cognitive biases can impinge on
+decisions in public administration contexts. Of these stud-
+ies, 16 illuminate our understanding of how the accessibil-
+ity of information generates systematic patterns of
+deviations from rationality in choices (e.g., Demaj,
+2017;
+Harrits, 2019;R o b e r t s&W e r n s t e d t ,2019), 8 explore loss
+aversion in decision-making (e.g., Bellé et al.,2018; James &
+Moseley, 2014), and 7 examine how framing effects have
+an impact on information use (e.g., Mikkelsen et al.,2022;
+van der Voet & Lems,2022). These areas of behaviorally
+inspired inquiry are followed by others that examine
+bounded rationality (e.g., Walgrave & Dejaeghere,
+2017),
+nudge theory (e.g., Esmark, 2019), confirmation bias
+(e.g., Christensen, 2018), and sector bias (e.g., Meier
+et al., 2022). Table 3 portrays the full range of behavioral
+mechanisms currently analyzed by public administration
+and policy scholarship devoted to better understand how
+information are used to make decisions.
+Table
+4 reports the distribution of studies by typology of
+sample unit analyzed (if any) and by decade in which the
+article was published. About 20 percent of the papers
+explore the use of information in decision-making among
+public managers exclusively (among the most recent
+Hansen & Nielsen,
+2022; Hong & Kim, 2019;
+Lewandowski, 2019; Meyfroodt & Desmidt, 2022), about
+14 percent among citizens (among the most recent
+Christensen & James,
+2022;L i n o se ta l . ,2022;M e i e r
+et al., 2022), 13 percent among public employees (among
+the most recent Choi & Woo,2022; Dimitrijevska-Markoski &
+Edward French, 2019), 10 percent based on documents
+(among the most recent DeLeo & Duarte,2022; Jungblut &
+Jungblut,2022;T u r n e re ta l . ,2022), 9 percent at an organiza-
+tional level (e.g., Chen & Greitens,2022; Phillips et al.,2023),
+9 percent among elected officials (e.g., Meyfroodt &
+Desmidt, 2021;v a nd e rV o e t&L e m s ,2022), 3 percent
+among students (e.g., Christensen, 2018;M a r k s&
+Gerrits, 2018), and 2 percent are based on big data
+(e.g., Giest,2017; Lavertu,2016). In about 11 percent of the
+cases, the classification by sample unit is not applicable
+because studies are not empirical (e.g., Giest &
+Samuels, 2020;M a o r ,2020). Interestingly, the remainder of
+studies employ more than one sample, a trend that seems
+to be on the rise in the last decade (e.g., Lerusse & van de
+Walle, 2022a; Mosley & Gibson,2017).
+TABLE 1 Studies on the use of information in decision-making, by topic, by journal.
+Administration
+and society Governance
+Journal of public
+administration
+research and
+theory
+Policy
+and
+politics
+Policy
+and
+society
+Policy
+sciences
+Policy
+studies
+journal
+Public
+administration
+Public
+administration
+review
+Public
+management
+review
+Review of public
+personnel
+administration
+The American review
+of public
+administration
+N
+tot %
+Performance
+management
+2 2 3 1 11 15 10 2 46 28%
+Policy making and
+implementation
+36 1 1 3 8 5 8 5 4 1 4 5 2 8 %
+Stakeholder
+governance
+41 2 2 3 7 3 2 2 1 4 %
+Budgeting and finance 4 1 3 8 2 18 11%
+Human resource
+management
+1 4 1 1 4 4 15 9%
+Psychology of decision-
+making
+22 3 1 8 5 %
+Emergency
+management
+1 31 5 3 %
+Algorithmic decisions
+and Artificial
+intelligence
+11 21 %
+Administrative burden 1 11 %
+N tot 6 9 16 2 3 13 10 26 46 23 4 4 162
+% 4% 6% 10% 1% 2% 8% 6% 16% 28% 14% 2% 2%
+PUBLIC ADMINISTRATION REVIEW 1673
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=8>>>
+As for the cross tabulation of studies by research
+design and by decade of publication (Table 5), about
+28 percent of the primary studies adopt a quantitative
+cross-sectional approach (among the most recent Bel
+et al., 2021; Meyfroodt & Desmidt, 2021, 2022; Wagner
+et al., 2021), 25 percent experimental designs with ran-
+domization procedures to assign participants to groups
+(among the most recent Christensen & James, 2022;
+Grimmelikhuijsen, 2023; Hansen & Nielsen, 2022;
+Lindermüller et al., 2022), 20 percent qualitative analysis
+(among the most recent Jungblut & Jungblut, 2022;
+Phillips et al.,2023; Solorio et al.,2023; Zhu et al.,2022),
+11 percent use a normative approach (e.g., Esmark,2019;
+Isett & Hicks,2018), 7 percent employs quantitative longi-
+tudinal analyses (e.g., Shafran,2022; Wu et al.,2022), and
+5 percent espouses mixed methods (e.g., DeLeo &
+Duarte, 2022; Head, 2016; Linos et al.,2022). Quantitative
+studies with a panel design (Hondula et al.,2018; Hong
+et al., 2020), research syntheses (Ruijer et al., 2023;
+Somers, 2018), and quantitative analyses based on admin-
+istrative data (Hong & Kim,2019) account for 1 percent
+each and appear for the first time in the last decade. The
+number of studies using randomized control trials or
+qualitative inquiries seems to be increasing for the cur-
+rent decade compared with the previous decade,
+whereas the adoption of mixed methods does not show
+evident patterns of rapid growth yet.
+Of the 142 studies that specify the country setting
+(Table
+6), the majority have been conducted in Europe
+(42 percent) (among the most recent Linos et al.,2022;
+Phillips et al.,2023) or North America (40 percent) (among
+the most recent Brunner et al.,2021; Meier et al.,2022).
+These are followed by work conducted in Asia (8 percent)
+(among the most recent Chen & Greitens, 2022; Zhu
+et al., 2022), multiple countries (6 percent) (among the
+TABLE 2 Studies on the use of information in decision-making, by
+main feature(s) of information being studied.
+N tot
+Asymmetry 1
+Availability 10
+Availability, relativity 1
+Big data 2
+Big data, purpose 1
+Content 19
+Content, evidence-based 1
+Content, framing, source 1
+Content, ownership, relativity 1
+Content, quality, source 1
+Content, quantity 1
+Content, source 1
+Directionality 1
+Disclosure 1
+Dissonance 6
+Drawbacks 4
+Drawbacks, quality 1
+Evidence-based 16
+Evidence-based, institutionalization 1
+Format 3
+Framing 10
+Framing, purpose 1
+Institutionalization 5
+Institutionalization, publicness 1
+Institutionalization, quality 1
+Medium 3
+Novelty, quality 1
+Order 2
+Ownership 1
+Process 1
+Publicness 2
+Publicness, relativity 2
+Purpose 18
+Quality 6
+Quality, purpose 2
+Quality, quantity 2
+Quality, source, relevance 1
+Quantity 8
+Relativity 16
+Source 5
+Transparency 1
+N tot 162
+TABLE 3 Studies on the use of information in decision-making, by
+behavioral mechanisms investigated (if any).
+N tot
+Accessibility 11
+Accessibility, framing 2
+Accessibility, loss aversion 2
+Accessibility, reference dependence 1
+Anchoring, halo 1
+Bounded rationality 4
+Confirmation bias 3
+Confirmation bias, sector bias 1
+End effect 1
+Framing 6
+Framing, isomorphic pressures 1
+Intuition vs. reasoning 1
+Isomorphic pressures 1
+Loss aversion 8
+Nudging 3
+Reference dependence 1
+Sector bias 2
+N tot 49
+1674 USE OF INFORMATION IN PUBLIC ADMINISTRATION
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=9>>>
+most recent Bel et al., 2021; Blom-Hansen et al., 2021),
+Australia (3 percent) (e.g., Head,2016; Head et al.,2014),
+Africa (1 percent) (Funke et al.,2021), and South America
+(1 percent) (Avellaneda,2013). Studies adopting a multi-
+country perspective or set in currently underrepresented
+continents seem to be on the rise.
+As a robustness test for our methods and analyses, we
+applied our search and analysis to the journal Public
+Performance & Management Review, which did not meet
+the criteria for the inclusion of outlets at the time in
+which the research was conducted. Knowing that many
+journals consider our selected topics of interest, we strove
+to focus on those with the widest impact. Because
+research that emphasizes performance and the use of
+information in management decisions is not limited to
+the journals selected using our methodology, we believed
+it is necessary to determine whether expanding the
+search would adversely shape our findings. Its inclusion
+and possibly the inclusions of similar journals would have
+increased the number of analyzed studies without, how-
+ever, changing the nature of findings and derivation of
+our framework.
+1
+Overall, our findings suggest that research into the
+use of information in public decision-making has focused
+on three independent components that can be summa-
+rized in one comprehensive framework. The first factor
+refers to objective features of the piece of information,
+with those features defining the information architecture.
+Information architects and users design and edit the con-
+text in which the objective information features are set.
+Examples of objective features of information, include, for
+instance, its content (Bozeman & Pandey,
+2004); format—
+for instance, whether information is presented in a textual
+or visual form (Isett & Hicks,
+2018); nature— for instance,
+whether it is routine or nonroutine (Tantardini, 2019);
+purpose— for instance, whether the aim for the usage is
+to assess past performance or make decisions for future
+interventions (Belardinelli et al., 2018) or benchmark
+(Ammons & Rivenbark, 2008); or source— for instance,
+whether the institution providing the information is pub-
+lic or private (Lerusse & van de Walle,2022a). In short,
+information architecture encompasses objective features
+of information, which are inherently numerous and het-
+erogeneous in nature.
+TABLE 4 Studies on information use in decision-making, by sample unit investigated (if any), by decade of publication.
+1980–89 1990 –99 2000 –09 2010 –19 2020 N tot %
+Public managers 2 2 26 3 33 20%
+Citizens 1 2 8 12 23 14%
+Public employees 2 3 15 1 21 13%
+N/A 1 3 11 3 18 11%
+Documents 1 4 5 7 17 10%
+Government organizations 1 1 3 4 6 15 9%
+Elected officials 1 2 6 5 14 9%
+Students 1 3 1 5 3%
+Multiple— elected officials and public managers 4 4 2%
+Multiple— public managers and employees 1 1 1 1 4 2%
+Big data 33 2 %
+Multiple— elected officials and citizens 1 1 1%
+Multiple— elected officials and students 1 1 1%
+Multiple— elected officials, public managers, citizens 1 1 1%
+Multiple— public and private employees 11 1 %
+Multiple— public employees and citizens 11 1 %
+N tot 5 8 20 84 45 162
+% 3% 5% 12% 52% 28%
+1As a robustness test for our methods and analyses, we applied our search and
+analysis to the journalPublic Performance & Management Review. In other words,
+we applied the searching string and inclusion criteria that we previously adopted
+for all the other journals to a single journal that, albeit not meeting our outlet
+inclusion criteria, is potentially specialized on the study of information use in
+decision-making in the context of public administration. This search returned
+44 articles published in Public Performance & Management Review. Of those, upon
+the screening of abstracts and full papers that two of the authors made jointly,
+12 were deemed appropriate for inclusion in the study and were hence coded. As
+to the topic that these studies investigate, nine focus on performance
+management, two focus on budgeting and finance, and 1 focuses on stakeholder
+governance. The main feature(s) of information being studied are as follows:
+content (4 studies), format (3), content and source (1), asymmetry (1), availability
+(1), purpose (1), and source (1). Among the 12 articles, only 4 adopt a behavioral
+perspective, with 2 studies looking at the mechanism of accessibility, 1 of
+bounded rationality, and 1 of reference dependence. All in all, the inclusion of
+Public Performance & Management Review and possibly similar journals would
+have increased the number of analyzed studies without, however, changing the
+nature of findings. In fact, the topics, target feature(s) of information, behavioral
+focus, sample, research design, and country of the 12 studies published in Public
+Performance & Management Review already emerged from the articles published
+in outlets that met our inclusion criteria.
+PUBLIC ADMINISTRATION REVIEW 1675
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=10>>>
+The second component of the parsimonious model of
+information use in public decision-making that our litera-
+ture review isolates is related to the subjective mecha-
+nisms of the use of information that might trigger
+systematic cognitive biases or nurture variability in the
+form of decision noise. For example, keeping the objec-
+tive features of information constant, different degrees of
+actual understanding, ease of recall, framing effects, or
+loss aversion may jump in (Belardinelli et al.,
+2018; Bellé
+et al.,2018; Olsen,2017). Public administration and policy
+decisions are a prime example of mental operations
+called judgments (Kahneman et al., 2021). Kahneman
+et al. (2021) argue that“some judgments are biased; they
+are systematically off target. Other judgments are noisy,
+as people who are expected to agree end up at very dif-
+ferent points around the target” (2021, 9). According to
+their reasoning, bias and noise are two independent com-
+ponents of overall error. Specifically, bias is the average of
+errors and noise is the variability of errors. When informa-
+tion users make decisions based on a given information
+architecture with certain objective features, subjective
+mechanisms might influence the likelihood that they will
+fall prey to systematic bias or that different individuals
+will opt for significantly different solutions in identical
+cases.
+The third component of the framework speaks to the
+type of user as a variable that moderates the relationship
+between objective information features and subjective
+mechanisms of information use. Examples of different
+typologies of users include Econs versus Humans,
+machines versus humans, individuals with low versus
+high field expertise, or decision makers versus decision
+recipients. Figure
+2 provides a graphical representation of
+this framework, in which the three components are mutu-
+ally exclusive and should help organize future work for
+the advancement of our understanding of information
+use in public decision-making. As illustrated in Figure
+2,
+our framework posits an interaction between objective
+features of information (i.e., information architecture) and
+type of information user on information use. Moreover,
+the interplay and dynamics among the three components
+are influenced by contextual factors, such as organiza-
+tional culture (Andersen & Moynihan,
+2016) or institu-
+tional features (George, Baekgaard, et al.,2020).
+DISCUSSION
+Our research synthesis aimed at fueling stronger theoriz-
+ing and conceptual development in scholarly and
+TABLE 6 Studies on information use in decision-making, by country of data collection (if any).
+1980–89 1990 –99 2000 –09 2010 –19 2020 N tot %
+Europe 1 4 36 19 60 42%
+North America 3 6 10 27 11 57 40%
+Asia 3 8 11 8%
+Multiple 1 2 3 2 8 6%
+Australia 1 3 4 3%
+Africa 11 1 %
+South America 1 1 1%
+N tot 4 7 17 73 41 142
+% 3% 5% 12% 51% 29%
+TABLE 5 Studies on information use in decision-making, by research design and decade.
+1980–89 1990 –99 2000 –09 2010 –19 2020 N tot %
+Quantitative— cross section 1 1 7 29 7 45 28%
+Quantitative— randomized controlled trial 1 2 20 18 41 25%
+Qualitative 2 3 7 12 9 33 20%
+Normative 1 3 11 3 18 11%
+Quantitative— longitudinal 2 2 4 4 12 7%
+Mixed methods 1 5 2 8 5%
+Quantitative— panel 11 2 1 %
+Research synthesis 11 2 1 %
+Quantitative— administrative data 1 1 1%
+N tot 5 8 20 84 45 162
+% 3% 5% 12% 52% 28%
+1676 USE OF INFORMATION IN PUBLIC ADMINISTRATION
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=11>>>
+practical understanding of information use in public
+administration and policy decision-making. This is rele-
+vant to bridge the policy and management divide,
+uncover the array of methodological approaches to its
+study, and reveal the extent to which behavioral
+approaches might contribute to its advancement from
+the microlevel perspective. We did so by standing some-
+where in between the miner-prospector continuum with
+an inductive and generative goal. Specifically, we spotted
+conceptual gaps, organized and problematized insights,
+and noted the transfer of theories across domains. This
+approach translated into the identification of three inde-
+pendent components of information use in public admin-
+istration and policy decision-making. These components
+are the information architecture that entail objective fea-
+tures, the information use where the microlevel subjective
+mechanisms jump in, and the type of information users
+that can moderate the relationship between the two
+other variables. Additionally, contextual factors should be
+taken into account to investigate the interplay and
+dynamics among such components. These pave the way
+to the identification of a parsimonious list of recommen-
+dations, which we present and discuss below.
+Our literature review indicates that the academic
+understanding of information use in core public policy
+and administration decision domains is not yet compre-
+hensive. For instance, compared with other topics— most
+notably performance information (Choi & Woo,
+2022;
+Christensen & James, 2022; Desmidt & Meyfroodt, 2023;
+Grøn & Kristiansen, 2022; Kroll, 2015c; Lerusse & van de
+Walle, 2022a, 2022b; Meier et al., 2022; Mikkelsen
+et al., 2022; Pandey, 2015; Tantardini, 2022; Vogel &
+Hattke, 2018)— scant research has so far focused on infor-
+mation use to manage unforeseen public emergencies
+(Bel et al.,2021; George, Verschuere, et al.,2020; Phillips
+et al.,2023; Wu et al.,2022), to adopt artificial intelligence
+and algorithm-determined decisions in a way that take
+accounts of its promise and perils, and to reduce adminis-
+trative burdens when citizens interact with government
+or civil servants interact with their institutions. This seems
+especially unfortunate considering Herbert Simon’s recog-
+nition that“decision-making is at the heart of administra-
+tion” (1947, xi). Our synthesis unveils that information use
+for decisions made under public emergencies has been
+explored in the context of tornado warning (Robinson
+et al.,
+2019) and the Covid-19 pandemic (Bel et al.,2021;
+George, Baekgaard, et al., 2020; George, Verschuere,
+et al., 2020; Phillips et al.,2023;W ue ta l . ,2022) focusing
+on consequential individuals’ behaviors or benchmarking
+across governments.
+As to the opportunity of letting artificial intelligence
+instead of human decision makers use information, few top-
+notch studies discuss how information produced by algo-
+rithms introduce the novel opportunity of statistical predic-
+tion for real-life situations (Hartmann & Wenzelburger,
+2021)
+or whether and how access to and ease of understanding of
+automated algorithms have an impact on trust
+(Grimmelikhuijsen,2023). We anticipate and encourage an
+increase in the count of such studies in the coming years
+due to recent trends. To wit, the current accountability lan-
+guage of the policy elite emphasizes increased reliance on
+information through their admonition to follow the science,
+to engage in evidence-based practice, and to implement
+proven programs. As to the field of administrative burden, a
+randomized controlled trial in Greece demonstrates that rea-
+sonably up to date communication technologies may back-
+fire and increase — rather than decrease — recipients’
+burdens of seeking information about free government ser-
+vices. Importantly, the negative impact is larger for the most
+disadvantaged segments of the population, that is, those
+Type of information users 
+Information use Information architecture 
+Context 
+FIGURE 2 Independent components of information use in public administration and policy decision-making.
+PUBLIC ADMINISTRATION REVIEW 1677
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=12>>>
+that the policy targets and aims at helping through a reduc-
+tion in administrative burdens. To solicit information for free
+dental care services, in fact, participants were more likely to
+use traditional communication tools— in the form of a pre-
+paid postcard and a postcard requiring postage— than more
+modern tools— namely a hotline or email (Linos et al.,
+2022).
+Based on these elements, we formulate the following rec-
+ommendation to advance research and practice into infor-
+mation use for public decision-making.
+Recommendation 1. Strengthening research
+into evidence-based information use in
+public decision-making beyond the study of
+performance information
+Furthermore, our research synthesis reveals a number of
+information features that can naturally connect two litera-
+ture streams, namely the one that is concentrated on the
+use of information for public decision-making (Kroll,
+2015a)
+to the one devoted to the application of behavioral science
+insights to public administration and policy challenges
+(Battaglio et al.,
+2019). In particular, features such as data
+availability, format, framing, purpose, or supporting evi-
+dence are variables that behavioral public administration
+scholars also study in depth because of their impact on
+judgment errors and decision variability (Ballard,
+2020;
+Belle et al., 2022;O l s e n ,2017). Even more telling for the
+establishment of a bridge between the two literature
+streams is the fact that about one third of the primary arti-
+cles synthesized in our work explicitly employ a behavioral
+science lens to address information use issues. Behavioral
+public administration was decidedly formalized in our dis-
+cipline less than a decade ago as the “interdisciplinary
+analysis of public administration from the microlevel per-
+spective of individual behavior and attitudes by drawing
+on recent advances in our understanding of the underlying
+psychology and behavior of individuals and groups ”
+(Grimmelikhuijsen et al.,
+2017, 46). Afterward, a systematic
+review traced the origins of behavioral public administrator
+back to its roots (Battaglio et al.,2019)a n dac r i t i c a lr e f l e c -
+tion isolated where the behavioral public administration is
+currently on track and where route adjustments might be
+needed (Bhanot & Linos,
+2020). By integrating rational
+choice models for decision-making, a few decades of main-
+stream behavioral science research have revealed that
+decision makers tend to be prone to judgment error in the
+form of predictable deviation from rationality, the so-called
+cognitive biases (Kahneman,
+2011). Alongside bias, the
+most recent developments in behavioral science work
+have theorized unwanted variability in decisions, the so-
+called noise (Kahneman et al.,
+2021). When studying judg-
+ment errors across fields, it is imperative to consider bias
+and noise simultaneously because they do not cancel out
+each other but rather add up. When a group of public
+managers make estimations that are similar though far
+away from the target, decisions are biased. When a group
+of public managers make different decisions in the face
+of the same information, their judgments are subject to
+noise. Interestingly, both bias and noise can sometimes be
+reduced through nudges (Kahneman et al.,
+2021;T h a l e r
+and Sunstein 2021). Furthermore, cognitive biases and
+decision noise resonate with very recent research on over-/
+under-reaction to irrelevant information features and deci-
+sion heterogeneity, respectively (Bordalo et al.,
+2023).
+Overall, drawing on the full set of perspectives —
+which currently range from rational choice approaches to
+the study of departures from rationality in the form of
+bias and noise — might accelerate our understanding
+of information use in public administration and policy
+decision-making. The information architecture that deter-
+mines objective information features might be informed
+by rationality, whereas the study of the use of information
+that different individuals make and their subjective mech-
+anisms might leverage on predictable irrationality and
+unwanted variability. This investment might bring mean-
+ingful returns in balancing the import– export ratio of the-
+ories among disciplines (Breslin & Gatrell,
+2023) and
+diminishing the time required to close the science –
+practice gap (Perry, 2012). Additionally, such an invest-
+ment could easily connect nascent attempts to include
+both a microlevel perspective (e.g., Bjørnholt et al.,
+2016;
+Pfiffner, 2019; Rubin et al.,2023; Tantardini, 2022; Zhang
+et al.,2016) and contextual factors— such as social capital
+(Tantardini & Kroll,2015)— into the analysis of information
+use in making decisions. Based on these insights, we for-
+mulate the following recommendation to advance the
+theorizing of information use for public decision-making.
+Recommendation 2. Theorizing about the
+use of information in public decision-making
+should distinguish objective features of
+information, subjective mechanisms
+of information use, and user characteristics,
+while also taking context into account
+The final reflection goes to the research designs and
+methods that, with regard to the state of the art, should
+drive future scholarly efforts dedicated to providing an
+overarching understanding of information use in public
+decision-making. Our synthesis of the literature unveils a
+prevalence of primary studies that employs a single
+method, sample, and site. Eight studies in our review
+adopted a mixed-methods approach, collecting data on a
+single sample in a single continent (e.g., Harrits,
+2019;
+Linos et al.,2022; Newman et al.,2016). Two primary arti-
+cles in our synthesis used multiple samples in different
+countries with a single method (Bellamy et al.,
+2008;
+Blom-Hansen et al., 2021). Randomized controlled trials
+are the gold standard for establishing the why in cause-
+and-effect relationship. In other words, randomized
+experiments are the most efficient tool to get an unbi-
+ased estimate of the impact of a deliberate treatment.
+1678 USE OF INFORMATION IN PUBLIC ADMINISTRATION
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=13>>>
+Compared with other designs and methodologies, they
+score higher on the internal validity of inference. Observa-
+tional research is better suited to illuminate the micro-
+mechanisms behind an observed effect, thus providing
+indications about the how an outcome comes about.
+Observational research scores higher on external validity
+and can have a quantitative or a qualitative nature. In par-
+ticular, qualitative methodologies appear to be the best
+candidates to get a deeper understanding of the mecha-
+nisms through which cause and effect sequences hold. In
+the words of Shadish et al. (
+2002), randomized controlled
+trials have a unique strength in providing a causal
+description— aka molar causation, that is, describing the
+consequences attributable to deliberately varying a
+treatment— and are less suited to giving causal
+explanations— aka as molecular causation, that is, clarifying
+the chain reactions through which and the conditions
+under which those causal relationships hold. The system-
+atic triangulation of experimental results with insights from
+observational research through mixed methods and stud-
+ies across samples and sites hold the promise of creating
+rigorous findings at an unprecedented pace (e.g., Hendren
+et al.,
+2018). Realizing this potential seems to be facilitated
+by technological advancements and international networks
+of scholars. Based on these considerations, we formulate
+the third recommendation below.
+Recommendation 3. Time seems ripe to
+leverage on a diverse combination of mixed-
+methods, multisample, and/or multisite
+research designs to sustain the study of
+information use in public administration and
+policy decision-making
+Our research synthesis is not immune to the same limita-
+tions that affect work of the same nature. Hence, findings
+and recommendations should be understood and used
+under this light. Most notably, a number of judgment calls
+were necessary to define the search algorithm, isolate the
+key variables to be coded, and the coding taxonomies.
+The choices were meant to establish a reasonable balance
+between relevance and feasibility. In the same vein, the
+criteria we adopted to select the top peer-reviewed jour-
+nals included in our review may have inherent limitations,
+such as the exclusion of potentially relevant general or
+specialized publication outlets. At the same time, how-
+ever, we are convinced that considering the journals
+listed both in the ISI Thomson Public Administration and
+in the Public Policy and Administration Google Scholar
+Metrics represents a methodological improvement com-
+pared with similar research syntheses that rely on a single
+list of top peer-reviewed journals (e.g., Andersen
+et al.,
+2016; Battaglio et al.,2019). Similar concerns may
+extend to the selection of keywords for the search of pri-
+mary studies. In particular, future research could expand
+the scope of our synthesis to include additional
+constructs. Another limitation that our synthesis shares
+with similar work is the inability of providing a precise
+number of disagreements between authors in coding arti-
+cles because the review process happened in multiple
+stages, and we did not keep track of all disagreements as
+we moved from one stage to the next. This concern
+might especially apply to the classification of articles by
+topic where the breadth and depth of coding taxonomies
+is inherently difficult. The disclosure of such choices and
+the rule of full agreement among coder to move forward
+only work as a partial remedy to each judgment calls. Nat-
+urally, our inductive approach also carries inherent limita-
+tions, which we explicitly acknowledge. Allowing themes
+to emerge from the data without predefined typologies
+potentially threatens the ability to pinpoint a set of con-
+structs that is collectively exhaustive to understand infor-
+mation use in decision-making. However, the adoption of
+an inductive rather than a deductive approach is linked to
+the absence of comprehensive theoretical frameworks
+that have the same focus and scope as our effort and is
+tied to the generative purpose of our endeavor. Certainly,
+future work that tests the validity of our components of
+information use in public administration and policy
+decision-making is needed.
+CONCLUSION
+By integrating information architecture, subjective mecha-
+nisms of information use, and a typology of information
+users, while also taking context into account, we capture
+the essence of the literature on information use in public
+policy and management decision-making. Doing so pro-
+vides a stronger conceptual framework for those interested
+in studying evidence-based policy and practice, or the
+potential for inherent bias introduced by an information
+orientation. The concomitant rise in artificial intelligence
+and other mechanisms for rapidly aggregating and proces-
+sing information suggests that developing this conceptual
+capacity is due, if not overdue. Collectively, the constructs
+shed light on where and why we might expect to encoun-
+ter bias or noise in the decision-making process, and con-
+sequently offer guidance for developing novel theoretical
+and empirical work to study the role of information in
+decision-making. Likewise, our recommendations pinpoint
+the ongoing importance of inquiry in this area. To confront
+existing and emerging challenges requires that we under-
+stand how evidence-based information is used in public
+decisions. New theory and research on information must
+better distinguish and clarify the objective features of infor-
+mation, subjective attributes of its use, and the characteris-
+tics of its users to develop a full and complete accounting
+of information’s role. And finally, we are at a point where
+all elements of research designs and methodologies will
+benefit from enhanced rigor and diversity.
+All of this discussion of information use in decision-
+making is important, and it reveals how information use
+PUBLIC ADMINISTRATION REVIEW 1679
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=14>>>
+may be biased, or subject to influence, in important policy
+and management decision settings. It is relevant to point
+out in conclusion that the application of our findings
+requires further broadening in today’s age. Because man-
+agers are not just looking at facts on paper, information is
+increasingly subject to processing, aggregation, and manip-
+ulation. To the extent information use is subject to behav-
+ioral influences, our concerns must also be expanded to
+incorporate information technology, including the systems
+and processes used to collect and analyze data, converting
+it into useable information along the way. Information is
+power, and learning to better wield it will result in improve-
+ments to policy, implementation, and the public good.
+REFERENCES
+References marked with the asterisk are the primary studies included in
+the research synthesis.
+*Allard, Scott W., Emily R. Wiegand, A. Colleen Schlecht, Rupa Datta,
+Robert M. Goerge, and Elizabeth Weigensberg. 2018.“State Agen-
+cies’Use of Administrative Data for Improved Practice: Needs, Chal-
+lenges, and Opportunities. ” Public Administration Review 78(2):
+240– 250. https://doi.org/10.1111/puar.12883.
+Alvesson, Mats, and Jörgen Sandberg. 2020.“The Problematizing Review:
+A Counterpoint to Elsbach and Van Knippenberg’s Argument for
+Integrative Reviews.” Journal of Management Studies 57(6): 1290–
+1304.
+*Ammons, David N., and William C. Rivenbark. 2008.“Factors Influencing
+the Use of Performance Data to Improve Municipal Services: Evi-
+dence from the North Carolina Benchmarking Project. ” Public
+Administration Review 68(2): 304 – 318. https://doi.org/10.1111/j.
+1540-6210.2007.00864.x.
+Andersen, Lotte Bøgh, Andreas Boesen, and Lene Holm Pedersen. 2016.
+“Performance in Public Organizations: Clarifying the Conceptual
+Space.” Public Administration Review76(6): 852– 862. https://doi.org/
+10.1111/puar.12578.
+*Andersen, Simon Calmar, and Donald P. Moynihan. 2016.“How Leaders
+Respond to Diversity: The Moderating Role of Organizational Cul-
+ture on Performance Information Use.” Journal of Public Administra-
+tion Research and Theory 26(3): 448– 460.
+https://doi.org/10.1093/
+jopart/muv038.
+*Anderson, Sarah E., Rob A. DeLeo, and Kristin Taylor. 2020.“Policy Entre-
+preneurs, Legislators, and Agenda Setting: Information and Influ-
+ence.” Policy Studies Journal 48(3): 587 – 611. https://doi.org/10.
+1111/psj.12331.
+*Askim, Jostein, and Gro Sandkjaer Hanssen. 2008.“Councillors’ Receipt
+and Use of Citizen Input: Experience from Norwegian Local Govern-
+ment.” Public Administration 86(2): 387 – 409. https://doi.org/10.
+1111/j.1467-9299.2008.00722.x.
+*Avellaneda, Claudia N. 2013.“Mayoral Decision-Making: Issue Salience,
+Decision Context, and Choice Constraint? An Experimental Study
+with 120 Latin American Mayors.” Journal of Public Administration
+Research and Theory23(3): 631– 661.
+https://doi.org/10.1093/jopart/
+mus041.
+*Baekgaard, Martin, and Søren Serritzlew. 2016. “Interpreting Perfor-
+mance Information: Motivated Reasoning or Unbiased Comprehen-
+sion.” Public Administration Review76(1): 73– 82.
+https://doi.org/10.
+1111/puar.12406.
+Ballard, Andrew. 2020. “Promoting Performance Information Use
+through Data Visualization: Evidence from an Experiment.” Public
+Performance & Management Review43(1): 109– 128. https://doi.org/
+10.1080/15309576.2019.1592763.
+*Barrows, Samuel, Michael Henderson, Paul E. Peterson, and Martin R.
+West. 2016. “Relative Performance Information and Perceptions of
+Public Service Quality: Evidence from American School Districts.”
+Journal of Public Administration Research and Theory26(3): 571– 583.
+https://doi.org/10.1093/jopart/muw028.
+Battaglio, R. Paul, Paolo Belardinelli, Nicola Bellé, and Paola Cantarelli.
+2019. “Behavioral Public Administration Ad Fontes: A Synthesis of
+Research on Bounded Rationality, Cognitive Biases, and Nudging in
+Public Organizations.” Public Administration Review79(3): 304– 320.
+https://doi.org/10.1111/puar.12994.
+Baumgartner, Frank R., and Bryan D. Jones. 1993.Agendas and Instability
+in American Politics. Chicago: University of Chicago.
+*Bel, Germà, Óscar Gasulla, and Ferran A. Mazaira-Font. 2021.“The Effect
+of Health and Economic Costs on Governments’ Policy Responses
+to COVID-19 Crisis under Incomplete Information.” Public Adminis-
+tration Review81(6): 1131– 46. https://doi.org/10.1111/puar.13394.
+*Belardinelli, Paolo, Nicola Bellé, Mariafrancesca Sicilia, and Ileana Steccolini.
+2018. “Framing Effects under Different Uses of Performance Informa-
+tion: An Experimental Study on Public Managers.” Public Administra-
+tion Review78(6): 841– 851. https://doi.org/10.1111/puar.12969.
+*Bellamy, Christine, Perri 6, Charles Raab, Adam Warren, and Catherine
+Heeney. 2008. “Information-Sharing and Confidentiality in Social
+Policy: Regulating Multi-Agency Working. ” Public Administration
+86(3): 737– 759. https://doi.org/10.1111/j.1467-9299.2008.00723.x.
+*Bellé, Nicola, Paola Cantarelli, and Paolo Belardinelli. 2018.“Prospect
+Theory Goes Public: Experimental Evidence on Cognitive Biases in
+Public Policy and Management Decisions.” Public Administration
+Review 78(6): 828– 840.
+https://doi.org/10.1111/puar.12960.
+Belle, Nicola, Giorgio Giacomelli, Sabina Nuti, and Milena Vainieri. 2022.
+“Factoring in the Human Factor: Experimental Evidence on how
+Public Managers Make Sense of Performance Information.” Interna-
+tional Public Management Journal 25(2): 178– 191. https://doi.org/
+10.1080/10967494.2021.1975856.
+*Bertelli, Anthony M., and J. Andrew Sinclair. 2015.“Mass Administrative
+Reorganization, Media Attention, and the Paradox of Information.”
+Public Administration Review 75(6): 855 – 866. https://doi.org/10.
+1111/puar.12396.
+Bhanot, Syon P., and Elizabeth Linos. 2020.“Behavioral Public Adminis-
+tration: Past, Present, and Future. ” Public Administration Review
+80(1): 168– 171. https://doi.org/10.1111/puar.13129.
+Bjørnholt, Bente, Martin Bækgaard, and Kurt Houlberg. 2016.“Does Fiscal
+Austerity Affect Political Decision-Makers’Use and Perception of Per-
+formance Information?” Public Performance & Management Review
+39(3): 560–580. https://doi.org/10.1080/15309576.2015.1137766.
+*Blom-Hansen, Jens, Martin Baekgaard, and Søren Serritzlew. 2021.“How
+Bureaucrats Shape Political Decisions: The Role of Policy Informa-
+tion.” Public Administration 99(4): 658– 678. https://doi.org/10.1111/
+padm.12709.
+*Boer, Noortje de, Jasper Eshuis, and Erik-Hans Klijn. 2018.“Does Disclo-
+sure of Performance Information Influence Street-Level Bureau-
+crats’ Enforcement Style?” Public Administration Review78(5): 694–
+704. https://doi.org/10.1111/puar.12926.
+Bordalo, Pedro, John J. Conlon, Nicola Gennaioli, Spencer Y. Kwon, and
+Andrei Shleifer. 2023. “Memory and Probability*.” The Quarterly
+Journal of Economics 138(1): 265– 311. https://doi.org/10.1093/qje/
+qjac031.
+*Boswell, Christina. 2012.“How Information Scarcity Influences the Policy
+Agenda: Evidence from U.K. Immigration Policy.” Governance 25(3):
+367– 389. https://doi.org/10.1111/j.1468-0491.2012.01570.x.
+*Boyne, George, Rachel Ashworth, and Martin Powell. 2000.“Testing the
+Limits of Incrementalism: An Empirical Analysis of Expenditure
+Decisions by English Local Authorities, 1981– 1996.” Public Adminis-
+tration 78(1): 51– 73. https://doi.org/10.1111/1467-9299.00192.
+* B o z e m a n ,B a r r y ,a n dS a n j a yK .P a n d e y .2 0 0 4 .“Public Management Decision-
+making: Effects of Decision Content.” Public Administration Review64(5):
+553–565. https://doi.org/10.1111/j.1540-6210.2004.00403.x.
+Breslin, Dermot, and Caroline Gatrell. 2023.“Theorizing through Litera-
+ture Reviews: The Miner-Prospector Continuum. ” Organizational
+Research Methods 26(1): 139 – 167. https://doi.org/10.1177/
+1094428120943288.
+1680 USE OF INFORMATION IN PUBLIC ADMINISTRATION
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=15>>>
+*Brunner, Eric J., Mark D. Robbins, and Bill Simonsen. 2021.“Property Tax
+Information and Support for School Bond Referenda: Experimental
+Evidence.” Public Administration Review81(3): 488– 499. https://doi.
+org/10.1111/puar.13201.
+*Brunner, Ronald D., J. Samuel Fitch, Janet Grassia, Lyn Kathlene, and
+Kenneth R. Hammond. 1987.“Improving Data Utilization: The Case-
+Wise Alternative.” Policy Sciences 20(4): 365– 394. https://doi.org/10.
+1007/BF00135871.
+*Buckley, Jack, and Mark Schneider. 2003.“Shopping for Schools: How
+Do Marginal Consumers Gather Information about Schools?” Policy
+Studies Journal 31(2): 121– 145. https://doi.org/10.1111/1541-0072.
+t01-1-00008.
+*Buuren, Arwin van, and Lasse Gerrits. 2008.“Decisions as Dynamic Equi-
+libriums in Erratic Policy Processes.” Public Management Review
+10(3): 381– 399. https://doi.org/10.1080/14719030802003038.
+*Celec, Stephen E., Dan Voich, Jr., E. Joe Nosari, and Melvin T. Stith, Sr.
+2000. “Measuring Disparity in Government Procurement: Problems
+with Using Census Data in Estimating Availability.” Public Administra-
+tion Review60(2): 134–142. https://doi.org/10.1111/0033-3352.00072.
+*Chan, Kwan Nok, and Wai Fung Lam. 2018.“Bureaucratic Control and
+Information Processing: An Institutional Comparison.” Governance
+31(3): 575– 592. https://doi.org/10.1111/gove.12326.
+*Chen, Huirong, and Sheena Chestnut Greitens. 2022. “Information
+Capacity and Social Order: The Local Politics of Information Integra-
+tion in China.” Governance 35(2): 497– 523. https://doi.org/10.1111/
+gove.12592.
+*Choi, Yujin, and Harin Woo. 2022.“Understanding Diverse Types of Per-
+formance Information Use: Evidence from an Institutional Isomor-
+phism Perspective.” Public Management Review 24(12): 2033– 52.
+https://doi.org/10.1080/14719037.2021.1955953.
+*Christensen, Julian. 2018. “Biased, Not Blind: An Experimental Test of
+Self-Serving Biases in Service Users’ Evaluations of Performance
+Information.” Public Administration 96(3): 468– 480. https://doi.org/
+10.1111/padm.12520.
+*Christensen, Julian, and Oliver James. 2022.“Reporting Multiple Dimen-
+sions of Public Service Performance: Information Order Effects on
+Citizens’ Willingness to Use Services.” Public Management Review
+24(1): 142– 157.
+https://doi.org/10.1080/14719037.2020.1798708.
+*Coppock, Rob. 1985. “Interactions Between Scientists and Public Offi-
+cials: A Comparison of the Use of Science in Regulatory Programs
+in the United States and West Germany.” Policy Sciences18(4): 371–
+390. https://doi.org/10.1007/BF00135920.
+*Cornia, Gary C., Ray D. Nelson, and Andrea Wilko. 2004.“Fiscal Planning,
+Budgeting, and Rebudgeting Using Revenue Semaphores.” Public
+Administration Review 64(2): 164 – 179. https://doi.org/10.1111/j.
+1540-6210.2004.00358.x.
+*Coursey, David H. 1992. “Information Credibility and Choosing Policy
+Alternatives: An Experimental Test of Cognitive-Response Theory.”
+Journal of Public Administration Research and Theory2(3): 315– 331.
+https://doi.org/10.1093/oxfordjournals.jpart.a037134.
+*Dahler-Larsen, Peter. 2000. “Surviving the Routinization of Evaluation:
+The Administrative Use of Evaluations in Danish Municipalities.”
+Administration and Society 32(1): 70– 92. https://doi.org/10.1177/
+00953990022019353.
+*Davies, Emmerich, Thomas Gift, and Carlos X. Lastra-Anad /C19on. 2021.
+“How Global Performance Assessments Shape Attitudes toward
+Government Decision-Making: Survey Experimental Evidence. ”
+Governance 34(2): 413– 433. https://doi.org/10.1111/gove.12504.
+*Daviter, Falk. 2014. “An Information Processing Perspective on
+Decision-making in the European Union. ” Public Administration
+92(2): 324– 339. https://doi.org/10.1111/padm.12071.
+*de Bont, Antoinette, and Kor Grit. 2012.“Unexpected Advantages of
+less Accurate Performance Measurements. How Simple Prescription
+Data Works in a Complex Setting Regarding the Use of Medica-
+tions.” Public Administration 90(2): 497 – 510.
+https://doi.org/10.
+1111/j.1467-9299.2011.01959.x.
+*de Bruijn, Hans. 2006. “One Fight, One Team: The 9/11 Commission
+Report on in℡Ligence, Fragmentation and Information.” Public
+Administration 84(2): 267– 287. https://doi.org/10.1111/j.1467-9299.
+2006.00002.x.
+*DeLeo, Rob A., and Alex Duarte. 2022.“Does Data Drive Policymaking?
+A Multiple Streams Perspective on the Relationship between Indi-
+cators and Agenda Setting.” Policy Studies Journal 50(3): 701– 724.
+https://doi.org/10.1111/psj.12419.
+*Dell’Omo, Gregory G. 1990. “Capturing Arbitrator Decision Policies
+under a Public Sector Interest Arbitration Statute.” Review of Public
+Personnel Administration 10(2): 19 – 38. https://doi.org/10.1177/
+0734371X9001000202.
+*Demaj, Labinot. 2017.“What Can Performance Information Do to Legisla-
+tors? A Budget-Decision Experiment with Legislators.” Public Adminis-
+tration Review77(3): 366– 379. https://doi.org/10.1111/puar.12713.
+*Desai, Uday, and Michael M. Crow. 1983.“Failures of Power and Intelli-
+gence: Use of Scientific-Technical Information in Government
+Decision-Making.” Administration and Society 15(2): 185 – 206.
+https://doi.org/10.1177/009539978301500202.
+Desmidt, Sebastian, and Kenn Meyfroodt. 2023.“Unlocking Politicians’
+Potential: What Fosters Purposeful Use of Performance Information
+in Support of Voice?” Local Government Studies. https://doi.org/10.
+1080/03003930.2023.2198216.
+*Dimitrijevska-Markoski, Tamara, and P. Edward French. 2019.“Determi-
+nants of Public Administrators’ Use of Performance Information:
+Evidence from Local Governments in Florida.” Public Administration
+Review 79(5): 699– 709. https://doi.org/10.1111/puar.13036.
+*Douglas, James W., Ringa Raudla, Tiina Randma-Liiv, and Riin Savi. 2019.
+“The Impact of Greater Centralization on the Relevance of Perfor-
+mance Information in European Governments during the Fiscal
+Crisis.” Administration and Society 51(7): 1020– 50. https://doi.org/
+10.1177/0095399716680055.
+*Esmark, Anders. 2019. “Communicative Governance at Work: How
+Choice Architects Nudge Citizens towards Health, Wealth and
+Happiness in the Information Age. ” Public Management Review
+21(1): 138– 158. https://doi.org/10.1080/14719037.2018.1473476.
+*Funke, Nikki, Dave Huitema, Arthur Petersen, and Shanna Nienaber. 2021.
+“The Roles of Experts and Expert-Based Information in the Advocacy
+Coalition Framework: Conceptual and Empirical Considerations Based
+on the Acid Mine Drainage Case Study in Gauteng, South Africa.” Pol-
+icy Studies Journal49(3): 785–810. https://doi.org/10.1111/psj.12409.
+*George, Bert, Martin Baekgaard, Adelien Decramer, Mieke Audenaert,
+and Stijn Goeminne. 2020. “Institutional Isomorphism, Negativity
+Bias and Performance Information Use by Politicians: A Survey
+Experiment.” Public Administration 98(1): 14– 28. https://doi.org/10.
+1111/padm.12390.
+*George, Bert, and Sebastian Desmidt. 2018.“Strategic-Decision Quality
+in Public Organizations: An Information Processing Perspective.”
+Administration and Society 50(1): 131– 156. https://doi.org/10.1177/
+0095399716647153.
+George, Bert, Sanjay K. Pandey, Bram Steijn, Adelien Decramer, and
+Mieke Audenaert. 2021. “Red Tape, Organizational Performance,
+and Employee Outcomes: Meta-Analysis, Meta-Regression, and
+Research Agenda.” Public Administration Review 81(4): 638– 651.
+https://doi.org/10.1111/puar.13327.
+*George, Bert, Bram Verschuere, Ellen Wayenberg, and Bishoy Louis Zaki.
+2020. “A Guide to Benchmarking COVID-19 Performance Data.” Public
+Administration Review80(4): 696–700.https://doi.org/10.1111/puar.13255.
+*Gerlach, John David, Laron K. Williams, and Colleen E. Forcina. 2013.
+“Data Selection for Making Biodiversity Management Decisions:
+Best Available Science and Institutionalized Agency Norms.” Admin-
+istration and Society 45(2): 213 – 241. https://doi.org/10.1177/
+0095399712451886.
+*Giest, Sarah. 2017.“Big Data for Policymaking: Fad or Fasttrack?” Policy
+Sciences 50(3): 367– 382. https://doi.org/10.1007/s11077-017-9293-1.
+*Giest, Sarah, and Annemarie Samuels. 2020.“‘For Good Measure’: Data
+Gaps in a Big Data World.” Policy Sciences 53(3): 559– 569. https://
+doi.org/10.1007/s11077-020-09384-1.
+*Grimmelikhuijsen, Stephan. 2023.“Explaining why the Computer Says No:
+Algorithmic Transparency Affects the Perceived Trustworthiness of
+PUBLIC ADMINISTRATION REVIEW 1681
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=16>>>
+Automated Decision-Making.” Public Administration Review 83(2):
+241–262. https://doi.org/10.1111/puar.13483.
+Grimmelikhuijsen, Stephan, Sebastian Jilke, Asmus Leth Olsen, and Lars
+Tummers. 2017. “Behavioral Public Administration: Combining
+Insights from Public Administration and Psychology. ” Public
+Administration Review 77(1): 45– 56. https://doi.org/10.1111/puar.
+12609.
+Grøn, Caroline Howard, and Mads Bøge Kristiansen. 2022.“What Gets
+Measured Gets Managed? The Use of Performance Information
+across Organizational Echelons in the Public Sector.” Public Perfor-
+mance & Management Review 45(2): 448– 472. https://doi.org/10.
+1080/15309576.2022.2045615.
+Grossi, Giuseppe, Christoph Reichard, and Pasquale Ruggiero. 2016.
+“Appropriateness and Use of Performance Information in the Bud-
+geting Process: Some Experiences from German and Italian Munici-
+palities.” Public Performance & Management Review39(3): 581– 606.
+https://doi.org/10.1080/15309576.2015.1137770.
+*Guston, David H., Megan Jones, and Lewis M. Branscomb. 1997.“The
+Demand for and Supply of Technical Information and Analysis in
+State Legislatures.” Policy Studies Journal 25(3): 451– 469. https://
+doi.org/10.1111/j.1541-0072.1997.tb00034.x.
+Hall, Jeremy L. 2017.“Evidence-Based Practice: Challenging the Rational
+Wisdom.” International Journal of Public Administration40(9): 730–
+743. https://doi.org/10.1080/01900692.2016.1187167.
+Hall, Jeremy L. 2021.“The End of Evidence-Based Everything at the Close
+of the Global Chapter: Plotting the Next Step on the Spiral.” Public
+Administration Review 81(6): 997 – 1002. https://doi.org/10.1111/
+puar.13444.
+*Hall, Jeremy L., and Edward T. Jennings, Jr. 2008.“Taking Chances: Eval-
+uating Risk as a Guide to Better Use of Best Practices. ” Public
+Administration Review 68(4): 695 – 708. https://doi.org/10.1111/j.
+1540-6210.2008.00908.x.
+*Hall, Jeremy L., and Edward T. Jennings Jr. 2010.“Assessing the Use and
+Weight of Information and Evidence in U.S. State Policy Decisions.”
+Policy and Society 29(2): 137– 147. https://doi.org/10.1016/j.polsoc.
+2010.03.005.
+*Hall, Jeremy L., and Gregg G. van Ryzin. 2019.“A Norm of Evidence and
+Research in Decision-Making (NERD): Scale Development, Reliabil-
+ity, and Validity. ” Public Administration Review 79(3): 321 – 29.
+https://doi.org/10.1111/puar.12995.
+Hall, Jeremy. L., and R. Paul Battaglio. 2018.“Research, Evidence, and
+Decision Making: Charting PAR’s Role in Evidence-Based Manage-
+ment.” Public Administration Review78(2): 181– 82.
+Hansen, Jesper Asring. 2023. “Does Performance Information Receive
+Political Attention?” Public Administration Review 83(4): 763– 774.
+https://doi.org/10.1111/puar.13646.
+*Hansen, Jesper Asring, and Poul Aaes Nielsen. 2022.“How Do Public
+Managers Learn from Performance Information? Experimental Evi-
+dence on Problem Focus, Innovative Search, and Change.” Public
+Administration Review 82(5): 946– 957. https://doi.org/10.1111/puar.
+13533.
+*Harrits, Gitte Sommer. 2019.“Stereotypes in Context: How and when
+Do Street-Level Bureaucrats Use Class Stereotypes?” Public Adminis-
+tration Review79(1): 93– 103. https://doi.org/10.1111/puar.12952.
+*Harrits, Gitte Sommer, and Marie Østergaard Møller. 2014.“Prevention
+at the Front Line: How Home Nurses, Pedagogues, and Teachers
+Transform Public Worry into Decisions on Special Efforts.” Public
+Management Review 16(4): 447 – 480. https://doi.org/10.1080/
+14719037.2013.841980.
+*Hartmann, Kathrin, and Georg Wenzelburger. 2021.“Uncertainty, Risk
+and the Use of Algorithms in Policy Decisions: A Case Study on
+Criminal Justice in the USA.” Policy Sciences 54(2): 269– 287. https://
+doi.org/10.1007/s11077-020-09414-y.
+*Head, Brian, Michele Ferguson, Adrian Cherney, and Paul Boreham.
+2014. “Are Policy-Makers Interested in Social Research? Exploring
+the Sources and Uses of Valued Information among Public Servants
+in Australia.” Policy and Society 33(2): 89– 101. https://doi.org/10.
+1016/j.polsoc.2014.04.004.
+Head, Brian W. 2008.“Three Lenses of Evidence-Based Policy.” Australian
+Journal of Public Administration67(1): 1– 11. https://doi.org/10.1111/
+j.1467-8500.2007.00564.x.
+*Head, Brian W. 2016. “Toward More ‘Evidence-Informed’ Policy Mak-
+ing?” Public Administration Review 76(3): 472– 484. https://doi.org/
+10.1111/puar.12475.
+*Hegelich, Simon, Cornelia Fraune, and David Knollmann. 2015.“Point
+Predictions and the Punctuated Equilibrium Theory: A Data Mining
+Approach— U.S. Nuclear Policy as Proof of Concept.” Policy Studies
+Journal 43(2): 228– 256.
+https://doi.org/10.1111/psj.12089.
+*Heinrich, Carolyn J. 1999.“Do Government Bureaucrats Make Effective
+Use of Performance Management Information?” Journal of Public
+Administration Research and Theory 9(3): 363– 394. https://doi.org/
+10.1093/oxfordjournals.jpart.a024415.
+Hendren, Kathryn, Qian Eric Luo, and Sanjay K. Pandey. 2018.“The State
+of Mixed Methods Research in Public Administration and Public
+Policy.” Public Administration Review78(6): 904– 916. https://doi.org/
+10.1111/puar.12981.
+*Hodgett, Susan, and Séverine Deneulin. 2009.“On the Use of Narratives
+for Assessing Development Policy.” Public Administration87(1): 65–
+79. https://doi.org/10.1111/j.1467-9299.2008.01742.x.
+*Holm, Jakob Majlund. 2017. “Double Standards? How Historical and
+Political Aspiration Levels Guide Managerial Performance Informa-
+tion Use.” Public Administration 95(4): 1026– 40.
+https://doi.org/10.
+1111/padm.12379.
+*Holm, Jakob Majlund. 2018. “Successful Problem Solvers? Managerial
+Performance Information Use to Improve Low Organizational Per-
+formance.” Journal of Public Administration Research and Theory
+28(3): 303– 320. https://doi.org/10.1093/jopart/muy017.
+*Hondula, David M., Evan R. Kuras, Justin Longo, and Erik W. Johnston.
+2018. “Toward Precision Governance: Infusing Data into Public
+Management of Environmental Hazards. ” Public Management
+Review 20(5): 746 – 765. https://doi.org/10.1080/14719037.2017.
+1320043.
+*Hong, Sounman, Sun Hyoung Kim, and Jieun Son. 2020. “Bounded
+Rationality, Blame Avoidance, and Political Accountability: How Per-
+formance Information Influences Management Quality. ” Public
+Management Review 22(8): 1240 – 63.
+https://doi.org/10.1080/
+14719037.2019.1630138.
+*Hong, Sounman, and Youngrok Kim. 2019. “Loyalty or Competence:
+Political Use of Performance Information and Negativity Bias.” Pub-
+lic Administration Review 79(6): 829– 840. https://doi.org/10.1111/
+puar.13108.
+*Ingold, Jo, and Mark Monaghan. 2016.“Evidence Translation: An Explo-
+ration of Policy Makers’ Use of Evidence.” Policy & Politics 44(2):
+171– 190. https://doi.org/10.1332/147084414X13988707323088.
+*Isett, Kimberley R., and Diana M. Hicks. 2018.“Providing Public Servants
+What they Need: Revealing the‘Unseen’ through Data Visualiza-
+tion.” Public Administration Review 78(3): 479– 485. https://doi.org/
+10.1111/puar.12904.
+*James, Oliver. 2011. “Performance Measures and Democracy:
+Information Effects on Citizens in Field and Laboratory Experi-
+ments.” Journal of Public Administration Research and Theory21(3):
+399– 418. https://doi.org/10.1093/jopart/muq057.
+*James, Oliver, and Peter John. 2007.“Public Management at the Ballot
+box: Performance Information and Electoral Support for Incumbent
+English Local Governments. ” Journal of Public Administration
+Research and Theory17(4): 567– 580. https://doi.org/10.1093/jopart/
+mul020.
+*James, Oliver, and Alice Moseley. 2014.“Does Performance Information
+about Public Services Affect Citizens’ Perceptions, Satisfaction, and
+Voice Behaviour? Field Experiments with Absolute and Relative Per-
+formance Information. ” Public Administration 92(2): 493 – 511.
+https://doi.org/10.1111/padm.12066.
+*Jennings, Edward T., Jr., and Jeremy L. Hall. 2012.“Evidence-Based Prac-
+tice and the Use of Information in State Agency Decision-Making.”
+Journal of Public Administration Research and Theory22(2): 245– 266.
+https://doi.org/10.1093/jopart/mur040.
+1682 USE OF INFORMATION IN PUBLIC ADMINISTRATION
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=17>>>
+*Johansen, Morgen, Taehee Kim, and Ling Zhu. 2018. “Managing for
+Results Differently: Examining Managers’ Purposeful Performance
+Information Use in Public, Nonprofit, and Private Organizations.”
+The American Review of Public Administration 48(2): 133 – 147.
+https://doi.org/10.1177/0275074016676574.
+*John, Peter. 2013. “All Tools Are Informational Now: How Information
+and Persuasion Define the Tools of Government.” Policy & Politics
+41(4): 605– 620. https://doi.org/10.1332/030557312X655729.
+*Joyce, Philip G. 2011.“The Obama Administration and PBB: Building on
+the Legacy of Federal Performance-Informed Budgeting?” Public
+Administration Review 71(3): 356 – 367. https://doi.org/10.1111/j.
+1540-6210.2011.02355.x.
+*Jungblut, Marc, and Jens Jungblut. 2022. “Spreading Information or
+Engaging the Public? The German Police’s Communication on Twit-
+ter.” Public Management Review. https://doi.org/10.1080/14719037.
+2022.2142653.
+Kahneman, Daniel. 2011.Thinking, Fast and Slow. New York: Routledge.
+Kahneman, Daniel, Olivier Sibony, and Cass Sunstein. 2021.Noise: A Flaw
+in Human Judgment. Little, Brown Spark: Hachette Book Group.
+*Korac, Sanja, Iris Saliterer, Mariafrancesca Sicilia, and Ileana Steccolini. 2020.
+“Contrasting and Explaining Purposeful and Legitimizing Uses of Per-
+formance Information: A Mayor’s Perspective.” Public Management
+Review22(4): 553–577. https://doi.org/10.1080/14719037.2019.1599059.
+*Kroll, Alexander. 2013. “The Other Type of Performance Information:
+Nonroutine Feedback, its Relevance and Use.” Public Administration
+Review 73(2): 265 – 276. https://doi.org/10.1111/j.1540-6210.2012.
+02648.x.
+Kroll, Alexander. 2015a. “Drivers of Performance Information Use: Sys-
+tematic Literature Review and Directions for Future Research.” Pub-
+lic Performance & Management Review 38(3): 459– 486. https://doi.
+org/10.1080/15309576.2015.1006469.
+*Kroll, Alexander. 2015b.“Explaining the Use of Performance Information
+by Public Managers: A Planned-Behavior Approach.” The American
+Review of Public Administration 45(2): 201– 215. https://doi.org/10.
+1177/0275074013486180.
+Kroll, Alexander. 2015c.“Exploring the Link between Performance Infor-
+mation Use and Organizational Performance: A Contingency
+Approach.” Public Performance & Management Review39(1): 7– 32.
+https://doi.org/10.1080/15309576.2016.1071159.
+*Kroll, Alexander, and Dominik Vogel. 2014.“The Psm– Leadership Fit: A
+Model of Performance Information Use. ” Public Administration
+92(4): 974– 991. https://doi.org/10.1111/padm.12014.
+*Lavertu, Stéphane. 2016.“We all Need Help:‘Big Data’ and the Mismea-
+sure of Public Administration.” Public Administration Review 76(6):
+864– 872. https://doi.org/10.1111/puar.12436.
+*Lee, M. Jin, M. Jae Moon, and Jungsook Kim. 2017.“Insights from Exper-
+iments with Duopoly Games: Rational Incremental Decision-Mak-
+ing.” Public Management Review19(9): 1328– 51. https://doi.org/10.
+1080/14719037.2017.1282002.
+*Lerusse, Amandine, and Steven van de Walle. 2022a.“Buying from Local
+Providers: The Role of Governance Preferences in Assessing Perfor-
+mance Information.” Public Administration Review 82(5): 835– 849.
+https://doi.org/10.1111/puar.13491.
+*Lerusse, Amandine, and Steven van de Walle. 2022b.“Public Officials’
+Interpretation of Conflicting Performance Information: Goal Repri-
+oritization or Unbiased Decision-Making? ” Public Management
+Review. https://doi.org/10.1080/14719037.2022.2085777.
+*Lewandowski, Mateusz. 2019. “Public Managers’ Perception of Perfor-
+mance Information: The Evidence from Polish Local Governments.”
+Public Management Review 21(7): 988 – 1010. https://doi.org/10.
+1080/14719037.2018.1538425.
+Li, Zhengyan. 2023.“Bureaucratic Response to Performance Information:
+How Mandatory Information Disclosure Affects Environmental
+Inspections.” Public Administration Review 83(4): 750– 762. https://
+doi.org/10.1111/puar.13636.
+Lindblom, Charles E. 1959.“The Science of‘Muddling Through’.” Public
+Administration Review19(2): 79.https://doi.org/10.2307/973677.
+*Lindermüller, David, Matthias Sohn, and Bernhard Hirsch. 2022.“Nega-
+tive Media Reporting and its Effects on Performance Information
+Use in Public Spending.” Public Management Review 24(7): 1024–
+47. https://doi.org/10.1080/14719037.2021.1882543.
+*Linos, Katerina, Melissa Carlson, Laura Jakli, Nadia Dalma, Isabelle
+Cohen, Afroditi Veloudaki, and Stavros Nikiforos Spyrellis. 2022.
+“How Do Disadvantaged Groups Seek Information about Public
+Services? A Randomized Controlled Trial of Communication Tech-
+nologies.” Public Administration Review 82(4): 708– 720.
+https://doi.
+org/10.1111/puar.13437.
+*Long, Nguyen, Le Anh, Megan Foster, and Gwen Arnold. 2019.“The
+Impact of Stakeholder Engagement on Local Policy Decision-mak-
+ing.” Policy Sciences52(4): 549– 571. https://doi.org/10.1007/s11077-
+019-09357-z.
+*Lundin, Martin, and Per Ola Öberg. 2014.“Expert Knowledge Use and
+Deliberation in Local Policy Making.” Policy Sciences 47(1): 25– 49.
+https://doi.org/10.1007/s11077-013-9182-1.
+*Maor, Moshe. 2020. “Policy Over- and under-Design: An Information
+Quality Perspective.” Policy Sciences 53(3): 395– 411. https://doi.org/
+10.1007/s11077-020-09388-x.
+*Marks, Peter Koenraad, and Lasse M. Gerrits. 2018. “Association
+between Decisions: Experiments with Coupled Two-Person
+Games.” Public Management Review20(7): 960– 979. https://doi.org/
+10.1080/14719037.2017.1364413.
+*McFadgen, Belinda, and Dave Huitema. 2018.“Experimentation at the
+Interface of Science and Policy: A Multi-Case Analysis of how Policy
+Experiments Influence Political Decision-Makers. ” Policy Sciences
+51(2): 161– 187.
+https://doi.org/10.1007/s11077-017-9276-2.
+*Meier, Kenneth J., Nathan Favero, and Ling Zhu. 2015.“Performance
+Gaps and Managerial Decisions: A Bayesian Decision Theory of
+Managerial Action.” Journal of Public Administration Research and
+Theory 25(4): 1221– 46. https://doi.org/10.1093/jopart/muu054.
+*Meier, Kenneth J., Miyeon Song, Jourdan A. Davis, and Anna A.
+Amirkhanyan. 2022.“Sector Bias and the Credibility of Performance
+Information: An Experimental Study of Elder Care Provision.” Public
+Administration Review 82(1): 69– 82. https://doi.org/10.1111/puar.
+13425.
+*Melkers, Julia, and Katherine Willoughby. 2005. “Models of
+Performance-Measurement Use in Local Governments: Understand-
+ing Budgeting, Communication, and Lasting Effects.” Public Admin-
+istration Review65(2): 180– 190. https://doi.org/10.1111/j.1540-6210.
+2005.00443.x.
+*Mergel, Ines, R. Karl Rethemeyer, and Kimberley Isett. 2016.“Big Data in
+Public Affairs.” Public Administration Review76(6): 928– 937. https://
+doi.org/10.1111/puar.12625.
+*Meyfroodt, Kenn, and Sebastian Desmidt. 2021.“Can Rational Planning
+Stimulate Cooperative Behaviour? How Perceived Self-Efficacy
+Mediates the Relationship Between Strategic Plan Use, Perfor-
+mance Information Use and Strategic Voice by Local Councillors.”
+Public Management Review23(6): 818– 842. https://doi.org/10.1080/
+14719037.2019.1699949.
+*Meyfroodt, Kenn, and Sebastian Desmidt. 2022.“Does Governing Board
+Involvement Impact Strategy Implementation Effectiveness? The
+Role of Information Sharing in the Politics-Administration Inter-
+face.” Public Management Review .
+https://doi.org/10.1080/
+14719037.2022.2103174.
+*Micheli, Pietro, and Andrey Pavlov. 2020.“What Is Performance Mea-
+surement for? Multiple Uses of Performance Information within
+Organizations.” Public Administration 98(1): 29– 45. https://doi.org/
+10.1111/padm.12382.
+*Mikkelsen, Maria F., Niels B. G. Petersen, and Bente Bjørnholt. 2022.
+“Broadcasting Good News and Learning from Bad News: Experi-
+mental Evidence on Public Managers ’ Performance Information
+Use.” Public Administration 100(3): 759 – 777. https://doi.org/10.
+1111/padm.12762.
+Mikkelsen, Maria Falk, Mogens Jin Pedersen, and Niels Bjørn Grund
+Petersen. 2023. “To Act or Not to Act? How Client Progression
+PUBLIC ADMINISTRATION REVIEW 1683
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=18>>>
+Affects Purposeful Performance Information Use at the Frontlines.”
+Journal of Public Administration Research and Theory33(2): 296– 312.
+*Mizrahi, Shlomo, and Yizhaq Minchuk. 2020.“The Relevance and Reli-
+ability of Performance Information for Accountability: A Survey
+Experiment Exploring Citizens’ Views.” Public Administration 98(1):
+140– 158. https://doi.org/10.1111/padm.12623.
+*Montpetit, /C19Eric, and Erick Lachapelle. 2016. “Information, Values and
+Expert Decision-Making: The Case of Soil Decontamination.” Policy
+Sciences 49(2): 155– 171. https://doi.org/10.1007/s11077-015-9225-x.
+*Mosley, Jennifer E., and Katherine Gibson. 2017.“Strategic Use of Evi-
+dence in State-Level Policymaking: Matching Evidence Type to Leg-
+islative Stage.” Policy Sciences 50(4): 697– 719. https://doi.org/10.
+1007/s11077-017-9289-x.
+Moynihan, Donald P. 2015. “Uncovering the Circumstances of Perfor-
+mance Information Use Findings from an Experiment.” Public Per-
+formance & Management Review 39(1): 33– 57. https://doi.org/10.
+1080/15309576.2016.1071160.
+*Moynihan, Donald P., and Daniel P. Hawes. 2012.“Responsiveness to
+Reform Values: The Influence of the Environment on Performance
+Information Use.” Public Administration Review 72(s1): S95– S105.
+https://doi.org/10.1111/j.1540-6210.2012.02653.x.
+*Moynihan, Donald P., and Patricia Wallace Ingraham. 2004.“Integrative
+Leadership in the Public Sector: A Model of Performance-
+Information Use. ” Administration and Society 36(4): 427 – 453.
+https://doi.org/10.1177/0095399704266748.
+*Moynihan, Donald P., and Stéphane Lavertu. 2012.“Does Involvement in
+Performance Management Routines Encourage Performance Informa-
+tion Use? Evaluating GPRA and PART.” Public Administration Review
+72(4): 592–602. https://doi.org/10.1111/j.1540-6210.2011.02539.x.
+*Moynihan, Donald P., and Sanjay K. Pandey. 2010.“The Big Question for
+Performance Management: Why Do Managers Use Performance
+Information?” Journal of Public Administration Research and Theory
+20(4): 849– 866.
+https://doi.org/10.1093/jopart/muq004.
+*Moynihan, Donald P., Sanjay K. Pandey, and Bradley E. Wright. 2012a.
+“Prosocial Values and Performance Management Theory: Linking
+Perceived Social Impact and Performance Information Use.” Gover-
+nance 25(3): 463 – 483. https://doi.org/10.1111/j.1468-0491.2012.
+01583.x.
+*Moynihan, Donald P., Sanjay K. Pandey, and Bradley E. Wright. 2012b.
+“Setting the Table: How Transformational Leadership Fosters Per-
+formance Information Use. ” Journal of Public Administration
+Research and Theory22(1): 143– 164. https://doi.org/10.1093/jopart/
+mur024.
+Newcomer, Kathryn E., Jeremy L. Hall, Sanjay K. Pandey, Travis Reginal,
+and Ben White. 2023.“From Noise to Knowledge: Improving Evi-
+dentiary Standards for Program Efficacy to Better Inform Public Pol-
+icy and Management Decisions.” Public Administration Review83(5):
+1051– 71.
+https://doi.org/10.1111/puar.13688.
+*Newman, Joshua, Adrian Cherney, and Brian W. Head. 2016.“Do Policy
+Makers Use Academic Research? Reexamining the‘Two Communi-
+ties’ Theory of Research Utilization.” Public Administration Review
+76(1): 24– 32. https://doi.org/10.1111/puar.12464.
+*Nielsen, Poul A., and Martin Baekgaard. 2015.“Performance Informa-
+tion, Blame Avoidance, and Politicians’ Attitudes to Spending and
+Reform: Evidence from an Experiment.” Journal of Public Adminis-
+tration Research and Theory25(2): 545– 569. https://doi.org/10.1093/
+jopart/mut051.
+*Nielsen, Poul Aaes. 2014.“Learning from Performance Feedback: Perfor-
+mance Information, Aspiration Levels, and Managerial Priorities.”
+Public Administration 92(1): 142– 160. https://doi.org/10.1111/padm.
+12050.
+*Nielsen, Poul Aaes, and Christian Bøtcher Jacobsen. 2018. “Zone of
+Acceptance under Performance Measurement: Does Performance
+Information Affect Employee Acceptance of Management Author-
+ity?” Public Administration Review78(5): 684– 693.
+https://doi.org/10.
+1111/puar.12947.
+*Nitzl, Christian, Maria Francesca Sicilia, and Ileana Steccolini. 2019.
+“Exploring the Links between Different Performance Information
+Uses, NPM Cultural Orientation, and Organizational Performance in
+the Public Sector. ” Public Management Review 21(5): 686– 710.
+https://doi.org/10.1080/14719037.2018.1508609.
+*Noda, Yu. 2021.“Performance Information and Learning Effects on Citi-
+zen Satisfaction with Public Services.” Public Management Review
+23(12): 1833– 55. https://doi.org/10.1080/14719037.2020.1775281.
+*Nowlin, Matthew C. 2021.“Policy Learning and Information Processing.”
+Policy Studies Journal 49(4): 1019– 39. https://doi.org/10.1111/psj.
+12397.
+*Nutt, Paul C. 1999.“Public-Private Differences and the Assessment of
+Alternatives for Decision-making.” Journal of Public Administration
+Research and Theory 9(2): 305 – 350. https://doi.org/10.1093/
+oxfordjournals.jpart.a024412.
+*Oh, Cheol H. 1996.“Information Searching in Governmental Bureaucra-
+cies: An Integrated Model.” The American Review of Public Adminis-
+tration 26(1): 41– 70. https://doi.org/10.1177/027507409602600103.
+*Olsen, Asmus Leth. 2017. “Human Interest or Hard Numbers? Experi-
+ments on Citizens’ Selection, Exposure, and Recall of Performance
+Information.” Public Administration Review 77(3): 408– 420. https://
+doi.org/10.1111/puar.12638.
+Pandey, Sanjay K. 2015.“Performance Information Use: Making Progress
+but a Long Way to Go.” Public Performance & Management Review
+39(1): 1– 6. https://doi.org/10.1080/15309576.2016.1071158.
+Pandey, Sanjay K., Yuan Cheng, and Jeremy L. Hall. 2022. “Epistemic
+decolonization of public policy pedagogy and scholarship.” Public
+Administration Review82(6): 977– 985.
+P a n d e y ,S a n j a yK . ,A m yE .S m i t h ,S h e e l aP a n d e y ,a n dO l a n i k eA .O j e l a b i .2 0 2 3 .
+“Reimagining Race and Gender in Public Administration and Public Pol-
+icy: Insights from an Interdisciplinary Systematic Review.” Public Admin-
+istration Review83(1): 14–34. https://doi.org/10.1111/puar.13570.
+Pedersen, Mogens J., and Vibeke L. Nielsen. 2020. “Bureaucratic
+Decision-Making: A Multi-Method Study of Gender Similarity Bias
+and Gender Stereotype Beliefs.” Public Administration 98(2): 424–
+440. https://doi.org/10.1111/padm.12622.
+Perry, James L. 2012. “How Can we Improve our Science to Generate
+more Usable Knowledge for Public Professionals?” Public Adminis-
+tration Review 72(4): 479– 482. https://doi.org/10.1111/j.1540-6210.
+2012.02607.x.
+*Petersen, Niels Bjørn G, Trine V. Laumann, and Morten Jakobsen. 2019.
+“Acceptance or Disapproval: Performance Information in the Eyes of
+Public Frontline Employees.” Journal of Public Administration Research
+and Theory29(1): 101–117. https://doi.org/10.1093/jopart/muy035.
+*Petty, Timothy R., John B. Gongwer, and William Schnabel. 2018.“Bridg-
+ing Policy and Science Action Boundaries: Information Influences
+on US Congressional Legislative Key Staff Decision-making in Natu-
+ral Resources.” Policy Sciences 51(1): 77– 96. https://doi.org/10.1007/
+s11077-018-9311-y.
+Pfiffner, Roger. 2019. “Why Performance Information Use Requires a
+Managerial Identity: Evidence from the Field of Human Services.”
+Public Performance & Management Review42(2): 405– 431. https://
+doi.org/10.1080/15309576.2018.1464936.
+*Phillips, Wendy, Jens K. Roehrich, and Dharm Kapletia. 2023.“Respond-
+ing to Information Asymmetry in Crisis Situations: Innovation in the
+Time of the COVID-19 Pandemic.” Public Management Review25(1):
+175– 198. https://doi.org/10.1080/14719037.2021.1960737.
+*Pollanen, Raili, Ahmed Abdel-Maksoud, Said Elbanna, and Habib
+Mahama. 2017. “Relationships between Strategic Performance
+Measures, Strategic Decision-Making, and Organizational Perfor-
+mance: Empirical Evidence from Canadian Public Organizations.”
+Public Management Review19(5): 725– 746. https://doi.org/10.1080/
+14719037.2016.1203013.
+*Porumbescu, Gregory A., Maria Cucciniello, Nicola Bellé, and Greta Nasi.
+2021. “Only Hearing What they Want to Hear: Assessing when and
+why Performance Information Triggers Intentions to Coproduce.”
+Public Administration 99(4): 789– 802. https://doi.org/10.1111/padm.
+12697.
+*Rabovsky, Thomas. 2014a. “Support for Performance-Based Funding:
+The Role of Political Ideology, Performance, and Dysfunctional
+1684 USE OF INFORMATION IN PUBLIC ADMINISTRATION
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=19>>>
+Information Environments. ” Public Administration Review 74(6):
+761– 774. https://doi.org/10.1111/puar.12274.
+*Rabovsky, Thomas M. 2014b.“Using Data to Manage for Performance
+at Public Universities.” Public Administration Review74(2): 260– 272.
+https://doi.org/10.1111/puar.12185.
+*Raudla, Ringa. 2012.“The Use of Performance Information in Budgetary
+Decision-Making by Legislators: Is Estonia any Different?” Public
+Administration 90(4): 1000 – 1015. https://doi.org/10.1111/j.1467-
+9299.2012.02041.x.
+*Redd, Steven B., and Alex Mintz. 2013.“Policy Perspectives on National
+Security and Foreign Policy Decision-making.” Policy Studies Journal
+41(S1): S11– S37. https://doi.org/10.1111/psj.12010.
+*Rifkin, Susan B. 1996. “Rapid Rural Appraisal: Its Use and Value for
+Health Planners and Managers.” Public Administration 74(3): 509–
+526. https://doi.org/10.1111/j.1467-9299.1996.tb00882.x.
+*Roberts, Patrick S., and Kris Wernstedt. 2019. “Decision Biases and
+Heuristics among Emergency Managers: Just like the Public they
+Manage for?” The American Review of Public Administration49(3):
+292– 308. https://doi.org/10.1177/0275074018799490.
+*Robinson, Scott E., Jason M. Pudlo, and Wesley Wehde. 2019.“The New
+Ecology of Tornado Warning Information: A Natural Experiment
+Assessing Threat Intensity and Citizen-to-Citizen Information Shar-
+ing.” Public Administration Review 79(6): 905– 916. https://doi.org/
+10.1111/puar.13030.
+Rubin, Ellen, Christine Roch, and Sylvia Roch. 2023.“Grading Teacher
+Performance Appraisal Systems: Understanding the Implications of
+Student Test Scores and Performance Information Use. ” Public
+Performance & Management Review46(2): 257– 284.
+https://doi.org/
+10.1080/15309576.2022.2118798.
+*Ruijer, Erna, Gregory Porumbescu, Rebecca Porter, and Suzanne
+Piotrowski. 2023.“Social Equity in the Data Era: A Systematic Litera-
+ture Review of Data-Driven Public Service Research.” Public Admin-
+istration Review83(2): 316– 332. https://doi.org/10.1111/puar.13585.
+*Salem, Betty, Don Ellis, and Douglas Johnson. 1981.“Development and
+Use of an in-Basket Promotional Exam for Police Sergeant.” Review
+of Public Personnel Administration 1(2): 23– 35. https://doi.org/10.
+1177/0734371X8100100203.
+*Saliterer, Iris, Sanja Korac, Birgit Moser, and Paolo Rondo-Brovetto. 2019.
+“How Politicians Use Performance Information in a Budgetary Con-
+text: New Insights from the Central Government Level. ” Public
+Administration 97(4): 829– 844. https://doi.org/10.1111/padm.12604.
+Shadish, William, Thomas D. Cook, and Donal Thomas Campbell. 2002.
+Experimental and Quasi-Experimental Designs for Generalized Causal
+Inference. Boston: Houghton Mifflin.
+*Shafran, Jo Beth S. 2022. “More than Agents: Federal Bureaucrats as
+Information Suppliers in Policymaking.” Policy Studies Journal50(4):
+921– 943. https://doi.org/10.1111/psj.12455.
+*Sharman, J.c. 2009.“Privacy as Roguery: Personal Financial Information
+in an Age of Transparency.” Public Administration 87(4): 717– 731.
+https://doi.org/10.1111/j.1467-9299.2009.01785.x.
+*Shingler, John, Mollie E. van Loon, Theodore R. Alter, and Jeffrey C.
+Bridger. 2008. “The Importance of Subjective Data for Public
+Agency Performance Evaluation. ” Public Administration Review
+68(6): 1101– 11. https://doi.org/10.1111/j.1540-6210.2008.00958.x.
+Simon, Herbert A. 1947.Administrative Behavior: A Study of Decision-Making
+Processes in Administrative Organization. New York: Macmillan.
+*Solorio, Israel, Jorge Guzm/C19an, and Ixchel Guzm/C19an. 2023. “Participatory
+Decision-Making in the Policy Integration Process: Indigenous Con-
+sultation and Sustainable Development in Mexico.” Policy Sciences
+56(1): 115– 140. https://doi.org/10.1007/s11077-022-09487-x.
+*Somers, Mark John. 2018. “Strategies for Improving Measurement
+Models for Secondary Data in Public Administration Research: Illus-
+trations from the Federal Employee Viewpoint Survey. ” Public
+Administration Review 78(2): 228– 239. https://doi.org/10.1111/puar.
+12805.
+*Stohr-Gillmore, Mary K., Michael W. Stohr-Gillmore, and Nannette Kistler.
+1990. “Improving Selection Outcomes with the Use of Situational
+Interviews: Empirical Evidence from a Study of Correctional Officers
+for New Generation Jails.” Review of Public Personnel Administration
+10(2): 1– 18. https://doi.org/10.1177/0734371X9001000201.
+Strader, Eiko, Vernicia Griffie, Patrick C. Irelan, Leslie Y. Kwan, Emma
+Northcott, and Sanjay K. Pandey. 2023. “Race in Representative
+Bureaucracy Theory: A Problematizing Review.” Public Administra-
+tion Review83(6): 1687– 703. https://doi.org/10.1111/puar.13640.
+*Tantardini, Michele. 2019.“Routine and Nonroutine Performance Infor-
+mation: An Assessment about Substitution and Complementarity.”
+Public Management Review21(5): 755– 774. https://doi.org/10.1080/
+14719037.2018.1523452.
+Tantardini, Michele. 2022. “Organizational Social Capital and Perfor-
+mance Information Use: The Mediating Role of Public Service Moti-
+vation.” State and Local Government Review54(3): 202– 220. https://
+doi.org/10.1177/0160323X221113366.
+Tantardini, Michele, and Alexander Kroll. 2015.“The Role of Organiza-
+tional Social Capital in Performance Management.” Public Perfor-
+mance & Management Review39(1): 83– 99. https://doi.org/10.1080/
+15309576.2016.1071163.
+*Taylor, Jeannette. 2009.“Strengthening the Link between Performance
+Measurement and Decision-making.” Public Administration 87(4):
+853– 871. https://doi.org/10.1111/j.1467-9299.2009.01788.x.
+*Taylor, Jeannette. 2011. “Factors Influencing the Use of Performance
+Information for Decision-making in Australian State Agencies.” Pub-
+lic Administration 89(4): 1316 – 34. https://doi.org/10.1111/j.1467-
+9299.2011.02008.x.
+Thaler, Richard H., and Cass R. Sunstein. 2021.Nudge: The Final Edition.
+New Haven: Yale University Press.
+*Turner, Simon, Danielle D’Lima, Jessica Sheringham, Nick Swart, Emma
+Hudson, Stephen Morris, and Naomi J. Fulop. 2022.“Evidence Use
+as Sociomaterial Practice? A Qualitative Study of Decision-Making
+on Introducing Service Innovations in Health Care.” Public Manage-
+ment Review 24(7): 1075 – 99. https://doi.org/10.1080/14719037.
+2021.1883098.
+*van der Voet, Joris, and Elvira Lems. 2022.“Decision-Makers’Generation
+of Policy Solutions Amidst Negative Performance: Invention or
+Rigidity?” Public Administration Review 82(5): 931– 945. https://doi.
+org/10.1111/puar.13462.
+*Vifell, Åsa Casula, and Ebba Sjögren. 2011. “More Knowledge, Better
+Government? Consequences of Knowledge-Based Decision-making
+in Swedish Pharmaceutical Benefits.” Governance 24(1): 85– 110.
+https://doi.org/10.1111/j.1468-0491.2010.01510.x.
+Vogel, Rick, and Fabian Hattke. 2018.“How Is the Use of Performance
+Information Related to Performance of Public Sector Professionals?
+Evidence from the Field of Academic Research. ” Public Perfor-
+mance & Management Review 41(2): 390– 414. https://doi.org/10.
+1080/15309576.2017.1400986.
+*Wagner, Paul M., Tuomas Ylä-Anttila, Antti Gronow, Petr Ocelík, Luisa
+Schmidt, and Ana Delicado. 2021.“Information Exchange Networks
+at the Climate Science-Policy Interface: Evidence from The
+Czech Republic, Finland, Ireland, and Portugal.” Governance 34(1):
+211– 228.
+https://doi.org/10.1111/gove.12484.
+*Walgrave, Stefaan, and Yves Dejaeghere. 2017.“Surviving Information
+Overload: How Elite Politicians Select Information. ” Governance
+30(2): 229– 244. https://doi.org/10.1111/gove.12209.
+*Walker, Richard M., M. Jin Lee, Oliver James, and Samuel M. Y. Ho. 2018.
+“Analyzing the Complexity of Performance Information Use: Experi-
+ments with Stakeholders to Disaggregate Dimensions of Perfor-
+mance, Data Sources, and Data Types.” Public Administration Review
+78(6): 852– 863. https://doi.org/10.1111/puar.12920.
+*Wang, Qiushi, and Meili Niu. 2020.“Exploring the Relationship between
+Government Budget Information and Citizens’ Perceptions of Pub-
+lic Service Performance in China.” Public Management Review22(3):
+317– 340. https://doi.org/10.1080/14719037.2019.1584234.
+*Weitzman, Beth C., Diana Silver, and Caitlyn Brazill. 2006.“Efforts to
+Improve Public Policy and Programs through Data Practice: Experi-
+ences in 15 Distressed American Cities. ” Public Administration
+Review 66(3): 386 – 399. https://doi.org/10.1111/j.1540-6210.2006.
+00596.x.
+PUBLIC ADMINISTRATION REVIEW 1685
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=20>>>
+*Whitford, Andrew B. 2014.“Information and Uncertainty in Policy Imple-
+mentation: Evidence from the Implementation of EPA Waivers.”
+Journal of Public Administration Research and Theory24(2): 267– 288.
+https://doi.org/10.1093/jopart/mut049.
+*Williams, Iestyn, and Jon Glasby. 2010. “Making ‘What Works’ Work:
+The Use of Knowledge in UK Health and Social Care Decision-Mak-
+ing.” Policy and Society 29(2): 95– 102. https://doi.org/10.1016/j.
+polsoc.2010.03.002.
+*Wit, Arjen de, and René Bekkers. 2020.“Can Charitable Donations Com-
+pensate for a Reduction in Government Funding? The Role of Infor-
+mation.” Public Administration Review 80(2): 294– 304. https://doi.
+org/10.1111/puar.13154.
+Workman, Samuel, Bryan D. Jones, and Ashley E. Jochim. 2009.“Informa-
+tion Processing and Policy Dynamics.” Policy Studies Journal 37(1):
+75– 92. https://doi.org/10.1111/j.1541-0072.2008.00296.x.
+*Worthy, Ben. 2015. “The Impact of Open Data in the UK: Complex,
+Unpredictable, and Political.” Public Administration 93(3): 788– 805.
+https://doi.org/10.1111/padm.12166.
+*Wu, Yiping, Hanyu Xiao, and Fang Yang. 2022.“Government Informa-
+tion Disclosure and Citizen Coproduction during COVID-19 in
+China.” Governance 35(4): 1005– 27. https://doi.org/10.1111/gove.
+12645.
+*Yeager, Samuel J., Jack Rabin, and Thomas Vocino. 1983.“Sources of
+Information Used by Professionals in Government to Find Jobs:
+Effectiveness and Impact.” Review of Public Personnel Administration
+4(1): 100– 113. https://doi.org/10.1177/0734371X8300400111.
+*Tevfik, Murat Yildirim. 2020. “Gender and Agenda Diversity: Cogni-
+tive Differences in Representatives ’ Information Processing. ”
+Policy Studies Journal 48(2): 327– 341. https://doi.org/10.1111/psj.
+12295.
+Zhang, Hongchun, Steven van de Walle, and Yue Zhuo. 2016. “Does
+Trust in the Performance Measurement Organization Influence how
+Public Managers use Performance Information? ” Public Perfor-
+mance & Management Review 40(2): 409– 430. https://doi.org/10.
+1080/15309576.2016.1239583.
+*Zhu, Jiangnan, Hanyu Xiao, and Wu. Bin. 2022.“From Big Data to Higher
+Bureaucratic Capacity: Poverty Alleviation in China.” Public Adminis-
+tration. https://doi.org/10.1111/padm.12907.
+AUTHOR BIOGRAPHIES
+Paola Cantarelli is an Assistant Professor at Scuola
+Superiore Sant ’Anna (Management and Healthcare
+Laboratory, Institute of Management, Pisa, Italy). Her
+research focuses on behavioral human resource man-
+agement and work motivation. Email: paola.
+cantarelli@santannapisa.it
+Nicola Belleis an Associate Professor at Scuola Super-
+iore Sant’Anna (Management and Healthcare Labora-
+tory, Institute of Management, Pisa, Italy). His research
+focuses on public management. Email: nicola.belle@
+santannapisa.it
+Jeremy L. Hallis a Professor of Public Administration
+at the University of Central Florida. He is a National
+Academy of Public Administration fellow, and immedi-
+ate past-President of the Southeastern Conference of
+Public Administration. He served ASPA as editor-
+in-chief of Public Administration Review from 2018 to
+2023. Email:
+jeremy.hall@ucf.edu
+How to cite this article:Cantarelli, Paola,
+Nicola Belle, and Jeremy L. Hall. 2023.“Information
+Use in Public Administration and Policy
+Decision-Making: A Research Synthesis.” Public
+Administration Review83(6): 1667– 86. https://doi.
+org/10.1111/puar.13735
+1686 USE OF INFORMATION IN PUBLIC ADMINISTRATION
+ 15406210, 2023, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13735 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

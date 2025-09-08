@@ -1,0 +1,897 @@
+<<<PAGE=1>>>
+Original Paper
+The Effectiveness of the Capacity Building and Mentorship
+Program in Improving Evidence-Based Decision-making in the
+Amhara Region, Northwest Ethiopia: Difference-in-Differences
+Study
+Moges Asressie Chanyalew1, MSc; Mezgebu Yitayal2, PhD; Asmamaw Atnafu2, PhD; Shegaw Anagaw Mengiste3,
+PhD; Binyam Tilahun1, PhD
+1Department of Health Informatics, Institute of Public Health, College of Medicine and Health Sciences, University of Gondar, Gondar, Ethiopia
+2Department of Health Systems and Policy, Institute of Public Health, College of Medicine and Health Sciences, University of Gondar, Gondar, Ethiopia
+3Management Information Systems, School of Business, University of South-Eastern Norway, Notodden, Norway
+Corresponding Author:
+Moges Asressie Chanyalew, MSc
+Department of Health Informatics, Institute of Public Health
+College of Medicine and Health Sciences
+University of Gondar
+Gondar
+Ethiopia
+Phone: 251 911617734
+Fax: 251 5882221626
+Email: 
+mogesabu@gmail.com
+Abstract
+Background: Weak health information systems (HISs) hobble countries’ abilities to effectively manage and distribute their
+resources to match the burden of disease. The Capacity Building and Mentorship Program (CBMP) was implemented in select
+districts of the Amhara region of Ethiopia to improve HIS performance; however, evidence about the effectiveness of the
+intervention was meager.
+Objective: This study aimed to determine the effectiveness of routine health information use for evidence-based decision-making
+among health facility and department heads in the Amhara region, Northwest Ethiopia.
+Methods: The study was conducted in 10 districts of the Amhara region: five were in the intervention group and five were in
+the comparison group. We employed a quasi-experimental study design in the form of a pretest-posttest comparison group. Data
+were collected from June to July 2020 from the heads of departments and facilities in 36 intervention and 43 comparison facilities.
+The sample size was calculated using the double population formula, and we recruited 172 participants from each group. We
+applied a difference-in-differences analysis approach to determine the effectiveness of the intervention. Heterogeneity of program
+effect among subgroups was assessed using a triple differences method (ie, difference-in-difference-in-differences [DIDID]
+method). Thus, the β coefficients, 95% CIs, and P values were calculated for each parameter, and we determined that the program
+was effective if the interaction term was significant at P<.05.
+Results: Data were collected using the endpoint survey from 155 out of 172 (90.1%) participants in the intervention group and
+166 out of 172 (96.5%) participants in the comparison group. The average level of information use for the comparison group was
+37.3% (95% CI 31.1%-43.6%) at baseline and 43.7% (95% CI 37.9%-49.5%) at study endpoint. The average level of information
+use for the intervention group was 52.2% (95% CI 46.2%-58.3%) at baseline and 75.8% (95% CI 71.6%-80.0%) at study endpoint.
+The study indicated that the net program change over time was 17% (95% CI 5%-28%; P=.003). The subgroup analysis also
+indicated that location showed significant program effect heterogeneity, with a DIDID estimate equal to 0.16 (95% CI 0.026-0.29;
+P=.02). However, sex, age, educational level, salary, and experience did not show significant heterogeneity in program effect,
+with DIDID estimates of 0.046 (95% CI –0.089 to 0.182), –0.002 (95% CI –0.015 to 0.009), –0.055 (95% CI –0.190 to 0.079),
+–1.63 (95% CI –5.22 to 1.95), and –0.006 (95% CI –0.017 to 0.005), respectively.
+Conclusions: The CBMP was effective at enhancing the capacity of study participants in using the routine HIS for
+decision-making. We noted that urban facilities had benefited more than their counterparts. The intervention has been shown to
+JMIR Med Inform 2022 | vol. 10 | iss. 4 | e30518 | p. 1https://medinform.jmir.org/2022/4/e30518
+(page number not for citation purposes)
+Chanyalew et alJMIR MEDICAL INFORMATICS
+XSL• FO
+RenderX
+<<<PAGE=2>>>
+produce positive outcomes and should be scaled up to be used in other districts. Moreover, the mentorship modalities for rural
+facilities should be redesigned to maximize the benefits.
+Trial Registration: Pan African Clinical Trials Registry PACTR202001559723931; https://tinyurl.com/3j7e5ka5
+(JMIR Med Inform 2022;10(4):e30518) doi: 10.2196/30518
+KEYWORDS
+capacity building; mentorship; mentoring; mentor; training; data use; information use; facility head; department head;
+quasi-experiment; difference-in-differences; Ethiopia; Amhara; weak health information system; HIS; health information system;
+CBMP; DID; decision-making; Africa; evidence based; effectiveness
+Introduction
+A health information system (HIS) is an intersection between
+health care business processes and information systems to
+deliver better health care services [
+1]. An effective and
+integrated HIS is the foundation of a strong health system and
+provides underpinnings for decision-making [
+2,3]. It has much
+to offer in managing health care costs and improving health
+care quality [
+4,5]. Effective decision-making to improve public
+health care essentially depends on the availability of reliable
+data [
+6].
+Countries have made tremendous efforts to enhance data use
+practice for patient care and management. For example, a
+granular ontology model for maternal and child HISs and a
+national acute care information platform were implemented and
+improved data analysis skills and policy making in Pakistan [
+6]
+and Sri Lanka [ 7], respectively. On the other hand, timely
+feedback on health system performance was implemented in
+sub-Saharan African countries and resulted in enhanced
+decision-making among leaders [
+8]. Likewise, a data-driven
+quality improvement intervention in Mozambique, Rwanda,
+and Zambia [
+9], as well as a data use workshop in Zanzibar and
+the United Republic of Tanzania [ 10], were implemented and
+brought a shift from a lack of awareness to collaborative
+ownership and improved local use of target indicators to drive
+change, respectively.
+In Botswana, a task-shifting initiative (ie, development of a
+dedicated monitoring and evaluation cadre) was implemented
+to strengthen monitoring and evaluation and build a sustainable
+HIS. As a result, the intervention brought increased use of health
+data for disease surveillance, operational research, and planning
+purposes [
+11]. The Feedback and Analytic Comparison Tool
+in Egypt [12] and the District Health Profile tool in Kenya [13]
+were implemented as change drivers; they helped health workers
+to identify gaps and facilitated data-informed decision-making.
+Moreover, a partnership-mentoring model implemented in the
+public hospitals of Ethiopia resulted in a 60% improvement of
+management indicators [
+14].
+Previous work has indicated that training, supervision, a good
+perceived culture of information use, having standard indicators,
+competence on routine HIS (RHIS) tasks, technology
+enhancement along with capacity building activities, and
+feedback systems were positively associated with routine health
+information use [
+15-18]. Despite this, there has been a concern
+when using this information in strategic decision-making among
+health workers [
+19] as well as a concern that the RHIS was
+unfairly used to enhance evidence-based decision-making [15].
+According to Mate et al [ 20], incomplete, inaccurate, and
+untimely data have been challenges of data use. Hoxha et al
+[
+16] also documented that the technical, organizational, and
+behavioral attributes of RHIS data remain challenges in health
+data use.
+The investment in health systems infrastructure or training for
+clinicians and administrators in low- and middle-income
+countries (LMIC) has been low [
+21]. Weak HISs hobble the
+ability of many LMIC to distribute their resources to match the
+burden of disease [
+22], and lack of data use is disempowering
+staff and those seeking to support them from making progress
+in setting-relevant research and quality improvement [
+7].
+Considering the low level of health data use among health
+workers, the Amhara Regional Health Bureau (ARHB), in
+collaboration with the University of Gondar (UoG) in Ethiopia,
+introduced the Capacity Building and Mentorship Program
+(CBMP) in 2019. The initiative has been implemented in five
+selected districts of the region since then. However, information
+was meager about the effectiveness of the intervention on the
+use of information in the study area. Therefore, this study aimed
+to determine the level of health information use among health
+facilities and department heads in the Amhara region, Northwest
+Ethiopia.
+Methods
+Study Setting and Design
+Baseline data were collected from April to May 2019 in 10
+selected districts of the Amhara region: five were in the
+intervention group and five were in the comparison group. A
+year later, endpoint data were collected from June to July 2020
+in the same districts. Thus, to estimate the effectiveness of the
+intervention, a quasi-experimental, nonequivalent, control group
+study design was employed [
+23].
+The Amhara region is located between 8˚45 ′ N and 13˚45 ′ N
+latitude and 35˚46 ′ E and 40˚25 ′ E longitude in Northwest
+Ethiopia [24,25]. It is subdivided administratively into 12 zones
+and three town administrations ( Figure 1). The zones and the
+town administrations are again subdivided into a total of 189
+districts, of which 39 are urban towns. As of 2020, the total
+population of the region was 22,292,890. The ratio of males to
+females was close to 1. The region has been implementing a
+three-tier health system comprised of primary, secondary, and
+tertiary levels. There are nine referral hospitals, 71 primary
+hospitals, 954 health centers, and 3450 health posts that are
+providing health services in the region [
+26].
+JMIR Med Inform 2022 | vol. 10 | iss. 4 | e30518 | p. 2https://medinform.jmir.org/2022/4/e30518
+(page number not for citation purposes)
+Chanyalew et alJMIR MEDICAL INFORMATICS
+XSL• FO
+RenderX
+<<<PAGE=3>>>
+Figure 1. Map of the study area in the Amhara Region, Northwest Ethiopia, 2021.
+Participants
+The source population of this study included all health
+department and health facility heads. Individuals responsible
+for the health departments or health institutions that were
+expected to use routine health data and who were at the selected
+facilities for at least 6 months were included in the study.
+However, health department heads who were on leave, retired,
+and not supposed to use routine health information for patient
+monitoring and follow-up were excluded from the study. Since
+it was an intervention effectiveness study, newly inaugurated
+facilities with patient stays of up to 3 months were also excluded
+from the study.
+Interventions
+The CBMP is an innovative approach that has been implemented
+since 2019 in selected districts of Ethiopia through the joint
+venture between the Federal Ministry of Health (FMoH) and
+selected universities; its goal is to strengthen the national HIS
+through proper data documentation, information use, and
+digitalization. The ARHB along with the UoG were responsible
+for implementing the intervention in the Amhara region. The
+intervention had two components: tailored training and
+mentorship. It targeted service delivery unit heads, case team
+leaders, health department heads, health facility heads, program
+officers, and district office managers [
+27].
+The intervention was designed primarily to improve the capacity
+of health workers at different levels. Thus, data quality and
+information use training manuals were distributed to health
+facilities, and participants from intervention districts received
+training on DHIS2 (District Health Information Software 2)
+data analytics, visualization, presentation, troubleshooting, and
+data use for decision-making. Furthermore, HIS resources (ie,
+registers, tally sheets, and computers) were provided to health
+facilities to enhance the availability and quality of data, and
+joint review meetings, which served as a platform for discussion,
+were organized every 6 months [
+28].
+Mentoring is a strategic development activity that supports
+health workers to attain the vision and goals of the organization
+[
+29]. The UoG recruited mentors from departments such as
+health informatics, health systems and policy, epidemiology
+and biostatistics, and health education. Thus, training was
+organized and provided to mentors to introduce them to the HIS
+strategies being implemented nationally and to provide them
+with mentorship skills. The trained mentors conducted
+mentorship programs at each health facility department every
+quarter for 1 year using the mentorship checklist. As a result,
+four rounds of mentorship programs were conducted. After that,
+the mentors with their mentees developed action plans that
+indicated activities to be accomplished, responsible persons,
+and implementation period. Based on the mentorship findings,
+mentees provided detailed written feedback that contained the
+strengths, weaknesses, and next steps in the performance of the
+RHIS.
+Outcomes
+The dependent variable of the study was the level of information
+use. The concept of information used for action in the health
+care systemwas applied. The practice of routine health data use
+is a process that encompasses gap identification, prioritization,
+root cause analysis, action plan development, and follow-up.
+Thus, we used a composite indicator to calculate the average
+value of information use. The five components of the outcome
+variable were as follows: identifying indicators in the
+department, calculating targets versus achievements, providing
+feedback to health workers at the lower levels, calculating
+program coverage, and evidence showing the use of data to
+inform decisions. We calculated the average value of these five
+indicators and compared the level of information use among
+intervention and comparison groups [
+15,30].
+Sample Size
+The study employed a quasi-experimental design with pre- and
+postassessment and intervention and comparison groups.
+Considering the difference in the level of information use among
+intervention and comparison districts after the intervention, we
+employed a double population proportion formula to estimate
+the sample size. Mathematically, the sample size was determined
+using the following formula [
+31]:
+N = (K [P1 (1 – P1) + P2 (1 – P 2)]) / ([P1 – P2]2)
+where N is the sample size; P1 is the anticipated proportion of
+facilities with the attribute of interest (ie, level of information
+use after the intervention, assuming a 15% increase in
+information use and considered as 84%) [
+32]; P 2 is the
+proportion of data use with no intervention, taken as 69%; K is
+the constant at an α  value of .05 and a β value of .2, taken as
+JMIR Med Inform 2022 | vol. 10 | iss. 4 | e30518 | p. 3https://medinform.jmir.org/2022/4/e30518
+(page number not for citation purposes)
+Chanyalew et alJMIR MEDICAL INFORMATICS
+XSL• FO
+RenderX
+<<<PAGE=4>>>
+7.9; and power (1 – β) was 80% [ 33,34]. With these
+assumptions, the sample size was calculated to be 122 units per
+department for each group. Though the source population was
+finite (<10,000), the sample size was corrected using the
+correction formula. Considering a design effect of 1.5 and a 5%
+nonresponse rate, the final sample size was 172 for each group.
+Thus, the overall sample size for both groups combined was
+344 individuals.
+As a quasi-experimental study, five districts were recruited for
+each arm (ie, intervention and comparison groups). The
+intervention districts were selected by the FMoH from among
+the low-performance districts regarding RHIS activities in the
+region. However, comparison districts were chosen randomly
+among the 146 districts in the region. We applied a multistage
+sampling procedure to select the study participants and
+developed a sampling frame that contained a list of the heads
+of departments and facilities in the selected districts. Thus, study
+participants were selected from the study population using a
+simple random sampling technique.
+Data Collection Tools and Procedures
+Data collection tools were developed based on the Performance
+of Routine Information System Management tools (version 3)
+and adapted to the local context [
+35]. In this paper, we applied
+the Information Use Assessment Tool and Organizational and
+Behavioral Assessment Tool (OBAT). The tools were piloted
+in two districts, Injibara and Debre Tabor, for validity and
+reliability checks; the districts were out of the study area but
+comparable with the study sites. The reliability assessment score
+showed a Cronbach α of .92 for the Likert scale, which indicated
+that the tool was consistent in measuring the outcome of interest
+[
+36].
+The Information Use Assessment Tool is an
+interviewer-administered tool. It was used to examine the health
+facilities’ report production, information display, discussions,
+and decisions based on the RHIS, planning, supervision, and
+mentorship. The OBAT is a self-administered tool that is used
+to identify information about the technical, organizational, and
+behavioral constraints for routine health data use. Eight data
+collectors and two supervisors participated in the data collection.
+The principal investigator (PI) delivered training on data
+recording, document review, and ethical consideration to data
+collectors and supervisors for 2 days. A data quality checklist
+was developed and applied during data collection to maintain
+the quality of data. Daily feedback was provided to data
+collectors by supervisors. The PI led and coordinated the overall
+data collection process.
+Data collectors requested permission from the facility heads to
+access the documents and departments. In addition, they
+provided information about the purpose of the study and
+obtained written consent from selected participants before
+interviewing them. Following that, they prepared participants
+for the interview. They reviewed source documents and charts
+posted in the department or unit, observed the discussion points
+made among members of the management body in the logbook,
+and collected data using the study tool. Subsequently,
+respondents were provided with a self-administered tool (ie,
+the OBAT) and informed to take an ample amount of time to
+complete the questionnaire.
+Assignment Methods
+The FMoH with the ARHB selected five intervention districts
+based on predefined criteria. All of these districts were low
+performers regarding the RHIS activities. They had a low level
+of information use and poor data quality but could potentially
+improve their performance if given the intervention. As a result,
+random assignments of districts to comparison and intervention
+arms were not applicable. However, the research team, in
+collaboration with the ARHB, selected five comparison districts
+to help in measuring the effectiveness of the intervention.
+Therefore, the intervention groups received usual service and
+the new CBMP intervention (ie, tailored training and
+mentorship), and the comparison groups received usual service
+(ie, supervision and review meeting by routine service).
+Blinding
+The nature of the intervention was designed to be implemented
+by mobile mentors. As a result, we were unable to mask health
+workers and program implementers. However, all study
+participants and data collectors were blinded to the research
+question and hypothesis that the team generated during
+implementation, baseline, and endpoint data collection.
+Statistical Methods
+The team scrutinized the data to identify missing values before
+entering the data into the software. The data entry template was
+developed using EpiData software (version 3.1; EpiData
+Association) by applying the commands and skipping patterns
+that minimized errors during entry. Thus, cleaned data were
+entered into EpiData and exported to R software (version 4.0.4;
+The R Foundation) in CSV file format to compute the effect
+size of the intervention. R software has different built-in
+statistical packages that enable researchers to run statistical
+models and test the hypothesis in question. Descriptive statistics,
+such as mean and percentage, were calculated. Tables and graphs
+were also used for presenting findings.
+The data were collected from the intervention and comparison
+districts before and after the implementation of the intervention.
+Thus, it entailed the difference-in-differences (DID) method to
+determine the effectiveness of the CBMP. As alluded to by
+different scholars, the DID method is one of the most frequently
+used methods in outcome and impact evaluation studies. Based
+on a combination of comparisons before and after the
+intervention as well as comparisons of the treatment and
+comparison groups, the method has an intuitive appeal and has
+been widely used in economics, public policy, health research,
+management, and other fields [
+37,38]. Thus, we employed the
+DID estimation technique to measure the effectiveness of the
+intervention using data from before and after the intervention
+in comparison of intervention and comparison groups. It was
+applied predominantly to quantify and test whether the level of
+change in the outcome of interest in the intervention group was
+significant compared to the comparison group.
+The DID approach applied a linear regression model and
+calculated the change over time in intervention and comparison
+JMIR Med Inform 2022 | vol. 10 | iss. 4 | e30518 | p. 4https://medinform.jmir.org/2022/4/e30518
+(page number not for citation purposes)
+Chanyalew et alJMIR MEDICAL INFORMATICS
+XSL• FO
+RenderX
+<<<PAGE=5>>>
+groups. It double-differenced the change over time in the
+intervention group compared to the comparison group. The
+method also generated a valid estimate of the causal effect if
+the implementation of the CBMP was the only factor that might
+cause a change in the association between the CBMP and
+average information use before and after the intervention, as
+shown in the equation below:
+Ygt = β0 + β1Tg + β2Pt + β3(Tg × Pt) + β4(Tg × P t ×
+covariates) + εt
+where Y gt is the average level of information use, β1 is the
+average difference in Y between the two groups that is common
+in both time periods, β2 is the average change in Y from the
+baseline to the endpoint time period that is common to both
+groups, β3 is the average change in Y from the baseline to the
+endpoint time period of the intervention group compared to the
+comparison group, and β4 is the triple difference adjusted for
+some covariates.
+To estimate the average change in information use over time
+using the DID model, we created a dummy variable by assigning
+1 to the intervention group and 0 to the comparison group.
+Moreover, the preintervention period and postintervention period
+were assigned 0 and 1, respectively. Subsequently, we employed
+a difference-in-difference-in-differences (DIDID) method to
+assess whether the program effects were heterogeneous across
+sex (male vs female), age (≤30 years vs >30 years), educational
+level (diploma vs above diploma), location (rural vs urban),
+salary (≤5000 ETB [Ethiopian birr] vs >5000 ETB; a currency
+exchange rate of 44.32 ETB=US $1 is applicable), and
+experience (≤5 years vs >5 years) [
+15].
+The model provided information about the β coefficients, P
+values, and 95% CIs. If the coefficient for the interaction term
+(ie, the DID estimator) was significant at an α  value of .05, we
+determined that the intervention was responsible for causing
+the change in the treatment group. In addition, the coefficients
+for the triple difference (ie, the DIDID estimator) were examined
+using the covariates listed above; one group was judged as
+having benefited more than the other if the model provided
+significant β coefficients [
+37,38].
+Ethics Approval
+The study protocol was developed considering the ethical
+principles from the Declaration of Helsinki. The research
+protocol was registered at the Pan African Clinical Trials
+Registry (PACTR202001559723931), which is a World Health
+Organization International Clinical Trials Registry Platform
+primary register [
+39]. Moreover, the registry confirmed that the
+intervention was implemented with ethical consideration to
+human subject involvement. The CBMP offers original insights
+and is a new approach; the tailored intervention was
+implemented in an adaptive way to address the gaps identified
+at a specific intervention site. We also secured an ethical
+clearance letter from the UoG Institutional Review Board
+(reference No. O/V/P/RCS/05/430/2018). Participants were
+informed of the purpose of the study and consented before any
+inquiry. Data were collected anonymously with no personal
+identifiers; data were used only for this study. We presented
+findings with no manipulation or subject involvement.
+Results
+Participant Flow Through the Study
+Baseline data were collected from 344 study participants
+(intervention: n=172, 50%; comparison: n=172, 50%) across
+83 health facilities. However, a total of 321 study participants
+(intervention: n=155, 48.3%; comparison: n=166, 51.7%) across
+79 health facilities (intervention: n=36, 46%; comparison: n=43,
+54%) were surveyed at the endpoint of the study; the response
+rate was 93.3% (321/344). A total of 4 facilities out of 40 (10%)
+from the intervention arm were excluded because they became
+part of the newly established districts (
+Figure 2).
+JMIR Med Inform 2022 | vol. 10 | iss. 4 | e30518 | p. 5https://medinform.jmir.org/2022/4/e30518
+(page number not for citation purposes)
+Chanyalew et alJMIR MEDICAL INFORMATICS
+XSL• FO
+RenderX
+<<<PAGE=6>>>
+Figure 2. Flow diagram of study participants in the Amhara region, Northwest Ethiopia, 2021.
+Characteristics of Study Participants
+Among the 321 total study participants, 155 (48.3%) were from
+the intervention districts and 166 (51.7%) were from the
+comparison districts. More than half of the study participants
+were male in both intervention and comparison districts at
+baseline and endpoint periods. Almost two-thirds of the study
+participants were below the age of 28 years in both arms.
+Similarly, more than half of the study participants were diploma
+holders and resided in rural locations. Two-thirds of the
+participants earned equal to or below 5000 ETB at baseline,
+and nearly half of them earned above 5000 ETB at the study
+endpoint in both the intervention and comparison groups. More
+than half of the study participants had 5 years or more of
+experience (
+Table 1).
+JMIR Med Inform 2022 | vol. 10 | iss. 4 | e30518 | p. 6https://medinform.jmir.org/2022/4/e30518
+(page number not for citation purposes)
+Chanyalew et alJMIR MEDICAL INFORMATICS
+XSL• FO
+RenderX
+<<<PAGE=7>>>
+Table 1. Sociodemographic characteristics of study participants in the Amhara region, Northwest Ethiopia, 2021.
+EndpointBaselineVariable
+ComparisonInterventionComparisonIntervention
+95% CIn (%)95% CIn (%)95% CIn (%)95% CIn (%)
+Sex
+29.1-44.260 (36.4)35.9-52.168 (43.9)29.5-44.363 (36.6)32.3-47.368 (39.5)Female
+55.8-70.9106 (63.6)47.9-64.087 (56.1)55.7-70.5109 (63.4)52.7-67.7104 (60.5)Male
+Age (years)
+71.1-84.2130 (78.3)76.2-88.6129 (83.2)79.1-90.2147 (85.5)70.2-83.3133 (77.3)≤30
+15.8-28.936 (21.7)11.4-23.826 (16.8)9.8-20.925 (14.5)16.8-29.839 (22.7)>30
+Location
+62.2-76.6116 (69.9)43.5-59.780 (51.6)63.4-77.5122 (70.9)46.9-62.294 (54.7)Rural
+23.4-37.850 (30.1)40.3-56.575 (48.4)22.5-36.650 (29.1)37.8-53.178 (45.3)Urban
+Educational level
+46.6-62.290 (54.5)47.9-64.087 (56.1)48.6-63.997 (56.4)52.7-67.7104 (60.5)Diploma or below
+37.8-53.475 (45.5)35.9-52.068 (43.9)36.1-51.475 (43.6)32.3-47.368 (39.5)Above diploma
+Salary (ETBa)
+40.7-56.480 (48.5)41.6-54.677 (49.7)57.5-72.4109 (65.3)68.9-82.2131 (76.2)≤5000
+43.6-59.385 (51.5)42.2-58.478 (50.3)27.6-42.558 (34.7)17.8-31.041 (23.8)>5000
+Experience (years)
+50.9-66.397 (58.8)49.2-65.289 (57.4)58.1-71.9128 (65.3)55.2-70.1107 (62.9)≤5
+33.7-49.168 (41.2)34.8-50.866 (42.6)28.1-41.968 (34.7)29.9-44.863 (37.1)>5
+aETB: Ethiopian birr; a currency exchange rate of 44.32 ETB=US $1 is applicable.
+Component Indicators of Information Use
+The study indicated that a mean of 30.2% (95% CI 23.3-37.2)
+and 51.7% (95% CI 44.23-59.3) of the department heads in
+comparison and intervention districts, respectively, used
+available evidence while making decisions at baseline, whereas
+a mean of 33.7% (95% CI 26.4-41.0) and 73.5% (95% CI
+66.7-80.3) of the department heads in comparison and
+intervention districts, respectively, used available evidence
+while making decisions at study endpoint. At baseline, a mean
+of 41.9% (95% CI 34.5-49.3) and 43.0% (95% CI 35.5-50.5)
+of the departments in the comparison group calculated target
+achievement and program coverage, respectively, whereas a
+mean of 63.9% (95% CI 56.7-71.2) and 50.0% (95% CI
+42.5-57.5) of the departments in the intervention group did so.
+However, the postperiod data showed that a mean of 56.0%
+(95% CI 48.4-63.7) and 45.2% (95% CI 37.6-52.8) of the
+comparison groups calculated target achievement and program
+coverage, respectively, whereas a mean of 85.5% (95% CI
+80.1-90.9) and 76.5% (95% CI 70.0-83.0) of the intervention
+groups did so. At baseline, less than half of the study participants
+in both groups provided feedback to health workers at the lower
+levels; however, at the study endpoint, a mean of 34.9% (95%
+CI 27.5-42.3) of comparison group participants and 62.1% (95%
+CI 54.6-69.5) of the intervention group participants did so. At
+baseline, a mean of 41.9% (95% CI 34.5-49.3) and 58.7% (95%
+CI 51.3-66.2) of the departments in the comparison and
+intervention groups, respectively, had identified indicators,
+whereas at the study endpoint, a mean of 48.8% (95% CI
+41.1-56.5) and 81.3% (95% CI 75.3-87.3) of the departments
+in the comparison and intervention groups, respectively, had
+done so (
+Figure 3).
+JMIR Med Inform 2022 | vol. 10 | iss. 4 | e30518 | p. 7https://medinform.jmir.org/2022/4/e30518
+(page number not for citation purposes)
+Chanyalew et alJMIR MEDICAL INFORMATICS
+XSL• FO
+RenderX
+<<<PAGE=8>>>
+Figure 3. Component indicators of routine information use at baseline and at the study endpoint in the comparison and intervention districts in the
+Amhara region, Northwest Ethiopia, 2021. The mean values are reported on the bars; the whiskers represent 95% CI values.
+Average Level of Information Use in Decision-making
+The average level of information use for the comparison group
+was 37.3% (95% CI 31.1%-43.6%) at baseline and 43.7% (95%
+CI 37.9%-49.5%) at the study endpoint. The average level of
+information use for the intervention group was 52.2% (95% CI
+46.2%-58.3%) at baseline and 75.8% (95% CI 71.6%-80.0%)
+at the study endpoint. The DID analysis indicated that the net
+program effect change over time was significant ( P=.003). It
+indicated that the intervention resulted in a 17% (95% CI
+5%-28%) increment in the level of information use among the
+intervention districts compared to the comparison districts (
+Table
+2).
+Table 2. DID analysis in control and intervention districts in the Amhara region, Northwest Ethiopia, 2021.
+P value95% CIProgram effect sizeParameter
+<.0010.300-0.4130.356Intercept
+<.0010.080-0.2430.162Group (intervention vs comparison)
+.0470.000-0.1600.08Time (study endpoint vs baseline)
+.0030.058-0.2880.173DIDa analysis (group × time)
+aDID: difference-in-differences.
+Subgroup Analysis for Program Effect Heterogeneity
+Diagnosis
+The DIDID estimate showed that the CBMP increased
+information use by 16% among department heads who were
+working in urban facilities, with a DIDID estimate of 0.16 (95%
+CI 0.026-0.289; P=.02). However, we did not find much
+evidence of heterogeneity in program effect based on sex, age,
+educational level, salary, and experience, with DIDID estimates
+of 0.046 (95% CI –0.089 to 0.182), –0.002 (95% CI –0.015 to
+0.009), –0.055 (95% CI –0.190 to 0.079), –1.63 (95% CI –5.22
+to 1.95), and –0.006 (95% CI –0.017 to 0.005), respectively
+(
+Table 3).
+JMIR Med Inform 2022 | vol. 10 | iss. 4 | e30518 | p. 8https://medinform.jmir.org/2022/4/e30518
+(page number not for citation purposes)
+Chanyalew et alJMIR MEDICAL INFORMATICS
+XSL• FO
+RenderX
+<<<PAGE=9>>>
+Table 3. Subgroup analysis for selected variables in assessing program effect heterogeneity in the Amhara region, Northwest Ethiopia, 2021.
+P valueHeterogeneity in program effect (95% CI)Effect modifier
+.500.046 (–0.089 to 0.182)Sex (male vs female )
+.65–0.002 (–0.015 to 0.009)Age (≤30 years vs >30 years)
+.42–0.055 (–0.190 to 0.079)Educational level (diploma vs above diploma )
+.37–0.00016 (–0.0005 to 0.00019)Salary (≤5000 ETBa vs >5000 ETB)
+.020.16 (0.026 to 0.289)Residence (urban vs rural)
+.29–0.006 (–0.017 to 0.005)Experience (≤5 years vs >5 years)
+aETB: Ethiopian birr; a currency exchange rate of 44.32 ETB=US $1 is applicable.
+Discussion
+Principal Findings
+All five component indicators showed high improvement at the
+study endpoint compared to baseline in each group. The
+intervention resulted in a 17% change in the average level of
+information use among study participants in the intervention
+districts compared to the comparison districts. We noted that
+the effect of the intervention was heterogeneous in urban and
+rural facilities. However, significant differences were not
+observed based on the sex, age, educational level, salary, and
+experience of the study participants.
+This research revealed that the CBMP was effective in
+improving the capacity of the department and facility heads in
+using routine health information for decision-making and action.
+This finding was higher than that found in a cluster randomized
+controlled trial conducted in Sierra Leone on a community
+health data review meeting, which resulted in a 14% increment
+in evidence generation [
+40]. However, this finding was by far
+below the findings reported in a study conducted in Nigeria; in
+that study, data quality and information use training were found
+to improve feedback mechanisms by 54% [
+32]. This difference
+could be due to the large number of facilities covered by the
+CBMP and the nature of the study participants. Building health
+workers’ capacity in data use for actions at all levels in the
+health system would improve and make more efficient the use
+of health care resources, which would, in turn, lead to making
+quality services available to clients.
+As indicated with these findings, the intervention resulted in
+the majority of study participants having identified and used
+indicators to track performance progress in their catchment area.
+It was consistent with a single study done in Zanzibar and
+Tanzania where the data use workshop resulted in improvement
+in the local use of target indicators [
+10]. Identifying and using
+indicators in the health system enable health workers to measure
+the occurrence of disease or other health conditions and factors
+contributing to them [
+41]. In addition, indicators link
+information to actions and provide signals as to whether a
+program is effective and efficient in achieving the intended
+results in the target groups [
+42].
+Though the findings highlighted an improvement in providing
+feedback to health workers at lower levels, it was still
+unsatisfactory compared to the desired level [
+27]; however, it
+was better than the findings of the study done in the Southern
+Nations, Nationalities, and Peoples Region [ 43]. It was also
+inconsistent with the findings obtained in Egypt that reported
+the effectiveness of the Feedback and Analytic Comparison
+Tool intervention in improving clinicians’ capacity on providing
+feedback [
+12]. The difference might be because the latter was
+a single intervention primarily targeted at improving feedback
+mechanisms. In addition, it could be associated with low
+attention given to the importance of feedback among the study
+participants in our study. Generating synthesized evidence that
+indicates the strengths and weaknesses of health workers in the
+health system is one of the solemn expected activities, among
+others, in realizing the information revolution agenda [
+44]. Thus,
+ineffective feedback mechanisms lead to the provision of
+poor-quality services to clients and patients.
+It was evidenced in a subgroup analysis that urban dwellers
+benefited more from the intervention than their counterparts.
+This finding is also in line with the baseline study finding, which
+indicated that work location was a significant factor associated
+with the level of information use [
+15]. This may be because
+more senior and qualified health workers had transferred from
+rural to urban facilities. Staff transfer is a common practice in
+the health system to reduce staff attrition rate [
+45]. This
+imbalance created different achievement levels in reaching the
+information revolution targets in all districts, which, in turn,
+can affect the quality of care provided to beneficiaries in general.
+Limitations
+One limitation of this study was that we did not employ
+randomization and blinding because of the nature of the study.
+This may have introduced some information leakage between
+intervention and comparison districts. Some facilities from
+which we took baseline data were not included in the endpoint
+survey, which may have biased the results. Moreover, social
+desirability and recall bias may also have been introduced, since
+participants were part of the intervention.
+Conclusions
+The CBMP was found to be effective in improving department
+and facility heads’ capacity in using routine health information
+for decision-making. The intervention was more beneficial to
+study participants who resided in urban facilities than their
+counterparts. A remarkable change was observed in using the
+available evidence to inform decisions, identify indicators for
+tracking performance progress, compare targets versus
+achievements, and calculate program coverage. However, there
+is still a gap in providing synthesized feedback to health workers
+JMIR Med Inform 2022 | vol. 10 | iss. 4 | e30518 | p. 9https://medinform.jmir.org/2022/4/e30518
+(page number not for citation purposes)
+Chanyalew et alJMIR MEDICAL INFORMATICS
+XSL• FO
+RenderX
+<<<PAGE=10>>>
+at lower levels. Therefore, we propose the following
+recommendations. The intervention has been proven to produce
+positive outcomes and should be scaled up to other districts.
+Moreover, attention should be given to enhance the capacity of
+health workers employed in rural facilities and to strengthen
+feedback mechanisms at all levels, in order to reach the desired
+outcomes of the information revolution.
+Acknowledgments
+The research team members are thankful to the University of Gondar for providing an ethical review letter. We offer our appreciation
+to the Amhara Regional Health Bureau and the Amhara Public Health Institute for providing us with the support letter to conduct
+the research. The district office, health facilities, and departments were also supportive of our data collection, and we offer our
+gratitude. In the end, we are also grateful to the study participants and data collectors for their cooperation and involvement in
+the study.
+This work would not be possible without the financial support from the Doris Duke Charitable Foundation (grant 2017187)
+through the University of Gondar. The funder had no role in data design, data collection, analysis, and interpretation of the study
+findings. The mission of the Doris Duke Charitable Foundation is to improve the quality of people’s lives through grants supporting
+the performing arts, environmental conservation, medical research, and child well-being, and through preservation of the cultural
+and environmental legacy of Doris Duke’s properties. We would also like to acknowledge the Norwegian Partnership Programme
+for Global Academic Cooperation for its financial contribution.
+Data Availability
+Data are available upon reasonable request from the corresponding author.
+Authors' Contributions
+MAC participated in data analysis. All authors conceptualized the design of the study, provided a review of the methodology and
+analysis results, contributed to the writing of the manuscript, and read and approved the final manuscript.
+Conflicts of Interest
+None declared.
+References
+1. Almunawar MN, Anshari M. Health information systems (HIS): Concept and technology. ArXiv. Preprint posted online
+on March 18, 2012 [
+FREE Full text]
+2. Hodge N. What are health information systems, and why are they important? Pac Health Dialog 2012 Apr;18(1):15-19.
+[Medline: 23240331]
+3. Greenes RA. Health information systems 2025. In: Weaver CA, Ball MJ, Kim GR, Kiel JM, editors. Healthcare Information
+Management Systems: Cases, Strategies, and Solutions. 4th edition. Cham, Switzerland: Springer; 2016:579-600.
+4. Fichman R, Kohli R, Krishnan R. The role of information systems in healthcare: Current research and future trends. Inf
+Syst Action Res 2011;22(3):28. [doi: 10.1007/978-0-387-36060-7_10]
+5. Kolodner RM, Cohn SP, Friedman CP. Health information technology: Strategic initiatives, real progress. Health Aff
+(Millwood) 2008 Jan;27(5):w391-w395. [doi: 10.1377/hlthaff.27.5.w391] [Medline: 18713825]
+6. Ismail S, Alshmari M, Latif K, Ahmad HF. A granular ontology model for maternal and child health information system.
+J Healthc Eng 2017;2017:9519321 [FREE Full text] [doi: 10.1155/2017/9519321] [Medline: 29065669]
+7. Beane A, De Silva AP, Athapattu PL, Jayasinghe S, Abayadeera AU, Wijerathne M, et al. Addressing the information
+deficit in global health: Lessons from a digital acute care platform in Sri Lanka. BMJ Glob Health 2019;4(1):e001134
+[
+FREE Full text] [doi: 10.1136/bmjgh-2018-001134] [Medline: 30775004]
+8. Mutale W, Chintu N, Amoroso C, Awoonor-Williams K, Phillips J, Baynes C, et al. Improving health information systems
+for decision making across five sub-Saharan African countries: Implementation strategies from the African Health Initiative.
+BMC Health Serv Res 2013 May 31;13(S2):1-12. [doi: 
+10.1186/1472-6963-13-s2-s9]
+9. Wagenaar BH, Hirschhorn LR, Henley C, Gremu A, Sindano N, Chilengi R, AHI PHIT Partnership Collaborative. Data-driven
+quality improvement in low-and middle-income country health systems: Lessons from seven years of implementation
+experience across Mozambique, Rwanda, and Zambia. BMC Health Serv Res 2017 Dec 21;17(Suppl 3):830 [
+FREE Full
+text] [doi: 10.1186/s12913-017-2661-x] [Medline: 29297319]
+10. Braa J, Heywood A, Sahay S. Improving quality and use of data through data-use workshops: Zanzibar, United Republic
+of Tanzania. Bull World Health Organ 2012 May 01;90(5):379-384. [doi: 10.2471/blt.11.099580]
+11. Mpofu M, Semo B, Grignon J, Lebelonyane R, Ludick S, Matshediso E, et al. BMC Public Health 2014 Oct 03;14:1032
+[FREE Full text] [doi: 10.1186/1471-2458-14-1032] [Medline: 25281354]
+JMIR Med Inform 2022 | vol. 10 | iss. 4 | e30518 | p. 10https://medinform.jmir.org/2022/4/e30518
+(page number not for citation purposes)
+Chanyalew et alJMIR MEDICAL INFORMATICS
+XSL• FO
+RenderX
+<<<PAGE=11>>>
+12. Gaumer G, Hassan N, Murphy M. A simple primary care information system featuring feedback to clinicians. Int J Health
+Plann Manage 2008;23(3):185-202. [doi: 10.1002/hpm.899] [Medline: 17853507]
+13. Nutley T, McNabb S, Salentine S. Impact of a decision-support tool on decision making at the district level in Kenya.
+Health Res Policy Syst 2013 Sep 08;11:34 [FREE Full text] [doi: 10.1186/1478-4505-11-34] [Medline: 24011028]
+14. Bradley E, Hartwig KA, Rowe LA, Cherlin EJ, Pashman J, Wong R, et al. Hospital quality improvement in Ethiopia: A
+partnership-mentoring model. Int J Qual Health Care 2008 Dec;20(6):392-399. [doi: 10.1093/intqhc/mzn042] [Medline:
+18784268]
+15. Chanyalew M, Yitayal M, Atnafu A, Tilahun B. Routine health information system utilization for evidence-based decision
+making in Amhara national regional state, northwest Ethiopia: A multi-level analysis. BMC Med Inform Decis Mak 2021
+Jan 26;21(1):28 [
+FREE Full text] [doi: 10.1186/s12911-021-01400-5] [Medline: 33499838]
+16. Hoxha K, Hung YW, Irwin BR, Grépin KA. Understanding the challenges associated with the use of data from routine
+health information systems in low- and middle-income countries: A systematic review. Health Inf Manag 2020 Jun 30.
+[doi: 
+10.1177/1833358320928729] [Medline: 32602368]
+17. Wude H, Woldie M, Melese D, Lolaso T, Balcha B. Utilization of routine health information and associated factors among
+health workers in Hadiya Zone, Southern Ethiopia. PLoS One 2020;15(5):e0233092 [FREE Full text] [doi:
+10.1371/journal.pone.0233092] [Medline: 32437466]
+18. Dagnew E, Woreta SA, Shiferaw AM. Routine health information utilization and associated factors among health care
+professionals working at public health institution in North Gondar, Northwest Ethiopia. BMC Health Serv Res 2018 Sep
+04;18(1):685 [
+FREE Full text] [doi: 10.1186/s12913-018-3498-7] [Medline: 30180897]
+19. Brattig Correia R, Chiodini J, Dalfovo O, Silva LH, Teske R. The use of information systems in health care facilities: A
+Brazilian case. J Technol Manag Innov 2013;8:143-144 [FREE Full text] [doi: 10.4067/s0718-27242013000300072]
+20. Mate KS, Bennett B, Mphatswe W, Barker P, Rollins N. Challenges for routine health system data management in a large
+public programme to prevent mother-to-child HIV transmission in South Africa. PLoS One 2009;4(5):e5483 [FREE Full
+text] [doi: 10.1371/journal.pone.0005483] [Medline: 19434234]
+21. Dondorp AM, Iyer SS, Schultz MJ. Critical care in resource-restricted settings. JAMA 2016 Feb 23;315(8):753-754. [doi:
+10.1001/jama.2016.0976] [Medline: 26903331]
+22. Rhatigan Jr JJ. Health systems and health care delivery. In: Ryan ET, Hill DR, Solomon T, Aronson NE, Endy TP, editors.
+Hunter's Tropical Medicine and Emerging Infectious Diseases. 10th edition. Amsterdam, the Netherlands: Elsevier;
+2020:214-218.
+23. Campbell DT, Stanley JC. Experimental and Quasi-Experimental Designs for Research. Boston, MA: Houghton Mifflin
+Company; 1963.
+24. Central Statistics Agency. Population projection. Ethiopian Statistics Service. 2019. URL: 
+https://www.statsethiopia.gov.et/
+population-projection/ [accessed 2022-04-11]
+25. Ayalew D, Tesfaye K, Mamo G, Yitaferu B, Bayu W. Outlook of future climate in northwestern Ethiopia. Agric Sci
+2012;3(4):608-624. [doi: 10.4236/as.2012.34074]
+26. 2012 EFY Annual Report. Bahir-Dar, Ethiopia: Amhara Region Health Bureau; 2020.
+27. Capacity Building and Mentorship Program (CBMP): Guiding Plan. Gondar, Ethiopia: University of Gondar; 2013.
+28. Capacity Building and Mentorship Program (CBMP): Progress Report. Gondar, Ethiopia: University of Gondar; 2012.
+29. Poulsen KM. Mentoring programmes: Learning opportunities for mentees, for mentors, for organisations and for society.
+Ind Commer Train 2013;45(5):63. [doi: 
+10.1108/ict-03-2013-0016]
+30. Aqil A, Lippeveld T, Hozumi D. PRISM framework: A paradigm shift for designing, strengthening and evaluating routine
+health information systems. Health Policy Plan 2009 May;24(3):217-228 [FREE Full text] [doi: 10.1093/heapol/czp010]
+[Medline: 19304786]
+31. Whitley E, Ball J. Statistics review 4: Sample size calculations. Crit Care 2002 Aug;6(4):335-341 [ FREE Full text] [doi:
+10.1186/cc1521] [Medline: 12225610]
+32. Nwankwo B, Sambo M. Can training of health care workers improve data management practice in health management
+information systems: A case study of primary health care facilities in Kaduna State, Nigeria. Pan Afr Med J 2018;30:289
+[
+FREE Full text] [doi: 10.11604/pamj.2018.30.289.15802] [Medline: 30637073]
+33. Fox N, Amanda H, Mathers N. Sampling and Sample Size Calculation.: The NIHR RDS for the East Midlands / Yorkshire
+& the Humber; 2007. URL: https://www.bdct.nhs.uk/wp-content/uploads/2019/04/Sampling-and-Sample-Size-Calculation.
+pdf [accessed 2022-05-10]
+34. Abera E, Daniel K, Letta T, Tsegaw D. Utilization of health management information system and associated factors in
+Hadiya zone health centers, Southern Ethiopia. Res Health Sci 2016 Sep 05;1(2):98. [doi: 10.22158/rhs.v1n2p98]
+35. Aqil A, Hozumi D, Lippeveld T. PRISM Tools for Assessing, Monitoring, and Evaluating RHIS Performance. 2010 Mar.
+URL: https://www.measureevaluation.org/resources/publications/ms-09-34/at_download/document [accessed 2022-05-10]
+36. Bonett DG, Wright TA. Cronbach's alpha reliability: Interval estimation, hypothesis testing, and sample size planning. J
+Organ Behav 2014 Oct 13;36(1):3-15. [doi: 10.1002/job.1960]
+37. Fredriksson A, de Oliveira GM. Impact evaluation using difference-in-differences. RAUSP Manage J 2019;54(4):519-532
+[FREE Full text] [doi: 10.1108/RAUSP-05-2019-0112]
+JMIR Med Inform 2022 | vol. 10 | iss. 4 | e30518 | p. 11https://medinform.jmir.org/2022/4/e30518
+(page number not for citation purposes)
+Chanyalew et alJMIR MEDICAL INFORMATICS
+XSL• FO
+RenderX
+<<<PAGE=12>>>
+38. Lechner M. The estimation of causal effects by difference-in-difference methods. Found Trends Econom 2011;4(3):165-224.
+[doi: 
+10.1561/0800000014]
+39. Chanyalew M. Effectiveness of health information system (HIS) training and mentorship on the level of information use
+among health facility and department heads: A quasi-experimental study. Pan African Clinical Trials Registry. 2020. URL:
+https://pactr.samrc.ac.za/TrialDisplay.aspx?TrialID=9602 [accessed 2022-05-10]
+40. Cummings O'Connor E, Hutain J, Christensen M, Kamara M, Conteh A, Sarriot E, et al. Piloting a participatory,
+community-based health information system for strengthening community-based health services: Findings of a
+cluster-randomized controlled trial in the slums of Freetown, Sierra Leone. J Glob Health 2019 Jun;9(1):010418 [
+FREE
+Full text] [doi: 10.7189/jogh.09.010418] [Medline: 30842881]
+41. Pan American Health Organization. Health indicators: Building blocks for health situation analysis. Epidemiol Bull 2001
+Dec;22(4):1-5 [FREE Full text] [Medline: 12058680]
+42. HMIS Reform Team. Health Management Information System (HMIS) / Monitoring and Evaluation (M&E). Addis Ababa,
+Ethiopia: Federal Ministry of Health; 2008 Jan. URL: https://www.cmpethiopia.org/content/download/478/2765/file/
+Health%20Managment%20Information%20System%20(HMIS).pdf [accessed 2021-07-29]
+43. Belay H, Azim T, Kassahun H. Assessment of Health Management Information System (HMIS) Performance in SNNPR,
+Ethiopia. 2014 May. URL: https://pdf.usaid.gov/pdf_docs/pa00k27k.pdf [accessed 2022-05-10]
+44. Information Revolution Roadmap. Addis Ababa, Ethiopia: Ethiopian Federal Ministry of Health; 2016 Apr. URL: http:/
+/repository.iifphc.org/bitstream/handle/123456789/316/Information%20Revolution%20Roadmap.
+pdf?sequence=1&isAllowed=y [accessed 2022-04-10]
+45. Atnafu K, Tiruneh G, Ejigu T. Magnitude and associated factors of health professionals’ attrition from public health sectors
+in Bahir Dar City, Ethiopia. Health 2013;5(11):1909-1916. [doi: 10.4236/health.2013.511258]
+Abbreviations
+ARHB: Amhara Regional Health Bureau
+CBMP: Capacity Building and Mentorship Program
+DHIS2: District Health Information Software 2
+DID: difference-in-differences
+DIDID: difference-in-difference-in-differences
+ETB: Ethiopian birr
+FMoH: Federal Ministry of Health
+HIS: health information system
+LMIC: low- and middle-income countries
+OBAT: Organizational and Behavioral Assessment Tool
+PI: principal investigator
+RHIS: routine health information system
+UoG: University of Gondar
+Edited by C Lovis; submitted 18.05.21; peer-reviewed by J Colquitt, Jr, I Mircheva; comments to author 31.01.22; revised version
+received 13.02.22; accepted 25.02.22; published 22.04.22
+Please 
+cite as:
+Chanyalew MA, Yitayal M, Atnafu A, Mengiste SA, Tilahun B
+The Effectiveness of the Capacity Building and Mentorship Program in Improving Evidence-Based Decision-making in the Amhara
+Region, Northwest Ethiopia: Difference-in-Differences Study
+JMIR Med Inform 2022;10(4):e30518
+URL: 
+https://medinform.jmir.org/2022/4/e30518
+doi: 10.2196/30518
+PMID:
+©Moges Asressie Chanyalew, Mezgebu Yitayal, Asmamaw Atnafu, Shegaw Anagaw Mengiste, Binyam Tilahun. Originally
+published in JMIR Medical Informatics (https://medinform.jmir.org), 22.04.2022. This is an open-access article distributed under
+the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original work, first published in JMIR Medical Informatics, is
+properly cited. The complete bibliographic information, a link to the original publication on https://medinform.jmir.org/, as well
+as this copyright and license information must be included.
+JMIR Med Inform 2022 | vol. 10 | iss. 4 | e30518 | p. 12https://medinform.jmir.org/2022/4/e30518
+(page number not for citation purposes)
+Chanyalew et alJMIR MEDICAL INFORMATICS
+XSL• FO
+RenderX

@@ -1,0 +1,3093 @@
+<<<PAGE=1>>>
+Laurenz Langer, Janice Tripney, David Gough
+EPPI-Centre 
+Social Science Research Unit 
+UCL Institute of Education 
+University College London
+Final report • April 2016
+The Science of Using Science
+Researching the Use of Research Evidence in  
+Decision-Making
+ePPI
+CENTRE
+EPPI-Centre
+<<<PAGE=2>>>
+i 
+ 
+ 
+This project was led by the Alliance for Useful Evidence, with generous funding and 
+support from Wellcome Trust and the What Works Centre for Wellbeing. The project 
+products include:  
+ 
+1. The Final Report by Langer, Tripney, and Gough (the current document);  
+2. The Technical Report by Langer, Tripney, and Gough (available at 
+http://eppi.ioe.ac.uk/cms/Default.aspx?tabid=3504); 
+3. A discussion document based on the Final Report and a case study analysis of decision-
+makers’ use of evidence by Breckon and Dodson (available at 
+http://www.alliance4usefulevidence.org/publication/); 
+4. A conference to disseminate the findings, held on 12 April 2016 at the Wellcome Trust. 
+ 
+The Technical Report is an extended version of the Final Report and provides additional 
+detail on research methods and findings. Information on the extent of such further detail 
+is provided at the start of each chapter.  
+ 
+The overall project was supported by a project board with members: 
+David Carr (Wellcome Trust) 
+Nancy Hey (What Works Centre for Wellbeing) 
+Jonathan Breckon and Jane Dodson (Alliance for Useful Evidence) 
+David Gough, Laurenz Langer, and Janice Tripney (EPPI-Centre) 
+ 
+The research was undertaken by Laurenz Langer, Janice Tripney, and David Gough of the 
+EPPI-Centre, Social Science Research Unit, UCL Institute of Education, University College 
+London.   
+ 
+This report should be referenced as:  
+Langer L, Tripney J, Gough D (2016). The Science of Using Science: Researching the Use of 
+Research Evidence in Decision-Making. London: EPPI-Centre, Social Science Research Unit, 
+UCL Institute of Education, University College London.  
+ISBN: 978-1-907345-88-3 
+ 
+© Copyright 2016 
+Authors of the reviews on the EPPI-Centre website (http://eppi.ioe.ac.uk/) hold the 
+copyright for the text of their reviews. The EPPI-Centre owns the copyright for all material 
+on the website it has developed, including the contents of the databases, manuals, and 
+keywording and data-extraction systems. The centre and authors give permission for users 
+of the site to display and print the contents of the site for their own non-commercial use, 
+providing that the materials are not modified, copyright and other proprietary notices 
+contained in the materials are retained, and the source of the material is cited clearly 
+following the citation details provided. Otherwise users are not permitted to duplicate, 
+reproduce, re-publish, distribute, or store material from this website without express 
+written permission.
+<<<PAGE=3>>>
+ii 
+ 
+Table of contents 
+ 
+Abbreviations........................................................................................... ii 
+Executive summary ................................................................................... 1 
+Chapter 1.  Introduction ............................................................................. 6 
+1.1 Aim ................................................................................................... 6 
+1.2 Background ......................................................................................... 6 
+1.3 Approach taken by this project .................................................................. 7 
+1.4 Research questions ............................................................................... 11 
+Chapter 2. Research methods ......................................................................13 
+2.1 Overview of research structure & process .................................................... 13 
+2.2 Review 1 methods and process ................................................................. 13 
+2.3 Review 2 methods and process ................................................................. 14 
+Chapter 3.  Summary of findings ..................................................................16 
+3.1 Review 1 results (EIDM literature) .............................................................. 16 
+3.2 Review 2 results (broader social science literature) ........................................ 18 
+3.3 Summary of results across Review 1 and Review 2 .......................................... 19 
+M1 interventions (building awareness for, and positive attitudes towards, EIDM) ........... 20 
+M2 interventions (building agreement on policy-relevant questions and fit-for-purpose 
+evidence) ............................................................................................... 24 
+M3 interventions (providing communication of, and access to, evidence) .................... 27 
+M4 interventions (facilitating interactions between decision-makers and researchers) .... 32 
+M5 interventions (developing skills to access and make sense of evidence).................. 36 
+M6 interventions (influencing decision-making structures and processes) .................... 41 
+Chapter 4. Conclusion ...............................................................................47 
+4.1 Scope of project .................................................................................. 47 
+4.2 Strengths and limitations ........................................................................ 47 
+4.3 Suggestions for future EIDM interventions .................................................... 48 
+4.4 Guidance to facilitate development of a Theory of Change ................................ 49 
+References .............................................................................................54 
+Appendix A: Search results Review 1 ............................................................... 56
+<<<PAGE=4>>>
+ii 
+ 
+Abbreviations  
+ 
+CMO Capability, motivation, and opportunity 
+CoP Communities of practice 
+DPME South African Department of Planning, Monitoring, and Evaluation 
+EIDM Evidence-informed decision-making 
+NICE National Institute for Health and Care Excellence 
+RCT Randomised controlled trial 
+ToC Theory of Change
+<<<PAGE=5>>>
+1 
+ 
+Executive summary  
+ 
+Introduction 
+Research evidence is just one factor that can influence decision-making at a policy and 
+practice level. While various interventions have been developed to enhance and support 
+the use of research evidence by decision-makers, it is unclear which interventions are 
+effective. This research project set out to review the efficacy of interventions applied to 
+increase decision-makers’ use of research in various decision arenas. The project also 
+examined whether there is additional knowledge in the broader social science literature 
+that is relevant to evidence-informed decision-making (EIDM) and could be applied to help 
+support future interventions in this area.  
+Review methods 
+Two reviews of reviews were conducted: first, a systematic review of reviews of the EIDM 
+literature (Review 1); and, second, a scoping review of the research reported in reviews in 
+the broader social science literature (Review 2). Both reviews applied an explicit review 
+methodology following a structured and transparent process to synthesise the findings 
+reported in both bodies of literature. An overall conceptual research framework was 
+developed to structure the two reviews in a comparable manner and to allow for the 
+integration of the results from both reviews. This framework was used to group 
+interventions according to six mechanisms of change (i.e. the processes by which EIDM 
+might be achieved). Each of the six mechanisms (M1-M6) were also examined in terms of 
+intermediary behavioural outcomes consisting of the capability, motivation, and 
+opportunity (CMO) to act in a way that may increase EIDM.  
+Review 1 results: what works to increase research use by decision-makers? 
+The systematic review of reviews (Review 1) identified 36 existing reviews assessing what 
+interventions work to increase research use. Synthesising the findings of 23 reviews rated 
+moderate to high trustworthiness and relevance, we found:  
+Evidence of effects (evidence use outcome) 
+Interventions facilitating access to research evidence, for example through communication 
+strategies and evidence repositories, conditional on the intervention design simultaneously 
+trying to enhance decision-makers’ opportunity and motivation to use evidence (reliable 
+evidence).1   
+Interventions building decision-makers’ skills to access and make sense of evidence (such 
+as critical appraisal training programmes), conditional on the intervention design 
+simultaneously trying to enhance both capability and motivation to use research evidence 
+(reliable evidence).  
+Interventions that foster changes to decision-making structures and processes by 
+formalising and embedding one or more of the other mechanisms of change within existing 
+structures and processes (such as evidence-on-demand services integrating push, user-pull 
+and exchange approaches) (cautious evidence).2 
+                                            
+1 ‘Reliable’ refers to evidence based on reviews rated high trustworthiness and relevance in the 
+weight of evidence assessment. For details of the weight of evidence assessment, see Section 2.1 
+below and Chapters 2, 3 and Appendix I in the Technical Report. 
+2 ‘Cautious’ refers to evidence based on reviews rated moderate trustworthiness and relevance. As 
+above.
+<<<PAGE=6>>>
+2 
+ 
+There is reliable evidence that some individual interventions characterised by a highly 
+intense and complex programme design lead to an increase in evidence use. Overall, 
+however, and based solely on observation, simpler and more defined interventions appear 
+to have a better likelihood of success. 
+Evidence of no effects (evidence use outcome) 
+ Interventions that take a passive approach to communicating evidence that only 
+provide opportunities to use evidence (such as simple dissemination tools) (reliable 
+evidence).  
+ Multi-component interventions that take a passive approach to building EIDM skills 
+(such as seminars and ‘communities of practice’ without active educational 
+components) (cautious evidence).   
+ Skill-building interventions applied at a low intensity (such as a once-off, half a day 
+capacity-building programme) (cautious evidence).   
+ Overall, unstructured interaction and collaboration between decision-makers and 
+researchers tended to have a lower likelihood of success. However, clearly defined, 
+light-touch approaches to facilitating interaction between researchers and decision-
+makers, engagement in particular, were effective to increase intermediate CMO 
+outcomes (cautious evidence). 
+Absence of evidence 
+ Interventions building awareness of, and positive attitudes towards, EIDM. 
+ Interventions building agreement on policy-relevant questions and what constitutes fit-
+for-purpose evidence. 
+Review 2 results: insights from social science knowledge to support research use  
+The scoping review of the broader social science literature (Review 2) identified 67 
+interventions of potential relevance to EIDM. Configuring the insights and, in some cases, 
+the reported effects of these interventions generate a number of contributions that the 
+reviewed social science literature suggests. These contributions illustrate examples of 
+potential applications of social science knowledge to support EIDM interventions and 
+mechanisms. 
+Promote and market behavioural norms  
+ Social science knowledge on the creation of behavioural norms could be used in EIDM 
+to support the formation of social or professional evidence use norms. Effective social 
+science interventions to build such norms included social marketing, social incentives, 
+and identity cues, for example. 
+Engage in advocacy and awareness raising for the concept of EIDM 
+ Social science research suggests that advocacy and awareness-raising campaigns are 
+effective in supporting behavioural change. These strategies could be applied to 
+communicate and popularise the concept of EIDM to increase awareness for the 
+benefits of using evidence during decision-making as well as the risks of not doing so.    
+ 
+Effectively frame and formulate communicated messages 
+ Social science literature on effective communication suggested many techniques and 
+strategies that can be used to enhance the communication of research evidence. 
+Framing of messages, tailoring communication including audience segmentation, and 
+regular use of reminders are examples of communication techniques reported as 
+effective in the social sciences that could contribute insights to EIDM interventions as 
+well.
+<<<PAGE=7>>>
+3 
+ 
+Design appealing and user-friendly access platforms and resources  
+ The social science literature features a rapidly growing body of knowledge on 
+information design. Interventions aiming to improve decision-makers’ access to 
+evidence could directly draw from this knowledge to enhance the design of evidence 
+repositories and other resources, as well as to investigate the programming of EIDM 
+apps.  
+Build a professional identity with common practices and standards of conduct  
+ Social science insights on social influence, collaboration, relationship building, and 
+group interaction could be used to improve the design and outcomes of interaction 
+interventions. The literature suggests that interaction among professionals can build a 
+professional identity with common practices and standards of conduct (through, for 
+example, communities of practice, mentoring, and inter-professional education). 
+Making the building of a professional identity relating to evidence use a key objective 
+of future interaction interventions would, in turn, entail a greater emphasis on 
+facilitating interactions between different decision-makers to fully harness the power 
+of social influence and peer-to-peer interaction. 
+Foster adult learning  
+ Social science knowledge on adult learning theories and principles is of direct use and 
+relevance to EIDM capacity-building. Integrating this body of knowledge more closely 
+with EIDM is likely to enhance the long-term performance of interventions supporting 
+decision-makers’ EIDM skills.  
+Build organisational capacities and support organisational change  
+ A large body of knowledge on organisational structures could be transferred to support 
+the design of EIDM interventions. Social science research on organisational learning 
+and cultures, management and leadership techniques, and other changes to 
+organisational processes and structures (for example, facilitation), is of direct benefit 
+to interventions aiming to increase the receptivity of decision-making processes and 
+structure to evidence use. A closer integration of this body of knowledge could 
+enhance the appetite and readiness of organisations to use evidence. 
+ Use behavioural techniques, including nudges 
+ A developing body of social science knowledge, one which is currently not integrated 
+within the EIDM literature, investigates the influence of behavioural factors (such as 
+cognitive loads) on individual decision-making processes. It has also developed 
+effective techniques to reduce cognitive biases and enhance decision-makers’ choice 
+architectures. Supporting the use of evidence during decision-making similarly could 
+be subject to these techniques and the design of evidence use nudges could provide a 
+valuable tool in the repertoire of EIDM interventions. Behavioural sciences stress the 
+importance of salience in the design of interventions, which could directly be applied 
+to support the practice of EIDM.   
+Exploit the potential of online and mobile technologies  
+ The application of online and mobile technologies is suggested in the social science 
+literature to increase the reach, convenience, and appeal of interventions. A range of 
+EIDM interventions (e.g. communication, capacity-building, decision aids) could 
+benefit from the integration and regular use of online and mobile technologies.
+<<<PAGE=8>>>
+4 
+ 
+Institutional frameworks and mechanisms 
+ Institutional frameworks and mechanisms can advocate and nurture structural changes 
+at all levels of decision-making. In the context of EIDM, effective examples include 
+accreditation processes, clearinghouses such as the National Institute for Health and 
+Care Excellence (NICE), and government ministries. Overall, however, not enough 
+rigorous evaluation in this area is taking place.    
+ 
+Implications from Review 1 and Review 2: 
+The findings from Review 1 and Review 2 suggest a number of implications for EIDM 
+practice and research. We discuss these for each review in turn below, before concluding 
+with some final suggestions based on combined insights from both reviews.  
+Interventions that support the communication of and access to research evidence were 
+only effective to increase evidence use if the intervention design simultaneously tried to 
+enhance decision-makers’ opportunity and motivation to use evidence. It is therefore 
+advisable that future research and practice focus on how to design and tailor interventions 
+that better feature these CMO configurations. In this, social science offers a great deal of 
+knowledge that can be drawn upon. 
+Similarly, interventions building decision-makers’ skills were only effective to increase 
+evidence use if the intervention design simultaneously tried to enhance both capability 
+and motivation to use research evidence. Again, attention should be paid to CMO 
+configurations when designing or tailoring such interventions.    
+Changes to decision-making structures and processes may be an effective mechanism to 
+increase evidence use, but this currently lacks an extensive evidence-base. The results of 
+this review suggest increasing the use of this mechanism in practice, as well as urging 
+future research studies to explore the mechanism’s impact and theory of change more 
+carefully.  
+The majority of the reviewed interventions that focus on unstructured interactions 
+between decision-makers and researchers appear ineffective at improving decision-
+makers’ evidence use, a finding that may be explained by a lack of conceptual clarity (i.e. 
+what constitutes interaction, relationships, trust) and casual clarity (i.e. purpose of the 
+interaction, theory of change of how interaction supports evidence use). Future research 
+therefore requires an in-depth engagement with the theory of change underlying 
+interaction interventions, and current practice is advised to focus on light-touch and well-
+defined intervention designs, such as decision-maker engagement, which command a more 
+positive evidence-base.  
+Given the current evidence gap, increased research and practice efforts are required to 
+gain an understanding of interventions promoting the concept of EIDM, as well as those 
+working towards mutual understanding of policy-relevant questions and agreement on 
+what constitutes fit-for-purpose evidence needed to answer them.  
+Unfortunately, the evidence on the relative effectiveness of single and multi-mechanism 
+interventions is limited to observational patterns at this stage. Based on this, however, 
+there is some suggestion that simpler and more defined interventions have an increased 
+likelihood of success. Therefore, it seems sensible to both increase and substantiate 
+research knowledge on simpler interventions, and develop the necessary theory before 
+conducting large studies of multi-mechanism interventions whose casual chain is difficult 
+to disentangle at this early stage of research knowledge.  
+The scoping review identified many areas of social science knowledge that are currently 
+not well-integrated and drawn from in EIDM. This leaves two main implications from 
+Review 2 for future research and practice: first, a closer investigation of the integration of
+<<<PAGE=9>>>
+5 
+ 
+the social science interventions and knowledge suggested as of relevance to EIDM in this 
+scoping review; and second, the creation of a closer link between EIDM and the social 
+science literature. Future research should explore mechanisms to better connect both 
+bodies of knowledge. Thereby, EIDM would be better positioned to benefit from the most 
+up-to-date knowledge base and run less risk of being out of sync with other areas of the 
+social sciences.  
+Finally, in this project we have used levels of intervention, mechanisms of change, and 
+capability, motivation and opportunity to change behaviour as a framework to help 
+understand (a) what interventions are trying to achieve, and (b) the processes they use to 
+try to achieve this (in other words, the ‘theory of change’ of how the intervention is 
+meant to have its effect). We hope that this framework can help others to plan a theory of 
+change when they develop or evaluate interventions to enable EIDM, and we offer 
+guidance on how to develop such a theory of change.
+<<<PAGE=10>>>
+6 
+ 
+Chapter 1.  Introduction 
+ 
+This chapter is identical in content with Chapter 1 in the Technical Report.  
+1.1 Aim 
+The results of research studies can be one important component in decision-making by 
+policymakers, professionals, and members of the public. However, such research evidence 
+is not always considered in decision-making, even when relevant research is available. The 
+aim of this research project is to review the evidence-base relevant to increasing the use 
+of research evidence by decision-makers; in other words, to review one aspect of the 
+science of using scientific knowledge. 
+1.2 Background 
+Over the last twenty years there has been an increasing concern, both in the UK and 
+internationally, to make better use of the evidence produced by research in policy and 
+practice decision-making. This has led to the rapid growth of systematic reviews to bring 
+together, in a rigorous and transparent way, the available research evidence. There have 
+also been a number of initiatives developed to improve the communication, 
+interpretation, and uptake of research with the aim of helping decision-makers of 
+different types make better use of research. In addition, a new area of research activity 
+has developed to study how research interacts with policy and practice, with the intention 
+of enabling such interactions to become more frequent and useful (Nutley et al. 2007). 
+While much of this research has focused on processes of research use and/or the barriers 
+and facilitators to the use of research (for example, Oliver et al. 2014), there is also now 
+a considerable body of research evaluating the effectiveness of strategies promoting 
+evidence-informed decision-making (EIDM). 
+To address the aim of this project, we conducted two separate reviews of the literature. 
+First, we first systematically reviewed existing reviews of the specialist EIDM literature 
+which has evaluated evidence use interventions. Second, as there are also many other 
+aspects of social science research that may be relevant to the study of research use, we 
+undertook a scoping review of the broader social science literature to identify evidence of 
+the effectiveness of additional interventions and any further insights that could be 
+relevant in an EIDM context3. Our research therefore brings together the findings reported 
+in two related bodies of literature: Review 1 (review of EIDM literature) and Review 2 
+(review of the broader social science literature).     
+Definitions  
+For the purpose of this project, EIDM is defined as a process whereby multiple sources of 
+information, including the best available research evidence, are consulted before making 
+a decision to plan, implement, and (where relevant) alter policies, programmes and other 
+services.  
+Our concern is limited to the use of a particular type of evidence in decision-making: that 
+is, research-based evidence. Research may be defined as a systematic investigative 
+process employed to increase or revise current knowledge. For the purposes of this 
+review, we employed a broad conceptualisation of research that included not only 
+                                            
+3 In this context, ‘broader’ indicates the research use literature too, as it is also part of the social 
+science literature.
+<<<PAGE=11>>>
+7 
+ 
+scientifically-based research, but also administrative data and statistics collected in the 
+course of service and benefit provision (such as school-level datasets).  
+Research use is understood as a multidimensional construct (Weiss 1979). Two kinds of 
+research use are relevant to this study: instrumental and conceptual. 
+• Instrumental research use is a direct use of research knowledge. It refers to the 
+concrete application of research, such as in the taking of specific policy decisions or 
+implementation of practice interventions. 
+ 
+• Conceptual research use highlights its enlightenment function. This is when research 
+influences how policymakers and practitioners think about issues, problems, or 
+potential solutions. Research findings may change their opinion but not necessarily a 
+particular action.  
+The phrase ‘research use’ therefore implies that the research user has engaged with the 
+research and acted upon it in some way. Acting upon it may not necessarily mean that the 
+research has been used to inform policy or practice developments. It could simply mean 
+that the findings have been considered during policy discussions. 
+Throughout the report we use the terms EIDM, evidence use, and research use 
+interchangeably to denote the use of research evidence by decision-makers.  
+1.3 Approach taken by this project 
+The research project was concerned with interventions able to enhance and support the 
+use of evidence in decision-making. In the absence of an agreed over-arching theory of 
+how EIDM occurs, we developed a conceptual framework to structure both reviews in a 
+comparable manner and to allow for the integration of the results from both reviews. This 
+framework consisted of two different types of intervention, which were grouped according 
+to six identified mechanisms of change (i.e. the processes by which EIDM might be 
+achieved). In addition to the primary outcome behaviour of EIDM, each of the six 
+mechanisms were also examined in terms of intermediary behavioural components 
+consisting of capability, motivation, and opportunity (CMO) to act in a way that may 
+increase EIDM. We are aware that these interventions could occur at different levels, such 
+as targeting behaviour change by individuals or in organisations. Together these four 
+elements of intervention types, the mechanisms, behavioural CMOs, and levels of 
+intervention, provided the overall conceptual framework for examining both the EIDM and 
+broader social science literature, as illustrated in Figure 1.1 (and described in greater 
+detail below).
+<<<PAGE=12>>>
+8 
+ 
+Figure 1.1: Overall conceptual framework for the project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) Specific interventions from the EIDM and the broader social science literatures 
+The project focused on two main types of interventions. First were those interventions 
+designed to directly impact on the consideration of research evidence in decision-making 
+(for example, continuing professional development activities to increase policymakers’ 
+awareness of and capacity to use research in developing policy). The second type of 
+intervention were those from the broader social science literature (for example, 
+psychology, management, and behavioural sciences) that could potentially be relevant to 
+increasing EIDM (even if such research has not yet been applied directly to EIDM). So, for 
+example, there may be research on interventions to increase the effectiveness of 
+communication strategies, but not specifically about communicating research evidence or 
+the need to use such evidence. Other examples may include approaches to changing 
+organisational behaviour and the use of marketing in individual behavioural change.   
+As our focus was on interventions to improve consideration of research evidence in the 
+decision-making process, supply-side interventions to improve the research enterprise 
+itself (such as through funding channels) or researchers’ behaviour were not considered. In 
+addition, interventions to support implementation and/or adherence of agreed evidence-
+based policies, practices or programmes (for example, clinical practice guidelines) were 
+also outside the scope of the project.   
+(2) Mechanisms of evidence use  
+We used the underlying mechanisms driving interventions that have been proposed in the 
+EIDM literature to categorise evidence use interventions. We identified six such 
+intervention mechanisms based on previous studies of mechanisms (for example, Gough et 
+al. 2011; Nutley et al. 2007), research on barriers and facilitators to decision-makers’ use 
+of evidence (for example, Oliver et al. 2014), and existing empirical frameworks for 
+intervention effectiveness (for example Moore et al. 2011). Interventions aiming to 
+ 
+1. Interventions to increase 
+research use
+2. Mechanisms by which the 
+interventions (to increase 
+research use) have their impact
+3. Behaviour change components 
+(Capability, Motivation, and 
+Opportunity)
+4. Levels on which interventions 
+are applied and on which they 
+have an impact 
+Assessment of the 
+research on the 
+efficacy of 
+interventions to 
+increase the use of 
+research evidence by 
+decision makers: 
+(i) Review 1: From 
+the EIDM 
+literature; 
+(ii) Review 2: From 
+the broader 
+social science 
+literature.
+<<<PAGE=13>>>
+9 
+ 
+increase EIDM were assumed to work through either individual mechanisms or through a 
+combination of mechanisms. Table 1.1 outlines these six evidence use mechanisms. 
+  
+Table 1.1: Identified evidence use mechanisms  
+Evidence use mechanisms 
+ 
+AWARENESS 
+(M1) 
+ 
+Building awareness for, and positive attitudes toward, 
+evidence-informed decision-making (EIDM). 
+ 
+This mechanism emphasises the importance of decision-
+makers’ valuing the concept of EIDM.   
+ 
+AGREE 
+(M2) 
+ 
+Building mutual understanding and agreement on policy-
+relevant questions and the kind of evidence needed to answer 
+them. 
+  
+This mechanism emphasises the importance of building 
+mutual understanding and agreement on policy questions and 
+what constitutes fit-for-purpose evidence. 
+ 
+COMMUNICATION  
+& ACCESS 
+(M3) 
+Providing communication of, and access to, evidence.  
+ 
+This mechanism emphasises the importance of decision-
+makers receiving effective communication of evidence and 
+convenient access to evidence. 
+ 
+INTERACT  
+(M4) 
+ 
+Interaction between decision-makers and researchers.4 
+ 
+This mechanism emphasises the importance of decision-
+makers interacting with researchers in order to build trusted 
+relationships, collaborate, and gain exposure to a different 
+type of social influence.  
+ 
+SKILLS 
+(M5) 
+ 
+Supporting decision-makers to develop skills in accessing and 
+making sense of evidence.   
+ 
+This mechanism emphasises the importance of decision-
+makers having the necessary skills to locate, appraise, 
+synthesise evidence, and integrate it with other information 
+and political needs etc.  
+ 
+STRUCTURE & 
+PROCESS  
+(M6) 
+ 
+Influencing decision-making structures and processes. 
+ 
+This mechanism emphasises the importance of decision-
+makers’ psychological, social, and environmental structures 
+and processes (for example, mental models, professional 
+norms, habits, organisational and institutional rules) in 
+providing means and barriers to action.    
+ 
+To enhance accessibility we have structured the mechanisms using a numerical list and 
+abbreviation (M1–M6). However, this does not reflect a hierarchical order of the 
+mechanisms and we assume each mechanism to be of equal importance in supporting 
+decision-makers’ use of evidence.  
+                                            
+4 Use of the term researcher denotes anyone conducting research and is not confined to appointed 
+individuals in official research positions.
+<<<PAGE=14>>>
+10 
+ 
+(3) Components of behaviour change 
+Increasing the use of research evidence by decision-makers depends on behaviour change: 
+in this instance, the use of such evidence to influence policy debates, the resulting policy 
+choices, and the practical implementation of those choices. The components of such 
+behaviour change provide us with intermediary outcomes, in addition to the primary 
+outcome behaviour of EIDM. 
+Based on a review of existing frameworks for understanding behaviour change, Michie and 
+colleagues (2011) developed a method for characterising interventions and linking them to 
+an analysis of the targeted behaviour. In this ‘behaviour system’, three essential 
+conditions—capability, motivation, and opportunity (CMO)—interact to generate behaviour 
+that in turn influences these components. Any given intervention might change one or 
+more components in this ‘behaviour system’ (see Figure 1.2). Our review has retained 
+Michie’s definition of capability, motivation, and opportunity.5 
+ 
+Figure 1.2: Components of behaviour change (source: Michie et al. 2011) 
+0 
+(4) Level of intervention 
+The change in behaviour may be in organisations or by individuals, and organisations can 
+vary in terms of their scope and responsibilities. For the purposes of this review, 
+behaviour has been organised into four levels consisting of:  
+ individual behaviour; 
+ immediate organisational context (such as where people live or work); 
+ broader organisational context (such as local government); 
+ national and international organisations.  
+ 
+                                            
+5 Capability is defined as the individual’s psychological and physical capacity to engage in the 
+activity concerned. It includes having the necessary knowledge and skills. Motivation is defined as 
+all those brain processes that energise and direct behaviour, not just goals and conscious decision -
+making. It includes habitual processes, emotional responding, as well as analytical decision -making. 
+Opportunity is defined as all the factors that lie outside the individual that make the behaviour 
+possible or prompt it (Michie et al. 2011).
+<<<PAGE=15>>>
+11 
+ 
+Logic model                      
+As noted above, there is no agreed theory of how interventions can effectively influence 
+decision-makers’ use of evidence. We therefore brought together the individual 
+components of our conceptual framework to create a basic logic model that sets out how 
+evidence use interventions are assumed to influence decision-makers’ consideration of 
+research evidence (Figure 1.3). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The model illustrates how interventions may influence evidence use, either through a 
+single mechanism or through multi-mechanism combinations. Applying these mechanisms 
+allows interventions to influence one or more components of behaviour change, i.e. 
+capability, motivation, and/or opportunity to use evidence. These CMOs then facilitate 
+the final outcome of evidence use. A CMO component can therefore be understood as an 
+intermediate outcome on the causal pathway to the final outcome. CMOs can work either 
+in isolation or in combination.  
+The logic model allowed us to structure the interventions according to the applied 
+intervention mechanisms (outlined in Table 1.1). We could then unpack the impact of 
+these interventions on evidence use through a CMO configuration as an intermediate 
+outcome. Structuring interventions according to mechanisms, and outcomes according to 
+behaviour change components, allowed us to create a structure that equally applied to 
+the EIDM and broader social science literature.  
+1.4 Research questions   
+To review the evidence-base relevant to increasing the use of research evidence by 
+decision-makers in a systematic and transparent manner, we constructed the following 
+research questions for this project.  
+ 
+M2 
+M3 
+M4 
+M5 
+M1 
+M6 
+Interventions applied to increase decision-makers’ use 
+of evidence 
+[All levels of intervention] 
+ 
+ 
+ 
+Behaviour change: 
+Evidence use  
+Figure 1.3: Intervention logic model – for each level of intervention 
+Capability 
+Motivation 
+ Opportunity
+<<<PAGE=16>>>
+12 
+ 
+ Review 1:   
+           
+(RQ1) What is the quantity and type of studies that have been undertaken on the 
+efficacy of interventions used to increase the use of research evidence by decision 
+makers? 
+ 
+(RQ2) What evidence is there for the efficacy of interventions used to increase the 
+use of research evidence by decision makers? 
+ 
+Review 2:     
+         
+(RQ3) What interventions are suggested in the social science literature that might be 
+relevant to the evidence use mechanisms mapped in Review 1? 
+ 
+(RQ4) What evidence is there for the efficacy of these broader social science 
+interventions and how might they be relevant to EIDM?
+<<<PAGE=17>>>
+13 
+ 
+Chapter 2. Research methods 
+ 
+This chapter provides a summary of the methods used in this research project. For an in-
+depth discussion and additional content, please see Chapter 2 in the Technical Report, 
+available at http://eppi.ioe.ac.uk/cms/Default.aspx?tabid=3504. 
+2.1 Overview of research structure & process  
+This research project reviewed two related bodies of literature that have investigated 
+which interventions are effective to increase decision-makers’ use of evidence. We used 
+the logic and methods of systematic review (Gough et al. 2012) to guide our research and 
+adopted a distinct methodological review approach for each body of literature.  
+(i) Review 1: systematic review of reviews of the EIDM literature.6  
+(ii) Review 2: scoping review of reviews of the broader social science literature.7  
+Both Review 1 and Review 2 were conducted using a similar conceptual structure and 
+research process as described in Chapter 1 and illustrated in Figure 1.3. Applying the same 
+framework across both reviews allowed us to integrate their findings in a transparent and 
+structured manner.  
+For both reviews the process of bringing together the relevant literature included the 
+following steps: 
+ definition of criteria to include relevant research; 
+ search of academic and grey literature for relevant research; 
+ screening and inclusion of relevant research (research selection);  
+ data extraction and trustworthiness/relevance appraisal of included research; 
+ synthesis of research findings.  
+We used bibliographic management software (EPPI-Reviewer 4) to manage the review 
+process.  
+2.2 Review 1 methods and process 
+Review 1 is a systematic review of reviews on the efficacy of interventions applied to 
+increase the use of research evidence by decision-makers. It includes a systematic map 
+and synthesis of the findings of existing systematic reviews of relevant EIDM literature. 
+The search for relevant systematic reviews followed a detailed search strategy based on 
+an a priori master search string of keywords related to research use, which was applied in 
+a range of academic databases and grey literature sources.8  
+To be included, reviews had to present a systematic review of the literature; non-
+systematic literature reviews and primary research were excluded. Systematic reviews 
+also had to measure the effectiveness of interventions, which excluded conceptual and 
+theoretical reviews as well as reviews that investigated barriers and facilitators to 
+research use, such as decision-makers’ perception of evidence. The main inclusion criteria 
+                                            
+6 A systematic review is defined as a review of research literature that uses systematic, explicit and 
+accountable methods. It involves three key activities: identifying and describing the relevant 
+literature; critically appraising relevant reports; and bringing together the findings in a systematic 
+way, in a process known as synthesis (Gough et al. 2012).  
+7 A scoping review is an exploratory review that is predominantly rigorous and explicit yet is not 
+fully systematic in its methods. 
+8 The full search strategy can be found in Appendix B in the Technical Report.
+<<<PAGE=18>>>
+14 
+ 
+here refer to each reviews’ ability to investigate the attribution of the evidence use 
+outcomes to the reviewed interventions. For this reason, reviews were required to include 
+primary evidence that could lay a reasonable claim to evaluate the effects of 
+interventions on evidence use outcomes minimising possible biases in the attribution of 
+the effects to interventions. Eligible designs included, for example, randomised controlled 
+trials (RCTs), quasi-experiments and single-group pre/post-test evaluations. The ability of 
+research designs to minimise biases in attribution further influenced the weight of 
+evidence rating of each review. Relevant outcomes included both the primary outcome of 
+decision-makers’ use of research evidence (for example, increased references to research 
+in policy documents), and intermediate outcomes in the form of changes in decision-
+makers’ CMOs—that is, changes in their capability, motivation and/or opportunity to use 
+research evidence (for example, increased attitudes toward research evidence). 
+Practitioner outcomes, such as the uptake and implementation of an evidence-based 
+practice, were outside the scope of this review. Outcomes could be measured at any level 
+of analysis presented in Section 1.3. A full list of inclusion criteria is available in the 
+Technical Report.  
+Eligible systematic reviews were subject to a detailed process of data extraction and 
+quality appraisal. Data extraction included coding reviews for intervention, outcome 
+measures, and results. Interventions reported in the included reviews were categorised 
+and coded according to the six underlying mechanisms of change. This coding depended on 
+the description of the interventions in the reviews, and interventions often applied 
+multiple mechanisms. Coding of interventions and mechanisms followed a systematic and 
+transparent method and the individual codes for each intervention are presented in 
+Appendix A in the Technical Report. Notwithstanding, the coding process entails a degree 
+of interpretation. The same disclaimer applies for the coding of the CMOs.   
+To guide a transparent and comparable quality appraisal of the included reviews, we 
+developed a weight-of-evidence assessment tool (Gough 2007), which examined the 
+trustworthiness and relevance of the reviews’ findings. This tool took into consideration 
+issues of the fitness-for-purpose of the review design, for example ability of included 
+primary studies to minimise confounding bias, as well as the relevance of the review’s 
+findings and approach to the project’s research questions. Findings drawn from reviews of 
+high trustworthiness and relevance were classified as reliable evidence; while findings 
+drawn from reviews of moderate trustworthiness and relevance were classified as cautious 
+evidence.  
+Relevant extracted information was captured in summary tables for each review, which 
+were compared and fed into an overall summary of findings table (see Technical Report: 
+Table 4.1 and Appendix A). In this process, review findings were aggregated and 
+structured according to the applied intervention mechanisms. The review findings did not 
+allow for a statistical meta-analysis, therefore we conducted a structured framework 
+synthesis of review findings to investigate the effects of intervention mechanisms on CMOs 
+and decision-makers’ use of evidence. The directions of the effects are included in 
+summary tables for each mechanism (see, for example, Table 3.1 in Chapter 3).  For the 
+purposes of this review, the term ‘reliable’ evidence is used to denote evidence from 
+reviews rated as high weight-of-evidence and ‘cautious’ for moderate weight-of-evidence 
+rated reviews. 
+2.3 Review 2 methods and process 
+The social science research literature is extremely large and diverse, and so it was 
+understandably not possible within the resources of the review to systematically search 
+and review the entire literature. Instead, Review 2 is a broad scoping review of social 
+science research, with a specific focus on interventions that may be relevant to EIDM.
+<<<PAGE=19>>>
+15 
+ 
+Interventions in Review 2 could refer to: 
+ individual programme components (for example, sending reminders as a component 
+of communication interventions);  
+ interventions (for example, social marketing as a communication intervention); and  
+ concepts from which future interventions might be derived (for example, 
+information design as a scientific concept). 
+We conducted a two-stage search of the social science literature. The first stage followed 
+an iterative process, in which the six evidence use mechanisms guided a first scoping of 
+areas of social literature relevant to each mechanism. Guided by the evidence use 
+mechanisms, we engaged in an iterative search of these areas combining keyword 
+searches, snowballing, and hand-searches of academic journals to identify concepts and 
+interventions relevant to EIDM in the social science literature. The second stage (having 
+identified relevant social science interventions) was to search for existing reviews on the 
+impact of these interventions. The search for reviews of the effects of these relevant 
+social science interventions was conducted using keyword searches in academic databases 
+and Google Scholar. This iterative search process is explained in Sections 2.2 and 5.1 of 
+the Technical Report. 
+Any type of research (i.e., both empirical and conceptual studies) was eligible for 
+inclusion in stage 1 of the search, providing they were relevant to supporting the 
+application of evidence use mechanisms. For stage 2, reviews had to provide syntheses of 
+impact evaluations of the interventions of interest.  
+Reviews identified in stage 2 of the search were appraised for their trustworthiness using 
+the same weight-of-evidence tool applied in Review 1. Unlike Review 1 however, we did 
+not exclude low-trustworthiness studies from the synthesis, on the grounds that different 
+research traditions within the social sciences subscribe to different methodological 
+approaches. Review findings rated as of low trustworthiness were considered and labelled 
+as ‘literature review’ findings. We extracted data on the direction of the effects reported 
+in the social science reviews and these are included in a summary table of relevant social 
+science interventions for each mechanism (see, for example, Table 3.1 in Chapter 3). 
+However, unlike for Review 1, detailed information on each review was not collected and 
+therefore is not provided in this report. Due to both the lack of sufficient and appropriate 
+data available for statistical synthesis, and the iterative nature of the review process, we 
+conducted a narrative synthesis based on the summary tables in Chapter 3 to assess the 
+contribution and likely effects of social science interventions on CMOs and behaviour 
+change outcomes if applied in the context of EIDM.   
+This scoping exercise was not exhaustive and some of the identified concepts and 
+interventions may have been suggested to be of relevance to support EIDM in theoretical 
+papers, primary studies, and/or practice reports, all of which were outside the scope of 
+this project.9 
+                                            
+9 At the end of the discussion of each mechanism below, we provide a list of suggestions based on 
+our project’s findings and point the reader to some examples of primary EIDM literature that raise 
+similar points.
+<<<PAGE=20>>>
+16 
+ 
+Chapter 3.  Summary of findings 
+ 
+This chapter is a summarised version of the findings reported in Chapters 3, 4, 5 and 6 in 
+the Technical Report, available at http://eppi.ioe.ac.uk/cms/Default.aspx?tabid=3504. 
+The content reported in section 3.3 is identical to Chapter 6 in the Technical Report.   
+This chapter reports a summary of the individual results of Review 1 (Section 3.1) and 
+Review 2 (Section 3.2) and their combined findings (Section 3.3).10  
+3.1 Review 1 results (EIDM literature) 
+Review 1 identified a large body of evidence assessing what works to increase decision-
+makers’ use of research evidence. The systematic search yielded 6786 unique citations, 
+which were screened on title and abstract against the inclusion criteria and led to the 
+inclusion of 36 reviews (see Appendix A for more detail). The interventions included in 
+these reviews are heterogeneous and few applied a common definition of EIDM outcomes 
+and indicators to capture changes in EIDM.  
+The identified interventions were underpinned by a range of mechanisms. The most 
+common were M3 (communication and access) and M5 (skills to access and make sense of 
+evidence), followed by M4 (interaction between researchers and decision-makers) and M6 
+(changes to decision-making processes and structures). M3 and M5 were the mechanisms 
+most frequently applied in isolation. The majority of interventions applied multiple 
+mechanisms, in particular, the mechanisms M3, M4, and M5 in combination. Finally, in 
+terms of CMOs, opportunity to use evidence was the most commonly targeted component 
+of behaviour change, followed by capability and then motivation. The majority of the 
+interventions were aimed at the health professions.  
+The 36 included reviews examined primary studies published from the mid-2000s onwards. 
+The relevance and methodological quality of 23 reviews was judged appropriate, and the 
+findings from these reviews were included in the synthesis. The remaining 13 reviews were 
+excluded on the grounds of low relevance and/or low trustworthiness11. 
+The narrative synthesis was structured according to the mechanism(s) to which the 
+reviewed interventions applied, and their effect on CMOs and decision-makers’ use of 
+research evidence.12  As the included reviews pooled the results of different interventions 
+in their synthesis, it has not always been possible to discuss the results of individual 
+interventions. In addition, categories of pooled interventions in the included reviews 
+varied, which further challenged the organisation of our synthesis according to individual 
+interventions. We provide additional detail on individual interventions in the Technical 
+Report in Table 4.1 and Appendix A.   
+The main findings of Review 1 are as follows: 
+Interventions related to M1 (awareness) and M2 (agree): We currently cannot comment 
+on the efficacy of interventions applying M1 (awareness) and M2 (agree) as there is an 
+absence of review evidence.  
+Interventions related to M3 (access to and communication of evidence): In relation to 
+CMOs, there is reliable evidence (i.e. from high weight-of-evidence rated reviews) 
+indicating that interventions applying this mechanism can improve both decision-makers’ 
+                                            
+10 For an in-depth discussion of the review findings, please see the Technical Report. 
+11 For a detailed discussion of the weight of evidence outcomes, please see section 3.3 in the 
+Technical Report.
+<<<PAGE=21>>>
+17 
+ 
+motivation and opportunity to use evidence. There is also reliable evidence that 
+interventions applying M3, when providing both opportunity and motivation to use 
+evidence, increase decision-makers’ use of evidence. This includes, for example, an 
+intervention combining an online database of systematic reviews with personalised and 
+targeted messages to decision-makers. However, communication and access interventions, 
+if they only provide opportunities to use evidence, are ineffective in relation to decision-
+makers’ use of evidence.  
+Interventions related to M4 (interact): In relation to CMOs, unstructured interaction as 
+an approach to share EIDM skills, for example in communities of practice, was found to be 
+ineffective in improving decision-makers’ capability to use evidence. However, the review 
+identified cautious evidence that light-touch approaches such as user-engagement and 
+consultation—rather than full-blown interaction—positively affect CMOs. Similar positive 
+effects from interaction interventions on CMOs were identified in journal club 
+interventions, following which decision-makers reported improved attitudes towards 
+evidence after joint discussions with other decision-makers who were eager to apply 
+evidence.13 In relation to the primary outcome of evidence use, the M4 (interact) 
+mechanism was only applied as part of multi-mechanism interventions and therefore it 
+was not possible to establish an independent causal link between M4 and evidence use. 
+However, in a majority of reviews it was observed that multi-mechanism interventions 
+that included M4 (interact) did not improve decision-makers’ use of evidence.  
+Interventions related to M5 (skills): In relation to CMOs, we identified reliable evidence 
+that these interventions can improve capability and motivation to use evidence. In terms 
+of evidence use outcomes, the application of M5 (skills) as part of multi-mechanism 
+interventions (for example, M3 and M4) were found to be ineffective, as were passive 
+educational approaches (such as simple dissemination of knowledge through interaction or 
+communication mechanisms).14 However, overall, there is reliable evidence that 
+educational interventions, for example critical appraisal programmes, can lead to an 
+increased use of evidence, providing the intervention design simultaneously tries to 
+enhance both decision-makers’ capability and motivation to use research evidence.  
+Interventions related to M6 (structure and process): In relation to CMOs, there is 
+reliable evidence that multi-mechanism interventions that included changes to decision-
+making structures (M6), such as supervision and formal access to evidence, were effective 
+in increasing both opportunity and motivation to use evidence. In relation to the primary 
+outcome of evidence use, there is cautious evidence that interventions combining M5 
+(skills) and M6 to formalise and embed EIDM skills into organisational processes are 
+effective. An example of such a mechanism combination is the linkage of an EIDM 
+capacity-building programmes and senior level supervision of the application of the gained 
+EIDM skills.15 There is also cautious evidence that formalising access to evidence (M6 + 
+M3) through, for example, an integrated evidence-on-demand service, is effective in 
+increasing decision-makers’ use of evidence.16   
+Individual and multi-mechanism interventions: Unfortunately, the evidence on the 
+relative effectiveness of single and multi-mechanism interventions is limited to 
+observational patterns at this stage. Some multi-mechanism interventions, such as 
+combining the use of local opinion leaders (M4) with the dissemination of evidence 
+(including outreach visits) (M3) and educational meetings (M4/M5), were found to be 
+                                            
+13 Journal clubs facilitated by researchers as well as decision-makers.  
+14 For example, communities of practice, provision of guidelines and training manuals.  
+15 M6 (structure & process) refers to the process of embedding the use of these skills through 
+supervision. 
+16 M6 (structure & process) refers to the routine use of these services during decision-making 
+processes.
+<<<PAGE=22>>>
+18 
+ 
+ineffective. But, in contrast, there is evidence that some individual interventions 
+characterised by a highly intense and complex programme design increased decision-
+makers’ use of evidence.17 By and large though, observation suggests that interventions 
+applying clearly defined and focused evidence use mechanism combinations are associated 
+with an increased probability of success. This is based on a descriptive pattern in favour of 
+single-mechanism interventions, in which the role of the mechanism was clearly defined. 
+The reviewed evidence presents effective multi-mechanism interventions as an exception 
+rather than the norm.  
+3.2 Review 2 results (broader social science literature) 
+Review 2 identified over 100 interventions, of which 67 were of high conceptual relevance 
+to the six evidence use mechanisms. We provide a full list of considered interventions in 
+the Technical Report (Appendix F). As noted earlier, the interventions in Review 2 refer to 
+individual programme components (for example, sending reminders as a component of 
+communication interventions); interventions (for example, social marketing as a 
+communication intervention); and/or concepts from which future interventions might be 
+derived (for example, information design as a scientific concept). The social science 
+research also provided insights for possible changes to existing EIDM practices.  
+To illustrate the breaths of research consulted in Review 2, examples of areas of social 
+science accessed include: 
+ Media & Communication studies 
+ Organisational learning and management studies 
+ Psychology 
+ Behavioural Sciences 
+ Adult learning theories  
+ Development Studies 
+ Political Sciences 
+ Sociology  
+ Information design 
+ Environment & climate science 
+Configuring this extensive body of knowledge, for relevant interventions and evidence of 
+their effects, we can single out a number of examples of important areas of literature and 
+contributions from the reviewed social science literature. In Section 3.3 an exhaustive 
+account of these is presented, differentiating the effects of relevant social science 
+interventions (Figures 3.1–3.6) and the insights gained from their application in EIDM 
+(Tables 3.1–3.6).   
+Behavioural norms: The creation of a social or professional norm for decision-makers to 
+use evidence is a relevant intervention approach to reinforce and motivate behaviour 
+change. Effective interventions to build such social or professional norms included social 
+marketing and incentives.  
+Advocacy and awareness-raising: Social science research suggests that advocacy and 
+awareness-raising campaigns can be effective to support behaviour change. These 
+strategies could be applied to communicate and popularise the concept of EIDM to 
+increase awareness for the benefits of using evidence during decision-making as well as 
+the risks of not doing so.    
+Effective communication: This included a large body of literature relevant to how the 
+communication of research evidence could be enhanced. Framing of messages, tailoring 
+                                            
+17 For a detailed description of these interventions, please see Section 4.1 in the Technical Report.
+<<<PAGE=23>>>
+19 
+ 
+communication including audience segmentation, and regular use of reminders are 
+examples of communication techniques reported as effective in the social sciences.  
+Information design: To support the performance of evidence access options, such as 
+online repositories, research use interventions may gain from an incorporation of 
+information design principles as well as branding techniques and personalisation of access 
+(for example, through evidence use apps) to increase the appeal and cognitive association 
+with these platforms.  
+Professional identities & practice: There is a large body of literature on interventions 
+using interaction to build a professional identity with common practices and standards of 
+conduct. Interventions positioned in the social science literature to be of benefit in this 
+regard include, for example, communities of practice, mentoring, and inter-professional 
+education. This body of knowledge could be used to enhance these interventions (which 
+currently target mainly educational objectives, such as increasing EIDM capacity), allowing 
+evidence use to become a standard part of decision-makers’ professional identity and 
+practice.  
+Adult learning theories and principles: The integration of adult learning theories and 
+principles with EIDM capacity-building is likely to enhance the long-term performance of 
+interventions supporting decision-makers’ EIDM skills.  
+Organisational structures: Organisational learning and cultures, management and 
+leadership techniques, and other changes to organisational processes and structures (for 
+example, facilitation), are likely to be of direct benefit to interventions aiming to increase 
+the receptivity of decision-making processes and structure to evidence use. A closer 
+integration of this body of knowledge could enhance the appetite and organisational 
+readiness to use evidence.  
+Individual decision-making: A number of behavioural factors, such as cognitive biases, 
+can influence individual decision-making processes. A body of research in the behavioural 
+sciences holds insights on the design of effective interventions to improve individual’s 
+decision-making. Such behavioural interventions, for example nudges and commitment 
+devices, could be applied to enhance the use of evidence during decision-making.  
+Online and mobile technologies: The application of online and mobile technologies is 
+suggested in the social science literature to increase the reach, convenience, and appeal 
+of interventions. A range of EIDM interventions (e.g. communication, capacity-building, 
+decision aids) could benefit from the integration and regular use of online and mobile 
+technologies. 
+Institutional frameworks and mechanisms: Institutional frameworks and mechanisms can 
+advocate and nurture structural changes at all levels of decision-making. In the context of 
+EIDM, effective examples include accreditation processes, clearinghouses such as the 
+National Institute for Health and Care Excellence (NICE), and government ministries.    
+3.3 Summary of results across Review 1 and Review 2 
+The content reported in this section is identical to Chapter 6 in the Technical Report.   
+Introduction  
+This section presents the findings of both reviews structured according to the six 
+mechanisms of change (M1 – M6) underpinning evidence use interventions. For each 
+mechanism, we present the findings of Review 1 on the EIDM literature and Review 2 on 
+the social science literature in a detailed figure (Figures 3.1 to 3.6), followed by a short 
+narrative summary.  
+In the top part of the figures the main results of both reviews are presented in a flow 
+diagram: the arrow represents the reviewed evidence use mechanism, and the
+<<<PAGE=24>>>
+20 
+ 
+intervention’s effects on CMOs are visualised in circles. A green circle represents evidence 
+of positive effects, an orange circle indicates evidence of negative or no effects, and a 
+blank circle indicates an absence of evidence.18 Review 1 findings are shown in the top 
+line of CMO circles and show the efficacy of the evidence use intervention on decision-
+makers’ CMOs and evidence use (where identified). Review 2 findings are shown in the 
+bottom line of CMO circles and show the effects of social science interventions relevant to 
+the reviewed evidence use intervention.  
+The two boxes below the diagram then provide additional detail on Review 1 findings (i.e. 
+the impact of evidence use interventions); and on Review 2 findings (a list of relevant 
+social science intervention detailing their effects on CMOs and behaviour change where 
+identified). In the boxes, examples of effective interventions are expressed with a [] 
+symbol; ineffective interventions with a []; and interventions with an absence of 
+evidence a [] symbol.   
+Below each figure, a more detailed narrative of the findings of both reviews is presented.  
+We commence the discussions summarising the results from Review 1. Thereafter, we 
+elaborate Review 2 results divided into the likely effects of social science interventions 
+and their relevance and insights if applied in the context of EIDM. This discussion on 
+relevance and insights is presented in tabular format. It is followed by a brief narrative 
+summarising the reported effectiveness of the identified social science interventions and 
+how these effects relate to CMOs and evidence use outcomes. There is then an analysis of 
+each evidence use intervention with a brief reminder and interpretation of the 
+implications of combining the findings of both reviews to draw conclusions on the 
+application and impact of the intervention. Finally, there is a bullet point summary of the 
+key suggestions for each intervention. 
+M1 interventions (building awareness for, and positive attitudes towards, EIDM) 
+Figure 3.1 below presents an overview of Review 1 and Review 2 findings on the effects of 
+interventions that could support decision-makers’ use of evidence by building awareness 
+for, and positive attitudes towards, the concept of EIDM (M1 interventions).  
+Review 1 findings                               
+There is a lack of evidence on the impact of interventions applying M1 (awareness) to 
+support decision-makers’ use of evidence. Only three included systematic reviews 
+reported on interventions that applied M1 (awareness). In each of these, M1 (awareness) 
+was combined with other evidence use mechanisms and the outcomes of the interventions 
+could not be attributed to M1 (awareness). We therefore identified an evidence gap and 
+are unable to comment on the role and contribution of M1 (awareness) interventions to 
+increase decision-makers’ use of evidence.  
+Regarding the design of M1 (awareness) interventions components, these focused, by and 
+large, on building motivation to use evidence (for example, by engaging decision-makers 
+in the research process to showcase the importance of evidence) or highlighting the 
+receptivity of decision-makers’ policy and practice challenges to evidence. 
+ 
+ 
+ 
+ 
+                                            
+18 Absence of evidence (or ‘no evidence of effect’) refers to an incomplete evidence base, or 
+research gap. It is not to be confused with ‘evidence of no effect’.
+<<<PAGE=25>>>
+21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Review 1 
+SYSTEMATIC REVIEW OF REVIEWS OF EIDM 
+LITERATURE (Review 1) 
+SCOPING REVIEW OF BROADER SOCIAL 
+LITERATURE (Review 2) 
+Evidence of effects:  
+ social marketing;  
+ awareness-building campaigns;        
+ build norms & motivation to foster 
+behaviour change 
+  
+ social incentives; 
+ identity cues;                                         
+ build motivation & reinforce 
+behavioural norms 
+   
+ user engagement;                                 
+ build motivation & opportunity. 
+ 
+Absence of evidence of effects: 
+ counter-marketing; 
+ social group techniques; 
+ PC-generated models & simulation 
+exercises. 
+ 
+ 
+ 
+ 
+ 
+C 
+ M 
+ O 
+CMOs:  
+Absence of evidence that M1 interventions 
+have an independent impact. 
+ 
+Evidence use:  
+Absence of evidence that M1 interventions 
+have an independent impact. 
+ 
+Background:   
+M1 was only applied as part of multi-
+mechanism interventions (n=4) and it was 
+not possible to attribute outcomes to the 
+mechanism.  
+ 
+Examples of M1 interventions include:  
+- Decision-maker participation in the 
+design of a research study to 
+understand value of research; 
+- Decision-makers asked to identify a 
+policy issue that they would like 
+research advice on.  
+  
+ 
+   
+ 
+ 
+C 
+ M 
+ O 
+Figure 3.1: M1 (Awareness) Overview 
+Review 2 
+EVIDENCE USE 
+Awareness for, and positive 
+attitudes towards, EIDM (M1)
+<<<PAGE=26>>>
+22 
+ 
+Review 2 findings                                            
+The scoping review of the social science literature explored interventions that might 
+present relevant insights to contribute to the application of M1 (awareness) interventions. 
+Four categories of intervention were identified: (i) the creation of social or professional 
+norms; (ii) the provision of a counterfactual to the use of evidence; (iii) re-focusing and 
+designing engagement interventions; and (iv) advocacy for EIDM.   
+Table 3.1 presents a list of social science interventions identified as of relevance to M1 
+(awareness) interventions, briefly explaining what insights might be gained from their 
+application in an EIDM context.  
+Table 3.1: M1 (awareness) social science insights overview   
+Intervention Potential use in EIDM:   
+ 
+CREATING SOCIAL & PROFESSIONAL EVIDENCE USE NORMS 
+Social marketing marketing a social or professional evidence use norm. 
+Social incentives building an intrinsic motivation to use evidence.  
+Identity cues & priming triggering and reinforcing nascent evidence use norms.  
+PROVIDING A COUNTERFACTUAL TO EVIDENCE USE 
+Counter-marketing showing possible negative effects of not accessing evidence.  
+Social group 
+techniques  
+challenging the status quo and incite debate on evidence use.  
+PC models & other 
+simulations  
+modeling the effects of EIDM vs. non-EIDM policy decisions.  
+ 
+ENGAGEMENT  
+User/community 
+engagement 
+enhancing existing EIDM engagement practices, drawing from 
+effective engagement techniques and positioning engagement 
+to build demand.   
+ADVOCACY FOR EVIDENCE USE 
+Awareness-building 
+campaigns 
+increasing the visibility and credibility of EIDM.  
+ 
+We then reviewed the reported effectiveness of these interventions in the social sciences 
+to assess their likely effects on CMOs and behaviour change outcomes in relation to M1 
+(awareness).  
+Evidence of effects in social sciences:  
+Social science interventions effective to influence behaviour change include social 
+marketing and awareness-building campaigns. Each of these was identified as being able 
+to nurture social and professional norms of decision-makers. In the context of EIDM, these 
+interventions could be applied to foster the creation of evidence use norms. Social 
+marketing and awareness-building could influence decision-makers to comply with the 
+social or professional norm of using evidence, thereby supporting motivation to use 
+evidence and behaviour change.
+<<<PAGE=27>>>
+23 
+ 
+Social incentives and identity cues were also identified in the social sciences as 
+interventions effective to reinforce behavioural norms. Having created a social or 
+professional evidence use norm, social incentives and identity cues could support 
+compliance with this norm and motivation to engage in the targeted behaviour, i.e. 
+motivation to use evidence. User-engagement, as a tool reported in the social sciences as 
+effective to support familiarity and identification with an intervention, might be able to 
+positively influence both motivation and opportunity to use evidence. From a demand-side 
+perspective, users receive an opportunity to be engaged in the production of evidence, 
+assuming that this experience might increase their attitudes towards, and future appetite 
+for, evidence.  
+Conceptually relevant social science interventions that still lack a reliable evidence-base 
+include interventions aiming to present a counter-factual to evidence use, such as 
+counter-marketing, social group techniques, and PC-generated models and simulation 
+exercises. Conceptually, these might be able to support opportunity as well as motivation 
+to use evidence.  
+Summary:            
+Combining the results and additional insights from Review 1 and Review 2, we arrive at 
+the following conclusions:  
+(1) In Review 1, there was an absence of evidence on the independent effects of M1 
+(awareness) interventions on CMOs and decision-makers’ use of evidence. Nurturing 
+a conceptual uptake of EIDM (i.e. building support for evidence use as a principle 
+of decision-making) is distinct from building awareness for research findings per se, 
+and the design of interventions should reflect this.  
+(2) Interventions supporting the creation of behavioural norms are highly relevant to 
+support the design of M1 (awareness) interventions in the context of EIDM. A social 
+or professional evidence use norm would directly support behaviour change and 
+anchor evidence use as a principle of decision-making.  
+(3) To anchor evidence use as a routine behaviour, an active promotion of the desired 
+behaviour, based on established marketing and communication techniques, might 
+be effective. This could include the use of social marketing and awareness-building 
+campaigns to promote and frame the behaviour of using evidence. 
+(4) To build awareness of the importance of EIDM, interventions could communicate 
+more explicitly the risks and consequences of not using evidence, i.e. present a 
+counter-factual to the use of evidence.  
+(5) User-engagement presents an effective tool to increase decision-makers’ 
+ownership of and identification with EIDM. Social science research suggests a 
+number of principles to ensure that engagement is more acceptable and relevant 
+from a decision-makers’ point of view.  
+ 
+Taking all of the above work together, our suggestions would be: 
+ To market and actively promote the concept of EIDM (as for example implemented 
+by the Alliance for Useful Evidence).19 
+ To frame evidence use as a desirable social and professional norm (as for example 
+discussed for EIDM by Champagne et al. 2014).                                                   
+ To highlight the risks and potential consequences of not using evidence (i.e. 
+present a counterfactual to evidence use).  
+                                            
+19 http://www.alliance4usefulevidence.org
+<<<PAGE=28>>>
+24 
+ 
+ To target and tailor the engagement of decision-makers more carefully - while 
+considering, in particular, decision-makers’ opportunity costs and benefits from 
+the engagement. 
+M2 interventions (building agreement on policy-relevant questions and fit-for-purpose 
+evidence) 
+Figure 3.2 below is an overview of Review 1 and Review 2 findings on the effects of 
+interventions that could support decision-makers’ use of evidence by building mutual 
+understanding and agreement on policy-relevant questions and what constitutes fit-for-
+purpose evidence required to answer them (M2). 
+ 
+Review 1 findings  
+There is a lack of evidence on the impact of interventions applying M2 (agree) to support 
+decision-makers’ use of evidence. Only two systematic reviews included in the synthesis 
+featured interventions that employed M2 (agree). In each of these, M2 (agree) was 
+combined with other evidence use mechanisms and therefore the outcomes of the 
+interventions could not be attributed to M2 (agree).20 We were therefore unable to 
+comment on the role and contribution of M2 (agree) interventions to increase decision-
+makers’ use of evidence. 
+Regarding the design of M2 (agree) intervention components, both focused on 
+strengthening motivation to use evidence through measures to increase the relevance of 
+evidence to decision-makers’ professional needs.  
+ 
+Review 2 findings  
+The scoping review of the social science literature explored interventions that might 
+present relevant insights to contribute to the application of M2 (agree) interventions. We 
+identified three broad categories of interventions applied in the broader social sciences 
+that present relevant insights to contribute to efforts aiming to build consensus on what 
+constitutes fit-for-purpose evidence and policy-relevant questions: consensus-building 
+techniques; collaborative learning; and user engagement.  
+Table 3.2 below presents a list of social science interventions identified as of relevance to 
+M2 (agree) interventions, briefly explaining what insights might be gained from their 
+application in an EIDM context.  
+ 
+ 
+                                            
+20 For example, collaboration between decision-makers and researchers also falls under M4 
+(interact).
+<<<PAGE=29>>>
+25 
+ 
+SYSTEMATIC REVIEW OF REVIEWS OF 
+EIDM LITERATURE (Review 1) 
+SCOPING REVIEW OF BROADER SOCIAL 
+LITERATURE (Review 2) 
+Evidence of effects:  
+ Delphi panels;  
+ journal clubs; 
+ user engagement;  
+ build consensus on fit-for-purpose, 
+in this process increase motivation 
+and/or opportunity to use evidence. 
+ 
+Absence of evidence of effects: 
+ feedback mechanisms;  
+ discursive leadership & 
+collaborative planning; 
+ communities of practice;  
+ inter-professional education. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agreement on policy-relevant 
+questions and fit-for-purpose 
+evidence (M2) 
+ 
+EVIDENCE USE 
+C 
+ M 
+ O 
+CMOs:  
+Absence of evidence that M2 interventions 
+have an independent impact. 
+ 
+Evidence use:  
+Absence of evidence that M2 interventions 
+have an independent impact. 
+ 
+Background:   
+M2 was only applied as part of multi-
+mechanism interventions (n=2) and it was 
+not possible to attribute outcomes to the 
+mechanism. 
+  
+Examples of M2 interventions                 
+include:  
+- Collaboration between researchers 
+and decision-makers to agree on the 
+applicability and utility of evidence;  
+- Decision-makers were asked to 
+evaluate the relevance of the 
+current evidence to their 
+professional needs, organisational 
+values, standards and policies.  
+ 
+C 
+ M 
+ O 
+Review 1 
+ 
+Review 2 
+ 
+Figure 3.2: M2 (agree) Overview
+<<<PAGE=30>>>
+26 
+ 
+Table 3.2 M2 (agree) social sciences insights overview 
+Intervention Potential use in EIDM: 
+ 
+CONSENSUS-BUILDING TECHNIQUES 
+Delphi-panels, nominal 
+group techniques, etc.  
+providing a structured and transparent way to reach consensus 
+on fit-for-purpose evidence and relevant questions.  
+Discursive leadership & 
+collaborative planning 
+encouraging participation and inclusion of multiple voices on 
+fit-for-purpose evidence and relevant questions. 
+Feedback mechanisms providing a channel to express and challenge (existing) notions 
+of fit-for-purpose evidence and relevant questions.  
+COLLABORATIVE LEARNING 
+Inter-professional 
+education 
+jointly learning about fit-for-purpose from different 
+professional angles and epistemologies.  
+Communities of 
+practice (CoP) 
+enhancing existing CoPs, to explicitly target the creation of a 
+professional norms and standards of fit-for-purpose evidence. 
+Journal clubs enhancing existing journal clubs, to debate the applicability of 
+evidence and reach consensus on professional standards for fit-
+for-purpose evidence.  
+ENGAGEMENT  
+User/community 
+engagement 
+enhancing existing EIDM engagement practices, drawing from 
+effective engagement techniques to providing a formal 
+channel to incorporate decision-makers’ perception of fit-for 
+purpose and policy relevance in the production of evidence.  
+ 
+We then reviewed the reported effectiveness of these interventions in the social sciences 
+to assess their likely effects on CMOs and behaviour change outcomes in relation to M2 
+(agree).  
+Evidence of effects in the social sciences:  
+Scoping the wider social science literature, we identified three interventions that were 
+found effective to support consensus-building, and thus appear applicable to serve a 
+similar function with regard to defining fit-for-purpose evidence and relevant questions: 
+Delphi-panels, journal clubs, and user engagement.21 Delphi-panels, journal clubs, and 
+user engagement each provide a platform in which the relevance of different types of 
+evidence could be discussed (i.e. opportunity to use evidence). These three interventions 
+further appeared effective in facilitating a process that allowed for mutually satisfactory 
+definitions of fit-for-purpose and relevance to be agreed upon, increasing decision-
+makers’ motivation to use evidence. 
+However, a majority of conceptually relevant interventions to support M2 (agree) lacked a 
+reliable evidence-base. These referred to feedback mechanisms; discursive leadership & 
+collaborative planning; communities of practice; and inter-professional education. These 
+interventions are suggested in the social sciences as of potential to support consensus-
+building, but the scoping review either failed to identify existing reviews of effects or the 
+identified reviews reported mixed effects.  
+ 
+                                            
+21 For a detailed discussion on the distinction and relation between user engagement in Review 1 
+and Review 2, please see the Technical Report.
+<<<PAGE=31>>>
+27 
+ 
+Summary:  
+Combining the results and further insights from Review 1 and Review 2, we arrive at the 
+following conclusions:  
+(1) In Review 1, there was an absence of evidence on the independent effects of M2 
+(agree) interventions on CMOs and decision-makers’ use of evidence. While a lack 
+of relevant research evidence is often cited as a barrier to evidence use, there are 
+few suggested demand-side interventions to formalise decision-makers’ input to 
+what constitutes fit-for-purpose evidence and relevant questions. 
+(2) The application of explicit consensus-building techniques could facilitate a 
+discussion on fit-for-purpose evidence and policy-relevant questions. This requires 
+acknowledgement that multiple perspectives on fit-for-purpose and relevance exist 
+and that both concept can be defined by discussion and consensus. 
+(3) Consensus-building on fit-for-purpose and policy-relevance could be embedded in 
+wider efforts to build a professional identity of evidence use as a principle of 
+decision-making, including set standards of practice and conduct. A number of 
+interactive educational interventions might be relevant in this remit: inter-
+professional education, communities of practice, and journal clubs.   
+ 
+Taking all of the above work together, our suggestions would be: 
+ To make the process of building consensus on fit-for-purpose evidence and policy-
+relevant questions explicit and more formalised.                                                                                                                                                        
+ To apply formal consensus-building techniques to structure and guide a mutual and 
+satisfactory process of defining fitness-for-purpose and relevance (as for example 
+studied by Dobbins et al. 2008).  
+ To build a professional identity of evidence use as a principle of decision-making, 
+including standards related to building consensus on fit-for-purpose evidence and 
+setting policy-relevant questions. 
+ 
+M3 interventions (providing communication of, and access to, evidence)  
+Figure 3.3 below presents an overview of Review 1 and Review 2 findings on the effects of 
+interventions that could support decision-makers’ use of evidence through effective 
+communication of and access to evidence (M3). 
+ 
+Review 1 findings  
+Interventions facilitating access to research evidence, for example through communication 
+strategies and evidence repositories, were only found to be effective at increasing use of 
+evidence if the intervention design simultaneously tried to enhance decision-makers’ 
+opportunity and motivation to use evidence. An example of such a programme is the 
+provision of an online repository of evidence plus weekly tailored messages alerting 
+decision-makers to new content relevant to their area of expertise. Interventions that only 
+provided opportunities to use evidence, for example online repositories without 
+motivation-building features or simple dissemination of evidence without follow-up or 
+adequate targeting, were found to be ineffective. Motivation-building techniques that 
+were effective at improving attitudes towards evidence and intentions to use evidence 
+included personalised and targeted communication techniques, audience segmentation, 
+and user-friendly design techniques. Opportunity to use evidence was increased through 
+user engagement, hassle-free and multiple means of access and online platforms. The 
+included interventions did not target capability to use evidence and we therefore cannot 
+comment on the effects of M3 (communication & access) interventions in this regard.
+<<<PAGE=32>>>
+28 
+ 
+ 
+SYSTEMATIC REVIEW OF REVIEWS OF 
+EIDM LITERATURE (Review 1) 
+SCOPING REVIEW OF BROADER SOCIAL 
+LITERATURE (Review 2) 
+Evidence of effects:  
+ social marketing;  
+ awareness-building campaigns; 
+ multi-component communication 
+strategies;                                               
+ build opportunity & motivation to 
+foster behaviour change; build 
+capability in multi-component 
+strategies 
+     
+ tailoring; framing; 
+ explaining uncertainty; 
+ narratives; identity cues;                                         
+ retain information (secondary  C&O) 
+and motivation to use them 
+ 
+ online and social media; 
+ branding; 
+ reminders; timing; 
+ information design;                                
+ build motivation &/or opportunity. 
+ 
+Relevant, but no evidence of effects: 
+ science communication; 
+ design of online repositories; 
+ evidence use apps. 
+ 
+ 
+ 
+Communication of and access to 
+evidence (M3) 
+EVIDENCE USE 
+C 
+ M 
+ O 
+CMOs: 
+Positive impact on motivation to use 
+evidence, for example through: 
+ audience segmentation; personalised 
+& targeted messages; and user-
+friendly, hassle-free design. 
+Positive impact on opportunity to use 
+evidence, for example through: 
+ user-engagement; multiple means of 
+access; and online databases to 
+improve opportunity. 
+ 
+Evidence use:  
+Positive impact on evidence use, but only if 
+M3 intervention combines motivation with 
+opportunity, for example: 
+ online repository + targeted 
+messages.  
+ 
+No impact on evidence use if M3 
+intervention only provides opportunity, for 
+example: 
+ passive dissemination; access to 
+database without follow-up. 
+ 
+C 
+ M 
+ O 
+ 
+Review 1 
+Review 2 
+ 
+Figure 3.3: M3 (communication & access) Overview
+<<<PAGE=33>>>
+29 
+ 
+Review 2 findings 
+The scoping review of the social science literature explored interventions that might 
+present relevant insights to contribute to the application of M3 (communication & access) 
+interventions. We identified a number of communication and dissemination techniques, 
+communication strategies, and access options that might be of relevance to support 
+decision-makers’ reception of evidence and motivation to apply it. We assessed these for 
+their likely effects on CMOs and behaviour change outcomes as well as the nature of the 
+insights and contribution to the application of M3 (communication & access) interventions. 
+Table 3.3 below presents a list of social science interventions identified as of relevance to 
+M3 (communication & access) interventions, briefly explaining what insights might be 
+gained from their application in an EIDM context.  
+ 
+Table 3.3 M3 (communication & access) social sciences insights overview 
+Intervention Potential use in EIDM: 
+ 
+COMMUNICATION TECHNIQUES 
+Tailoring & targeting regularly applying tailoring & targeting to align communication 
+of evidence to decision-makers’ professional needs & personal 
+preference.  
+Framing (gain/loss) aligning the communication of the research results with the 
+cognitive characteristics of the decision or the desired 
+behaviour. 
+Framing (norms / 
+identities)  
+aligning the communication of evidence or the concept of 
+EIDM with the decision-makers’ existing norms and identity. 
+Explaining uncertainty regularly applying techniques to explain uncertainty to 
+decrease ambivalence in research results.  
+Narratives enhancing existing evidence communication practices to 
+increase the relevance and accessibility of research results. 
+DISSEMINATION TECHNIQUES 
+Audience segmentation fitting EIDM promotion / research message to decision-maker 
+audience. 
+Online and social 
+media 
+regularly applying online & social media tools to increase the 
+reach and convenience of evidence and EIDM communication.  
+Branding increasing the credibility, visibility, and emotional connection 
+of the concept of EIDM.  
+Reminders regularly applying reminders to reinforce communicated 
+research results, triggered frames, and targeted behaviour of 
+accessing evidence.  
+Timing enhancing existing timing techniques to increase the timing of 
+evidence communication to decision-makers’ receptive hours 
+and life moments.  
+Information design increasing the accessibility as well as visual appeal of 
+evidence.  
+STRATEGIC COMMUNICATION 
+Social marketing marketing a social or professional evidence use norm. 
+Awareness campaigns increasing the visibility and credibility of EIDM.
+<<<PAGE=34>>>
+30 
+ 
+Intervention Potential use in EIDM: 
+Multicomponent 
+communication 
+strategies  
+enhancing existing research communication to combine the 
+communication of evidence with practical opportunities or 
+skills to use evidence.  
+Science communication enhancing existing science communication to closer target a 
+decision-making audience and a conceptual uptake of EIDM.  
+ 
+ACCESS OPTIONS 
+Online repositories enhancing existing repositories applying IT-design principles to  
+emphasise usability and visual appeal in addition to 
+functionality.  
+Apps creating more convenient and personalised access options and 
+tools. 
+ 
+We then reviewed the reported effectiveness of these interventions in the social sciences 
+to assess their likely effects on CMOs and behaviour change outcomes in relation to M3 
+(communication & access).  
+Evidence of effects in the social sciences:  
+Communication techniques found to be effective in the social science literature, and thus 
+likely to be effective to increase motivation to use evidence, include: tailoring, framing, 
+explaining uncertainty, and narratives. Applying these techniques could enhance the way 
+research findings are communicated and might improve decision-makers’ reception of and 
+attitude towards the communicated evidence and its findings (motivation). As a secondary 
+outcome, they also might enhance the likelihood that a communicated message will be 
+remembered, thereby potentially increasing opportunities and capabilities to use evidence 
+as decision-makers might better recall the key findings of research studies (opportunity) 
+and display a better understanding of them (capabilities).   
+Effective dissemination techniques included in the scoping review were online and social 
+media, branding, reminders, timing, and information design. Branding and information 
+design could be of benefit to affect decision-makers’ motivation to use evidence. To 
+enhance decision-makers’ opportunity to use evidence, by increasing the reach of 
+evidence and the personal convenience of receiving it, online and social media, 
+reminders, and timing appeared as promising interventions. In addition, we identified 
+three communication strategies that were identified as effective in the social science 
+literature and could combine these techniques into a formal and planned effort to 
+encourage behaviour change (in our case evidence use), namely social marketing, 
+awareness-building campaigns, and multi-component communication strategies. Social 
+marketing and awareness-building campaigns hold potential to communicate social and 
+professional evidence use norms, while multi-component communication strategies 
+encompass all three components of behaviour change.   
+Lastly, the conceptually relevant interventions for which we identified insufficient 
+evidence of effects referred to: science communication; design of online repositories; and 
+evidence use apps.  
+Summary: 
+Combining the results and additional insights from Review 1 and Review 2, we arrive at 
+the following conclusions and suggest a number of principles and effective techniques that 
+could be of particular benefit to interventions providing communication of and access to 
+evidence (M3):
+<<<PAGE=35>>>
+31 
+ 
+1) In Review 1, we established that communication and access interventions only 
+increase decision-makers’ use of evidence if they combine motivation- and 
+opportunity-building components. Social science knowledge suggests a large 
+number of interventions that might support these components, increasing the 
+likelihood that M3 (communication & access) interventions might nurture behaviour 
+change. 
+2) Communicated evidence should be understandable and user-friendly, but it also 
+should be appealing in design and convenient in access. This requires a better 
+understanding of visual design techniques and decision-makers’ preferences and 
+habits of accessing information. 
+3) Tailoring and targeting, reminders, timing, online and social media, and explaining 
+uncertainty are crucial techniques and could become a regular practice.  
+4) More attention could be paid to how a research finding is framed. The wording and 
+contextualisation of findings has a large effect on whether the finding will be used.  
+5) To increase reach and convenience of access to evidence, the use of online and 
+social media platforms remains the most promising approach. 
+6) Interventions could start to focus on the communication of the concept of evidence 
+use. Promising coherent strategies to communicate the norm and concept of EIDM 
+include social marketing, awareness-raising campaigns, and multi-component 
+communication strategies combining reach-, motivation-, and ability-building 
+components. 
+ 
+Taking all of the above work together, our suggestions would be: 
+ To enhance the use of interventions communicating and providing access to 
+evidence if they simultaneously build opportunity and motivation to use evidence 
+(based on Review 1).  
+o To question the use of passive dissemination and access options (as for 
+example discussed for EIDM by Wilson et al. 2010).  
+ To build motivation to use evidence, a large variety of communication techniques 
+could be used more regularly to communicate research evidence (for example, 
+framing; tailoring; reminders) (as for example discussed for EIDM by McCormack et 
+al. 2013).  
+ To apply a formal and multi-component communication strategy to communicate 
+research. 
+ To use online and social media regularly to communicate research. 
+ To incorporate IT and visual design principles when creating platforms to access 
+evidence (as for example implemented by Makkar et al. 2015; InfoDesignLab at 
+Norwegian Knowledge Centre for Health Services).22   
+ To formalise access to evidence by embedding it in organisational structures (as for 
+example studied for EIDM by Wilson et al. 2015; Notarianni et al. 2015).    
+ To market and actively promote the concept of EIDM (as for example implemented 
+by the Alliance for Useful Evidence). 
+ 
+  
+                                            
+22 http://www.infodesignlab.com/?page_id=136
+<<<PAGE=36>>>
+32 
+ 
+M4 interventions (facilitating interactions between decision-makers and researchers) 
+Figure 3.4 below presents an overview of Review 1 and Review 2 findings on the effects of 
+interventions that could support decision-makers’ use of evidence by facilitating 
+interactions between decision-makers and researchers (M4). 
+Review 1 findings 
+None of the reviewed interventions focused exclusively on facilitating interactions 
+between decision-makers and researchers. As the M4 (interact) mechanism was only 
+applied as part of multi-mechanism interventions, it was not possible to establish an 
+independent causal link between M4 (interact) and evidence use outcomes. However, it 
+was observed that a large majority of the multi-mechanism interventions that included an 
+unstructured interaction component did not increase evidence use. 
+In terms of CMOs, unstructured interaction as an approach to share EIDM skills, for 
+example in communities of practice, was found ineffective to improve decision-makers’ 
+capability to use evidence. However, the review identified cautious evidence that light-
+touch approaches such as user-engagement and consultation—rather than full-blown 
+interaction—positively affects CMOs. Similar positive effects from interaction interventions 
+on CMOs were identified in journal club interventions, following which decision-makers 
+reported improved attitudes towards evidence after joint discussions with other decision-
+makers who were eager to apply evidence.23 There was insufficient evidence to comment 
+on the impact of M4 (interact) interventions on opportunity to use evidence.  
+Review 1 concluded that a lack of conceptual clarity (i.e. what constitutes interaction, 
+relationships, trust) and casual clarity (i.e. purpose of the interaction, theory of change 
+how interaction supports evidence use) may impeded the overall effectiveness of M4 
+(interact) interventions. Finally, the issue of what constitutes an ‘effective’ relationship 
+and how trust is build was often not explicitly addressed by the reviewed interventions.   
+Review 2 findings:    
+The scoping review of the social science literature explored interventions that might 
+present relevant insights to contribute to the application of M4 (interact) interventions. 
+We identified four relevant interaction components, which could be applied in two broad 
+groups of interventions (interaction to build professional norms & standards; creation of 
+networks). We assessed these for their likely effects on CMOs and behaviour change 
+outcomes as well as the nature of the insights and contribution to the application of M4 
+(interact) interventions.  
+Table 3.4 below presents a list of social science interventions identified as of relevance to 
+M4 (interact) interventions, briefly explaining what insights might be gained from their 
+application in an EIDM context.  
+ 
+                                            
+23 Journal clubs facilitated by researchers as well as decision-makers.
+<<<PAGE=37>>>
+33 
+ 
+Figure 3.4: M4 (Interaction) Overview   
+SYSTEMATIC REVIEW OF REVIEWS OF 
+EIDM LITERATURE (Review 1) 
+SCOPING REVIEW OF BROADER SOCIAL 
+LITERATURE (Review 2) 
+Evidence of effects:  
+ social influence; online 
+interaction;                                 
+ effective components of interaction 
+to increase motivation and influence 
+behaviour change                    
+ online interaction further effective 
+to enhance the reach & convenience of 
+interaction (opportunity) 
+ 
+ mentoring; 
+ joint practice development;                
+ build professional norms and 
+standards (opportunity & motivation) 
+ 
+ online networks;                                  
+ enhance networking effects 
+(opportunity & motivation). 
+ 
+ Absence of evidence of effects: 
+ communities of practice; inter-
+professional education; formal 
+networks; network analysis 
+ [interaction components]: 
+collaboration; building 
+relationships & trust.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Interactions between decision-
+makers and researchers (M4) 
+ 
+EVIDENCE USE 
+C 
+ M 
+ O 
+CMOs: 
+Positive impact on motivation to use 
+evidence, for example through:  
+ journal clubs  
+ user engagement. 
+ 
+No impact on capability when unstructured 
+to share EIDM skills and knowledge in 
+combination with M5, for example:     
+ communities of practice; opinion 
+leaders. 
+ 
+Evidence use:  
+M4 was only applied in multi-mechanism 
+interventions denying casual attribution 
+with evidence use outcomes. Observation 
+does not suggest a link between M4 and 
+evidence use. 
+ 
+Background:  
+M4 interventions suffered from conceptual 
+and casual clarity impeding overall 
+effectiveness. Interventions claiming to 
+build relationships and trust without a 
+clear theory of change and definition 
+included:            
+ joint educational meetings; 
+communities of practice; knowledge 
+brokers; opinion leaders.   
+   
+C 
+ M 
+ O 
+Review 1 
+ 
+Review 2
+<<<PAGE=38>>>
+34 
+ 
+Table 3.4 M4 (decision maker-researcher interaction) social science insights overview  
+Intervention Potential use in EIDM: 
+ 
+COMPONENTS IN INTERACTION INTERVENTIONS 
+Social influence enhancing the targeted use of social influence to foster 
+evidence use norms by providing information on other 
+decision-makers’ behaviour  
+Collaboration interrogating and formalising the benefits for and demands on 
+decision-makers engaged in collaborative exercises with 
+researchers.     
+Relationships & trust interrogating and formalising the theory of change and 
+objective of interaction.   
+Online interaction regularly applying online and mobile technologies to increase 
+the reach, convenience and cost-effectiveness of interaction.  
+ 
+INTERACTION TO BUILD PROFESSIONAL NORMS & STANDARDS 
+Communities of 
+practice 
+enhancing existing CoPs to focus less on educational objectives 
+in favour of negotiating and standardising practices and 
+standards of conduct of the EIDM community of practice.  
+Joint practice 
+development 
+enhancing existing interactions to provide a formal mechanism 
+to develop a practice of using evidence. 
+Mentoring enhancing existing mentorships to focus less on educational 
+objectives in favour of changing professional norms and 
+standards of conducts.  
+Inter-professional 
+education 
+formally embedding the joint study of EIDM from different 
+professional angles and epistemologies aiming to create 
+common professional norms and standards.    
+CREATION OF NETWORKS 
+Formal networks 
+  
+interrogating the role and design of formal bodies organizing 
+decision-makers and/or researchers interested in EIDM.  
+Online networks enhancing existing networks to organize a group of decision-
+makers and/or researchers interested in EIDM into a more 
+informal body using online technologies.  
+Network analysis mapping the networks of decision-makers’ to target 
+interaction interventions and the introduction of evidence use 
+into an existing network of professional relations. 
+ 
+We then reviewed the reported effectiveness of these interventions in the social sciences 
+to assess their likely effects on CMOs and behaviour change outcomes in relation to M4 
+(interact).  
+Evidence of effects in the social sciences:  
+The scoping review of the social sciences identified social influence and online interaction 
+as the most effective interaction components. The effects of collaboration and 
+relationship building, in contrast, are currently unclear. Throughout all four components, 
+the literature suggests that unstructured interaction interventions might be less well-
+suited to disseminate knowledge or behaviours and that the formulation of explicit 
+rationales for, and objectives of, the interaction can benefit programme design.
+<<<PAGE=39>>>
+35 
+ 
+Screening interaction interventions that incorporated these effective components, we 
+identified evidence of positive impacts for mentoring, joint practice development, and 
+online networks. The first two of these were found able to use interaction among decision-
+makers as a tool to build professional norms and standards. In the context of EIDM, this 
+process might leave room to embed norms and standards related to evidence use, thereby 
+increasing motivation and opportunity to use evidence. Further, these interventions were 
+relevant to foster interactions between different groups of decision-makers rather than 
+between decision-makers and researchers per se. Online networks were effective to 
+enhance the reach and convenience of networking activities, thereby potentially 
+increasing motivation and opportunity to use evidence.  
+Lastly, inter-professional education, communities of practice, the creation of formal 
+networks, and the application of network analysis to map decision-making structures were 
+of conceptual relevance but currently lack a reliable evidence-base.  
+Summary:   
+Combining the results and additional insights from Review 1 and Review 2, we arrive at 
+the following conclusions and suggest a number of implications for the design and 
+implementation of M4 (interact) interventions:  
+(1) In Review 1, the majority of the reviewed interventions that focus on unstructured 
+interactions between decision-makers and researchers appear ineffective at 
+improving decision-makers’ evidence use, a finding that may be explained by a lack 
+of conceptual clarity (i.e. what constitutes interaction, relationships, trust) and 
+casual clarity (i.e. purpose of the interaction, theory of change how interaction 
+supports evidence use). Evidence from both the research use and social science 
+literature suggests a careful intervention design specifying the nature and purpose 
+of the interaction components to be of benefit to enhance programme impact. This 
+positions interaction models that clearly define decision-makers’ role and 
+contribution and consider tangible benefits and decision-makers’ opportunity costs 
+of interaction to be most relevant (for example, user engagement). 
+(2) The assumption that unstructured interaction can foster dissemination of EIDM 
+skills and knowledge is not supported in the literature. Interaction interventions 
+might benefit from a more targeted approach focused on the active processes that 
+interventions can control and facilitate. This refers to fostering social influence, 
+engagement, sharing of norms and practices. Narrowing the scope of interactions’ 
+targeted CMOs might increase their final impact on behaviour change.  
+(3) The idea to building a professional identity of evidence use as an overarching 
+objective of interaction fits with their ability to build professional norms and 
+standards. This could present a raison d’être and align the objectives of the various 
+interaction interventions applying different pathways to support decision-makers’ 
+use of evidence. This conceptualisation would also entail a greater emphasis on 
+facilitating interactions between decision-makers, in addition to interaction 
+between researchers and decision-makers.  
+(4) Interaction interventions could fully embrace the opportunities of scale and 
+convenience offered by online and mobile technologies.  
+(5) An explicit understanding of decision-makers’ network structures could allow for a 
+more effective targeting of interaction interventions. Statistical and social network 
+analysis could present a highly relevant tool in this regard.   
+ 
+Taking all of the above work together, our suggestions would be: 
+ To increase the conceptual and causal clarity of interaction interventions’ 
+objectives and applied tools (i.e. interrogate and define a more explicit theory of 
+change).
+<<<PAGE=40>>>
+36 
+ 
+ To clearly define decision-makers’ role and contribution in interactions and to 
+consider tangible benefits and decision-makers’ opportunity costs of interaction. 
+o To be cautious when applying demanding interaction models such as 
+collaboration.  
+ To use interaction to build a professional identity of evidence use with set 
+standards of practice and conduct (as for example discussed for EIDM by Cronin et 
+al. 2015; Uneke et al. 2011). 
+o To focus less on applying unstructured interaction to share EIDM skills or to 
+disseminate evidence. 
+ To focus more on interactions between decision-makers to build EIDM as a 
+professional norm. 
+ To use online and mobile technologies as a regular means of interaction.  
+ To use network analysis tools to map decision-making structures and relationships 
+(as for example studied for EIDM by Shearer et al. 2014; Yousefi-Nooraie et al. 
+2012). 
+M5 interventions (developing skills to access and make sense of evidence)   
+Figure 3.5 below is an overview of Review 1 and Review 2 findings on the effects of 
+interventions that could support decision-makers’ use of evidence through building 
+decision-makers’ skills to access and makes sense of evidence (M5).  
+Review 1 findings 
+Interventions building decision-makers’ skills to access and make sense of evidence (M5) 
+were only found to be effective at increasing use of evidence if the intervention design 
+simultaneously tried to enhance both capability and motivation to use research evidence. 
+An example of such an intervention is a capacity-building intervention that fosters 
+decision-makers’ EIDM skills as well as attitudes towards evidence. In terms of CMOs, EIDM 
+training interventions, teaching critical appraisal skills in particular, were consistently 
+identified to improve decision-makers’ capability to use evidence.  The same applies to 
+motivation to use evidence, which was positively influenced by educational programmes 
+even if not explicitly targeted in the programme design. Opportunity to use evidence was 
+not targeted by M5 (skills) interventions and we are therefore unable to comment on the 
+interventions’ effectiveness in this regard. 
+M5 (skills) interventions, however, were found to be ineffective when applied in multi-
+component interventions if the educational intervention component was diluted and only 
+passively affected in the combined intervention. For example, community of practices or 
+passive presentation of EIDM skills were not effective to increase capability to use 
+evidence or behaviour change. There was also cautious evidence that M5 (skills) 
+interventions, such as critical appraisal training, are not effective if applied at a low 
+intensity. For example, a one-off half day capacity-building programme did not positively 
+affect evidence use, while sustained critical appraisal programmes reported positive 
+effects.  
+On the other side, in combination with M6 (structures & processes), M5 (skills) was 
+effective to improve decision-makers’ CMOs and evidence use. This impact resulted from a 
+combined intervention approach, which embedded EIDM skills within formal organisational 
+processes such as staff supervision to enhance opportunity and motivation to apply the 
+gained capabilities. Lastly, evidence seems to be forthcoming that interventions applying 
+M5 (skills) might benefit from targeting senior decision-makers in order to simultaneously
+<<<PAGE=41>>>
+37 
+ 
+ 
+SYSTEMATIC REVIEW OF REVIEWS OF 
+EIDM LITERATURE (Review 1) 
+SCOPING REVIEW OF BROADER SOCIAL 
+LITERATURE (Review 2) 
+Evidence of effects:  
+ learning analytics; 
+ supervision techniques; 
+ online learning; 
+ targeting cognitive 
+maturity/critical thinking;                   
+ to build all three components of 
+behaviour change (CMOs) and 
+enhancing retention of capabilities 
+ 
+ incorporating adult learning 
+principles; 
+ mentoring;                                            
+ to build capability and 
+motivation. 
+ 
+ Absence of evidence of effects: 
+ targeting and personalisation of 
+capacity-building programmes; 
+ communities of practice; 
+ secondments;  
+ educational apps; 
+ fostering multi-level capabilities 
+and evidence literacy.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Skills to access and make sense  
+of evidence (M5) 
+ 
+EVIDENCE USE 
+C 
+ M 
+ O 
+CMOs:  
+Positive impact on capability to use 
+evidence for example, through:                       
+ critical appraisal teaching; 
+university courses; executive 
+training.      
+ 
+Positive impact on motivation to use 
+evidence even if not explicitly targeted, 
+for example in the above.      
+ 
+Evidence use:  
+Positive impact on evidence use if M5 
+interventions combine capability and 
+motivation, for example:      
+ EIDM training course and influence 
+on positive attitudes towards 
+evidence.   
+Positive impact on evidence use in 
+combination with M6 to embed EIDM 
+skills into organisational processes (M6 
+adds motivation & opportunity), for 
+example:                                    
+ critical appraisal teaching + 
+training & tools to supervise staff use 
+of evidence.        
+No impact on evidence use in multi-
+mechanism interventions (M3 & M4), if 
+the educational component is diluted & 
+only passively affected:    
+ communities of practice. 
+ 
+C 
+ M 
+ O 
+Review 1 
+ 
+Review 2 
+ 
+Figure 3.5: M5 (skills) Overview
+<<<PAGE=42>>>
+38 
+ 
+build their skills to supervise staff use of evidence. This intervention approach might 
+result in wider organisational changes that embed the benefits of the educational 
+programme into routine decision-making processes and thereby create new opportunities 
+to use evidence. 
+Review 2 findings:    
+The scoping review of the social science literature explored interventions that might 
+present relevant insights to contribute to the application of M5 (skills) interventions. We 
+identified three relevant intervention approaches to guide training and capacity building: 
+customising capacity-building; incorporating adult learning theories; and digital education. 
+In addition, changing the targeted outcome of educational programmes appeared as a 
+relevant intervention approach. We assessed these for their likely effects on CMOs and 
+behaviour change outcomes as well as the nature of the insights and contribution to the 
+application of M5 (skills) interventions.  
+Table 3.5 below presents a list of social science interventions identified as of relevance to 
+M5 (skills) interventions, briefly explaining what insights might be gained from their 
+application in an EIDM context.  
+Table 3.5 M5 (skills) social science insights overview 
+Intervention Potential use in EIDM: 
+ 
+CUSTOMISING CAPACITY-BUILDING 
+Targeting  enhancing existing training practices to match capacity-
+building to individual decision-makers’ organisational and 
+institutional background and needs.  
+Personalisation enhancing existing training practices to personalise EIDM 
+capacity-building to decision-makers’ identities, preferences, 
+and progress.  
+Learning analytics  informing EIDM training by real world data sets and to iterate 
+training courses rapidly to focus on most relevant 
+content/skills.  
+ADULT LEARNING 
+Andragogy principles  enhancing existing training practices to closer align EIDM 
+capacity- building with established theories of adult learning.  
+Communities of 
+practice 
+repositioning CoPs to target organisational EIDM capacities 
+rather than individual capacities.  
+Mentoring enhancing the evidence-base and effective intervention design 
+of mentoring programmes.  
+Supervision enhancing existing training interventions through a more 
+formal integration of supervision techniques to support the 
+application of gained EIDM skills.  
+Secondments enhancing existing training interventions to combine an 
+exchange of individual and organisational capacities.  
+DIGITIAL EDUCATION 
+Online learning  enhancing existing practice to increase the reach and 
+convenience of EIDM capacity-building. 
+Apps  increasing the appeal and convenience of EIDM capacity-
+building.
+<<<PAGE=43>>>
+39 
+ 
+Intervention Potential use in EIDM: 
+LEARNING OUTCOMES  
+Multi-level capabilities  enhancing existing practice to foster the trajectory of 
+developed EIDM skills within the decision-makers’ host 
+organisations to nurture organisational capabilities.  
+Cognitive maturity / 
+critical thinking 
+enhancing the teaching of EIDM skills towards the development 
+of thinking patterns/processes that embed the application of 
+these skills.  
+Evidence literacy developing a holistic and accessible concept of EIDM as 
+universal skills set.  
+ 
+We then reviewed the reported effectiveness of these interventions in the social sciences 
+to assess their likely effects on CMOs and behaviour change outcomes in relation to M5 
+(skills).  
+Evidence of effects in the social sciences:  
+Scoping the wider literature on education and effective learning, we identified six 
+effective interventions approaches: using learning analytics; considering adult learning 
+principles; mentoring; supervision; online learning; and targeting cognitive maturity. 
+Within this group, research on the use of learning analytics, supervision techniques, online 
+learning, and targeting cognitive maturity generated particularly rich insights. Each of 
+these four interventions was found effective to influence all three components of 
+behaviour change (CMOs): applying either of the four is likely to enhance learning 
+outcomes (capability), learner motivation or identification with the taught content 
+(motivation), as well as opportunity to access or apply the learned capabilities. Given 
+their reliable evidence-base, we therefore position these four interventions as a potent 
+contribution to interventions aiming to increase decision-makers’ EIDM skills (M5).   
+Mentoring and the consideration of adult learning principles were also identified as of 
+potential to support M5 (skills) interventions. There was a convincing evidence-base in the 
+social sciences that mentoring might be able to increase educational outcomes 
+(capability). The incorporation of adult learning principles in the design of EIDM capacity-
+building programmes, likewise, was found to be of likely benefit to increase capability to 
+use evidence as well as motivation.  
+Social science interventions of conceptual relevance, but lacking a reliable evidence-base, 
+referred to targeting and personalisation of capacity-building programmes, communities of 
+practice, secondments, educational apps, and fostering multi-level capabilities and 
+evidence literacy.  
+Summary: 
+Combining the results and additional insights from Review 1 and Review 2, we arrive at 
+the following conclusions and suggest a number of implications for the design and 
+implementation of educational interventions aiming to build decision-makers’ skills to 
+access and make sense of evidence (M5). 
+(1) In Review 1, M5 (skills) interventions, such as capacity-building and critical 
+appraisal training, are an effective approach to increase decision-makers’ use of 
+evidence if they combine capability- and motivation-building intervention 
+components. The active educational intervention component appears to be driving 
+these results and there is no evidence that a passive diffusion of these skills can be 
+achieved in multi-mechanism interventions (M3 and M4), which do not explicitly 
+target a capacity-building component (for example, in communities of practice).
+<<<PAGE=44>>>
+40 
+ 
+(2) To improve the impact of educational interventions targeting individual decision-
+makers, social science literature suggests a number of effective interventions that 
+are able to enhance the retention of learning results as well as increased 
+identification with, and motivation to apply, learning content. These include 
+considering adult learning principles, mentoring, learning analytics, supervision 
+techniques, and online learning.  
+(3) To improve individual decision-makers’ opportunity to use evidence through M5 
+(skills), educational interventions might benefit from a more formal incorporation 
+into decision-making structures and processes (M6), for example combining 
+capacity-building with supervision.    
+(4) There is a reliable body of evidence on individual EIDM capacity-building. To ensure 
+the application and sustainability of these EIDM skills, it appears justified to invest 
+more efforts into building organisational and institutional EIDM capacities. Such 
+multi-level capabilities could broaden the concept of EIDM capacities and embed 
+them into formal organisational structures creating increased opportunities to 
+apply capacities.  
+(5) A similar approach to broaden and embed the concept of EIDM capacities at an 
+individual level refers to the targeting of thought processes and patterns rather 
+than skills sets. Building cognitive maturity and evidence literacies were positioned 
+as relevant approaches in this regard.       
+(6) The use of online and mobile technologies is likely to be of benefit to the design 
+and outcomes of EIDM capacity-building programmes. We identified online 
+learning, learning analytics, and evidence use apps as of high potential to increase 
+the reach, appeal, and relevance of educational content.  
+ 
+Taking all of the above work together, our suggestions would be: 
+ To enhance the application of interventions supporting decision-makers’ skills to 
+access and make sense of evidence if they simultaneously build capability and 
+motivation to use evidence (Review 1). 
+o To interrogate the use of interventions stating an educational objective yet 
+not specifying how the acquisition of EIDM skills will be achieved. 
+ To draw from adult learning theories to enhance teaching and learning strategies 
+(as for example studied for EIDM by Harvard Evidence for Policy Design 2016).24 
+ To apply learning analytics, online learning, and educational apps (as for example 
+studied for EIDM by Harvard Evidence for Policy Design 2016). 
+ To link EIDM skills to higher level cognitive capacities and holistic skill sets (as for 
+example discussed for EIDM by Newman 2012).  
+ To formalise and embed educational interventions in organisational structures (as 
+for example studied for EIDM by Peirson et al. 2012). 
+ To place more emphasis on organisational EIDM capabilities (as for example studied 
+for EIDM by Kislov et al. 2014).   
+ 
+  
+                                            
+24 http://epod.cid.harvard.edu
+<<<PAGE=45>>>
+41 
+ 
+M6 interventions (influencing decision-making structures and processes) 
+Figure 3.6 below presents an overview of Review 1 and Review 2 findings on the effects of 
+interventions that could support decision-makers’ use of evidence through changing 
+decision-making structures and processes (M6).  
+Review 1 findings  
+None of the reviewed interventions focused exclusively on changing decision-making 
+structures and processes. As the M6 (structure & process) mechanism was only applied as 
+part of multi-mechanism interventions, it was not possible to establish an independent 
+causal link between M6 and evidence use outcomes. However, on observation changes in 
+decision-making processes and structures (M6) were associated with improvements in 
+decision-makers’ use of evidence when the mechanism was applied in combination with 
+other evidence use mechanisms, in particular M5 (skills) and M3 (communication & 
+access). Evidence-on-demand hotlines and supervision of the application of EIDM skills 
+presented examples of an effective combination of structural changes (M6) with M5 or M3 
+that led to evidence use.  
+Regarding CMOs, there is evidence that changes in decision-making structures and 
+processes is an effective means of enhancing decision-makers’ opportunity to use 
+evidence, for example, through formalising and embedding access to evidence in 
+combination with M3 (communication & access). Likewise, multi-mechanism M6 (structure 
+& process) interventions appear to be able to influence motivation to use evidence, for 
+example, through setting organisational incentives to use evidence by means of 
+facilitating structures to increase organisational readiness for evidence use. There was a 
+lack of evidence to attribute impacts of M6 (structure & process) interventions on 
+capability to use evidence.  
+Review 2 findings    
+The scoping review of the social science literature explored interventions that might 
+present relevant insights to contribute to the application of M6 (structure & process) 
+interventions. We identified twelve interventions of relevance and grouped these into 
+interventions targeting individual, organisational, and institutional structures and 
+processes. We assessed these for their likely effects on CMOs and behaviour change 
+outcomes as well as the nature of the insights and contribution to the application of M6 
+(structure & process) interventions.  
+Table 3.6 below presents a list of social science interventions identified as of relevance to 
+M6 (structure & process) interventions, briefly explaining what insights might be gained 
+from their application in an EIDM context.  
+We then reviewed the reported effectiveness of these interventions in the social sciences 
+to assess their likely effects on CMOs and behaviour change outcomes in relation to M6 
+(structure & process).
+<<<PAGE=46>>>
+42 
+ 
+Figure 3.6: M6 (structure & process)  
+SYSTEMATIC REVIEW OF REVIEWS OF 
+EIDM LITERATURE (Review 1) 
+SCOPING REVIEW OF BROADER SOCIAL 
+LITERATURE (Review 2) 
+Evidence of effects:  
+ Reducing cognitive biases; 
+ Nudges; 
+ Professional identities & norms;                                                   
+ remove barriers to behaviour 
+change (opportunity), build motivation 
+& incentives for behaviour change 
+  
+ Facilitation (i.e. tangible support 
+and tools to change behaviour);                                          
+ facilitate behaviour change (all 
+CMOs) 
+ 
+ National institutions & 
+clearinghouses;                                                 
+ enforce evidence use, but unclear 
+institutional change. 
+ 
+ Absence of evidence of effects: 
+ Organisational learning & norms; 
+leadership & management; 
+knowledge management; 
+ Complexity thinking; machine 
+learning.  
+ 
+ 
+ 
+ 
+Decision-making processes & 
+structures  (M6) 
+ 
+EVIDENCE USE 
+C 
+ M 
+ O 
+CMOs:  
+Positive impact on motivation to use 
+evidence through setting organisational 
+incentives, for example:                                                                  
+ supervision; executive training on 
+organisational change for research use. 
+Positive impact on opportunity to use 
+evidence through formalising and 
+embedding access to evidence, for 
+example:                                                                
+ on-demand evidence summaries; 
+evidence hotlines. 
+ 
+Evidence use:  
+M6 was only applied in multi-component 
+interventions, denying casual attribution 
+with evidence use outcomes. Observation 
+suggests that M6 may be associated with 
+decision-makers’ use of evidence when the 
+mechanism is applied in combination with 
+other mechanisms, in particular M5 and 
+M3. 
+ 
+ 
+C 
+ M 
+ O 
+Review 1 
+ 
+ Review 2
+<<<PAGE=47>>>
+43 
+ 
+Table 3.6 M6 (structure & process) social science insights overview 
+Intervention Potential use in EIDM: 
+ 
+INDIVIDUAL DECISION-MAKERS 
+Reducing cognitive 
+biases 
+reducing cognitive barriers to behaviour change and  evidence 
+use during decision-making.   
+Nudges (for example,  
+commitment devices, 
+incentives) 
+nudging decision-makers to use evidence, for example,  
+restructuring choice architectures to favour evidence use.   
+Norms & identities establishing evidence use a principle of decision-making 
+associated with one’s professional conduct and identity.  
+Coherent behavioural 
+frameworks 
+drawing from established behavioural frameworks to inform 
+the design of EIDM interventions (for example, EAST; 
+MINDSPACE).  
+DECISION-MAKING AT AN ORGANISATIONAL LEVEL (change & readiness) 
+Organisational learning 
+& learning organisation 
+enhancing existing efforts to support organisational capacity 
+and structures to create an environment in which decisions 
+can be challenged and informed by evidence.   
+Organisational 
+norms/culture 
+formulating an organisational practice, vision, and reputation 
+for using evidence.  
+Leadership & 
+management 
+enhancing existing efforts to apply leadership styles and 
+management approaches conducive to organisational change in 
+line with the above organisational characteristics believed to 
+be of support to EIDM.  
+Knowledge 
+management  
+enhancing existing efforts to support organisations to 
+systematically collect, store, and circulate formal and tactic 
+knowledge.  
+Facilitation  regularly providing tangible influence and support for EIDM (for 
+example, audit & feedback; financial/career incentives; 
+decision aid tools).  
+INSTITUTIONS & SYSTEMIC ISSUES 
+Complexity thinking providing a model of EIDM at a systems level characterised by 
+constant evaluation, iteration, and adaptation of practices and 
+policies.  
+National institutions & 
+clearinghouses  
+enforcing and incentivising EIDM through institutions and legal 
+frameworks, such as accreditation, procurement, and cabinet 
+processes. 
+Machine learning & 
+modeling  
+changing the nature of evidence and synthesis due to machine 
+ability to provide ad hoc, personalised decision advice based 
+on various sources of evidence, including big data and 
+biometric information.   
+ 
+Evidence of effects in the social sciences:  
+The scoping review of the wider social sciences identified a variety of effective 
+interventions to positively influence the decision-making structures and processes of 
+individual decision-makers. These referred to behavioural interventions to mitigate the 
+effects of cognitive biases on decision-making; the provision of nudges to encourage 
+behaviour change; and the creation of professional norms and identities in line with 
+evidence use. These behavioural interventions are of direct relevance to influence the 
+process of decision-making and to increase its receptivity for evidence. A nudge could, for 
+example, be used to increase decision-makers’ motivation to use evidence, while the use 
+of defaults to reduce cognitive biases could increase opportunity as well as motivation to
+<<<PAGE=48>>>
+44 
+ 
+use evidence. Given the evidence-base on their application in the social sciences, these 
+behavioural interventions might be able to translate short-term impacts on motivation and 
+opportunity to use evidence into long-term changes in behaviour. We identified a number 
+of evidence-informed behavioural frameworks that guide the coherent application of these 
+behavioural interventions, which are of direct relevance to support the design of M6 
+(structure & process) interventions. 
+We further identified a large body of literature on interventions aiming to change 
+organisational structures and processes. This literature was of high conceptual relevance 
+proposing many models of how organisational structures and processes could be influenced 
+and designed in a manner that might allow for a more systematic use of evidence during 
+decision-making processes. Proposed models and interventions included: organisational 
+learning & learning organisations; changing organisational norms/culture; more inclusive 
+leadership & management; knowledge management systems; and facilitation. However, 
+while each of these was of high conceptual relevance, we only identified a conclusive 
+body of research on the positive effects of facilitation interventions (for example, 
+decision-aid tools, financial incentives; audit & feedback). For the remainder of 
+interventions, there was no consensus within the literature on effective intervention 
+approaches. For example, while organisational learning is positioned as an important and 
+effective approach to support staff performance, programme iteration, and commercial 
+performance, there was no consensus across the synthesised evidence on the design of 
+effective interventions that promote organisational learning. We are therefore only able 
+to point to the conceptual relevance of this body of literature to EIDM, and cannot make 
+detailed recommendations on which interventions to apply. This was also highlighted a 
+number of years ago by Nutley and colleagues (2007), who similarly proposed a closer 
+integration of the social science literature on organisational change with EIDM.  
+Lastly, we also comment on a number of interventions that might be able to foster 
+evidence use at a systems and institutional level. These interventions refer to the 
+application of complexity thinking; national institutions and clearinghouses; and machine 
+learning and modelling. We consider the literature concerning complex systems and 
+machine learning as blue skies thinking and only point out its overlap with some parts of 
+the EIDM literature without commenting on evidence of effects or intervention design. 
+However, there is some evidence on the impact of national institutions and 
+clearinghouses. Institutions such as NICE and the South African Department of Planning, 
+Monitoring, and Evaluation (DPME) have established systems that enforce and incentivise 
+the use of evidence by decision-makers. There are currently no rigorous reviews 
+synthesising the effects of these institutions, but reviews of individual institutions point to 
+their impact on evidence use; whether this then translates into institutionalised norms and 
+systemic change, however, remains unclear.   
+Summary:  
+Combining the results and additional insights from Review 1 and Review 2, we arrive at 
+the following conclusions and suggest a number of implications for the design and 
+implementation of interventions aiming to change decision-making processes and 
+structures (M6).  
+(1) In Review 1, there is some evidence to suggest that changes to decision-making 
+processes and structures (M6) have the potential to increase decision-makers’ use 
+of evidence. While there is no evidence that interventions applying the M6 
+(structure & process) mechanism on its own increase evidence use, there is 
+cautious evidence that they can formalise and embed effective evidence use 
+interventions (for example, M3 and M5) into organisational structures. This can 
+lead to changes in routine work processes and decision-makers’ habits resulting in 
+decision-making that is more receptive to evidence use. There is a large body of
+<<<PAGE=49>>>
+45 
+ 
+social science literature that can offer additional insights on the effective design of 
+M6 (structure & process) interventions including advice on how these interventions 
+could be applied in isolation.  
+(2) The application of behavioural interventions offers large insights into the design of 
+M6 (structure & process) interventions. EIDM—as any form of decision-making—is 
+aggravated by cognitive biases and behavioural traps. Interventions to reduce 
+cognitive biases as well as other nudges have the potential to support the use of 
+evidence during decision-making processes. There are a number of established 
+behavioural frameworks (for example, EAST) that appear of direct relevance to 
+guide the design of M6 (structure & process) interventions.  
+(3) Direct facilitation of EIDM through the provision of tangible influence and resources 
+(for example, organisational protocols, financial incentives, audits, decision-
+making tools) has the potential to change decision-makers’ behaviour. A reliable 
+body of social science literature supports facilitation as a relevant approach to 
+change professional behaviours. 
+(4) Based on (1), (2), and (3), M6 (structure & process) interventions have the 
+potential to increase evidence use by increasing the salience of EIDM and 
+formalising the practice as an integral part of decision-making.    
+(5) There is a large body of literature on organisational change to increase the 
+readiness of organisations to use evidence. The project identified fertile areas of 
+research to hold insights to build organisational structures supportive of EIDM as: 
+organisational learning; organisational norms/culture; transformational and 
+inclusive leadership management approaches; and knowledge management 
+systems. There is, unsurprisingly, no blue-print intervention to build an 
+organisational structure conducive to EIDM and insights of these areas of research 
+require a careful contextual analysis before being used to inform the design of M6 
+(structure & process) interventions.  
+(6) Individual states have established institutions mandated to support and 
+institutionalise EIDM. The creation and implementation of these institutions has 
+passed proof of concept but their effects on systemic change is less clear.  
+(7) Throughout the evidence on M6’s (structure & process) impact and the consulted 
+social science literature there is an emphasis to better understand decision-makers 
+and decision-making processes and structures. Insights on decision-makers’ mental 
+models, network structures, organisational settings, and professional norms are of 
+benefit to all of the reviewed evidence use mechanisms.  
+ 
+Taking all of the above work together, our suggestions would be: 
+ To, in general, pay more attention to decision-making processes and structures as 
+an effective organisational tool to increase research receptivity and EIDM 
+capacities (based of Review 1). 
+ To reduce cognitive barriers to the use of evidence during decision-making.  
+ To nudge the behaviour of using evidence.  
+ To create a professional norm of evidence use as a part of decision-makers’ work 
+ethos.  
+ To provide active organisational/managerial facilitation of staff’s evidence use (as 
+for example studied for EIDM by Rich et al. 2012; Rutter & Gold 2015).   
+ To formalise and embed evidence use mechanisms into decision-making processes 
+and structures, in particular convenient organisational access to evidence and EIDM 
+capacities (as for example studied for EIDM by Wilson et al. 2015; Notarianni et al. 
+2015). 
+ To pay more attention to the amplifying effects of embedding evidence use 
+mechanisms into organisational structures, both in terms of the size of the effect
+<<<PAGE=50>>>
+46 
+ 
+(i.e. increased and sustained evidence use) and the spread of the effect (i.e. from 
+individual decision-makers to organisational behaviour/performance).    
+ To carefully consider the literature on organisational change for relevant models 
+and techniques to support structures and processes conducive to innovation (as for 
+example discussed for EIDM by Nutley et al. 2007).   
+ To enhance institutional models enforcing and incentivising the use of evidence (as 
+for example implemented by NICE, DPME, and the What Works Network).   
+ To conceptualise the overlap between EIDM and system thinking (as for example 
+discussed for EIDM by Best & Holmes 2010).
+<<<PAGE=51>>>
+47 
+ 
+Chapter 4. Conclusion 
+The content in this chapter is identical with Chapter 7 in the Technical Report.  
+4.1 Scope of project 
+This project investigated the science of using science; that is, what works to increase the 
+use of research evidence as one factor in decision-making. The project consisted of two 
+reviews of the literature. First, Review 1, a systematic review of reviews of evidence of 
+the efficacy of strategies to increase the use of research evidence by decision-makers 
+(EIDM). This ‘research on research use’ is a relatively new field of enquiry and we 
+hypothesized that although this literature was informed by studies in the rest of social 
+science, there might be some aspects of social science that were relevant for developing 
+strategies to increase the use of research evidence but that had not been included in 
+systematic reviews in the EIDM literature. The broader social science literature (for 
+example, psychology; management; behavioural sciences) might hold a body of knowledge 
+on areas such as behaviour change, organisational change, learning and motivation, that 
+could be of high relevance to efforts to encourage decision-makers to use evidence. We 
+therefore undertook a scoping review of this broader social science literature to find 
+research of potential relevance to EIDM. 
+In the absence of an agreed theory of how interventions can effectively influence 
+decision-makers’ use of evidence, we required a conceptual framework to structure the 
+project’s review of reviews approach. For this purpose we used the underlying 
+mechanisms driving interventions as a structure to categorise evidence use interventions 
+that had been proposed in the EIDM literature. We identified six such intervention 
+mechanisms: awareness of EIDM; agreement about what is evidence; communication and 
+access to evidence; facilitation of engagement between researchers and decision makers; 
+decision makers’ skills to access and use evidence; and influencing decision-making 
+structures and processes. In addition, we distinguished evidence use as an outcome 
+measure from the potential intermediate steps consisting of the capability, motivation, 
+and opportunity to use evidence (CMO configuration), which allowed us to present a more 
+nuanced analysis of the interventions’ effects. This conceptual framework was used to 
+structure both the systematic review of the EIDM literature and the scoping review of the 
+broader social science literature. Taken together, the research project therefore 
+enhances the understanding of the science of using science by (1) answering what we 
+know about the effects of applied interventions to increase the use of scientific 
+knowledge by decision-makers as well as (2) proposing different interventions and changes 
+to existing interventions that are suggested in the broader social science literature as 
+being of potential benefit to EIDM.   
+The remainder of this section outlines the main strengths and limitations of the research 
+and a number of key suggestions for future interventions to facilitate EIDM. It concludes 
+with a framework to help plan a theory of change that might be used when developing or 
+evaluating interventions to enable EIDM. 
+4.2 Strengths and limitations  
+This research carries the following strengths and limitations. 
+Strengths:  
+ This project conducted two connected literature reviews—a systematic review of 
+reviews and a scoping review—combining findings from the research use literature 
+with insights from the wider social sciences.
+<<<PAGE=52>>>
+48 
+ 
+ The systematic review of reviews conducted a rigorous search, screening, and 
+quality appraisal of existing systematic reviews on the impact of interventions 
+supporting EIDM.  
+ It presents a structured and transparent map and synthesis of evidence on what 
+works to increase decision-makers’ use of evidence.  
+ We developed and applied a conceptual framework of six mechanisms, CMOs and 
+evidence use outcomes to structure the two reviews, which allowed us to 
+transparently integrate the findings from both the systematic review of reviews 
+and the scoping review. 
+ The scoping review of the broader social sciences configured a diverse body of 
+literature scoping aspects of social science literature that are relevant for 
+developing strategies to increase the use of research evidence but that had been 
+missed by the systematic reviews in the EIDM literature.   
+ Combing the findings of both reviews, the project offers insights on (1) what 
+interventions work (and do not work) in supporting EIDM and (2) what other 
+interventions or changes to existing interventions could be applied based on a 
+broader body of knowledge.  
+Limitations:  
+ The systematic review of reviews on the impact of evidence use interventions did 
+not include primary evidence and was limited to the data reported in the reviews.  
+ Included reviews did not always differentiate clearly between interventions and 
+outcomes related to EIDM and interventions and outcomes related to the 
+implementation of evidence-based practices; and we could therefore not draw 
+from the full data set reported in some reviews. 
+ The applied narrative synthesis does not allow us to implement a standardised and 
+comparable effect size measure. It is therefore challenging to establish relative 
+intervention effects and strengths of effects. 
+ The social science literature was only scoped and we cannot provide an exhaustive 
+account of interventions.  
+ The identified bodies of social science evidence were often too extensive and 
+featured multiple reviews of different methods and conclusions. For some areas, 
+for example management literature, we could not identify a consensus on what 
+might be the most effective approach relevant to EIDM. 
+ Some of the suggested social science interventions (and related concepts) might 
+have been tried and applied in EIDM, but have only been reported in primary or 
+theory papers, which were not covered by the systematic review of reviews. We 
+therefore conducted a brief search for primary evidence at the end of the project 
+in key journals such as Evidence & Policy and Implementation Science.   
+4.3 Suggestions for future EIDM interventions 
+Combining the findings of both reviews, we offer a number of suggestions that might 
+support the future application of interventions aiming to increase EIDM. 
+ The communication of research studies could incorporate techniques to build 
+motivation to use evidence, for example framing of study findings, tailoring & 
+targeting of communication.  
+ Access to evidence could be complimented by programme components building 
+motivation, for example, increasing the visual appeal of evidence repositories and 
+linking them to personal mobile devices.  
+ Building decision-makers’ EIDM skills is central to nurturing their use of evidence and 
+educational programmes (for example, capacity-building; critical appraisal training) 
+could be enhanced, both in the frequency and duration of their application as well as 
+through incorporating social science knowledge on adult learning principles.
+<<<PAGE=53>>>
+49 
+ 
+ Building systems and structures: across the diverse interventions applied to support 
+EIDM, a common theme referred to the benefits of formalising and embedding 
+interventions within existing decision-making processes and structures, such as 
+evidence-on-demand services integrating push, user-pull and exchange approaches). 
+Changes to decision-making structures and processes could also include direct 
+facilitation of the use of evidence (for example, financial incentives; decision aid 
+tools). Changes to individual decision-making structures could be particularly sensitive 
+to cognitive biases and behavioural traps that might mitigate the use of evidence.  
+ The concept of evidence use as a professional norm and principle of decision-making 
+could be framed and established to support behaviour change. This could be part of a 
+wider effort to market and promote the concept of EIDM.  
+ Institutional frameworks and mechanisms (for example, institutions such as NICE, and 
+processes such as accreditation) hold large potential to support EIDM and could see 
+wider application.  
+ 
+The findings of this project may be of benefit to decision-makers at a practice or policy 
+level who are aiming to make greater use of evidence, and researchers planning to engage 
+in future studies related to EIDM. For decision-makers, this review could hold practical 
+insights on how to enhance the receptivity of their organisational decision-making 
+processes and structures to the use of evidence. They might also benefit from insights on 
+building a professional identity of evidence use with common practices and standards of 
+conduct. Findings related to the reduction of decision-making biases and behavioural traps 
+might also be relevant to this audience. Senior decision-makers should consider looking at 
+the role of organisational incentives and protocols to support their staff’s use of evidence.  
+This project may also be useful for researchers in identifying areas for future research on 
+the relationship between EIDM and the wider social sciences. There is scope to develop 
+common indicators and measures of EIDM and conceptualise the overlap and distinction 
+between the research use and implementation science literature. The findings could also 
+be used to further unpack the black box of decision-making to ensure that evidence use 
+interventions increase in relevance and can be embedded into organisational processes 
+and structures. This might help mitigate the danger of creating an unhelpful dichotomy 
+between producers of research and users of research in EIDM. The emphasis on there being 
+a gap between the communities of researchers and decision-makers that fail to interact 
+and understand each other assumes a linear push research production driven model of 
+research use. The science of using science might be able to progress further by starting 
+with the user of evidence and studying their needs and behaviours in decision-making and 
+how research might inform and feed into that.   
+There is also scope to extend and refine the proposed model of evidence use mechanisms 
+and CMOs. The conceptualisation of the reviewed six mechanisms could be strengthened, 
+plus further iteration of the model is likely to improve understanding about the respective 
+roles and functions of each mechanism. Additional evidence use mechanisms might be 
+proposed and the same applies to relevant social science interventions.  
+4.4 Guidance to facilitate development of a Theory of Change 
+In this project we have used levels of intervention, mechanisms and capability, motivation 
+and opportunity to change as a framework to help understand (a) what interventions are 
+trying to achieve, and (b) the processes they use to try to achieve this (in other words, the 
+‘theory of change’ of how the intervention is meant to have its effect). We hope that this 
+framework can help others to plan a theory of change when they develop or evaluate 
+interventions to enable EIDM, and we offer guidance on how to develop such a theory of 
+change.
+<<<PAGE=54>>>
+50 
+ 
+The guidance emphasises the need to consider both process and contextual variables when 
+designing such interventions. It suggests a contextual analysis to tailor and personalise 
+interventions to (i) different levels of decision-making, (ii) organisational cultures, and 
+(iii) individual determinants of decision-makers. This in turn emphasises the salience of 
+EIDM interventions to better fit with decision-makers’ needs and preferences. Finally, the 
+guidance stresses the importance of building evaluation into the design of interventions, 
+applying comparable EIDM outcomes measures and indicators. This generates rapid 
+feedback on the intervention’s effects to allow for ongoing experimental iteration of 
+intervention design. 
+This guidance is not meant to provide an intervention blueprint or universal theory of 
+change. Rather, it presents a tool to encourage thinking about the design of EIDM 
+interventions and an attempt to indicate avenues for the practical application of the 
+project’s research results.
+<<<PAGE=55>>>
+51 
+ 
+Table 4.1 Evidence-informed guidance to develop a ToC for a research use intervention 
+Steps to consider in the 
+design of EIDM 
+interventions 
+Suggestions based on 
+Review 1 findings 
+Suggestions based on                       
+Review 2 findings 
+ 
+(1) Decide upon EIDM 
+variable of 
+interests25 
+  
+Consider: 
+ Relevant level of 
+analysis  
+ Effective and 
+comparable outcomes 
+measure and indicators  
+ Nature of evidence and 
+manner in which it is 
+proposed  
+ Context: Existing 
+organisational culture 
+ Context: Individual 
+determinants of 
+decision-makers 
+Conceptualising evidence use 
+as behaviour change allows for 
+the application of a larger 
+body of social science 
+knowledge to influence 
+intervention design and the 
+definition of outcomes, such 
+as: 
+ Evidence use a social norm 
+ Evidence use as a 
+professional identity 
+ Reducing barriers to 
+behaviour change 
+organisational / systemic 
+adaptation and innovation 
+ Evidence literacies  
+ 
+(2) Decide upon 
+relevant CMOs as 
+a focus of 
+intervention 
+and/or 
+intermediate 
+outcome 
+measures26 
+ 
+Consider: 
+ Capability to use 
+evidence 
+ Motivation to use 
+evidence 
+ Opportunity to use 
+evidence 
+Identify bodies of social 
+science knowledge that can 
+support CMOs: 
+ Behavioural science 
+ Adult learning theories 
+ Information design 
+ Advocacy and awareness-
+raising campaigns 
+ Organisational and 
+management literature 
+ Communication and media 
+science 
+ Political sciences 
+   
+(3) Consider relevant 
+mechanism 
+effective to 
+influence CMOs27  
+M1 (awareness) and M2 
+(agree):  
+ Evidence gap. 
+M3 (communication & 
+access):   
+Incorporate social science 
+interventions with potential to 
+support mechanism, such as:   
+ Social marketing 
+ Workplace education 
+ Design principles 
+(evidence look and feel) 
+                                            
+25 Based on Section 3.1 and 3.2.  
+26 Based on Section 1.3 and 3.2. 
+27 Based on Chapter 3.
+<<<PAGE=56>>>
+52 
+ 
+ Effective on evidence 
+use if O and M are 
+combined. 
+ Not effective on 
+evidence use of only O is 
+applied.  
+ Effective on O and M 
+independently. 
+M4 (interact):  
+ Lack of effects on 
+evidence use if 
+unstructured and 
+channelled interaction. 
+ Cautions effects on CMOs 
+if well-defined, light 
+touch interactions (e.g. 
+engagement). 
+M5 (skills):        
+ Effective on evidence 
+use if C and M are 
+combined. 
+ Not effective on 
+evidence use if short-
+term application 
+ Effective on C and M 
+independently. 
+M6 (structure & process):  
+ Cautions effects on 
+evidence use to embed 
+and sustain C and O.  
+ Ability to enhance and 
+sustain other 
+mechanism’s effects.   
+ Communication techniques 
+to increase fit, retention, 
+comprehension, reach and 
+access convenience of 
+research findings 
+ Online and mobile 
+technologies 
+ Facilitation 
+ Organisational learning 
+ Engagement  
+ Evidence use nudge 
+ Counterfactual 
+ 
+ 
+(4) Consider possible 
+combinations of 
+mechanisms28  
+Effective mechanism 
+combinations: 
+ M3 + M6 
+ M5 + M6 
+ Complex, intensive 
+interventions 
+Absence of evidence: 
+ M3 + M5 + M6 
+Not investigated in Review 2 
+                                            
+28 Based on chapter 3.
+<<<PAGE=57>>>
+53 
+ 
+ M1 + M6 
+Ineffective mechanism: 
+combinations:  
+ M3 + M4 + M5  
+ M3 + M4 (if passive) 
+ M4 + M5 (if passive) 
+ 
+(5) Design 
+intervention29 
+Consider the above to build 
+an intervention Theory of 
+Change, plus:  
+ Contextual analysis to 
+tailor, personalise and 
+time the intervention. 
+ Rapid feedback and 
+evaluation to allow for 
+intervention iteration. 
+ 
+Ensure social science 
+knowledge is integrated in the 
+design of the intervention, 
+such as: behavioural 
+techniques, organisational 
+processes, adult learning 
+techniques, and 
+communication and design 
+principles.  
+ 
+Ensure interventions are salient 
+to decision-makers and take 
+into consideration their 
+opportunity costs.  
+   
+                                            
+29 Based on chapter 3 and 4.
+<<<PAGE=58>>>
+54 
+ 
+References 
+These are references for the text of this report. Please see the Technical Report for the 
+full reference list, including details of studies reviewed for this project. 
+ 
+Best, A., & Holmes, B. (2010). Systems thinking, knowledge and action: towards better 
+models and methods. Evidence & Policy: A Journal of Research, Debate and Practice, 6(2), 
+145-159. 
+Champagne, F., Lemieux-Charles, L., Duranceau, M. F., MacKean, G., & Reay, T. (2014). 
+Organizational impact of evidence-informed decision making training initiatives: a case 
+study comparison of two approaches. Implementation Science, 9(1), 53. 
+Cronin, P G., & Sadan, M. (2015). Use of evidence in policy making in South Africa: An 
+exploratory study of attitudes of senior government officials. African Evaluation Journal, 
+3(1). 
+Dobbins, M. (2008). Do tailored messages promote evidence-informed decision making in 
+breast cancer prevention? ISRCTN87385891 Available from: 
+http://www.isrctn.com/ISRCTN87385891 
+Gough, D. (2007). Weight of evidence: a framework for the appraisal of the quality and 
+relevance of evidence. Research papers in education, 22(2), 213-228. 
+Gough, D., Oliver, S., & Thomas, J. (Eds.). (2012). An introduction to systematic reviews. 
+Sage. 
+Gough, D., Tripney, J., Kenny, C., & Buk-Berge, E. (2011). Evidence informed policy in 
+education in Europe: EIPEE Final project report. London: EPPI-Centre, Social Science 
+Research Unit, Institute of Education, University of London. 
+Kislov, R., Waterman, H., Harvey, G., & Boaden, R. (2014). Rethinking capacity building 
+for knowledge mobilisation: developing multilevel capabilities in healthcare organisations. 
+Implement Science, 9(1), 166. 
+Makkar, S. R., Gilham, F., Williamson, A., & Bisset, K. (2015). Usage of an online tool to 
+help policymakers better engage with research: Web CIPHER. Implementation Science, 
+10(1), 56. 
+McCormack, L., Sheridan, S., Lewis, M., Boudewyns, V., Melvin, C. L., Kistler, C., Lux L.J., 
+Cullen, K., & Lohr, K. N. (2013). Communication and dissemination strategies to facilitate 
+the use of health-related evidence. Evidence Report/Technology Assessment Number 213. 
+Agency for Health Care Research and Quality. Available from: 
+http://effectivehealthcare.ahrq.gov/ehc/products/433/1756/medical-evidence-
+communication-executive-131120.pdf 
+Michie, S., van Stralen, M. M., & West, R. (2011). The behaviour change wheel: a new 
+method for characterising and designing behaviour change interventions. Implementation 
+Science, 6(1), 42. 
+Moore, G., Redman, S., Haines, M., Todd, A. (2011). What works to increase the use of 
+research in population health policy and programmes: a review. Evidence & Policy: A 
+Journal of Research, Debate and Practice, 7(3), 277-305. 
+Newman, K. (2012). Evidence literacy of policy makers -what do we know? Available from: 
+http://www.parliament.uk/pagefiles/77236/KN%20-%20evidence%20literacy.pdf
+<<<PAGE=59>>>
+55 
+ 
+Notarianni, M., Sundar, P., & Carter, C. (2015). Just in time: How evidence-on-demand 
+services support decision making in Ontario’s child and youth mental health sector. 
+Evidence & Policy: A Journal of Research, Debate and Practice. DOI: 
+http://dx.doi.org/10.1332/174426415X14356748943723 
+Nutley, S.M., Walter, I., Davies, H.T.O. (2007). Using evidence. How research informs 
+public services. Policy Press: Bristol, UK. 
+Oliver, K., Innvar, S., Lorenc, T., Woodman, J., Thomas, J. (2014). A systematic review of 
+barriers to and facilitators of the use of evidence by policymakers. BMC Health Services 
+Research, 14:2.  
+Peirson, L., Ciliska, D., Dobbins, M., & Mowat, D. (2012). Building capacity for evidence 
+informed decision making in public health: a case study of organizational change. BMC 
+Public Health, 12(1), 1. 
+Rich, E. C., Lake, T., & Valenzano, C. S. (2012). Paying wisely: reforming incentives to 
+promote evidence-based decisions at the point of care. Center for Health Care 
+Effectiveness White Paper, 104. 
+Rutter, J. & Gold, J. (2015). Show your workings. Assessing how government uses 
+evidence to make policy. Institute for Government. Available from: 
+http://www.instituteforgovernment.org.uk/publications/show-your-workings 
+Shearer, J. C., Dion, M., & Lavis, J. N. (2014). Exchanging and using research evidence in 
+health policy networks: a statistical network analysis. Implementation Science, 9(1), 126. 
+Uneke, C. J., Ezeoha, A. E., Ndukwe, C. D., Oyibo, P. G., Onwe, F., Igbinedion, E. B., & 
+Chukwu, P. N. (2011). Individual and organisational capacity for evidence use in policy 
+making in Nigeria: an exploratory study of the perceptions of Nigeria health policy makers. 
+Evidence & Policy: A Journal of Research, Debate and Practice, 7(3), 251-276. 
+Weiss, C. H. (1979). The Many Meanings of Research Utilization. Public Administration 
+Review, 39(5), 426–431. 
+Wilson, P. M., Petticrew, M., Calnan, M. W., & Nazareth, I. (2010). Disseminating research 
+findings: what should researchers do? A systematic scoping review of conceptual 
+frameworks. Implementation Science, 5(1), 91. 
+Wilson, P. M., Farley, K., Thompson, C., Chambers, D., Bickerdike, L., Watt, I. S., 
+Lambert, M. & Turner, R. (2015). Effects of a demand-led evidence briefing service on the 
+uptake and use of research evidence by commissioners of health services: protocol for a 
+controlled before and after study. Implementation Science, 10(1), 7. 
+Yousefi-Nooraie, R., Dobbins, M., Brouwers, M., & Wakefield, P. (2012). Information 
+seeking for making evidence-informed decisions: a social network analysis on the staff of a 
+public health department in Canada. BMC health services research, 12(1), 1.earch 
+strategy for Review 2
+<<<PAGE=60>>>
+56 
+ 
+Appendix A: Search results Review 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Records identified through 
+academic database searching 
+(n=6034) 
+Records identified through 
+grey literature searching                
+(n=828) 
+Duplicates removed                 
+(n=76) 
+Records excluded as not 
+relevant (n=6645) 
+Records screened                 
+(n=6786) 
+Full-text articles excluded, 
+with reasons                                                
+- not SR (n=23)                                             
+- not outcomes (n=28)                        
+- not intervention (n=13)                      
+- linked studies (n=8)  
+ 
+SRs on the effectiveness of 
+research use interventions 
+(n=36) 
+Full-text articles assessed for 
+eligibility                                  
+(n=141) 
+PRISMA flow diagram of search results and study inclusion 
+- SRs of descriptive accounts 
+and barriers & facilitators of 
+research use interventions 
+(n=33)
+<<<PAGE=61>>>
+57
+<<<PAGE=62>>>
+The Evidence for Policy and Practice Information and Co-ordinating Centre (EPPI-Centre) is part of 
+the Social Science Research Unit (SSRU), UCL Institute of Education, University College London. 
+The EPPI-Centre was established in 1993 to address the need for a systematic approach to the 
+organisation and review of evidence-based work on social interventions. The work and publications 
+of the Centre engage health and education policy makers, practitioners and service users in 
+discussions about how researchers can make their work more relevant and how to use research 
+findings.
+Founded in 1990, the Social Science Research Unit (SSRU) is based at the UCL Institute of 
+Education, University College London. Our mission is to engage in and otherwise promote rigorous, 
+ethical and participative social research as well as to support evidence-informed public policy and 
+practice across a range of domains including education, health and welfare, guided by a concern 
+for human rights, social justice and the development of human potential.
+The views expressed in this work are those of the authors and do not necessarily reflect the views 
+of the EPPI-Centre or the funder. All errors and omissions remain those of the authors.
+This document is available in a range of accessible formats including large print. 
+Please contact the Institute of Education for assistance: 
+telephone: +44 (0)20 7947 9556 email: info@ioe.ac.uk
+First produced in 2016 by:
+Evidence for Policy and Practice Information and Co-ordinating Centre (EPPI-Centre) 
+Social Science Research Unit
+UCL Institute of Education, University College London
+18 Woburn Square
+London WC1H 0NR
+Tel: +44 (0)20 7612 6397
+http:/ /eppi.ioe.ac.uk/
+http:/ /www.ioe.ac.uk/ssru/
+ISBN: 978-1-907345-88-3

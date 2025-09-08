@@ -1,0 +1,735 @@
+<<<PAGE=1>>>
+Research Paper
+A longitudinal assessment of factors affecting training transfer among
+new clinical nurse specialists
+Ardani Latifah Hanuma, Qiulan Hub, Wei Weic, Fang Mad, *
+a School of Nursing, Faculty of Medicine, Public Health and Nursing, Universitas Gadjah Mada, Yogyakarta, Indonesia
+b Geriatric Department, The First Afﬁliated Hospital of Kunming Medical University, Kunming, China
+c Gastroenterology Department, The First Afﬁliated Hospital of Kunming Medical University, Kunming, China
+d Department of Nursing, The First Afﬁliated Hospital of Kunming Medical University, Kunming, China
+article info
+Article history:
+Received 2 September 2023
+Received in revised form
+15 March 2024
+Accepted 9 June 2024
+Available online 10 June 2024
+Keywords:
+Clinical nurse specialist
+Training
+Transfer
+Factors
+abstract
+Objective: This study aimed to explore the determinants inﬂuencing training transfer and evaluate how
+those factors change over time among nurses who graduated from clinical nurse specialist training to
+provide a theoretical basis for improving the training transfer of clinical nurse specialists (CNSs).
+Methods: A quantitative longitudinal survey with four rounds of data collection was utilized to measure
+the inﬂuencing aspects of training transfer from June 2018 to December 2019. A total of 46 new CNSs
+participated in this study, including 30 and 16 nurses receiving training programs for CNSs in Infusion,
+Wound and Ostomy. The factor inﬂuencing training transfer (FITT) questionnaire was used to collect data
+for theﬁrst month (time 1), the third month (time 2), the sixth month (time 3), and theﬁrst year (time 4)
+after training. This questionnaire contains 53 items divided intoﬁve dimensions, including managerial
+support (20 items); hindrance in the organization (6 items); the validity of the training program (10
+items); organizational and personal facilitators (11 items); and personal attitudes towards training
+transfer (6 items).
+Results: The inﬂuencing factors of CNSs transfer decreased over time, with managerial support, hin-
+drance in the organization, the validity of the training program, and personal attitudes towards training
+transfer changing statistically over time (P < 0.05), and no statistical difference in organizational and
+personal facilitators over time (P ¼ 0.229). During early after training (theﬁrst month and the third
+month after training), hindrance in the organization is the biggest obstacle to training transfer. During
+the later of training (the sixth month andﬁrst year after the training), managerial support is the biggest
+obstacle to training transfer. Overall level of inﬂuencing factors of training transfer decreased in three
+months after training among Infusion nurses (P < 0.001), and Wound and Ostomy nurses decreased in
+the ﬁrst year after training (P < 0.001).
+Conclusions: The trend and level of training transfer predictors decreased depending on time. Clarifying
+the factors inﬂuencing transfer and its patterns may help nursing managers enhance the implementation
+and impact of nurse specialist training.
+© 2024 The authors. Published by Elsevier B.V. on behalf of the Chinese Nursing Association. This is an
+open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+What is known?
+/C15 A limited amount of knowledge, abilities, and behaviors ac-
+quired through training were applied to work performance,
+leading to a poor level of training transfer.
+What is new?
+/C15 Training transfer decreased differently among the clinical nurse
+specialists (CNSs); therefore, it is essential to offer customized
+interventions to enhance the transfer of training.
+/C15 Continuous evaluation and updating of CNSs training content in
+China is necessary to enhance its relevance, applicability, and
+impact in clinical practice.
+* Corresponding author.
+E-mail address: rebeccamalei@126.com (F. Ma).
+Peer review under responsibility of Chinese Nursing Association.
+HOSTED BY Contents lists available atScienceDirect
+International Journal of Nursing Sciences
+journal homepage: http://www.elsevier.com/journals/international-journal-of-
+nursing-sciences/2352-0132
+https://doi.org/10.1016/j.ijnss.2024.06.005
+2352-0132/© 2024 The authors. Published by Elsevier B.V. on behalf of the Chinese Nursing Association. This is an open access article under the CC BY-NC-ND license(http://
+creativecommons.org/licenses/by-nc-nd/4.0/).
+International Journal of Nursing Sciences 11 (2024) 308e314
+<<<PAGE=2>>>
+1. Introduction
+The clinical nurse specialist (CNS) is a part of advanced practice
+nursing (APN) and is deﬁned as an expert nurse with an enhanced
+range of practical, theoretical, and research-based skills for patients
+in a speciﬁc clinicalﬁeld [1e3]. The need for a knowledgeable and
+skilled expert in nursing care delivery in the CNS has increased [4].
+Numerous studies have indicated that the CNS is a valuable
+resource that delivers high-quality care and enhances health out-
+comes. In an emergency setting, the CNS provides effective triage,
+extensive assessment, and direct care for patients, and appropriate
+onward referral [4]. In addition, the CNS reduces hospital stay
+length, improves clinical outcomes and safety in geriatric patients,
+and speeds up patient discharge in surgery departments [5,6]. A
+systematic review in palliative care showed that CNS-led in-
+terventions effectively decrease rehospitalization, length of stay,
+and health care costs [7]. Furthermore, CNS-led interventions are
+associated with high patient satisfaction in the cancer department
+[8].
+To become a CNS, nurses must be trained and qualiﬁed to pro-
+vide quality care effectively. However, education and training pro-
+grams and credentials for CNSs vary in different countries [9]. In the
+United States, CNS training programs include a minimum of 500
+clinical hours within 1.5e3 years in length for master's degrees, 12
+months in length for postgraduate programs, and a minimum of
+1,000 clinical hours within 3e5 years for Doctors of Nursing Prac-
+tice degrees [10]. In Africa, the most common qualiﬁcation in the
+pediatric CNS is a 12-month postgraduate diploma [11].
+In recent years, nursing education has placed a high priority on
+specialized nurse training in China. According to the Health Care
+Reform Plans of 2015 e2020, the Chinese government has
+continued to increase its commitment to accelerating training for
+the nursing workforce, improving education, continuing profes-
+sional development, and growing training standards. One of these
+actions is developing nurses’ training programs to encourage clin-
+ical nurse specialists in various nursing specialties [12,13]. In China,
+excellent nurses with more than two years of working experience
+can become CNSs after completing training programs held by
+universities or nursing associations at the national or provincial
+levels. Although the educational requirement for nurses to be
+trained as CNS is moving toward a master’s degree, as in other
+countries in China, the education experience of CNS was not strictly
+required during our study period [14]. The length of CNS training
+programs varies from two to three months based on the type of
+specialty, with a common requirement of 160 h for theoretical and
+clinical practice, except for the intensive care unit specialized
+training program, which requires 320 clinical hours. However,
+theoretical courses for geriatric CNS training programs vary from 1
+to 3 months, and clinical practice varies from 1 to 12 months
+[15,16].
+Transfer of training or training transfer is de
+ﬁned as the degree
+to which the knowledge, skills, and attitudes acquired during work-
+related training are employed on the job and maintained over a
+period of time [17,18]. Unfortunately, although much effort and
+money have been invested in training, only a small amount of
+knowledge, skills, and behaviors learned from training are utilized
+in job performance, resulting in low training transfer of training,
+including CNS training [19e22].
+Baldwin and Fords (1988) constructed a transfer process model
+that includes trainee characteristics, training design, and the work
+environment as determinants contributing to training transfer [17].
+Using this model, some later studies corroborated and strength-
+ened how trainees’ motivation and self-efﬁcacy, transfer climate,
+work environment support, and opportunity to implement training
+skills, which are training input components, support the transfer of
+training [23e25]. However, in previous research, the transfer
+determinant was only measured once without considering how
+these factors change over time. Alongside the undeniable signiﬁ-
+cance of measuring training transfer factors, examining how these
+determinants change over time is equally crucial to gaining insight
+into the training transfer process. Understanding training transfer
+determinants and dynamics is crucial for hospital administrators to
+provide appropriate support, while for the government, it is
+necessary for policy formulation and evaluation.
+Taken together, training transfer for CNS is quite important. This
+study investigated the factors that inﬂuence training transfer and
+how these aspects change over time after CNS training. This eval-
+uation will beneﬁt CNS training programs in China and provide
+references and evidence for optimizing training transfer among
+specialist nurses in other countries.
+2. Methods
+2.1. Study design
+A longitudinal quantitative research design survey study was
+utilized to explore factors inﬂuencing training transfer and how
+those aspects change over time among nurses who completed
+clinical nurse specialist training. Four rounds of data collection
+were conducted between June 2018 and December 2019.
+2.2. Study setting and participants
+The study site was located in Yunnan, Southwest China, with a
+total of 16 districts. The Health Commission of Yunnan Province
+held the CNS training programs to guarantee training quality; the
+number of participants is usually less than 30 for each program
+every year. The sample included nurses receiving training programs
+for CNSs in Infusion (September to November 2018) and Wound
+and Ostomy (July to September 2018). All nurses who passed the
+CNS qualiﬁcation exam were invited to participate in this study at
+the end of the training.
+2.3. Measures
+2.3.1. General information
+Participants’ demographic data and occupation-related charac-
+teristics, including gender, age, marital status, education level,
+years worked, working department, professional titles, were
+collected.
+2.3.2. The factors inﬂuencing training transfer questionnaire
+The factors inﬂuencing training transfer (FITT) questionnaire
+assessed factors that facilitate or impede training transfer. This
+questionnaire was initially developed by Ma, et al. by conducting
+interviews with nurses and performing a comprehensive assess-
+ment of the relevant literature [26,27]. This questionnaire contains
+53 items divided intoﬁve dimensions, including managerial sup-
+port (20 items, such as organizational policy demonstrating the
+positive link between the utilization of training content and the
+reward of trainees; opportunities for use; adequate resources; co-
+ordination between departments); hindrance in the organization (6
+items, such as opposition from their coworkers and limited pro-
+fessional development); the validity of the training program (10
+items, such as training content and instruction methods); organi-
+zational and personal facilitators (11 items, such as organizational
+culture beneﬁting training transfer, self-ef ﬁcacy and colleague
+support); and individual attitudes towards training transfer (6
+items, the attitudes of trainees towards whether or not training
+content is used in practice). The items were answered on a seven-
+A.L. Hanum, Q. Hu, W. Wei et al. International Journal of Nursing Sciences 11 (2024) 308e314
+309
+<<<PAGE=3>>>
+point Likert scale ranging from 1¼ strongly disagree to 7¼ strongly
+agree. The total mean score indicates the level of training transfer
+factors, and the higher the total mean score is, the greater the
+likelihood that training transfer will occur [27]. In addition, the
+mean score in each dimension shows the extent to which it sup-
+ports or discourages transfer. The construct validity of the FITT
+questionnaire was measured by exploratory factor analysis (EFA)
+and conﬁrmatory factor analysis (CFA), which indicated a moder-
+ately goodﬁt for the instrument [27]. The Cronbach’s a coefﬁcient
+for the questionnaire was 0.965, and theﬁve dimensions ranged
+from 0.869 to 0.964, indicating good internal consistency [27,28].
+The created item was subsequently assessed for content validity
+through expert assessment. Subsequently, the psychometric char-
+acteristics of the ultimate tool were evaluated in a cohort of 960
+nurses who had undergone training [27].
+2.4. Data collection
+This study was a voluntary survey that required participants to
+submit answers using postal without any incentive for participants
+or drop-out follow-up. The data were collected in theﬁrst month,
+the third month, the sixth month, and theﬁrst year post-training.
+These intervals were chosen because previous research indicates
+that training transfer can diminish either immediately after
+training or after more than one year [29e31]. We increased the
+time intervals to observe theﬂuctuations and patterns over the
+year. Respondents received an invitation letter containing an in-
+formation sheet about this study and informed consent. If the
+nurses agreed to join the study, they obtained four anonymous
+envelopes within each envelope, including a demographic sheet
+and the FITT questionnaire. In each envelope, the data for theﬁrst
+month (time 1), the third month (time 2), the sixth month (time 3),
+and the ﬁrst year (time 4) after training were recorded, which
+explained the time at which participants needed to open and
+complete the questionnaire. The researcher reminded the partici-
+pants via WeChat to complete the questionnaire at each time point.
+After completing the questionnaire, depending on when it was
+written, the participants returned it to the researchers in a sealed
+envelope. Among the 78 participants, 46 completed all the ques-
+tionnaires at four time points, resulting in a response rate of 59%.
+This level of response may be attributed to the survey’s repetition,
+which is likely to induce participant tiredness and thus lead to a
+decreased response rate [ 32]. Additionally, previous research
+revealed a 25%e39% response rate for longitudinal surveys without
+personal approaches and an approximately 10.5%e57.5% response
+rate for postal surveys [33e35]. However, although 30 is frequently
+employed as the minimum sample size in quantitative survey
+research, there is currently no agreement on the minimum sample
+size for a longitudinal study [36].
+2.5. Ethical considerations
+This study was authorized by the Ethics Committee of Kunming
+Medical University. Participants were provided with written details
+regarding the objectives and methods of the study and their
+freedom to withdraw from the study at any point. The researchers
+guaranteed that their identities would remain anonymous and that
+their shared information would be kept conﬁdential.
+2.6. Data analysis
+Repeated measures analysis of variance (ANOVA) was applied in
+this study using SPSS version 26 software. Patients with incomplete
+data during the one-year follow-up were excluded, and only
+complete data were analyzed. Repeated measures within-subject
+ANOVA were used to analyze each dimension of the factors of
+training transfer among all nurse specialists without dividing it
+based on the nurse specialist groups. In addition, we conducted a
+repeated-measures ANOVA within-subject and between-subject to
+measure the overall factors inﬂuencing training transfer in each
+nurse specialist group. The prior assumptions were explored, such
+as normality using the Kolmogorov‒Smirnov test, sphericity eval-
+uation using Mauchly’s test, and GreenhouseeGeisser adjustment,
+where sphericity was violated. A Bonferroni post hoc correction
+was adopted to identify pairwise differences in training transfer
+factors and their dimensions between time intervals. A signiﬁcant
+difference according to repeated-measures ANOVA was deﬁned as
+P < 0.05.
+3. Results
+3.1. Participant characteristics
+A total of 46 new nurse specialists participated in this study,
+including 30 and 16 nurses receiving training programs for CNSs in
+Infusion and Wound and Ostomy. The ages of the 46 participants
+ranged from 21 to 55 years, with a mean working years of 13.37. A
+total of 3 (6.5%) nurses were junior, 26 nurses (56.5%) were inter-
+mediate,17 (37.0%) nurses were senior. Of the nurses, 10 (21.7%) had
+an associate degree, 35 (76.1%) had a bachelor’s degree, and 1 (2.2%)
+had a master’s degree. Regarding gender, most participants were
+female, constituting approximately 65.2%, while males constituted
+34.8%.
+3.2. Factors inﬂuencing training transfer among new clinical nurse
+specialists
+Table 1 presents the ﬁve factors inﬂuencing training transfer,
+and Fig. 1 shows the trajectory among all the nurse specialists,
+regardless of group. Repeated-measures ANOVA within-subject
+analysis revealed that some dimensions ﬂuctuated and differed
+for one year.
+The managerial support dimension decreased at each interval
+and became the lowest factor supporting training transfer after one
+year of training (P < 0.001). However, the signiﬁcant hindrance
+initially emerged in the organization diminished with time
+(P < 0.001). In addition, the validity of the training decreased within
+six months after the training (P < 0.001). The trend observed in the
+last two dimensions can be summarized as follows: the organiza-
+tional and personal facilitators only exhibited changes between the
+sixth month and one year after training (P < 0.001). However, in-
+dividual attitudes toward training transfer decreased after one year
+(P < 0.05).
+3.3. The trajectory of factors inﬂuencing training transfer among
+different nurse specialists
+Repeated-measures ANOVA with and without a Greenhouse‒
+Geisser correction showed that the overall inﬂuencing factors of
+training transfer and two groups(infusion, wound and ostomy)
+training transfer factors differed over time (P < 0.001). Post hoc
+analyses utilizing the Bonferroni correction demonstrated the
+period during which the factors inﬂuencing training transfer scores
+changed. The trajectory of each group from baseline to the last time
+point is displayed inFig. 2.
+Compared to time 1, the infusion group experienced a sub-
+stantial decrease in time 2 (P
+< 0.001), and there were also note-
+worthy disparities between time 3 and time 4 (P < 0.001). Although
+it shows a similar declining trend, the trajectory shown by the
+wound and ostomy group changed only after one year, which was
+A.L. Hanum, Q. Hu, W. Wei et al. International Journal of Nursing Sciences 11 (2024) 308e314
+310
+<<<PAGE=4>>>
+time 4 (P ¼ 0.001) compared to the initial time.
+4. Discussion
+This study provided novel insight into the determinants that
+impact the transfer of training and how these variables change over
+time after training for nurse specialists. Five factors inﬂuenced
+training transfer that decreased differently during the year
+following training among nurses receiving training for qualiﬁca-
+tions such as CNSs. Interestingly, the two groups of nurse specialists
+exhibited similar trends, with diverse levels of overall inﬂuencing
+training transfer factors. In general, the aspects facilitating the
+transfer of training diminished with time; however, they began to
+decline substantially across the two groups at different times.
+4.1. Factors inﬂuencing training transfer among all clinical nurse
+specialists
+Generally, managerial support decreased over time and ulti-
+mately became the lowest factor of training transfer. This trend
+shows that trainees’ perceptions of support to implement new
+training skills, knowledge, and behaviors from peers, supervisors,
+and organizations tend to decrease. The lack of support could
+impede training transfer and sustainment [37]; this may occur
+among newly certiﬁed nursing specialists, as not all hospitals in
+China have specialized posts for these nurses or are still under
+development. As a result, nurses who have completed specialized
+training may return to departments and occupational contexts
+unrelated to their area of expertise [38]. In addition, although the
+CNS is legally recognized and accepted by their hospital, there
+currently needs to be a national law to establish speciﬁc roles and
+structured career paths for nurse specialists. This study emphasizes
+the importance of policymakers and managers focusing on training,
+providing regulation, and tailored assistance speciﬁc to nursing
+specialties. Moreover, training transfer support should be started
+immediately following the training session and within three
+months after the training.
+The dimension of hindrance in the organization became the
+greatest burden in the early months of training transfer, although
+this obstacle sharply decreased over time; this probably occurred
+during the initial transfer process because of the inability of col-
+leagues or organizations to change initially. Indeed, people prefer
+no change or action in many circumstances, mainly when they
+think more time, energy, and high risk will be required [ 39].
+Changes that occur throughout the process of transfer learning
+frequently elicit resistance and conﬂict from colleagues, ultimately
+causing nurses to abandon their efforts in knowledge and skill
+dissemination [30]. This effect might be associated with the
+“guanxi orientation,” which motivates many Chinese people to
+establish and sustain positive relationships and harmony that
+Table 1
+Descriptive results ofﬁve dimensions inﬂuencing training transfer in all groups (n ¼ 46).
+Dimensions T1 T2 T3 T4 F for time P Pairwise comparison
+Managerial support 6.18 ± 0.80 4.96 ± 0.73 4.48 ± 0.69 4.06 ± 0.58 102.128 <0.001 T1 ＞T2**;T 2＞T3**;T 3＞T4**
+Hindrances in the organization 3.66 ± 1.66 4.55 ± 1.10 5.62 ± 0.95 5.36 ± 0.88 39.842 <0.001 T1 ＜T2**;T 2＜T3**;T 3＞T4**
+Validity of training program 6.38 ± 0.72 5.59 ± 0.64 4.73 ± 0.99 4.65 ± 1.02 71.836 <0.001 T1 ＞T2**;T 2＞T3**
+Organizational and personal facilitators 5.68 ± 0.96 5.64 ± 0.94 5.63 ± 0.97 5.45 ± 0.92 1.507 0.229 T3 ＞T4**
+Personal attitude toward training transfer 6.51 ± 0.59 6.33 ± 0.70 6.28 ± 0.70 6.19 ± 0.66 5.166 0.009 T1 ＞T4*
+Overall mean score (FITT) 5.68 ± 1.46 5.41 ± 1.03 5.35 ± 1.09 5.14 ± 1.10 40.860 <0.001 T1 ＞T2**;T 3＞T4**
+Overall mean score（Infusion, n ¼ 30） 5.63 ± 0.34 5.27 ± 0.43 5.21 ± 0.43 5.01 ± 0.41 36.233 <0.001 T1 ＞T2**;T 3＞T4**
+Overall mean score（Wound and ostomy,n ¼ 16 ） 5.79 ± 0.59 5.69 ± 0.64 5.60 ± 0.71 5.40 ± 0.50 8.576 0.001 T1 ＞T4**
+Note: *P < 0.05, **P < 0.01. FITT¼ the factors inﬂuencing training transfer. T1: theﬁrst month. T2: the third month. T3: the sixth month. T4: theﬁrst year.
+Fig. 1.The trend ofﬁve factors inﬂuencing training transfer among all clinical nurse specialists over time. T1: theﬁrst month. T2: the third month. T3: the sixth month. T4: theﬁrst
+year.
+A.L. Hanum, Q. Hu, W. Wei et al. International Journal of Nursing Sciences 11 (2024) 308e314
+311
+<<<PAGE=5>>>
+might be disrupted through changing processes [40]. While this
+study validated the presence of obstacles inside the organization
+during the initial transfer of training, it is crucial to allocate sufﬁ-
+cient autonomy to nurse specialists to continue implementing their
+training and achieve tangible outcomes. By implementing this
+approach, the resistance level decreases, potentially encouraging
+other nurses to engage in ongoing training transfers.
+Training validity declined tremendously until the sixth month
+after training. This trend indicated that nurses’ perceptions of
+training content needed to be more sufﬁciently relevant and were
+less valuable to their work. This is likely due to the outdated
+training content that nurses no longer use in their practice. Previ-
+ous studies support theﬁnding that unmatched learning content in
+the workplace hinders learning transfer [41].
+Formal clinical nurse specialist training programs in China are
+provided at different levels. Usually, nurse associations that have
+received recognition from the provincial or national government
+and public universities are responsible for developing training
+programs for nurses [16,42,43]. Thus far, there needs to be more
+universally adopted guidelines for training nurse specialists among
+training providers. Hence, there is no assurance that the quality of
+the training delivered will be consistent when conducted by nurse
+associations at varying levels or in different regions. Specialist
+nurses are not required to undergo a national examination or cer-
+tiﬁcation. This problem has been corroborated by previous
+research, which asserts a deﬁciency in standardized assessment
+criteria for nurse specialist training and a scarcity of evidence-
+based tools to evaluate its quality [44]. Therefore, this study high-
+lights the importance of ongoing evaluation and enhancement of
+current nursing specialist training.
+As the greatest factor, personal attitudes towards training
+transfer also changed during the transfer process. This aspect
+demonstrates nurses’ willingness to learn and share acquired skills
+and knowledge, which is also likely inﬂuenced by other factors,
+such as their belief in training utility and environmental support
+[45]. Earlier research also revealed that competitive work cultures
+in China cause nurses to hoard their training knowledge and abil-
+ities and hesitate to share them [30,46]. Hence, despite the positive
+outcomes shown in recent studies, it is imperative that we continue
+to thoroughly evaluate and choose potential nurses based on
+organizational criteria and the personal attributes of the trainees to
+enhance the effectiveness of training transfer.
+The most stable factor affecting the training transfer was the
+organizational and personal facilitator, which gradually decreased
+effectiveness from the sixth month to one year following the
+training. This ﬁnding apparently indicated little alteration in the
+organizational learning climate, neither resistance nor support [47].
+The relative stability of this dimension possibly maintains nurses’
+self-efﬁcacy as a personal facilitator in the transfer process [48].
+This study posits that external aspects may exert a more substantial
+inﬂuence on impeding the process of transferring training than
+trainee attributes. Nevertheless, further investigation is required
+since the current study did not cover this topic.
+4.2. Factors affecting training transfer among different clinical
+nurse specialist groups
+Fig. 2shows, in the Infusion group, a signiﬁcant decrease in the
+overall aspects inﬂuencing training transfer started in the third
+month after training and continuously declined at subsequent time
+points. According to a previous study, training transfer generally
+decays three months after training, partly resulting from the
+trainee’s lack of chance to apply what they have obtained from
+training [34,49]. Notably, unlike wound and ostomy nurses who
+mostly practice in wound-related departments, the infusion nurses
+in this study are employed in several departments that do not
+pertain to their expertise. Infusion nurses work as general clinical
+nurses and only perform as specialists “part-time” when some
+departments need special skills. The plausible reason behind the
+above conditions is the nursing shortage, which pressures nurses,
+regardless of their title and specialty, toﬁnish basic workﬁrst [50].
+Therefore, the training transfer in this group declined signiﬁcantly
+over time.
+According to previous research, although learning transfer can
+decrease immediately after training to more than one year after
+training, the transfer can still be maintained in the third month
+until the eighth month after training [29e31]. In this research, the
+factors supporting training transfer in the Wound and Ostomy
+group might be maintained successfully, yet a booster intervention
+may be needed at some time points to return the transfer of
+Fig. 2. The trend of factors inﬂuencing training transfer in each group of clinical nurse specialists over time. FITT¼ the factors inﬂuencing training transfer. T1:ﬁrst month.T 2: the
+third month. T3: the sixth month. T4: theﬁrst year.
+A.L. Hanum, Q. Hu, W. Wei et al. International Journal of Nursing Sciences 11 (2024) 308e314
+312
+<<<PAGE=6>>>
+training support to the baseline condition [21].
+Fig. 2 reveals that the greatest training transfers might have
+occurred in the Wound and Ostomy group. These results may be
+related to the rapid development of wound care and ostomy nurses
+in China [51]. Since establishing the Wound, Ostomy, and Conti-
+nence (WOC) professional committee of the Chinese Nurse Asso-
+ciation (CNA) in 2003, WOC nurses have received signi ﬁcant
+support in promoting educational, clinical, and research resources
+for advancing practice and offering guidance for clinical nursing. In
+addition, the WOC nurse licensing scheme in China is ofﬁcially
+approved by the World Council of Enterostomal Therapists (WCET),
+indicating that nurses’ wound care certiﬁcation is recognized na-
+tionally and internationally [52]. Thus, WOC nurses are strong and
+well-developed CNSs in China. In addition to the beneﬁt of work-
+places being speciﬁc to specialists, the notable acknowledgments
+received by wound and ostomy nurses in this study prompted
+participants to sense an improved opportunity and facilitators for
+transferring their knowledge. These explanations elucidated the
+factors that contributed to this group’s outstanding level and tra-
+jectory of training transfer.
+4.3. Implications for clinical nurse specialists
+The number of clinical nurse specialists in China is still in its
+infancy [16], and this study indicates some obstacles in imple-
+menting training among clinical nurse specialists. Hence, it is
+imperative to develop training implementation strategies that align
+with the particular needs of nursing specialists to enhance training
+transfer in practical settings. The existence of regulations clarifying
+the duties and responsibilities of specialist nurses after completing
+a training program is also crucial.
+In addition, the trend of training transfer factors in recent ana-
+lyses highlights the substantial decline of training transfer facili-
+tators at some point, which might indicate the necessity of stimulus
+actions supporting positive transfer in clinical nurse specialist
+training. Nevertheless, the results obtained in this study suggest
+that the initial booster post-training intervention should be
+promptly started after training and should be completed within
+three months for nursing specialists. Further measures might be
+implemented between six months and one year after training for
+the infusion groups and between the third month and one year
+following training for the wound and ostomy groups.
+4.4. Limitations
+This study examined the important predictors of training
+transfer, but the most inﬂuential components among all the vari-
+ables investigated were not speciﬁcally identiﬁed. It is important to
+note that more than these ﬁndings are needed to provide a
+comprehensive justiﬁcation for the level of implementation of
+training because we cannot assure whether all nurse specialists in
+this study work as full-time CNSs. Further research is required to
+observe and objectively ascertain the percentage of training
+implementation and its subsequent impact on practice. In addition,
+since this is a pilot study, the limitation pertains to including nurses
+from two distinct specialized clinical nurse areas from 16 districts
+within a province in China. Therefore, the information provided
+may only encompass some CNSs in China. Meanwhile, objective
+evaluation is needed for further research.
+5. Conclusions
+Our ﬁndings revealed that factors supporting training transfer
+degrade over time. The training transfer predictors level of both
+groups decreased, but the infusion group decreased more. In
+addition, this study highlights the essential time for starting and
+continuing booster transfer interventions to reinforce learning
+transfer in each specialist group. Posttraining booster intervention
+is suggested to improve some dimensions, such as managerial
+support, and address the hindrance in the organization; it is also
+essential to continuously update the content before delivering CNS
+training to increase its relevance and applicability in clinical prac-
+tice. Furthermore, it is imperative to establish regulations about the
+work and obligations of nurse specialists. This step is essential in
+facilitating the execution of specialized activities and, eventually,
+affecting the quality of nursing practice and the well-being of
+patients.
+CRediT authorship contribution statement
+Ardani Latifah Hanum: Conceptualization, Methodology,
+Investigation, Data curation, Formal analysis, Writing - original
+draft, Writing e review & editing. Qiulan Hu:Investigation, Data
+curation, Writinge review & editing. Wei Wei:Methodology, Data
+curation, Writinge review & editing. Fang Ma:Conceptualization,
+Methodology, Investigation, Formal analysis, Writinge review &
+editing, Supervision.
+Data availability statement
+The datasets generated during and/or analyzed during the cur-
+rent study are available from the corresponding author upon
+reasonable request.
+Declaration of competing interest
+The authors declare that they have no competing interests.
+Acknowledgments
+We would like to express our gratitude to nurse specialist who
+participated in this study.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at
+https://doi.org/10.1016/j.ijnss.2024.06.005.
+References
+[1] Tian X, Lian JX, Yi LJ, Ma L, Wang Y, Cao H, et al. Current status of clinical
+nursing specialists and the demands of osteoporosis-specialized nurses in
+Mainland China. Int J Nurs Sci 2014;1(3):306e13. https://doi.org/10.1016/
+j.ijnss.2014.07.007.
+[2] McHugh MD, Lake ET. Understanding clinical expertise: nurse education,
+experience, and the hospital context. Res Nurs Health 2010;33(4):276e87.
+https://doi.org/10.1002/nur.20388.
+[3] Peplau H. Specialization in professional nursing. 1965. Clin Nurse Spec
+2003;17(1):3e9. https://doi.org/10.1097/00002800-200301000-00002.
+[4] Petkar S, Bell W, Rice N, Iddon P, Cooper P, McKee D, et al. Initial experience
+with a rapid access blackouts triage clinic. Clin Med 2011;11(1):11e6. https://
+doi.org/10.7861/clinmedicine.11-1-11.
+[5] Harwood RH, Kempson R, Burke NJ, Morrant JD. Specialist nurses to evaluate
+elderly in- patients referred to a department of geriatric medicine. Age Ageing
+2002;31(5):401e4. https://doi.org/10.1093/ageing/31.5.401.
+[6] Graham L, Neal CP, Garcea G, Lloyd DM, Robertson GS, Sutton CD. Evaluation
+of nurse- led discharge following laparoscopic surgery. J Eval Clin Pract
+2012;18(1):19e24. https://doi.org/10.1111/j.1365-2753.2010.01510.x.
+[7] Salamanca-Balen N, Seymour J, Caswell G, Whynes D, Tod A. The costs,
+resource use and cost-effectiveness of Clinical Nurse Specialist-led in-
+terventions for patients with palliative care needs: a systematic review of
+international evidence. Palliat Med 2018;32(2):447 e65. https://doi.org/
+10.1177/0269216317711570.
+[8] Sibbons A, Pillai R, Corr J, Persaud S. Nurse-led renal cancer follow-up is safe
+and associated with high patient satisfaction-an audit from the East of En-
+gland. Ecancermedicalscience 2019;13:955. https://doi.org/10.3332/
+A.L. Hanum, Q. Hu, W. Wei et al. International Journal of Nursing Sciences 11 (2024) 308e314
+313
+<<<PAGE=7>>>
+ecancer.2019.955.
+[9] World Health Organization (WHO). State of the world's nursing 2020. 2020.
+https://www.who.int/publications/i/item/9789240003279. [Accessed 6 April
+2020].
+[10] Darmody JV, Coke LA. Becoming a clinical nurse specialist in the United States.
+Clin Nurse Spec 2019;33(6):284 e6. https://doi.org/10.1097/
+NUR.0000000000000480.
+[11] North N, Shung-King M, Coetzee M. The children's nursing workforce in
+Kenya, Malawi, Uganda, South Africa and Zambia: generating an initial indi-
+cation of the extent of the workforce and training activity. Hum Resour Health
+2019;17(1):30. https://doi.org/10.1186/s12960-019-0366-4.
+[12] Hu Y, Shen J, Jiang AL. Nursing shortage in China: state, causes, and strategy.
+Nurs Outlook 2010;58(3):122 e8. https://doi.org/10.1016/
+j.outlook.2009.12.002.
+[13] National Development and Reform Commission. The national health and
+family planning commission development plan (2016-2020). 2016.https://
+www.ndrc.gov.cn/fggz/fzzlgh/gjjzxgh/201707/t20170720_1196854.html.
+[Accessed 26 March 2007].
+[14] Wang P, Li YR, Ge H, Liu JY, Li SW. Experience in developing innovative
+practical ability for Master of Nursing Specialist degree program in China: a
+qualitative descriptive study of postgraduates. Nurse Educ Today 2023;126:
+105811. https://doi.org/10.1016/j.nedt.2023.105811.
+[15] Bai CL, Pu LH, Chen HX, Huan XY. The gerontological nurse specialist's core
+competencies in China: a cross-sectional study. Nurs Open 2020;7:1928e35.
+https://doi.org/10.1002/nop2.583.
+[16] Chen HX, Yang X, Hu XY, Deng BF, Ma HM, Zhang AL, et al. A survey and
+analysis on current status of the training and work for gerontological nurse
+specialists in 30 provinces in China. Chin J Nurs 2021;56(9):1363e8. https://
+doi.org/10.3761/j.issn.0254-1769.2021.09.014.
+[17] Baldwin TT, Ford JK. Transfer of training: a review and directions for future
+research. Person Psychol 1988;41(1):63e105. https://doi.org/10.1111/j.1744-
+6570.1988.tb00632.x.
+[18] Bates R, Holton III EF, Hatala JP. A revised learning transfer system inventory:
+factorial replication and validation. Hum Resour Dev Int 2012;15:549e69.
+https://doi.org/10.1080/13678868.2012.726872.
+[19] Burke LA, Hutchins HM. A study of best practice in training transfer and
+proposed model of transfer. Hum Resour Dev Q 2008;19(2):107e28. http://
+www.robots.ox.ac.uk/~vgg/rg/papers/efﬁcientmatch.pdf.
+[20] Subedi BS. Cultural factors and beliefs inﬂuencing transfer of training. Int J
+Train Dev 2006;10(2):88 e97. https://doi.org/10.1111/j.1468-
+2419.2006.00246.x.
+[21] Arthur W Jr, Bennett W Jr, Edens PS, Bell ST. Effectiveness of training in or-
+ganizations: a meta-analysis of design and evaluation features. J Appl Psychol
+2003;88(2):234e45. https://doi.org/10.1037/0021-9010.88.2.234.
+[22] Zhang Y, Lü FF, Chen Q, Shi Y, Zhang HM, Tian YT. Research advances in
+training transfer and implications for specialist nurse training. Chin J Nurs
+2022;57(11):1391e5. https://doi.org/10.3761/j.issn.0254-1769.2022.11.017
+[in Chinese].
+[23] Schoeb G, Lafreni/C18ere-Carrier B, Lauzier M, Courcy F. Measuring transfer of
+training: review and implications for future research. Can J Adm Sci
+2021;38(1):17e28. https://doi.org/10.1002/cjas.1577.
+[24] Eid A, Quinn D. Factors predicting training transfer in health professionals
+participating in quality improvement educational interventions. BMC Med
+Educ 2017;17(1):26. https://doi.org/10.1186/s12909-017-0866-7.
+[25] Korunka C, Dudak E, Molnar M, Hoonakker P. Predictors of a successful
+implementation of an ergonomic training program. Appl Ergon 2010;42(1):
+98e105. https://doi.org/10.1016/j.apergo.2010.05.006.
+[26] Ma F, Bai YJ, Bai YJ, Ma WG, Yang XY, Li JP. Factors inﬂuencing training transfer
+in nursing profession: a qualitative study. BMC Med Educ 2018;18(1):44.
+https://doi.org/10.1186/s12909-018-1149-7.
+[27] Bai YJ, Li JP, Bai YJ, Ma WG, Yang XY, Ma F. Development and validation of a
+questionnaire to evaluate the factors inﬂuencing training transfer among
+nursing professionals. BMC Health Serv Res 2018;18(1):107.https://doi.org/
+10.1186/s12913-018-2910-7.
+[28] Cronbach LJ. Coefﬁcient alpha and the internal structure of tests. Psychome-
+trika 1951;16(3):297e334. https://doi.org/10.1007/BF02310555.
+[29] Arthur W, Bennett W, Stanush PL, McNelly TL. Factors that inﬂuence skill
+decay and retention: a quantitative review and analysis. Hum Perform
+1998;11(1):57e101. https://doi.org/10.1207/s15327043hup1101_3.
+[30] Wexley KN, Baldwin TT. Posttraining strategies for facilitating positive
+transfer: an empirical exploration. Acad Manag J 1986;29(3):503e20. https://
+doi.org/10.5465/256221.
+[31] B€aumler M, Feller M, Krafft S, Schiffer M, Sommer J, Straube A, et al. Learned
+control over spinal nociception: transfer and stability of training success in a
+long-term study. Clin Neurophysiol 2017;128(12):2462e9. https://doi.org/
+10.1016/j.clinph.2017.09.109.
+[32] Watson N, Wooden M. Identifying factors affecting longitudinal survey
+response. Methodol Longitud Surv 2000;2009:157 e81. https://doi.org/
+10.1002/9780470743874.ch10.
+[33] Sinclair M, O'Toole J, Malawaraarachchi M, Leder K. Comparison of response
+rates and cost-effectiveness for a community-based survey: postal, Internet
+and telephone modes with generic or personalised recruitment approaches.
+BMC Med Res Methodol 2012;12:132.https://doi.org/10.1186/1471-2288-12-
+132.
+[34] Goodwin M, Walsh T, Whittaker W, Emsley R, Sutton M, Tickle M, et al.
+Increasing questionnaire response: evidence from a nested RCT within a
+longitudinal birth cohort study. BMC Med Res Methodol 2020;20(1):163.
+https://doi.org/10.1186/s12874-020-01034-7.
+[35] Cook JV, Dickinson HO, Eccles MP. Response rates in postal surveys of
+healthcare professionals between 1996 and 2005:An observational study.
+BMC Health Serv Res 2009;9:160.https://doi.org/10.1186/1472-6963-9-160.
+[36] Delice A. The sampling issues in quantitative research, Educational Sciences:
+theory and Practice. Kuram Ve Uygulamada Egitim Bilimleri 2010;10:
+2001e18. https://eric.ed.gov/?id¼EJ919871.
+[37] Hughes AM, Zajac S, Woods AL, Salas E. The role of work environment in
+training sustainment: a meta-analysis. Hum Factors 2020;62(1):166 e83.
+https://doi.org/10.1177/0018720819845988
+.
+[38] Gu JY, Luo L, Li CJ, Ma SM, Gong FH. Effects of a modi ﬁed six-sigma-
+methodology- based training program on core competencies in rehabilita-
+tion nurse specialists. J Korean Acad Nurs 2023;53(4):412e25. https://doi.org/
+10.4040/jkan.22122.
+[39] Anderson CJ. The psychology of doing nothing: forms of decision avoidance
+result from reason and emotion. Psychol Bull 2003;129(1):139e67. https://
+doi.org/10.1037/0033-2909.129.1.139.
+[40] Huang Q, Davison RM, Gu JB. Impact of personal and cultural factors on
+knowledge sharing in China. Asia Pac J Manag 2008;25(3):451e71. https://
+doi.org/10.1007/s10490-008-9095-2.
+[41] Meyer E, Lees A, Humphris D, Connell NA. Opportunities and barriers to
+successful learning transfer: impact of critical care skills training. J Adv Nurs
+2007;60(3):308e16. https://doi.org/10.1111/j.1365-2648.2007.04422.x.
+[42] Cheng QQ, Zhang QH, Liu XY, Chen YY. Initial exploration of training for
+palliative care specialist nurses in mainland China. Nurse Educ Today
+2021;101:104869. https://doi.org/10.1016/j.nedt.2021.104869.
+[43] Tong YH, Zhu HX, Wang J, Zou YF, Gao H, Cheng M. The effect of training
+orthopedic nurse specialists in Jiangsu Province of China. Ann Palliat Med
+2021;10(9):9488e96. https://doi.org/10.21037/apm-21-2291.
+[44] Wu J, Wang F, Wang J, Yuan R, Lv Y, Tao D, et al. Construction of an index
+system of core competence assessment for otolaryngology nurse specialists in
+China: a Delphi study. Nurse Educ Today 2023;131:105956.https://doi.org/
+10.1016/j.nedt.2023.105956.
+[45] Taylor MC. Partners in the transfer of learning: a qualitative study of work-
+place literacy programs. In: Adult education research conference; 2000.
+p. 57 e62. Vancouver, BC, Canada, https://newprairiepress.org/aerc/2000/
+papers/90.
+[46] Wang YF. Impact of interpersonal competition on knowledge hiding behavior
+among the employees: mediating role of moral disengagement and work
+overload. Front Psychol 2022;13(April):1 e14. https://www.frontiersin.org/
+journals/psychology/articles/10.3389/fpsyg.2022.881220/full.
+[47] Banerjee P, Gupta R, Bates R. Inﬂuence of organizational learning culture on
+knowledge worker's motivation to transfer training: testing moderating ef-
+fects of learning transfer climate. Curr Psychol 2017;36(3):606e17. https://
+doi.org/10.1007/s12144-016-9449-8.
+[48] Jaafari P, Karami S, Soleimani N. The relationship among organizational
+climate, organizational learning, and teachers' self-ef ﬁcacy. Procedia Soc
+Behav Sci 2012;47:2212e8. https://doi.org/10.1016/j.sbspro.2012.06.974.
+[49] Lim DH, Morris ML. Inﬂuence of trainee characteristics, instructional satis-
+faction, and organizational climate on perceived learning and training trans-
+fer. Hum Resour Dev Q 2006;17(1):85 e115. http://www.robots.ox.ac.uk/
+~vgg/rg/papers/efﬁcientmatch.pdf.
+[50] Zhou M, Zhao LD, Kong N, Campy KS, Qu SJ. What caused a serious shortage of
+Chinese nurses? Iran J Public Health 2018;47(7):1065e7. https://www.ncbi.
+nlm.nih.gov/pmc/articles/PMC6119566/.
+[51] Yang AH, Yan M, Qin YH. The development status of specialized nursing in
+ostomy care both in China and abroad. Chin Nurs Res 2016;3(3):117e20.
+https://doi.org/10.1016/j.cnre.2016.06.014 [in Chinese].
+[52] Liu XL, Wang L. A review of the development and current status of wound
+ostomy continence nurses in the mainland of China. Int J Nurs Sci 2018;5(2):
+105e9. https://doi.org/10.1016/j.ijnss.2018.03.002.
+A.L. Hanum, Q. Hu, W. Wei et al. International Journal of Nursing Sciences 11 (2024) 308e314
+314

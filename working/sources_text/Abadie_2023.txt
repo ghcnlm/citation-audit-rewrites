@@ -1,0 +1,663 @@
+<<<PAGE=1>>>
+Estimating the Value of Evidence-Based Decision Making
+Alberto Abadie Anish Agarwal Guido Imbens
+MIT Amazon.com Stanford
+Siwei Jia James McQueen Serguei Stepaniants
+Amazon.com Amazon.com Amazon.com
+September 9, 2023
+Abstract
+Business/policy decisions are often based on evidence from randomized experiments
+and observational studies. In this article we propose an empirical framework to estimate
+the value of evidence-based decision making (EBDM) and the return on the investment
+in statistical precision.
+1. Introduction
+Many organizations use randomized experiments and observational studies to improve their
+decision making. For example, Gupta et al. (2019) write “Together [Airbnb, Amazon, Book-
+ing.com, Facebook, Google, LinkedIn, Lyft, Microsoft, Netflix, Twitter, Uber, Yandex, and
+Stanford University] have tested more than one hundred thousand experiment treatments
+last year.” The fact that so many organizations conduct so many experiments suggests that
+data evidence provides a value for guiding business/policy decisions. However, we are un-
+aware of the existence of empirical tools that organizations can use to assess the value of
+their EBDM practices. In the absence of such tools, it is difficult to assess whether too much
+experimentation is being done, or too little, whether experiments are too large or too small,
+and whether the right experiments are done. Part of the challenge in evaluating the value of
+EBDM is that it requires a description of the role of evidence in the business/policy decision
+We are grateful to Brad Efron for making a subset of the Cochrane data available to us.
+1
+arXiv:submit/5104630  [stat.ME]  9 Sep 2023
+<<<PAGE=2>>>
+process. In other words, it requires assumptions on what organizations will do with and
+without various amounts of evidence that they can choose to generate at some cost.
+In this article, we propose an empirical Bayes estimator of the value of EBDM. We study
+the problem of a decision maker deciding whether to adopt a particular policy intervention.
+We use the term “agent” to refer to the decision maker, and “policy”, “intervention” and
+“treatment” interchangeably to refer to the policy intervention under scrutiny. The agent
+can implement the intervention based on prior information or gather additional information
+at some cost, for example, by running an experimental or observational evaluation of the
+effect of the intervention. At the stage where the decision maker decides to implement the
+intervention or not, she does so to maximize her utility given the available information. We
+derive expressions for the value of the additional information and show how to estimate this
+value using meta data on estimates of the effects of business/policy interventions and their
+standard errors.
+Our framework allows decision makers to assess the value of experimental and nonex-
+perimental studies, and how this value changes with the precision of the studies. Currently,
+many organizations decide on the precision of their studies based on power calculations,
+which do not take into account the cost and benefits of EBDM.
+2. The value of EBDM
+We use the notationX „pθ, σ2qto indicate that the random variableX has mean θ and vari-
+ance σ2. We use X „Npθ, σ2qto indicate that the distribution of X is Gaussian with mean
+and variance pθ, σ2q. We use fXp¨qfor the density of a random variable, X, and fX|W p¨|wq
+for the conditional density of X given W “ w. ϕp¨q and Φp¨q are the probability density
+function and the cumulative distribution function of the standard Gaussian distribution.
+2.1. Setup
+Consider the problem of a decision maker who has to choose whether to adopt a particular
+policy on a population of units. The per-unit payoff of the policy, τ, follows a distribution
+with probability density function fτ p¨q and mean µ. We assume that the agent has risk-
+2
+<<<PAGE=3>>>
+neutral preferences. As a result, in the absence of additional information, the agent launches
+the policy as long as the expected payoff from launching is positive,
+µ ´cL ą0,
+where cL is the cost of launching per-unit. The expected value of this decision is max tµ ´
+cL, 0u.
+Suppose, however, that the agent can choose to obtain additional information on the
+policy payoff, at some cost. In particular, the agent can obtain a signal, pτ, with distribution
+pτ |τ „Npτ, σ2q, (1)
+at cost cF `cpσ2q, with cF ě0, cp¨q ě0 and c1p¨q ď0. This aspect of the model aims to
+capture information obtained from studies that estimate policy effects based on experimen-
+tal or observational data. The constant cF reflects the fixed cost of a data-driven policy
+evaluation, and the function cp¨qmeasures the costs of precision, which depends in part on
+the sample size of the study. The restriction on the derivative of cp¨qconveys the notion that
+more precise information is weakly more costly.
+The Gaussianity assumption on the distribution of pτ |τ is motivated by approximate
+Gaussianity of the large sample distributions of many commonly used estimators of treatment
+effects. After observing the signal pτ, the expected payoff of the policy is
+Erτ|pτ “ts“
+ż
+ufτ|pτ pu|tqdu
+“
+ż u
+σϕppt ´uq{σqfτ puqdu
+ż 1
+σϕppt ´uq{σqfτ puqdu
+.
+In this case, the agent launches the policy if
+Erτ|pτs´ cL ą0.
+For any scalar, x, let Ip0,8qpxqbe the function that takes value one if x is greater than
+zero and value zero otherwise. The expected payoff with EBDM is
+V pσ2q“ E
+“
+pτ ´cLqIp0,8qpErτ|pτs´ cLq
+‰
+3
+<<<PAGE=4>>>
+“E
+“
+Ip0,8qpErτ|pτs´ cLqErτ ´cL|pτs
+‰
+“E
+“
+Ip0,8qpErτ|pτs´ cLqpErτ|pτs´ cLq
+‰
+“E rmax tErτ|pτs´ cL, 0us.
+Let
+V p8q“ maxtµ ´cL, 0u,
+which is the expected payoff under no additional information besides the information in the
+distribution of τ. Because max tx, 0uis a convex function of x, Jensen’s Inequality implies,
+V pσ2qě maxtµ ´cL, 0u“ V p8q.
+The value of EBDM is the difference in expected payoffs V pσ2qand V p8q, which is nonneg-
+ative, minus the cost of acquiring the information, which is generally positive:
+VoEpσ2q“ V pσ2q´ V p8q´p cF `cpσ2qq.
+A second version of VoE, which we term VoID is obtained when, in the absence of additional
+information about the effect of the intervention, the intervention is always deployed:
+VoIDpσ2q“ V pσ2q´p µ ´cLq´p cF `cpσ2qq.
+VoIDpσ2qis motivated by settings with ex-ante (pre-evaluation) ambiguity on the distribution
+of τ, and agents who have a bias for action in the presence of such ambiguity.
+2.2. A motivating example
+A common instance of the setting described above is one where the decision maker obtains
+experimental evidence on the effect of the policy. Consider an experiment with N units:
+i “1, . . . , N. The experimenter assigns N1 units at random to treatment and the remaining
+N0 “N ´N1 to control. If unit i is treated, an outcome is drawn
+Yip1q„p θ1, σ2
+1q.
+4
+<<<PAGE=5>>>
+If unit i is untreated, the outcome is drawn
+Yip0q„p θ0, σ2
+0q.
+Let Wi be an indicator of treatment for unit i. We observe Yi “Yip1qWi `Yip0qp1 ´Wiq.
+The average effect of the treatment is
+τ “θ1 ´θ0.
+A simple estimator of τ is the difference in mean outcomes between treated and nontreated,
+ˆτ “ 1
+N1
+Nÿ
+i“1
+WiYi ´ 1
+N0
+Nÿ
+i“1
+p1 ´WiqYi.
+Then, for large N0 and N1, equation (1) holds approximately, with
+σ2 “ σ2
+1
+N1
+` σ2
+0
+N0
+.
+In some settings, researchers favor treatment effect parameters free of units of measure-
+ment, such as lift τ “pθ1 ´θ0q{θ0. Let
+pτ “
+1
+N1
+Nÿ
+i“1
+WiYi ´ 1
+N0
+Nÿ
+i“1
+p1 ´WiqYi
+1
+N0
+Nÿ
+i“1
+p1 ´WiqYi
+.
+Then, for large N0 and N1, equation (1) holds with
+σ2 “ 1
+θ2
+0
+ˆσ2
+1
+N1
+`p1 `τq2 σ2
+0
+N0
+˙
+.
+For values of the lift parameters close to zero, as is common in some online experimentation
+settings, we can approximate
+σ2 « 1
+θ2
+0
+ˆσ2
+1
+N1
+` σ2
+0
+N0
+˙
+.
+2.3. A Gaussian distribution forτ
+In this section, we obtain simple closed-form formulas for the case when the distribution of
+τ can be approximated with a Gaussian distribution,
+τ „Npµ, γ2q. (2)
+5
+<<<PAGE=6>>>
+While equation (1) is supported by the Central Limit Theorem for large sample studies,
+equation (2) imposes two important restrictions. First, τ is Gaussian. Second, this distribu-
+tion is independent of σ2. The first is a strong parametric restriction. Gaussianity of τ could
+be a suitable approximation in some settings, but not in others. The second restriction could
+be violated, for example, if experimenters have some additional information about τ for each
+treatment, and adapt the power of their experimental or observational studies accordingly
+through the choice of sample size. We dispose of these two restrictions later in the article.
+We adopt them in this section, however, to obtain closed-form formulas for the value of
+EBDM.
+If equations (1) and (2) hold, the marginal distribution of pτ is pτ „Npµ, γ2 `σ2q. The
+posterior for τ is given by
+τ |pτ „N
+ˆµ{γ2 `ˆτ{σ2
+1{γ2 `1{σ2 , 1
+1{γ2 `1{σ2
+˙
+.
+The expected payoff with EBDM is
+V pσ2q“ E
+„
+max
+"µ{γ2 `pτ{σ2
+1{γ2 `1{σ2 ´cL, 0
+*ȷ
+.
+Let
+Z “µ{γ2 `pτ{σ2
+1{γ2 `1{σ2 ´cL.
+Recall that the marginal distribution of pτ is Gaussian with mean µ and variance γ2 `σ2. As
+a result,
+Z „N
+ˆ
+µ ´cL, γ4
+γ2 `σ2
+˙
+. (3)
+Now, V pσ2qis the the first moment of the Gaussian distribution in (3) censored from below
+at zero,
+V pσ2q“p µ ´cLqΦ
+˜
+µ ´cL
+γ2{
+a
+γ2 `σ2
+¸
+` γ2
+a
+γ2 `σ2 ϕ
+˜
+µ ´cL
+γ2{
+a
+γ2 `σ2
+¸
+. (4)
+V pσ2qis decreasing in σ2 and increasing in γ2 (see appendix). This conforms to our intuition
+that higher precision of the signal pτ|τ and higher uncertainty regarding τ increase the payoff
+from EBDM.
+6
+<<<PAGE=7>>>
+Notice that
+lim
+σ2Ñ8
+V pσ2q“ maxtµ ´cL, 0u“ V p8q
+and
+lim
+σ2Ñ0
+V pσ2q“p µ ´cLqΦ
+ˆµ ´cL
+γ
+˙
+`γϕ
+ˆµ ´cL
+γ
+˙
+.
+As σ2 Ñ8, we lose any additional information about the value of τ beyond its distribution,
+and V pσ2q converges to V p8q. As σ2 Ñ 0, we learn the value of τ. In this case, V pσ2q
+converges to Ermaxtτ ´cL, 0us, the mean of the distribution of τ ´cL censored at zero.
+So far, we have treated σ2 as a constant. We now allow σ2 to have a non-degenerate
+distribution, independent of τ. In this case, the average payoff of EBDM is
+V “E
+”
+maxtE
+“
+τ|pτ, σ
+‰
+´cL, 0u
+ı
+“E
+”
+E
+“
+maxtErτ|pτ, σs´ cL, 0u|σ
+‰ı
+“E
+«
+pµ ´cLqΦ
+˜
+µ ´cL
+γ2{
+a
+γ2 `σ2
+¸
+` γ2
+a
+γ2 `σ2 ϕ
+˜
+µ ´cL
+γ2{
+a
+γ2 `σ2
+¸ff
+. (5)
+2.4. A Gaussian mixture distribution forτ
+In section 4 we use a Gaussian mixture distribution of τ to evaluate the effects of ... Suppose
+τ follows a mixture of k Gaussian distributions with parameters pµ1, γ2
+1q, . . . ,pµk, γ2
+kq, and
+mixture probabilities p1, . . . , pk. Let pτ “τ `ε, where ε is independent Gaussian noise with
+variance σ2. Conditional on τ „Npµj, γ2
+j q, we have
+Erτ|pτ, τ„Npµj, γ2
+j qs“ µj{γ2
+j `pτ{σ2
+1{γ2
+j `1{σ2 .
+As a result,
+Erτ|pτs“
+kÿ
+j“1
+Erτ|pτ, τ„Npµk, γ2
+j qsPrpτ „Npµj, γ2
+j q|pτq
+“
+kÿ
+j“1
+ˆµj{γ2
+j `pτ{σ2
+1{γ2
+j `1{σ2
+˙ 1b
+γ2
+j `σ2
+ϕ
+¨
+˝ pτ ´µjb
+γ2
+j `σ2
+˛
+‚pj
+kÿ
+j“1
+1b
+γ2
+j `σ2
+ϕ
+¨
+˝ pτ ´µjb
+γ2
+j `σ2
+˛
+‚pj
+. (6)
+7
+<<<PAGE=8>>>
+-10-8-6-4-20 2 4 6 80
+200
+400
+600
+800
+1000
+1200
+1400
+Figure 1: Distribution of estimated treatment effects in the Cochrane data
+3. Empirical Bayes estimation
+In this section, we consider a setting with multiple realizations from the distribution of
+pτ, σ,pτ, pσq, where only pτ and pσ are observed. In this setting, ppτ, pσq are estimates and the
+corresponding standard errors for a set of policy evaluations in the data set. We consider
+the homoskedastic case, with σ2 constant, and the heteroskedastic case with var pσ2q ą0.
+In all our calculations we approximate the per-unit launch cost as cL «0. Alternatively we
+can think of the τ as capturing the net benefits of the treatment after taking out the launch
+cost.
+We illustrate these calculations using a subset of the Cochrane database (Cochrane Col-
+laboration, 2002; Starr et al., 2009) containing information on 8821 randomized experiments.
+For each experiment we observe the point estimate, pτ, as well as the standard error of pτ,
+which can be seen as an estimate of σ. We use the Cochrane dataset as a benchmark, with-
+out attempting to interpret the magnitude or direction of the resulting estimates. Figure
+1 shows the distribution of pτ across the experiments in the dataset. The average value of
+pτ is ´0.1421 with range r´8.4763, 7.1663s. Standard errors have mean 0 .7471 and range
+r0.0099, 2.1232s.
+8
+<<<PAGE=9>>>
+3.1. Parametric empirical Bayes
+In this section, we adopt a Gaussian specification for the distribution of τ. Because pτ is
+unbiased, we can estimate µ—the mean of the distribution of τ—as the mean of pτ across
+evaluations. To estimate γ2—the variance of the distribution of τ—we deconvolute the
+distribution of pτ as follows. By the Total Law of Variance,
+varppτq“ Ervarppτ|τqs` varpErpτ|τsq.
+Unbiasedness of pτ conditional on τ implies
+γ2 “varpτq
+“varpErpτ|τsq
+“varppτq´ Ervarppτ|τqs.
+As a result, we define pγ2 as the difference between the variance pτ across experiments in the
+data minus the mean of the squares of the standard errors. This estimator is not guaranteed
+to be positive. In the Cochrane dataset, pγ2 “1.6677 ´0.7641 “0.9036.
+3.1.1. Homoskedastic case
+For the homoskedastic case, we estimate σ2 as the average of the squares of the standard
+deviations of pτ across studies. In the Cochrane data, this estimate is 0.7641. Plugging in
+this value in (4) along with estimates of µ and γ2, we obtain V p0.7641q“ 0.2138.
+3.1.2. Heteroskedastic case
+We now relax the assumption that σ2 is constant. It can be shown (see appendix) that
+V pσ2qis convex. Then, by Jensen’s Inequality, V pErσ2sq ďErV pσ2qs. This result implies
+that the assumption of homoskedasticity may lead to underestimation of the average payoff
+when σ2 is not constant. Under heteroskedasticity, we evaluate the expression in (5) plugging
+in study-specific estimates of σ2. Relative to the calculations in the previous section, now
+the value of experimentation is computed for each value of σ2 and then integrated over the
+distribution of σ2. An estimator of V based on a set of policy estimates can be calculated
+9
+<<<PAGE=10>>>
+in two steps: (i) use the square of the standard error of pτ to approximate σ2, and estimate
+the value of each study separately, and (ii) take the average over all studies in the sample.
+Doing this for the Cochrane data, we obtain V “0.2351.
+3.2. Nonparametric empirical Bayes
+We now relax the parametric restriction τ „Npµ, γ2qof section 3.1 and consider a nonpara-
+metric distribution.
+3.2.1. Homoskedastic case
+Suppose we have τ{σ|σ „Gσ, where Gσ is some unspecified distribution. Then,
+pτ{σ
+ˇˇτ{σ, σ„Npτ{σ, 1q.
+Therefore, the marginal density of pτ{σ is
+fˆτ{σpzq“
+ż ˆż
+ϕpz ´tqdGsptq
+˙
+dPpsq,
+where P is the distribution of σ. If τ{σ|σ „G, independent of σ (a very strong assumption),
+then
+fˆτ{σpzq“
+ż
+ϕpz ´tqdGptq,
+and the distributionG can be estimated via nonparametric empirical Bayes methods (NPEB).
+Suppose we have n experiments, indexed i “1, . . . , n. Following Jiang and Zhang (2009),
+we can estimate G as
+max
+GPG
+nÿ
+i“1
+log
+ż
+ϕppτ{σ ´tqdGptq. (7)
+Jiang and Zhang (2009) uses fixed-point methods to solve the nonparametric maximum
+likelihood problem in (7). The solution is computed over a grid u1, . . . , um representing
+points of mass of G, with respective probabilities, pf1, . . . ,pfm. Notice that,
+Erτ{σ|ˆτ{σ “z, σ“ss“
+ż
+t ϕpz ´tqdGptq
+ż
+ϕpz ´tqdGptq
+.
+10
+<<<PAGE=11>>>
+Table 1: Expected payoff of EBDM
+empirical Bayes
+distribution of τ: true value parametric nonparametric
+Gaussian expected payoff
+95% interval
+0.3970 0.3970 0.3970
+r0.3429, 0.4510s r0.3423, 0.4517s
+mixture expected payoff
+95% interval
+0.3225 0.3942 0.3227
+r0.3168, 0.4717s r0.2685, 0.3768s
+The sample analog of Erτ|ˆτ{σ “z, σ“ssis
+σi
+mÿ
+j“1
+ujϕppτi{σi ´ujqpfj
+mÿ
+j“1
+ϕppτi{σi ´ujqpfj
+.
+Koenker and Mizera (2014) propose an algorithm to solve (7) based on convex optimization
+procedures. For the Cocharne data set, using the standard errors of the estimates to approx-
+imate σ1, . . . , σn and the algorithm in Koenker and Mizera (2014) to estimate G, we obtain
+the estimate pV “0.2226.
+3.2.2. Heteroskedastic case
+We relax the strong assumption that τ{σ is independent of σ by dividing the support of σ
+into 5 intervals and doing the NPEB calculations of the previous section interval by interval.
+Applying this method to the Cochrane data set, we obtain the estimate pV “0.2897.
+4. Simulations
+We consider two data generating processes (DGP). In DGP1, the parameters τ have a
+standard Gaussian distribution τ „ Np0, 1q, so the parametric empirical Bayes model of
+section 2.3 applies. In DGP2, the parameters τ follow the mixture distribution as in section
+11
+<<<PAGE=12>>>
+2.4. In particular, in DGP2,
+τ „
+$
+&
+%
+Np´5, 1{2q with prob. 0 .01,
+Np0, 1{2q with prob. 0 .98,
+Np5, 1{2q with prob. 0 .01.
+DGP1 and DGP2 both produce a distribution of τ with mean zero and variance one. We
+generate pτ as pτ “ τ `σu, where u is independent standard Gaussian and σ “ 0.1. To
+calculate the expected payoff of EBDM, we consider the case of cL “0.
+We run 1000 simulations for DGP1 and DGP2 with n “500. Equation (4) with µ “0,
+γ2 “ 1, σ “ 0.1, and cL “ 0 gives the true expected payoff of EBDM under DGP1. To
+calculate the true expected payoff of EBDM under DGP2, we first use equation (6) to
+compute Erτ|pτsover the n ˆ1000 “500, 000 realizations of pτ in the simulations, and report
+the average of max tErτ|pτs, 0u. In each of the simulations, we calculate parametric and
+nonparametric empirical Bayes estimates of the average payoff of EBDM. The parametric
+empirical Bayes estimator is the sample analog of equation (5). This estimator is valid
+only under the assumption that the true distribution of τ is Gaussian. The nonparametric
+empirical Bayes estimator is as in section 3.2.1. For the simulations in this section, we treat
+σ as known.
+Table 1 reports the true values of the expected payoff of EBDM along with means and
+95% intervals for the distribution of the estimates across simulations. When the distribution
+of τ is Gaussian, the distribution of the parametric and nonparametric empirical Bayes
+estimates across simulations are both centered at the true value of the expected EBDM
+payoff. Moreover, there is no evidence of substantial gains from knowledge of the parametric
+form of the distribution of τ. The 95% interval for the nonparametric estimator is only 1.1%
+wider than the interval for the parametric estimator.
+For the case when the distribution of τ is a mixture, the results for parametric estimator
+reveal a clear bias, while the distribution of the nonparametric estimator remains centered
+at the true value of the expected payoff. Moreover, the 95% interval for the nonparametric
+estimator is 30.1% narrower than the interval for the parametric estimator.
+12
+<<<PAGE=13>>>
+Table 2: Results for the Cochrane data
+Distribution of pτ:
+pµ “´0.1421
+Value of EBDM:
+parametric nonparametric
+homoskedastic heteroskedastic
+VoE estimate
+95% interval
+0.2351 0.2226 0.2055
+r0.2164, 0.2537s r 0.2060, 0.2392s r0.1890, 0.2220s
+VoID estimate
+95% interval
+0.3772 0.3647 0.3477
+r0.3572, 0.3972s r 0.3443, 0.3852s r0.3267, 0.3686s
+5. Application to the Cochrane dataset
+Table 2 collects parametric and nonparametric empirical Bayes estimates of the value of
+EBDM in the Cochrane data. For the parametric case, Table 2 reports estimates computed
+under heteroskedasticity. For the nonparametric case, Table 2 reports estimates computed
+under homoskedasticity (var pσ2q “0) and under heteroskedasticity (var pσ2q ą0). Below
+each of the estimates of the value of EBDM, Table 2 reports 95% intervals computed over
+1000 bootstrap draws from the distribution of ppτ, pσ2q in the data. In our calculations, we
+impose cL `cF `cpσ2q“ 0. The average value of pτ across experiments in the Cochrane data
+is -0.1421 and the variance of pτ across experiments is 1.6677. Because pτ has a negative mean
+and a variance that is large relative to the mean, this is a setting where we expect to have
+substantial gains from EBDM. Indeed, both the parametric and the nonparametric empirical
+Bayes estimates show positive values of about twice the magnitude of pµ. For this applica-
+tion, parametric empirical Bayes and nonparametric empirical Bayes under homoskedasticity
+produce similar estimates. Allowing for heteroskedasticity decreases the magnitudes of non-
+parametric empirical Bayes estimates by 7.7% for the case of VoE and 4.7 for the case of
+VoID.
+13
+<<<PAGE=14>>>
+6. Estimation of counterfactual EBDM values
+This section provides estimates of the value of EBDM under alternative levels of statistical
+precision. That is, we estimate how the value of EBDM would change as a result of a change
+in σ2. In the resulting counterfactuals, the variance of the estimators is equal to the variance
+estimates for pτ1, . . . ,pτn in the original sample multiplied by λ. That is, λ “0.5 represents
+a counterfactual scenario where the variances of the estimators are 50% smaller than the
+variance estimates in the original sample, while for λ “1.5 the variances of the estimators
+are 50% larger than in the original sample.
+For simplicity, we consider only counterfactual scenarios such that τ is independent of
+estimation variance, σ2, and estimate the value of EBDM using the parametric empirical
+Bayes estimator of section 3.1. It is conceptually straightforward to extend our procedure
+to more general settings (e.g., by modeling the dependence between τ and σ2 and/or using
+nonparametric empirical Bayes estimators).
+For each estimate, i “1, . . . , n, in our sample we draw a value from the empirical Bayes
+estimate of the distribution of τ. Let τ˚
+1 , . . . , τ˚
+n be the resulting values for the draws. Next,
+for i “1, . . . , n, we obtain pτ˚
+i “τ˚
+i `σ˚
+i Ui, where U1, . . . , Un are independent draws from the
+standard Gaussian distribution, andσ˚
+i “
+?
+λpσi. We use the new sampleppτ˚
+1 , pσ˚
+1 q, . . . ,ppτ˚
+n , pσ˚
+nq
+to compute an estimate of the value of EBDM. We repeat this procedure multiple times to
+obtain the distribution of EBDM-value estimates for a particular value of λ. The average of
+this distribution is our estimate of the value of EBDM under variance modification factor λ.
+For the parametric empirical Bayes case, this average can also be computed directly using a
+empirical counterpart of equation (5) that applies the variance modification factor λ to σ2.
+Figure 2 reports the results obtained from applying the procedure describe above to the
+Cochrane data. The solid line represents the value of EBDM as a function of the variance
+modification factor, λ. The shaded area represents 95% intervals from the distribution of
+EBDM estimates. An investment that reduces estimation variance by half (about a 29.3%
+decrease in standard errors) leads to an increase in the value of EBDM by 11.6%, from 0.2351
+to 0.2623. Conversely, an increase in estimation variance by half (about a 22.5% increase in
+14
+<<<PAGE=15>>>
+Figure 2: Counterfactual values of EBDM
+0 0.5 1 1.5 2.50.18
+0.2161
+0.2351
+0.2623
+0.34
+standard errors) decreases the value of EBDM by 8.1%, from 0.2351 to 0.2161.
+Appendix
+The derivative of V pσ2qwith respect to σ2 is
+BV pσ2q
+Bσ2 “´ γ2
+2pγ2 `σ2q3{2 ϕ
+˜
+µ ´cL
+γ2{
+a
+γ2 `σ2
+¸
+ď0.
+This conforms to our intuition that more experimental precision should increase the value of ex-
+perimentation.
+The derivative of V pσ2qwith respect to γ2 is
+BV pσ2q
+Bγ2 “ γ2 `2σ2
+2pγ2 `σ2q3{2 ϕ
+˜
+µ ´cL
+γ2{
+a
+γ2 `σ2
+¸
+ě0.
+This conforms to our intuition that more concentrated priors should reduce the value of experi-
+mentation.
+The second derivative of V pσ2qwith respect to σ2 is
+B2V pσ2q
+Bσ2Bσ2 “3γ4 `pµ ´cLq2pγ2 `σ2q
+4γ2pγ2 `σ2q5{2 ϕ
+˜
+µ ´cL
+γ2{
+a
+γ2 `σ2
+¸
+ě0.
+Now, Jensen’s Inequality implies V pErσ2sqď ErV pσ2qs.
+15
+<<<PAGE=16>>>
+References
+Cochrane Collaboration (2002). The Cochrane library. Database available on disk and CDROM.
+Oxford, UK, Update Software.
+Gupta, S., Kohavi, R., Tang, D., Xu, Y., Andersen, R., Bakshy, E., Cardin, N., Chandran, S., Chen,
+N., Coey, D., et al. (2019). Top challenges from the first practical online controlled experiments
+summit. ACM SIGKDD Explorations Newsletter, 21(1):20–35.
+Jiang, W. and Zhang, C.-H. (2009). General maximum likelihood empirical Bayes estimation of
+normal means. The Annals of Statistics, 37(4):1647–1684.
+Koenker, R. and Mizera, I. (2014). Convex optimization, shape constraints, compound decisions,
+and empirical Bayes rules. Journal of the American Statistical Association, 109(506):674–685.
+Starr, M., Chalmers, I., Clarke, M., and Oxman, A. D. (2009). The origins, evolution, and future of
+The Cochrane Database of Systematic Reviews. International Journal of Technology Assessment
+in Health Care, 25(S1):182–195.
+16

@@ -1,0 +1,3285 @@
+<<<PAGE=1>>>
+Clark et al. BMC Health Services Research          (2024) 24:405  
+https://doi.org/10.1186/s12913-024-10841-3
+RESEARCH Open Access
+© The Author(s) 2024. Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/. The Creative Commons Public Domain Dedication waiver (http:// creat iveco 
+mmons. org/ publi cdoma in/ zero/1. 0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+BMC Health Services Research
+Strategies to implement evidence-informed 
+decision making at the organizational level: 
+a rapid systematic review
+Emily C. Clark1, Trish Burnett1, Rebecca Blair1, Robyn L. Traynor1, Leah Hagerman1 and Maureen Dobbins1,2* 
+Abstract 
+Background Achievement of evidence-informed decision making (EIDM) requires the integration of evidence 
+into all practice decisions by identifying and synthesizing evidence, then developing and executing plans to imple-
+ment and evaluate changes to practice. This rapid systematic review synthesizes evidence for strategies for the imple-
+mentation of EIDM across organizations, mapping facilitators and barriers to the COM-B (capability, opportunity, 
+motivation, behaviour) model for behaviour change. The review was conducted to support leadership at organi-
+zations delivering public health services (health promotion, communicable disease prevention) to drive change 
+toward evidence-informed public health.
+Methods A systematic search was conducted in multiple databases and by reviewing publications of key authors. 
+Articles that describe interventions to drive EIDM within teams, departments, or organizations were eligible for inclu-
+sion. For each included article, quality was assessed, and details of the intervention, setting, outcomes, facilita-
+tors and barriers were extracted. A convergent integrated approach was undertaken to analyze both quantitative 
+and qualitative findings.
+Results Thirty-seven articles are included. Studies were conducted in primary care, public health, social services, 
+and occupational health settings. Strategies to implement EIDM included the establishment of Knowledge Broker-
+type roles, building the EIDM capacity of staff, and research or academic partnerships. Facilitators and barriers align 
+with the COM-B model for behaviour change. Facilitators for capability include the development of staff knowl-
+edge and skill, establishing specialized roles, and knowledge sharing across the organization, though staff turnover 
+and subsequent knowledge loss was a barrier to capability. For opportunity, facilitators include the development 
+of processes or mechanisms to support new practices, forums for learning and skill development, and protected time, 
+and barriers include competing priorities. Facilitators identified for motivation include supportive organizational cul-
+ture, expectations for new practices to occur, recognition and positive reinforcement, and strong leadership support. 
+Barriers include negative attitudes toward new practices, and lack of understanding and support from management.
+Conclusion This review provides a comprehensive analysis of facilitators and barriers for the implementation of EIDM 
+in organizations for public health, mapped to the COM-B model for behaviour change. The existing literature for strat-
+egies to support EIDM in public health illustrates several facilitators and barriers linked to realizing EIDM. Knowledge 
+of these factors will help senior leadership develop and implement EIDM strategies tailored to their organization, leading 
+to increased likelihood of implementation success.
+*Correspondence:
+Maureen Dobbins
+dobbinsm@mcmaster.ca
+Full list of author information is available at the end of the article
+<<<PAGE=2>>>
+Page 2 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+Review registration PROSPERO CRD42022318994.
+Keywords Evidence-informed decision making, Evidence-based practice, Knowledge translation, Knowledge 
+mobilization, Implementation, Organizational change
+Background
+There exist expectations that decisions and programs that 
+affect public and population health are informed by the 
+best available evidence from research, local context, and 
+political will [1–3]. To achieve evidence-informed public 
+health, it is important that public health organizations 
+engage in and support evidence-informed decision mak -
+ing (EIDM). For this review, “public health organizations” 
+refers to organizations that implement public health pro -
+grams, including health promotion, injury and disease 
+prevention, population health monitoring, emergency 
+preparedness and response, and other critical functions 
+[4]. EIDM, at an organizational level, involves the integra-
+tion of evidence into all practice decisions by identifying 
+and synthesizing evidence, then developing and execut -
+ing plans to implement and evaluate changes to practice 
+[2, 5, 6]. EIDM considers research evidence along with 
+other factors such as context, resources, experience, and 
+patient/community input to influence decision making 
+and program implementation [2, 3, 7, 8]. When imple -
+mented, EIDM results in efficient use of scarce resources, 
+encourages stakeholder involvement resulting in more 
+effective programs and decisions, improves transparency 
+and accountability of organizations, improves health out-
+comes, and reduces harm [3, 7, 8]. Therefore, it is impor-
+tant that EIDM is integrated into organizations serving 
+public health.
+Driving organizational change for EIDM is challenging 
+due to the need for multifaceted interventions [9].While 
+there are systematic reviews of the implementation of 
+specific evidence-informed initiatives, reviews of imple -
+mentation of organization-wide EIDM are lacking. For 
+example, Mathieson et al. and Li et al. examined the bar -
+riers and facilitators to the implementation of evidence-
+informed interventions in community nursing and Paci 
+et  al. examined barriers in physiotherapy [10–12]. Li 
+et  al. found that implementation of evidence-informed 
+practices is associated with an organizational culture 
+for EIDM where staff at all levels value and contribute 
+to EIDM [12]. Similarly, Mathieson et al. and Paci et al. 
+found that organizational context plays an important 
+role in evidence-informed practice implementation along 
+with organizational support and resources [10, 11]. While 
+these reviews identify organizational context, culture 
+and support as crucial for the implementation of a par -
+ticular evidence-informed practice, they do not identify 
+and describe sufficiently what and how an organization 
+evolves to consistently be evidence-informed for all deci -
+sions and programs and services it delivers.
+Primary studies have explored how building capac -
+ity for staff to find, interpret and synthesize evidence to 
+develop practice and program recommendations may 
+contribute to EIDM [13–16]. In 2019, Saunders et  al. 
+completed an overview of systematic reviews on primary 
+health care professionals’ EIDM competencies and found 
+that implementation of EIDM across studies was low [9]. 
+Participants reported insufficient knowledge and skills to 
+implement EIDM in daily practice despite positive EIDM 
+beliefs and attitudes [9]. In 2014, Sadeghi-Bazargani et al. 
+and in 2018, Barzkar et al. also explored the implemen -
+tation of EIDM and found similar results, listing inad -
+equate skills and lack of knowledge amongst the most 
+common barriers to EIDM [17, 18].
+An underlying current in research for organizational 
+EIDM is a focus on organizational change [13, 14, 19, 20]. 
+To achieve EIDM across an organization, significant organi-
+zational change is usually necessary, resulting in substantial 
+impact on the entire organization, as well as for individuals 
+working there. However, while there are reviews of indi -
+vidual capacity for EIDM, there is minimal synthesized evi-
+dence describing EIDM capacity at the organizational level. 
+This review seeks to address this research gap by identify-
+ing, appraising, and synthesizing research evidence from 
+studies seeking to understand the process of embedding 
+EIDM across an organization, with a focus on public health 
+organizations.
+The COM-B model for behaviour change was used as 
+a guide for contextualizing the findings across studies. 
+By integrating causal components of behaviour change, 
+the COM-B model supports the development of inter -
+ventions that can sustain behaviour change in the long-
+term. While there are numerous models available to 
+support implementation and organizational change, the 
+COM-B model was chosen, in part, for its simple visual 
+representation of concepts, as well as its contributions 
+to the sustainability of behaviours [21]. This model is 
+designed to guide organizational change initiatives and 
+distill complex systems that influence behaviour into 
+simpler, visual representations. Specifically, this model 
+looks at capability (C), opportunity (O) and motivation 
+(M) as three key influencers of behaviour (B). The capa -
+bility section of the COM-B model reflects whether the 
+intended audience possess the knowledge and skills for 
+a new behaviour. Opportunity reflects whether there is
+<<<PAGE=3>>>
+Page 3 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+opportunity for new behaviour to occur, while motiva -
+tion reflects whether there is sufficient motivation for a 
+new behaviour to occur. All three components interact 
+to create behaviour and behaviours can, in turn, alter 
+capability, motivation and opportunity [21]. Selection 
+of the COM-B model was also driven by authors’ exten -
+sive experience supporting public health organizations in 
+implementing EIDM, which observed enablers for EIDM 
+that align well with the COM-B model, such as team-
+wide capacity-building for EIDM, integration of EIDM 
+into processes, and support from senior leadership [20, 
+22, 23]. The COM-B model has been used to map find -
+ings from systematic reviews examining the barriers and 
+facilitators of various health interventions including nico-
+tine replacement, chlamydia testing and lifestyle manage-
+ment of polycystic ovary syndrome [24–26]. This review 
+has a broader focus and maps barriers and facilitators for 
+organization-wide EIDM to the COM-B model.
+Overall, EIDM is expected to be a foundation at pub -
+lic health organizations to achieve optimal health of 
+populations. However, the capacity of public health 
+organizations to realize EIDM varies considerably from 
+organization to organization [14, 22, 27–29]. This rapid 
+review aims to examine the implementation of EIDM 
+at the organizational level to inform change efforts at 
+Canadian public health organizations. The findings of 
+this review can be applied more broadly and will support 
+public health organizations beyond Canada to implement 
+change efforts to practice in an evidence-informed way.
+Methods
+Study design
+The review protocol was registered with the International 
+Prospective Register of Systematic Reviews (PROSPERO; 
+Registration CRD42022318994). The review was con -
+ducted and reported following the Preferred Report -
+ing Items for Systematic Reviews and Meta-Analyses 
+(PRISMA) statement for reporting systematic reviews 
+and meta-analyses [30]. A rapid review approach was 
+used, since the review was requested to be completed 
+by the National Collaborating Centre for Methods and 
+Tools’ Rapid Evidence Service within a specific timeline, 
+in order to inform an organizational change initiative at 
+a provincial public health organization in Canada [31]. 
+Given the nature of the research question, a mixed meth-
+ods rapid systematic review approach was taken, with 
+guidance from the Joanna Briggs Institute (JBI) Manual 
+for Evidence Synthesis [32].
+Information sources and search strategy
+The search was conducted on March 18, 2022. The fol -
+lowing databases were searched from 2012 onward: 
+Medline, Embase, Emcare, Global Health Database, 
+PsycINFO, Web of Science. Each database was searched 
+using combinations and variations of the terms “imple -
+ment*” , “knowledge broker*” , “transform*” , “organiza -
+tional culture” , “change management” , “evidence-based” , 
+“knowledge translation” , and “knowledge mobilization” . 
+Additionally, publications by key contributors to the 
+field were reviewed. The full search strategy is included 
+in Appendix 1.
+Studies were screened using DistillerSR software. Titles 
+and abstracts of retrieved studies were screened by a sin -
+gle reviewer. Full texts of included studies were screened 
+by a second reviewer and reviewed by a third. Screening 
+was not completed in duplicate, consistent with a rapid 
+review protocol [31]. To minimize the risk of bias, a sub -
+set of 100 retrieved articles were screened in duplicate at 
+the title and abstract stage to ensure consistency across 
+reviewers. Of this subset, there were four articles with 
+conflicting decisions, which were discussed amongst 
+screeners to clarify inclusion criteria.
+Eligibility criteria
+English-language, published primary studies with experi -
+mental or observational designs were eligible for inclu -
+sion. Review papers, such as literature and systematic 
+reviews, were excluded to ensure that details regarding 
+implementation of initiatives were captured without re-
+interpretation or generalization by review authors. Grey 
+literature was not included. Eligibility criteria are out -
+lined below in terms of a PICO (Population, Intervention, 
+Comparison, Outcome) structure [33].
+Population
+Studies conducted with public sector health-related ser -
+vice-delivery organizations were eligible for inclusion. 
+This included public health departments and authorities, 
+health care settings and social services. Studies focused 
+on departments or teams within an organization, or on 
+entire organizations, were also eligible for inclusion. 
+Studies conducted in private sectors or academic institu -
+tions were excluded to narrow the focus of the review.
+Intervention
+Interventions designed and implemented to shift teams, 
+departments, or organizations to EIDM in all decisions 
+were eligible for inclusion. These can include initiatives 
+where organizations establish roles or teams to drive 
+organizational change for EIDM, or efforts to build and 
+apply the knowledge and skill of staff for EIDM. These  
+are distinct from implementation strategies for evidence-
+informed interventions. Eligible interventions were applied 
+to a team, department, or organization to drive change 
+toward evidence use in decision making at all levels of 
+the organizations.
+<<<PAGE=4>>>
+Page 4 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+Comparator
+Studies that included any comparator or no comparator 
+were included, recognizing that literature was likely to 
+include case reports.
+Outcomes
+Outcomes measured either quantitatively or qualitatively 
+were considered. These included behaviour change, con -
+fidence and skills, patient-level data such as quality indi -
+cators, evidence of EIDM embedded in organizational 
+and decision-making processes, changes in organiza -
+tional culture, and changes to budget allocation. Studies 
+that reported primarily on implementation fidelity were 
+excluded, since studies of implementation fidelity focus 
+on whether an intervention is delivered as intended, 
+rather than drivers for organizational change.
+Setting
+Studies conducted in the 38 member countries of the 
+Organization for Economic Co-operation and Develop -
+ment (OECD) were included in this review to best align 
+with the Canadian context and to inform organizational 
+change efforts in public health within Canada [34].
+Quality assessment
+The methodological rigour of included studies was eval -
+uated using the JBI suite of critical appraisal tools [35]. 
+Ratings of low, moderate, or high quality were assigned 
+based on the critical appraisal results. Quality assessment 
+was completed by one reviewer and verified by a second. 
+Conflicts were resolved through discussion or by consult-
+ing a third reviewer.
+Data extraction
+Data extraction was completed by a single reviewer and 
+reviewed by a second. Data on the study design, set -
+ting, sector (e.g., public health, primary care, etc.), par -
+ticipants, intervention (e.g., description of learning 
+initiatives, implementation strategies, etc.), outcome 
+measures, and findings were extracted. To minimize the 
+risk of bias, a subset of three included articles underwent 
+data extraction in duplicate to ensure consistency across 
+reviewers. There was good agreement between duplicate 
+extraction, with variations in the format of extracted data 
+but consistency in content.
+Data analysis
+Quantitative and qualitative data were synthesized simul-
+taneously, using a convergent integrated approach [32]. 
+Quantitative data underwent narrative synthesis, where 
+findings that caused benefit were compared with those 
+that caused harm or no effect [36]. Vote counting based 
+on the direction of effect was used to determine whether 
+most studies found a positive or negative effect [36]. For 
+qualitative findings, studies were grouped according to 
+common strategies. Within these common strategies, 
+findings were reviewed for trends in reported facilitators 
+and barriers. These trends were deductively mapped to 
+the COM-B model for behaviour change [37].
+Due to the heterogeneity in study outcomes, the Grad -
+ing of Recommendations, Assessment, Development and 
+Evaluations (GRADE) [38] approach was not used for 
+this review. Overall certainty of evidence was determined 
+based on the risk of bias of included study designs and 
+study quality.
+Results
+Database searching retrieved 7067 records. After remov -
+ing duplicates, 4174 records were screened by title and 
+abstract, resulting in 1370 reports for full text review. Of 
+those 1370 records, 35 articles were included. Scanning 
+the publication lists of key authors retrieved 187 records, 
+of which eight were retrieved for full text review and two 
+were included, for a total of 37 articles included in this 
+review. See Fig. 1 for a PRISMA flow chart illustrating the 
+article search and selection process.
+Study characteristics
+The overall characteristics of included studies are sum -
+marized in Table  1. Of 37 included studies, most were 
+conducted in primary care settings (n = 16) and pub -
+lic health settings (n = 16), with some in social services 
+(n = 3), child and youth mental health (n = 1), and occu -
+pational health (n = 1). Most studies were conducted in 
+the USA (n = 17), followed by Canada (n = 12), Australia 
+(n = 5), and Europe (n = 3).
+Study designs included case reports (n = 18), single 
+group pre-/post-test studies (n = 10), qualitative studies 
+(n = 7), and randomized controlled trials (RCTs) (n = 2). 
+Both RCTs evaluated the implementation of organiza -
+tional EIDM.
+Studies reported quantitative (n = 11), qualitative 
+(n = 20), or both quantitative and qualitative results 
+(n = 6). For the studies that reported quantitative results, 
+measures included EIDM implementation, EIDM-related 
+beliefs and behaviours, organizational priorities for 
+EIDM, and patient care quality indicators. Quantitative 
+measures were heterogenous and did not allow meta-
+analysis. Qualitative findings were generated through 
+formal qualitative analysis (n = 19) or descriptive case 
+reports (n = 7). Most qualitative results included facilita -
+tors and barriers to implementation (n = 16).
+Study quality
+The critical appraisal checklist used to assess each study 
+is indicated in Table  1. Single group, pre-/post-test
+<<<PAGE=5>>>
+Page 5 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+studies were evaluated according to the JBI Checklist for 
+Quasi-experimental Studies [35].
+A lack of control groups contributed to the risk of bias. 
+Most included studies were rated Moderate or High qual-
+ity according to their respective quality assessment tools. 
+Full quality assessments for each article are included in 
+Appendix 2. Therefore, the overall methodological qual -
+ity for this body of literature was rated as Moderate.
+Strategies for implementing organization‑wide EIDM
+Due to the heterogeneity of study designs, interventions, 
+and outcomes, it was not possible to determine which 
+EIDM implementation strategies are more effective com -
+pared to others. Implementation strategies included the 
+establishment of Knowledge Broker-type roles, building 
+the EIDM capacity of staff, and research or academic 
+partnerships. These strategies are listed in Table 2.
+Evaluation of strategies implemented by studies in 
+this review was often qualitative and described facili -
+tators and barriers, rather than quantitatively meas -
+uring effectiveness. However, it is possible to explore 
+EIDM implementation strategies and factors that 
+appear to contribute to or inhibit success. The most 
+common strategy implemented in included stud -
+ies was the establishment of Knowledge Broker-type 
+roles [20, 41, 44, 47, 48, 51, 52, 54–57, 59, 60, 62–67, 
+69, 71, 72]. Studies described roles differently (e.g., 
+“Evidence-based Practice Facilitator” , “Evidence Facili -
+tator” , “EIDM Mentor”). These roles all served to sup -
+port EIDM across organizations through knowledge 
+sharing, evidence synthesis, implementation, and 
+other EIDM-related activities. In some studies, new 
+staff were hired to Knowledge Broker roles, or devel -
+oped among existing staff, while in others, Knowledge 
+Brokers were contracted from external organizations. 
+Knowledge Broker strategies were mostly imple -
+mented in parallel with other EIDM implementation 
+strategies, such as capacity building for staff, integrat -
+ing EIDM into decision-making processes and devel -
+opment of leadership to support EIDM. When these 
+strategies were evaluated quantitatively for organiza -
+tional capacity, culture and implementation of EIDM, 
+most studies found positive results, such as increased 
+scores for organizational climates supporting EIDM, 
+improved attitudes toward EIDM, or the integration 
+of EIDM into processes [44, 52, 54, 62, 66, 67, 71, 72], 
+although some studies found no change [55, 60] follow -
+ing implementation of Knowledge Broker roles. Quali -
+tatively, most studies described facilitators and barriers 
+to EIDM, either through formal qualitative analysis or 
+case report [14, 20, 39–43, 45, 47, 48, 52, 55, 57, 59–61, 
+64, 65, 68]. Facilitators included organizational culture 
+Fig. 1 PRISMA 2020 flow chart
+<<<PAGE=6>>>
+Page 6 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+Table 1 Included studies of organization-wide implementation of EIDM
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+Studies of organization-wide implementation of EIDM
+ Allen, 2018 [39] Case report, no com-
+parator
+State health depart-
+ment, Georgia, USA, 
+2013–2016
+Public health Program staff 
+across organization
+Program staff received 
+training for EIDM 
+that included lectures, 
+and small group 
+problem-solving 
+and discussion
+Qualitative: EIDM 
+facilitators and barri-
+ers (interviews)
+Facilitators for EIDM:
+-Leadership support
+-Consistent internal 
+messaging on EIDM
+-Close partnerships 
+with evaluation 
+teams
+-Requirement for evi-
+dence in proposals
+Barriers to EIDM:
+-Competing priorities
+-Limited budget 
+for staff
+-Political conflicts 
+in state and local 
+agendas
+High (Case report)
+ Allen, 2018 [40] Qualitative State health depart-
+ments, USA, 2016
+Public health Leaders and program 
+managers
+State health depart-
+ments to an inter-
+vention group 
+that received EIDM 
+training and support 
+(See Brownson, 2017)
+Qualitative: EIDM 
+facilitators and bar-
+riers (structured 
+interviews)
+Facilitators for EIDM:
+-Leadership support
+-Developing struc-
+tures and culture 
+incorporating evi-
+dence based public 
+health
+-Ongoing training
+-Building and main-
+taining partner-
+ships with external 
+partners
+Barriers to EIDM:
+-Funding/budget 
+cuts
+-Lack of time
+-Lack of political will/
+support
+-Staff turnover
+Moderate (Qualitative)
+<<<PAGE=7>>>
+Page 7 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Augustino, 2020 
+[41]
+Case report, no com-
+parator
+Military treatment 
+facilities, USA, 2018
+Primary care Nursing staff at 4 
+facilities
+An evidence-based 
+practice facilitator role 
+supported organ-
+ization-wide EIDM 
+teams through train-
+ing, mentoring, 
+and encouraging 
+EIDM
+Findings were 
+described in a narra-
+tive case report
+Facilitators for EIDM:
+-Incorporating 
+the evidence-based 
+practice facilitator 
+into existing practice
+-Involving evidence-
+based practice 
+facilitator in nursing 
+meetings and com-
+mittees
+-Aligning the evi-
+dence-based prac-
+tice facilitator’s work 
+with organizational 
+priorities
+Barriers to EIDM:
+-Staff turnover
+-Lack of standardized 
+evaluation of EIDM 
+use
+High (Case report)
+ Awan, 2015 [42] Case report, no com-
+parator
+Centre for Addiction 
+and Mental Health, 
+Toronto, Ontario, 
+Canada, 2013–2014
+Primary care Service providers, 
+researchers at organi-
+zation
+An integrated care 
+pathway, which relies 
+on EIDM, was imple-
+mented for patients 
+with concurrent major 
+depressive disorder 
+and alcohol depend-
+ence. Development 
+of the integrated care 
+pathway included 
+evidence reviews, 
+knowledge transla-
+tion, process reengi-
+neering and change 
+management
+Quantitative:
+-patient symp-
+tom assessment 
+and medication 
+titration (Penn 
+Alcohol Craving 
+Scale, Quick Inven-
+tory for Depressive 
+Symptoms scores 
+and Beck Depression 
+Inventory)
+Qualitative:
+-Facilitators and barri-
+ers (focus groups)
+Evaluation of patient 
+care found:
+-Lower program 
+dropout (78% to 46% 
+p < 0.05)
+-Reduction 
+in depressive symp-
+tom severity (p-value 
+not reported)
+-Reduction in heavy 
+drinking days (42% 
+to 23%, p < 0.04)
+Facilitators for EIDM:
+-Inclusion and front-
+line clinicians
+-Use of tools/tem-
+plates (e.g., process 
+maps, medication 
+algorithms)
+-Team meetings
+Barriers to EIDM:
+-Lack of knowledge 
+and skill for EIDM
+-Communica-
+tion with referring 
+providers
+Moderate (Case report)
+<<<PAGE=8>>>
+Page 8 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Bennett, 2016 [43] Case report, no com-
+parator
+Large urban hospital, 
+Australia, 18 months; 
+dates not specified
+Primary care Occupational thera-
+pists in hospital
+An EIDM capacity 
+building program 
+was implemented. The 
+program included:
+-Educational outreach 
+across organization
+-Teams working 
+on clinical case studies
+-Allocating time 
+for EIDM
+-Mentorship
+-Leadership support
+-Communication 
+regarding EIDM
+-Development 
+of EIDM processes 
+and resources
+-Funding for an EIDM 
+champion one day 
+per week
+-Setting goals and tar-
+gets for EIDM
+-EIDM reporting 
+and evaluation
+Qualitative: EIDM 
+use, perceptions 
+of organizational 
+culture toward EIDM, 
+EIDM facilitators 
+and barriers (focus 
+groups with clini-
+cians and observa-
+tions by the research 
+team)
+Facilitators for EIDM:
+-EIDM integration 
+into roles
+-Buy-in to EIDM 
+impact
+-Developing goals 
+for EIDM
+-Access to mentors
+-Supportive leader-
+ship
+-Breaking 
+down EIDM 
+into manageable 
+tasks
+-Journal club to dis-
+cuss EIDM processes
+Challenges to EIDM:
+-Lack of EIDM knowl-
+edge and skill
+-Perceived lack 
+of capability
+-Perceived lack 
+of time and training
+-Competing priorities
+-Challenges 
+with staff rotating 
+between clinical 
+teams
+Moderate (Case report)
+<<<PAGE=9>>>
+Page 9 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Breckenridge-
+Sproat, 2015 [44]
+Single group pre-
+post study
+Military hospitals, 
+Washington, District 
+of Columbia, USA, 
+18 months; dates 
+not specified
+Primary care Nurses across hos-
+pitals
+Unit-level mentors 
+facilitated an edu-
+cational mentoring 
+program for EIDM. The 
+intervention involved 
+an organizational 
+assessment, identifica-
+tion of facilitators 
+and barriers, training 
+EIDM mentors 
+and EIDM implemen-
+tation
+Librarian support, 
+evidence-based prac-
+tice education mate-
+rial, training modules 
+were provided 
+and supervised study 
+team evidence-based 
+practice projects were 
+completed
+Quantitative:
+-EIDM beliefs 
+(Evidence-Based 
+Practice Beliefs)
+-Organizational readi-
+ness and barriers 
+to EIDM (Organi-
+zational Readiness 
+for System-wide Inte-
+gration of Evidence-
+Based Practice)
+-EIDM implementa-
+tion (Evidence-Based 
+Practice Implementa-
+tion Scales)
+Following the inter-
+vention,
+-Evidence based 
+practice belief scores 
+increased (p = 0.02)
+-Organizational 
+readiness for EIDM 
+scores increased
+(p < 0.01)
+Moderate (Quasi-
+experimental study)
+ Brodowski, 2018 
+[45]
+Case report, no com-
+parator
+Social service 
+agencies, Kansas 
+and Nebraska, USA, 
+2005–2011
+Social work Social service provid-
+ing organizations
+A workgroup 
+of state-led agen-
+cies and federal 
+partners developed 
+a framework for infra-
+structure for EIDM, 
+including federal 
+policy for investing 
+in evidence-based 
+programs and quality 
+improvement. Techni-
+cal assistance was pro-
+vided to community-
+based programs 
+through a third party
+Quantitative: Use 
+of EIDM (annual 
+reported funding 
+for evidence-based 
+programs)
+Qualitative: EIDM 
+facilitators (inter-
+views)
+The percentage 
+of funded programs 
+that were evidence-
+based increased 
+from 29 to 63%
+Facilitators for EIDM:
+-Strong infrastructure 
+(outreach, training, 
+fidelity assessment, 
+supervision, manage-
+ment of the program
+-Availability of Tech-
+nical Assistance:
+-Considera-
+tion of context 
+when using EIDM 
+to choose programs
+-Active engagement 
+and collaboration 
+with key stakehold-
+ers at all levels
+High (Case report)
+<<<PAGE=10>>>
+Page 10 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Brownson, 2017 [46] RCT, control group State health depart-
+ments, USA,
+March 2014 
+and March 2015
+Public health Program staff 
+across organization
+State health depart-
+ments randomized to:
+-Intervention group 
+that received EIDM 
+training workshop, 
+and follow-up 
+calls for technical 
+assistance and sup-
+plemental activity 
+planning and updates 
+support
+-Control group 
+that received links 
+to electronic resources
+Quantitative: per-
+ceived organizational 
+skills and culture 
+for EIDM (survey)
+Following the inter-
+vention,
+-Perceived skills gaps 
+decreased (p = 0.02)
+-Perceived super-
+visory expectation 
+for use of EIDM 
+increased (p = 0.006)
+-Use of evidence 
+increased (p = 0.008)
+Moderate (RCT)
+ Clark, 2022 [20] Mixed methods, 
+no comparator
+Public health units, 
+Ontario, Canada, 
+2015–2018
+Public health 4–8 Staff members 
+from each of 10 
+public health units
+Senior leadership 
+set organizational 
+goals for EIDM dur-
+ing a facilitated focus 
+group using the Is 
+Research Working 
+for you organizational 
+assessment
+Knowledge transla-
+tion specialist 
+mentors delivered 
+a Knowledge Broker 
+mentoring program, 
+including workshops, 
+webinars, consulta-
+tions and completion 
+of a rapid review
+Quantitative:
+-Attainment 
+of organizational 
+goals for EIDM 
+(semi-structured 
+interviews)
+Qualitative:
+-EIDM facilita-
+tors and barriers 
+(semi-structured 
+interviews)
+Facilitators for EIDM:
+-Integration of EIDM 
+into process 
+through structures, 
+processes, or tem-
+plates
+-New or re-defined 
+staff positions 
+for EIDM
+-Leadership support
+-Culture of expecta-
+tions of EIDM
+-Acceptance 
+of time to learning 
+and do EIDM
+Barriers to EIDM:
+-Lack of managers’ 
+EIDM knowledge
+-Lack of protected 
+time
+-Lack of staff buy-in
+-Lack of direction 
+or plan for partici-
+pants
+High (Qualitative)
+<<<PAGE=11>>>
+Page 11 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Dobbins, 2019 [47] Single group pre-
+post study
+3 Public health units, 
+Ontario, Canada, 
+2010–2012
+Public health All staff at organiza-
+tion, senior leader-
+ship
+Knowledge 
+Brokers deployed 
+to public health 
+units supported 
+individual capacity 
+and organizational 
+culture for EIDM. 
+Knowledge brokers 
+held workshops, 
+mentoring, meetings 
+with senior manage-
+ment and developed 
+policies and processes 
+for EIDM
+Quantitative:
+-Knowledge, skills 
+and behavioral 
+assessment (survey)
+Qualitative:
+-EIDM facilitators 
+and barriers (analysis 
+of knowledge bro-
+kers journals)
+Facilitators for EIDM:
+-Strong leadership 
+support
+-Systematic integra-
+tion of research evi-
+dence into decision-
+making processes
+-Access to librarian 
+support
+-Committed 
+financial and human 
+resources
+-Staff interest 
+and enthusiasm
+Moderate (Quasi-
+experimental study)
+ Elliott, 2021 [48] Case report, no com-
+parator
+Canadians Seeking 
+Solutions and Inno-
+vations to Overcome 
+Chronic Kidney 
+Disease (Can-SOLVE 
+CKD), Canada, dates 
+not specified
+Primary care Clinicians, nurses An integrated KT 
+network (Can-SOLVE 
+CKD) was established, 
+including:
+-Central knowledge 
+translation commit-
+tee available for con-
+sultation
+-Support from exter-
+nal partners
+-KT planning tem-
+plates
+-KT champions
+-KT virtual community 
+of practice
+-KT online learning 
+module
+Findings were 
+described in a narra-
+tive case report
+Facilitators for EIDM:
+-Diverse knowledge 
+base and members’ 
+commitment to KT
+-Inclusion of patient’s 
+perspectives
+Barriers to EIDM:
+-Generalizability 
+to smaller project 
+teams
+-Lack of KT skills 
+among research 
+and patient partners
+Moderate (Case report)
+<<<PAGE=12>>>
+Page 12 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Fernández, 2014 
+[49]
+Case report, no com-
+parator
+The Cancer Preven-
+tion and Control 
+Research Network, 
+USA, dates not speci-
+fied
+Public health National network Workgroups 
+across the network 
+facilitated activities, 
+including:
+-building the capacity 
+of service providers 
+for EIDM
+-developing technical 
+assistance for KT
+-developing research 
+partnerships
+-investigating imple-
+mentation processes 
+from other studies
+Findings were 
+described in a narra-
+tive case report
+Successful EIDM 
+activities were 
+described, includ-
+ing the following. 
+Network mem-
+bers translated 
+and adapted 
+the evidence-based 
+Stanford Chronic 
+Disease Self-Man-
+agement program 
+which was well 
+attended and highly 
+rated by participants. 
+Cancer screening 
+programs were 
+adapted to the local 
+context, increasing 
+uptake among resi-
+dents. Several 
+partner universities 
+have implemented 
+workplace health 
+promotion interven-
+tions
+High (Case report)
+ Flaherty, 2021 [50] Cluster RCT, control 
+group
+Outpatient child 
+mental health clinics, 
+New York, USA, dates 
+not specified
+Primary care 52 Child mental 
+health care providers
+4Rs and 2Ss Multiple 
+Family Group inter-
+vention:
+-Providers 
+received training 
+and bimonthly super-
+vision
+-Clinic Implementa-
+tion Teams operated 
+at agencies rand-
+omized to the inter-
+vention arm
+Quantitative: 
+Frequency of use 
+of new techniques 
+(Training Exposure 
+and Utilization Scale), 
+and organizational 
+climate (Organiza-
+tional Readiness 
+for Change Scale)
+Increased use 
+of evidence-based 
+interventions 
+was associated 
+with providers’ belief 
+that organizational 
+climate supported 
+use of evidence-
+based interventions
+(b =  − 0.33, SE = 0.11, 
+p < 0.01)
+Moderate (RCT)
+<<<PAGE=13>>>
+Page 13 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Gallagher-Ford, 
+2014 [51]
+Case report, no com-
+parator
+Large, complex 
+healthcare system, 
+USA, dates not speci-
+fied
+Primary care Departments 
+across an organiza-
+tion
+A nurse administrator 
+promoted and sus-
+tained a culture of evi-
+dence-based practice 
+through the following 
+activities:
+-Organizational 
+assessments
+-Developing clinical 
+nurse specialists 
+as EIDM champions
+-Mentoring individuals 
+through the change 
+process
+Findings were 
+described in a narra-
+tive case report
+Clinical nurse 
+specialists have 
+championed EIDM 
+across the organiza-
+tions. More than 13 
+projects for EIDM 
+were initiated 
+by clinical nurse 
+specialists
+Low (Case report)
+ Gifford, 2014 [52] Qualitative Large community 
+healthcare organiza-
+tion delivering home 
+and community 
+healthcare, Ontario, 
+Canada, 20-weeks; 
+dates not specified
+Public health Management 
+and clinical leaders 
+from 4 units
+Strategies to promote 
+EIDM to nurse manag-
+ers and clinical leaders 
+in home healthcare 
+were implemented, 
+including,
+-Workshop on EIDM
+-Mentorship support 
+from experienced 
+“evidence facilitators”
+-Access to university 
+library services
+-Information-sharing 
+activities
+-Encouragement 
+and recognition
+Quantitative: EIDM 
+use (Is Research 
+Working for You? 
+A Self-assessment 
+Tool and Discussion 
+Guide for Health 
+Services Manage-
+ment and Policy 
+Organizations)
+Qualitative: Useful-
+ness of interven-
+tion, EIDM barriers 
+and facilitators 
+(semi structured 
+interviews)
+Following the inter-
+vention, participants 
+reported:
+-More resources 
+to conduct research
+-Staff contributions 
+to EIDM discussions
+-More information 
+about how evidence 
+influenced decisions 
+made in the organi-
+zation (all p < 0.05)
+Facilitators for EIDM:
+-Ongoing education
+-Linking staff to EIDM 
+experts
+-Social networking 
+across organization
+-Recognition 
+for EIDM work
+-Audit and feedback
+Barriers to EIDM:
+-Lack of time
+-Lack of knowledge, 
+skills, and confidence
+-Conflicting priorities 
+within the organiza-
+tion
+-Staff shortages
+High (Qualitative)
+<<<PAGE=14>>>
+Page 14 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Haynes, 2020 [53] Case report, no com-
+parator
+Australian Prevention 
+Partnership Centre, 
+Australia, 5 years; 
+dates not specified
+Public health Organization-wide, 
+in partnership 
+with research institu-
+tions
+Six components 
+for cross-sector col-
+laborative partner-
+ships for EIDM:
+1. Partners involved 
+at all stages
+2. Communication 
+efforts, e.g., forums, 
+narrative reports
+3. Skill development 
+through workshops, 
+webinars with experts
+4. Cross-sector project 
+teams
+5. High-quality evi-
+dence syntheses
+6. Ongoing surveys 
+and opportunities 
+for feedback
+Quantitative:
+-Perceptions of lead-
+ership,
+governance, resource
+allocation, collabora-
+tion and
+engagement (Part-
+nership survey)
+Qualitative:
+-Implementa-
+tion and impact 
+of projects (project 
+evaluations)
+-Experiences 
+and perceptions 
+(semi-structured 
+interviews)
+Partners reported:
+-Translation 
+of research 
+into policy was built 
+into processes
+-Many projects 
+involved partners 
+from different sectors
+-Communica-
+tion across sec-
+tors and teams 
+was adequate
+-Capacity building 
+activities were valu-
+able
+-Synergies were 
+identified across pro-
+jects
+Moderate (Case report)
+ Hitch, 2019 [54] Case report, no com-
+parator
+Public mental health 
+service, major 
+city in Australia, 
+2014–2016
+Occupational 
+therapy
+Occupational 
+therapists 
+within the organiza-
+tion
+Leadership role in KT 
+established to sup-
+port EIDM, complete 
+research projects, 
+build research 
+capacity and culture, 
+and create a database 
+of research activity
+Quantitative:
+-Attitudes 
+towards EIDM (Evi-
+dence Based Practice 
+Attitude Scale)
+-EIDM use (Evidence 
+Based Practice Imple-
+mentation
+Scale)
+-Staff perceptions 
+of the Lead Research 
+Occupational thera-
+pist role (survey)
+After implementa-
+tion of the KT role,
+-number of qual-
+ity assurance 
+and research activi-
+ties increased (Cliffs 
+Delta = 0.44; 95% 
+CI = 0.22, 0.62)
+-no significant 
+change in attitudes 
+towards EIDM
+-staff viewed KT role 
+positively
+-staff engaged in KT 
+activities
+-greater diffu-
+sion of evidence 
+across programs
+Moderate (Case report)
+<<<PAGE=15>>>
+Page 15 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Hooge, 2022 [55] Single group pre-
+post study
+Large academic 
+health system, south-
+east region, USA, 
+12-week program; 
+dates not specified
+Primary care 11 Advanced prac-
+tice registered nurses
+Virtual mentoring 
+program delivered 
+via Microsoft Teams 
+platform included 
+synchronous training 
+sessions, podcasts, 
+blog and video tutori-
+als, and additional 
+research articles 
+and educational 
+material
+Quantitative:
+-Knowledge and skill 
+for EIDM (Evidence-
+based Practice Beliefs 
+scale, Evidence-
+based Practice Imple-
+mentation scale)
+-Organizational 
+readiness for EIDM 
+(Organizational 
+Culture and Readi-
+ness for System-
+wide Integration 
+of Evidence-based 
+Practice scale)
+Qualitative
+-EIDM facilitators 
+and barriers (open-
+ended survey)
+Compared to base-
+line, evidence-based 
+practice beliefs 
+scores increased 
+(effect size = 0.71, 
+p = 0.018). No 
+significant change 
+in evidence-
+based practice 
+implementation 
+and organizational 
+culture and readi-
+ness for system-wide 
+implementation 
+of evidence-based 
+practice scale scores
+Barriers to EIDM:
+-Competing priorities
+-Time management
+High (Quasi-experi-
+mental study)
+ Humphries, 2013 
+[56]
+Case report, no com-
+parator
+Regina Qu’Appelle 
+Health Region 
+and Northern Health, 
+Alberta and British 
+Columbia, Canada,
+2008–2011
+Public health Management 
+and staff at organiza-
+tions
+The Value Add 
+through Learning 
+and Use of Evidence 
+(VALUE) initiative:
+-Learning projects 
+(to practice research 
+literacy and skills)
+-Liaison roles
+-Research support
+-Protected time 
+for EIDM activities
+-Inter-regional col-
+laboration
+Findings were 
+described in a narra-
+tive case report
+Lessons learned 
+included:
+-Staff turnover 
+was a challenge
+-Potential benefit 
+to promoting evi-
+dence use in staff 
+orientation
+-Evidence use 
+implementation 
+needs to be directed 
+at multiple levels 
+within the organiza-
+tion
+-Strategies 
+with ongoing 
+real-time research 
+expertise and sup-
+port were valued 
+by participants
+High (Case report)
+<<<PAGE=16>>>
+Page 16 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Irwin, 2013 [57] Case report, no com-
+parator
+Various healthcare 
+settings, USA, 
+2009–2010
+Primary care Nursing teams Institute for Evidence-
+Based Practice 
+Change program 
+was provided 
+to nurses. This 
+program included 
+a 2.5-day workshop 
+on EIDM, literature 
+searching, and devel-
+opment of an imple-
+mentation plan, 
+project management, 
+and outcomes meas-
+urement. The program 
+also provided 
+an experience mentor 
+for EIDM support 
+for 12-months
+Qualitative:
+-EIDM facilitators 
+and barriers (log 
+entries from the team 
+champion)
+Facilitators for EIDM:
+-Adequate time
+-Organizational 
+support
+-Engagement 
+and teamwork
+-Communication 
+and planning
+-Maintaining focus 
+on EIDM goals
+Barriers to EIDM
+-Competing priorities
+-Data collection 
+and measurement 
+challenges
+-Staff turnover
+Low (Case report)
+ Kaplan, 2014 [58] Case report, no com-
+parator
+Magnet-designated 
+hospital, USA, 
+November 1, 2012 
+to May 10, 2013
+Primary healthcare Nurses across organi-
+zation
+All nurses received 
+an electronic newslet-
+ter on EIDM every 
+2 weeks. A cohort 
+of direct care nurses 
+participated in a series 
+of EIDM workshop 
+to develop, imple-
+ment, and dissemi-
+nate an EIDM project
+Quantitative: 
+Organizational 
+readiness for integra-
+tion of EIDM (The 
+Organizational Cul-
+ture and Readiness 
+for System-Wide Inte-
+gration of Evidence-
+Based Practice Scale), 
+EIDM knowledge 
+and skill (Evidence-
+Based Practice 
+Beliefs Scale), EIDM 
+implementation 
+(The Evidence-Based 
+Practice implementa-
+tion Scale)
+Following the inter-
+vention, perceptions 
+of organizational 
+increased. Confi-
+dence in imple-
+menting EIDM 
+was not associated 
+with EIDM use. 
+Higher education 
+levels was posi-
+tively associated 
+with nurses’ EIDM use
+High (Case report)
+<<<PAGE=17>>>
+Page 17 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Kimber, 2012 [59] Qualitative Kinark Child 
+and Family Services, 
+Ontario, Canada, 
+2006–2010
+Child and youth 
+mental health
+Staff across organi-
+zation
+Multiple EIDM inter-
+ventions were imple-
+mented, including:
+-Leadership support
+-Appointing working 
+group leaders
+-Dedicated time 
+for EIDM
+Qualitative:
+-EIDM facilitators 
+and barriers (survey)
+Facilitators for EIDM
+-Staff understanding 
+the clinical trans-
+formation project 
+and stages
+-Effective leadership
+-Change culture 
+inclusive of staff 
+and management, 
+and various disci-
+plines
+-Cross-program col-
+laboration
+-Protected time
+-Evaluation to dem-
+onstrate benefits 
+of change
+Challenges to EIDM:
+-Underutilization 
+of internal staff
+-Lack of preparation 
+for change
+Moderate (Qualitative)
+ Mackay, 2019 [60] Single group pre-
+post study
+Haemodialysis unit 
+of a hospital, Queens-
+land, Australia, 
+2016–2018
+Primary care All staff at organiza-
+tion
+A new nutrition ser-
+vice was established 
+to translate nutrition 
+guidelines into prac-
+tice to support EIDM 
+through:
+-Professional develop-
+ment
+-Evidence-informed 
+recommendations
+-Multidisciplinary staff 
+involvement
+-Integrated database 
+prompts
+Quantitative: EIDM 
+use, malnutrition 
+prevalence (database 
+audit, Patient-
+Generated Subjective 
+Global Assessment 
+tool)
+Qualitative: 
+EIDM facilitators 
+and barriers (clinic 
+observation, team 
+discussion)
+There was no sig-
+nificant change 
+in malnutrition 
+categories; most 
+patients (72–80%) 
+began the program 
+well-nourished
+Facilitators for EIDM:
+-Establishing 
+processes for best 
+practices
+-Buy-in from staff 
+and management-in 
+from staff and man-
+agement
+-Regular monitoring 
+and feedback
+Barriers to EIDM:
+-Limited prior knowl-
+edge
+-Limited time
+Moderate (Quasi-
+experimental study)
+<<<PAGE=18>>>
+Page 18 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Martin-Fernandez, 
+2021 [61]
+Case report, no com-
+parator
+Regional health 
+agencies, France, 
+2017–2019
+Public health Health professionals 
+and decision-makers 
+across regional 
+health agencies
+The Transfert de Con-
+naissances en REGion 
+(TC-REG) knowledge 
+translation plan:
+-Improved access 
+to scientific evidence
+-EIDM skill develop-
+ment through train-
+ing, journal clubs 
+and tutoring
+-Organizational 
+culture development 
+through collaborative 
+workshops, processes, 
+and incentives
+Qualitative:
+-EIDM facilitators 
+and barriers (unstruc-
+tured interviews)
+-Use of EIDM 
+(semi-structured 
+interviews)
+Facilitators for EIDM:
+-Understanding 
+of scientific evidence
+-Confidence in using 
+scientific evidence
+-Ability to search 
+and find scientific 
+evidence
+-Motivation to use 
+scientific evidence
+-Belief that scientific 
+evidence can help 
+to improve practice, 
+develop new frame-
+works, advocate 
+for their professional 
+activity, and create 
+new partnerships
+Moderate (Case report)
+<<<PAGE=19>>>
+Page 19 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Melnyk, 2017 [62] Single group pre-
+post study
+Washington Hospital 
+Healthcare System, 
+USA, 12 months; 
+dates not specified
+Primary care Service provid-
+ers, administrators 
+within organizations
+EIDM mentors 
+were developed 
+within the healthcare 
+system, through inten-
+sive EIDM workshops. 
+Teams of partici-
+pants implemented 
+and evaluated 
+an EIDM change 
+project within their 
+hospital
+Quantitative: 
+Knowledge and skill 
+for EIDM (evidence-
+based practice beliefs 
+scale, evidence-
+based practice 
+implementation 
+scale), organizational 
+readiness for EIDM 
+(organizational 
+culture and readi-
+ness for system-wide 
+implementation 
+of evidence-based 
+practice scale), 
+patient outcomes 
+(aggregate data 
+from the hospital’s 
+medical records)
+Following implemen-
+tation,
+-Organizational 
+knowledge and skill 
+for EIDM organiza-
+tion increased (effect 
+size = 0.62;
+p = 0.00)
+-Organizational 
+implementation 
+of EIDM
+increased (effect 
+size = 2.3; p = 0.00)
+-Organizational 
+culture and readiness 
+for EBP increased 
+significantly
+from baseline 
+(M = 80.9; SD = 90.8) 
+to follow-up 
+(M = 90.8; SD = 14.7; 
+t = 3.9; p = 0.00; effect 
+size = 0.70)
+The following trends 
+were seen in patient 
+outcomes,
+-Reduction in ventila-
+tor days
+-Decreased pressure 
+ulcer rate
+-Reduced hospital 
+readmissions for con-
+gestive health failure
+-Increase in patient 
+reported quality 
+of care
+-Reduced use 
+of formula as a sup-
+plement
+-Decreased wait time 
+for pain medica-
+tion and decreased 
+length of stay 
+in emergency room
+Moderate (Quasi-
+experimental study)
+<<<PAGE=20>>>
+Page 20 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Miro, 2014 [63] Single group pre-
+post study
+Fraser Health, Island 
+Health and Vancou-
+ver Coastal Health, 
+British Columbia, 
+Canada, 2010—2012
+Public health Organization Regional health 
+authorities were 
+provided an expert 
+consultant to foster 
+EIDM in land use 
+and transportation 
+plans and policies. 
+The expert worked 
+with staff to develop 
+and facilitate 
+the implementa-
+tion of the work 
+plans, by conducting 
+a situation assess-
+ment, developing 
+and implementing 
+capacity-building plan
+Quantitative: 
+Knowledge 
+and skill for land 
+use and transporta-
+tion plans/policies 
+(survey)
+Qualitative: 
+Activities completed 
+at the health units 
+(interviews)
+Following the inter-
+vention, staff 
+reported:
+-Increased knowl-
+edge and skills
+-Increased awareness 
+of other organiza-
+tions
+Facilitators for EIDM
+-New relationships 
+with colleagues 
+in other health 
+authorities, govern-
+ments and sectors
+-Increased opportu-
+nities for collabora-
+tion
+-Collaboration 
+between health 
+authorities and local 
+governments
+-New insights 
+on partnership work
+Barriers to EIDM
+-Lack of time 
+and resources
+-Roles and partner-
+ships not clearly 
+defined
+-Lack of leadership 
+support and integra-
+tion across the 
+organization
+High (Quasi-experi-
+mental study)
+<<<PAGE=21>>>
+Page 21 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Parke, 2015 [64] Case report, no com-
+parator
+Island Health 
+and the University 
+of Alberta, British 
+Columbia, Canada,
+2012–2014
+Primary care Whole organization Scholar-in-residence 
+roles was estab-
+lished to integrate 
+practice, educa-
+tion, and research 
+through collaboration 
+between a health 
+region and a uni-
+versity. Activities 
+included:
+-Unit-based research 
+teams that conducted 
+literature reviews, 
+literature appraisal
+-Workshops on writ-
+ing for publication, 
+research methods 
+skills
+-Funded research 
+project proposal 
+writing, ethics applica-
+tions, data collection 
+and analysis
+-Publications 
+and presentations
+-Quality improvement 
+through collaboration 
+with community, hos-
+pitals and university
+Findings were 
+described in a narra-
+tive case report
+Barriers to EIDM:
+-Cultural differences 
+between the health-
+care and university 
+system
+-Establishing 
+protected time 
+for research 
+in the health organi-
+zation
+-Building relationship 
+between the scholar 
+and hospital staff
+Moderate (Case report)
+<<<PAGE=22>>>
+Page 22 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Peirson, 2012 [14] Qualitative Peel Public Health, 
+Ontario, Canada, 
+September 2008 
+to February 2010
+Public health All staff at organiza-
+tion, including lead-
+ership
+Multiple EIDM inter-
+ventions were imple-
+mented, including:
+-Hiring new leader-
+ship supportive 
+of EIDM
+-Strategic organiza-
+tional plan for EIDM
+-Development of staff 
+knowledge and skills
+Qualitative: EIDM 
+facilitators (semi-
+structured interviews 
+and focus groups, 
+review of docu-
+ments)
+Facilitators for EIDM:
+-Senior leadership 
+driving EIDM initia-
+tives
+-Organizational 
+structures (e.g., jour-
+nal clubs, workshops, 
+library services)
+-Establishing EIDM 
+specialist roles, 
+training staff in EIDM 
+and encouraging 
+knowledge sharing 
+with co-workers
+-Supportive organi-
+zational culture
+-Accessible knowl-
+edge and shar-
+ing knowledge 
+across the organiza-
+tion
+-Communication 
+around EIDM and its 
+priority to the organi-
+zation
+High (Qualitative)
+<<<PAGE=23>>>
+Page 23 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Plath, 2013 [65] Qualitative Non-governmental 
+social service organi-
+zation, Australia, 
+dates not specified
+Social work Staff across organi-
+zation
+Strategies to promote 
+EIDM were imple-
+mented, including:
+-Leadership commit-
+ment to EIDM
+-Staff champions 
+for EIDM
+-Establishment 
+of EIDM “communities 
+of practice” teams
+Qualitative:
+-EIDM facilitators 
+and barriers and facil-
+itators (interviews 
+and focus groups)
+Facilitators for EIDM:
+-Dedicated staff roles 
+for research and KT
+-Supportive leader-
+ship
+-Sufficient time, train-
+ing and resources 
+for EIDM
+-Audit and feedback 
+of practices
+-Building frontline 
+staff skills in EIDM
+-EIDM “communities 
+of practice”
+Challenges to EIDM:
+-Competing priorities
+-Lack of knowledge 
+and skills
+-Culture of respond-
+ing to crises
+Moderate (Qualitative)
+ Roberts, 2020 [66] Single group pre-
+post study
+Tennessee Depart-
+ment of Health, 
+Tennessee, USA, 
+2012–2018
+Public health Departments, teams, 
+senior leadership 
+across organization
+Volunteers were 
+trained as “Baldrige 
+examiners” , a similar 
+role to knowledge 
+broker. These vol-
+unteers supported 
+teams at the local 
+health departments 
+evaluate and improve 
+programming
+Quantitative:
+-Employee satisfac-
+tion (survey)
+-Adoption of new 
+processes (training 
+records)
+-Integration of new 
+programs (program 
+process reports)
+Authors report 
+diffusion of skills 
+across the local 
+health departments. 
+Department staff 
+reported satisfac-
+tion with their jobs 
+at rates higher 
+than national aver-
+ages
+Moderate (Quasi-
+experimental study)
+<<<PAGE=24>>>
+Page 24 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Traynor, 2014 [67] RCT with control 
+group and case 
+report with no com-
+parator
+Public health units, 
+Ontario, Canada, RCT 
+2003–2007 and case 
+report 2009–2013
+Public health Organization Two studies imple-
+mented Knowl-
+edge Brokers who 
+conducted initial 
+and ongoing needs 
+assessments for EIDM, 
+knowledge manage-
+ment and internal net-
+work development
+Quantitative: social 
+network data, EIDM 
+skills, knowledge 
+and behavior (survey)
+Qualitative: Knowl-
+edge, attitudes 
+and behaviours 
+for EIDM (interviews, 
+journal analysis)
+Knowledge broker-
+ing intervention 
+was reported 
+to result in increased 
+use of EIDM. 
+Tailoring knowledge 
+broker approaches 
+to the organizational 
+context was most 
+effective. Knowledge 
+brokers were most 
+effective if they were 
+experts in research 
+methodology 
+and public health, 
+as well as
+being approachable 
+and patient
+High (Qualitative)
+ Van der Zwet, 2020 
+[68]
+Case report, no com-
+parator
+Social work Organiza-
+tion, Netherlands, 
+2013–2015
+Social work Research and devel-
+opment team
+Research and devel-
+opment department 
+and long-term collab-
+oration with a univer-
+sity were established 
+to support EIDM
+Qualitative:
+-EIDM facilitators 
+and barriers
+(semi-structured 
+interviews)
+Facilitators for EIDM:
+-Leadership commit-
+ment to research
+-Qualified staff 
+in EIDM support roles
+-Research partner-
+ships
+-Training in EIDM
+-Targeted recruit-
+ment of staff 
+with diverse educa-
+tional backgrounds
+Barriers to EIDM:
+-Negative attitudes 
+towards EIDM
+-Preference for expe-
+riential vs. research 
+knowledge
+-Culture of crisis-
+driven practice
+-Workload, time 
+management, com-
+peting priorities
+High (Case report)
+<<<PAGE=25>>>
+Page 25 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Ward, 2012 [13] Case report, no com-
+parator
+Peel Public Health, 
+Ontario, Canada, 
+2010–11 (Year 4 
+of a 10-year initiative)
+Public health All staff at organi-
+zation, including 
+leadership
+Key elements 
+of the EIDM strategic 
+approach included:
+-Structured process 
+for research review
+-Library reference 
+service
+-Staff development 
+in EIDM knowledge 
+and skills
+-Dedicated staff time 
+for EIDM
+-Active engagement 
+with the research 
+community
+-Accountability 
+for EIDM at all levels 
+of the organization
+Findings were 
+described in a narra-
+tive case report
+After 4 years 
+of implementation, 
+there was system-
+atic and transpar-
+ent application 
+of research to more 
+than 15 program 
+decisions. EIDM 
+was embedded 
+as a cultural norm 
+within the organiza-
+tion
+Key lessons identified 
+included:
+-Identify a senior, 
+influential leader
+-Commit to a multi-
+year strategy
+-Be realistic 
+about the infrastruc-
+ture needed
+-Staff support for skill 
+development
+-Make senior staff 
+accountable for pro-
+gress
+-Partner with leading 
+researchers
+-Invest resources 
+in change manage-
+ment
+-Measure progress 
+to communicate 
+successes to staff
+Moderate (Case report)
+<<<PAGE=26>>>
+Page 26 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Waterman, 2015 
+[69]
+Qualitative The Greater Man-
+chester Collabora-
+tion for Leadership 
+in Applied Health 
+Research and Care, 
+Manchester, United 
+Kingdom; dates 
+not specified
+Public health Organization KT Associates 
+facilitated the imple-
+mentation of EIDM. 
+KT Associates joined 
+teams responsible 
+for implementing 
+EIDM along with the 
+clinical lead, academic 
+lead and program 
+manager
+Qualitative:
+-Evaluation of KT 
+Associates’ role 
+and impact (focus 
+group and inter-
+views)
+KT Associates 
+contributed to 4 key 
+stages:
+-Choosing 
+an evidence-based 
+intervention (col-
+lecting information, 
+bringing stakehold-
+ers together, identify 
+context, build 
+up network)
+-Planning 
+the evidence-based 
+intervention (collect-
+ing evidence, testing 
+the intervention, 
+sharing info, expand-
+ing networks, stake-
+holder meetings)
+-Co-ordinating 
+and implementing 
+the evidence-based 
+intervention recruit 
+people and build 
+relationships, indi-
+vidualized support, 
+communication, 
+understanding 
+context)
+-Evaluating 
+evidence-based 
+intervention (data 
+collection/report, 
+patient and staff 
+experiences, celebra-
+tory events, poster/
+presentations)
+High (Case report)
+<<<PAGE=27>>>
+Page 27 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Williams, 2020 [70] Single group pre-
+post study
+Outpatient children’s 
+mental health clinics, 
+Philadelphia, USA, 
+2013–2017
+Primary care Senior leadership 
+across agencies
+Development 
+of organizational 
+leadership and cli-
+mate for EIDM 
+through training, 
+consultation and tech-
+nical assistance
+Quantitative:
+-EIDM use 
+(Cognitive-behavioral 
+therapy subscale
+of the Therapy 
+Procedures Checklist-
+Family Revised)
+-Leadership for EIDM 
+(Implementation 
+Leadership Scale)
+-Organizations’ 
+climates for EIDM 
+(Implementation 
+Climate Scale)
+-Perceptions 
+of leader’s transfor-
+mational leadership 
+(Multifactor Leader-
+ship Questionnaire)
+-Attitudes 
+toward EIDM (Evi-
+dence-based Practice 
+Attitudes Scale)
+Organizational 
+climates supportive 
+of EIDM were associ-
+ated with:
+-Strong leadership 
+for EIDM (d = 0.92, 
+p = 0.017)
+-Increased use 
+of EIDM (d = 0.55, 
+p = 0.007)
+There was no asso-
+ciation between cli-
+nicians’ attitudes 
+towards EIDM 
+and their use of EIDM
+High (Quasi-experi-
+mental study)
+ Williams, 2019 [71] Single group pre-
+post study
+Metabolic specialist 
+centres, Australia 
+and New Zealand, 
+2015–2017
+Primary care Metabolic dietetic 
+service within organi-
+zation
+The metabolic dietetic 
+service established:
+-Electronic referral 
+alert
+-Metabolic sick day 
+nutrition plans avail-
+able to all clinical staff
+-Metabolic diet codes 
+and specialised 
+formula recipes
+Quantitative: Admis-
+sions for patients 
+with inborn errors 
+of metabolism (chart 
+audit)
+There was a reduc-
+tion in total admis-
+sions of patients 
+with inborn errors 
+of metabolism (36 vs. 
+11 across the audit 
+periods; unclear 
+if this was a statisti-
+cally significant 
+finding.)
+Moderate (Quasi-
+experimental study)
+<<<PAGE=28>>>
+Page 28 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+Table 1 (continued)
+Reference Study design, 
+comparison
+Setting, timeline Sector Participants Intervention Outcomes 
+(Measurement tool)
+Findings Quality rating (Tool)
+ Williams, 2017 [72] Single group pre-
+post study
+Children’s mental 
+health agencies, 
+large midwestern 
+urban area, USA, 
+2010–2013
+Primary care CEOs and admin-
+istrators, and front-
+line clinical teams 
+at organizations
+External facilitators 
+supported leadership, 
+staff and an internal 
+liaison. Principles 
+of EIDM were inte-
+grated into the organ-
+izations’ operating 
+procedures. Organi-
+zational infrastructure 
+and tools to enable 
+EIDM were developed. 
+Staff and leader-
+ship mental models 
+to support EIDM were 
+enabled
+Quantitative: Inten-
+tions to adopt EIDM, 
+barriers to EIDM 
+(surveys), Unit-level 
+enactment of Avail-
+ability, Responsive-
+ness, and Continuity 
+principles and com-
+pletion of planned 
+activities (ARC 
+principles question-
+naire), Organizational 
+proficiency culture 
+for EIDM (Organiza-
+tional Social Context 
+measure)
+Following implemen-
+tation, clinicians 
+exhibited:
+-Higher odds 
+of adopting EIDM 
+(OR = 3.19, p = 0.003)
+-Greater use 
+of EIDM with clients 
+(p = 0.003)
+-Fewer EIDM barriers 
+(p = 0.026)
+Intention to use 
+EIDM was the only 
+predictor of EIDM 
+adoption (p = 0.032) 
+and EIDM use 
+(p = 0.002)
+High (Quasi-experi-
+mental study)
+<<<PAGE=29>>>
+Page 29 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+with supportive leadership and staff buy-in, expecta -
+tions to use evidence to inform decisions, accessible 
+knowledge, and integration of EIDM into processes and 
+templates. Barriers included limited time and compet -
+ing priorities, staff turnover, and lack of understanding 
+and support from management.
+Ten included studies focused primarily on building 
+EIDM capacity of existing staff at the organization, often 
+at multiple levels (e.g., front-line service providers, man -
+agers, and leadership) [13, 14, 39, 40, 42, 43, 46, 49, 50, 
+58, 61]. Capacity building was typically done through 
+EIDM-focused workshops, often with ongoing follow up 
+support from workshop facilitators. While studies often 
+measured changes in individual knowledge and skill for 
+EIDM for workshop participants, organizational change 
+for EIDM was reported qualitatively, either through 
+formal qualitative analysis or through a case report. 
+Facilitators for EIDM in these ten studies included organ-
+izational culture with supportive leadership and staff  
+buy-in, dedicated staff roles to support EIDM, opportu -
+nities to meet and discuss EIDM (e.g., communities of 
+practice, journal clubs), knowledge sharing across the 
+organization, expectations to use evidence to inform 
+decisions, accessible knowledge, and integration of EIDM 
+into processes and templates. Barriers included limited 
+time and competing priorities, staff turnover, and nega -
+tive attitudes toward EIDM.
+Research or academic partnerships and networks 
+were the main strategy described in three case reports 
+[45, 53, 68]. These involved establishing collaborations, 
+either through universities or non-governmental health 
+organizations, that provided direct EIDM support. 
+These strategies were not evaluated quantitatively but 
+described facilitators and barriers to effective cross-
+sector collaborations. Facilitators for EIDM included 
+supportive leadership and management, dedicated 
+staff roles to support EIDM, EIDM knowledge and 
+skill development for staff, and regular communication 
+between partners. Barriers included limited time and 
+competing priorities, preference for experiential over 
+research evidence, and negative attitudes toward EIDM.
+Overall, studies described successes in implementing 
+EIDM across organizations, citing several common key 
+facilitators and barriers. To instigate behaviour change, 
+strategies must address capability for change, which may 
+be achieved by building staff capacity, establishing dedi -
+cated support roles, improving access to evidence, and 
+sharing knowledge across the organization. Strategies 
+must also enable opportunities for change, which may be 
+supported through forums for EIDM learning and prac -
+tice, protecting time for EIDM, integrating EIDM into 
+new or existing roles, and adding EIDM to processes and 
+templates. Behaviour change also requires motivation, 
+which may be built through a supportive organizational 
+culture, expectations to use EIDM, recognition and posi -
+tive reinforcement, and strong support from leadership.
+Key considerations for implementing EIDM
+Many of the facilitators and barriers to EIDM are com -
+mon across strategies explored by the studies included 
+in this review. To conceptualize these factors, they were 
+mapped to the COM-B model for behaviour change [21] 
+in Fig. 2.
+Within the capability component of the COM-B 
+model, staff knowledge and skill development were 
+included as a facilitator. Studies included in this review 
+demonstrated that knowledge and skill for EIDM sup -
+ported the use of evidence in decision making [13, 14, 
+39, 40, 42, 43, 46, 49, 50, 58, 61]. The establishment of 
+specialized or dedicated roles for EIDM, such as Knowl -
+edge Broker roles, was included in the capability com -
+ponent of the COM-B model, since Knowledge Broker 
+roles support the capacity of organizations and their 
+staff to use evidence-informed approaches [20, 41, 44, 
+47, 48, 51, 52, 54–57, 59, 60, 62–67, 69, 71, 72]. Finally, 
+knowledge sharing across organizations was described 
+as a facilitator for EIDM by several of the studies that 
+built staff capacity for EIDM or established Knowledge 
+Broker roles [13, 48, 49, 51, 52, 54, 56, 59, 61, 65]. Bar -
+riers to the capability for EIDM behaviours include staff  
+turnover and subsequent knowledge loss [14, 20, 56]. 
+Staff turnover is especially challenging for interventions 
+that involve staff in dedicated Knowledge Broker roles 
+and interventions that build the knowledge and skill 
+for staff to engage in evidence use [14, 20, 56]. In some 
+cases, individuals who are trained in the Knowledge Bro -
+ker role are then promoted to new roles or management 
+and have fewer opportunities to apply their Knowledge 
+Broker skills [20].
+The opportunity portion of the COM-B model reflects 
+whether there is opportunity for new behaviour to 
+occur. The development of processes and mechanisms 
+that support new practices can act as a reminder for 
+staff, and may include re-design of planning or deci -
+sion-making templates to capture supporting evidence, 
+Table 2 Strategies for implementation of organization-wide 
+EIDM
+Strategy Studies
+Establishing specialized roles, e.g., 
+Knowledge Brokers
+[20, 41, 44, 47, 48, 51, 52, 54–57, 59, 
+60, 62–67, 69, 71, 72]
+Building staff capacities for EIDM 
+through edutation and training
+[13, 14, 39, 40, 42, 43, 46, 49, 50, 
+58, 61]
+Research or academic partnerships [45, 53, 68]
+<<<PAGE=30>>>
+Page 30 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+or adding EIDM-related items to agendas for regular 
+meetings [41, 47, 53, 60]. Forums for learning and skill 
+development provide staff with opportunities to gain 
+knowledge and practice newly acquired skills in group 
+settings, such as communities of practice or journal 
+clubs [48, 56, 61, 65]. Finally, protected time to apply 
+EIDM was found to be a facilitator for opportunity in 
+the COM-B model [20, 47, 57, 59, 65], while competing 
+priorities were found to be a barrier [20, 39, 40, 52, 55, 
+57, 60, 64, 65].
+The final influencer in the COM-B model, motivation, 
+reflects whether there is sufficient motivation for a new 
+behaviour to occur. Facilitators include supportive organ-
+izational culture [14, 20, 43, 47, 57, 59], expectations for 
+new practices to occur [20, 40], recognition and posi -
+tive reinforcement [52, 59, 60, 65], and strong leadership 
+support [14, 20, 39, 40, 43, 47, 56, 59, 65, 68]. Barriers to 
+motivation included a lack of understanding or support 
+from management [20], and negative attitudes toward 
+change [20, 52, 59, 68].
+Discussion
+Strategies to implement EIDM across organizations 
+include establishing specialized roles, providing staff  
+education and training, developing processes or mecha -
+nisms to support new practices, and demonstrating 
+leadership support. Facilitators and barriers for these 
+strategies align with the COM-B model for behaviour 
+change, which outlines capability, opportunity, and moti-
+vation as influencers of behaviour (Fig.  2). The COM-B 
+model provides a comprehensive framework for the fac -
+tors that influence behaviour change and has provided a 
+valuable structure for examining barriers and facilitators 
+to behaviour change in public health and related fields 
+[73–76].
+The capability section of the COM-B model reflects 
+whether the intended audience possess the knowledge 
+and skill for a new behaviour. Findings from this review 
+establish facilitators for EIDM implementation capabil -
+ity, including the development of staff knowledge and 
+skill, establishing specialized roles, and knowledge shar -
+ing across the organization. The development of staff  
+knowledge and skill for EIDM are a necessary compo -
+nent to ensure EIDM in practice, however, literature has 
+found that the organization-wide impact of conducting 
+only individual-level knowledge and skill development 
+is limited [77–79]. While knowledge and skill develop -
+ment are a necessary component to EIDM practice, 
+they must be supported by other components to have 
+an impact beyond the individual. Other strategies that 
+support the use of newly gained knowledge and skills 
+include the establishment of specialized roles for EIDM. 
+Another strategy to support the use of EIDM is the 
+establishment of dedicated staff roles, such as Knowl -
+edge Brokers. Knowledge Broker roles have been used 
+across diverse contexts and show promise in supporting 
+organization-wide EIDM implementation [20, 22, 23, 67, 
+80–83]. One facilitator for Knowledge Broker roles was 
+knowledge sharing across the organization. Factors that 
+influence the success of staff in Knowledge Broker roles 
+align with those mapped to opportunity and motivation 
+in the COM-B model, including the integration of EIDM 
+into processes, knowledge sharing, and supportive organ-
+izational culture [20, 22, 47, 67, 84, 85]. Knowledge Bro -
+kers can also help facilitate knowledge sharing across the 
+organization, which was another facilitator mapped to 
+Fig. 2 COM-B Model for behaviour change with facilitators and barriers for implementation of organization-wide EIDM
+<<<PAGE=31>>>
+Page 31 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+the capability level of the model [20, 47, 84, 85]. Knowl-
+edge sharing refers to the shared learning, knowledge 
+products and resources for EIDM. At large public health 
+organizations, it can be challenging to facilitate knowl -
+edge sharing between teams and departments [86, 87]. 
+Integrating technology can help; there have been some 
+advances driven by the COVID-19 pandemic, such as the 
+development of knowledge sharing platforms [88–91]. 
+Public health organizations seeking to implement EIDM 
+should invest in their knowledge sharing infrastructure.
+At the capability level of the COM-B model, staff turn -
+over was a barrier to EIDM implementation. Organiza -
+tions that implement these strategies should be cognizant 
+of the potential for knowledge loss due to staff turnover 
+when selecting staff for Knowledge Broker roles or capac-
+ity building opportunities.
+Facilitators for organizational EIDM opportunity 
+include the development of processes or mechanisms 
+to support new practices, forums for learning and skill 
+development, and protected time. The use of reminders 
+for organizational behaviour change and implementation 
+of clinical practice guidelines has been shown to be an 
+effective strategy across many contexts [92–95]. Organi -
+zations seeking to implement EIDM should consider 
+revising current templates and processes to support their 
+initiatives. Another facilitator included forums for shared 
+learning and skill development. Other literature shows 
+that these forums can be effective in developing knowl -
+edge and skill and should foster an environment of learn -
+ing without fear of reprisal [96, 97]. Finally, protected 
+time for EIDM was a facilitator and competing priorities 
+were a barrier. In public health practice, staff are often 
+challenged with high workloads, so that EIDM may be 
+viewed as an additional burden rather than a means to 
+improve practice [98, 99]. For an EIDM approach to be 
+practiced, staff must be provided with sufficient time to 
+apply and practice skills. Organizations should consider 
+involving middle management who oversee staff time 
+allocations, rather than only senior leadership, to help 
+ensure that staff are provided with the time they need 
+and that expectations are adjusted accordingly [20, 23].
+At the motivation level of the COM-B model, sup -
+portive organizational culture was mapped as a facili -
+tator. The influence of organizational culture on 
+evidence-informed practice at health organizations has 
+been explored in a previous systematic review by Li et al. 
+[100]. This systematic review of organizational contextual 
+factors that influence evidence-based practice included 
+37 studies conducted in healthcare-related settings. Find-
+ings align with facilitators identified above, especially 
+leadership support, which was found to impact evidence-
+based practice as well as all other factors that influence 
+evidence-based practice [100]. The review also found that 
+monitoring and feedback contributed to implementation 
+of evidence-based practice, which aligns with recogni -
+tion and positive reinforcement in the COM-B model 
+above [100]. Notably, another factor that was mapped to 
+the COM-B model was the expectation for new practices 
+to occur, which was not explicitly identified as an influ -
+ence on practice [100]. While Li et al. acknowledge that 
+leadership that neglects to hold staff accountable are 
+detrimental to implementation of EIDM, this account -
+ability and clear expectations for change practice were a 
+stronger finding in this current rapid systematic review.
+The need for leadership support aligns with opportunity, 
+since it is often management that determines the allocation 
+of staff time for EIDM [20, 23]. Attitudes and the belief that 
+EIDM is associated with positive outcomes is a key factor 
+in overall competence for EIDM [101]. Efforts to address 
+negative attitudes within staff, especially at the leadership 
+level, may improve implementation of EIDM.
+While this review provides a comprehensive overview 
+of interventions to support EIDM in public health and 
+related organizations, it does have some limitations. Given 
+the heterogeneity of included studies, it was not possible 
+to discern which implementation strategies for EIDM are 
+more effective compared to others. Knowledge Broker 
+roles, building capacity for EIDM, and research-academic 
+partnerships were all shown to contribute to EIDM, but 
+study findings do not support one strategy as superior to 
+others. Given the highly contextual nature of these inter -
+ventions, it is likely that the relative effectiveness of differ-
+ent interventions depends on the organization’s unique set 
+of characteristics. Evaluation is also critical to determine if 
+change efforts are successful or need to be adjusted. It is 
+possible that a combination of strategies would maximize 
+the likelihood that diverse needs of staff are met. Rigorous 
+studies to evaluate this hypothesis are needed.
+Most studies included in this review are non-rand -
+omized studies of interventions. Given the importance of 
+context in organizational change, randomized controlled 
+trial designs may not be well-suited to evaluate stud -
+ies of EIDM implementation [102]. High-quality single-
+group studies, such as prospective cohort analytic studies 
+evaluated with validated measures or qualitative descrip -
+tive analyses of case studies with thorough descriptions 
+of interventions and context, may be more appropri -
+ate designs for designing future initiatives in this field. 
+However, arguments have been made for the use of ran -
+domized trial designs in implementation research [103]. 
+Foy et  al. advocate for overcoming contextual barriers 
+by using innovative trial designs, such as the multiphase 
+optimization strategy approach, where a series of trials 
+identify the most promising single or combined interven-
+tion components, or the sequential multiple assignment 
+randomized trial approach, where early results inform
+<<<PAGE=32>>>
+Page 32 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+tailoring of adaptive interventions [103]. These designs 
+may be a promising approach to conducting trials within 
+highly contextual settings. Another viewpoint is that per -
+haps it may not be essential to determine if one strategy 
+is superior to another, but rather that strategies build a 
+larger, multi-strategy approach to implementation [104]. 
+There may be greater benefit to determining the condi -
+tions under which various strategies are effective [104].
+A limitation in this review’s methodology is that the 
+review was completed following a rapid review protocol 
+to ensure timely completion. Modifications of a system -
+atic review approach included the use of a single reviewer 
+for screening and using an unblinded reviewer to check 
+quality assessment and data extraction. This may have 
+contributed to some bias within the review, due to the 
+reviewers’ interpretations of studies. To minimize this 
+bias, there were efforts to calibrate screening, quality 
+assessment and data extraction using a subset of studies.
+This review provides a synthesis of strategies for the 
+organization-wide implementation of EIDM, and an in-
+depth analysis of their facilitators and barriers in public 
+health organizations. Facilitators and barriers mapped to 
+the COM-B model for behaviour change can be used by 
+organizational leadership to drive organizational change 
+toward EIDM.
+Conclusion
+This rapid systematic review explored the implementa -
+tion of EIDM at the organizational level of public health 
+and related organizations. Despite the similarity of these 
+implementation challenges, studies used distinct strate -
+gies for implementation, including the establishment of 
+dedicated roles to support EIDM, building staff capaci -
+ties, research or academic partnerships, and integrat -
+ing evidence into processes or mechanisms. Facilitators 
+and barriers mapped to the COM-B model provide key 
+guidance for driving organizational change to evidence-
+informed approaches for all decisions.
+Abbreviations
+EIDM  Evidence-informed Decision Making
+EBP  Evidence-based Practice
+EIP  Evidence-informed Practice
+GRADE  Grading of Recommendations, Assessment, Development and 
+Evaluations
+JBI  Joanna Briggs Institute
+KT  Knowledge Translation
+RCT   Randomized Controlled Trial
+Supplementary Information
+The online version contains supplementary material available at https:// doi. 
+org/ 10. 1186/ s12913- 024- 10841-3.
+Supplementary Material 1. 
+Supplementary Material 2. 
+Acknowledgements
+The authors would like to acknowledge the NCCMT’s Rapid Evidence Service, 
+particularly Alyssa Kostopoulos, Sophie Neumann and Selin Akaraci, for their 
+contributions to this review.
+Authors’ contributions
+E.C.C. and M.D. designed the study. E.C.C., L.H., R.B., R.L.T., and T.B. completed 
+screening, quality assessment and data extraction. E.C. and M.D. analyzed 
+study results. E.C.C. and T.B. wrote the manuscript in consultation with M.D. All 
+authors read and approved the final manuscript.
+Funding
+The National Collaborating Centre for Methods and Tools is hosted by McMas-
+ter University and funded by the Public Health Agency of Canada. The views 
+expressed herein do not necessarily represent the views of the Public Health 
+Agency of Canada. The funder had no role in the design of the study, collec-
+tion, analysis, or interpretation of data or in writing the manuscript.
+Availability of data and materials
+All data generated or analysed during this study are included in this published 
+article and its supplementary information files.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare no competing interests.
+Author details
+1 National Collaborating Centre for Methods and Tools, McMaster University, 
+McMaster Innovation Park, 175 Longwood Rd S, Suite 210a, Hamilton, ON L8P 
+0A1, Canada. 2 School of Nursing, McMaster University, Health Sciences Centre, 
+2J20, 1280 Main St W, Hamilton, ON L8S 4K1, Canada. 
+Received: 23 October 2023   Accepted: 7 March 2024
+References
+ 1. Public Health Agency of Canada. Core Competencies for Public 
+Health in Canada. 1st ed. 2008.
+ 2. National Collaborating Centre for Methods and Tools. Evidence-
+Informed Decision Making in Public Health 2022. Available from: 
+https:// www. nccmt. ca/ tools/ eiph.
+ 3. World Health Organization. WHO guide for evidence-informed 
+decision-making. Evidence, policy, impact. 2021.
+ 4. Canadian Public Health Association. Public health: a conceptual 
+framework. Ottawa: Canadian Public Health Association; 2017.
+ 5. Brownson RC, Gurney JG, Land GH. Evidence-based decision making 
+in public health. J Public Health Manag Pract. 1999;5(5):86–97.
+ 6. Kohatsu ND, Robinson JG, Torner JC. Evidence-based public health: 
+an evolving concept. Am J Prev Med. 2004;27(5):417–21.
+ 7. Titler MG. The evidence for evidence-based practice implementa-
+tion. In: Hughes RG, editor. Patient safety and quality: an evidence-
+based handbook for nurses. Advances in Patient Safety. Rockville 
+(MD); 2008.
+ 8. Pan American Health Organization. A guide for evidence-informed 
+decision-making, including in health emergencies. 2022.
+ 9. Saunders H, Gallagher-Ford L, Kvist T, Vehvilainen-Julkunen K. Practic-
+ing Healthcare professionals’ evidence-based practice competen-
+cies: an overview of systematic reviews. Worldviews Evid Based Nurs. 
+2019;16(3):176–85.
+<<<PAGE=33>>>
+Page 33 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+ 10. Paci M, Faedda G, Ugolini A, Pellicciari L. Barriers to evidence-based 
+practice implementation in physiotherapy: a systematic review and 
+meta-analysis. Int J Qual Health Care. 2021;33(2):mzab093.
+ 11. Mathieson A, Grande G, Luker K. Strategies, facilitators and barriers to 
+implementation of evidence-based practice in community nursing: a 
+systematic mixed-studies review and qualitative synthesis. Prim Health 
+Care Res Dev. 2019;20:e6.
+ 12. Li S, Cao M, Zhu X. Evidence-based practice: knowledge, attitudes, 
+implementation, facilitators, and barriers among community nurses-
+systematic review. Med (Baltim). 2019;98(39):e17209.
+ 13. Ward M, Mowat D. Creating an organizational culture for evidence-
+informed decision making. Healthc Manage Forum. 2012;25(3):146–50.
+ 14. Peirson L, Ciliska D, Dobbins M, Mowat D. Building capacity for 
+evidence informed decision making in public health: a case study of 
+organizational change. BMC Public Health. 2012;12:137.
+ 15. Allen P , Parks RG, Kang SJ, Dekker D, Jacob RR, Mazzucca-Ragan S, et al. 
+Practices among Local Public Health Agencies to support evidence-
+based decision making: a qualitative study. J Public Health Manag Pract. 
+2023;29(2):213–25.
+ 16. Ellen ME, Leon G, Bouchard G, Ouimet M, Grimshaw JM, Lavis JN. Barri-
+ers, facilitators and views about next steps to implementing supports 
+for evidence-informed decision-making in health systems: a qualitative 
+study. Implement Sci. 2014;9:179.
+ 17. Sadeghi-Bazargani H, Tabrizi JS, Azami-Aghdash S. Barriers to 
+evidence-based medicine: a systematic review. J Eval Clin Pract. 
+2014;20(6):793–802.
+ 18. Barzkar F, Baradaran HR, Koohpayehzadeh J. Knowledge, attitudes and 
+practice of physicians toward evidence-based medicine: a systematic 
+review. J Evid Based Med. 2018;11(4):246–51.
+ 19. Clark E, Dobbins M, Hagerman L, Neumann S, Akaraci S. What is known 
+about strategies to implement evidence-informed practice at an 
+organizational level? Prospero; 2022.
+ 20. Clark EC, Dhaliwal B, Ciliska D, Neil-Sztramko SE, Steinberg M, Dob-
+bins M. A pragmatic evaluation of a public health knowledge broker 
+mentoring education program: a convergent mixed methods study. 
+Implement Sci Commun. 2022;3(1):18.
+ 21. Michie S, van Stralen MM, West R. The behaviour change wheel: a new 
+method for characterising and designing behaviour change interven-
+tions. Implement Sci. 2011;6:42.
+ 22. Dobbins M, Hanna SE, Ciliska D, Manske S, Cameron R, Mercer SL, et al. 
+A randomized controlled trial evaluating the impact of knowledge 
+translation and exchange strategies. Implement Sci. 2009;4:61.
+ 23. Dobbins M, Traynor RL, Workentine S, Yousefi-Nooraie R, Yost J. Impact 
+of an organization-wide knowledge translation strategy to support 
+evidence-informed public health decision making. BMC Public Health. 
+2018;18(1):1412.
+ 24. McDonagh LK, Saunders JM, Cassell J, Curtis T, Bastaki H, Hartney T, 
+et al. Application of the COM-B model to barriers and facilitators to 
+chlamydia testing in general practice for young people and primary 
+care practitioners: a systematic review. Implement Sci. 2018;13(1):130.
+ 25. Mersha AG, Gould GS, Bovill M, Eftekhari P . Barriers and facilitators of 
+adherence to nicotine replacement therapy: a systematic review and 
+analysis using the capability, opportunity, motivation, and Behaviour 
+(COM-B) Model. Int J Environ Res Public Health. 2020;17(23):8895.
+ 26. Pirotta S, Joham AJ, Moran LJ, Skouteris H, Lim SS. Implementation of 
+evidence-based PCOS lifestyle management guidelines: perceived 
+barriers and facilitators by consumers using the theoretical domains 
+Framework and COM-B Model. Patient Educ Couns. 2021;104(8):2080–8.
+ 27. Dubois A, Lévesque M. Canada’s National Collaborating centres: 
+facilitating evidence-informed decision-making in public health. Can 
+Commun Dis Rep. 2020;46(2–3):31–5.
+ 28. Martin W, Wharf Higgins J, Pauly BB, MacDonald M. Layers of translation 
+- evidence literacy in public health practice: a qualitative secondary 
+analysis. BMC Public Health. 2017;17(1):803.
+ 29. van der Graaf P , Forrest LF, Adams J, Shucksmith J, White M. How do 
+public health professionals view and engage with research? A qualita-
+tive interview study and stakeholder workshop engaging public health 
+professionals and researchers. BMC Public Health. 2017;17(1):892.
+ 30. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, 
+et al. The PRISMA 2020 statement: an updated guideline for reporting 
+systematic reviews. BMJ. 2021;372:n71.
+ 31. Neil-Sztramko SE, Belita E, Traynor RL, Clark E, Hagerman L, Dobbins M. 
+Methods to support evidence-informed decision-making in the midst 
+of COVID-19: creation and evolution of a rapid review service from the 
+National Collaborating Centre for Methods and Tools. BMC Med Res 
+Methodol. 2021;21(1):231.
+ 32. Lizarondo L, Stern C, Carrier J, Godfrey C, Rieger K, Salmond S, Apostolo 
+J, Kirkpatrick P , Loveday H. Chapter 8: mixed methods systematic 
+reviews. Aromataris EMZ. 2020.
+ 33. Thomas J, Kneale D, McKenzie JE, Brennan SE, Bhaumik S. In: Chandler 
+J, Cumpston M, Li T, Page MJ, Welch VA, editors. Chapter 2: determin-
+ing the scope of the review and the questions it will address. editor: 
+Cochrane: Higgins JPT TJ; 2023.
+ 34. Organisation for Economic Co-operation and Development. List of 
+OECD Member countries - Ratification of the Convention on the OECD; 
+2021. Available from: https:// www. oecd. org/ about/ docum ent/ ratifi  cati 
+on- oecd- conve ntion. htm.
+ 35. Joanna Briggs Institute. Available from: https:// jbi. global/ criti cal- appra 
+isal- tools.
+ 36. McKenzie JE, Brennan SE. Chapter 12. Synthesizing and presenting find-
+ings using other methods. 2021.
+ 37. Brogly C, Bauer MA, Lizotte DJ, Press ML, MacDougall A, Speechley M, 
+et al. An app-based Surveillance System for undergraduate students’ 
+Mental Health during the COVID-19 pandemic: protocol for a prospec-
+tive cohort study. JMIR Res Protoc. 2021;10(9):e30504.
+ 38. Guyatt G, Oxman AD, Akl EA, Kunz R, Vist G, Brozek J, et al. GRADE 
+guidelines: 1. Introduction-GRADE evidence profiles and summary of 
+findings tables. J Clin Epidemiol. 2011;64(4):383–94.
+ 39. Allen P , O’Connor JC, Best LA, Lakshman M, Jacob RR, Brownson RC. 
+Management practices to build evidence-based decision-making 
+capacity for Chronic Disease Prevention in Georgia: a Case Study. Prev 
+Chronic Dis. 2018;15:E92.
+ 40. Allen P , Jacob RR, Lakshman M, Best LA, Bass K, Brownson RC. Lessons 
+learned in promoting evidence-based Public Health: perspectives from 
+Managers in State Public Health Departments. J Community Health. 
+2018;43(5):856–63.
+ 41. Augustino LR, Braun L, Heyne RE, Shinn A, Lovett-Floom L, King H, et al. 
+Implementing evidence-based practice facilitators: a Case Series. Mil 
+Med. 2020;185(Suppl 2):7–14.
+ 42. Awan S, Samokhvalov AV, Aleem N, Hendershot CS, Irving JA, Kalvik A, 
+et al. Development and implementation of an Ambulatory Integrated 
+Care Pathway for Major Depressive Disorder and Alcohol Dependence. 
+Psychiatr Serv. 2015;66(12):1265–7.
+ 43. Bennett S, Whitehead M, Eames S, Fleming J, Low S, Caldwell E. Building 
+capacity for knowledge translation in occupational therapy: learning 
+through participatory action research. BMC Med Educ. 2016;16(1):257.
+ 44. Breckenridge-Sproat ST, Throop MD, Raju D, Murphy DA, Loan LA, 
+Patrician PA. Building a unit-level Mentored Program to sustain a 
+culture of Inquiry for evidence-based practice. Clin Nurse Spec. 
+2015;29(6):329–37.
+ 45. Brodowski ML, Counts JM, Gillam RJ, Baker L, Collins VS, Winkle E, Skala 
+J, Stokes K, Gomez R, Redmon J. Translating evidence-based policy to 
+practice: a Multilevel Partnership using the interactive systems Frame-
+work. J Contemp Social Serv. 2018;94(3):141–9.
+ 46. Brownson RC, Allen P , Jacob RR, deRuyter A, Lakshman M, Reis RS, et al. 
+Controlling Chronic diseases through evidence-based decision making: 
+a Group-Randomized Trial. Prev Chronic Dis. 2017;14:E121.
+ 47. Dobbins M, Greco L, Yost J, Traynor R, Decorby-Watson K, Yousefi-Noo-
+raie R. A description of a tailored knowledge translation intervention 
+delivered by knowledge brokers within public health departments in 
+Canada. Health Res Policy Syst. 2019;17(1):63.
+ 48. Elliott MJ, Allu S, Beaucage M, McKenzie S, Kappel J, Harvey R, et al. 
+Defining the scope of knowledge translation within a National, 
+Patient-Oriented Kidney Research Network. Can J Kidney Health Dis. 
+2021;8:20543581211004803.
+ 49. Fernandez ME, Melvin CL, Leeman J, Ribisl KM, Allen JD, Kegler 
+MC, et al. The cancer prevention and control research network: an 
+interactive systems approach to advancing cancer control imple -
+mentation research and practice. Cancer Epidemiol Biomarkers Prev. 
+2014;23(11):2512–21.
+ 50. Flaherty HB, Bornheimer LA, Hamovitch E, Garay E, Mini de Zitella 
+ML, Acri MC, et al. Examining organizational factors supporting the
+<<<PAGE=34>>>
+Page 34 of 35Clark et al. BMC Health Services Research          (2024) 24:405 
+adoption and use of evidence-based interventions. Community Ment 
+Health J. 2021;57(6):1187–94.
+ 51. Gallagher-Ford L. Implementing and sustaining EBP in real world 
+healthcare settings: transformational evidence-based leadership: 
+redesigning traditional roles to promote and sustain a culture of EBP . 
+Worldviews Evid Based Nurs. 2014;11(2):140–2.
+ 52. Gifford W, Lefebre N, Davies B. An organizational intervention to influ-
+ence evidence-informed decision making in home health nursing. J 
+Nurs Adm. 2014;44(7/8):395–402.
+ 53. Haynes A, Rowbotham S, Grunseit A, Bohn-Goldbaum E, Slaytor E, 
+Wilson A, et al. Knowledge mobilisation in practice: an evaluation of 
+the Australian Prevention Partnership Centre. Health Res Policy Syst. 
+2020;18(1):13.
+ 54. Hitch D, Lhuede K, Vernon L, Pepin G, Stagnitti K. Longitudinal evalu-
+ation of a knowledge translation role in occupational therapy. BMC 
+Health Serv Res. 2019;19(1):154.
+ 55. Hooge N, Allen DH, McKenzie R, Pandian V. Engaging advanced 
+practice nurses in evidence-based practice: an e-mentoring program. 
+Worldviews Evid Based Nurs. 2022;19(3):235–44.
+ 56. Humphries S, Hampe T, Larsen D, Bowen S. Building organizational 
+capacity for evidence use: the experience of two Canadian healthcare 
+organizations. Healthc Manage Forum. 2013;26(1):26–32.
+ 57. Irwin MM, Bergman RM, Richards R. The experience of implementing 
+evidence-based practice change: a qualitative analysis. Clin J Oncol 
+Nurs. 2013;17(5):544–9.
+ 58. Kaplan L, Zeller E, Damitio D, Culbert S, Bayley KB. Improving the culture 
+of evidence-based practice at a Magnet(R) hospital. J Nurses Prof Dev. 
+2014;30(6):274–80. quiz E1-2.
+ 59. Kimber M, Barwick M, Fearing G. Becoming an evidence-based service 
+provider: staff perceptions and experiences of organizational change. J 
+Behav Health Serv Res. 2012;39(3):314–32.
+ 60. Mackay HJ, Campbell KL, van der Meij BS, Wilkinson SA. Establishing 
+an evidenced-based dietetic model of care in haemodialysis using 
+implementation science. Nutr Diet. 2019;76(2):150–7.
+ 61. Martin-Fernandez J, Aromatario O, Prigent O, Porcherie M, Ridde V, 
+Cambon L. Evaluation of a knowledge translation strategy to improve 
+policymaking and practices in health promotion and disease preven-
+tion setting in French regions: TC-REG, a realist study. BMJ Open. 
+2021;11(9):e045936.
+ 62. Melnyk BM, Fineout-Overholt E, Giggleman M, Choy K. A test of the 
+ARCC(c) model improves implementation of evidence-based practice, 
+Healthcare Culture, and patient outcomes. Worldviews Evid Based Nurs. 
+2017;14(1):5–9.
+ 63. Miro A, Perrotta K, Evans H, Kishchuk NA, Gram C, Stanwick RS, et al. 
+Building the capacity of health authorities to influence land use and 
+transportation planning: lessons learned from the healthy Canada 
+by Design CLASP Project in British Columbia. Can J Public Health. 
+2014;106(1 Suppl 1):eS40–52.
+ 64. Parke B, Stevenson L, Rowe M. Scholar-in-Residence: an Organizational 
+Capacity-Building Model to move evidence to action. Nurs Leadersh 
+(Tor Ont). 2015;28(2):10–22.
+ 65. Plath D. Organizational processes supporting evidence-based practice. 
+Adm Social work. 2013;37(2):171–88.
+ 66. Roberts M, Reagan DR, Behringer B. A Public Health Performance Excel-
+lence Improvement Strategy: Diffusion and Adoption of the Baldrige 
+Framework within Tennessee Department of Health. J Public Health 
+Manag Pract. 2020;26(1):39–45.
+ 67. Traynor R, DeCorby K, Dobbins M. Knowledge brokering in public 
+health: a tale of two studies. Public Health. 2014;128(6):533–44.
+ 68. van der Zwet RJM, Beneken genaamd Kolmer DM, Schalk R, Van 
+Regenmortel T. Implementing evidence-based practice in a Dutch 
+Social Work Organisation: A Shared responsibility. Br J Social Work. 
+2020;50(7):2212–32.
+ 69. Waterman H, Boaden R, Burey L, Howells B, Harvey G, Humphreys J, 
+et al. Facilitating large-scale implementation of evidence based health 
+care: insider accounts from a co-operative inquiry. BMC Health Serv Res. 
+2015;15:60.
+ 70. Williams NJ, Wolk CB, Becker-Haimes EM, Beidas RS. Testing a theory 
+of strategic implementation leadership, implementation climate, and 
+clinicians’ use of evidence-based practice: a 5-year panel analysis. 
+Implement Sci. 2020;15(1):10.
+ 71. Williams C, van der Meij BS, Nisbet J, McGill J, Wilkinson SA. Nutri-
+tion process improvements for adult inpatients with inborn errors of 
+metabolism using the i-PARIHS framework. Nutr Diet. 2019;76(2):141–9.
+ 72. Williams NJ, Glisson C, Hemmelgarn A, Green P . Mechanisms of change 
+in the ARC Organizational Strategy: increasing Mental Health clinicians’ 
+EBP adoption through improved Organizational Culture and Capacity. 
+Adm Policy Ment Health. 2017;44(2):269–83.
+ 73. Alexander KE, Brijnath B, Mazza D. Barriers and enablers to delivery of 
+the healthy kids check: an analysis informed by the theoretical domains 
+Framework and COM-B model. Implement Sci. 2014;9:60.
+ 74. McArthur C, Bai Y, Hewston P , Giangregorio L, Straus S, Papaioannou A. 
+Barriers and facilitators to implementing evidence-based guidelines 
+in long-term care: a qualitative evidence synthesis. Implement Sci. 
+2021;16(1):70.
+ 75. Moffat A, Cook EJ, Chater AM. Examining the influences on the use of 
+behavioural science within UK local authority public health: qualitative 
+thematic analysis and deductive mapping to the COM-B model and 
+theoretical domains Framework. Front Public Health. 2022;10:1016076.
+ 76. De Leo A, Bayes S, Bloxsome D, Butt J. Exploring the usability of the 
+COM-B model and theoretical domains Framework (TDF) to define the 
+helpers of and hindrances to evidence-based practice in midwifery. 
+Implement Sci Commun. 2021;2(1):7.
+ 77. Morshed AB, Ballew P , Elliott MB, Haire-Joshu D, Kreuter MW, Brownson 
+RC. Evaluation of an online training for improving self-reported 
+evidence-based decision-making skills in cancer control among public 
+health professionals. Public Health. 2017;152:28–35.
+ 78. Jones K, Armstrong R, Pettman T, Waters E. Knowledge translation for 
+researchers: developing training to support public health researchers 
+KTE efforts. J Public Health (Oxf ). 2015;37(2):364–6.
+ 79. Dreisinger M, Leet TL, Baker EA, Gillespie KN, Haas B, Brownson RC. 
+Improving the public health workforce: evaluation of a training course 
+to enhance evidence-based decision making. J Public Health Manag 
+Pract. 2008;14(2):138–43.
+ 80. Mendell J, Richardson L. Integrated knowledge translation to 
+strengthen public policy research: a case study from experimental 
+research on income assistance receipt among people who use drugs. 
+BMC Public Health. 2021;21(1):153.
+ 81. Russell DJ, Rivard LM, Walter SD, Rosenbaum PL, Roxborough L, 
+Cameron D, et al. Using knowledge brokers to facilitate the uptake 
+of pediatric measurement tools into clinical practice: a before-after 
+intervention study. Implement Sci. 2010;5:92.
+ 82. Brown KM, Elliott SJ, Robertson-Wilson J, Vine MM, Leatherdale ST. Can 
+knowledge exchange support the implementation of a health-promot-
+ing schools approach? Perceived outcomes of knowledge exchange in 
+the COMPASS study. BMC Public Health. 2018;18(1):351.
+ 83. Langeveld K, Stronks K, Harting J. Use of a knowledge broker to estab-
+lish healthy public policies in a city district: a developmental evaluation. 
+BMC Public Health. 2016;16:271.
+ 84. Bornbaum CC, Kornas K, Peirson L, Rosella LC. Exploring the function 
+and effectiveness of knowledge brokers as facilitators of knowledge 
+translation in health-related settings: a systematic review and thematic 
+analysis. Implement Sci. 2015;10:162.
+ 85. Sarkies MN, Robins LM, Jepson M, Williams CM, Taylor NF, O’Brien L, 
+et al. Effectiveness of knowledge brokering and recommendation 
+dissemination for influencing healthcare resource allocation decisions: 
+a cluster randomised controlled implementation trial. PLoS Med. 
+2021;18(10):e1003833.
+ 86. Jansen MW, De Leeuw E, Hoeijmakers M, De Vries NK. Working at the 
+nexus between public health policy, practice and research. Dynam-
+ics of knowledge sharing in the Netherlands. Health Res Policy Syst. 
+2012;10:33.
+ 87. Sibbald SL, Kothari A. Creating, synthesizing, and sharing: the 
+management of knowledge in Public Health. Public Health Nurs. 
+2015;32(4):339–48.
+ 88. Barnes SJ. Information management research and practice in the post-
+COVID-19 world. Int J Inf Manage. 2020;55:102175.
+ 89. Dwivedi YH, Coombs DL, Constantiniou C, Duan I, Edwards Y, Gupta JS, 
+Lal B, Misra B, Prashant S, Raman P , Rana R, Sharma NP , Upadhyay SK. 
+Impact of COVID-19 pandemic on information management research 
+and practice: transforming education, work and life. Int J Inf Manag. 
+2020;55:102211.
+<<<PAGE=35>>>
+Page 35 of 35
+Clark et al. BMC Health Services Research          (2024) 24:405 
+ 
+ 90. Krausz M, Westenberg JN, Vigo D, Spence RT, Ramsey D. Emergency 
+response to COVID-19 in Canada: platform development and imple-
+mentation for eHealth in Crisis Management. JMIR Public Health 
+Surveill. 2020;6(2):e18995.
+ 91. Smith RW, Jarvis T, Sandhu HS, Pinto AD, O’Neill M, Di Ruggiero E, et al. 
+Centralization and integration of public health systems: perspectives 
+of public health leaders on factors facilitating and impeding COVID-19 
+responses in three Canadian provinces. Health Policy. 2023;127:19–28.
+ 92. Pereira VC, Silva SN, Carvalho VKS, Zanghelini F, Barreto JOM. Strategies 
+for the implementation of clinical practice guidelines in public health: 
+an overview of systematic reviews. Health Res Policy Syst. 2022;20(1):13.
+ 93. Tomsic I, Heinze NR, Chaberny IF, Krauth C, Schock B, von Lengerke T. 
+Implementation interventions in preventing surgical site infections 
+in abdominal surgery: a systematic review. BMC Health Serv Res. 
+2020;20(1):236.
+ 94. Harrison R, Fischer S, Walpola RL, Chauhan A, Babalola T, Mears S, 
+et al. Where do models for Change Management, improvement 
+and implementation meet? A systematic review of the applications 
+of Change Management models in Healthcare. J Healthc Leadersh. 
+2021;13:85–108.
+ 95. Correa VC, Lugo-Agudelo LH, Aguirre-Acevedo DC, Contreras JAP , 
+Borrero AMP , Patino-Lugo DF, et al. Individual, health system, and 
+contextual barriers and facilitators for the implementation of clinical 
+practice guidelines: a systematic metareview. Health Res Policy Syst. 
+2020;18(1):74.
+ 96. Valizadeh L, Zamanzadeh V, Alizadeh S, Namadi Vosoughi M. Promoting 
+evidence-based nursing through journal clubs: an integrative review. J 
+Res Nurs. 2022;27(7):606–20.
+ 97. Portela Dos Santos O, Melly P , Hilfiker R, Giacomino K, Perruchoud E, 
+Verloo H, et al. Effectiveness of educational interventions to increase 
+skills in evidence-based practice among nurses: the EDITcare. Syst Rev 
+Healthc (Basel). 2022;10(11):2204.
+ 98. Shelton RC, Lee M. Sustaining evidence-based interventions and 
+policies: recent innovations and future directions in implementation 
+science. Am J Public Health. 2019;109(S2):S132–4.
+ 99. Brownson RC, Fielding JE, Green LW. Building Capacity for evidence-
+based Public Health: reconciling the pulls of Practice and the push of 
+Research. Annu Rev Public Health. 2018;39:27–53.
+ 100. Li SA, Jeffs L, Barwick M, Stevens B. Organizational contextual features 
+that influence the implementation of evidence-based practices 
+across healthcare settings: a systematic integrative review. Syst Rev. 
+2018;7(1):72.
+ 101. Belita E, Yost J, Squires JE, Ganann R, Dobbins M. Development 
+and content validation of a measure to assess evidence-informed 
+decision-making competence in public health nursing. PLoS One. 
+2021;16(3):e0248330.
+ 102. Dobbins M, Robeson P , Ciliska D, Hanna S, Cameron R, O’Mara L, et al. 
+A description of a knowledge broker role implemented as part of a 
+randomized controlled trial evaluating three knowledge translation 
+strategies. Implement Sci. 2009;4:23.
+ 103. Foy R, Ivers NM, Grimshaw JM, Wilson PM. What is the role of ran-
+domised trials in implementation science? Trials. 2023;24(1):537.
+ 104. Pawson R. Pragmatic trials and implementation science: grounds for 
+divorce? BMC Med Res Methodol. 2019;19(1):176.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.

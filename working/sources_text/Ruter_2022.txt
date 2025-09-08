@@ -1,0 +1,961 @@
+<<<PAGE=1>>>
+https://doi.org/10.1177/07417136211019032
+Adult Education Quarterly
+  
+© The Author(s) 2021
+Article reuse guidelines:
+sagepub.com/journals-permissions 
+DOI: 10.1177/07417136211019032
+journals.sagepub.com/home/aeq
+Article
+How Do the Timing and 
+Duration of Courses Affect 
+Participation in Adult 
+Learning and Education?  
+A Panel Analysis
+Fabian Rüter1  and Andreas Martin1
+Abstract
+Participation in adult learning and education requires the availability of, and accessibility 
+to, learning opportunities provided by educational institutions. One fundamental 
+element is time. Adult learning and education participation can only be realized by 
+successfully matching individual time-availabilities with the temporal organization of 
+provided courses. To address this required matching process, this study contributes 
+to research literature as one of the first studies that investigates the impact of 
+timing and course duration on participation counts (longitudinally). For this, we use 
+organizational data from public adult education centers (Volkshochschulen—VHS; the 
+main adult education providers in Germany) from 2007 to 2017. Methodologically, 
+random- and fixed-effects models are applied. We find significant positive effects 
+on participation counts between increasing program breadth in terms of temporal 
+formats and increasing average course duration.
+Keywords
+adult education, participation, matching, time, panel analysis
+Current research on participation in adult learning and education (ALE) points to com-
+plex interactions between individual learners, learning opportunities and the broader 
+societal and policy contexts framing both individuals and educational institutions 
+(Boeren, 2017; Rubenson & Desjardins, 2009). Sociostatistical research explains ALE 
+participation with individual sociodemographic, economic and cultural characteristics 
+1German Institute for Adult Education, Bonn, North Rhine-Westphalia, Germany
+Corresponding Author:
+Fabian Rüter, German Institute for Adult Education, Leibniz-Centre for Lifelong Learning, 
+Heinemannstraße 12-14, Bonn, North Rhine-Westphalia 53175, Germany. 
+Email: rueter@die-bonn.de
+1019032 AEQXXX10.1177/07417136211019032Adult Education QuarterlyRüter and Martin
+research-article2021
+2022, Vol. 72(1) 42–64
+<<<PAGE=2>>>
+(e.g., Kalenda et al., 2019). These characteristics include, for example, the individuals’ 
+age, gender, family background, migration background, employment and occupational 
+status, or level of educational attainment. Although such characteristics can, to some 
+extent, explain societal inequalities and selectivity in ALE participation (Walter & 
+Müller, 2014), literature still lacks a reflection of factors at the institutional level and 
+the broader societal and policy context influencing participation (Boeren et al., 2010). 
+In addition, explaining ALE participation is a central subject in international compara-
+tive research on participation patterns (e.g., Støren & Børing, 2018). While academia 
+is currently discussing the importance of individual characteristics and the national 
+state for ALE participation, Boeren (2017) points out that there is still little evidence 
+on the interactions between (potential) participants and the learning opportunities pro-
+vided by educational institutions. That work follows on from an earlier call for further 
+study, where Boeren et al. (2010) argued that achieving ALE participation requires a 
+successful match between the demand of (potential) participants and the supply pro -
+vided by educational institutions. However, the research base investigating this match-
+ing process is sparse, raising questions on the contexts and conditions of successful 
+matching.
+A fundamental prerequisite for the matching process as characterized by Boeren 
+et al. (2010) is the availability of, and accessibility to, a supply of course offerings. 
+Thus, course offerings represent the necessary condition for the possibility of ALE 
+participation. One structural element of this necessary condition is time, in terms of 
+the temporal organization of course offerings. Whereas ALE participation requires the 
+availability (and subsequently the investment) of temporal resources at the individual 
+level, it fundamentally also requires the temporal availability of, and accessibility to, 
+course offerings on the supply-side. Accordingly, Schmidt-Lauff (2008) argued that 
+ALE participation can only be realized by successfully matching individual time-
+availabilities with temporal factors on the institutional level. Thus, the temporal orga-
+nization of course offerings is the deciding factor for matching supply and demand, 
+and whether individuals participate. However, despite the universally accepted impor-
+tance of time for ALE (e.g., Schmidt-Lauff & Bergamini, 2017), an operationalization 
+of the matching process remains a research gap (Boeren, 2017).
+Hence, our study addresses this research gap by operationalizing time as a struc -
+tural element of the necessary condition for the possibility of ALE participation. In 
+a longitudinal design, we investigate the effects of temporal factors of course offer -
+ings such as timing and duration on participation counts. Thus, we focus on organi -
+zational level changes in the temporal organization of course offerings, distinguishing 
+temporal formats, and course durations within educational programs. For this, we 
+use data from German VHS statistics that addresses public adult education centers 
+(Volkshochschulen—VHS) between 2007 and 2017. Methodologically, we employ 
+random- and fixed-effects models, aiming at causal inferences.
+Educational Mandate of VHS in Germany
+VHS are the main public providers of adult education in Germany. Their objective is 
+the promotion of lifelong learning that supports active participation in society, culture, 
+43Rüter and Martin
+<<<PAGE=3>>>
+and employment and that fosters social integration and social cohesion (DVV , 2019). 
+The educational programs offered are based on courses covering topics from politics, 
+culture, art, health-related, and environmental subjects to languages and basic educa -
+tion. VHS define education as a public and societal good, and aim for their services to 
+answer public and societal interests in education. Thus, VHS operate in a norm-ratio-
+nal way (Schrader, 2011), providing universally accessible and attractive education for 
+all citizens. In contrast, organizations in the open market context act in a profit-orien-
+tated way providing services for economic purposes. VHS can receive mixed funding 
+from the local municipality, the individual federal state, job centers, the nation state, 
+the European Union and from public and private enterprises for course fees and spe -
+cial contracts for inhouse courses. In 2018, VHS offered 552,000 courses with a total 
+of 17.0 million teaching hours and 6.1 million participations (Reichart et al., 2019).
+Conceptual Framework—ALE Participation as an 
+Interaction Between Participants and Educational 
+Institutions
+Academia currently argues for approaching ALE participation as the result of interac-
+tions between an individual decision and “a broader context that limits possible choices 
+and makes participation less or more attractive, accessible and advantageous” 
+(Lavrijsen & Nicaise, 2017, p. 178). To describe these interactions, Boeren et  al. 
+(2010) introduced a comprehensive lifelong-learning participation model. The model 
+distinguishes between a demand-side (micro-level), a supply-side (meso-level) and a 
+broader social and policy context (macro-level). On the demand-side is the individual 
+and their perception of learning opportunities and subsequent decision to participate. 
+The individual is influenced by socioeconomic, cultural, and psychological factors, as 
+well as by relevant others such as family, friends, or employer. The supply-side consti-
+tutes educational institutions, characterized by organizational factors such as the edu-
+cational program, accessibility or staffing. Both sides are embedded in a broader social 
+context based on rules, laws, rights, and duties.
+For the theorized interactions between supply and demand, the educational pro -
+gram on the supply-side is the central medium of the matching process. On one hand, 
+educational programs include general information and access preconditions (e.g., con-
+tent, qualification, location, duration, and fees). On the other, educational programs 
+operationalize concepts resulting from the demands, expectations, and needs of poten-
+tial participants (Nolda, 2018). Simultaneously, serving the public with universally 
+accessible course offerings requires educational institutions to react flexibly and in 
+accordance with current societal developments when planning educational programs 
+(Gieseke & von Hippel, 2019). Kowalski (1988) argued that a static program design 
+may eventually become outdated and may then fail to attract potential participants.
+Time as a Central Condition of the Matching Process
+There are two research perspectives on time as a central condition of the matching 
+process. A first perspective focusses on the individual level. In this perspective, 
+44 Adult Education Quarterly 72(1)
+<<<PAGE=4>>>
+participants need to raise time as a resource and element of indirect costs (Bellmann & 
+Leber, 2019). The Adult Education Survey (AES; BMBF, 2019) investigates participa-
+tion rates and the time volumes invested in nonformal education in Germany for dif -
+ferent periods from 2007 to 2018. Overall, the participation rate increased from 44% 
+(2007) to 54% (2018). Simultaneously, the average number of educational activities 
+decreased from 1.9 to 1.7 per participant and the average volume of invested time 
+decreased from 85 hours to 79 hours. For 2018, this resulted in an average of 43 hours 
+per person within the entire population of 18- to 64-year-olds in Germany, which is 
+spent on an average of 0.9 activities. In comparison, the average time spent per person 
+within the population for educational activities decreased from 42 (2012) to 36 hours 
+(2016). The increase from 2016 to 2018 is assumed to be the result of increased immi-
+gration to Germany in 2015/2016 (BMBF, 2019).
+In addition, invested time volumes vary with the content of educational activities. 
+The AES distinguishes three segments of nonformal education. Employer-sponsored 
+education constituted 72% of all educational activities in 2018 (2012: 69%) but only 
+covered 45% of the time volume in 2018 (2012: 51%). By comparison, the share of 
+job-related non-formal education was lower (2012: 13%; 2018: 10%), but the share of 
+time was significantly higher at 33% in 2018 (2012: 25%). The same applies to the 
+segment of non-job-related non-formal education. The share was 18% in 2018 (2012: 
+18%), but the time volume covered 21% in 2018 (2012: 24%).
+Although the AES provides first insights into trends of participation rates and 
+time volumes, the variable time remains an observable outcome. Underlying deci -
+sion-making processes and the causal effects of individual time-availabilities on 
+participation rates remain unexplained. Regarding the participation decision, schol -
+ars define time as a scarce resource affecting individual decision-making processes  
+Rüter et al. (2020). Schmidt-Lauff and Bergamini (2017) argue for an understanding 
+of time in a societal context characterized by complexity, ambivalence, and para -
+doxes. In their work, time is characterized by change, resulting in heterogeneous 
+effects on ALE participation. Accordingly, time availabilities result from multilay -
+ered backgrounds and vary depending on life situations, positions in the employ -
+ment system, age and gender. Other factors include different life phases such as 
+career entry or advancement, starting a family, or retirement (Schmidt-Lauff, 2008).
+In addition to factors on the individual level, individual time-availabilities are 
+related to societal and organizational levels. These levels refer to, for example, the 
+level of educational governance or the employer and respectively refer to measures 
+such as laws on educational leave or employer offered leave of work, which intend to 
+foster and support ALE participation by providing a specific timeframe. However, 
+research and causal evidence on the effects of such measures is still scarce. Most 
+recently,  Rüter et al. (2020) investigated the causal effects of implementing a law on 
+educational leave in Germany on individual participation in ALE. The research applied 
+a difference-in-differences estimation strategy with propensity score matching and 
+instrumental variable and found no positive treatment effect on individual participa -
+tion behavior of eligible employees.
+Due to the scarce nature of temporal resources, the opportunity costs of activity 
+participation increase (Klein, 2007). This also affects ALE as the required time to 
+45Rüter and Martin
+<<<PAGE=5>>>
+participate rivals with other time commitments in adults’ private and professional lives 
+(Schmidt-Lauff & Bergamini, 2017).
+In a second perspective, time provides opportunities for ALE participation at the 
+institutional level (Kuper, 2001). These opportunities are represented within educa -
+tional programs, which define the temporal conditions of course access by sequencing 
+teaching–learning interactions. The temporal structure of educational programs con -
+stitutes different temporal formats (e.g., courses held once or several times a week) 
+and course durations. With regard to structural components of educational institutions, 
+a study by Schuetze and Slowey (2002) identified specific factors that influence par -
+ticipation in higher education. The results highlight that flexible access to the curricu-
+lum attracts adult learners and might influence individual participation decisions. This 
+flexibility can be achieved by introducing and/or expanding methods of instruction, 
+learning independent of place, or time, or other restrictions, by alternative modes of 
+study or by financial support.
+Employing qualitative interviews and analyzing educational programs, the study by 
+Nahrstedt et al. (1998) focused on changes on the supply-side of VHS courses from 
+1995 to 1997. The results revealed that educational programs were increasingly ori -
+ented toward the time availability of potential participants and that the temporal struc-
+tures within educational programs were becoming more diverse and complex. Compact 
+formats on weekends, or courses with many short lessons spread over a long duration 
+have gained increasing relevance (Brinkmann, 2000).
+In addition, scholars investigated ALE participation differentiated by course con -
+tent, timing, and duration. Although the AES does not directly include information on 
+the educational institution framing ALE participation itself, the results provide infor -
+mation regarding trends of temporal formats and course durations in nonformal educa-
+tion from 2007 to 2018 (BMBF, 2017, 2019). Noteworthy is the increasing relevance 
+of activities lasting several hours from 17% to 29%. At the same time, the share of 
+activities lasting several days (2007: 34% and 2018: 27%) and several months (2007: 
+15% and 2018: 12%) decreased. Single-day activities and formats covering several 
+weeks vary in their relevance but are relatively constant at 21% (1-day) and 7% (sev-
+eral weeks). Referring to Käpplinger (2018), there is a general trend toward shorter 
+temporal formats in adult education.
+Empirical findings of recent studies, meanwhile, both confirm and contradict this 
+trend. Denninger et  al. (2020) argue that participants prioritize shorter courses over 
+time-intensive courses because their private and professional lives are less affected. 
+Furthermore, increasing learning times are assumed to cause increasing time rivalries 
+between the educational activity and time spent at work, with family or on recreation 
+(Lobe, 2015). In this context, the study by Richter et al. (2020) investigated the effects 
+of the timing and duration on participation rates in continuing vocational education 
+and training for teachers in the German federal state of Brandenburg. The study exam-
+ined courses with a duration of 1 day (one-shot courses) or several days. The results 
+revealed that the duration significantly predicts participation rates. Furthermore, 
+teachers less frequently attended one-shot courses that were shorter than 2 hours or 
+longer than 8 hours. However, participation rates increased as course duration 
+increased within the 2 to 8 hours sweet-spot. Opposing the hypothesis that teachers 
+might prioritize shorter courses because they are easier to match with high working 
+46 Adult Education Quarterly 72(1)
+<<<PAGE=6>>>
+hours, the results also indicate that there is a higher demand for courses lasting several 
+days. One possible explanation formulated by Richter et  al. (2020) refers to expec -
+tancy-value theory (Wigfield & Eccles, 2000), arguing that teachers expect no returns 
+from participating in one-shot courses.
+Those findings indicate that, in addition to the matching logic of increasing the 
+likelihood of a successful match by decreasing the course duration, there is another 
+mechanism to consider and to control in our study. Generally, expectancy-value 
+approaches predict individual motivation and behavior based on high expectations, a 
+high-perceived value and low costs (Gorges, 2016). This rationale includes (temporal) 
+resources that need to be invested in order to participate and the expected returns from 
+ALE. In this perspective, course offerings with high opportunity costs and low 
+expected monetary or non-monetary returns are only likely to enable ALE participa -
+tion when the course duration is short. This primarily relates to the segment of non-
+job-related nonformal education . In comparison, courses in job-related nonformal 
+education that last longer are associated with higher costs, but also with higher 
+expected returns.
+However, the key condition for such rational decisions on ALE participation is the 
+availability of, and accessibility to, learning opportunities. This remains a research gap 
+because the existence of learning opportunities as the necessary conditions for the pos-
+sibility of ALE participation is considered a given fact in present action-theoretical 
+approaches. Ahl (2006) argued that theories that put their main emphasis on individu-
+als “risk to blame individuals for not participating” (Boeren et  al., 2010, p. 56). This 
+issue is followed up in our study by operationalizing the matching process on the 
+supply-side and by investigating how the temporal organization of courses affects par-
+ticipation counts longitudinally.
+The Present Research
+Although contemporary academia argues for a fundamental relationship between tem-
+poral factors on the supply-side and the likelihood of participation, empirical and lon-
+gitudinal studies aiming at causal inferences are still rare. Due to the scarce knowledge 
+available, it is not possible to formulate generally valid conclusions on the impact of 
+timing and duration on ALE participation. Hence, we argue that the scope of the dis -
+cussion needs to be broadened by evidence-based and longitudinal research.
+In our study, we hypothesize two central mechanisms of time on the matching pro-
+cess and participation counts that need to be estimated. The first mechanism is related 
+to the assumption that a wider and more flexible range of course offerings is an effec-
+tive and efficient strategy to enable and widen ALE participation by overcoming 
+institutional barriers (Cross, 1992). The more broadly educational programs are struc-
+tured in terms of different temporal formats, the more likely it is that these temporal 
+conditions of accessing any course will match with the time availabilities of potential 
+participants. Based on this assumption, our first hypothesis is as follows:
+47Rüter and Martin
+<<<PAGE=7>>>
+Hypothesis 1:  Participation counts increase with increasing program breadth in 
+terms of temporal formats.
+The second mechanism regards the course duration. We hypothesize that shorter 
+course durations are easier to match to individual time-availabilities. Thus, shorter 
+courses increase the likelihood of successful matching. Based on this assumption, our 
+second hypothesis is as follows:
+Hypothesis 2: Participation counts increase with decreasing course duration.
+Data Description
+To investigate our hypotheses, we use longitudinal data from the German VHS statis-
+tics (Reichart et al., 2019). This annual survey initiated in 1962 by the German Institute 
+for Adult Education—Leibniz-Centre for Lifelong Learning provides a near full sam -
+ple of VHS in Germany. We selected data from the survey years 2007 to 2017. In 2007, 
+958 VHS participated in the survey and, in 2017, 883 VHS. Throughout the whole 
+observation period, 864 VHS consistently took part. The set of variables provides 
+information on staff, financial means and expenditures, course counts, participation 
+counts, cooperation with other institutions and activities such as study tours or exhibi-
+tions. While the entire observation period covers 11 years, the inclusion of lagged 
+variables in our models shrinks our factual observation period to 10 years from 2008 
+to 2017 (for details: see analytical strategy).
+Based on our hypotheses, the variables of interest include course counts, participa-
+tion counts as well as temporal formats and course durations. The VHS statistics 
+include the required information recorded in 86 subject areas, nested in six program 
+areas for each VHS and year (Figure 1).
+Figure 1. VHS (Volkshochschulen) statistics—Data structure.
+48 Adult Education Quarterly 72(1)
+<<<PAGE=8>>>
+However, the VHS statistics only distinguish temporal formats at the program-area-
+level: (1) once a week evening course; (2) once a week day course; (3) several times a 
+week evening course; (4) several times a week day course; (5) day course; (6) week -
+end course; (7) week-long course. Therefore, we investigated Hypothesis 1 at the 
+VHS-level.
+In 2018, 89% of all course offerings could be assigned to one temporal format 
+(Reichart et  al., 2019). Due to a different statistical reporting strategy by VHS in 
+the federal state of Bavaria, no information on temporal formats there is included. 
+In addition, the VHS statistics include information regarding the time volume of 
+course offerings in hours at the subject-area-level. Therefore, we investigated 
+Hypothesis 2 on the subject-area-level. This process allowed us to control for the 
+course content and to control for assumed heterogeneous effects of the course 
+duration on participation counts. However, we could not identify individual course 
+durations. Instead, we could only calculate the average course duration based on 
+the reported course counts and the total time volume of course offerings for each 
+subject area. Furthermore, we used regional context data from the German Federal 
+Statistical Office and the Federal Institute for Research on Building, Urban Affairs, 
+and Spatial Development. The first source supplied us with data regarding the 
+population on the municipality-level and the latter with data regarding the settle -
+ment types of municipalities. Since the regional context data from one municipal -
+ity was sadly not consistently available between 2007 and 2011, we excluded the 
+corresponding VHS from our models for this period.
+Samples
+Although the VHS statistics allow the creation of a balanced panel of VHS participat-
+ing for the whole observation period, the variables of interest are not equally consis -
+tent. For some variables, there are several runs of consecutive observations separated 
+by gaps in the panel data. These gaps cause missing observations within each VHS 
+(Hypothesis 1) and within each subject area (Hypothesis 2) that may bias the results of 
+our analysis. In the following, we describe the process of creating our analytical 
+samples.
+Relevant for Hypothesis 1 is that, although the VHS statistics include the total 
+number of course offerings for every VHS and year and distinguish course counts 
+for the seven temporal formats, for some observations, the total number of course 
+offerings of a VHS and the number of course offerings that could be assigned to 
+temporal formats are mismatched. This mismatch results from either item-nonre -
+sponse or temporal formats not covered by the VHS statistics (e.g., courses at 
+nonregular intervals such as courses held every 2 weeks). To cope with this mis -
+match, we created two VHS subsamples. The idea of the wide sample  is to include 
+a new variable labeled “other temporal format” (course counts that could not be 
+49Rüter and Martin
+<<<PAGE=9>>>
+assigned to one of the seven temporal formats). The  wide sample  includes VHS 
+with the latest sequence of at least three consecutive observations, summing up n = 
+727 VHS and N = 6,803 observations in the factual observation period. In contrast, 
+the restrictive sample  includes observations with complete and consistent informa -
+tion, with the latest sequence of at least three consecutive observations per VHS. 
+Here, we excluded course counts that could not be assigned to a temporal format 
+from the analysis. The restrictive sample  sums up n = 694 VHS and N = 5,571 
+observations in the factual observation period.
+Regarding Hypothesis 2, participation counts and average course durations at 
+the subject-area level shape the basis of our analysis. However, there are gaps 
+separating runs of consecutive observations of subject areas where no courses took 
+place. These gaps could impede our analysis because of an observed average 
+course duration of zero hours for a given year. Therefore, we created a sample that 
+included observations within the latest sequence of at least three consecutive 
+observations of course offerings per subject area with actual course counts. The 
+sample sums up n = 33,639 unique subject areas and N = 242,805 observations in 
+the factual observation period.
+Variables
+Our hypotheses target potential effects of the timing and duration of course offerings 
+on participation counts. Accordingly, participation counts form our dependent variable 
+at the VHS-level (Hypothesis 1) and the subject-area-level (Hypothesis 2). Within cur-
+rent ALE participation research, participation counts are suitable performance indica-
+tors (Widany et al., 2020). The main independent variables are the program breadth 
+described by temporal formats at the VHS-level (Hypothesis 1) and average course 
+durations at the subject-area-level (Hypothesis 2). To control for the most important 
+factors that confound both outcome and predictors, we included further variables. At 
+the VHS-level, we included the number of course offerings on the program-area-level 
+for every VHS and year, percentages of full-time management, human resources, 
+courses in cooperation with other institutions and the form of legal entity the VHS in 
+question is designated as. To control potential influences of municipality-specific fac-
+tors, we matched a variable covering the municipality population for every VHS and 
+year, as well as a variable covering the settlement type of the municipality to our data-
+set. Table 1 shows the descriptive statistics of all model-specific variables from 2007 
+to 2017. Regarding Hypothesis 1, we only report descriptive statistics for the wide 
+sample because it best describes the distribution of characteristics in the population 
+and because the restrictive sample is a subsample of the wide sample. In addition, we 
+created an online appendix on OSF (https://osf.io/by9wc/?view_only=4fec6d89cce94
+9cda5300bd3343beebe) covering descriptive statistics for both samples.
+50 Adult Education Quarterly 72(1)
+<<<PAGE=10>>>
+Table 1. Descriptive Statistics of Dependent, Independent, and Control Variables.
+Wide sample  
+(Hypothesis 1), N = 7,530
+Sample  
+(Hypothesis 2), N = 276,444
+ M SD w-SD M SD w-SD
+Outcome
+ Participation counts (VHS-level) 6910.44 8158.94 1076.21 — — —
+ Participation counts (subject-area-level) — — — 215.92 515.46 189.21
+Independent variables
+ Program breadth (Lorenz-coefficient) 0.73 0.13 0.05 — — —
+ Average course duration — — — 26.13 67.92 28.90
+Controls
+ Course counts (program-area-level)  
+ Society-politics-environment (1) 44.51 69.96 19.64 69.21 107.42 37.28
+ Culture-design (2) 99.10 138.93 23.88 147.05 209.77 33.90
+ Health (3) 192.28 197.68 34.08 276.73 254.95 41.51
+ Languages (4) 206.05 266.69 41.75 297.67 401.02 48.89
+ Work-vocation (5) 73.99 92.09 25.64 103.18 124.70 31.88
+ Basic education (6) 18.21 55.98 31.66 23.98 65.24 35.29
+ Course counts (subject-area-level) — — — 19.93 41.46 10.73
+ Time volume of courses in hours (VHS-level) 18281.52 24400.40 4352.40 — — —
+ Percentages of full-time management 0.77 0.44 0.13 0.87 0.38 0.13
+ Human resources 203.77 202.03 42.03 290.46 275.16 46.99
+ Cooperation (courses) 30.18 57.62 27.68 42.03 82.96 35.03
+ Population in municipality 308,553 452,748 11,645 314,021 489,639 12,439
+(continued)
+51
+<<<PAGE=11>>>
+% Overall % Between % Within % Overall % Between % Within
+Legal entity
+ Municipality (1) 42.43 44.57 95.40 37.61 39.80 95.31
+ District (2) 16.64 17.61 95.18 14.99 15.89 95.78
+ Administration union (3) 8.35 9.22 94.82 8.57 9.40 94.48
+ Registered association (4) 25.94 26.55 96.92 30.09 31.15 96.20
+ City-state (5) 2.05 1.93 100.00 2.50 2.13 100.00
+ Ltd. or other private entities (6) 4.59 5.36 80.74 6.23 6.85 85.81
+Settlement types
+ Large cities (1) 9.59 9.08 100.00 15.06 13.45 100.00
+ Urban counties (2) 49.92 49.79 100.00 46.97 47.10 100.00
+ Rural counties showing densification (3) 23.72 23.93 100.00 20.67 21.23 100.00
+ Sparsely populated rural counties (4) 16.77 17.19 100.00 17.30 18.23 100.00
+Source. Own calculations using VHS statistics, 2007 to 2017.
+Note. VHS = Volkshochschulen; w-SD = within standard deviation.
+Table 1. (continued)
+52
+<<<PAGE=12>>>
+On average, VHS in the wide sample conducted 634 courses per year, serving 6,910 
+participants. The highest course counts are in the program areas Health (3) and 
+Languages (4). However, the descriptive statistics reveal high standard deviations, 
+indicating substantial differences within and between VHS.
+Analytical Strategy
+Measurement of Program Breadth—Lorenz-Coefficient
+To measure the program breadth regarding temporal formats, we use the Lorenz-
+coefficient (Hartung et  al., 2009). We estimated the Lorenz-coefficient for every 
+VHS and year for both the wide and restrictive sample . The Lorenz-coefficient is 
+standardized to values between 0 and 1, with 0 describing an equal distribution of 
+courses across all temporal formats within an educational program and 1 describing 
+a complete concentration of courses on a single temporal format. It is worth men -
+tioning that once-a-week evening courses and day courses represent the majority 
+(65.1%) of all courses (Reichart et  al., 2019). Figure 2 displays the development of 
+the Lorenz-coefficient.
+The results reveal a general trend toward an increasing program breadth of tempo-
+ral formats on the supply-side of VHS. How this affects participation counts is exam-
+ined with regard to Hypothesis 1.
+Figure 2. Lorenz-coefficient.
+53Rüter and Martin
+<<<PAGE=13>>>
+Measurement of Average Course Duration
+We calculated the average course durations of every subject area and year. We excluded 
+the subject area entitled German as a foreign language because the demand for inte -
+gration courses develops along continuing migration movements and is not affected by 
+the supply-structure provided by VHS. Figure 3 displays the trajectories of the average 
+course duration within six program areas. For ease of viewing, we present descriptive 
+results on the program-area-level instead of results for all 85 subject areas.
+Figure 3. Average course duration within program areas.
+The plotted trends support the observation by Käpplinger (2018) of a general trend 
+toward shorter temporal formats. The average course duration decreased among all 
+program areas. How this affects participation counts is examined with regard to 
+Hypothesis 2.
+Estimation Strategy
+To target our hypotheses, we apply statistical methods that account for high heteroge-
+neity of VHS and control unobservable variables. We employ RE-models as the 
+54 Adult Education Quarterly 72(1)
+<<<PAGE=14>>>
+conventional model and starting point in our panel analysis. However, unobserved 
+time-invariant variables can confound the estimation. Therefore, RE-estimations are 
+likely to be biased by the time-invariant unobserved heterogeneity of VHS. To address 
+this issue, we further employ FE-models that provide estimates that are unbiased by 
+between effects and that focus on a within comparison.
+Regarding Hypothesis 1, we specify the RE-model as follows:
+ yx xxit it aa ita
+a
+aa it ita
+a
+=+ ++ +() +
+=
+=
+−=
+=
+∑∑βζ ββ βε11 22 3
+12
+113
+15
+ (1)
+Here, yit  denotes the dependent variable describing participation counts within 
+VHS i  at time t. Then, β1  is the constant including an error term ζ1  for the intercept. 
+x it2  denotes the value of the main independent variable, the Lorenz-coefficient. x it3  
+to x it12  are the values of course counts on the program-area-level, years of the obser -
+vation period to control for possible periodic effects, course counts in cooperation 
+with other institutions, the legal entity and the settlement structure. We included the 
+number of course offerings on the program-area-level by VHS and year () □xxit it38 −  to 
+control that the program breadth does not simply increase due to increasing course 
+counts on the program-area-level, which vice versa would also cause increasing par -
+ticipation counts. Including course counts on the program-area-level also allows us to 
+control for possible heterogeneous effects when testing Hypothesis 1. x it13 1−  to x it15 1−  
+are control variables covering the percentages of full-time management, human 
+resources available and the municipality’s population size. The implementation of 
+time gaps of 1 year t −() 1  is based on the assumption that effects due to changing 
+control variable values are first observed the following year. For example, more 
+human resources allow VHS to offer different courses and to introduce a greater flex-
+ibility regarding temporal formats. However, changes within the educational program 
+will become effective in the following year when the program is implemented. εit  is 
+the error term.
+We specify the FE-model as follows:
+ yx xxit ii ta aita
+a
+aa it ita
+a
+=+ ++ +
+=
+=
+−=
+=
+∑∑αβ ββ ε22 3
+10
+113
+15
+ (2)
+Instead of a constant and an intercept error term, a VHS-specific constant αi  is 
+defined. Here, the values of time-invariant controls of the legal entity of VHS and the 
+settlement structure at the municipality-level are omitted.
+Regarding Hypothesis 2, we specify the RE-model as follows:
+ yx xxit it aa ita
+a
+aa it ita
+a
+=+() ++ ++
+=
+=
+−=
+=
+∑∑βζ ββ βε11 22 3
+7
+18
+10
+ (3)
+55Rüter and Martin
+<<<PAGE=15>>>
+Here, yit  denotes the dependent variable describing participation counts within 
+subject area i  at time t . x it2  denotes the average course duration as the main inde -
+pendent variable. x it3  to x it7  are control variables covering course counts on the 
+subject-area-level, years of the observation period, the legal entity of a VHS, course 
+counts in cooperation with other institutions and the settlement structure. We included 
+course counts on the subject-area-level ()x it3  to control whether the number of 
+courses increases with decreasing course duration, which in return also increases 
+participation counts. x it81 −  to x it10 1−  are control variables covering the percentages of 
+full-time management, human resources available and the municipality’s population 
+size. εit  is the error term.
+To estimate assumed heterogeneous effects across program areas, we included an 
+interaction of a variable covering the program areas zai  with the average course dura-
+tion x it2 .
+yx xz xxit it it aia
+a
+aa ita
+a
+aa it=+() ++ ++
+=
+=
+=
+=
+−∑∑βζ ββ ββ11 22 322
+6
+3
+7
+1 ++
+=
+=
+∑ εita
+a
+8
+10
+    (4)
+We specify the FE-model as follows:
+ yx xz xxit ii ti ta ia
+a
+aa ita
+a
+aa it ita
+=+ ++ ++
+=
+=
+=
+=
+−∑∑αβ ββ βε22 322
+6
+3
+5
+1==
+=
+∑ 8
+10a
+ (5)
+Here, a subject-area-specific constant αi  is defined. Because the legal entity of a 
+VHS and the settlement structure are time-invariant variables, x it6  and x it7  are omit-
+ted accordingly in the FE-model.
+All statistical analyses were performed with “stata” software. The corresponding 
+do-file can be found on OSF (https://osf.io/by9wc/?view_only=4fec6d89cce949cda53
+00bd3343beebe).
+Results
+Regarding Hypothesis 1, we tested whether a wider access to educational programs 
+(in terms of temporal formats) is an effective and efficient strategy to increase par -
+ticipation counts. We estimated the effect of program breadth on participation counts 
+by employing random and fixed estimations based on both the wide and restrictive 
+sample. The Hausman test shows that the FE-model is preferable to the RE-model 
+(wide sample : χ² = 368.85; degrees of freedom [ df] = 19; p < .001; restrictive 
+sample : χ² = 211.21; df = 19, p < .001). Therefore, we only report the results of the 
+FE-model.
+56 Adult Education Quarterly 72(1)
+<<<PAGE=16>>>
+Table 2. Participation Counts Within-VHS Depending on Program Breadth—Fixed-Effects 
+Models.
+Wide sample,  
+N = 6,803
+Restrictive sample,  
+N = 5,571
+ b SE b SE
+Program breadth  
+(Lorenz-coefficient)
+−417.893** 150.101 −427.694*** 111.077
+Course counts (program-area-level)
+ Society-politics-environment (1) 11.146*** 0.426 13.415*** 0.429
+ Culture-design (2) 3.762*** 0.358 5.490*** 0.324
+ Health (3) 10.117*** 0.279 10.765*** 0.244
+ Languages (4) 12.101*** 0.225 11.003*** 0.211
+ Work-vocation (5) 9.929*** 0.347 11.003*** 0.305
+ Basic education (6) 1.564*** 0.248 1.445*** 0.193
+Year (ref. 2008)
+ 2009 −13.273 34.389 5.475 30.030
+ 2010 −65.057* 34.388 −70.424** 29.329
+ 2011 −101.424** 34.679 −127.247*** 29.547
+ 2012 −162.112*** 35.794 −113.536*** 31.262
+ 2013 −154.733*** 35.981 −139.184*** 31.450
+ 2014 −187.295*** 36.388 −159.905*** 31.833
+ 2015 −135.958*** 36.753 −105.356*** 32.148
+ 2016 −51.599 37.630 −20.867* 32.780
+ 2017 −54.402 37.953 −8.290 33.159
+Percentages of full-time 
+management (t − 1)
+−89.049 57.876 −104.697* 49.524
+Human resources (t − 1) 1.902*** 0.205 0.574** 0.178
+Cooperation (courses) −1.855*** 0.289 −0.489 0.256
+Population in municipality (t − 1) −.002* 0.001 0.003** 0.001
+  
+Constant 1599.929*** 288.427 69.532 347.525
+R2 .951 .960  
+R2 within .655 .703  
+R2 between .956 .960  
+Source. Own calculations using VHS statistics, 2007 to 2017.
+Note. SE = standard error.
+*p < .05. **p < .01. ***p < .001.
+The results displayed in Table 2 reveal that a change of the Lorenz-coefficient from 
+zero to one significantly decreases participation counts by respectively 417.893 par -
+ticipants (p < .01; wide sample) or 427.694 participants (p < .001; restrictive sample). 
+Based on the results, we can confirm Hypothesis 1.
+Regarding Hypothesis 2, we tested whether participation counts on the subject-area-
+level increase with decreasing average course duration. Because we assume 
+57Rüter and Martin
+<<<PAGE=17>>>
+heterogeneous effects across the program-area-level, we first estimate the models 
+without an interaction of program area and average course duration (Table 3, 
+Model 1) and in a second step include an interaction (Table 3, Model 2). The 
+Hausman test showed that the FE-model was preferable to the RE-model (Model 1: 
+Table 3. Participation Counts Depending on Average Course Duration Within-Subject-
+Areas: Fixed-Effects Models.
+Model 1,  
+N = 242,805
+Model 2,  
+N = 242,805
+ b SE b SE
+Average course  
+duration in hours
+0.062*** 0.010 0.445*** 0.049
+Program area × average course duration in hours  
+(ref. society-politics-environment)
+ Culture-design (2) — — 0.048 0.091
+ Health (3) — — −0.391*** 0.108
+ Languages (4) — — −0.132 0.097
+ Work-vocation (5) — — −0.336*** 0.058
+ Basic education (6) — — −0.417*** 0.050
+ Course counts 12.552*** 0.027 12.563*** 0.027
+Year (ref. 2008)
+ 2009 −3.623** 1.237 −3.587** 1.237
+ 2010 −5.538*** 1.242 −5.462*** 1.242
+ 2011 −6.956*** 1.248 −6.828*** 1.247
+ 2012 −10.713*** 1.270 −10.549*** 1.270
+ 2013 −12.351*** 1.271 −12.185*** 1.271
+ 2014 −14.679*** 1.279 −14.499*** 1.279
+ 2015 −14.020*** 1.287 −13.846*** 1.288
+ 2016 −12.467*** 1.308 −12.246*** 1.308
+ 2017 −12.843*** 1.337 −12.611*** 1.338
+Percentages of full-time 
+management (t − 1)
+−3.207 2.026 −3.105 2.026
+Human resources (t − 1) −0.017** 0.006 −0.016** 0.006
+Cooperation (courses) −0.028** 0.008 −0.028** 0.008
+Population in municipality (t − 1) −0.0002*** 0.000027 −0.0002*** 0.000027
+  
+Constant 62.546*** 8.816 57.710*** 8.844
+R2 0.7839 0.784  
+R2 within 0.5137 0.514  
+R2 between 0.8118 0.812  
+Source. Own calculations using VHS statistics, 2007 to 2017.
+Note. SE = standard error.
+*p < .05. **p < .01. ***p < .001.
+58 Adult Education Quarterly 72(1)
+<<<PAGE=18>>>
+χ2 = 1938.53; df = 14, p < .001; Model 2: χ2 = 2046.21; df = 19, p < .001). 
+Therefore, we only report the results of the FE-model.
+The results displayed in Table 3 reveal that an increase of 1 hour in the average 
+course duration significantly increases participation counts on the subject-area-level 
+by 0.062 (Model 1) or 0.445 (Model 2). Contrary to the hypothesis that participants 
+prioritize shorter course offerings because they are easier to match with rival individ-
+ual time-availabilities, the results reveal that the opposite holds true. Based on the 
+results, we cannot support Hypothesis 2.
+Discussion
+Understanding the system of ALE as a multilevel system (e.g., Boeren et  al., 2010; 
+Schrader, 2011) challenges scholars to integrate multi-layered perspectives into new 
+research designs. Scholars have argued that a lack of integration prevents research 
+“from generating full insight in the complexity of lifelong learning participation” 
+(Boeren, 2017, p. 162). In our study, we develop the idea of layered thinking in ALE 
+participation research by operationalizing time as a structural element of the necessary 
+condition for the possibility of ALE participation and the required successful match 
+between demand and institutionalized supply.
+Our analyses provide two main conclusions. First, we found a significant effect of 
+increasing program breadth at the VHS-level on participation counts. However, the 
+effect size is rather small since a decrease of the Lorenz-coefficient from 1 (complete 
+concentration of all course offerings on one temporal format) to 0 (equal distribution 
+of course offerings across all temporal formats) increases participation counts at the 
+VHS-level by 417.893 ( wide sample) or 427.694 (r estrictive sample) participants. In 
+comparison, VHS within our observation period served an average of 6,910 partici -
+pants per year. The results reveal, however, that VHS have not only widened educa -
+tional programs in terms of temporal formats but that this increasing flexibility 
+significantly increased participation counts. Although we use data from the German 
+VHS statistics in our study, the results are not only valid on a national level in Germany. 
+Based on the universal logic of a required successful match between supply and 
+demand to achieve ALE participation, the estimation results of Hypothesis 1 provide 
+generic knowledge on the matching process as theorized by Boeren et al. (2010).
+Second, we found a significant association between increasing average course 
+duration at the subject-area-level and participation counts. In fact, the effect size is 
+rather small since participation counts only increased by 0.062 (Model 1) when the 
+average course duration increases by 1 hour. However, the results in Model 2 reveal 
+heterogeneous effects on participation counts by introducing the interaction of pro -
+gram area and average course duration to the estimation. Here, participation counts 
+increase by 0.445 when the average course duration increases by 1 hour.
+Including an interaction allowed us to estimate specific effects on the program-area-
+level. The results reveal significant negative interaction effects of the program areas 
+Health (3), Work-V ocation (5) and Basic Education (6) on participation counts. 
+59Rüter and Martin
+<<<PAGE=19>>>
+Varying the average course duration in these program areas has no effect on respective 
+participation counts. One possible explanation for these results is that the program 
+areas for which we found a significant negative interaction effect primarily include 
+course offerings with the option to get a certificate or a degree. In these cases, the dura-
+tion to complete a course and to get a certificate or degree is often standardized. Thus, 
+the individual participation decision is not affected by the duration but rather by the 
+fact that a certain certificate or degree can be achieved. Thus, the variation of the effect 
+of the average course duration on participation counts between program areas can be 
+explained by the variation in acquiring certificates or degrees.
+The results further reveal that program planners can increase participation counts in 
+program areas Society-Politics-Environment (1) and 2 Culture-Design (2) by increas-
+ing the average course duration. However, only the interaction effect of program area 
+1 is significant.
+The first descriptive analysis (Figure 3) highlighted a trend toward shorter dura -
+tions in every program area. However, the multivariate analyses revealed that shorter 
+course durations do not have a positive effect on participation counts. For the pro -
+gram areas Society-Politics-Environment (1) and Culture-Design (2), the opposite 
+holds true and participation counts increase with increasing course duration. In those 
+cases, the individual participation decision may be more affected by the course, its 
+content or duration than by the fact that a certain certificate or degree can be achieved. 
+Schmidt-Lauff and Bergamini (2017) argued that such learning time “is then subjec -
+tively perceived as a special time quality, a time oasis and ‘time well-being’” 
+(Schmidt-Lauff & Bergamini, 2017, p. 157). The results of Hypothesis 2 reveal het -
+erogeneous effects on participation counts when including an interaction of program 
+area and average course duration to the estimation. This finding raises a need for 
+further research into whether this heterogeneity is replicable internationally and in 
+other educational institutions in other reproduction contexts.
+We based our study on the assumption that ALE participation requires the avail -
+ability of, and accessibility, to learning opportunities on the institutional level as a 
+necessary condition for the possibility of participation as well as a successful match of 
+institutionalized supply with individual demand. The results of our study reveal that 
+program planners can significantly influence the matching process by introducing a 
+greater program breadth in terms of temporal formats of course offerings. Introducing 
+those changes means that opportunities for successful matching and participation 
+counts significantly increase.
+Limitations and Conclusion
+Although ours is one of the first studies that investigates the impact of timing and 
+duration on ALE participation longitudinally, it has certain limitations.
+First, the VHS statistics only include course counts of realized courses. Therefore, 
+it is possible that various VHS initially offered courses that in the end did not take 
+place due to a lack of demand. Courses that did not take place could change the 
+observed temporal structure of educational programs or average course durations and 
+60 Adult Education Quarterly 72(1)
+<<<PAGE=20>>>
+could therefore change the analyses and estimation results. Based on the VHS statis -
+tics, we can only observe courses offerings that actually took place. Thus, we cannot 
+estimate any effects for the entire educational program including those courses offer -
+ings that were cancelled due to lacking demand. Nevertheless, the VHS statistics is the 
+best available proxy for the actual educational program of VHS.
+Second, our analyses are based on organizational data that identifies participation 
+counts but not individual participants. Therefore, we are not able to investigate cross-
+level interaction effects of timing and duration on the underlying decision-making pro-
+cesses of individual participation behavior. Vice versa, we cannot formulate statements 
+as to how individual demand affects the temporal organization of course offerings on 
+the supply-side. Consequently, we are not able to operationalize the whole matching 
+process and interactions between supply and demand as theorized by Boeren et  al. 
+(2010). Such an operationalization requires an action-theoretical explanation of indi -
+vidual participation decisions and data linkages of meso-data and micro-data. In 
+Germany, this issue could be addressed in future research by linking meso-data from 
+the VHS statistics with micro-data from the “Mikrozensus.” A dataset including longi-
+tudinal data of participants nested in educational institutions is currently not available.
+However, our study takes a first step toward exploring interactions between demand 
+and supply. The findings highlight the significant effects of both timing and duration 
+on participation counts. However, more research efforts are needed to explore such 
+effects in terms of the theorized interactions between supply and demand. These 
+efforts should also include investigating the rationale of program planners. First, it 
+would be of particular interest to compare the effects of timing and duration on partici-
+pation counts within the context of VHS to other reproduction contexts (e.g., organiza-
+tions in the market context, Schrader, 2011). Second, we assume that the planning staff 
+focuses on the availabilities of temporal resources of potential participants within dif-
+ferent individual and societal circumstances while planning educational programs. In 
+this regard, Schmidt-Lauff (2008) pointed out that research on the professional action 
+of program planning regarding timing and duration is largely lacking. However, cur -
+rent research addresses this call for further research. The study by Robak et al. (2015) 
+analyzed temporal aspects of program planning when researching the revision of a law 
+on educational leave in the German federal state of Bremen in 2010.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, 
+and/or publication of this article.
+Funding
+The author(s) received no financial support for the research, authorship, and/or publication of 
+this article.
+ORCID iDs
+Fabian Rüter  https://orcid.org/0000-0002-2727-5923
+Andreas Martin  https://orcid.org/0000-0002-4282-4601
+61Rüter and Martin
+<<<PAGE=21>>>
+References
+Ahl, H. (2006). Motivation in adult education: A problem solver or a euphemism for direc -
+tion and control? International Journal of Lifelong Education, 25(4), 385–405. https://doi.
+org/10.1080/02601370600772384
+Bellmann, L., & Leber, U. (2019). Bildungsökonomik [Economics of education]. de Gruyter. 
+https://doi.org/10.1515/9783110642315
+BMBF. (Ed.). (2017). Weiterbildungsverhalten in Deutschland 2016: Ergebnisse des Adult 
+Education Survey (AES) [Continuing education behavior in Germany 2016: Results of the 
+adult education survey (AES)]. wbv Media. https://doi.org/10.3278/85/0016w
+BMBF. (Ed.). (2019). Weiterbildungsverhalten in Deutschland 2018: Ergebnisse des Adult 
+Education Survey—AES-Trendbericht [Continuing education behavior in Germany 2018 
+– Results of the adult education survey (AES)]. wbv Media.
+Boeren, E. (2017). Understanding adult lifelong learning participation as a layered prob -
+lem. Studies in Continuing Education , 39(2), 161–175. https://doi.org/10.1080/01580
+37X.2017.1310096
+Boeren, E., Nicaise, I., & Baert, H. (2010). Theoretical models of participation in adult educa -
+tion: The need for an integrated model. International Journal of Lifelong Education, 29(1), 
+45–61. https://doi.org/10.1080/02601370903471270
+Brinkmann, D. (2000). Zeitfenster für Weiterbildung [Time for continuing education]. In R. 
+Dollase, K. Hammerich, & W. Tokarski (Eds.), Temporale Muster: Die ideale Reihenfolge 
+der Tätigkeiten (pp. 275–281). VS Verlag für Sozialwissenschaften.
+Cross, K. P. (1992). Adults as learners: Increasing participation and facilitating learning . 
+Jossey-Bass.
+Denninger, A., Kahl, R., & Präßler, S. (2020). Individuumsbezogene Zeitbudgetstudie [Study on 
+individual time budgets]. Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-
+658-27501-3
+DVV. (2019). Volkshochschule—Bildung in öffentlicher Verantwortung  [Volkshochschule—
+Education in public responsibility]. Author.
+Gieseke, W., & von Hippel, A. (2019). Programmplanung als Konzept und Forschungsgegenstand 
+[Program planning as an research object]. In M. Fleige, W. Gieseke, A. von Hippel, B. 
+Käpplinger, & S. Robak (Eds.), Programm-und Angebotsentwicklung: In der Erwachsenen-
+und Weiterbildung (2nd ed., pp. 38–51). UTB; wbv.
+Gorges, J. (2016). Why adults learn: Interpreting adults’ reasons to participate in education 
+in terms of Eccles’ subjective task value. International Online Journal of Education and 
+Teaching, 3(1), 26–41.
+Hartung, J., Elpelt, B., & Klösener, K. -H. (2009). Statistik: Lehr-und Handbuch der ange -
+wandten Statistik  [Manual of applied statistics] (15th ed.). Oldenbourg. https://doi.
+org/10.1524/9783486710540
+Kalenda, J., Kočvarová, I., & Vaculíková, J. (2019). Determinants of participation in nonformal 
+education in the Czech Republic. Adult Education Quarterly , 70(2), 99–118. https://doi.
+org/10.1177/0741713619878391
+Käpplinger, B. (2018). Zeit für Weiterbildung und zeitgemäße Weiterbildung: Impulse für 
+Wissenschaft und Praxis [Time for continuing education and up-to-date training: Impulses 
+for science and practice]. BWP: Berufsbildung in Wissenschaft Und Praxis, 47(1), 6–10.
+Klein, C. C. (2007). The economics of time as a resource  (Working Paper Series). Middle 
+Tennessee State University, Department of Economics and Finance. http://capone.mtsu.
+edu/berc/working/ECONTIME-WP07.pdf
+62 Adult Education Quarterly 72(1)
+<<<PAGE=22>>>
+Kowalsi, T. J. (1988). The organization and planning of adult education . State University of 
+New York Press.
+Kuper, H. (2001). Organisationen im Erziehungssystem: Vorschläge zu einer systemtheo -
+retischen Revision des erziehungswissenschaftlichen Diskurses über Organisation 
+[Organizations in the educational system: Suggestions for a system-theoretical revision of 
+the educational discourse on organizations]. Zeitschrift Für Erziehungswissenschaft, 4(1), 
+83–106.
+Lavrijsen, J., & Nicaise, I. (2017). Systemic obstacles to lifelong learning: The influence of the 
+educational system design on learning attitudes. Studies in Continuing Education , 39(2), 
+176–196. https://doi.org/10.1080/0158037X.2016.1275540
+Lobe, C. (2015). Hochschulweiterbildung als biografische Transition  [Higher education as a 
+biographical transition]. Springer Fachmedien Wiesbaden. https://doi.org/10.1007/978-3-
+658-08259-8
+Nahrstedt, W., Brinkmann, D., Kadel, V., Kuper, K., & Schmidt, M. (Eds.). (1998). IFKA-
+Dokumentation: Vol. 20. Neue Zeitfenster für Weiterbildung: Temporale Muster der 
+Angebotsgestaltung und Zeitpräferenzen der Teilnehmer im Wandel  [New time slots for 
+continuing education: Changing temporal patterns of program planning and time prefer -
+ences of participants]. IFKA.
+Nolda, S. (2018). Programmanalyse in der Erwachsenenbildung/Weiterbildung: Methoden 
+und Forschungen [Program analysis in adult education: Methods and research]. In R. 
+Tippelt & A. von Hippel (Eds.), Springer Reference Sozialwissenschaften. Handbuch 
+Erwachsenenbildung/Weiterbildung  (6th ed., pp. 433–449). Springer Fachmedien 
+Wiesbaden.
+Reichart, E., Huntemann, H., & Lux, T. (2019). Volkshochschul-Statistik  [VHS statistics]: 
+57. Folge, Berichtsjahr 2018. Bielefeld. https://doi.org/10.3278/85/0022w
+Richter, E., Marx, A., Huang, Y., & Richter, D. (2020). Zeiten zum beruflichen Lernen: Eine 
+empirische Untersuchung zum Zeitpunkt und der Dauer von Fortbildungsangeboten für 
+Lehrkräfte [Times for vocational education and training: An empirical study on timing and 
+duration of trainings for teachers]. Zeitschrift Für Erziehungswissenschaft, 23(1), 145-173. 
+https://doi.org/10.1007/s11618-019-00924-x
+Robak, S., Pohlmann, C., Rippien, H., & Heidemann, L. (Eds.). (2015). Bildungsurlaub: 
+Planung, Programm und Partizipation [Educational leave: Planning, program and partici -
+pation]: Eine Studie in Perspektivverschränkung  [A study with interlaced perspectives]. 
+Peter Lang Verlag. https://doi.org/10.3726/978-3-653-05915-1
+Rubenson, K., & Desjardins, R. (2009). The impact of welfare state regimes on barriers to 
+participation in adult education. Adult Education Quarterly , 59(3), 187–207. https://doi.
+org/10.1177/0741713609331548
+Rüter, F., Martin, A., & Schrader, J. (2020). Educational Leave as a Time Resource for 
+Participation in Adult Learning and Education (ALE). Frontiers in Psychology, 10(2977), 
+1–20. https://doi.org/10.3389/fpsyg.2019.02977
+Schmidt-Lauff, S. (2008). Zeit für Bildung im Erwachsenenalter: Interdisziplinäre und 
+empirische Zugänge  [Time for education in adulthood: Interdisciplinary and empirical 
+approaches] (1. Auflage). Internationale Hochschulschriften: Band 509. Waxmann.
+Schmidt-Lauff, S., & Bergamini, R. (2017). The modern phenomenon of adult learning and 
+professional time-sensitivity: A temporal, comparative approach contrasting Italy and 
+Germany. In R. Egetenmeyer, S. Schmidt-Lauff, & V. Boffo (Eds.), Adult learning 
+63Rüter and Martin
+<<<PAGE=23>>>
+and education in international contexts: Future challenges for its professionalization  
+(pp. 147–159). Peter Lang Edition.
+Schrader, J. (2011). Struktur und Wandel der Weiterbildung [Structure and change in continuing 
+education] (1. Auflage). W. Bertelsmann Verlag.
+Schuetze, H. G., & Slowey, M. (2002). Participation and exclusion: A comparative analysis of 
+non-traditional students and lifelong learners in higher education. Higher Education, 44(3), 
+309–327. https://doi.org/10.1023/A:1019898114335
+Støren, L. A., & Børing, P. (2018). Training of various durations: Do we find the same social 
+predictors as for training participation rates. International Journal of Lifelong Education , 
+37(5), 527–545. https://doi.org/10.1080/02601370.2018.1490933
+Walter, M., & Müller, N. (2014). Weiterbildungsbeteiligung und individuelle Nutzenerwartungen 
+[Participation in continuing education and expected individual benefits]. Berufs-Und 
+Wirtschaftspädagogik: Online , 26, 1–19. https://www.bwpat.de/ausgabe26/walter_muel -
+ler_bwpat26.pdf
+Widany, S., Reichart, E., Ambos, I., & Huff, M. (2020). Datennutzung der VHS-und 
+Verbundstatistik. Potenziale für Bildungsforschung, -politik und -praxis [Data use of 
+VHS statistics. Potential for educational research, policy and practice]. Zeitschrift Für 
+Weiterbildungsforschung, 43(1), 75–95. https://doi.org/10.1007/s40955-019-0136-x
+Wigfield, A., & Eccles, J. S. (2000). Expectancy–value theory of achievement motivation. 
+Contemporary Educational Psychology , 25(1), 68–81. https://doi.org/10.1006/ceps  
+.1999.1015
+Author Biographies
+Fabian Rüter is a PhD student at the German Institute for Adult Education (DIE), Bonn, 
+Germany. His research focuses on the supply and participation structures of continuing educa -
+tion and how the individuals’ availability of time affects participation behavior. 
+Andreas Martin is head of junior research group “Effects and revenues of educationpolitical 
+interventions in the field of continuing education” at the German Institute for Adult Education 
+(DIE), Bonn, Germany. His research interests include supply and participation structures of 
+continuing education, regional disparities in continuing education, and migration.
+64 Adult Education Quarterly 72(1)

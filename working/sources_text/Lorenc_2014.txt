@@ -1,0 +1,804 @@
+<<<PAGE=1>>>
+31 Rose D, O’Reilly K. Economic and Social Research Council, Great Britain, Office for
+National Statistics. The ESRC Review of Government Social Classification . London:
+Office for National Statistics, 1998.
+32 Office for National Statistics. Family Spending, 2012 Edition . London: Office for
+National Statistics, 2012. Available at: http://www.ons.gov.uk/ons/rel/family-
+spending/family-spending/family-spending-2012-edition/index.html (26 February
+2014, date last accessed).
+33 Office of the Chief Statistician - Scottish Executive. Scottish Index of Multiple
+Deprivation 2004: Technical Report. Scottish Executive, 2004. Available at: http://
+www.scotland.gov.uk/Resource/Doc/26350/0025281.pdf (26 February 2014, date last
+accessed).
+34 National Records of Scotland. General Register Office for Scotland - Migration
+between Scotland and Overseas. In, out and net migration by age group between
+Scotland and overseas, 2001/02 to latest. Edinburgh: National Records for Scotland,
+2012. Available at: http://www.gro-scotland.gov.uk/files2/stats/migration/overseas_
+mig_flows_by_age_scotland_2001-02_to_2011-12_updsept13.pdf (26 February
+2014, date last accessed).
+35 Cleves MA, Gould WW, Gutierrez RG, Marchenko A. An Introduction to Survival
+Analysis Using Stata , 2nd edn. College Station, TX: Stata Press, 2008.
+36 Menard SW. Applied Logistic Regression Analysis . Thousand Oaks, CA: Sage
+Publications, 2002.
+37 Watt G. The inverse care law today. Lancet 2002;360:252–4.
+38 Benach J, Malmusi D, Yasui Y, et al. A new typology of policies to tackle health
+inequalities and scenarios of impact based on Rose’s population approach. J
+Epidemiol Community Health 2012;67:286–91.
+39 Hawkins SS, Stern AD, Gillman MW. Do state breastfeeding laws in the USA
+promote breast feeding? J Epidemiol Community Health 2012;67:250–6.
+40 OECD. OECD Family Database . Paris: OECD, 2014. Available at: www.oecd.org/
+social/family/database (26 February 2014, date last accessed).
+.................. ................... ................... .................. ................ ...............
+European Journal of Public Health , Vol. 24, No. 6, 1041–1047
+/C223The Author 2014. Published by Oxford University Press on behalf of the European Public Health Association. All rights reserved.
+doi:10.1093/eurpub/cku038 Advance Access published on 28 March 2014
+.................. ................... ................... .................. ................ ...............
+Cultures of evidence across policy sectors: systematic
+review of qualitative evidence
+Theo Lorenc 1, Elizabeth F. Tyner 2, Mark Petticrew 1, Steven Duffy 3, Fred P. Martineau 2,
+Gemma Phillips 2, Karen Lock 2
+1 Department of Social and Environmental Health Research, School for Public Health Research, London School of Hygiene
+and Tropical Medicine, London, UK
+2 Department of Health Services Research and Policy, School for Public Health Research, London School of Hygiene and
+Tropical Medicine, London, UK
+3 Centre for Reviews and Dissemination, University of York, York
+Correspondence: Theo Lorenc, Department of Science, Technology, Engineering and Public Policy (STEaPP), University
+College London, Gower Street, London WC1E 6BT, UK, Tel: +44 (0)20 76795743, e-mail: t.lorenc@ucl.ac.uk
+Present address:Department of Science, Technology, Engineering and Public Policy (STEaPP), University College London,
+London
+Background: It is important to understand the decision-making process, and the role of research evidence within
+it, across sectors other than health, as interventions delivered within these sectors may have substantial impacts on
+public health and health inequalities. Methods: Systematic review of qualitative evidence. Twenty-eight databases
+covering a range of sectors were searched. Studies were eligible if they included local decision-makers in a policy
+field relevant to the social determinants of health (including housing, transport, urban planning and regeneration,
+crime, licensing or trading standards), were conducted in a high-income country, and reported primary qualitative
+data on perceptions of research evidence. Study quality was assessed and a thematic synthesis undertaken.
+Results: Sixteen studies were included, most using interview designs, and most focusing on planning or
+transport policy. Several factors are seen to influence decision-makers’ views of evidence, including practical
+factors such as resources or organizational support; the credibility of the evidence; its relevance or applicability
+to practice; considerations of political support or feasibility; and legislative constraints. There are limited data on
+how evidence is used: it is sometimes used to not only support decision-making, but also to lend legitimacy to
+decisions that have already been made. Conclusion: Although cultures of evidence in non-health sectors are similar
+to those in health in some ways, there are some key differences, particularly as regards the political context of
+decision-making. Intersectoral public health research could benefit from taking into account non-health decision
+makers’ needs and preferences, particularly around relevance and political feasibility.
+.................. ................... ................... .................. ................ ...............
+Introduction
+B
+ecause many major determinants of public health and health
+inequalities are social and environmental in nature, a broad
+range of public policies and services, not only healthcare or public
+health, can have an impact on health.
+1,2 The need for intersectoral
+working to understand the health impacts of policy has been widely
+discussed in recent years,3 for example with reference to the Health in
+All Policies model.4 In many countries in Europe and globally, local
+government is the most important tier in controlling policy sectors
+that impact on the social and environmental determinants of health.
+In the UK, the Health and Social Care Act moved public health de-
+partments from the National Health Service to local government in
+April 2013. In other European countries, public health decision-
+Cultures of evidence across policy sectors 1041
+Downloaded from https://academic.oup.com/eurpub/article/24/6/1041/608675 by World Bank user on 17 March 2025
+<<<PAGE=2>>>
+makers have long worked in, or in close collaboration with, local
+authorities or municipalities.5
+Intersectoral government working presents a number of challenges,
+relating particularly to the role of research evidence in decision-
+making across sectors, or the ‘cultures of evidence’ among decision-
+makers in different fields. The hypothesis motivating this review is
+that policy-makers from different sectors may use and understand
+evidence differently, and that the relation between evidence and
+decision-making processes is likely to vary between sectors. The use
+and uptake of research evidence by policy-makers and practitioners is
+currently an active field of research.
+6,7 However, most research has
+focused on healthcare and public health policy. The cultures of
+evidence in other sectors influencing population health are less well
+understood. Evidence may inform policy differently outside the health
+sector, and similar evidence may be understood differently by public
+health practitioners compared with people working in other sectors,
+potentially leading to miscommunication and missed opportunities
+for intersectoral action. These differences may arise for a number of
+reasons, such as the nature of the decisions made (e.g. the different
+constraints on decisions about the physical built environment, as
+opposed to social policy), decision-makers’ own training or back-
+grounds, organizational cultures and histories
+8 and, in some cases,
+differences in the corresponding academic disciplines. Hence, there
+is a need to explore the cultures of evidence in policy sectors outside
+health to develop a more accurate picture of how research evidence
+may impact on policy.
+The aim of this review was to synthesize data from qualitative
+research studies about local decision-makers in policy sectors
+broadly related to the built environment, relating to their use or
+perceptions of research evidence (see further under ‘inclusion
+criteria’ below). The built environment was chosen as it is an
+important locus of upstream determinants of health, and is the
+target of a fairly well-defined subset of policy sectors. We focused
+on qualitative data to gain a more nuanced picture of cultures of
+evidence in their practical context.
+Methods
+The review protocol is available from the School for Public Health
+Research@LSHTM website, http://sphr.lshtm.ac.uk.
+Searching
+In October 2012, twenty-eight databases (table 1) were searched
+using a strategy combining terms for decision-makers, terms for
+views, attitudes or qualitative research, and terms for evidence. An
+example search strategy is presented in Supplementary data
+Appendix A. We also hand-searched the following four key
+journals for the past five years:
+/C15 Evidence and Policy
+/C15 Journal of Housing and the Built Environment.
+/C15 Police Practice and Research
+/C15 Transportation Research Part A: Policy and Practice
+Finally, we screened all references cited by studies included in the
+review and studies that cited the included studies. The searches were
+not limited by date or language of publication.
+Inclusion criteria
+All titles and abstracts identified by the search strategy were screened
+against the following inclusion criteria:
+(i) Does the study concern one of the following health-relevant
+policy fields: housing, transport, urban planning and regener-
+ation, crime and disorder, alcohol and food licensing, or
+trading standards?
+(ii) Does the study report primary qualitative data (e.g. interviews,
+ethnography)?
+(iii) Was the study conducted in a high-income country (current
+OECD member)?
+(iv) Does the study population include local policy-makers, prac-
+titioners or anyone with a local-level decision-making role?
+(v) Does the study report data concerning perceptions of research
+evidence? (Inclusion was restricted to perceptions of research
+conducted by academic researchers; studies of other types of
+information or data, such as GIS or transport modelling, were
+excluded unless data were generated by academics.)
+Regarding the last criterion, we initially included any type of explicit
+knowledge or information. However, these data proved to be too
+conceptually heterogeneous to produce a meaningful synthesis,
+because of the wide variation in the types of information
+discussed in the studies. (It also became clear that, while drawing
+the line at research evidence is arbitrary, drawing it at explicit in-
+formation is no less arbitrary, given the importance of tacit
+knowledge in decision-making.)
+A randomly selected sample of 10% of abstracts was independently
+double-screened by two reviewers, and differences were resolved by
+discussion. Subsequent references were screened by one reviewer.
+Full-text references were independently double-screened by two
+reviewers. EPPI-Reviewer 4 software was used to manage data.
+Quality appraisal, data extraction and synthesis
+The quality of each included study was appraised using the quality
+appraisal tool produced by the Centre for Public Health Excellence
+at the UK National Institute for Health and Care Excellence
+(NICE).
+9 Each study was quality-assessed by two reviewers inde-
+pendently, and differences were reconciled by discussion. The tool
+assesses the appropriateness of qualitative approach to the research
+question, methodological rigour and relevance, and adequacy of the
+findings. Each study was then awarded a cumulative quality
+category: low, medium or high quality.
+Table 1 Databases searched for the review ( N = 28)
+Applied Social Sciences Index and Abstracts (ASSIA)
+Campbell Library
+Cochrane Central Register of Controlled Trials (CENTRAL)
+Cochrane Database of Systematic Reviews (CDSR)
+Cochrane Methodology Register (CMR)
+Conference Proceedings Citation Index- Science (CPCI-S)
+Conference Proceedings Citation Index- Social Science and Humanities
+(CPCI-SSH)
+COPAC
+Criminal Justice Abstracts
+Database of Abstracts of Reviews of Effects (DARE)
+EconLit
+Enviroline
+Health Technology Assessment (HTA) database
+MEDLINE
+MEDLINE In-Process and Other Non-Indexed Citations
+National Criminal Justice Reference Service (NCJRS)
+NHS Economic Evaluation Database (NHS EED)
+OAISTER
+OpenGrey
+PAIS International
+PsycINFO
+Science Citation Index (SCI)
+Social Care Online
+Social Policy and Practice
+Social Science Citation Index (SSCI)
+Social Services Abstracts
+TRID (Transportation Research Information Services (TRIS) database and
+International Transport Research Documentation (ITRD) database)
+Zetoc
+1042 European Journal of Public Health
+Downloaded from https://academic.oup.com/eurpub/article/24/6/1041/608675 by World Bank user on 17 March 2025
+<<<PAGE=3>>>
+Data extraction was conducted independently by two reviewers.
+Data were extracted from each study on the policy field, research
+parameters, data collection methods, population and sample
+selection, outcomes, analysis methods, limitations and funding
+source. Data were coded line-by-line, using an open code set, and
+synthesized thematically using a constant comparison technique.
+Findings
+Sixteen studies were included in the synthesis. Figure 1 shows the
+flow of literature through the review. Table 2 provides an overview
+of the context, methods and research question of each included
+study, and the quality assessment ratings. All but one study used
+interview or focus group methodologies, with six also incorporating
+case study methods. Eight studies concern planning or environment
+policy, seven transport, one urban regeneration and one community
+safety (with one covering both planning and transport). The findings
+are presented under three broad thematic questions:
+(i) What is considered to be evidence by non-health decision-
+makers?
+(ii) What factors affect decision-makers’ use of research evidence?
+(iii) How do decision-makers use research evidence?
+What is considered to be evidence?
+A range of types of evidence are mentioned by participants,
+including outcome evaluations such as trials, 12,20 literature
+reviews,13,22 needs assessments, 11 surveys of public views or prefer-
+ences or more informal types of public consultation, 11,19,20,22
+examples or case studies of what other decision-makers are doing
+elsewhere,12,13 expert opinion 13 and various types of routine data
+and statistics.20
+There is thus considerable latitude in what these non-health pol-
+icymakers define as ‘evidence’. Even though this review adopted a
+narrow definition of ‘research evidence’, it is clear that academic
+research is only one among many potential sources of information.
+Several studies from transport and planning conclude that academic
+research evidence is less used than other types of information.
+12,22,25
+Decision-makers in planning and transport are seen to value data
+that illuminate local contexts
+24 or help to predict the public’s
+responses to policy decisions. 20 One study of built environment
+decision-makers finds that cost–benefit or other economic analyses
+are particularly convincing.
+13
+One study of the New Deal for Communities evaluation 12 finds
+that local practitioners often see their own informal practice-based
+expertise as more valuable than academic research. For example, one
+participant argues: ‘You don’t learn by sitting people in front of
+screens and giving them information. It’s more about dialogue.
+You need to discuss it and test it out in different scenarios.’
+12
+Participants in this study also link practitioner expertise to lay
+knowledge, and identify a potential tension between evidence use
+and local empowerment, pointing out that local people may not
+make ‘evidence-based’ decisions.
+What factors affect decision-makers’ use of research
+evidence?
+The studies identify a wide range of factors that may impact on
+decision-makers’ use of evidence. Several participants from
+Unique records iden/g415ﬁed through 
+database searching 
+(n = 13,126)
+Screening Included Eligibility Iden/g415ﬁca/g415on 
+Addi/g415onal records iden/g415ﬁed 
+through other sources 
+(n = 5)
+Records screened 
+(n = 13,131) 
+Records excluded 
+(n=12,890; n=14 
+irretrievable)  
+Full-text ar/g415cles assessed 
+for eligibility 
+(n = 227) 
+Full-text ar/g415cles excluded 
+(n = 209) 
+1. Policy ﬁeld not relevant (14) 
+2. Not substan/g415ve primary 
+qualita/g415ve data (73) 
+3. Not a high-income country (0) 
+4. Popula/g415on not decision-makers 
+(19) 
+5. Not about evidence (103) 
+Studies included in 
+qualita/g415ve synthesis 
+(n = 16 + 2 linked reports)
+Figure 1 Flow of literature through the review.
+Cultures of evidence across policy sectors 1043
+Downloaded from https://academic.oup.com/eurpub/article/24/6/1041/608675 by World Bank user on 17 March 2025
+<<<PAGE=4>>>
+transport and planning mention practical barriers, including lack of
+time or research skills, 12,19,20,25,26 or lack of institutional support to
+keep up with research. 12,25 Participants in several studies of the built
+environment and transport sectors mention contact or collaboration
+between researchers and decision-makers as a facilitator of research
+use,
+20,26 but it is rarely described as a major factor.
+A number of characteristics of the evidence itself are also
+mentioned. Some issues relate to the presentation of evidence
+rather than the nature of the evidence: for example, reports that
+are over-long20,22 or difficult to read 12,20 are less likely to influence
+practice. Research in planning and transport may sometimes be
+lacking altogether 10,12,13 and is often of poor quality, 19,20 although,
+as discussed below, many participants do not clearly distinguish
+between high-quality and poor-quality evidence.
+12,19
+Perhaps the most frequently mentioned facilitator of evidence
+uptake is its ‘credibility’, a complex notion that refers less to the
+methodological or substantive characteristics of the research
+itself than to the personal authority of the individuals putting
+it forward, particularly senior academics. Academic researchers are
+seen as neutral and disinterested, and hence able to intervene more
+credibly in politically loaded decisions, particularly in transport.
+16,22
+More broadly, research conducted by academics is seen to grant
+‘legitimacy’.24 As one transport policy-maker states: ‘certain
+academics have a national standing and [policy] boards value their
+perspective’.22 Coote et al.12 report the perception that the credibility
+of research suffered when it was led by more junior researchers
+rather than the senior academics who led bids for research funding.
+Another prominent set of themes concerns the relevance of
+research. Participants in one study see academic researchers in
+transport as self-absorbed and pre-occupied with developing
+sophisticated theories rather than usable solutions; 18 in other
+studies, academics are seen to focus on over-simplified problems
+that do not reflect the complexity of practice. 12,19 Research reports
+are perceived as not drawing clear and well-informed implications
+for practice. 12,22 Where they do attempt to inform practitioners,
+Coote et al. 12 argue that they focus excessively on ‘stories of
+‘‘good practice’’ rather than insights into processes or outcomes
+that might help them to improve delivery’ (quote from report
+authors), and fail to illuminate causal links. 13 Practitioners are
+often uncertain about how to apply evidence generated in other
+Table 2 Overview of the included studies ( N = 16)
+First author and
+references
+Country/ies Data collection
+methods
+Policy sector Focus/RQ Quality
+rating
+Allender10 UK Focus groups Planning; transport Town planning and transport
+professionals’ views about
+NICE public health guidance
+++
+Allison11 USA Interviews Community safety Barriers and facilitators of
+community youth violence
+prevention programmes
+/C0
+Coote
+12 UK (and some USA data) Interviews and
+case studies
+Urban regeneration and
+social policy
+Role of evidence and evaluation
+in social policy; policy-makers’
+and practitioners’ views and
+experiences of evaluation
+(particularly New Deal for
+Communities)
++
+Freeman
+13 Australia Interviews Built environment and
+health
+Policy development in healthy
+built environments; research-
+policy partnerships
++
+Garcia14 USA Interviews and
+case studies
+Environmental health;
+planning
+Process evaluation of community-
+based environmental justice
+advocacy project
++
+Gonzalez
+15 USA Interviews and
+case studies
+Environmental health;
+planning
+Process evaluation of community-
+based environmental justice
+advocacy project
++
+Gudmundsson16 Sweden Interviews and
+case studies
+Transport Use of decision support in
+transport planning and policy
+/C0
+Harrison17 UK Interviews Planning; nature
+conservation
+Practitioners’ views and practices
+about nature conservation in
+brownfield sites
+/C0
+Hatzopoulou
+18 Canada Interviews Transport Use of modelling tools in
+decision-making
++
+Hewson19 UK Survey feedback Transport (road injury
+reduction)
+Description of course on
+evidence-based practice for
+practitioners
+/C0
+Hinchcliff
+20,21 Australia (and some USA
+data)
+Interviews Transport (graduated
+licensing, road safety)
+Policy-makers’ views of evidence;
+evidence–policy relation more
+generally
+++
+Marsden22 France, UK, Germany,
+Sweden, Denmark,
+USA, Canada
+Interviews Transport Policy transfer in sustainable
+urban transport
+/C0
+Minkler
+23 USA Interviews and
+case studies
+Environmental health;
+planning
+Process evaluation of community-
+based environmental justice
+advocacy project
++
+Petersen
+24 USA Interviews and
+case studies
+Environmental health;
+planning
+Process evaluation of community-
+based environmental justice
+advocacy project
++
+Sandstro¨ m
+25 Sweden Interviews Planning Urban planners’ views about
+green space
+/C0
+Timms26 France, UK, Italy, Poland,
+Sweden, Austria, Norway
+Interviews Transport Policy transfer and policy-makers’
+information needs
+/C0
+1044 European Journal of Public Health
+Downloaded from https://academic.oup.com/eurpub/article/24/6/1041/608675 by World Bank user on 17 March 2025
+<<<PAGE=5>>>
+countries or contexts. 12 The issue of relevance helps to explain why
+many participants, across sectors including planning, transport and
+urban regeneration, feel overwhelmed by the volume of
+evidence,10,12,19,22 even though little of it is usable for practice.
+Several participants also question how much research evidence
+really adds to existing practitioner expertise. Research findings and
+evidence-based guidelines are often seen as ‘common sense’
+generalities that do not add to what is already known. 10,12 As
+discussed further below, several participants question the value of
+building an ever greater evidence base that has limited applicability
+to practice. One participant argues: ‘You can run the research until
+the cows come home, I actually think a lot of it’s simply [about] that
+implementation’.
+13
+A range of more macro-level variables also affect evidence use.
+Theoretically possible options may not be politically accept-
+able.
+12,20,21 Research findings thus need to be balanced against
+what is politically achievable and realistic. This is highlighted in
+Hinchcliff et al.’s 20 study of transport. One participant
+summarizes: ‘It boils down to what the research evidence is telling
+you, what the practicality of your system allows you to do, and what
+we interpret from the community as being initiatives they think are
+workable’. However, acceptability may in its turn be affected by
+other factors. The media, for example, influence decision-makers’
+agendas, but can themselves be influenced by researchers.
+21
+Finally, in some sectors, decision-makers’ options are narrowly
+constrained by legislation or guidance. In planning, several partici-
+pants point out that legal regulations, where they apply, take
+precedence over evidence-based decisions, and that evidence has a
+much greater chance of being used if it takes this context into
+account.
+10 One planning practitioner argues: ‘Is this [guidance]
+going to be a stand alone thing or is it going to be integrated into
+PPG 17 etc? Otherwise it’s almost a throwaway guidance whereas if
+it’s through PPG 17 it actually has the authority and people take much
+greater due regard to that when they’re making planning decisions’.
+10
+How do decision-makers use research evidence?
+A number of participants in transport and community safety describe
+using research evidence to make informed decisions, 11,12,16,18,20
+although other participants report not using research at all. 11,19,25
+Where research is used, it is generally not the main determining
+factor in what decisions are made, and it is often unclear from the
+studies how research is used or what difference it makes (the main
+exception being Hinchcliff et al.’s
+20 study of driver licensing). In line
+with the issues of political feasibility and legislation, some partici-
+pants report that evidence is only useful once local policy objectives
+are already set. 12,20 In contrast, one participant suggests research
+may help to expand the possibilities considered by decision-
+makers: ‘it questions what we all accept as good practice, when in
+fact this might be flawed. But at least it makes us think there is better
+practice’.19 Research, particularly local evaluation, may also help
+local decision-makers demonstrate that they are meeting targets or
+conforming to performance management standards.
+12
+Other studies suggest that research evidence is often used to justify
+or defend decisions that have already been made, and to manage
+relations with national policy-makers or others in positions of
+power. Coote et al. 12 conclude that local decision-makers largely
+use evidence ‘to justify prior decisions and to help them make the
+case for political and financial support’ (quote from report authors).
+Other participants talk of a feeling of ‘confidence’ from having
+decisions backed up by evidence.
+12 As already described, the ‘cred-
+ibility’ of research evidence associated with prestigious senior
+academics helps to bestow legitimacy on decisions that are aligned
+with it. 23,24 Institutional credibility from organizations like NICE
+also helps to grant legitimacy to decisions in other sectors such as
+planning or transport. 10
+Many participants are aware of the tension between the rhetoric of
+evidence-based policy and how research is actually used in practice.
+Participants in Coote et al.’s 12 study express frustration that the
+policies they implement, led by national government agencies, are
+not themselves evidence based, ‘yet we’re expected to find evidence
+to support the implementation—I think that’s contradictory’.
+Participants in two studies perceive policy formation at national
+government level to be frequently driven by political factors rather
+than by evidence.
+12,20 Research may be commissioned to provide a
+pretext for delaying unpopular decisions or diverting attention from
+certain issues, 20 and national policy-makers may reject negative
+research findings or distort them in the service of political agendas. 12
+Discussion
+Comparison of our findings with the literature on decision-makers’
+views of evidence in health-related fields reveals some congruent
+findings, for example, the emphasis on relevance, or the finding
+that evidence is often used ‘tactically’, in Weiss’ sense,
+27 as a
+means of obtaining support for decisions that have already been
+made. However, this review suggests some important differences
+between the findings reported in the health literature
+6,7,28 and our
+findings from other policy sectors. Three are particularly striking.
+First, direct collaboration between researchers and policy-makers or
+practitioners is much more rarely mentioned in our data. Second,
+‘credibility’ is an important perceived facilitator of evidence use, and
+appears to have as much to do with the personal status of academic
+researchers as with the robustness of the evidence. Third, many
+decisions in non-health sectors are limited much more by political
+or legal constraints than those in public health or clinical practice;
+as these factors must generally be prioritized over the use of
+evidence, the scope for the latter to make informed decisions is
+often limited. These differences, we argue, are striking enough to
+license speaking of distinct ‘cultures’ of evidence, at least in the
+minimal (e.g. structural–functionalist) sense of coherent patterns
+of norms and orientations governing how knowledge is understood
+and used.
+This review has some limitations, particularly the narrow focus on
+academic research evidence. Our findings indicate that decision-
+makers use a wide range of other sources of information, both
+formal tools for decision support or information management and
+more informal types of expertise. Future research could usefully
+focus on situating evidence use and other information sources
+within the actual decision-making process in specific fields. This
+restriction of scope also means that fairly few studies met our
+criteria, and of those, several made only a limited contribution to
+the synthesis.
+It is also important to note that many of these studies were
+conducted before the current economic recession. There may now
+be even greater financial constraints on the production of new
+evidence and evaluation, and on its application. Evidence-based
+decision-making may now have more of a focus on ‘what doesn’t
+work’ rather than on ‘what works’: one recent report notes how
+English local authorities are ‘using evidence ... [by] applying lean
+thinking to drive out unproductive activities’.
+29 Our focus on local-
+level decision-makers is also a potential limitation; however, many of
+our findings are likely to be generalizable to other levels, and in any
+case there is value in focused attention on local government, where
+most policies in the sectors concerned are implemented.
+Our findings suggest a number of implications for public health
+researchers and practitioners. The finding that evidence is not
+perceived as relevant or practically usable suggests that a key task
+for public health researchers working with practitioners in other
+sectors sector is a translational one, which can help to draw out
+the value of the existing research for practice. Because practitioners
+already feel overwhelmed with evidence, little of which is useable, an
+exclusive focus on the need for more evidence is likely to meet with
+skepticism. On the side of public health practitioners, the findings
+suggest that effective intersectoral working may involve translating
+Cultures of evidence across policy sectors 1045
+Downloaded from https://academic.oup.com/eurpub/article/24/6/1041/608675 by World Bank user on 17 March 2025
+<<<PAGE=6>>>
+between different cultures of evidence. In particular, the information
+resources and standards of reliability used by practitioners in non-
+health sectors may be different.
+Furthermore, decision-makers have clear views about the limita-
+tions of the existing evidence base, and report a number of good
+reasons why research findings are not put into practice. They also
+report that evidence is often used in a ‘tactical’, post hoc way. These
+findings suggest that the value of research is likely to be maximized if
+researchers work with decision-makers to explore their research
+needs, and to understand the shape of the decision-making
+process, rather than trying to promote the uptake or impact of
+evidence for its own sake.
+However, the decision-making process in local government is
+complex and contingent, and it is likely that other factors, particu-
+larly political factors, will often play a greater role than research
+evidence. One Director of Public Health in the UK recently noted
+that political judgement permeates every decision: ‘There may be a
+political angle to a mental health campaign or a social marketing
+campaign to reach seldom heard groups. You need to be aware of
+how it plays politically’.30 Nutley and Davies 31 (p. 337 figure 2) set
+out the main categories of influence on individual practice, among
+which are ‘organisational structures and cultural norms’. We
+conclude from our review that in local government this has a par-
+ticularly strong influence, which is not yet well understood; and the
+structures, cultures and norms that researchers most need to
+understand if they are to have an impact on decision-making are,
+firstly, political structures, and secondly, evidence cultures. More
+broadly, discussion of evidence and policy would gain from more
+focused attention to the institutional and socio-political contexts
+through which knowledge passes, and to the cultural differences
+that may impact on the generation and use of evidence.
+Supplementary data
+Supplementary data are available at EURPUB online.
+Funding
+This work was supported by the National Institute for Health
+Research (NIHR)’s School for Public Health Research (SPHR).
+The views expressed are those of the author(s) and not necessarily
+those of the NHS, the NIHR or the Department of Health.
+Key points
+/C15 Because of the importance of intersectoral working and
+policy-level interventions in promoting health, we need to
+understand non-health decision-makers’ practices and
+views, particularly about the use of research evidence.
+/C15 Decision-makers in non-health sectors value evidence that is
+credible and relevant to practice, and feel that much existing
+research evidence does not meet these needs.
+/C15 In some sectors, laws and regulations may limit the extent to
+which evidence can be used to make informed decisions.
+/C15 Evidence may often be used tactically to justify and
+legitimize decisions post hoc . Hence, increasing the uptake
+of research evidence may make limited difference to the
+quality of decisions.
+/C15 Public health policy-makers and practitioners should be aware
+that other sectors may have different cultures of evidence.
+References
+1 Macintyre S, Ellaway A. Neighbourhood influences on health. In: Graham H, editor.
+Understanding Health Inequalities, 2nd edn. Maidenhead: Open University Press,
+2009: 84–101.
+2 Marmot M, Friel S, Bell R, et al. Closing the gap in a generation: health equity
+through action on the social determinants of health. Lancet 2010;372:1661–9.
+3 Loewenson R. Evaluating intersectoral processes for action on the social deter-
+minants of health: learning from key informants. Social Determinants of Health
+Discussion Paper 5: Policy & Practice. Geneva: World Health Organization, 2013.
+4 Stahl T, Wismar M, Ollila E, et al. Health in All Policies: Prospects and Potentials.
+Finland: Finnish Ministry of Social Affairs and Health, European Observatory on
+Health Systems and Policies, 2006. Available at: http://www.euro.who.int/__data/
+assets/pdf_file/0003/109146/E89260.pdf (28 June 2013 date last accessed).
+5 European Observatory on Health Systems and Policies. Countries and subregions.
+Health systems in transition. Available at: http://www.euro.who.int/en/who-we-are/
+partners/observatory/health-systems-in-transition-hit-series/countries-and-
+subregions (14 June 2013 date last accessed).
+6 Orton L, Lloyd-Williams F, Taylor-Robinson D, et al. The use of research evidence in
+public health decision making processes: systematic review. PloS One 2011;6:e21704.
+7 Oliver K, Innvær S, Lorenc T, et al. A systematic review of barriers to and facilitators
+of the use of evidence by policy makers. BMC Health Serv Res 2014;14:2.
+8 Pettman T, Armstrong R, Pollard B, et al. Using evidence in health promotion in
+local government: contextual realities and opportunities. Health Promot J Austr
+2013;24:72–5.
+9 National Institute for Health and Clinical Excellence. Methods for the Development
+of NICE Public Health Guidance. 2nd edn. Appendix H, 2009. Available at: www.
+nice.org.uk/media/2FB/53/PHMethodsManual110509.pdf (14 June 2013 date last
+accessed).
+10 Allender S, Cavill N, Parker M, Foster C. ‘Tell us something we don’t already know
+or do!’—the response of planning and transport professionals to public health
+guidance on the built environment and physical activity. J Public Heal Policy 2009;
+30:102–16.
+11 Allison KW, Edmonds T, Wilson K, et al. Connecting youth violence prevention,
+positive youth development, and community mobilization. Am J Community
+Psychol 2011;48:8–20.
+12 Coote A, Allen J, Woodhead D. Finding Out What Works. Building Knowledge About
+Complex, Community-Based Initiatives . London: Kings Fund, 2004.
+13 Freeman E, Thompson S, Jalaludin B. Healthy built environments: stakeholder
+engagement in evidence based policy making. In: Whitzman C, Fincher R, editors.
+Proceedings of the State of Australian Cities Conference 29 November–2 December,
+Melbourne, Melbourne: Australian Sustainable Cities and Regions Network, 2011.
+14 Garcia AP, Wallerstein N, Hricko A, et al. THE (Trade, Health, Environment)
+Impact Project: a community-based participatory research environmental justice
+case study. Environ Justice 2013;6:17–26.
+15 Gonzalez PA, Minkler M, Garcia AP, et al. Community-based participatory research
+and policy advocacy to reduce diesel exposure in West Oakland, California. Am J
+Public Health 2011;101:S166–75.
+Individual
+practice
+Organisational 
+structures and 
+cultural norms
+Routines and
+craft/procedural
+knowledge
+Figure 2 Categories of influence on practice (reproduced with
+permission from Davies and Nutley 31)
+1046 European Journal of Public Health
+Downloaded from https://academic.oup.com/eurpub/article/24/6/1041/608675 by World Bank user on 17 March 2025
+<<<PAGE=7>>>
+16 Gudmundsson H, Ericsson E, Tight M, et al. The role of decision support in the
+implementation of ‘‘sustainable transport’’ plans.Eur Plan Stud 2012;20:171–91.
+17 Harrison C, Davies G. Conserving biodiversity that matters: practitioners’ per-
+spectives on brownfield development and urban nature conservation in London.
+J Environ Manage 2002;65:95–108.
+18 Hatzopoulou M, Miller E. Transport policy evaluation in metropolitan
+areas: the role of modelling in decision-making. Transp Res A Policy Pract 2009;43:
+323–38.
+19 Hewson P. Evidence-based practice in road casualty reduction. Inj Prev 2007;13:
+291–2.
+20 Hinchcliff R, Ivers RQ, Poulos R, Senserrick T. Utilization of research in policy-
+making for graduated driver licensing. Am J Public Health 2010;100:2052–8.
+21 Hinchcliff R, Poulos R, Ivers R, Senserrick T. Understanding novice driver policy
+agenda setting. Public Health 2011;125:217–21.
+22 Marsden G, Frick KT, May AD, Deakin E. How do cities approach policy innovation
+and policy learning? A study of 30 policies in Northern Europe and North America.
+Transp Policy 2011;18:501–12.
+23 Minkler M, Garcia AP, Williams J, et al. Si se puede: using participatory research to
+promote environmental justice in a Latino community in San Diego, California.
+J Urban Health 2010;87:796–812.
+24 Petersen D, Minkler M, Va ´squez VB, Baden AC. Community based participatory
+research as a tool for policy change: a case study of the Southern California
+Environmental Justice Collaborative. Rev Policy Res 2006;23:339–54.
+25 Sandstro¨m UG, Angelstam P, Khakee A. Urban comprehensive planning–identifying
+barriers for the maintenance of functional habitat networks. Landsc Urban Plan
+2006;75:43–57.
+26 Timms P. Urban transport policy transfer:‘‘bottom-up’’ and ‘‘top-down’’ perspec-
+tives. Transp Policy 2011;18:513–21.
+27 Weiss CH. The many meanings of research utilization. Public Adm Rev 1979;39:
+426–31.
+28 Innvær S, Vist G, Trommald M, Oxman A. Health policy-makers’ perceptions of
+their use of evidence: a systematic review. J Health Serv Res Policy 2002;7:239–44.
+29 Johnstone D. Squaring the Circle: Evidence at the Local Level . London: Alliance for
+Useful Evidence, 2013.
+30 Vize R. BMJ briefing: meet the new masters of public health. BMJ 2013;346:
+f4242.
+31 Nutley S, Davies H. Making a reality of evidence-based practice. In: Davies H,
+Nutley S, Smith P, editors. What Works? Evidence-based Policy and Practice in Public
+Aervices. Bristol: The Policy Press, 2000: 317–50.
+.................. ................... ................... .................. ................ ...............
+European Journal of Public Health , Vol. 24, No. 6, 1047–1052
+/C223The Author 2014. Published by Oxford University Press on behalf of the European Public Health Association. All rights reserved.
+doi:10.1093/eurpub/cku043 Advance Access published on 7 April 2014
+.................. ................... ................... .................. ................ ...............
+Public health in the 21st century: working differently
+means leading and learning differently
+Katarzyna Czabanowska 1,2, Kenneth A. Rethmeier 3,4, George Lueddeke 5, Tony Smith 6,
+Andre´ Malho7, Robert Otok 8, Mindaugas Stankunas 9,10
+1 Department of International Health, CAPHRI, Faculty of Health, Medicine and Life Sciences, Maastricht University,
+Maastricht, The Netherlands
+2 Institute of Public Health, Faculty of Health Sciences, Jagiellonian University Medical College
+3 The Rethmeier Group, LLC, Town of Bermuda Run, NC, USA
+4 Department of Health Policy and Management, School of Public Health, University of North Carolina, Chapel Hill,
+NC, USA
+5 Education Advisor, GRL Consulting in Higher and Medical Education Southampton, Hampshire, UK
+6 Leadership and Organisation Development Centre for Leadership in Health and Social Care, Faculty of Health and
+Wellbeing, Sheffield Hallam University, Sheffield, UK
+7 Department of International Health, Faculty of Health, Medicine and Life Sciences, Maastricht University, Maastricht,
+The Netherlands
+8 The Association of Schools of Public Health in the European Region (ASPHER), Brussels, Belgium
+9 Department Health Management, Lithuanian University of Health Sciences, Kaunas, Lithuania
+10 Health Services Department, School of Medicine, Gold Coast, Queensland, Australia
+Correspondence: Katarzyna Czabanowska, PO Box 616, 6200 MD Maastricht, The Netherlands, Tel: +31 43 3881592,
+Fax: +31 43 38 84 172, e-mail: kasia.czabanowska@maastrichtuniversity.nl
+Background: Public health needs to adapt to the complex context of 21st century Europe. Unquestionably, leaders
+for health require new skills to face a myriad of wicked problems and challenges that are at a critical juncture for
+potential improvements. Public health curricula are traditionally oriented around core educational disciplines, and
+there is little room for developing students’ leadership capabilities within the context of public health. The aim is
+to present the meaning of contemporary public health leadership based on qualitative research and propose a
+curriculum model for contemporary public health leadership. Methods: A series of in-depth semi-structured
+interviews were carried out with six European public health leaders from a variety of countries and professional
+backgrounds. The interviews recorded and transcribed. A thematic content analysis was undertaken to identify
+themes within the data. Results: Five common themes that help to inform future leadership capacity arose from
+the interviews: the inner path of leadership, the essence of leadership, new types of leadership, future leaders’
+imperatives functioning within a complex and uncertain European public health context. Conclusion: The
+leadership thematic model makes an important contribution to defining public health leadership in Europe and
+can help to guide the content development of public health leadership curricula. The authors assert that a new
+‘integrative inquiry-based learning model’, with leadership as a central component, will allow schools and depart-
+ments of public health across Europe to be able to ensure that tomorrow’s public health leaders are adequately
+trained and prepared for the challenges they will face.
+.................. ................... ................... .................. ................ ...............
+Working differently means leading and learning differently 1047
+Downloaded from https://academic.oup.com/eurpub/article/24/6/1041/608675 by World Bank user on 17 March 2025

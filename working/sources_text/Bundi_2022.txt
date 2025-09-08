@@ -1,0 +1,936 @@
+<<<PAGE=1>>>
+ORIGINAL ARTICLE
+Trust, but verify? Understanding citizen attitudes
+toward evidence-informed policy making
+Pirmin Bundi1 | Valérie Pattyn 2
+1Institute of Public Administration, University
+of Lausanne, Lausanne, Switzerland
+2Institute of Public Administration, Leiden
+University, The Hague, Netherlands
+Correspondence
+Pirmin Bundi, Institute of Public
+Administration, University of Lausanne, Rue
+de la Mouline 28, Lausanne CH-1015,
+Switzerland.
+Email:
+pirmin.bundi@unil.ch
+Abstract
+In this article, we inquire to what extent different manifesta-
+tions of trust are associated with public support for evidence
+informed policy making (EIPM). We present the results of a
+cross-sectional survey conducted in the peak of the second
+COVID-19 wave in six Western democracies: Australia,
+Belgium, Canada, France, Switzerland, and the United States
+(N = 8749). Our findings show that public trust in scientific
+experts is generally related to positive attitudes toward
+evidence-informed policy making, while the opposite is the
+case for trust in governments and fellow citizens. Interest-
+ingly, citizens' assessment of government responses to
+COVID-19 moderates the relationship between trust and
+attitudes toward EIPM. Respondents who do rather not trust
+their governments or their fellow citizens are more in favor
+of EIPM if they evaluate government responses negatively.
+These findings suggest that attitudes toward EIPM are not
+only related to trust, but also strongly depend on perceived
+government performance.
+Abstract
+Dans cet article, nous examinons dans quelle mesure
+différentes marques de confiance sont associées au soutien
+du public à l'élaboration de politiques fondées sur des
+preuves (EIPM). Nous présentons les résultats d'une
+A previous version of this article was presented at the 5th ICPP (Barcelona, Spain, July 5–9).
+Received: 15 July 2021 Revised: 16 March 2022 Accepted: 13 April 2022
+DOI: 10.1111/padm.12852
+This is an open access article under the terms of theCreative Commons Attribution-NonCommercial-NoDerivsLicense, which
+permits use and distribution in any medium, provided the original work is properly cited, the use is non-commercial and no
+modifications or adaptations are made.
+© 2022 The Authors.Public Administrationpublished by John Wiley & Sons Ltd.
+Public Admin. 2023;101:1227–1246.
+wileyonlinelibrary.com/journal/padm 1227
+<<<PAGE=2>>>
+enquête transversale menée au plus fort de la deuxième
+vague COVID-19 dans six démocraties occidentales: Aus-
+tralie, Belgique, Canada, France, Suisse et /C19Etats-Unis
+(N = 8749). Nos résultats montrent que la confiance du pub-
+lic dans les experts scientifiques est généralement liée à des
+attitudes positives envers l'élaboration de politiques fondées
+sur des preuves, alors que le contraire est constaté pour la
+confiance dans les gouvernements et les concitoyens. Il est
+intéressant de noter que l'évaluation par les citoyens des
+réactions du gouvernement au COVID-19 modère la relation
+entre la confiance et les attitudes envers l'EIPM. Les
+personnes interrogées ne faisant plutôt pas confiance à leur
+gouvernement ou à leurs concitoyens sont plus favorables à
+la politique fondée sur des preuves lorsqu'elles évaluent
+négativement les réactions du gouvernement. Ces résultats
+suggèrent non seulement que les attitudes envers l'EIPM ne
+sont pas seulement liées à la confiance, mais dépendent aussi
+fortement de la performance perçue du gouvernement.
+Abstract
+In dit artikel gaan we na in hoeverre verschillende vormen
+van vertrouwen samenhangen met publieke steun voor
+empirisch onderbouwd beleid (evidence informed policy
+making'', EIPM). We presenteren de resultaten van een
+cross-sectionele bevraging uitgevoerd op het hoogtepunt
+van de tweede COVID-19 golf in zes Westerse landen: Aus-
+tralië, België, Canada, Frankrijk, Zwitserland en de Ver-
+enigde Staten (N = 8749). Uit onze bevindingen blijkt dat
+het publieke vertrouwen in wetenschappelijke experts over
+het algemeen samenhangt met een positieve houding ten
+aanzien van EIPM, terwijl het omgekeerde het geval is voor
+het vertrouwen in regeringen en medeburgers. Het oordeel
+van burgers over de COVID-19 aanpak van overheden
+matigt evenwel de relatie tussen vertrouwen en attitudes
+ten aanzien van EIPM: respondenten die hun regering of
+hun medeburgers minder vertrouwen zijn meer voorstander
+van EIPM indien zij het optreden van hun overheid
+t.a.v. COVID-19 als negatief beoordelen. Deze bevindingen
+geven aan dat attitudes ten aanzien van EIPM niet alleen
+samenhangen met vertrouwen, maar ook sterk afhangen
+van waargenomen overheidsprestaties.
+1228 BUNDI AND PATTYN
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=3>>>
+1 | INTRODUCTION
+There is never just one answer to a problem, and decision makers usually have to choose the best possible option
+from a bouquet of different measures in addressing societal challenges. Which policy solution is eventually chosen
+will depend on the interaction among different factors which we can analytically capture under the umbrella of the
+four Is (Weiss,1995): interests, ideology, institutional rules, and information. How these factors manifest themselves,
+and which ones are prioritized will logically differ across particular politico-administrative settings. Still, one may get
+the impression that“information” (including scientific evidence) as one of the four Is has gained in significance over
+time, at least when considering the current popularity of a notion as evidence-based policy making in general govern-
+ment discourse. In public policy discussions, as argued by Head (Head,
+2016, p. 472), it is axiomatic that reliable
+information is integral to sound processes for formulating and implementing policies.
+This axiom has particularly been pushed on the agenda by the evidence-based policy movement since the 1970s
+and regained in momentum in the late 1990s. Generally speaking, the movement propagates to prioritize meaningful
+evidence in decision-making and to improve the policy impact through the systematic incorporation of evidence
+(Davies & Nutley,
+2000; Nutley et al.,2010; Pawson,2006). Following fierce intellectual discussions about the feasi-
+bility of evidence-based policy making, in light of the nature of the political game (Daviter,2015; Hong & Kim,2019;
+Newman & Head, 2015; Sanderson, 2002a; Schlaufer et al., 2018) and considering organizational impediments
+(Bourgeois & Cousins,2013; Head,2016; Labin et al.,2012; Powell et al.,2018), many have started to use the more
+modest term evidence-informed policy making (EIPM). Despite these recent qualifications (Head,2016), discussions
+about the relation between information and policy making remain in vogue, and received a strong boost with the
+COVID-19 crisis which put the topic high on the public and mass media's radar. Large numbers of the public voiced
+their skepticism about the extensive reliance of governments on scientific evidence, for example, in relation to vacci-
+nation, or lockdown measures. In literature, this skepticism is related to a plethora of factors, of psychological nature,
+normative, or social nature (Baghramian & Croce,
+2021; Levy,2019).
+When it comes to social factors underpinning support for or skepticism about EIPM, little systematic empirical
+research exists thus far on the role ofpublic trustin particular. In the context of COVID-19, several studies showed
+that trust is highly correlated with the compliance and acceptance of restrictive measures (Agley,2020; Bicchieri
+et al.,2021; Kreps & Kriner,2020; Plohl & Musil,2021). Also Cairney and Wellstead (2020) highlighted the important
+(albeit variable) role of different trust relations, including public trust in government and government policy, for
+understanding COVID-19 policy dynamics in the United Kingdom and the United States. Besides, also public trust in
+scientists, that is, the producers of evidence, received much scholarly attention in the context of the pandemic
+(Ahluwalia et al.,
+2021; Bennett, 2020), and reinvigorated long-existing discussions about the role and influence of
+scientific experts in democratic governance (e.g., Bertsou & Caramani, 2019; Dommett & Pearce, 2019;
+Pastorella, 2016). This being said, how public trust in various actors relates to citizen support for EIPM is unknown.
+Understanding this relationship is important, as it might point to cultural divides in advanced democracies and popu-
+list leaders devaluating the relevance of science in politics.
+COVID-19 constitutes a unique context to investigate this issue in more depth in a cross-country setting. Other
+than most studies, which typically focus on one type of trust only, we consider different types of trust in one model
+to explain EIPM attitudes: trust in scientific experts (epistemic trust) and trust in citizens and governments (two main
+expressions of social trust). With trust in citizens and governments shown to be determined by different antecedents
+(e.g., Peters et al.,
+1997), we also consider it important to apply a multi-trustee approach for a full understanding of
+the relationship between trust and support for EIPM. In addition, our study innovatively accounts for how citizen's
+assessment of government performance affects this relationship.
+We present the results of an original large-scale cross-sectional survey conducted in winter 2020/2021 in six
+Western democracies: Australia, Belgium, Canada, France, Switzerland, and the United States (totalN = 8749). At
+the time of the survey, all six countries faced the second wave of the COVID-19 pandemic. Our findings show that
+public trust in scientific experts is generally associated with positive attitudes toward EIPM, while the opposite is the
+BUNDI AND PATTYN 1229
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=4>>>
+case for trust in governments and fellow citizens. Interestingly, though, citizens' assessment of government
+responses to COVID-19 moderates the relationship between trust and attitudes toward evidence use. Respondents
+who do rather not trust governments or fellow citizens are more in favor of EIPM if they evaluate their government's
+responses negatively. These findings confirm that attitudes toward EIPM not only relate to trust, but also strongly
+depend on how COVID-19 performance of governments is perceived by citizens.
+This article is structured as follows. Section
+2 provides an overview of the literature on EIPM and presents our
+hypotheses. Section3 details the research design and data collection, while Section4 presents our findings. We pro-
+ceed with a discussion of our findings in Section5. The final section concludes by highlighting the major theoretical
+implications, and addresses this study's limitations and ways forward.
+1.1 | Attitudes toward evidence-informed policy making and the role of trust
+During the past couple of decades, EIPM1 has been placed back in the forefront of policy making as a normative leit-
+motif due to increasingly more complex policy problems and the consequent reduced policy analytical capacity of
+governments (Davies & Nutley,2000; Nutley et al.,2010; Pawson, 2006). The motives for integrating evidence in
+policy making are often said to be part of a rationalist and instrumentalist approach to policy-making (Mayer
+et al.,2005). In addition, EIPM is typically promoted to support the quest for more efficient and effective policy deci-
+sions. Governments, in this sense, make use of evidence“simply because they want to make the right decisions”
+(Peters & Barker, 1993, p. 1), in view of a proportionate and accurate spending of public money. As Peters and
+Barker also note (Peters & Barker,1993, p. 1),“receiving advice helps governments to appear more open and demo-
+cratic.” In other words, anchoring policy making in evidence is supposed to provide policy-makers with stronger pub-
+lic support, and is expected to foster trust in governments (the 2021 White House Memorandum on Restoring Trust
+in Government Through Scientific Integrity and Evidence-Based Policymaking being a recent case in point).
+Still, despite a great deal of interest in the contribution of EIPM in fostering government trust, little is known
+about the inverse relationship, treating trust as an independent variable. While governments may be incentivized to
+rely on evidence-based policy on rational motives, it is not rational per se to expect citizens to support the use of evi-
+dence in policy making, as they often know little about the process leading to this evidence (Baghramian &
+Croce,
+2021). As such, whether citizens value the use of evidence in policy making can be expected to be a function
+of trust.
+In this article, we inquire to what extent different manifestations of trust indeed relate to public support for the
+use of evidence in policy making. Rather than restricting ourselves to epistemic trust (Baghramian & Croce,2021)
+only, that is, trust in scientific experts, which is commonly associated with the relationship of evidence and policy,
+we also explicitly consider public trust in other trustees. Consistent with one of the most frequently cited definitions
+(PytlikZillig & Kimbrough,2016) we conceive trust broadly as“the willingness of a party to be vulnerable to the
+actions of another party based on the expectation that the other will perform a particular action important to the
+trustor, irrespective of the ability to monitor or control that other party” (Mayer et al.,
+1995, p. 712). Trust in this line
+of thinking comes down to an expression of“belief,” as a by-product of the embeddedness of individuals in a web of
+social relations (Powell,1996, p. 62).
+Scientific evidence is by nature produced by scientific experts who have an epistemic advantage over laypeople
+in a particular domain. This competitive advantage puts nonscientific experts inevitably in a dependence relationship,
+which “highlights the need for trust” (Baghramian & Croce,2021, p. 449) and epistemic trust in particular, that is, for-
+ming beliefs on the basis of testimony of scientists or the scientific community. In the context of the COVID-19 pan-
+demic, some even called attention for the importance of“recommendation trust” (Bennett, 2020), in the sense that
+citizens were not only asked to believe what scientific experts told, but also to follow expert recommendations.
+Irrespective the specific type of trust—epistemic or recommendation trust—both types demand a lot from non-
+scientific experts. Underpinning them is the very assumption that nonscientific experts predict that scientific experts
+1230 BUNDI AND PATTYN
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=5>>>
+will indeed behave as agreed or required by the situation, congruent with their qualifications and credentials
+(Ingold & Gschwend, 2014). Normative accounts of trust even go beyond this, and emphasize that nonscientific
+experts also count on the fact that scientific experts will behave as expected (see Baghramian & Croce,2021 for an
+extensive discussion). Considering the major demands that trust in scientific experts impose on laypeople, and the
+goodwill that is asked from them, it is also intuitive to expect that the more the public accepts this authority in scien-
+tific experts, the more supportive they will be of the use of scientific evidence in policy making.
+Hypothesis H1. The higher trust in scientific experts, the more positive the attitude toward evidence-
+informed policy making.
+Theoretically, the relationship between trust in governments and EIPM can be associated with the ongoing
+“technocracy debate” (Weingart, 1999). As mentioned above, the emphasis on the role of evidence in policy making
+is embodied by an instrumental rationality, which has been explicitly conceived as indicative of a reinvention of
+“technocratic policies” (Clarence,
+2002). Underpinning this association with technocracy is that evidence-informed
+policy tends to erode the normative basis of policy making (Sanderson,2002b), and that it makes bureaucrats
+“decide for rather than with citizens, guided by scientific expertise rather than political dialogue” (Feitsma, 2018,
+p. 389). While some scholars indeed underline the complementary of both dimensions (e.g., Pettit, 2004;
+Williams, 2006), the predominant strand in literature assumes a negative trade-off between them, or between
+democracy and technocracy more in general (Bertsou & Caramani,2020; Bertsou & Pastorella,2017). Empirically, it
+remains difficult to derive any firm conclusions about the role of trust in governments in this context, particularly
+since literatures apply related but different dependent variables. Pechar et al. (2018), for instance, demonstrate a
+positive relationship between attitudes toward government and trust in climate science and GMO science in Germany
+and the United States. With the government being an important funder of scientific research in these policy fields, as
+they argue, the general public tends to make an association between both. Other surveys also revealed a strong correla-
+tion between trust in government and trust in science (Wellcome Global Monitor,
+2018). In a study of Brewer and
+Ley (2013,p. 128) in the area of environmental issues, trust in government was instead not significantly related to trust
+in scientists. Also literature on populism hinted at the relationship between trust in governments and trust in science
+(e.g., Mede & Schäfer,2020), but the empirical trend is neither unambiguous. As shown in the case of France, for
+instance, left-wing populists rather than right-wing populists tend to be anti-establishment and anti-government, but
+typically value trust in science (Rouban,
+2021). In this context, Bertsou and Pastorella (2017) underscore that indepen-
+dent technocratic expertise should not be placed in the same category as existing political establishment, as this would
+particularly go against the tension between technocrats and a political system's representative democratic elite. Relying
+on the 2008 European Values Survey, they empirically confirmed that levels of trust in political institutions very much
+shape citizen's preferences for technocracy. More in particular, citizens who are distrustful of political institutions are
+more likely to express a positive attitude about technocracy. In line with the above-explained association of evidence-
+informed policy with technocracy, we find it plausible to find the same negative relationship as Bertsou and
+Pastorella (
+2017). More in particular, we expect that citizens highly trusting their governments will less feel the need
+for more scientific evidence use by their governments. To put it in other words: the higher trust citizens have in their
+governments, the less important they will find it to have epistemic input coming from scientific experts which may
+potentially go against government preferences.
+Hypothesis H2. The higher trust in governments, the less positive the attitude toward evidence-informed
+policy making.
+Research on trust usually distinguishes between particularized and generalized trust (Bjørnskov,
+2007;
+Uslaner, 2002; Yamagishi & Yamagishi,1994). While the former is based on recurring face-to-face interactions, gen-
+eralized trust is defined as“a community [that] shares a set of moral values in such a way as to create regular
+BUNDI AND PATTYN 1231
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=6>>>
+expectations of regular and honest behavior” (Fukuyama, 1995, p. 153). Generalized trust also extends to people to
+which an individual has neither a direct connection nor concrete information. As such, it indicates whether someone
+believes in the good of a community to solve collective action problems. Similar to the argument for trust in govern-
+ments, one could claim that generalized trust constitutes an alternative to science-based evidence in providing assis-
+tance in how to shape public policies. The lower epistemic trust citizens have in fellow citizens, the more they will
+appreciate epistemic input coming from scientific experts.
+Hypothesis H3. The lower public trust in citizens, the more positive the attitude toward evidence-informed
+policy making.
+Whether citizens are appreciative of EIPM might also depend on how they evaluate their government's perfor-
+mance. After all, one of the rationales of EIPM is to improve the effectiveness of government responses
+(Nutbeam,
+2020; Sager et al.,2020). Following this line of thinking, it can be assumed that citizens will demand more
+scientific evidence, if they are not satisfied with how their governments dealt with the pandemic. We expect this to
+be particularly the case when citizens distrust their governments or their fellow citizens. As we explained when pre-
+senting HypothesesH2 and H3, citizens distrusting their governments or their fellow citizens may want politics to
+use more scientific evidence, which can serve as an epistemic alternative to prevailing government or citizen prefer-
+ences. When citizens' assessment of government performance is low, this need will likely be more pronounced. In
+such negative scenario of low citizen trust in governments or fellow citizensand dissatisfaction with government
+performance, relying on scientific evidence may be the only avenue of escape (Gilley,2017). In a more hybrid sce-
+nario where civic assessment of government performance is low but where citizens have relatively high trust in fel-
+low citizens or the government, they will presumably have more confidence that viable policy solutions can be
+developed without additional scientific input.
+Hypothesis H4. The more negative the evaluation of government performance, the more positive the atti-
+tude toward evidence-informed policy making, provided that public trust in fellow citizens or governments
+is low.
+2 | METHODS AND DATA
+Prior studies on attitudes toward EIPM have either focused on government agencies (Cairney,2021; Head, 2013,
+2016; Moynihan & Pandey,2010; Newman et al.,2016) or investigated the use of evidence in specific programs or
+domains (Jones & Villar,2008; Whitty & Wisby,2020). In order to investigate public attitudes toward EIPM, we have
+conducted a cross-national survey in six countries —Australia, Belgium, Canada, France, Switzerland, and the
+United States (N = 8749) between November 2020 and January 2021.2 The selected countries reflect a most differ-
+ent case selection (Seawright & Gerring,2008), covering both parliamentary and non-parliamentary democracies
+(Siaroff, 2003) and countries with different administrative systems (Meyer & Hammerschmid,2010; Turgeon &
+Gagnon, 2013). Most crucially, the sample also provides variance for post-truth discourse (see Bundi &
+Pattyn, 2022). Political observers identified an increase of post-truth politics in Australia and the United States, while
+the other four countries in our sample restrained from this (Duncombe,2019). These institutional and cultural differ-
+ences might explain the perceived importance of evidence in policy making, as prior studies have shown that institu-
+tions are important enablers of evidence utilization (De Peuter & Pattyn,
+2008; Hoerner & Stephenson,2012), in
+particular during the COVID-19 crisis (Migone,2020). Administrative traditions may not necessarily lead to different
+attitudes toward EIPM, but studies show that the administrative organization is related to their performance
+(Porumbescu,
+2017; Van de Walle & Bouckaert,2003), which might foster a higher demand for evidence in policy
+making. Finally, the post-truth tradition may influence the perceived credibility of scientific evidence in the public.
+1232 BUNDI AND PATTYN
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=7>>>
+According to McDermott (2019), people consider opinion to be as legitimate as objective facts in post-truth socie-
+ties. The stronger this culture, the more citizens have neutral or even negative attitudes toward EIPM.
+The survey was conducted in the peak of the global COVID-19 pandemic, which has substantially impacted most
+citizens' lives. In response to this health crisis, most governments decided to take drastic measures such as restricting
+personal liberties (e.g., free movement) or closing whole industries (e.g., gastronomy). Even if individuals did not
+directly contract the virus or knew somebody who did so, most were affected financially or socially by the public
+responses. At the same time, decision makers were also in active exchange with scientists to cope with the crisis,
+even though“science” did not speak with a single voice (Cairney & Wellstead,
+2020; Lee et al.,2020; Van Dooren &
+Noordegraaf, 2020). While health experts advised governments to take measures against the spread of the SARS-
+CoV-2 virus, other scientists such as economists or psychologists called attention for other risks which could result
+from the COVID-19 restriction measures themselves. It can be safely argued that there has hardly been a time where
+scientists were as present in the political and social discourse. This makes the COVID-19 setting a particularly inter-
+esting case. Table
+1 provides an overview of the sample.
+In order to measure our dependent variableEIPM, we asked the respondents whether they fully disagree (0) or
+fully agree (10) with the following statement:“I would like to see policy-makers use scientific evidence more often
+to make decisions on specific issues.” Our main independent variabletrust is measured by asking respondents the
+following question:“Overall, how much trust and confidence do you have in each of the following to do a good job
+carrying out their responsibilities?” Citizens could rank scientific experts, fellow citizens and different governments
+on a scale from 1 (none) to 4 (a great deal), but we have dichotomized them for the analysis. Moreover, we combined
+the three variables that measure trust in the federal government, the provincial government, and the local executive
+to the variable“trust in governments” since they strongly correlated with each other.
+3 Overall, the respondents in all
+countries have similar levels of trust. They have the highest trust in scientific experts, followed by governments and
+fellow citizens. However, there are some nuances across countries. Compared to other countries, scientific experts
+are less often trusted in Switzerland and France, while trust in governments is higher in Switzerland. Figure
+1 shows
+the different trust levels for the six countries.
+To test whether respondents' evaluation of the COVID-19 handling (i.e., government performance) moderates
+the relationship between trust and attitudes toward evidence-based policy making, we asked respondents the fol-
+lowing question:“We now turn to some questions related to the pandemic. On a scale from 0 (extremely badly) to
+10 (extremely well), how well do you think your country has handled the COVID-19 pandemic so far?”4 We include
+this variable also in the regular models in order to test whether respondents' government assessment is directly asso-
+ciated with attitudes toward EIPM.
+TABLE 1 Overview of sample
+Country N
+Female
+(%)
+Age group
+(mean)
+University
+degree (%)
+COVID-19
+handling (mean)
+EIPM
+(mean)
+Australia 1266 58 45 –54 42 7.30 7.42
+Belgium 1512 51 35 –44 49 4.46 7.23
+Canada 1220 60 45 –54 52 6.03 7.39
+France 1220 65 35 –44 53 4.22 7.02
+Switzerland 2270 46 35 –44 48 5.87 7.29
+United
+States
+1261 55 45 –44 52 5.13 7.33
+Total 8749 55 35 –44 49 5.53 7.28
+Note: The respondents were divided into six groups of age: 18–24 (1) to 65+ (6); COVID-19 Affected: I have been
+personally affected by the pandemic in a negative way; COVID-19 handling: 0 (extremely bad) to (extremely well);
+Evidence-informed policy making (EIPM): 0 (disagree) to 10 (fully agree).
+BUNDI AND PATTYN 1233
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=8>>>
+We include several other variables in order to account for possible other factors that might be related to vari-
+ance of attitudes toward EIPM. First, a significant positive association between female respondents and EIPM
+could indicate a selection bias in our sample, since we have an over-representation of women in our sample (see
+Table 1). Okamura (2016) shows that women are less likely than men to rely on scientific experts for policy deci-
+sions. Second, we assume that respondents with an education degree are in general more positive toward scien-
+tific evidence, as they are in principle more familiar with such evidence due to their educational training. In
+addition, older respondents are presumably more negative toward the use of scientific evidence, since they might
+weight personal life experience as more important for policy making than evidence. Third, show that language is
+positively correlated with the support to include of scientific experts in the policy-making process. English
+speakers were shown to support stronger scientific experts in policy-making than other language groups. We can-
+not rule out the fact that the same tendency applies to citizen support for EIPM. Fourth, prior studies indicated
+FIGURE 1 Levels of trust across countries
+FIGURE 2 Support for evidence-informed policy making and trust in scientific experts
+1234 BUNDI AND PATTYN
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=9>>>
+that citizens who ideologically lean to the political right are in general more skeptical toward scientific evidence
+due to their aversion to uncertainty and ineffectually that they associate with science (Beck, 1992;
+Gauchat, 2015). Fifth, we assume that political interest interferes positively with interest of scientific research,
+which is why respondents that are more interested in politics presumably have a more positive attitude. Sixth, we
+include different items such as regional identity, attitudes toward uniformity and subsidiarity to account for the
+fact that our sample is mainly based on federal states. All variables and their operationalization can be found in
+Table
+A1 in the appendix.
+Empirically, we rely on a multilevel mixed effect regression model with random intercepts at the country level
+due to the hierarchical structure of our data. Our observations are grouped in countries that might potentially influ-
+ence our dependent variable, as it violated an important assumption of multi-level models and results might interfere
+from individual-level to country-specific patterns.
+FIGURE 4 Support for evidence-informed policy making and trust in citizens
+FIGURE 3 Support for evidence-informed policy making and trust in governments
+BUNDI AND PATTYN 1235
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=10>>>
+TABLE 2 Trust and attitudes towards evidence-informed policy making (basic models)
+Basic model Socio-economic model Political model Full model
+(1) (2) (3) (4)
+Trust in Scientific Experts 1.147 *** 1.110*** 1.026*** 0.980***
+(0.055) (0.054) (0.057) (0.058)
+Trust in Governments /C00.056 /C00.107* /C00.185*** /C00.205***
+(0.048) (0.048) (0.052) (0.053)
+Trust in Citizens /C00.091* /C00.123** /C00.151** /C00.150**
+(0.044) (0.044) (0.046) (0.046)
+Female /C00.085* /C00.076 /C00.074
+(0.043) (0.044) (0.045)
+Education 0.245 *** 0.218*** 0.228***
+(0.043) (0.045) (0.045)
+Age /C00.036** /C00.060*** /C00.055***
+(0.014) (0.014) (0.014)
+English versus French /C00.311*** /C00.280*** /C00.308***
+(0.052) (0.055) (0.056)
+German /C00.619*** /C00.667*** /C00.638***
+(0.083) (0.084) (0.084)
+Italian 0.137 0.155 0.131
+(0.077) (0.080) (0.083)
+Dutch /C00.253** /C00.182* /C00.169*
+(0.081) (0.084) (0.086)
+Other /C00.196 /C00.224 /C00.311*
+(0.115) (0.118) (0.122)
+Left-right /C00.045*** /C00.034***
+(0.009) (0.010)
+Political Interest 0.211*** 0.217***
+(0.032) (0.032)
+Evaluation of COVID-19 Handling 0.015 0.017
+(0.010) (0.010)
+Regional Identity 0.047
+(0.025)
+Uniformity 0.310***
+(0.030)
+Subsidiarity 0.104***
+(0.030)
+Constant 6.610 *** 6.826*** 6.593*** 5.316***
+(0.074) (0.085) (0.124) (0.180)
+N 6282 6240 5694 5350
+Log. likelihood /C012196.99 /C012034.00 /C010858.34 /C010083.58
+AIC 24405.97 24096.00 21750.68 20207.15
+BIC 24446.448 24190.338 21863.684 20338.848
+Note: Results are from a multilevel mixed regression model. Standardized regression coefficients shown with robust standard errors
+in parentheses.
+*p <0.05. **p <0.01. ***p <0.001.
+1236 BUNDI AND PATTYN
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=11>>>
+3 | RESULTS
+As a first step, we descriptively analyze the relationship between attitudes toward EIPM and the different forms of
+trust in our investigated countries (Figures2–4). Even though the overall support for EIPM is quite high (7.28), we
+observe substantial differences across types of trust and countries. Figure2 shows that the biggest difference in evi-
+dence support is among respondents with no trust in scientific experts and those who indeed place trust in them. In
+all countries is the difference statistically significant and in the United States in particular pronounced. The other
+forms of trust do not correlate as distinct as trust in scientific experts. The difference between respondents that trust
+governments and those who do not is not systematic and is only significant in Switzerland. The same is true for trust
+in fellow citizens, where we additionally observe a significant negative relationship in Canada and the United States.
+This may be due to a strong decline of social capital in both countries (Hulse & Stone,
+2007; Putnam,2015).
+Next, we will analyze the relationship between different forms of trust and EIPM in a multivariate multilevel
+regression level (Table2). The findings show that trust in scientific experts is positively related to support for evi-
+dence use in policy making. Respondents who trust scientific experts have on average a 1.1 higher value for EIPM.
+Trust in governments and citizens are both significant and negatively related to support in evidence use albeit both
+values decrease only very marginal (0.11 resp. 0.14). However, the latter relation could be potentially influenced by
+the respondents of Canada and the United States, which may suggest that the relationship can be dependent on the
+societal context. The coefficients decrease if we include other variables, but remain significant (Models 2–4). Hence,
+our empirical analysis provides evidence for Hypotheses
+H1, H2, andH3 even though the effect sizes are small.
+Regarding personal characteristics, we see that some characteristics correlate significantly with attitudes toward
+EIPM, but the effects are rather small. Citizens' educational level is correlated with attitudes toward EIPM, while
+older respondents tend to be more negative. Moreover, English-speaking respondents display more positive atti-
+tudes toward EIPM, in particular compared to German Speaking citizens. This is not surprising, since the German
+sample consists of Swiss-German respondents, where anti-elite and scientific expert attitudes take a prominent role
+in the political discourse (Cranmer,
+2011). In addition, Model 3 shows that left-oriented respondents are more likely
+to support EIPM, while citizens on the right spectrum are more skeptical about the involvement of scientific exper-
+tise in policy making. Interestingly, the evaluation of the COVID-19 response seems to be related with EIPM, while
+political interest and less federalism are positively associated with it.
+FIGURE 5 Trust in scientific experts and evaluation of COVID-19 handling
+BUNDI AND PATTYN 1237
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=12>>>
+In a next step, we estimate interaction models between different types of trust and citizens' assessment of their
+country's COVID-19 handling. Model 5 shows that people who trust scientific experts not significantly differ across
+different COVID-19 handling assessment levels. In addition, citizens' assessment of COVID-19 handling does posi-
+tively moderate the relationship between trust in governments and in fellow citizens and attitudes toward EIPM. In
+short, respondents who do not trust governments or fellow citizens are more positive toward evidence if they
+FIGURE 7 Trust in citizens and evaluation of COVID-19 handling. Marginal effect of attitudes toward evidence-
+informed policy making (Y-axis), as a function of the interaction between the evaluation of the COVID-19 handling
+(0 = extremely bad; 10= extremely well) and no trust toward scientific experts, governments, and citizens. The bars
+indicate the density (right Y-axis) of each of the 10 gradations on the COVID-handling evaluation scale (X-axis), that
+is, the observed percentage of the responses that fall into each of the 10 ordinal categories. The density of the
+evaluation of COVID-19 handling refers to the proportion of a given quantity participates in the size distribution in
+the characteristic interval of this variable
+FIGURE 6 Trust in governments and evaluation of COVID-19 handling
+1238 BUNDI AND PATTYN
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=13>>>
+TABLE 3 Trust and attitudes towards evidence-informed policy making (interaction models)
+Expert interaction
+model
+Government
+interaction model
+Citizen interaction
+model
+Full interaction
+model
+(5) (6) (7) (8)
+Trust in Scientific
+Experts
+1.036*** 0.971*** 0.970*** 1.196***
+(0.130) (0.058) (0.058) (0.131)
+Trust in Governments /C00.204*** /C00.768*** /C00.204*** /C00.711***
+(0.053) (0.113) (0.053) (0.117)
+Trust in Citizens /C00.149** /C00.165*** /C00.689*** /C00.610***
+(0.046) (0.046) (0.112) (0.114)
+Trust in Scientific
+Experts*
+/C00.011 /C00.044
+Evaluation of COVID-19
+Handling
+(0.022) (0.022)
+Trust in Governments* 0.113*** 0.094***
+Evaluation of COVID-19
+Handling
+(0.020) (0.021)
+Trust in Citizens* 0.095*** 0.073***
+Evaluation of COVID-19
+Handling
+(0.018) (0.019)
+Female /C00.074 /C00.071 /C00.077 /C00.073
+(0.045) (0.045) (0.045) (0.045)
+Education 0.228 *** 0.224*** 0.217*** 0.214***
+(0.045) (0.045) (0.045) (0.045)
+Age /C00.055*** /C00.060*** /C00.055*** /C00.058***
+(0.014) (0.014) (0.014) (0.014)
+English versus French /C00.308*** /C00.310*** /C00.290*** /C00.292***
+(0.056) (0.056) (0.056) (0.056)
+German /C00.639*** /C00.637*** /C00.628*** /C00.632***
+(0.084) (0.084) (0.084) (0.084)
+Italian 0.132 0.099 0.112 0.090
+(0.083) (0.083) (0.083) (0.083)
+Dutch /C00.169* /C00.173* /C00.156 /C00.162
+(0.086) (0.086) (0.086) (0.086)
+Other /C00.313* /C00.311* /C00.308* /C00.316**
+(0.122) (0.121) (0.121) (0.121)
+Left-right /C00.034*** /C00.037*** /C00.037*** /C00.039***
+(0.010) (0.010) (0.010) (0.010)
+Political Interest 0.217 *** 0.213*** 0.214*** 0.211***
+(0.032) (0.032) (0.032) (0.032)
+COVID-19 Handling 0.026 /C00.050** /C00.033* /C00.051*
+(0.020) (0.016) (0.014) (0.022)
+Regional Identity 0.047 0.044 0.048 0.046
+(0.025) (0.025) (0.025) (0.025)
+(Continues)
+BUNDI AND PATTYN 1239
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=14>>>
+evaluate their governments' response negatively, while those who do trust their governments are more positive
+toward evidence if they evaluate these positively. Figures5–7 show the plots of the interaction effect using the
+coefficients of all interaction terms presented in Model 8.5 As a consequence, our analyses provide certain evidence
+for our fourth hypothesis (H4).
+4 | DISCUSSION
+As our findings show, public trust is a multifaceted issue, and so is its relationship with support for EIPM. First, and
+perhaps least surprising, we indeed confirmed that more positive attitudes toward scientific experts come along with
+a more positive attitude toward EIPM. Both constructs (epistemic trust and EIPM) are often named in one single
+breath. Of the multiple reasons why citizens are skeptical about resorting to scientific evidence, and of the trust
+types investigated, the lack of trust in scientific experts turns out to be a key distinguishing factor.
+Moreover, our research indicates that EIPM also has the potential to serve as a substitute when citizens lack
+trust in their governments, or when they lack trust in their fellow citizens. Trust in citizens can also be conceived
+from an epistemic perspective, with trust implying belief in the epistemic credentials of peers. Citizens whose views
+all have legitimate political standing in the debate may vary widely in terms of these epistemic credentials, and the
+(informal) evidence they draw on (Edenberg,
+2021, p. 130). This may also explain that citizens who feel a lack of epi-
+stemic peer agreement, can turn to scientific evidence to fill up this lacuna. The same type of reasoning can apply to
+governments. When citizens are in epistemic disagreement with the approach applied by their governments, or when
+they do not have a belief in their governments, this may incentivize them to support the reliance on scientific evi-
+dence. More in-depth research ideally investigates this in more depth, including the underlying causal mechanism.
+Last, but not least, one should account for how citizens evaluate their governments' performance, which we
+approached here as appraisals of COVID-19 handling. As we have shown, these citizen evaluations mediate the rela-
+tionship between trust and EIPM. When government performance is assessed negatively, and when citizens do not
+trust governments or fellow citizens, they tend to be more in favor of EIPM.
+TABLE 3 (Continued)
+Expert interaction
+model
+Government
+interaction model
+Citizen interaction
+model
+Full interaction
+model
+(5) (6) (7) (8)
+Uniformity 0.310 *** 0.297*** 0.304*** 0.296***
+(0.030) (0.030) (0.030) (0.030)
+Subsidiarity 0.105 *** 0.109*** 0.111*** 0.114***
+(0.030) (0.030) (0.030) (0.030)
+Constant 5.268 *** 5.727*** 5.619*** 5.744***
+(0.205) (0.194) (0.189) (0.215)
+N 5350 5350 5350 5350
+Log. likelihood /C010083.46 /C010067.83 /C010069.71 /C010057.26
+AIC 20208.92 20177.67 20181.42 20160.52
+BIC 20347.199 20315.951 20319.702 20311.967
+Note: Results are from a multilevel mixed regression model. Standardized regression coefficients shown with robust
+standard errors in parentheses.
+*p <0.05. **p <0.01. ***p <0.001.
+1240 BUNDI AND PATTYN
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=15>>>
+5 | CONCLUSION
+While EIPM acquired an almost sacred status in policy circles, and is promoted as an important element for good
+governance, it is far from evident that also citizens uncritically support it. This article is among one of the first to
+investigate at a cross-country level how citizen attitudes for EIPM relate can be explained by different manifesta-
+tions of public trust (trust in scientific experts, governments, and fellow citizens). The COVID-19 constitutes a unique
+setting to also account for citizen attitudes on their country's response to the pandemic.
+Beyond its empirical novelty, the article brings interesting theoretical implications which add nuance to existing
+literature on the consequences of trust, and the antecedents for citizen attitudes about EIPM. First, the study con-
+firms the importance of citizen trust in scientific experts for EIPM to be supported by citizens. EIPM in essence boils
+down to putting trust in scientific procedures and findings, which are often beyond the control of citizens
+(Baghramian & Croce,
+2021). While this puts citizens in a dependence relationship from scientific experts, our study
+shows that governments committed to EIPM de facto also depend on citizen's trust in scientific experts.
+Second, EIPM is about governments relying on scientific evidence. Importantly, we showed that the higher trust
+citizens have in their governments, the less they feel the need for more scientific evidence. A possible interpretation
+is that citizens trusting their governments may not feel a need to have“more” epistemic input from other parties,
+that is, scientists' input which may not be necessarily aligned with epistemic preferences of trusted governments.
+This observation resonates with the empirical study of Bertsou and Pastorella (2017) in which they reveal how trust
+in representative democratic political institutions is negatively related to citizen attitudes about technocracy, concep-
+tualized as expert-decision making. While EIPM is perhaps a softer form of technocracy, our findings hint at a similar
+trade-off. The results also contribute to populist literature. Citizens highly distrusting their governments not neces-
+sarily reject them to use scientific evidence. In other words, the intellectual and political elites are not necessarily
+connected in the eyes of citizens (see also Bertsou & Pastorella,
+2017, p. 447). From a practical stance, these results
+teach us that governments may benefit from investing more in EIPM particularly when being confronted with low or
+declining social trust (i.e., low government trust, low citizen trust) and when citizens voice skepticism about their per-
+formance. As our study reveals, citizens who are negative about their governments are not negative per se about the
+government using scientific results. The results warrant a careful interpretation though. It may well be the case that
+highly trusted governments already use scientific evidence, but that citizens do not want their governments to use
+more such evidence (the operationalization of our dependent variable). We did not account for the extent in which
+governments already work in an evidence-informed way, which may itself also contribute to citizen trust. It may be
+worth scrutinizing this in more depth. Part of such follow-up study could also investigate whether citizens indeed
+conceive EIPM as a manifestation of technocracy, consistent with normative debates in scholarly literature
+(Clarence,
+2002; Sanderson,2002b). Third, the study adds to the vast literature dealing with the link between trust
+and public perception of policy capacity (see Frewer & Salter,2002; Hartley & Jarvis,2020; Wallner,2008). Public
+trust is not related per se to more positive attitudes toward EIPM, but depends on the perception of government
+performance. In particular, we document a varying association between trust and EIPM when citizens perceive their
+government performance as low. The question remains then of course which factors influence performance evalua-
+tion in the eyes of citizens, knowing that such observations are not necessarily impartial.
+Notwithstanding the advantages of the design—being very timely and providing evidence for different institu-
+tional contests—we also acknowledge some limitations. Our empirical analysis is based on observational, cross-
+sectional data, which does not allow to identity causal inference between trust and EIPM (which has hardly ever
+been done in prior studies). A logical path for future research would be to directly manipulate different forms of trust
+in order to test their impact on attitudes toward EIPM. This research is not very straightforward, however, which
+explains why most experimental studies have focused on explaining trust (see e.g., Ares & Hernández,
+2017;
+Dinesen, 2013). Moreover, our results could be biased due to the current COVID-19 pandemic. Our findings might
+overestimate the importance of evidence, as the role of science has significantly increased during the health crisis
+(Lunn et al., 2020; Van Bavel et al., 2020). Furthermore, our case selection is based on a most-different case
+BUNDI AND PATTYN 1241
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=16>>>
+approach that tries to study similar phenomena in different political systems (Gerring & Cojocaru,2016). This being
+said, we focus exclusively on six Western countries. The study of public attitudes toward evidence in less democratic
+countries such as China and Singapore would be an extremely interesting future research avenue (see Barr,2006).
+Yet considering these challenges, we believe that our study is an important starting point for a broader line of
+research into a novel and timely question.
+ACKNOWLEDGMENTS
+We thank all the participants for their feedback, in particular Giliberto Capano, Jonas Videbæk Jørgensen, Jesper
+Dahl Kelstrup, Anna Malandrino, Jens Newig, and Michael Rose. We are grateful to Bruce D. McDonald III as well as
+the two anonymous reviewers for their valuable remarks. Open access funding provided by Universite de Lausanne.
+DATA AVAILABILITY STATEMENT
+The data that support the findings of this study are available from the corresponding author upon reasonable
+request.
+ORCID
+Pirmin Bundi
+https://orcid.org/0000-0001-5047-072X
+Valérie Pattyn https://orcid.org/0000-0001-7844-8858
+ENDNOTES
+1 In this article evidence informed policy making (or EIPM) is straightforwardly approached as the use ofscientific evidence
+in the policy process, also consistent with the predominant focus on this type of evidence in literature on knowledge
+utilization.
+2 The survey was conducted through Qualtrics who work with local survey companies in order to guarantee an evenly bal-
+anced sample. Language minority were oversampled to receive a substantial number of respondents for every main official
+language group in the four multilingual countries.
+3 Cronbach's α >0.72.
+4 We also asked respondents how they evaluate the governments of the different state levels (federal, regionalm, and local).
+However, our data suggests that respondents could not really distinguish between different governments, as the
+Cronbach's alpha of the three items is 0.79. The Cronbachs' alpha between the general assessment and the index of the
+three items is 0.54 (99% level significance). Moreover, many government responses have been coordinated vertically (see
+Liu et al.,
+2021), which is why it is hard for citizens to evaluate the different governments. Thus, we decided to keep the
+general evaluation.
+5 The coefficients are based on multi-level mixed regression results presented in Table3 (Models 5–7).
+REFERENCES
+Agley, J. (2020) Assessing changes in US public trust in science amid the COVID-19 pandemic.Public Health, 183, 122–125.
+Ahluwalia, S.C., Edelen, M.O., Qureshi, N. & Etchegaray, J.M. (2021) Trust in experts, not trust in national leadership, leads
+to greater uptake of recommended actions during the COVID-19 pandemic.Risk, Hazards & Crisis in Public Policy, 12,
+283–302. https://doi.org/10.1002/rhc3.12219
+Ares, M. & Hernández, E. (2017) The corrosive effect of corruption on trust in politicians: evidence from a natural experi-
+ment. Research & Politics, 4(2), 2053168017714185.
+Baghramian, M. & Croce, M. (2021) Experts, public policy and the question of trust. In: Hannon, M. & de Ridder, J. (Eds.)The
+Routledge handbook of political epistemology. London and New York: Routledge, pp. 446–457.
+Barr, M.D. (2006) Beyond technocracy: the culture of elite governance in Lee Hsien Loong's Singapore.Asian Studies Review,
+30(1), 1–18.
+Beck, U. (1992)Risk society: towards a new modernity. London: Sage.
+Bennett, M. (2020) Should I do as I'm told? Trust, experts, and COVID-19.Kennedy Institute of Ethics Journal, 30(3–4),
+243–263.
+Bertsou, E. & Caramani, D. (2022) People Haven't had enough of experts: technocratic attitudes among citizens in nine
+European democracies.American Journal of Political Science, 66(1), 5–23.
+1242 BUNDI AND PATTYN
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=17>>>
+Bertsou, E. & Caramani, D. (Eds.). (2020)The technocratic challenge to democracy. London and New York: Routledge.
+Bertsou, E. & Pastorella, G. (2017) Technocratic attitudes: a citizens' perspective of expert decision-making.West European
+Politics, 40(2), 430–458.
+Bicchieri, C., Fatas, E., Aldama, A., Casas, A., Deshpande, I., Lauro, M. et al. (2021) In science we (should) trust: expectations
+and compliance across nine countries during the COVID-19 pandemic.PLoS One, 16(6), e0252892.
+Bjørnskov, C. (2007) Determinants of generalized trust: a cross-country comparison.Public Choice, 130(1), 1–21.
+Bourgeois, I. & Cousins, J.B. (2013) Understanding dimensions of organizational evaluation capacity.American Journal of
+Evaluation, 34(3), 299–319.
+Brewer, P.R. & Ley, B.L. (2013) Whose science do you believe? Explaining trust in sources of scientific information about
+the environment.Science Communication, 35(1), 115–137.
+Bundi, P. & Pattyn, V. (2022) Do citizens even want to hear the truth? Public attitudes towards evidence-informed policy
+making. In: Marra, M., Olejniczak, K. & Paulson, A. (Eds.)Evaluation in the post-truth world. London: Routledge.
+Cairney, P. (2021) The UK Government's COVID-19 policy: assessing evidence-informed policy analysis in real time.British
+Politics, 16(1), 90–116.
+Cairney, P. & Wellstead, A. (2021) COVID-19: effective policymaking depends on trust in experts, politicians, and the public.
+Policy Design and Practice, 4(1), 1–14.
+Clarence, E. (2002) Technocracy reinvented: the new evidence based policy movement.Public Policy and Administration,
+17(3), 1–11.
+Cranmer, M. (2011) Populist communication and publicity: an empirical study of contextual differences in Switzerland.Swiss
+Political Science Review, 17(3), 286–307.
+Davies, H.T. & Nutley, S.M. (Eds.). (2000)What works? Evidence-based policy and practice in public services. Bristol: Policy
+Press.
+Daviter, F. (2015) The political use of knowledge in the policy process.Policy Sciences, 48(4), 491–505.
+De Peuter, B., & Pattyn, V. (2008). Evaluation capacity: enabler or exponent of evaluation culture? In:Symposium: Policy and
+programme evaluation in Europe: cultures and prospects, 3–4 July 2008, Frankrijk: Strasbourg.
+Dinesen, P.T. (2013) Where you come from or where you live? Examining the cultural and institutional explanation of gener-
+alized trust using migration as a natural experiment.European Sociological Review, 29(1), 114–128.
+Dommett, K. & Pearce, W. (2019) What do we know about public attitudes towards experts? Reviewing survey data in the
+United Kingdom and European Union.Public Understanding of Science, 28(6), 669–678.
+Duncombe, C. (2019) Popular culture, post-truth and emotional framings of world politics.Australian Journal of Political Sci-
+ence, 54(4), 543–555.
+Edenberg, E. (2021) Political disagreement. Epistemic or civic peers? In: Hannon, M. & de Ridder, J. (Eds.)The Routledge
+handbook of political epistemology. London and New York: Routledge, pp. 123–132.
+Feitsma, J.N.P. (2018) The behavioural state: critical observations on technocracy and psychocracy.Policy Sciences, 51,
+387–410.
+Frewer, L. & Salter, B. (2002) Public attitudes, scientific advice and the politics of regulatory policy: the case of BSE.Science
+and Public Policy, 29(2), 137–145.
+Fukuyama, F. (1995)Trust: the social virtues and creation of prosperity. London: Hamish Hamilton.
+Gauchat, G. (2015) The political context of science in the United States: public acceptance of evidence-based policy and sci-
+ence funding.Social Forces, 94(2), 723–746.
+Gerring, J. & Cojocaru, L. (2016) Selecting cases for intensive analysis: a diversity of goals and methods.Sociological
+Methods & Research, 45(3), 392–423.
+Gilley, B. (2017) Technocracy and democracy as spheres of justice in public policy.Policy Sciences, 50(1), 9–22.
+Hartley, K. & Jarvis, D.S. (2020) Policymaking in a low-trust state: legitimacy, state capacity, and responses to COVID-19 in
+Hong Kong.Policy and Society, 39(3), 403–423.
+Head, B.W. (2013) Evidence-based policymaking–speaking truth to power?Australian Journal of Public Administration, 72(4),
+397–403.
+Head, B.W. (2016) Toward more“evidence-informed” policy making?Public Administration Review, 76(3), 472–484.
+Hoerner, J. & Stephenson, P. (2012) Theoretical perspectives on approaches to policy evaluation in the EU: the case of
+cohesion policy.Public Administration, 90(3), 699–715.
+Hong, S. & Kim, Y. (2019) Loyalty or competence: political use of performance information and negativity bias.Public Admin-
+istration Review, 79(6), 829–840.
+Hulse, K. & Stone, W. (2007) Social cohesion, social capital and social exclusion: a cross cultural comparison.Policy Studies,
+28(2), 109–128.
+Ingold, K. & Gschwend, M. (2014) Science in policy-making: neutral experts or strategic policy-makers?West European Poli-
+tics, 37(5), 993–1018.
+Jones, N. & Villar, E. (2008) Situating children in international development policy: challenges involved in successful
+evidence-informed policy influencing.Evidence & Policy: A Journal of Research, Debate and Practice, 4(1), 31–51.
+BUNDI AND PATTYN 1243
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=18>>>
+Kreps, S.E. & Kriner, D.L. (2020) Model uncertainty, political contestation, and public trust in science: evidence from the
+COVID-19 pandemic.Science Advances, 6(43), eabd4563.
+Labin, S.N., Duffy, J.L., Meyers, D.C., Wandersman, A. & Lesesne, C.A. (2012) A research synthesis of the evaluation capacity
+building literature.American Journal of Evaluation, 33(3), 307–338.
+Lee, S., Hwang, C. & Moon, M.J. (2020) Policy learning and crisis policy-making: quadruple-loop learning and COVID-19
+responses in South Korea.Policy and Society, 39(3), 363–381.
+Levy, N. (2019) Due deference to denialism: explaining ordinary People's rejection of established scientific findings.Syn-
+these, 196(1), 313–327.
+Liu, Z., Guo, J., Zhong, W. & Gui, T. (2021) Multi-level governance, policy coordination and subnational responses to
+COVID-19: comparing China and the US.Journal of Comparative Policy Analysis: Research and Practice, 23(2), 204–218.
+Lunn, P.D., Belton, C.A., Lavin, C., McGowan, F.P., Timmons, S. & Robertson, D.A. (2020) Using behavioral science to help
+fight the coronavirus.Journal of Behavioral Public Administration, 3(1), 1–24.
+Mayer, I., Edelenbos, J. & Monnikhof, R. (2005) Interactive policy development: undermining or sustaining democracy?Public
+Administration, 83, 179–199.
+Mayer, R.C., Davis, J.H. & Schoorman, F.D. (1995) An integrative model of organizational trust.Academy of Management
+Review, 20, 709–734.
+McDermott, R. (2019) Psychological underpinnings of post-truth in political beliefs. Political Science & Politics, 52(2),
+218–222.
+Mede, N.G. & Schäfer, M.S. (2020) Science-related populism: conceptualizing populist demands toward science.Public
+Understanding of Science, 29(5), 473–491.
+Meyer, R.E. & Hammerschmid, G. (2010) The degree of decentralization and individual decision-making in central govern-
+ment human resource management: a European comparative perspective.Public Administration, 88(2), 455–478.
+Migone, A.R. (2020) Trust, but customize: Federalism's impact on the Canadian COVID-19 response.Policy and Society,
+39(3), 382–402.
+Moynihan, D.P. & Pandey, S.K. (2010) The big question for performance management: why do managers use performance
+information? Journal of Public Administration Research and Theory, 20(4), 849–866.
+Newman, J., Cherney, A. & Head, B. (2016) Do policy makers use academic research? Reexamining the“two communities”
+theory of research utilization.Public Administration Review, 76(1), 24–32.
+Newman, J. & Head, B. (2015) Beyond the two communities: a reply to Mead's“why government often ignores research”.
+Policy Sciences, 48(3), 383–393.
+Nutbeam, D. (2020) COVID-19: lessons in risk communication and public trust.Public Health Research and Practice, 30(2),
+3022006.
+Nutley, S., Morton, S., Jung, T. & Boaz, A. (2010) Evidence and policy in six European countries: diverse approaches and
+common challenges.Evidence & Policy: A Journal of Research, Debate and Practice, 6(2), 131–144.
+Okamura, K. (2016) Dynamic development of public attitudes towards science policymaking.Public Understanding of Science,
+25(4), 465–479.
+Pastorella, G. (2016) Technocratic governments in Europe: getting the critique right.Political Studies, 64(4), 948–965.
+Pawson, R. (2006)Evidence-based policy: a realist perspective. London, Thousand Oaks and New Delhi: Sage.
+Pechar, E., Bernauer, T. & Mayer, F. (2018) Beyond political ideology: the impact of attitudes towards government and cor-
+porations on trust in science.Science Communication, 40(3), 291–313.
+Peters, G. & Barker, A. (1993) Introduction. Governments, information, advice and policy-making. In: Peters, G. & Barker, A.
+(Eds.) Advising west European governments, inquiries, expertise and public policy. Pittsburgh: University of Pittsburgh Press,
+pp. 1–19.
+Peters, R.G., Covello, V.T. & McCallum, D.B. (1997) The determinants of trust and credibility in environmental risk communi-
+cation: an empirical study.Risk Analysis, 17(1), 43–54.
+Pettit, P. (2004) Depoliticizing democracy.Ratio Juris, 17(1), 52–65.
+Plohl, N. & Musil, B. (2021) Modeling compliance with COVID-19 prevention guidelines: the critical role of trust in science.
+Psychology, Health & Medicine, 26(1), 1–12.
+Porumbescu, G.A. (2017) Does transparency improve citizens' perceptions of government performance? Evidence from
+Seoul, South Korea.Administration & Society, 49(3), 443–468.
+Powell, A., Davies, H.T. & Nutley, S.M. (2018) Facing the challenges of research-informed knowledge mobilization:‘Practising
+what we preach’? Public Administration, 96(1), 36–52.
+Powell, W. (1996) Trust-based forms of governance. In: Kramer, R. & Tyler, T. (Eds.)Trust in Organizations. London: Sage.
+Putnam, R.D. (2015)Bowling alone: America's declining social capital. London and New York: Routledge.
+PytlikZillig, L.M. & Kimbrough, C.D. (2016) Consensus on conceptualizations and definitions of trust: are we there yet? In:
+Shockley, E., Neal, T.M., PytlikZillig, L.M. & Bornstein, B.H. (Eds.)Interdisciplinary perspectives on trust. Berlin: Springer,
+pp. 17–47.
+1244 BUNDI AND PATTYN
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=19>>>
+Rouban, L. (2021) Les incertitudes de la vie politique française: droitisation et crise de la démocratie représentative.Current
+Problems of Europe, 111(3), 188–211.
+Sager, F., Mavrot, C., Hinterleitner, M., Kaufmann, D., Grosjean, M. & Stocker, T.F. (2020) Utilization-focused scientific policy
+advice: a six-point checklist.Climate Policy, 20(10), 1336–1343.
+Sanderson, I. (2002a) Evaluation, policy learning and evidence-based policy making.Public Administration, 80(1), 1–22.
+Sanderson, I. (2002b) Making sense of‘what works’: evidence based policy making as instrumental rationality?Public Policy
+and Administration, 17(3), 61–75.
+Schlaufer, C., Stucki, I. & Sager, F. (2018) The political use of evidence and its contribution to democratic discourse.Public
+Administration Review, 78(4), 645–649.
+Seawright, J. & Gerring, J. (2008) Case selection techniques in case study research: a menu of qualitative and quantitative
+options. Political Research Quarterly, 61(2), 294–308.
+Siaroff, A. (2003) Comparative presidencies: the inadequacy of the presidential, semi-presidential and parliamentary distinc-
+tion. European Journal of Political Research, 42(3), 287–312.
+Turgeon, L. & Gagnon, A.G. (2013) The politics of representative bureaucracy in multilingual states: a comparison of
+Belgium, Canada and Switzerland.Regional & Federal Studies, 23(4), 407–425.
+Uslaner, E.M. (2002) The Moral Foundations of Trust. In:The moral foundations of trust. Cambridge: Cambridge University
+Press.
+Van Bavel, J.J., Baicker, K., Boggio, P.S., Capraro, V., Cichocka, A., Cikara, M. et al. (2020) Using social and behavioural sci-
+ence to support COVID-19 pandemic response.Nature Human Behaviour, 4(5), 460–471.
+Van de Walle, S. & Bouckaert, G. (2003) Public service performance and trust in government: the problem of causality.Inter-
+national Journal of Public Administration, 26(8–9), 891–913.
+Van Dooren, W. & Noordegraaf, M. (2020) Staging science: authoritativeness and fragility of models and measurement in
+the COVID-19 crisis.Public Administration Review, 80(4), 610–615.
+Wallner, J. (2008) Legitimacy and public policy: seeing beyond effectiveness, efficiency, and performance.Policy Studies
+Journal, 36(3), 421–443.
+Weingart, P. (1999) Scientific expertise and political accountability: paradoxes of science in politics.Science and Public Policy,
+26(3), 151–161.
+Weiss, C. (1995) The four" I's" of school reform: how interests, ideology, information, and institution affect teachers and
+principals. Harvard Educational Review, 65(4), 571–593.
+Wellcome Global Monitor (2018).How does the world feel about science and health?Available at:https://wellcome.org/sites/
+default/files/wellcome-global-monitor-2018.pdf
+Whitty, G. & Wisby, E. (2020) Evidence-Informed Policy and Practice in a‘Post-truth’ Society. In:Handbook of education pol-
+icy studies. Singapore: Springer, pp. 399–414.
+Williams, M.E. (2006) Escaping the zero-sum scenario: democracy versus technocracy in Latin America.Political Science
+Quarterly, 121(1), 119–139.
+Yamagishi, T. & Yamagishi, M. (1994) Trust and commitment in the United States and Japan.Motivation and Emotion, 18(2),
+129–166.
+How to cite this article:Bundi, P., & Pattyn, V. (2023). Trust, but verify? Understanding citizen attitudes
+toward evidence-informed policy making.Public Administration, 101(4), 1227–1246. https://doi.org/10.
+1111/padm.12852
+BUNDI AND PATTYN 1245
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=20>>>
+APPENDIX
+TABLE A1 Operationalization and descriptive statistics
+Variable Operationalization
+Descriptive statistics
+Mean SD Min Max
+Dependent variable
+Evidence-
+Informed
+Policy Making
+I would like to see policy-makers use scientific evidence more
+often to make decisions on specific issues. 0= fully disagree,
+10 = fully agree
+7.23 1.87 0 10
+Independent variables
+Trust in… Overall, how much trust and confidence do you have in each of
+the following to do a good job carrying out their
+responsibilities? 1= none, 2= not very much, 3= a fair
+amount, and 4= a great deal
+…Scientific
+Experts
+Scientific experts 2.98 0.84 1 4
+…Governments The federal government 2.70 0.89 1 4
+Your provincial government 2.70 0.84 1 4
+Local level executive 2.65 0.85 1 4
+…Citizens Your fellow citizens 2.55 0.80 1 4
+Evaluation of
+COVID-19
+Handling
+How well do you think has
+Switzerland/Belgium/France/Canada/United States/Australia)
+handled the COVID-19 pandemic so far? 0= extremely badly,
+10 = extremely well
+5.53 2.61 0 10
+Gender Gender of respondent: 0 = male; 1= female 0.55 0.50 0 1
+Education Level of education: 0 = No University Degree; 1= University
+Degree
+0.49 0.50 0 1
+Age Age of the respondent 1 = 18–24 years old, 2= 25–34 years
+old, 3= 35–44 years old, 4= 45–54 years old, 5= 55–
+64 years old, and 6= 65 years or older
+3.39 1.62 1 6
+Language English (32.5%), German (8.7%), French (37.3%), Italian (8.6%),
+Dutch (8.6%), Other (4.2%)
+Left-right In political matters, people often talk of “the left” and “the right.”
+How would you place your own views on a scale from 0 (left)
+to 10 (right), generally speaking?
+0 = left, 10= right, numeric
+5.36 2.43 0 10
+Political Interest How interested would you say you are in politics at the different
+levels? 1= not at all interested, 2= not very interested,
+3 = somewhat interested, and 4= very interested
+2.82 0.80 1 4
+Regional Identity Which one of the following, if any, best describes the way you
+think of yourself? 1= only country, 2= more country than
+region, 3= country and region equally, 4= more region than
+country, and 5= only region
+2.67 0.94 1 5
+Uniformity The federal government should be able to define the rules that
+apply in the whole country. This ensures that everybody is
+treated equally—regardless of where they live or what
+language group they belong to. 1= fully disagree, 2= rather
+disagree, 3= rather agree, and 4= fully agree
+3.23 0.78 1 4
+Subsidiarity It is better for as many decisions as possible to be made at the
+higher levels of government: 1—strongly have that view—9
+(strongly does not have this view)
+5.02 0.78 1 9
+1246 BUNDI AND PATTYN
+ 14679299, 2023, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/padm.12852 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

@@ -1,0 +1,2080 @@
+<<<PAGE=1>>>
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/371143362
+The Last 20 Years of Empirical Research on
+Government Utilization of Academic Social Science
+Research: A State-of-th....
+Article  in   Administration & Society · May 2023
+DOI: 10.1177/00953997231172923
+CITATIONS
+10
+READS
+302
+3 authors:
+John Nelson
+Georgia Institute of Technology
+21 PUBLICATIONS   139 CITATIONS   
+SEE PROFILE
+Spencer L Lindsay
+Arizona State University
+6 PUBLICATIONS   32 CITATIONS   
+SEE PROFILE
+Barry Bozeman
+Arizona State University
+409 PUBLICATIONS   28,193 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Barry Bozeman on 13 October 2023.
+The user has requested enhancement of the downloaded file.
+<<<PAGE=2>>>
+https://doi.org/10.1177/00953997231172923
+Administration & Society
+ 1 –50
+© The Author(s) 2023
+Article reuse guidelines:
+sagepub.com/journals-permissions 
+DOI: 10.1177/00953997231172923
+journals.sagepub.com/home/aas
+Article
+The Last 20 Years of 
+Empirical Research on 
+Government Utilization 
+of Academic Social 
+Science Research: 
+A State-of-the-Art 
+Literature Review
+John P. Nelson1 , Spencer Lindsay1,  
+and Barry Bozeman1
+Abstract
+We organize and critique the last 20 years of empirical research on policy 
+utilization of academic social science, offering eight recommendations 
+for future research: (1) improvement in utilization measures; (2) greater 
+alignment on constructs of interest; (3) greater address of different 
+national contexts; 4) study of mechanisms connecting academic research 
+to policymakers; (5) incorporation of knowledge on information search; (6) 
+attention to differences between utilization of policy, social, and physical 
+science in different sectors; (7) evaluative inquiry on the effects of research 
+utilization; and (8) investigation of the value of research in addressing 
+different classes of societal problems.
+1Arizona State University, Tempe, AZ, USA
+Corresponding Author:
+John P. Nelson, Center for Organization Research and Design/School for the Future of 
+Innovation of Society, Arizona State University, PO Box 875603, Tempe, AZ 85287-5603, 
+USA. 
+Email: john.p.nelson@asu.edu
+1172923AAS0010.1177/00953997231172923Administration & SocietyNelson et al.
+research-article2023
+<<<PAGE=3>>>
+2 Administration & Society 00(0)
+Keywords
+research utilization, evidence-based policy, research mobilization, science 
+for policy, policymaking
+Scholars and practitioners have a shared interest in the utilization of aca-
+demic research in public policy and public administration. On the academic 
+side, many scholars desire to improve policy and practice through their 
+research, and the promise of societal value is one of the primary justifications 
+for social and financial support of research (Bush, 1945; Guston, 2000; Price, 
+1965; e.g., National Academy of Sciences, National Academy of Engineering, 
+and Institute of Medicine, 2007). Meanwhile, appeal to (ostensibly) univer -
+sally accessible, thus universally compelling, fact is one of the primary ways 
+in which modern governments justify their authorities and actions (Ezrahi, 
+1990, 2004, 2012; Jasanoff, 1990, 2014; Porter, 1995); and technological 
+infrastructures of observation, analysis, and intervention are essential to the 
+functioning of modern states (Jasanoff, 1990; Scott, 1998). Recent contesta-
+tions about “alternative facts,” lamentations about the rise of a “post-truth” 
+politics, and arguments about “following the science” only illustrate the cen-
+trality of truth claims to modern ideals of political legitimacy (Jasanoff & 
+Simmet, 2017). If the authority to define and speak for truth were not still 
+important, no one would be fighting over it.
+But despite the importance of truth concepts in modern ideas of politics 
+and governance; the status of science as privileged speaker of truth; and the 
+shared interests of scholars and policymakers in maintaining the compact 
+between government and science, policy utilization of scientific research 
+remains difficult. This is particularly true in the social sciences. For social 
+science, public institutions and policy decisions are often objects and not 
+merely contexts for research, experimentation, and implementation; systems 
+and phenomena are complex and heterogeneous; values and goals diverge 
+between different stakeholder groups; and the viability of scholarly ideas 
+often cannot be tested without large-scale trial (Funtowicz & Ravetz, 1993; 
+Kline, 1995; Lindblom & Cohen, 1979; Nelson, 2011). Much social science 
+ostensibly about or relevant to policy is never used (R. Landry et al., 2001). 
+Many policymakers and public administrators do not find much research use-
+ful (or find it at all; Avey & Desch, 2014; Bogenschneider et al., 2019; Rose 
+et al., 2020). Many scholars feel their research is unjustly disregarded for the 
+sake of political expediency (see, e.g., Mooney, 2005; Oreskes & Conway, 
+2010). And when research is used, the results are not necessarily what either 
+policymakers or scholars would desire (Barton et al., 2021; Broad, 2002;
+<<<PAGE=4>>>
+Nelson et al. 3
+Pielke, 1999; Rayner & Sarewitz, 2021; Sarewitz et al., 2004; Scott, 1998). 
+This is true even of public policy and public administration research, intui-
+tively relevant to public affairs and familiar to research utilization 
+researchers.
+In this circumstance, the scholar by disposition, training, and culture 
+defaults to more research to illuminate what is going on and what can be done 
+about it. Literature on the roles and uses of science in policy and politics is 
+voluminous, but a limited amount of it focuses on when, how, with what 
+effects, and why policymakers and public administrators become acquainted 
+with and make use of academic public affairs research. Academic research 
+deserves special attention because it is uniquely organizationally insulated 
+from policymaking and public administration. Academia is the primary pro-
+ducer of non-use-inspired basic research in “Bohr’s Quadrant” (Stokes, 
+1997), that is, work not overtly directed toward the needs of an immediate 
+client or commissioner. Only academics primarily report their work through 
+scholarly journals, and only academics are primarily rewarded for publica-
+tions. The insulation of academic public affairs research simultaneously 
+reduces such research’s obligatory use orientation and contributes to its repu-
+tation as the gold standard of robust and neutral knowledge that (perhaps 
+paradoxically) should guide policymaking. Yet knowledge about use of this 
+knowledge is fragmentary and incomplete.
+A substantial body of research on use of research more generally in poli-
+cymaking, public administration, and the private sector does exist, going 
+under various headings including “evidence-based” or “evidence-informed” 
+policy or practice, “knowledge utilization,” “knowledge mobilization,” and 
+“academic engagement.” This literature focuses to a large extent, though not 
+entirely, on use of physical, engineering, biological, and environmental 
+research. This overall literature has been reviewed and summarized in several 
+different ways. Many reviews synthesize upshots for research-policymaking 
+relations from this broad literature (e.g., Blake & Ottoson, 2009; Capano & 
+Malandrino, 2022; French, 2018; B. Head, 2016; Newman, 2020). D’Este 
+et al. (2018) parse apart and summarize knowledge on the different constructs 
+studied in the general knowledge mobilization literature, and Perkmann et al. 
+(2013, 2021) perform a similar task for literature on academic engagement 
+with industry. However, no comprehensive analysis and summary of the con-
+structs studied specifically with respect to policy use of public affairs 
+research, and of present empirical knowledge on these constructs, exist. This 
+is an important gap because the literature on this distinctive topic is fairly 
+fragmentary, characterized by no well-established and consistent language or 
+theoretical framework, and in certain ways highly parochial. A comprehen-
+sive and detailed survey of this field of work would permit construction of
+<<<PAGE=5>>>
+4 Administration & Society 00(0)
+frameworks for more effective comparison between studies, analysis of gaps 
+and opportunities for improvement, and, thus, a more integrated, rigorous, 
+and complete research program moving forward.
+To meet this need, this paper systematically reviews the last 20 years of 
+empirical research on use of academic social science by policymakers and 
+public administrators. We expand from specifically public affairs research to 
+social science generally simply because there is too little research on only the 
+former to merit a full review. Other social sciences share many attributes, 
+including methods and theoretical frameworks, with public affairs research. 
+We exclude “mixed” domains incorporating both social and physical, bio-
+logical, or engineering science (e.g., epidemiology, public health, and envi-
+ronmental science) because literature on use of academic research in these 
+domains tends to focus on use of physical science knowledge; and because 
+each is characterized by methods and knowledge characteristics distinct from 
+those of public affairs. We focus on empirical literature as this is the literature 
+that provides the ground and material for theory, and that most clearly illus-
+trates the scope and limits of present inquiry.
+Similar to Bozeman et al.’s (2013), D’Este et al.’s (2018), and Perkmann 
+et al.’s (2013, 2021) reviews on related topics, our review aims to provide a 
+comprehensive overview of empirical research on policy utilization of aca-
+demic social science, to summarize the present state of empirical inquiry on 
+each construct studied under this topic, and to offer constructive critique to 
+guide and support future empirical inquiry. We address three primary 
+questions:
+1. What aspects of use of social science research in policymaking and 
+public administration have been empirically studied, and how have 
+they been conceptualized and operationalized?
+2. What has been learned, and what remains unknown?
+3. What topical or methodological gaps, and other opportunities for 
+improvement, exist in contemporary empirical research on use of 
+social science research in policymaking and public administration?
+Thus, this paper outlines which topics have been heavily studied and which 
+have not, where, how, and with what results. From the literature, we synthesize 
+organizing conceptual schemas that may be useful to future inquiry. We con-
+clude with eight suggestions for future work based on our observations of the 
+literature. These suggestions include (1) improvement and greater consistency 
+in utilization measures; (2) greater alignment on constructs of interest; (3) 
+inquiry on cross-national differences in research utilization culture and mecha-
+nisms, including greater attention to different national contexts; (4) additional
+<<<PAGE=6>>>
+Nelson et al. 5
+and comparative investigation into mechanisms connecting academic research 
+to policymakers; (5) incorporation of knowledge of psychology on information 
+search and choice; (6) greater attention to differences between utilization of 
+policy, social science, and physical science or engineering research; (7) addi-
+tional discussion and inquiry about the contextual effects and value of research 
+utilization in policymaking; and (8) additional inquiry on the different sorts of 
+problems that exist in policymaking and public administration and the different 
+sorts of contributions that social science can make to their address.
+Review Bounds and Procedure
+We collected our literature sample through the research article database Scopus 
+using a multi-stage bibliographic snowball procedure (explained in more detail 
+below; see also McNally & Alborz, 2004; Wohlin, 2014). The focus is on pol-
+icy utilization of academic social science research to maintain a tractable scope 
+and to reflect its distinctive organizational position and disciplinary character-
+istics. Government use of academic research is commonly referred to as 
+“research utilization” and has several more names, including “knowledge 
+mobilization” (e.g., Cooper & Ben, 2010; Sá et al., 2011), “evidence-based 
+policy” (e.g., Lingard, 2013; Newman, 2017); “evidence-informed policy” 
+(e.g., B. Head, 2016) and even the appealingly simple “research use” (Logan & 
+Graham, 1998; Scott-Findlay & Golden-Biddle, 2005). It is defined and mea-
+sured in many ways, which we treat in the course of this review.
+For the purposes of this study, we adopt an inclusive approach; our aim is 
+not to define or measure utilization ourselves but to review how others have 
+done so. Thus, we broadly treat “research utilization” as generically referring 
+to any use of ideas, language, documentation, data, theoretical constructs, 
+arguments, or anything else that originates in academic research by govern-
+ment officials. “Originating in research” does not mean only scholarly litera-
+ture. Practitioners may access research through curated syntheses or reports, 
+other grey literature, news media, blogs, social media, education, workshops, 
+testimony, personal communications with scholars, and more, as discussed in 
+the below subsection on “Mechanisms of Research Uptake.”
+As for “social science,” we operationalized the construct by exclusion: not 
+physical or biological science and not engineering. We excluded “mixed” 
+domains drawing heavily on physical or biological sciences (such as epide-
+miology, public health, and energy) because the primary aim of this review is 
+to provide insight into literature relevant to utilization of public affairs 
+research, which is almost entirely “pure” social science in methods, content, 
+and institutional situation. Last, by “academic research” we mean research 
+produced by personnel primarily working and located at universities. Much
+<<<PAGE=7>>>
+6 Administration & Society 00(0)
+research is, of course, co-authored, and scholars often work with persons 
+from government agencies, nonprofit organizations, and industry. When 
+scholars are among the co-authors, we take that as “academic research,” not 
+due to a sense of institutional or professional loyalties but because parsing 
+out would be confusing and in some instances highly impractical.
+We collected our article set using a bibliographic snowball procedure through 
+the abstract database Scopus. We began with 13 highly cited articles on research 
+utilization indexed in Scopus, all published in 2001 or earlier. These were not, of 
+course, all of the important articles published on the topic prior to 2002—merely 
+a large enough subset of important articles to serve as a starting point. Our itera-
+tive bibliographic snowball article selection procedure permitted us to fill out 
+the literature from any substantially cited point of entry. Thus, the arbitrariness 
+inherent in selecting our “root” articles did not prevent us from covering the 
+relevant literature. Wohlin (2014) argues that even a single seminal article can 
+suffice for a fairly small literature like that reviewed here.
+We searched for all articles indexed in Scopus that cited any of our 13 
+“root” articles, then winnowed the results (details below) to articles relevant 
+to policymaking or public administration use of academic social science 
+research and appearing in journals with a current CiteScore of 3.0 or higher. 
+This produced “Wave 1” of relevant articles. We repeated the collection and 
+winnowing procedure for all indexed articles that cited Wave 1, producing 
+Wave 2, and all those that cited Wave 2, producing Wave 3. We then collected 
+and winnowed all articles referenced in Waves 1 to 3, producing Wave 4, and 
+all articles referenced in Wave 4, producing Wave 5. Collection was com-
+pleted on 18 October 2021. In response to suggestions that our initial set of 
+search terms might inadvertently have excluded economics-related papers, 
+we conducted a second collection procedure specifically seeking economics-
+related papers on Scopus. This second procedure was completed on 22 
+February 2022. It did not find any articles specifically about utilization of 
+research in economic policy, but it added five nonduplicate papers on social 
+science research utilization generally.
+The winnowing procedure used for each wave began with mechanistic 
+limitations and ended in manual sorting. We limited each raw wave to journal 
+articles indexed in Scopus, appearing in journals with CiteScore 3.0 or higher, 
+and published after 2001 (noninclusive). We limited those remaining to those 
+containing at least one item from both of the following lists of terms (or lem-
+matized variants) in its title, abstract, or keywords:
+•• Set 1: policy, policymaker, policy maker, policymaking, policy making, 
+govern, government, agency, administrate, administration, administrator
+•• Set 2: academic, academia, academy, university, scholar, scholarly
+<<<PAGE=8>>>
+Nelson et al. 7
+We used Scopus disciplinary keywords and journal titles to limit the remain-
+ing set to the social sciences. Finally, we manually reviewed each wave to 
+remove irrelevant articles, as well as duplicates from prior waves. Articles 
+that discussed utilization of social science as one among several academic 
+domains were included, as were those that discussed utilization of academic 
+research alongside other forms of research.
+This procedure yielded a final set of 97 articles, 60 of which contained 
+some empirical content. We used a loose definition of the latter, including 
+reflections on personal experience. We downloaded and read the 60 empirical 
+papers. In order to investigate research topics and claims, a single author used 
+the qualitative data analysis program NVivo to code articles by method, 
+national context, field of academic scholarship treated, and research topics 
+addressed (Bernard et al., 2017; Miles & Huberman, 1994). We derived 
+research topics inductively based upon the categorizations provided in the 
+literature. We coded method and data sources exclusively, other categories 
+nonexclusively. This coding extracted cross-cutting research topics by which 
+we organize the following discussion.
+Our procedure excluded a variety of sources, though we believe it permit-
+ted us to capture most relevant articles published in mainstream English-
+language journals. As over 97% of citations in Scopus, Google Scholar, and 
+Web of Science are to English-language sources (Martín-Martín et al., 2018); 
+this is likely to encompass the mainstream of scholarly discussion. Fifty-
+three of the empirical papers—nearly 90%—drew their data from one of four 
+English-speaking nations: in descending order of incidence, the United 
+Kingdom, Australia, the United States, and Canada (Table 1). Of other 
+nations, only Romania appeared in more than one paper. We thus have little 
+information about policy utilization of academic social science outside 
+wealthy, Western democracies—or indeed outside the Anglosphere.
+Research Topics Addressed in the Literature
+We have organized our discussion of research topics appearing in the litera-
+ture conceptually rather than by frequency of address simply because discus-
+sion of some earlier topics provides ideas useful for discussing later topics. 
+Figure 1 lays out the different topics treated through a simple process dia-
+gram; Table 2 provides illustrative examples of articles addressing each topic.
+Extent of Research Utilization in Public Organizations
+Twenty-one studies examine the extent to which policymakers and public 
+administrators make use of academic social science. Cross-contextual studies 
+illustrate that use varies across national and regional contexts, government
+<<<PAGE=9>>>
+8 Administration & Society 00(0)
+scales, policy domains, and particular agencies, while also being associated-
+with certain characteristics of individual practitioners, as discussed below. In 
+particular, studies of developing nations, for example, Nigeria (Sanni et al., 
+2016), Romania (Ion et al., 2019; Petrescu & Lambru, 2021), and Uganda 
+(Etomaru et al., 2022), find limited research utilization, while studies of 
+wealthier nations with more established research and policy communities 
+tend to find more (Amara et al., 2004; Cherney et al., 2012a, 2012b; Desmarais 
+& Hird, 2014; Jennings & Hall, 2012; R. Landry et al., 2003; Newman, 2014; 
+Newman et al., 2016, 2017; Vilkins & Grant, 2017). This is, admittedly, a 
+rough assessment; authors use diverse methods and measures to investigate 
+extent of research utilization (Table 3), leaving us to judge extent based on 
+comparison between authors’ own qualitative comments.
+Table 1. Counts of Empirical Articles Drawing Data From Each Nation.
+Nation Number of articles (nonexclusive)
+United Kingdom 21
+Australia 14
+United States of America 10
+Canada 8
+Transnational 3
+Romania 2
+Belgium 1
+Germany 1
+Israel 1
+Nigeria 1
+Singapore 1
+Sweden 1
+Tanzania 1
+Uganda 1
+Figure 1. Map of topics studied in empirical research utilization literature, 
+organized as a simple communication process diagram.
+<<<PAGE=10>>>
+Nelson et al. 9
+Table 2. Example Articles Addressing Each Topic Depicted in Figure 1.
+Topic Example articles
+Scholars
+Use or outreach extent Cherney et al. (2013), Weiss-Gal et al. (2017)
+Use or outreach determinants
+ Organizational context Meagher et al. (2008), Knight and Lightowler 
+(2010)
+ Individual characteristics Cherney et al. (2013), Thomas and Ormerod 
+(2017)
+ Research characteristics Avey and Desch (2014), Vilkins and Grant 
+(2017)
+Interchange processes
+Mechanisms Orr and Bennett (2012), Tilbury et al. (2021)
+Use determinants
+ Relationship characteristics Broström and McKelvey (2018), Janousek and 
+Blair (2018)
+Practitioners
+Use extent Desmarais and Hird (2014), Newman et al. 
+(2016)
+Types of use Broström and McKelvey (2018), B. Head et al. 
+(2014)
+Use determinants
+ Individual characteristics Newman (2014), Ouimet et al. (2010)
+ Organizational context Amara et al. (2004), B. Head et al. (2014) 
+Table 3. Measures of Research Utilization in Reviewed Articles.
+Use measure
+Articles using measure 
+(nonexclusive)
+Frequency of citation to academic sources in 
+government documents
+2
+Scholar self-report on Knott and Wildavsky six-stage 
+use typology
+4
+Practitioner self-report on Knott and Wildavsky six-
+stage use typology
+1
+Practitioner self-report on use frequency of academic 
+research in practice
+8
+Practitioner self-report on importance or value of 
+academic research in practice
+6
+Academic qualitative comments 2
+Practitioner qualitative comments 3
+Contextual integration of multiple qualitative and 
+quantitative measures
+1
+<<<PAGE=11>>>
+10 Administration & Society 00(0)
+Research utilization is measured in a variety of ways. Surveys of scholars 
+and practitioners tend to ask the former whether and how frequently their 
+research has been used by practitioners, and the latter whether and how fre-
+quently they draw on academic research or the importance that they attach to 
+it. Some surveys further specify the question of use by adopting Knott and 
+Wildavsky’s (1980) six-stage conceptualization of research utilization, begin-
+ning with receipt of research and ending with research influence in policy-
+making. This rather linear and direct conception of research use may elide or 
+fail to distinguish between certain forms of use. Its construction carries an 
+implicit teleology, presuming that research should directly influence the 
+details of specific decisions and has failed if it does not.
+Citation analyses count references to academic sources (eliding verbal or 
+other more subtle forms of policy effect), while case studies sometimes 
+employ qualitative assessments of research utilization systems or infrastruc-
+ture. Woolcott et al. (2020) define “cultural change” as impact, measuring a 
+research collaboration’s outcomes through 16 different document, interview, 
+and observation-based measures. In short, most quantitative use measure-
+ments may be insensitive to longer-run, discourse-shaping forms of influ-
+ence, and none makes any effort to determine the value of research use. 
+Meanwhile, qualitative measures are highly contextual, often somewhat 
+vague, and typically time-intensive to apply.
+Functions of Research in Policymaking or Public Administration
+Sixteen studies speak to what is actually happening when practitioners use 
+research. They agree, unsurprisingly, that research can be used in several dif-
+ferent ways in policy and public administration; and their typologies of these 
+varieties of use overlap significantly. In their survey of 833 Canadian regional 
+and national public servants, Amara et al. (2004) adopt Weiss’s (1979, 1991) 
+three-pronged use typology, which distinguishes among instrumental use—
+direct application to policy design or decision-making, conceptual use—a 
+broader shaping of policy thought and discourse, and symbolic use—adventi-
+tious adoption in support of predetermined decisions. Amara and colleagues 
+find evidence for all three types of use; all three received mean ratings 
+roughly halfway between “negligible” and “decisive” impact in respondents’ 
+fields of practice. Conceptual use received the highest rating, symbolic sec-
+ond, and instrumental lowest. The authors additionally find suggestive, but 
+statistically insignificant, evidence that incidence of use type may vary across 
+different policy domains.
+B. Head et al. (2014), in their survey of 2,084 Australian state and national 
+public servants, construct a measure only for Weiss’s instrumental impact and
+<<<PAGE=12>>>
+Nelson et al. 11
+report it only as part of a logistic regression model. Thus, we can say only that 
+they found some instrumental use. However, they also queried their respon-
+dents about a somewhat different typology of uses, some of which, in our 
+view, align with Weiss’s categories:
+1. Use in informing design and implementation of policies and programs 
+(instrumental)
+2. Use in changing practitioner understanding of issues or choices 
+(conceptual)
+3. Use in justifying choices already made (symbolic)
+4. Use in putting issues on agenda (conceptual)
+5. Use in decision-making on resource allocation (no clear equivalent)
+All five queries received affirmative responses from between 22% and 46% of 
+respondents, with federal affirmative response rates consistently lower. The 
+above list ranks the use types from highest to lowest state affirmative response 
+rate. Federal rankings are the same, save that a posteriori justification was 
+(marginally) most frequent rather than third. Newman et al. (2016) add 126 
+interviews with respondents to the same Australian survey data to report some 
+incidence of all three of Weiss’s use types, noting that many interviewees con-
+sidered symbolic use the dominant form in their experience.
+A number of studies provide examples of instrumental, conceptual, and 
+symbolic use in different academic and policy domains. Meagher et al. (2008) 
+find some instrumental, and more conceptual, use among UK-based psychol-
+ogy scholars. Paris (2011) observes conceptual but not instrumental use of 
+international relations literature on fragile states. Avey and Desch’s (2014) 
+national security policymaker respondents are generally pessimistic about 
+instrumental use of academic research in their field, though some acknowl-
+edge—one invidiously—general conceptual shaping. Woolcott et al. (2020) 
+illustrate “cultural shifts” through an Australian research collaboration project. 
+Charles (2021) provides examples of instrumental use of research in Tanzanian 
+business policy. Pizmony-Levy et al. (2021) provide examples of instrumental 
+use in environmental education policy in New York City. Tilbury et al. (2021) 
+provide a variety of case studies of use in Australian social work research, argu-
+ing that conceptual influence lays groundwork for instrumental utilization.
+Other studies speak more to the conditions under which different sorts of 
+use are possible. Such conditions may include stage of policy process, as 
+Weiss-Gal et al. (2017) find in a survey of 143 Israeli social work scholars. 
+They employ a use typology framed around a sequential conception of policy 
+stages (Jann & Wegrich, 2007), asking respondents about the extent of their 
+personal involvement in each stage:
+<<<PAGE=13>>>
+12 Administration & Society 00(0)
+1. Placing a problem on the agenda
+2. Placing a policy limitation on the agenda
+3. Formulating policy alternatives
+4. Planning policy
+5. Evaluating policy
+Mean levels of reported scholar involvement in these activities steadily 
+decrease from 1 to 4, only rising slightly for 5, with 49% reporting extensive 
+or very extensive involvement with (1) and 17.5% with (4). Broström and 
+McKelvey (2018) take a different angle on policy stages in a case study on 
+the introduction of congestion charging in Stockholm, Sweden. They observe 
+(not unlike Graffy, 2008) that policymakers have different informational 
+needs at different stages of the policy process as they cycle between, in the 
+authors’ conception, “policy learning” and “policy implementation.” 
+“Learning” refers to an “explorat[ory]” “set of activities whereby the general 
+direction of policy is shaped”—perhaps analogous to Weiss’s conceptual 
+use—whereas “implementation” refers to “activities where the concrete for -
+mulation of policy is determined” (p. 186)—perhaps analogous to Weiss’s 
+instrumental use.
+Use-type-relevant conditions may also include the state of the academic 
+literature or the political situation. Stevens (2011) finds extensive examples 
+of symbolic use in his ethnographic study of UK policymaking. However, he 
+argues that such use results not from practitioner cynicism but from the dif-
+ficulties of rendering sense from an inchoate and often equivocal deluge of 
+semi-relevant academic research (see also Boaz & Pawson, 2005). Sullivan 
+(2011), in a case study of evaluation research in UK public policy, observes 
+a broader sort of symbolic use, that is, the use of the enterprise of academic 
+policy evaluation to buttress the presentation of competence and political 
+authority of government (compare Porter, 1995). Drawing on personal expe-
+rience in UK government, Newman (2011) argues that ideology dominates 
+selection or reading of evidence in well-established policy movements or 
+controversies, though, like Stevens (2011), he suggests that such domination 
+of symbolic use can result from simple oversaturation of research. 
+Bogenschneider et al. (2019) report that U.S. state legislator interviewees 
+believe that research can be used instrumentally only in areas where political 
+battle lines have not been well established, and that use is necessarily sym-
+bolic where they have. Andrews (2017), based on his own experience in UK 
+government, speaks of a “situated agency” wherein practitioners have room 
+for maneuver, shaped and constrained by political and other situational 
+factors.
+<<<PAGE=14>>>
+Nelson et al. 13
+Mechanisms of Research Uptake
+Twenty-two articles explore or illustrate mechanisms by which academic 
+research reaches practitioners. Studies tend to treat this question incidentally, 
+providing examples of mechanisms but not explicitly comparing them. Many 
+articles provide examples of uptake via partnership—directly between scholars 
+and policymakers (Broström & McKelvey, 2018; Cherney et al., 2012a, 2012b; 
+Fletcher et al., 2018; Heinrich & Good, 2018; Orr & Bennett, 2012; Wilkinson 
+et al., 2012; Yu, 2020); between scholars and advocacy groups, professional 
+associations, or non-governmental organizations (Charles, 2021; Fotheringham 
+et al., 2021; Meagher et al., 2008; Petrescu & Lambru, 2021; Tilbury et al., 
+2021; Weiss-Gal et al., 2017); and with industry (Charles, 2021; Tilbury et al., 
+2021). Five articles (Etomaru et al., 2022; Hinrichs-Krapels et al., 2020; Knight 
+& Lightowler, 2010; Lightowler & Knight, 2013; Phipps & Shapson, 2009) 
+examine practitioner-research brokering by university personnel or subunits, 
+and four (Kitagawa & Lightowler, 2013; Meagher et al., 2008; O'Brien, 2005; 
+Weiss-Gal et al., 2017) discuss brokering through research funding bodies or 
+direct commissioning of research by public organizations.
+Scholars can also interact directly with present or future practitioners through 
+teaching and training (Charles, 2021; Tilbury et al., 2021), conference encoun-
+ters (Janousek & Blair, 2018; Tilbury et al., 2021), direct policy advice, and 
+legislative testimony, or, of course, temporarily or permanently becoming prac-
+titioners themselves (Bruce & O’Callaghan, 2016; Weiss-Gal et al., 2017). They 
+can directly step into public discourse through media appearances or contribu-
+tions (Andrews, 2017; Charles, 2021; Meagher et al., 2008; Tilbury et al., 2021; 
+Weiss-Gal et al., 2017), uptake by or participation as research curators (Castillo 
+et al., 2021) or through contributing to public consultations (O'Brien, 2005). 
+Such public statements and engagements can in turn reach practitioners. Last, 
+practitioners sometimes seek out academic research in databases or online with-
+out initial prompting from individual scholars (Cherney et al., 2015). Largely 
+unexplored in the reviewed papers is the host of third-party, intermediate policy 
+products, for example, U.S. National Academies reports (see Bozeman et al., 
+2019; Youtie et al., 2017), which take up academic research products and trans-
+mute them into policy recommendations without direct collaboration between 
+practitioners and most of the scholars whose research is used.
+Utilization-Relevant Characteristic of Academic Organizations 
+and Scholars
+For purposes of organization, we have grouped the wide variety of potential 
+determinants of research utilization studied in the literature into four catego-
+ries: scholar, referring to qualities of scholars and their home organizations;
+<<<PAGE=15>>>
+14 Administration & Society 00(0)
+content, referring to qualities of the research itself; practitioner, referring to 
+qualities of practitioners and their home organizations; and relational, refer -
+ring to qualities of the interactions between scholarly and policy communities 
+or organizations. Fifteen articles speak to scholar qualities; we have further 
+subdivided such qualities into organizational and individual characteristics. 
+There is no well-agreed-upon set of relevant variables. Different scholars in 
+the space have different foci and hobbyhorses, and articles vary in conceptual 
+models and the explicitness thereof. As an organizing device, we integrate the 
+various constructs investigated into a simple and high-level conceptual model 
+that shows plausible relationships between high-level categories of investi-
+gated variables (Figure 2, Table 4).
+Utilization-Relevant Characteristics of Academic Organizations
+Organizational Material Support for Research Utilization and Outreach. Avey 
+and Desch (2014) and Tilbury et al. (2021) find that research utilization often 
+requires significant effort on the parts of scholars. This work is costly in time 
+and sometimes money, and it requires development and maintenance of 
+Figure 2. Conceptual model of relationships between different metacategories of 
+potential determinants of research utilization investigated in the literature. Note 
+that we do not expect this list of constructs to be all of those relevant; rather, 
+these are the constructs which appear in prior literature.
+<<<PAGE=16>>>
+Nelson et al. 15
+Table 4. Summary of Previously Investigated Constructs’ Relationships to Extent 
+of Research Utilization.
+Construct
+Utilization 
+relationship
+Relevant articles 
+(nonexclusive)
+Scholar characteristics
+Organizational
+ Material support for utilization 
+and outreach
++ 5
+ Incentives for utilization + 5
+Individual
+ Demographic
+  Age + 1
+  Gender ? 2
+ Professional
+  Discipline A 3
+  Productivity + 1
+  Rank + 3
+  Receipt of external funding + 3
+ Utilization attitudes and capabilities
+  Utilization valuation +* 5
+  Collaboration valuation + 2
+  Policy engagement skills + 3
+  Dissemination efforts + 4
+Research characteristics
+Discipline A 1
+Methods ? 3
+Aims
+ Advance knowledge + 1
+ Meet practitioner needs ? 5
+ Develop theory ? 1
+Journal attributes
+ Impact factor + 1
+ Open access + 1
+Practitioner characteristics
+Organizational
+ National context A 2
+ Scale A 3
+ Political context ? 1
+ Policy domain A 2
+ Interest in policy innovation + 2
+ (continued)
+<<<PAGE=17>>>
+16 Administration & Society 00(0)
+Construct
+Utilization 
+relationship
+Relevant articles 
+(nonexclusive)
+ Access to research ? 4
+ Research valuation and culture + 5
+Individual
+ Demographic
+  Gender ? 1
+  Degree attainment + 8
+  Background field A 5
+ Professional
+  Policy domain A 4
+  Rank ? 2
+  Duties
+   Implementation only − 1
+   Writing + 1
+  Length of tenure ? 2
+ Utilization attitudes and capabilities
+  University work experience + 2
+  Research skills ? 2
+  Method preference
+   Quantitative over qualitative + 2
+Relational characteristics
+Research relevance and timeliness +* 13
+Research adaptation, presentation, 
+and accessibility
++* 9
+Density, quality, and continuity of 
+scholar-practitioner relationships
++* 14
+Density and quality of scholar-
+practitioner linkage mechanisms
++* 11
+Collaboration structure A 4
+Note. Only relationships marked with an asterisk (*) have been investigated robustly with 
+consistent results. Note as well that multiple articles addressing the same construct often 
+emerge from a single dataset.
++Preponderance of articles have found a positive relationship between variable and research 
+utilization.
+−Preponderance of articles have found a negative relationship between variable and research 
+utilization.
+?Preponderance of articles have not found a relationship between variable and research 
+utilization; or articles disagree.
+A Variable relationship to utilization cannot be summarized by direction of association−for 
+example, because variable is nominal and non-dichotomous.
+*Variable has been subject to several studies with consistent results. Utilization relationship 
+may, in our estimation, be treated as robust.
+Table 4. (continued)
+<<<PAGE=18>>>
+Nelson et al. 17
+policy outreach skills and connections. Interviews of Meagher et al. (2008) 
+with UK psychology scholars suggest that funding for such work is both 
+scarce and necessary. The authors find as well that work by dedicated broker-
+ing personnel in outreach and contact events can help to forge and maintain 
+scholar-practitioner connections. Knight and Lightowler (2010; also Light-
+owler & Knight, 2013), in interview studies of UK-university-based knowl-
+edge brokers, and Weiss-Gal et al. (2017), in a survey of Israeli social work 
+scholars, concur. Sá et al. (2011) argue, based on interviews with Canadian 
+academic administrators in education research, that organizational resource 
+constraints can limit the actual degree of support provided even in organiza-
+tions articulating a strong research utilization ethos. Knight and Lightowler 
+(2010; also Lightowler & Knight, 2013) concur.
+Organizational Incentives for Research Utilization. Meagher et al. (2008) also 
+find, along with Cherney et al. (2012a; survey of Australian education schol-
+ars), Etomaru et al. (2022; case study of Makerere University in Uganda), and 
+Matthews et al. (2018; interviews with UK scholars), that the incentive struc-
+tures of academic institutions tend not to strongly reward knowledge utiliza-
+tion. Incentives thus steer scholars away from the often high-effort and 
+high-cost outreach activities required to achieve research use. Scholars face 
+significant time and resource constraints (Cherney et al., 2012a; Etomaru 
+et al., 2022; L. A. Walker et al., 2019), and it is plausible that an incentive 
+system primarily rewarding publication of scholarly journal articles can 
+induce neglect of utilization work or opportunities.
+Utilization-Relevant Characteristics of Individual Scholars
+Scholar Age. If a utilization measure is conceived as lifelong, age may affect 
+utilization simply because older scholars have had more time in which to achieve 
+utilization. If utilization is conceived in terms of frequency, older scholars may 
+still have an edge by virtue of associated factors such as lifelong productivity 
+and rank, as well as simply having developed larger, denser, and longer-stand-
+ing social and policy networks. In our set, only Thomas and Ormerod (2017), in 
+their bibliometric, web, and interview study of UK-based policy scholars, study 
+scholar age. They find it to associate positively with non-academic impact (con-
+ceived as lifelong) in two of their three regression models for the variable.
+Scholar Gender. Systemic gender bias is plausibly present in public organiza-
+tions and in academia and might be expected to depress female or gender-
+nonconforming scholars’ policy impacts. L. A. Walker et al. (2019), in a 
+survey study of UK scholars, find that male- and female-identifying scholars
+<<<PAGE=19>>>
+18 Administration & Society 00(0)
+report policy experience at equal rates, but that male scholars report broader 
+and more extensive engagement with research users. Thomas and Ormerod 
+(2017) also investigate gender but do not find it statistically significant.
+Scholar Discipline. Ouimet et al. (2010) survey of 1,614 Quebecois policy ana-
+lysts finds that 17% of analysts report contacting natural scientists or engi-
+neers in the preceding year, followed by the social sciences at 15% and 3% 
+each for administrative and health sciences. Cherney et al. (2013) in a survey 
+of scholars in education, sociology, economics, psychology, and political sci-
+ence find that education scholars perceive substantive application of their 
+research at markedly higher rates than do those in other disciplines (and that 
+the others follow in the order above). They argue that the preeminence of edu-
+cational research may be due to its applied nature, its high rates of scholar-
+practitioner partnerships, and educational scholar sensitivity to user needs. 
+Matthews et al. (2018), in an interview study of UK social science, arts, and 
+humanities scholars performing government-commissioned evidence reviews, 
+find that respondents conceptualize their relationships to the policy sphere, 
+including the prestige (or lack thereof) of “application” work and their degree 
+of autonomy from policymaking, in significant part through their disciplinary 
+backgrounds. These findings do not directly speak to by-discipline variance in 
+incidence, but they suggest certain mechanisms that may help to explain it and 
+also point to qualitative differences in what “utilization” may look like across 
+different academic disciplines. Matthews and colleagues’ scholar interviewees 
+vary by field in whether they regard public organizations as “clients” whose 
+evidentiary desires the scholar must meet, or “powers” to which the scholar 
+must “speak truth.” Frequency and formats of scholar-practitioner interchange 
+during the evidence review process vary across fields as well.
+Scholar Productivity. It is plausible that greater scholar productivity could 
+facilitate greater research utilization because a more productive scholar will 
+have a greater volume of research to be used, may be better-known, and may 
+carry greater authority in policy interactions. Conversely, if greater produc-
+tivity is an indicator of dedication primarily to production of scholarly litera-
+ture and neglect of practitioner outreach, it might be expected to associate 
+negatively with utilization. Only Thomas and Ormerod (2017) study scholar 
+productivity, finding it to associate positively with non-academic impact.
+Scholar Rank. Academic rank is likely to associate with career length, aca-
+demic productivity, public profile, and access to social and material resources, 
+all of which could plausibly increase scholars’ likelihood of attracting practi-
+tioner attention; and, more saliently, of achieving impact should they choose
+<<<PAGE=20>>>
+Nelson et al. 19
+to attempt it. Tenured professors may also be free of certain incentive con-
+straints to which their junior colleagues are subject. No longer having to 
+“publish or perish,” they may have more latitude to pursue impact. Weiss-Gal 
+et al. (2017) indeed find that academic rank associates with policy involve-
+ment among their Israeli social work scholar respondents, and Thomas and 
+Ormerod (2017) report similar findings among UK tourism scholars. Cher -
+ney et al. (2013) do not explicitly study rank, but they do find that teaching 
+duties negatively associate with research utilization for their economics and 
+sociology respondents.
+Scholar Receipt of External Funding. As external funding connects scholars to 
+the needs of other, often nonacademic and sometimes public organizations, 
+it might be expected to support relationships providing opportunities for 
+research utilization. Receipt of external funding might also proxy for scholar 
+skill level, productivity, or motivation. In several analyses of a single survey 
+dataset of Australian scholars, Cherney et al. (2012a, 2012b, 2013) find that 
+scholars who consider external funding essential are more likely to have 
+achieved research uptake and that receipt of external grant funding associ-
+ates positively with achievement of research utilization for educational and 
+psychology scholars.
+Scholar Valuation of Utilization. In keeping with the argument around incentiv-
+ization, four survey studies (over three datasets; Cherney et al., 2012a, 2013; 
+L. A. Walker et al., 2019; Weiss-Gal et al., 2017) and one case study (O'Brien, 
+2005) find the priority that individual scholars place on the achievement of 
+research utilization to associate with research utilization achievement. As 
+research utilization is not an automatic result of the characteristic activity of 
+scholars, that is, publishing academic literature, it is plausible that scholars 
+who place greater priority on utilization will achieve it more frequently by 
+dint of greater allocation of resources and effort.
+Scholar Valuation of Practitioner Collaboration. It might be expected that schol-
+ars who consider practitioner collaboration to be important will be more 
+likely to pursue it and to thereby achieve utilization. Reciprocally, it is also 
+possible that scholars with past and successful experience of research col-
+laboration are more likely to have achieved utilization. In their survey of 
+Australian scholars, Cherney et al. (2012b, 2013) find valuation of research 
+collaboration to positively associate with research utilization.
+Scholar Policy Engagement Skills. It is straightforwardly plausible that scholars 
+with greater policy engagement skills are likely to have greater policy
+<<<PAGE=21>>>
+20 Administration & Society 00(0)
+impacts. Weiss-Gal et al. (2017) find their respondents’ self-rated policy 
+competencies to positively associate with self-reported policy involvement. 
+Bruce and O’Callaghan (2016) interview UK sustainable development policy 
+scholars who held temporary policy placements and find that such knowl-
+edge brokers must understand and work effectively within policy needs, cul-
+ture, and processes to achieve knowledge exchange. Approximately 40% of 
+L. A. Walker et al. (2019) UK-based scholar survey respondents state that 
+lack of experience in working with policymakers presents a challenge to their 
+contributing to a potential academic policy initiative, and over 30% report 
+challenges stemming from limited guidance for or understanding of policy 
+contribution needs.
+Scholar Dissemination Efforts. It seems plausible that scholars who put more 
+effort into disseminating their research to users will achieve more user 
+uptake. Cherney et al. (2012a, 2012b, 2013) indeed find that utilization asso-
+ciates with scholars’ prioritization of and engagement in dissemination 
+activities and tailoring thereof. Thomas and Ormerod (2017) find that inter -
+viewed scholars see social media outreach as useful, but their statistical 
+analysis does not reveal a link between web communications efforts and 
+nonacademic impact.
+Utilization-Relevant Characteristics of Research
+Seven papers speak to qualities of research itself being associated with 
+utilization.
+Research Discipline. Desmarais and Hird (2014) observe in a citation study of 
+U.S. regulatory impact analyses that research utilization incidence varies 
+across academic disciplines. Economics journals are most frequently cited 
+overall. The next social science in disciplinary citation rankings is business 
+finance at rank 6 of 21. The upper rankings are dominated by environmental 
+science, public health, and medicine. It appears that different research 
+domains are, in practice, differentially relevant to the business of govern-
+ment. It should be noted, however, that the particular frequency rankings 
+derived from regulatory impact analyses, which tend to be framed in terms of 
+environmental, economic, and public health impacts, may not reflect overall 
+research use patterns in government.
+Research Methods. R. Landry et al. (2003) suggest that quantitative studies 
+are likely to be more useful for instrumental modification of government 
+programs, thus more likely to be used for these purposes (and perhaps
+<<<PAGE=22>>>
+Nelson et al. 21
+overall) in policy; or, it may be that since specialized skills may be needed 
+for interpretation, they may be less likely to be used. Their survey data, 
+drawn from Canadian public servants, are indeed indeterminate on the 
+point. Amara et al. (2004), in their analysis of the same data, find that 
+scholar production of quantitative products associates (positively) with all 
+three of their forms of utilization more strongly than does production of 
+qualitative reports, while qualitative report production still associates posi-
+tively with conceptual and with symbolic use. Qualitative research does 
+indeed tend to be more conceptual in nature. Cherney et al. (2013), how-
+ever, in a survey of Australian social science scholars, do not find qualita-
+tive or quantitative research to predict utilization.
+Aims of Research. Amara et al. (2004) find that a focus on the advancement 
+of knowledge in research associates positively with increased instrumental 
+use. Similarly to Cherney et al. (2013; but not 2012a, 2012b) and Avey and 
+Desch (2014), they also find that a focus on practitioner needs in research 
+associates positively, and more strongly than does a knowledge creation 
+focus, with all three of their kinds of use. The practitioner needs focus 
+finding is easily comprehensible in that research focused on practitioner 
+needs is more likely to be useful to them. The knowledge focus finding is 
+slightly more difficult to explain, and Amara and colleagues do not attempt 
+to do so. In contrast, R. Landry et al. (2003) do not find a utilization asso-
+ciation for knowledge focus, practitioner needs focus, or, in addition, theo-
+retical focus.
+Journal Attributes. It is plausible that more widely read and higher-profile 
+journals are more likely to see their articles used in policy, and Desmarais 
+and Hird (2014) indeed find that journal impact factor associates positively 
+with rate of citation in regulatory impact analyses. Vilkins and Grant 
+(2017), in their citation analysis of Australian government publications, do 
+not investigate impact factor but do find suggestive evidence that open-
+access journals are cited at higher rates than other journals. This latter find-
+ing may align with studies showing that accessibility of research affects its 
+utilization.
+Utilization-Relevant Characteristics of Government Practitioners 
+and Organizations
+Twenty articles speak to characteristics of policymakers, public administra-
+tors, or government organizations that are associated with research use. We 
+again separate these into organization-level characteristics and individual-
+level characteristics.
+<<<PAGE=23>>>
+22 Administration & Society 00(0)
+Utilization-Relevant Characteristics of Government 
+Organizations
+National Context. Studies comparing national contexts are rare. O'Brien 
+(2005) offers a multi-method case study of Canadian and UK bilateral 
+development agencies using policy analysis, citation analysis, and research 
+funding data. He finds more extensive utilization of university research in 
+the UK, attributing the difference to superior “institutional setting, pro-
+grams [including funding of university research], and policy linkage 
+[mechanisms]” (p. 131). Pattyn et al. (2022), in their own case study, com-
+pare Belgian and German agencies. They find that academic research use 
+rates and the institutionalization of academic research use are much higher 
+in Germany.
+Government Scale. R. Landry et al. (2003) find that Canadian regional, as 
+opposed to federal, governments are more likely to use university research, 
+and Amara et al. (2004), using the same data, find that regional governments 
+are more likely to use it symbolically. B. Head et al. (2014) find that Austra-
+lian state-level public servants report academic research use at higher rates 
+than do federal officials, though they caution that much of the difference is 
+accounted for by low citation rates at one non-policy federal agency, the Aus-
+tralian Bureau of Statistics. It is possible that federal officials, at least at the 
+Australian Bureau of Statistics, make more extensive use of in-house data or 
+analysis and thus rely less upon external sources.
+Organizational Political Context. In a comparative metanalysis of Pew and 
+MacArthur Foundation assessments of evidence-based policy on criminal 
+justice, juvenile justice, behavioral health, and child welfare in the 50 
+U.S. state governments, Yingling and Mallinson (2020) find some some-
+what ambiguous results on political context and utilization. In their study, 
+U.S. states with Democratic governors and with Republican legislatures 
+respectively display higher institutionalization of evidence-based policy. 
+They suggest that this is because Republican legislatures may be politi-
+cally incentivized to seek evidence-based policy to constrain budget 
+growth, while Democratic governors may be incentivized to seek evi-
+dence-based policy to improve the efficacy of government programs and 
+to increase budgets. Republican legislatures, they argue, tend to be 
+rewarded for limiting or reducing budgets, while Democratic governors 
+tend to be rewarded for increasing them. They do not discuss the apparent 
+contradiction between these incentive sets.
+<<<PAGE=24>>>
+Nelson et al. 23
+Organizational Policy Domain. Jennings and Hall (2012), in a survey of 217 
+U.S. state agency directors, find that use of “professional/scientific” informa-
+tion sources varies across domain is in descending order:
+ 1. Fish and wildlife
+ 2. Natural resources
+ 3. Alcohol and substance abuse
+ 4. Tourism
+ 5. State police
+ 6. Children and youth services
+ 7. Transportation and highways
+ 8. Environmental protection
+ 9. V ocational rehabilitation
+10. Developmental disabilities
+11. Economic development
+12. Hazardous waste management.
+The authors suggest that utilization plays a more determinative role in policy 
+on less politicized issues, aligning with Newman’s (2011), Andrews’s (2017) 
+and Bogenschneider et al.’s (2019) use type findings. It is not, however, 
+immediately apparent that the above order ranks policy domains by politici-
+zation as well. Desmarais and Hird (2014) find that citation rates to journal 
+articles vary across U.S. government regulatory agencies, which may but 
+does not necessarily reflect policy-domain-linked variation.
+Organizational Interest in Policy Innovation. Yingling and Mallinson (2020) find 
+“innovativeness,” by which they mean rate of policy adoption, to associate 
+with their utilization measure, which is based largely around formalization of 
+evidence use or presentation. Yu (2020), meanwhile, in a reflection on her 
+own experience “coproducing” a federal law enforcement research project 
+with practitioners, argues that successful collaboration requires “a ‘cham-
+pion’ in the practitioner community” (p. 567). The Yu finding is relatively 
+straightforward, but the Yingling and Mallinson finding requires more inter-
+pretation. The authors suggest that, “since [evidence-based policy] as a dis-
+tinct political and social movement is a . . . recent development, states which 
+tend to adopt policy innovations more quickly, broadly speaking, are also 
+more likely to adopt [evidence-based policies]” (p. 592). This argument does 
+not clarify whether the link between rate of policy adoption and formalization 
+of evidence use or presentation is government should then be expected to 
+vanish as evidence-based policy becomes older.
+<<<PAGE=25>>>
+24 Administration & Society 00(0)
+Organizational Access to Research. It may be expected that greater ease of 
+access to research within an organization—via, for example, subscription to 
+academic databases—would facilitate research utilization. B. Head et al. 
+(2014) do not find that reported barriers in access to university research asso-
+ciate negatively with utilization in their survey of Australian practitioners, 
+but Cherney et al. (2015), in a different analysis of the same data, do. New-
+man et al. (2016, 2017), in more analyses of the same data, suggest that—at 
+least in Australia—access is not much of a problem. In short, the evidence is 
+ambiguous.
+Organizational Research Valuation and Culture. It is plausible that organiza-
+tional variations in priority and value placed upon academic research affect 
+academic research use (or vice versa). R. Landry et al. (2003) find that, 
+among their Canadian government official respondents, “user’s context”—a 
+somewhat muddy construct encompassing perceived pertinence of university 
+research among colleagues, comparison between the value of colleagues’ and 
+scholars’ work, and the timeliness of research—strongly and positively pre-
+dicts research utilization. B. Head et al. (2014) and Cherney et al. (2015), 
+both using the same dataset of Canadian government officials, find percep-
+tion of colleague relevance and lack of organizational “research culture” both 
+to predict research utilization reporting—the former positively, the latter 
+negatively. O'Brien (2005) and Pattyn et al. (2022), in their respective case 
+studies of UK and Canadian development agencies and German and Belgian 
+agencies, speak of organizational effort toward or institutionalization of 
+research use as associating with greater use.
+B. Head et al. (2014) also find that Australian public servants whose col-
+leagues include personnel with explicit research brokering duties are, unsur-
+prisingly, more likely to use research. It is unclear, however, to what extent 
+this association exists because the research brokers succeed in their work or 
+because organizations (or organizational subunits) that hire research brokers 
+are already more likely to use research.
+Utilization-Relevant Characteristics of Government Practitioners
+Practitioner Gender. Practitioner gender might affect research use if practitio-
+ners are affected by homophily between themselves and scholars; for exam-
+ple, research use by female practitioners might be expected to be higher in 
+fields with a higher proportion of female scholars. An association between 
+gender and position in hierarchy might also lead to gender-use associations 
+through the rank mechanisms addressed below. Last, it is possible that gender 
+bias could make it easier for male practitioners to command attention from
+<<<PAGE=26>>>
+Nelson et al. 25
+scholars. Only Newman (2014), using survey data on Australian public ser-
+vants, tests for a gender effect, and he does not find one.
+Practitioner Degree Attainment. Practitioners with advanced degrees may (1) 
+be more inculcated in academic research and culture, leading them to value 
+research more highly; (2) have more extensive and stronger relationships 
+with scholars; and (3) have greater skill in the acquisition, interpretation, and 
+use of academic research. R. Landry et al. (2003) find that advanced degree 
+attainment associates with increased utilization in their survey of Canadian 
+practitioners, as does Newman (2014; also Newman et al., 2017, with the 
+same dataset) in his survey of Australian practitioners. Ouimet et al. (2010; 
+also Bédard & Ouimet, 2012) find advanced degree attainment to associate 
+with awareness and use of scientific articles among Quebecois policy ana-
+lysts. Sanni et al. (2016) find degree attainment to associate with increased 
+utilization in their survey of Nigerian lawmakers. However, Amara et al. 
+(2004) find that possession of a graduate degree associates with increased 
+utilization only for conceptual use. B. Head et al. (2014) do not find attain-
+ment of any particular degree level to associate with utilization in their sur -
+vey of Australian public servants, though they operationalize each individual 
+degree level as dichotomous rather than degree attainment as a single, multi-
+level variable.
+Practitioner Background Field. A practitioner’s disciplinary background may 
+shape their attitude toward the importance of different sorts of policy inputs 
+and evidence. Amara et al. (2004) and B. Head et al. (2014), among Canadian 
+and Australian practitioners respectively, find that valuation of research in a 
+practitioner’s background field research positively associates with research 
+utilization. Ouimet et al. (2010; also Bédard & Ouimet, 2012) find several 
+practitioner background fields to associate with awareness and utilization. 
+Sanni et al. (2016), however, do not find background field relevant in their 
+survey of Nigerian policymakers.
+Practitioner Policy Domain. Not unlike the findings of use variation across aca-
+demic fields, R. Landry et al. (2003) state that reported utilization varies 
+across practitioner policy domains. Rank-ordered from highest to lowest 
+reported research utilization, their domains are:
+1. Education and information technology
+2. Social services, health, and Social Security
+3. Environment, forest, fishing, and agriculture
+4. Economic development, finance, and fiscal laws
+<<<PAGE=27>>>
+26 Administration & Society 00(0)
+5. Language, culture and immigration, justice and native affairs
+6. Job creation and employment standards
+7. Municipal and regional affairs, public works and public infrastructures
+Amara et al. (2004) elaborate the same domains (and the same data) across 
+their different varieties of use, finding variation in the lower half of the rank-
+order list across instrumental, conceptual, and symbolic utilization. Newman 
+(2014) finds research utilization rates highest in education and social policy 
+areas, as compared to economic, health, “research/strategy,” or “resources/
+environment.”
+Practitioner Rank. It is plausible that higher-ranking officials might have 
+greater access to research and greater social capital thus might use more 
+research. Conversely, since—per Wildavsky (1983, p. 29; see also Simon, 
+2019 [1996])—“organizations exist to suppress [i.e., filter and sort]” infor -
+mation,” lower-ranking officials might have to do more sorting through 
+reams of research. The relationship between research use and rank may differ 
+by policy domain, as, for example, the mid-level bureaucracies of science 
+policy agencies tend to be populated by doctoral degree holders while mid-
+level bureaucrats in other policy domains may have more managerial back-
+grounds. R. Landry et al. (2003) do not find a difference in utilization between 
+“professionals” and managers in their survey of Canadian practitioners. B. 
+Head et al. (2014), in their survey of Australian public servants, do not find 
+any individual position level to associate with research utilization—though, 
+as with degree attainment, they operationalize ranks as individual, dichoto-
+mous variables rather than as a scale.
+Practitioner Duties. Certain tasks in policymaking and public administration 
+may show greater use of research than others. Ouimet et al. (2010) find, in 
+their survey of Quebecois policy analysts, that those responsible for produc-
+ing written documents are more likely and those responsible solely for imple-
+mentation less likely to use academic research.
+Practitioner Tenure in Present Position. Longer-serving practitioners might be 
+expected to have larger and denser networks of connections, thus to have 
+greater access to research if they want it. Conversely, newer practitioners 
+may (if younger) have more recent experience of or connections with univer-
+sity research, or greater facility with contemporary information technology. 
+Sanni et al. (2016) find years of work experience to associate negatively with 
+utilization in their survey of Nigerian policymakers, but Newman et al. 
+(2017) do not in their survey of Australian practitioners.
+<<<PAGE=28>>>
+Nelson et al. 27
+Practitioner University Work Experience. Practitioners who have worked at 
+universities may have stronger familiarity with and connections with scholars 
+or a greater familiarity with and respect for academic research. Newman 
+(2014) (also Newman et al., 2017, same dataset), in his survey of Australian 
+practitioners, indeed finds that university work experience associates with 
+increased utilization.
+Practitioner Research Skills. It might be expected that practical skills in the 
+conduct and interpretation of research could ease practitioner research utili-
+zation or be associated with greater respect for and valuation of research. 
+However, in their survey of Australian practitioners, B. Head et al. (2014; 
+also Newman et al., 2017, same dataset) do not find self-report of lacking 
+skills to associate with research utilization.
+Practitioner Method Preference. Ouimet et al. (2010; also Bédard & Ouimet, 
+2012, same dataset) find that policy analysts reporting a preference for quali-
+tative over quantitative articles consult academic research at lower rates than 
+those preferring quantitative to qualitative articles.
+Utilization-Relevant Characteristics of Scholar-Practitioner 
+Relations
+Twenty-seven studies speak to features of scholar-practitioner relations rele-
+vant to research utilization. Some frame a debate around Caplan’s (1979) 
+influential “two communities” thesis, which suggests that practitioners and 
+scholars have difficulty communicating because of differences in cultural pri-
+orities, institutions, practices, and networks. Bogenschneider et al. (2019; 
+interviews with U.S. state legislators), Cherney et al. (2012a; survey of 
+Australian scholars), Orr and Bennett (2012; personal reflection on copro-
+duced research), and R. M. Walker et al. (2019; comparative topic modeling 
+of Public Administration Review and P A Times) argue in favor of this thesis, 
+while Newman et al. (2016; survey of Australian public administrators) argue 
+that the disconnect has been overstated. Regardless of the reading of the evi-
+dence, studies tend to agree on the importance of several features of scholar-
+practitioner relations, discussed in the following sections.
+Relevance and Timeliness of Research. Simon (1971, 1983, 2019) frequently 
+observed that one of the most basic scarcities in human affairs is attention. 
+Practitioners operate under significant time constraints and, sometimes, high 
+decision stakes and urgency, making it highly plausible that the direct salience
+<<<PAGE=29>>>
+28 Administration & Society 00(0)
+of research to the immediate problem at hand will be a significant determi-
+nant of its use. Newman (2011), drawing on personal experience as a UK 
+science advisor, attests to this point, as do Wilkinson et al. (2012; UK scholar-
+practitioner research collaboration experience) Andrews (2017; Welsh gov-
+ernment ministerial experience), and Phoenix et al. (2019; UK government 
+scholar experience).
+Ouimet et al. (2010; also Bédard & Ouimet, 2012, same data) find per -
+ceived relevance of research to be positively associated with utilization in 
+their survey of Quebecois policy analysts. Cherney et al. (2012b) find self-
+assessed research relevance to associate positively with utilization within 
+their survey of Australian educational scholars. Sanni et al. (2016) surveyed 
+Nigerian lawmakers frequently consider “obsoleteness of information” to be 
+a major obstacle to use. Avey and Desch’s (2014) national security decision-
+maker interviewees assert that a major reason for not using academic research 
+is its irrelevance. Newman et al. (2016), in interviews of Australian practitio-
+ners, find that practitioners consider relevance an important determinant of 
+research use. Janousek and Blair (2018), in an interview study of scholars and 
+practitioners at the International City/County Management Association 
+annual conference, find their respondents to consider timeliness and rele-
+vance of information highly important. Hinrichs-Krapels et al. (2020) report 
+on their experience using “Policy Labs” to offer policymakers timely access 
+to relevant information. Rose et al. (2020), in a case study of the UK 
+Parliament, consider relevance and timing two of their four “key factors” in 
+influencing research use. In short: where studied, research relevance is highly 
+relevant.
+Adaptation, Presentation, and Accessibility of Research. It seems plausible that 
+research is more likely to be salient, and likely easier to use as well, if its 
+conduct, presentation, or dissemination are tailored to practitioner needs. R. 
+Landry et al. (2003), in their survey of Canadian practitioners, find adapta-
+tion of research products to associate with utilization. Cherney et al. (2012a, 
+2012b) indeed find that education scholars’ ratings of the importance of tai-
+loring research to end users to positively predict their utilization. Meagher 
+et al. (2008), using survey and interview data from UK psychology scholars, 
+find clarity and accessibility of results to be important for research uptake. 
+Sanni et al. (2016) find that their surveyed Nigerian lawmakers consider 
+inaccessibility a major barrier to research utilization. Janousek and Blair’s 
+(2018) scholar and practitioner interviewees consider research accessibility 
+highly important to useful theory-practice interchange, while Rose et al. 
+(2020) consider accessibility one of their “four key factors” shaping research 
+utilization in UK Parliament. Phoenix et al. (2019) attest from personal
+<<<PAGE=30>>>
+Nelson et al. 29
+experience to the importance of tailored and accessible presentation in 
+scholar-policymaker interactions. Meanwhile, Fotheringham et al. (2021) 
+report that policy official engagement in setting research agendas and diverse 
+research dissemination efforts conducted by the Australian Housing and 
+Urban Research Institute, a knowledge broker NGO, contribute to policy 
+impact.
+Density, Quality, and Continuity of Scholar-Practitioner Relationships. To use 
+research, practitioners must be aware of it and consider it to be of sufficient 
+quality or authority to merit their time. These circumstances are facilitated by 
+relationships with scholars, which offer, in the two-communities idiom, 
+bridges across the gap. Wilkinson et al. (2012) again attest on personal expe-
+rience, as do Andrews (2017), Phoenix et al. (2019), and Yu (2020; U.S. fed-
+eral law enforcement research collaboration experience).
+Ouimet et al. (2010; also Bédard & Ouimet, 2012, same data) find direct 
+interactions with scholars to associate with utilization. Cherney et al. (2012b) 
+find education scholars’ self-rated priority on maintenance of informal contacts 
+to positively, and perception of the difficulty of research partnerships to nega-
+tively, predict utilization. Meagher et al. (2008) interviewed psychology schol-
+ars assert that effective scholar-practitioner interchange, collaboration, and 
+utilization require time and mutual familiarity. Janousek and Blair (2018) and 
+Rose et al. (2020) concur, as do Fletcher et al. (2018) in a study of a Scottish 
+business research collaboration, Pizmony-Levy et al. (2021) in a case study of 
+a New York City environmental education research collaboration, Ranchod and 
+Vas (2019) in a case study of the Australian Social Policy Research Centre, and 
+Woolcott et al. (2020) in a study of Australian regional research collaboration. 
+The literature is again univocal; research utilization benefits from sustained, 
+direct, and interactive relationships between practitioners and scholars.
+Density and Quality of Practitioner-Scholar Linkage Mechanisms. If scholar-prac-
+titioner relationships are important, so too may be mechanisms of brokering 
+and facilitating relationships between scholars and practitioners—meetings, 
+conferences, correspondence, reports, libraries, broker personnel or organiza-
+tions. The density or quality of such relationships is rarely studied, though R. 
+Landry et al. (2003) find a composite of Canadian practitioners’ ratings of the 
+importance of different linkage mechanisms to positively predict research uti-
+lization, while Cherney et al. (2012a, 2013) find Australian education schol-
+ars’ ratings of the importance of linkage mechanisms to predict use. Meagher 
+et al. (2008), Fletcher et al. (2018), Hinrichs-Krapels et al. (2020), Rose et al. 
+(2020), and Fotheringham et al. (2021) offer similar findings from case stud-
+ies. Phipps and Shapson (2009) provide a positive example of research
+<<<PAGE=31>>>
+30 Administration & Society 00(0)
+brokerage through such mechanisms as workshops, forums, summaries, and 
+community partnerships at Canada’s York University. However, Knight and 
+Lightowler (2010; also Lightowler & Knight, 2013), as discussed above, find 
+frustration in UK university-based knowledge brokers about weakness in uni-
+versity-based linkage mechanisms. Etomaru et al. (2022), in a case study of 
+Uganda’s Makerere University, find scholars frustrated by the same.
+Collaboration Structure. Several articles, particularly case studies and personal 
+reflections, detail research collaborations. Of these, a few turn an eye to the 
+particular structure of collaborations. Broström and McKelvey (2018) suggest 
+that different policy stages are suitable to different collaboration structures. For 
+the authors, “implementation” processes benefit from close interchange 
+between scholars and practitioners and subordination of the former to the lat-
+ter’s needs, whereas exploratory “learning” processes benefit from greater 
+scholar distance and autonomy. Yu (2020) offers a related argument, suggesting 
+that greater scholar autonomy can for certain purposes facilitate a more dis-
+tanced or independent analysis or critique. Fletcher et al. (2018) argue that 
+effective research collaboration requires mutual identification among practitio-
+ners and scholars with “supra-organizational” collaborative objectives.
+Effects of Research Utilization on Policy or Public Administration 
+Outcomes
+Only three articles attempt to investigate whether and how research utilization 
+actually improves policymaking or public administration processes when it 
+occurs; most take this for granted. Heinrich and Good (2018) in a case study 
+of education research and Pizmony-Levy et al. (2021) in a case study of envi-
+ronmental education research are relatively sanguine, finding utilization to 
+plausibly improve educational outcomes. Boaz and Pawson (2005), examin-
+ing five different evidence reviews of mentoring in public organizations, are 
+less so, finding the reviews to “deliver . . . unequivocal [and highly divergent] 
+policy verdicts on the basis of ambiguous evidence” (p. 175). On their reading, 
+cherry-picking is not just for caricatured, cynical politicians, but for scholars 
+operating in good faith as well. To step slightly beyond their analysis, and to 
+echo Stevens (2011), it may not be possible to make sense of an extensive and 
+ambiguous literature without such selectivity.
+Discussion and Conclusions
+Research utilization is a complex, multidimensional, and heterogeneous phe-
+nomenon, and present understanding of it is incomplete. While the recent
+<<<PAGE=32>>>
+Nelson et al. 31
+research utilization and evidence-based policy literatures are extensive, the 
+journal-based literature focused specifically on public policy or public 
+administration utilization of academic social science research is not. Below 
+we offer eight recommendations for future inquiry based upon our assess-
+ment of the literature. The first four recommendations address weaknesses of 
+the existing literature, while the remainder discuss topics which we believe 
+have been insufficiently studied.
+Recommendation 1: Improvement and Greater Consistency in 
+Measures of Research Use
+Most articles that attempt to measure research utilization in our dataset rely 
+upon scholar or practitioner self-report. These measures require that scholars 
+and practitioners recall discrete instances of research use. Such recollections 
+are likely to miss significant components of Weiss’s (1979) “conceptual” use, 
+where research subtly, indirectly, and often in the aggregate affects policy 
+ideas and discourse over time. Recollection-based measures may also be sen-
+sitive to false positives when practitioners incorrectly attribute their actions 
+to research; and false negatives, when scholars are simply unaware of some 
+uses of their research or practitioners downplay or forget the influence of 
+research. Last, there are no standard use measures in currency. The unrealisti-
+cally linear and direct Knott and Wildavsky (1980) use process is the closest 
+thing to a standard use measure in currency, and it, as discussed above, is 
+likely to be primarily sensitive to instrumental and perhaps to symbolic use. 
+Variation in phrasing and framing of use measures limits comparability of 
+results across studies. Citation analyses, meanwhile, similarly elide concep-
+tual use, while also struggling to identify differences between different 
+degrees and varieties of research influence in policy.
+It is difficult to envision an area of measurement with as much to gain 
+from application of multiple methods and measures. These might include, 
+for example, multitrait-multimethod matrices (e.g., Campbell & Fiske, 
+1959; Schmitt & Stults, 1986) or systematic triangulation (Caillaud et al., 
+2019). One obviously useful approach to measurement would be develop-
+ment of measures based on convergence of dyads. Most measures are self-
+reports by practitioners or by researchers, but not by both, much less by 
+both parties responding to the same instances of use. We recognize that 
+report of both practitioners and researchers on the same use instances would 
+be difficult to achieve, but not impossible. For example, leadership studies 
+in management and industrial psychology have for many years established 
+the viability of methods based on not only dyadic approaches but also on 
+networks of interacting respondents (e.g., Dansereau, 1995; Sheehan et al., 
+2020; Vecchio, 1982).
+<<<PAGE=33>>>
+32 Administration & Society 00(0)
+As research use in public affairs is a broad and heterogeneous construct, it is 
+understandable and necessary that many different measures should be used. 
+Given the difficulty of tracing the often subtle and indirect pathways by which 
+research affects policymaking and public administration, primary reliance 
+upon self-report is understandable as well. We do not think it too much, how-
+ever, for authors to be clearer and more explicit about the extent and limits of 
+the conceptualizations and measures of use that they employ. Ideally, greater 
+consistency in measurement could also ease intercomparison between studies.
+Recommendation 2: Greater Alignment on Constructs
+Given the scope and complexity of research utilization and the underdeveloped 
+status of supporting theory, it is understandable that the topic has not been 
+boiled down to a small set of relevant constructs. Nonetheless, as discussed in 
+reference to use measures, it would be useful to achieve some greater standard-
+ization of constructs of interest and associated measures to facilitate cross-com-
+parison within the literature. Some surveys, for example, address demographic 
+characteristics of scholars and practitioners; others do not. Some conceptualize 
+adaptation of research to user needs in the framing of research, others to the 
+presentation of findings, and still others do not specify at all. It is not necessary, 
+desirable, or even possible, in such a complex and heterogeneous space, that 
+every study address every potentially relevant construct. However, the devel-
+opment of a reasonably well-defined and shared lexicon of constructs which 
+studies could address would be very useful. This review provides such a shared 
+lexicon for the recent literature, though to be effective it will need to be adopted, 
+expanded, and modified with continuing research.
+In research on complex systems and phenomena, there is significant dan-
+ger of “looking under the lamppost”—that is, that a major determinant of the 
+findings of research will be scholars’ adventitious choices about the framing 
+and focus of research. A clearer framework laying out the overall landscape 
+of research and the place of each individual study within it could assist in 
+coordinating and relating different inquiries. It could also help to more clearly 
+illustrate the limitations of any individual study. Figures 1 and 2, and Tables 
+2 and 4, which display the different constructs investigated in the literature, 
+provide overall frameworks of this sort.
+Recommendation 3: Greater Address of Different National, 
+Geographic, Cultural, and Economic Contexts
+A robust understanding of knowledge utilization generally, and of its particu-
+larities in different cultural, political, economic, and organizational contexts,
+<<<PAGE=34>>>
+Nelson et al. 33
+requires a spread of studies across different locales, levels of government, 
+and scales of analysis. The present literature does a fairly good job of study-
+ing many different levels of government—for example, municipal, regional, 
+and national—at different levels of granularity. But, as discussed above, 
+nearly 90% of articles in our review study researchers or government organi-
+zations in Canada, Australia, the United Kingdom, or the United States. 
+These studies can likely offer only limited insight about research use in other 
+industrialized democracies, and still less about other, non-industrialized 
+nations or non-democracies. The structures of governments and university 
+systems, as well as broader cultural norms regarding the role of scholars and 
+research in government, vary significantly across national contexts (O'Brien, 
+2005; Pattyn et al., 2022).
+For example, U.S. government invocation of research frequently takes 
+place through open adversary proceedings, while German government more 
+frequently invokes closed, corporatist consultation (Jasanoff, 2005). The 
+United States is relatively unique in its extensive system of private nonprofit 
+universities, giving it an unusual research production landscape. Differences 
+like these could plausibly drive differences in incidence, modes, mechanisms, 
+and effects of academic research use in government across national contexts 
+(and the many cultural, geographic, economic, and political differences sub-
+sumed within such). Improved understanding of how differences in context 
+affect research utilization could help, for example, to identify what lessons 
+and use mechanisms are and are not likely to easily transfer across contexts.
+Recommendation 4: More Focused Research on Mechanisms of 
+Scholar-Practitioner Interchange
+The literature reveals a wide variety of mechanisms by which scholars and 
+policymakers connect and communicate but treats them mostly in passing. 
+Yet one of the most frequently appearing findings in the reviewed articles is 
+that modes of scholar-practitioner relations matter for research utilization. A 
+recent survey of ours finds communication between scholars and practitio-
+ners about research at any time before, during, or after research to associate 
+positively with use (Bozeman et al. 2021, 2023). There is a fair amount of 
+practical wisdom available on scholar-practitioner collaborations (e.g., 
+Broström & McKelvey, 2018; Fletcher et al., 2018; Janousek & Blair, 2018; 
+Pizmony-Levy et al., 2021; Ranchod & Vas, 2019; Woolcott et al., 2020; Yu, 
+2020), but these are far from the only or the primary mechanism of research 
+uptake. We know the methods by which scholar-practitioner interchange 
+occurs, but not how heavily or effectively each is used or their relative advan-
+tages and pathologies.
+<<<PAGE=35>>>
+34 Administration & Society 00(0)
+Bozeman et al. (2019) observe that scholars and policymakers alike get 
+most of their research information not directly from journal articles, but 
+curated by National Academies committees, policy analysts, think tanks, lob-
+byists, journalists, and social media influencers, among others. Anyone who 
+takes seriously the thesis that new communication technologies have made 
+significant contributions to the epistemic destabilization of the public sphere 
+(Allcott & Gentzkow, 2017; Cinelli et al., 2021) cannot presume that the 
+infrastructures of communication between scholars and policymakers are 
+marginal to research utilization. Indeed, such mechanisms may be more 
+mutable than are the entrenched cultures and circumstances of academic and 
+policy institutions. Thus improved knowledge on this topic may be more 
+actionable than, for example, further evidence that academic incentive sys-
+tems are not oriented toward utilization.
+Recommendation 5: Incorporate Relevant Studies of the 
+Psychology of Information Choice and Decision-Making
+Public officials searching for research information relevant to their policy 
+decision-making are not enormously different from ordinary citizens. 
+Policymakers’ mix of motives resemble those of other information seekers: 
+curiosity, self-validation, validation of choices already made, and information 
+about possible solutions to pressing problems. Thus, it is odd that the knowl-
+edge use literature has so often ignored the abundant literature, chiefly in psy-
+chology, pertaining to information search and cognitive processing of 
+information. Were research use scholars to focus on this relevant literature, 
+they would find that much of it useful for some of their questions. Examples 
+of questions of interest to both psychologists and knowledge utilization schol-
+ars include: “how do proximity and acquaintance affect the search for knowl-
+edge?” (e.g., Dunning et al., 2014; Monge et al., 1985; Schutte & Light, 1978), 
+“how does one weigh risk and uncertainty in the application of knowledge?” 
+(Johnson & Busemeyer, 2010; Kahneman et al., 1982; Milburn & Billings, 
+1976), and “how do one’s biases affect judgments about information?” 
+(Kareev, 1995; Ramirez & Erickson, 2014; West et al., 2012).
+Similarly, it may well prove useful to return to older questions about infor-
+mation use, especially Simon’s (1956, 1972) research on bounded rationality 
+and satisficing, as well as the many variants pursued (chiefly by psycholo-
+gists, not public administration scholars) since Simon’s pioneering work 
+(e.g., Campitelli & Gobet, 2010; Gigerenzer, 2010; Schwartz et al., 2011). 
+While we would not yet go so far as to require that knowledge use scholars 
+provide a defense as to just how their specific findings differ from the more 
+general findings of cognitive psychology, we would urge some thought on 
+how to situate research use studies within this more general context.
+<<<PAGE=36>>>
+Nelson et al. 35
+Recommendation 6: Seek Better Understanding of Differences 
+in Knowledge Utilization Across Academic Fields and User 
+Types
+There are many different sorts of “knowledge utilization,” ranging from use 
+of physical science in industry for product and process innovation to use of 
+social science for policymaking. Government, private industry, and nongov-
+ernmental organizations all make use of research from many different fields 
+of study. Each sector of user has its own distinctive use processes and charac-
+teristics, and each academic field of study has its own institutional, method-
+ological, and even epistemological idiosyncrasies. Yet research on knowledge 
+utilization often focuses on one kind of academic and one kind of user, or 
+lumps all knowledge utilization together, leaving knowledge about differ -
+ences across types of academics and types of users scant (for notable excep-
+tions, see Cherney et al., 2013; Matthews et al., 2018; Ouimet et al., 2010).
+Scholars of knowledge utilization tend to focus on the flows of knowledge 
+from scientists to industry (e.g., Perkmann et al., 2013, 2021). The industry 
+context will likely prove quite different from the public policy and public 
+administration context. Many industry users of academic scientific research 
+focus on product development. This does not necessarily imply that the 
+research sought must quickly be converted to commercial products. Frontiers 
+research and pre-commercial research can prove useful to industry (Feller & 
+Roessner, 1995; Feller et al., 2002; Van Looy et al., 2006), especially to large, 
+stable firms with considerable scientific and technical capacity of their own 
+(Akcigit et al., 2021; Audretsch & Acs, 1991). Nonetheless, firms hope to use 
+knowledge for profit. This aim can require types of knowledge quite different 
+from what is needed to achieve policy or social objectives. Research clients 
+differ, knowledge sought differs, and the mechanisms of transfer differ, with 
+private users often focused on protection of intellectual property through pat-
+ent and royalty rights. These issues are not common in social science or pub-
+lic policy applications of research.
+Identifying differences among these different sorts of use will prove a 
+formidable task. Many have noted the characteristic differences in methods 
+and research procedures across academic fields (Ellis et al., 1993; Palmer & 
+Cragin, 2009; Vakkari, 2005). These differences begin early in research 
+careers (Lodahl & Gordon, 1973; Whitmire, 2002). However, differences in 
+research processes themselves may prove less important than differences in 
+the nature of users and uses.
+Given these obvious differences, why is comparison important? In the first 
+place, if we are interested in developing theory, it is important to understand 
+the domain of theory and its practical limits. Does one seek a general theory
+<<<PAGE=37>>>
+36 Administration & Society 00(0)
+of knowledge utilization, a theory that is discipline- or sector-based, or one 
+that is even more contingent? Second, “best practices” could conceivably 
+emerge, practices that could possibly be transferred among disciplines and 
+discipline groups. We know, for example, that knowledge vetting methods, 
+such as the practices of research journals, vary greatly by academic disci-
+plines and discipline groups. If we find that some practices promote effective 
+utilization in one sector or in one field of inquiry, then perhaps they can do so 
+in another.
+Recommendation 7: More Inquiry on Outcomes and Value of 
+Research Utilization
+It is now over 40 years since Lindblom and Cohen (1979) called for research 
+to address what is to count as success or failure in social science impact, 
+but—as our review illustrates—impact studies still mostly report different 
+degrees of influence and presume that more is better. There is an almost total 
+paucity of empirical investigation of not only the extent and varieties but also 
+the worth of academic research contributions to policymaking and public 
+administration on different sorts of problems. Where, when, and how is prac-
+tice improved by research utilization, and where not?
+Empirical, and especially quantitative, studies tend to take for granted that 
+research utilization is good in itself. But any policy scholar or politico would 
+acknowledge that many activities presented as knowledge utilization in policy 
+are ineffective or outright harmful. Examples of theoretically backed policy 
+with undesirable outcomes can be found to suit any political persuasion. Some 
+may deride the GDP-focused optimization and unrealistic assumptions of neo-
+classical economic theory, on the basis of which free-trade policies and dereg-
+ulation have contributed to the outsourcing of jobs, the hollowing out of the 
+American middle class, the production of a parasitic and unstable financial 
+sector, and various harms to the environment (Mazzucato, 2018). Others will 
+critique the dysfunctional commodity markets, absence of incentives for per-
+formance improvement and innovation, and dogmatic and counterproductive 
+pursuit of efficiencies of scale resulting from Soviet efforts at centralized, 
+rational planning of production. The failure of Brasilia, the rationally planned 
+city, has become emblematic of the perils of high-modern planning aspirations 
+(Scott, 1998). All this without discussion of outright cynicism in use of evi-
+dence or the political consequences of battle over the throne of objectivity.
+Indeed, nearly every agenda advanced in mainstream politics invokes 
+some evidence, theory, or expert opinion. Experts and evidence, it eventu-
+ates, may be found to support most any program of action. As a striking but
+<<<PAGE=38>>>
+Nelson et al. 37
+non-unique example, American political coalitions have spent decades accus-
+ing one another of peddling “junk science” and asserting their own as “sound 
+science,” culminating in the general recognition of divergence in epistemic 
+communities recently labeled a “post-truth moment” (Jasanoff & Simmet, 
+2017). Attempts to resolve complex questions of value prioritization by 
+appeal to scientific claims have simply moved value disputes into the lan-
+guage of science, with political actors incentivized to develop large and 
+sophisticated rhetorical arsenals to undercut one another’s knowledge claims 
+(Sarewitz, 2011).
+Some scholars suggest that decades of epistemic warfare have undercut 
+the ability of the American state to produce and sustain “serviceable truths” 
+broadly accepted across political communities. On such accounts, attempts to 
+compel value consensus by the authority of science have simply eroded that 
+authority (Hilgartner et al., 2021; Jasanoff & Simmet, 2017; see Nelson, 1974 
+for a prescient concern about this possibility). Sarewitz (2004) argues that 
+societies must achieve a modicum of value consensus on a problem before 
+scientific knowledge can usefully guide action or assist with resolution. The 
+point is not that use of research in policymaking and public administration 
+must be bad, but that its goods cannot be taken for granted. More research is 
+needed to understand when, how, under what forms of relations, and via what 
+mechanisms research utilization does and does not result in improved 
+outcomes.
+Recommendation 8: More Research on Types of Problems and 
+Contextual Utilities of Research
+A few reviewed studies (Andrews, 2017; Bogenschneider et al., 2019; 
+Newman, 2011) suggest that there are different kinds of questions or prob-
+lems in policymaking and public administration and that the uses and utilities 
+of academic research vary across those problems. For these authors, the spec-
+trum is largely one of politicization: on big-ticket questions involving signifi-
+cant value conflicts, ideology dominates (the reading of) evidence. Little 
+addresses whether ideology might only dominate where evidence is, for prac-
+tical purposes, ambiguous (compare Douglas & Wildavsky, 1983; Nelson, 
+1977). Indeed, the reasons for high or low politicization have not been inves-
+tigated. Nor have other sorts of distinctions between different kinds of public 
+problems.
+Broader scholarship on science in politics has produced many useful dis-
+tinctions, including between “wicked” and “tame” problems (Buchanan, 
+1992), areas of value consensus and of value dissensus (Pielke, 2007), and
+<<<PAGE=39>>>
+38 Administration & Society 00(0)
+“normal” (low stakes, low uncertainty) and “post-normal” (high stakes, high 
+uncertainty) science (Funtowicz & Ravetz, 1993). Such research suggests 
+that scientific knowledge is no substitute for political processes of value pri-
+oritization and negotiation; but must instead be a component of and contribu-
+tion to such mechanisms. Meanwhile, when stakes are lower, phenomena are 
+simpler and more domesticable, or values align—in other words, away from 
+big-ticket political controversies and closer to the minute and prosaic work-
+ings of public organizations—scientific knowledge can take a more instru-
+mental and determinative role in showing effective ways to achieve generally 
+agreed-upon goals. And, of course, new knowledge may help to suggest pre-
+viously unidentified policy options.
+Such ideas have not, for the most part, been extended to empirical inqui-
+ries into policy and public administration use of academic social science. 
+What kinds of academic knowledge are valuable at different points in policy 
+processes? When can and cannot, or should and should not, academic research 
+resolve disputes? We do not know. The use typologies treated above likely 
+are not sufficiently attuned to the different political, rhetorical, and distrib-
+uted-cognitive functions of research to frame useful answers, and a typology 
+of problems will certainly be needed alongside a taxonomy of contributions. 
+Genuine improvement of research utilization in this space requires a better 
+account of what useful contributions, and where, scholars can hope to make 
+in the first place.
+The last 20 years of empirical research have revealed a significant amount 
+about the nature and correlates of policy and public administration utilization 
+of academic social science research and elaborated a wide variety of potential 
+determinants. They have, furthermore, provided a useful body of reflections, 
+case studies, and discussions of best practices upon which scholars and prac-
+titioners can draw for practical wisdom about research collaboration and use. 
+Much, however, remains to be learned about the classes of mechanisms, 
+overall effects, and contextual utilities of research utilization. We hope that 
+future research will attend to these neglected areas to advance understanding 
+and practice in the application of social science to public problems.
+Declaration of Conflicting Interests
+The author(s) declared no potential conflicts of interest with respect to the research, 
+authorship, and/or publication of this article.
+Funding
+The author(s) received no financial support for the research, authorship, and/or publi-
+cation of this article.
+<<<PAGE=40>>>
+Nelson et al. 39
+ORCID iDs
+John P. Nelson  https://orcid.org/0000-0002-3010-2046
+Barry Bozeman  https://orcid.org/0000-0002-8084-3379
+References
+Akcigit, U., Hanley, D., & Serrano-Velarde, N. (2021). Back to basics: Basic 
+research spillovers, innovation policy, and growth. The Review of Economic Studies, 
+88(1), 1–43. https://doi.org/10.1093/restud/rdaa061
+Allcott, H., & Gentzkow, M. (2017). Social media and fake news in the 2016 elec-
+tion. Journal of Economic Perspectives, 31(2), 211–236. https://doi.org/10.1257/
+jep.31.2.211
+Amara, N., Ouimet, M., & Landry, R. (2004). New evidence on instrumental, conceptual, 
+and symbolic utilization of university research in government agencies. Science 
+Communication, 26(1), 75–106. https://doi.org/10.1177/1075547004267491
+Andrews, L. (2017). How can we demonstrate the public value of evidence-based 
+policy making when government ministers declare that the people 'have had 
+enough of experts'? Palgrave Communications, 3, 11. https://doi.org/10.1057/
+s41599-017-0013-4
+Audretsch, D. B., & Acs, Z. J. (1991). Innovation and size at the firm level. Southern 
+Economic Journal, 57(3), 739–744. https://doi.org/10.2307/1059787
+Avey, P. C., & Desch, M. C. (2014). What do policymakers want from us? Results 
+of a survey of current and former senior national security decision mak-
+ers. International Studies Quarterly, 58(2), 227–246. https://doi.org/10.1111/
+isqu.12111
+Barton, C. J., Wang, Q., Anderson, D. M., & Callow, D. A. (2021). Synchronizing 
+the logic of inquiry with the logic of action: The case of urban climate policy. 
+Sustainability, 13(19), 10625. https://doi.org/10.3390/su131910625
+Bédard, P. O., & Ouimet, M. (2012). Cognizance and consultation of randomized 
+controlled trials among ministerial policy analysts. Review of Policy Research, 
+29(5), 625–644. https://doi.org/10.1111/j.1541-1338.2012.00581.x
+Bernard, R., Wutich, A., & Ryan, G. W. (2017). Analyzing qualitative data (2nd ed.). 
+SAGE Publications.
+Blake, S. C., & Ottoson, J. M. (2009). Knowledge utilization: Implications for evalu-
+ation. New Directions for Evaluation, 2009(124), 21–34. https://doi.org/10.1002/
+ev.311
+Boaz, A., & Pawson, R. (2005). The perilous road from evidence to policy: Five 
+journeys compared. Journal of Social Policy, 34(2), 175–194. https://doi.
+org/10.1017/s0047279404008530
+Bogenschneider, K., Corbett, T. J., & Parrott, E. (2019). Realizing the promise of 
+research in policymaking: Theoretical guidance grounded in policymaker 
+perspectives. Journal of Family Theory & Review, 11(1), 127–147. https://doi.
+org/10.1111/jftr.12310
+<<<PAGE=41>>>
+40 Administration & Society 00(0)
+Bozeman, B., Bretschneider, S., Lindsay, S., Didier, N. et al. (2021) Practitioners’ 
+Use of Public Affairs Research: The Importance of Intentionality (Working Paper 
+Series No.21-017). Center for Organization Research and Design, Arizona State 
+University.
+Bozeman, B., Bretschneider, S., Lindsay, S. Nelson, J.P., & Didier N. (2023). Reports 
+of practitioners’ use of public affairs faculty published research. Studies in Higher 
+Education, 48(5), 719–732. https://doi.org/10.1080/03075079.2023.2184787
+Bozeman, B., Fay, D., & Slade, C. P. (2013). Research collaboration in universities 
+and academic entrepreneurship: The-state-of-the-art. The Journal of Technology 
+Transfer, 38, 1–67. https://doi.org/10.1007/s10961-012-9281-8
+Bozeman, B., Youtie, J., Fukumoto, E., & Parker, M. (2019). When is science used in 
+science policy? Examining the importance of scientific and technical information 
+in national research council reports. Review of Policy Research, 36(2), 262–289. 
+https://doi.org/10.1111/ropr.12324
+Broad, K. (2002). Producing and using climate forecasts: Bridging the supply and 
+demand gap in climate forecast production and use. In M.H. Glantz (Ed.), La 
+Niña and its Impacts: Facts and Speculation (pp. 246–271). United Nations 
+University Press.
+Broström, A., & McKelvey, M. (2018). Engaging experts: Science-policy interac-
+tions and the introduction of congestion charging in Stockholm. Minerva, 56(2), 
+183–207. https://doi.org/10.1007/s11024-017-9331-3
+Bruce, A., & O’Callaghan, K. (2016). Inside out: Knowledge brokering by short-
+term policy placements. Evidence & Policy A Journal of Research Debate and 
+Practice, 12(3), 363–380. https://doi.org/10.1332/174426416x14688669171927
+Buchanan, R. (1992). Wicked problems in design thinking. Design Issues, 8(2), 5–21. 
+http://www.jstor.org/stable/1511637?origin=JSTOR-pdf
+Bush, V. (1945). Science the endless frontier, A report to the President. United States 
+Government Printing Office.
+Caillaud, S., Doumergue, M., Préau, M., Haas, V., & Kalampalikis, N. (2019). The 
+past and present of triangulation and social representations theory: A crossed his-
+tory. Qualitative Research in Psychology, 16(3), 375–391. https://doi.org/10.108
+0/14780887.2019.1605272
+Campbell, D. T., & Fiske, D. W. (1959). Convergent and discriminant validation by 
+the multitrait-multimethod matrix. Psychological Bulletin, 56(2), 81–105. https://
+doi.org/10.1037/h0046016
+Campitelli, G., & Gobet, F. (2010). Herbert Simon's decision-making approach: 
+Investigation of cognitive processes in experts. Review of General Psychology, 
+14(4), 354–364. https://doi.org/10.1037%2Fa0021256
+Capano, G., & Malandrino, A. (2022). Mapping the use of knowledge in policymak-
+ing: Barriers and facilitators from a subjectivist perspective (1990–2020). Policy 
+Sciences, 55, 399–428. https://doi.org/10.1007/s11077-022-09468-0
+Caplan, N. (1979). The two-communities theory and knowledge utilization. American 
+Behavioral Scientist, 22(3), 459–470. https://doi.org/10.1177/000276427902200308
+Castillo, E., La Londe, P. G., Owens, S., Scott, J., DeBray, E., & Lubienski, C. 
+(2021). E-advocacy in the information market: how social media platforms
+<<<PAGE=42>>>
+Nelson et al. 41
+distribute evidence on charter schools. Urban Education, 56(4), 581–609. 
+https://doi.org/10.1177/0042085920953885
+Charles, G. (2021). Integrating research into policy sphere: Evidence from Tanzania. 
+Journal of Development Effectiveness, 13, 424–436. https://doi.org/10.1080/194
+39342.2021.1971738
+Cherney, A., Head, B., Boreham, P., Povey, J., & Ferguson, M. (2012a). Perspectives 
+of academic social scientists on knowledge transfer and research collabora-
+tions: A cross-sectional survey of Australian academics. Evidence & Policy 
+A Journal of Research Debate and Practice, 8(4), 433–453. https://doi.
+org/10.1332/174426412x660098
+Cherney, A., Head, B., Boreham, P., Povey, J., & Ferguson, M. (2012b). What influ-
+ences the utilisation of educational research by policy-makers and practitioners?: 
+The perspectives of academic educational researchers. International Journal of 
+Educational Research, 56, 23–34. https://doi.org/10.1016/j.ijer.2012.08.001
+Cherney, A., Head, B., Boreham, P., Povey, J., & Ferguson, M. (2013). Research 
+utilization in the social sciences: A comparison of five academic disci-
+plines in Australia. Science Communication, 35(6), 780–809. https://doi.
+org/10.1177/1075547013491398
+Cherney, A., Head, B., Povey, J., Ferguson, M., & Boreham, P. (2015). Use of aca-
+demic social research by public officials: Exploring preferences and constraints 
+that impact on research use. Evidence & Policy A Journal of Research Debate and 
+Practice, 11(2), 169–188. https://doi.org/10.1332/174426514x14138926450067
+Cinelli, M., De Francisci Morales, G., Galeazzi, A., Quattrociocchi, W., & Starnini, 
+M. (2021). The echo chamber effect on social media. Proceedings of the National 
+Academy of Sciences of the United States of America, 118(9), e2023301. https://
+doi.org/10.1073/pnas.2023301118
+Cooper, A., & Ben, L. (2010). Some Canadian contributions to understanding 
+knowledge mobilisation. Evidence & Policy A Journal of Research Debate and 
+Practice, 6(3), 351–369. https://doi.org/10.1332/174426410x524839
+Dansereau, F. (1995). A dyadic approach to leadership: Creating and nurturing 
+this approach under fire. The Leadership Quarterly, 6(4), 479–490. https://doi.
+org/10.1016/1048-9843(95)90022-5
+Desmarais, B. A., & Hird, J. A. (2014). Public policy's bibliography: The use of 
+research in US regulatory impact analyses. Regulation & Governance, 8(4), 497–
+510. https://doi.org/10.1111/rego.12041
+Douglas, M., & Wildavsky, A. (1983). Risk and Culture: An Essay on the selection of 
+technological and Environmental Dangers. University of California Press.
+Dunning, D., Anderson, J. E., Schlösser, T., Ehlebracht, D., & Fetchenhauer, D. 
+(2014). Trust at zero acquaintance: More a matter of respect than expectation of 
+reward. Journal of Personality and Social Psychology, 107(1), 122–141. https://
+doi.org/10.1037/a0036673
+D’Este, P., Ramos-Vielba, I., Woolley, R., & Amara, N. (2018). How do researchers 
+generate scientific and societal impacts? Toward an analytical and operational 
+framework. Science and Public Policy, 45(6), 752–763. https://doi.org/10.1093/
+scipol/scy023
+<<<PAGE=43>>>
+42 Administration & Society 00(0)
+Ellis, D., Cox, D., & Hall, K. (1993). A comparison of the information seeking pat-
+terns of researchers in the physical and social sciences. Journal of Documentation, 
+49(4), 356–369. https://doi.org/10.1108/eb026919
+Etomaru, I., Bisaso, R., & Nakayiwa-Mayega, F. (2022). Fostering knowledge trans-
+lation in Africa’s flagship universities: A case of Makerere University. Higher 
+Education Research & Development, 41, 1060–1074. https://doi.org/10.1080/0
+7294360.2021.1887093
+Ezrahi, Y. (1990). The Descent of Icarus: Science and the transformation of contem-
+porary democracy. Harvard University Press.
+Ezrahi, Y. (2004). Science and the political imagination in contemporary democra-
+cies. In S. Jasanoff (Ed.), States of knowledge: The co-production of science and 
+social order (pp. 254–273). Routledge.
+Ezrahi, Y. (2012). Imagined democracies: Necessary political fictions. Cambridge 
+University Press.
+Feller, I., Ailes, C. P., & Roessner, J. D. (2002). Impacts of research universities on 
+technological innovation in industry: Evidence from engineering research centers. 
+Research Policy, 31, 457–474. https://doi.org/10.1016/s0048-7333(01)00119-6
+Feller, I., & Roessner, J. D. (1995). What does industry expect from university part-
+nerships? Issues in Science and Technology, 12(1), 80–84.
+Fletcher, M., Dimitratos, P., & Young, S. (2018). How can academic-policy collabo-
+ration be more effective? A stewardship approach to engaged scholarship in the 
+case of SME internationalization. Transnational Corporations, 25(1), 23–41. 
+https://doi.org/10.18356/2e0185bc-en
+Fotheringham, M., Gorter, T., & Badenhorst, A. (2021). Enhancing impact: A model 
+for policy development research. Policy Design and Practice, 4(3), 372–391. 
+https://doi.org/10.1080/25741292.2021.1961377
+French, R. D. (2018). Lessons from the evidence on evidence-based policy. Canadian 
+Public Administration, 61(3), 425–442. https://doi.org/10.1111/capa.12295
+Funtowicz, S. O., & Ravetz, J. R. (1993). Science for the post-normal age. Futures, 
+25(7), 739–755. https://doi.org/10.1016/0016-3287(93)90022-l
+Gigerenzer, G. (2010). Moral satisficing: Rethinking moral behavior as bounded 
+rationality. Topics in Cognitive Science, 2(3), 528–554. https://doi.org/10.1111/
+j.1756-8765.2010.01094.x
+Graffy, E. A. (2008). Meeting the challenges of policy-relevant science: Bridging 
+theory and practice. Public Administration Review, 68(6), 1087–1100. https://
+doi.org/10.1111/j.1540-6210.2008.00957.x
+Guston, D. H. (2000). Between politics and science: Assuring the integrity and pro-
+ductivity of research. Cambridge University Press.
+Head, B., Ferguson, M., Cherney, A., & Boreham, P. (2014). Are policy-makers inter-
+ested in social research? Exploring the sources and uses of valued information 
+among public servants in Australia. Policy and Society, 33(2), 89–101. https://
+doi.org/10.1016/j.polsoc.2014.04.004
+Head, B. (2016). Toward more “evidence-informed” policy making? Public 
+Administration Review, 76(3), 472–484. https://doi.org/10.1111/puar.12475
+<<<PAGE=44>>>
+Nelson et al. 43
+Heinrich, C. J., & Good, A. (2018). Research-informed practice improvements: 
+exploring linkages between school district use of research evidence and educa-
+tional outcomes over time. School Effectiveness and School Improvement, 29(3), 
+418–445. https://doi.org/10.1080/09243453.2018.1445116
+Hilgartner, S., Hurlbut, J. B., & Jasanoff, S. (2021). Was science on the ballot? 
+Science, 371(6532), 893–894. https://doi.org/10.1126/science.abf8762
+Hinrichs-Krapels, S., Bailey, J., Boulding, H., Duffy, B., Hesketh, R., Kinloch, E., 
+Pollitt, A., Rawlings, S., van Rij, A., Wilkinson, B., Pow, R., & Grant, J. (2020). 
+Using policy labs as a process to bring evidence closer to public policymak-
+ing: A guide to one approach. Palgrave Communications, 6, 101. https://doi.
+org/10.1057/s41599-020-0453-0
+Ion, G., Stîngu, M., & Marin, E. (2019). How can researchers facilitate the utilisation 
+of research by policy-makers and practitioners in education? Research Papers 
+in Education, 34(4), 483–498. https://doi.org/10.1080/02671522.2018.1452965
+Jann, W., & Wegrich, K. (2007). Theories of the policy cycle. In F. Fischer, G. J. 
+Miller, & M. S. Sidney (Eds.), Handbook of Public Policy Analysis (pp. 43–62). 
+CRC Press.
+Janousek, C. L., & Blair, R. (2018). Theory–practice exchange in local government man-
+agement: Perspectives of practitioners and scholars. The American Review of Public 
+Administration, 48(7), 730–742. https://doi.org/10.1177/0275074017725597
+Jasanoff, S. (1990). The fifth branch: Science advisors as policymakers. Harvard 
+University Press.
+Jasanoff, S. (2005). Designs on nature: Science and democracy in Europe and the 
+United States. Princeton University Press.
+Jasanoff, S. (2014). Science and public reason. Routledge.
+Jasanoff, S., & Simmet, H. R. (2017). No funeral bells: Public reason in a ‘post-
+truth’ age. Social Studies of Science, 47(5), 751–770. https://doi.org/10.1177
+%2F0306312717731936
+Jennings, E. T., & Hall, J. L. (2012). Evidence-based practice and the use of informa-
+tion in state agency decision making. Journal of Public Administration Research 
+and Theory, 22(2), 245–266. https://doi.org/10.1093/jopart/mur040
+Johnson, J. G., & Busemeyer, J. R. (2010). Decision making under risk and uncer-
+tainty. Wiley Interdisciplinary Reviews Cognitive Science, 1(5), 736–749. https://
+doi.org/10.1002/wcs.76
+Kahneman, D., Slovic, P., & Tversky, A. (Eds.). (1982). Judgment under uncertainty: 
+Heuristics and biases. Cambridge University Press.
+Kareev, Y. (1995). Positive bias in the perception of covariation. Psychological 
+Review, 102(3), 490–502. https://doi.org/10.1037/0033-295x.102.3.490
+Kitagawa, F., & Lightowler, C. (2013). Knowledge exchange: A comparison of poli-
+cies, strategies, and funding incentives in English and Scottish higher education. 
+Research Evaluation, 22(1), 1–14. https://doi.org/10.1093/reseval/rvs035
+Kline, S. J. (1995). Conceptual Foundations for multidisciplinary thinking. Stanford 
+University Press.
+Knight, C., & Lightowler, C. (2010). Reflections of 'knowledge exchange professionals' 
+in the social sciences: Emerging opportunities and challenges for university-based
+<<<PAGE=45>>>
+44 Administration & Society 00(0)
+knowledge brokers. Evidence & Policy A Journal of Research Debate and Practice, 
+6(4), 543–556. https://doi.org/10.1332/174426410x535891
+Knott, J., & Wildavsky, A. (1980). If dissemination is the solution, what is the 
+problem? Knowledge, 1(4), 537–578. https://doi.org/10.1177%2F107554708  
+00010040410.1177/107554708000100404
+Landry, R., Lamari, M., & Amara, N. (2003). The extent and determinants of the 
+utilization of university research in government agencies. Public Administration 
+Review, 63(2), 192–205. https://doi.org/10.1111/1540-6210.00279
+Landry, R., Amara, N., & Lamari, M. (2001). Climbing the ladder of research utili-
+zation: Evidence from social science research. Science Communication, 22(4), 
+396–422. https://doi.org/10.1177%2F1075547001022004003
+Lightowler, C., & Knight, C. (2013). Sustaining knowledge exchange and research 
+impact in the social sciences and humanities: Investing in knowledge broker 
+roles in UK universities. Evidence & Policy A Journal of Research Debate and 
+Practice, 9(3), 317–334. https://doi.org/10.1332/174426413x662644
+Lindblom, C. E., & Cohen, D. K. (1979). Usable knowledge: Social science and 
+social problem solving. Yale University Press.
+Lingard, B. (2013). The impact of research on education policy in an era of evidence-
+based policy. Critical Studies in Education, 54(2), 113–131. https://doi.org/10.1
+080/17508487.2013.781515
+Lodahl, J. B., & Gordon, G. (1973). Differences between physical and social sci-
+ences in university graduate departments. Research in Higher Education, 1(3), 
+191–213. https://www.jstor.org/stable/40194654
+Logan, J. O., & Graham, I. D. (1998). Toward a comprehensive interdisciplinary 
+model of health care research use. Science Communication, 20(2), 227–246. 
+https://doi.org/10.1177%2F1075547098020002004
+Martín-Martín, A., Orduna-Malea, E., Thelwall, M., & Delgado López-Cózar, E. 
+(2018). Google Scholar, Web of Science, and Scopus: A systematic comparison 
+of citations in 252 subject categories. Journal of Informetrics, 12(4), 1160–1177. 
+https://doi.org/10.1016/j.joi.2018.09.002
+Matthews, P., Rutherfoord, R., Connelly, S., Richardson, L., Durose, C., & 
+Vanderhoven, D. (2018). Everyday stories of impact: Interpreting knowledge 
+exchange in the contemporary university. Evidence & Policy A Journal of 
+Research Debate and Practice, 14(04), 665–682. https://doi.org/10.1332/1744
+26417x14982110094140
+Mazzucato, M. (2018). The value of everything: Making and taking in the global 
+economy. PublicAffairs.
+McNally, R., & Alborz, A. (2004). Developing methods for systematic reviewing in 
+health services delivery and organization: An example from a review of access 
+to health care for people with learning disabilities. Part 1. Identifying the lit-
+erature. Health Information and Libraries Journal, 21(3), 182–192. https://doi.
+org/10.1111/j.1471-1842.2004.00512.x
+Meagher, L., Lyall, C., & Nutley, S. (2008). Flows of knowledge, expertise and influence: 
+A method for assessing policy and practice impacts from social science research. 
+Research Evaluation, 17(3), 163–173. https://doi.org/10.3152/095820208x331720
+<<<PAGE=46>>>
+Nelson et al. 45
+Milburn, T. W., & Billings, R. S. (1976). Decision-making perspectives from psy-
+chology: Dealing with risk and uncertainty. American Behavioral Scientist, 
+20(1), 111–126. https://doi.org/10.1177/000276427602000107
+Miles, M., & Huberman, A. M. (1994). Qualitative data analysis: An expanded 
+sourcebook (2nd ed.). SAGE Publications.
+Monge, P. R., Rothman, L. W., Eisenberg, E. M., Miller, K. I., & Kirste, K. K. (1985). 
+The dynamics of organizational proximity. Management Science, 31(9), 1129–
+1141. https://doi.org/10.1287/mnsc.31.9.1129
+Mooney, C. (2005). The Republican war on science. Basic Books.
+National Academy of Sciences, National Academy of Engineering, and Institute of 
+Medicine. (2007). Rising above the Gathering Storm: Energizing and employing 
+America for a brighter economic future. The National Academies Press.
+Nelson, R. R. (1974). Intellectualizing about the Moon-Ghetto metaphor: A study of 
+the current malaise of rational analysis of social problems. Policy Sciences, 5(4), 
+375–414. https://doi.org/10.1007/bf00147227
+Nelson, R. R. (1977). The Moon and the Ghetto: An essay on public policy analysis. 
+W.W. Norton & Company.
+Nelson, R. R. (2011). The Moon and the Ghetto revisited. Science and Public Policy, 
+38(9), 681–690. https://doi.org/10.1093/scipol/38.9.681
+Newman, J. (2011). Boundary troubles: Working the academic–policy interface. 
+Policy and Politics, 39(4), 473–484. https://doi.org/10.1332/030557310x550150
+Newman, J. (2014). Revisiting the “two communities” metaphor of research utili-
+sation. International Journal of Public Sector Management, 27(7), 614–627. 
+https://doi.org/10.1108/ijpsm-04-2014-0056
+Newman, J. (2017). Deconstructing the debate over evidence-based policy. Critical 
+Policy Studies, 11(2), 211–226. https://doi.org/10.1080/19460171.2016.1224724
+Newman, J. (2020). Increasing the ability of government agencies to undertake 
+evidence-informed policymaking. Evidence Base, 2020, 1–9. https://doi.
+org/10.21307/eb-2020-005
+Newman, J., Cherney, A., & Head, B. W. (2016). Do policy makers use academic 
+research? reexamining the “two communities” theory of research utilization. 
+Public Administration Review, 76(1), 24–32. https://doi.org/10.1111/puar.12464
+Newman, J., Cherney, A., & Head, B. W. (2017). Policy capacity and evidence-based 
+policy in the public service. Public Management Review, 19(2), 157–174. https://
+doi.org/10.1080/14719037.2016.1148191
+O'Brien, D. (2005). University—Government policy linkages and the knowledge-
+based approach to internation development. Canadian Journal of Development 
+Studies/Revue canadienne d'études du développement, 26(1), 131–150. https://
+doi.org/10.1080/02255189.2005.9669029
+Oreskes, N., & Conway, E. M. (2010). Merchants of doubt: How a handful of sci-
+entists obscured the truth on issues from tobacco smoke to global warming. 
+Bloomsbury Press.
+Orr, K., & Bennett, M. (2012). Public administration scholarship and the politics 
+of coproducing academic-practitioner research. Public Administration Review, 
+72(4), 487–495. https://doi.org/10.1111/j.1540-6210.2011.02522.x
+<<<PAGE=47>>>
+46 Administration & Society 00(0)
+Ouimet, M., Bédard, P. O., Turgeon, J., Lavis, J. N., Gélineau, F., Gagnon, F., & 
+Dallaire, C. (2010). Correlates of consulting research evidence among pol-
+icy analysts in government ministries: A cross-sectional survey. Evidence & 
+Policy A Journal of Research Debate and Practice, 6(4), 433–460. https://doi.
+org/10.1332/174426410x535846
+Palmer, C. L., & Cragin, M. H. (2009). Scholarship and disciplinary practices. Annual 
+Review of Information Science and Technology, 42, 163–212.
+Paris, R. (2011). Ordering the world: Academic research and policymaking on frag-
+ile states. International Studies Review, 13(1), 58–71. https://doi.org/10.1111/
+j.1468-2486.2010.00998.x
+Pattyn, V., Blum, S., Fobé, E., Pekar-Milicevic, M., & Brans, M. (2022). Academic 
+policy advice in consensus-seeking countries: The cases of Belgium and 
+Germany. International Review of Administrative Sciences, 88, 26–42. https://
+doi.org/10.1177/0020852319878780
+Perkmann, M., Salandra, R., Tartari, V., McKelvey, M., & Hughes, A. (2021). 
+Academic engagement: A review of the literature 2011-2019. Research Policy, 
+50, e104114. https://doi.org/10.1016/j.respol.2020.104114
+Perkmann, M., Tartari, V., McKelvey, M., Autio, E., Brostrom, A., D’Este, P., 
+Fini, R., Geuna, A., Grimaldi, R., Hughes, A., Kitson, M., Krabel, S., Llerena, 
+P., Lissoni, F., Salter, A., & Sobrero, M. (2013). Academic engagement and 
+Commercialization: A review of the literature on university-industry relations. 
+Research Policy, 42, 426–442. https://doi.org/10.2139/ssrn.2088253
+Petrescu, C., & Lambru, M. (2021). Using evidence in shaping disability policy in 
+Romania: The case of sheltered workshops. Evidence & Policy A Journal of 
+Research Debate and Practice, 17(2), 243–260. https://doi.org/10.1332/17442
+6421x16146970604672
+Phipps, D. J., & Shapson, S. (2009). Knowledge mobilisation builds local research 
+collaborations for social innovation. Evidence & Policy A Journal of Research 
+Debate and Practice, 5(3), 211–227. https://doi.org/10.1332/174426409x463767
+Phoenix, J. H., Atkinson, L. G., & Baker, H. (2019). Creating and communicating 
+social research for policymakers in government. Palgrave Communications, 
+5(1), 98. https://doi.org/10.1057/s41599-019-0310-1
+Pielke, R. A. (1999). Who decides? Forecasts and responsibilities in the 1997 Red 
+River flood. Applied Behavioral Science Review, 7(2), 83–101. https://doi.
+org/10.1016/s1068-8595(00)80012-4
+Pielke, R. A., Jr. (2007). The honest broker: Making Sense of science in policy and 
+politics. Cambridge University Press.
+Pizmony-Levy, O., McDermott, M., & Copeland, T. T. (2021). Improving ESE policy 
+through research-practice partnerships: Reflections and analysis from New York 
+City. Environmental Education Research, 27(4), 595–613. https://doi.org/10.108
+0/13504622.2021.1890696
+Porter, T. M. (1995). Trust in numbers: The pursuit of objectivity in science and pub-
+lic life. Princeton University Press.
+Price, D. K. (1965). The scientific estate. Harvard University Press.
+<<<PAGE=48>>>
+Nelson et al. 47
+Ramirez, M. D., & Erickson, N. (2014). Partisan bias and information discounting 
+in economic judgments. Political Psychology, 35(3), 401–415. http://www.jstor.
+org/stable/43783743
+Ranchod, R., & Vas, C. (2019). Policy networks revisited: Creating a researcher–
+policymaker community. Evidence & Policy A Journal of Research Debate and 
+Practice, 15(1), 31–47. https://doi.org/10.1332/174426417x15139342679329
+Rayner, S., & Sarewitz, D. (2021). Policy-making in the post-truth world: On the limits 
+of science and the rise of inappropriate expertise. The Breakthrough Journal, 13, 
+15–43. https://s3.us-east-2.amazonaws.com/uploads.thebreakthrough.org/Journal-
+Winter-Issue-13_2021_Policy-Making-in-a-Post-Truth-World.pdf
+Rose, D. C., Kenny, C., Hobbs, A., & Tyler, C. (2020). Improving the use of evidence 
+in legislatures: The case of the UK Parliament. Evidence & Policy A Journal of 
+Research Debate and Practice, 16(4), 619–638. https://doi.org/10.1332/174426
+420x15828100394351
+Sá, C. M., Li, S. X., & Faubert, B. (2011). Faculties of education and institutional 
+strategies for knowledge mobilization: An exploratory study. Higher Education, 
+61(5), 501–512. https://doi.org/10.1007/s10734-010-9344-4
+Sanni, M., Oluwatope, O., Adeyeye, A., & Egbetokun, A. (2016). Evaluation of the 
+quality of science, technology and innovation advice available to lawmakers 
+in Nigeria. Palgrave Communications, 2, 16095. https://doi.org/10.1057/pal-
+comms.2016.95
+Sarewitz, D. (2004). How science makes environmental controversies worse. 
+Environmental Science & Policy, 7(5), 385–403. https://doi.org/10.1016/j.
+envsci.2004.06.001
+Sarewitz, D. (2011). Does climate change knowledge really matter? WIREs Climate 
+Change, 2, 475–481. https://doi.org/10.1002/wcc.126
+Sarewitz, D., Foladori G., Invernizzi, N., & Garfinkel, M.S. (2004). Science policy in 
+its social context. Philosophy Today, 48S, 67–83. https://doi.org/10.5840/philto-
+day200448Supplement8
+Schmitt, N., & Stults, D. M. (1986). Methodology review: Analysis of multitrait-
+multimethod matrices. Applied Psychological Measurement, 10(1), 1–22. https://
+doi.org/10.1177%2F014662168601000101
+Schutte, J. G., & Light, J. M. (1978). The relative importance of proximity and sta-
+tus for friendship choices in social hierarchies. Social Psychology, 41, 260–264. 
+https://doi.org/10.2307/3033563
+Schwartz, B., Ben-Haim, Y., & Dacso, C. (2011). What makes a good decision? 
+Robust satisficing as a normative standard of rational decision making. Journal 
+for the Theory of Social Behaviour, 41(2), 209–227. https://doi.org/10.1111/
+j.1468-5914.2010.00450.x
+Scott-Findlay, S., & Golden-Biddle, K. (2005). Understanding how organizational 
+culture shapes research use. JONA: The Journal of Nursing Administration, 
+35(7), 359–365. https://doi.org/10.1097/00005110-200507000-00008
+Scott, J. C. (1998). Seeing like a state: How certain schemes to improve the human 
+condition have failed. Yale University Press.
+<<<PAGE=49>>>
+48 Administration & Society 00(0)
+Sheehan, M., Garavan, T. N., & Morley, M. J. (2020). Transformational leadership 
+and work unit innovation: A dyadic two-wave investigation. Journal of Business 
+Research, 109, 399–412. https://doi.org/10.1016/j.jbusres.2019.10.072
+Simon, H. A. (1956). Rational choice and the structure of the environment. 
+Psychological Review, 63(2), 129–138. https://doi.org/10.1037/h0042769
+Simon, H. A. (1971). Designing organizations for an information-rich world. In M. 
+Greenberger (Ed.), Computers, communications, and the Public Interest (pp. 
+38–72). The Johns Hopkins University Press.
+Simon, H. A. (1972). Theories of bounded rationality. Decision and Organization, 
+1(1), 161–176.
+Simon, H. A. (1983). Reason in human affairs. Stanford University Press.
+Simon, H. A.  (2019 [1996]). Social planning: Designing the evolving artifact. In The 
+sciences of the artificial (3rd ed., pp. 139–167). The MIT Press.
+Stevens, A. (2011). Telling policy stories: An ethnographic study of the use of evi-
+dence in policy-making in the UK. Journal of Social Policy, 40(2), 237–255. 
+https://doi.org/10.1017/s0047279410000723
+Stokes, D. E. (1997). Pasteur’s Quadrant: Basic Science and Technological 
+Innovation. Brookings Institution Press.
+Sullivan, H. (2011). Truth' junkies: Using evaluation in UK public policy. Policy and 
+Politics, 39(4), 499–512. https://doi.org/10.1332/030557311x574216
+Thomas, R., & Ormerod, N. (2017). The (almost) imperceptible impact of tourism 
+research on policy and practice. Tourism Management, 62, 379–389. https://doi.
+org/10.1016/j.tourman.2017.02.009
+Tilbury, C., Bigby, C., Fisher, M., & Hughes, M. (2021). Australian social work 
+research: An empirical study of engagement and impact. British Journal of Social 
+Work, 51(2), 752–771. https://doi.org/10.1093/bjsw/bcaa170
+Vakkari, P. (2005). Task-based information searching. Annual Review of Information 
+Science and Technology, 37, 413–464. https://doi.org/10.1002/aris.1440370110
+Van Looy, B., Callaert, J., & Debackere, K. (2006). Publication and patent behavior of 
+academic researchers: Conflicting, reinforcing or merely co-existing? Research 
+Policy, 35(4), 596–608. https://doi.org/10.1016/j.respol.2006.02.003
+Vecchio, R. P. (1982). A further test of leadership effects due to between-group varia-
+tion and within-group variation. Journal of Applied Psychology, 67(2), 200–208. 
+https://doi.org/10.1037/0021-9010.67.2.200
+Vilkins, S., & Grant, W. J. (2017). Types of evidence cited in Australian Government 
+publications. Scientometrics, 113(3), 1681–1695. https://doi.org/10.1007/
+s11192-017-2544-2
+Walker, L. A., Lawrence, N. S., Chambers, C. D., Wood, M., Barnett, J., Durrant, H., 
+Pike, L., O’Grady, G., Bestmann, S., & Kythreotis, A. P. (2019). Supporting evi-
+dence-informed policy and scrutiny: A consultation of UK research profession-
+als. PLoS One, 14(3), e0214136. https://doi.org/10.1371/journal.pone.0214136
+Walker, R. M., Chandra, Y., Zhang, J., & Witteloostuijn, A. (2019). Topic model-
+ing the Research-Practice gap in public administration. Public Administration 
+Review, 79(6), 931–937. https://doi.org/10.1111/puar.13095
+<<<PAGE=50>>>
+Nelson et al. 49
+Weiss, C. H. (1979). The many meanings of research utilization. Public Administration 
+Review, 39(5), 426–431. https://doi.org/10.2307/3109916
+Weiss, C. H. (1991). Policy research: Data, ideas, or arguments? In P. Wagner, C. H. 
+Weiss, B. Wittrock, & H. Wollman (Eds.), Social Sciences and modern states: 
+National experiences and theoretical crossroads (pp. 307–332). Cambridge 
+University Press.
+Weiss-Gal, I., Gal, J., & Schwartz-Tayri, T. M. (2017). Teacher, researcher and . . . 
+policy actor? Social work academics’ involvement in social policy. Social Policy 
+and Administration, 51(5), 776–795. https://doi.org/10.1111/spol.12196
+West, R. F., Meserve, R. J., & Stanovich, K. E. (2012). Cognitive sophistication does 
+not attenuate the bias blind spot. Journal of Personality and Social Psychology, 
+103(3), 506–519. https://doi.org/10.1037/a0028857
+Whitmire, E. (2002). Disciplinary differences and undergraduates' information-
+seeking behavior. Journal of the American Society for Information Science and 
+Technology, 53(8), 631–638. https://doi.org/10.1002/asi.10123
+Wildavsky, A. (1983). Information as an organizational problem. Journal of 
+Management Studies, 20(1), 29–40. https://doi.org/10.1111/j.1467-6486.1983.
+tb00196.x
+Wilkinson, H., Gallagher, M., & Smith, M. (2012). A collaborative approach to 
+defining the usefulness of impact: Lessons from a knowledge exchange proj-
+ect involving academics and social work practitioners. Evidence & Policy 
+A Journal of Research Debate and Practice, 8(3), 311–327. https://doi.
+org/10.1332/174426412x654040
+Wohlin, C. (2014). Guidelines for snowballing in systematic literature studies and a 
+replication in software engineering [Conference session]. Proceedings of the 18th 
+International Conference on Evaluation and Assessment in Software Engineering. 
+https://dl.acm.org/doi/pdf/10.1145/2601248.2601268?casa_token=w3q_Cdpm
+NwgAAAAA:jQIVxTog7j8eR7ETVCGzIXBphbTHfizzxTC4DccTeEPMe_
+N8tScMH94VpQaofKJsVeLmqlzEkomGbA.
+Woolcott, G., Keast, R., & Pickernell, D. (2020). Deep Impact: Re-conceptualising uni-
+versity research impact using human cultural accumulation theory. Studies in Higher 
+Education, 45(6), 1197–1216. https://doi.org/10.1080/03075079.2019.1594179
+Yingling, D. L., & Mallinson, D. J. (2020). Explaining variation in evidence-
+based policy making in the American States. Evidence & Policy A Journal of 
+Research Debate and Practice, 16(4), 579–596. https://doi.org/10.1332/174426
+419x15752577942927
+Youtie, J., Bozeman, B., Jabbehdari, S., & Kao, A. (2017). Credibility and use of 
+scientific and technical information in policy making: An Analysis of the infor-
+mation bases of the National Research Council’s Committee reports. Research 
+Policy, 46(1), 108–120. https://doi.org/10.1016/j.respol.2016.11.001
+Yu, H. H. (2020). Effective academic–practitioner collaboration on gender 
+research in federal law enforcement: The value of a coproduction process. 
+International Review of Administrative Sciences, 86(3), 567–581. https://doi.
+org/10.1177/0020852318801499
+<<<PAGE=51>>>
+50 Administration & Society 00(0)
+Author Biographies
+John P. Nelson is a doctoral candidate and National Science Foundation Graduate 
+Research Fellow at Arizona State University’s School for the Future of Innovation in 
+Society. His research interests include differences in problem-solving processes 
+across fields of physical and social science, the governance of emerging technologies, 
+and the organization of research and innovation to serve public needs and values.
+Spencer Lindsay is a doctoral student in Public Administration and Policy at Arizona 
+State University’s Watts College of Public Service and Community Solutions. In 
+addition to policy knowledge utilization, his research interests include administrative 
+law, and national security policy.
+Barry Bozeman is Regents’ Professor Emeritus and Arizona Centennial Professor of 
+Technology Policy and Public Management, Arizona State University. His work 
+focuses on public management, organization theory and science and technology policy. 
+His most recent book, written with Michael Crow, is Public Values Leadership (Johns 
+Hopkins University Press, 2021).
+View publication stats

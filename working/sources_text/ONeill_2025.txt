@@ -1,0 +1,1455 @@
+<<<PAGE=1>>>
+Review Article
+Transfer of workplace e-learning: A systematic literature review
+Aidan O ’ Neill
+Department of Arts, Humanities, and Social Science, University of Limerick, Limerick, V94 T9PX, Ireland
+ARTICLE INFO
+Keywords:
+e-learning
+Workplace
+Transfer
+Effectiveness
+ABSTRACT
+The paper describes a systematic review of literature published between January 2000 and October 2024 dealing 
+with transfer of workplace e-learning. The review focused on theoretical frameworks, types of transfer being 
+studied, and the types of transfer measurements employed to identify gaps in current knowledge and suggest 
+directions for future research.
+Following a discussion of transfer of training, the paper discusses how e-learning differs from traditional face- 
+to-face training. The factors differentiating workplace learning from learning in institutes of education are also 
+explored, thereby establishing workplace e-learning, and its transfer, as a distinct area of study.
+The paper describes the search and filtering methodology used to identify relevant literature. The final corpus 
+of thirty-one documents was studied to classify the type of transfer discussed in each document using six binary 
+sub-categories of near and far transfer. In addition, transfer measurements were classified as self-reports, third- 
+party reports, or objective measurements, and theoretical frameworks were recorded when the information was 
+available. The information was examined to assess whether researchers used similar methodologies in 
+approaching the topic of transfer of workplace e-learning.
+The results of the study show that there is not yet a broadly agreed approach for conducting research into 
+transfer of workplace e-learning. There is no common scale or methodology used to describe and classify transfer, 
+and the most common approach to measuring transfer is self-reports, which are subject to bias. These factors 
+point to a need for further research to develop a robust academic framework for the subject, ideally supported by 
+empirical research.
+1. Introduction
+Skilled employees play an important role in productivity and inno -
+vation, and organizations that invest in training can gain a competitive 
+advantage ( Long & Smith, 2004 ). However, to benefit from training, the 
+trained competence must be applied by the employee in the workplace. 
+This application of a trained competence is known as “ transfer ” .
+Baldwin and Ford (1988) described transfer as having two compo -
+nents, generalisation and maintenance: i.e. what was learned in the 
+specific context of training must be applied in a more general workplace 
+context, and must continue over time. The so-called ‘transfer problem ’ 
+refers to the fact that not all training is successfully transferred to the 
+workplace.
+E-learning is now an integral part of the training landscape. A 
+Chartered Institute of Personnel and Development survey indicated that 
+just 9 percent of companies did not use any technology-based training in 
+2023, down from 15 percent in 2020 ( Overton, 2023 ).
+Given the importance of e-learning in workplace training, and the 
+requirement for transfer for workplace e-learning to be effective, a 
+synopsis of recent studies dealing with workplace e-learning transfer 
+will be a useful foundation for future research. This paper therefore sets 
+out to answer the following questions:
+RQ1: Is there a common theoretical framework guiding research into 
+the transfer of workplace e-learning?
+RQ2: What types of transfer have been addressed in recent studies of 
+workplace e-learning?
+RQ3: What types of transfer measures have been used when exam -
+ining the transfer of workplace e-learning?
+Answering these questions will help identify gaps in current knowl -
+edge about the transfer of workplace e-learning that can be addressed by 
+future research.
+The next section discusses the concept of transfer, followed by a 
+section discussing workplace e-learning, differentiating it from other 
+types of learning. Then, the research methodology is described, followed 
+by results and findings. A discussion of the results is followed by a 
+description of the research limitations, recommendations for future 
+E-mail address: aidan.oneill@ul.ie . 
+Contents lists available at ScienceDirect
+Social Sciences & Humanities Open
+journal homep age: www. sciencedirec t.com/journa l/social-sc iences-and -humanities-o pen
+https://doi.org/10.1016/j.ssaho.2025.101407
+Received 8 August 2024; Received in revised form 22 February 2025; Accepted 4 March 2025  
+Social Sciences & Humanities Open 11 (2025) 101407 
+Available online 11 March 2025 
+2590-2911/© 2025 The Author. Published by Elsevier Ltd. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ).
+<<<PAGE=2>>>
+research directions, and a brief conclusion.
+1.1. What is transfer?
+Transfer means applying a competence in a different situation than 
+the one in which it was learned. However, transfer has many aspects. 
+Lateral transfer occurs when the training is applied to similar tasks, 
+whereas vertical transfer occurs when the training is applied to more 
+complex tasks ( Barnett & Ceci, 2002 ; Ford et al. 2018 ). Gagn ´e (1965) , 
+cited in Royer (1979) , alternatively describes vertical transfer as a 
+process where a subordinate competence leads directly to the acquisi -
+tion of a superordinate competence. Royer (1979) also differentiates 
+between specific and non-specific transfer, with specific transfer 
+involving a similarity between the learning and application tasks, and 
+non-specific transfer showing no obvious connection between them. 
+Additionally, Royer (1979 , p. 8) discusses literal and figural transfer, 
+with literal transfer involving an exact transfer of a learned skill to a 
+task, and figural transfer involving “ the use of some segment of our 
+world knowledge as a tool for thinking about, or learning about, a 
+particular problem or issue ” . Perkins and Salomon (1988) distinguish 
+between “ low road ” transfer, where there is an almost automatic 
+application of skills learned in one context to a similar, but different, 
+context – they compare learning to drive a car and applying the skills 
+driving a truck – and “ high road ” transfer where there is a deliberate 
+abstraction of competence learned in one context so that it can be 
+applied in another. Haskell (2001) described six levels of transfer based 
+on the similarities between the learning and application situations, 
+ranging from nonspecific transfer, where new learning is simply based 
+on past learning, to displacement or creative transfer involving discov -
+ering or creating a new concept based an insight gained from previous 
+learning.
+1.2. Near and far transfer
+Researchers differentiate between near transfer, when the performed 
+competence is similar to the training, and far transfer, when the trained 
+competence is used in a situation not covered by the training (e.g. 
+Barnett & Ceci, 2002 ; Royer, 1979 ; Sala et al. 2019 ). Thorndike and 
+Woodworth (1901) found that transfer was more likely when the 
+training material and the practice material were similar. This “ common 
+elements theory ” , which has been supported by many scholars (e.g. 
+Anderson & Singley, 1993 ; Detterman, 1993 ; Ritchie et al. 2015 ) in -
+dicates that far transfer is infrequent and difficult to achieve. Indeed, 
+there is a school of thought that far transfer does not exist (e.g. Mel -
+by-Lervåg et al. 2016 ; Mosing et al. 2016 ; Sala & Gobet, 2017 ). In a 
+recent second-order meta-analysis, Sala et al. (2019) found effectively 
+zero evidence for the presence of far transfer.
+However, Yelon and Ford (1999) point out that some tasks involve 
+closed skills, where the task must be performed the same way each time, 
+and others involve open skills, where the worker has freedom to decide 
+how to use the skill. Additionally, some roles are highly supervised, with 
+the worker always following defined instructions, while others are 
+autonomous, with the worker free to decide how to complete their tasks. 
+Training for a role that is autonomous and uses open skills will clearly be 
+different than training for a highly supervised, closed skill role.
+Haskell (2001 , p. 30) opined that “ there is no simple way to say if 
+something is a case of near transfer or far transfer ” due to a lack of 
+quantitative measurement. Barnett and Ceci (2002) suggested that the 
+conflicting evidence regarding the existence or effectiveness of far 
+transfer could be due to lack of consistency in the type of transfer being 
+measured, leading to different types of transfer being incorrectly 
+grouped together as though they were similar. They proposed a taxon -
+omy based on the type of content that is transferred and the context of 
+the learning and transfer. The type of content has three dimensions: the 
+specificity or generality of the skill, the type of performance change, and 
+the demands on memory. Each dimension has sub-categories as shown 
+in Table 1 .
+Likewise, Barnett and Ceci (2002) subdivided the transfer context 
+into six categories: the knowledge domain, the physical context, the 
+temporal context, the functional context, the social context, and the 
+modality, each of which has a continuum from near to far transfer. 
+Barnett and Ceci (2002) provided examples of points along these con -
+tinua, shown in Table 2 , while pointing out that the examples are not 
+evenly spaced, and that the scales are subjective.
+1.3. Workplace e-learning
+E-learning is “ instruction facilitated by technology, designed to 
+enable a learner to achieve a specific learning goal without the 
+requirement for the learner and the instructor to be in the same physical 
+location ” ( O ’ Neill, 2024 ), and can be differentiated from traditional 
+face-to-face learning in several respects. E-learning lets learners access 
+the learning material at a time and at a pace that is convenient for them 
+(e.g. Chen, 2008 ; Strother, 2002 ). E-learning is often unidirectional, in 
+that the learner engages only with the learning material, and does not 
+have direct communication with an instructor (e.g. Clark & Mayer, 
+2016 ; Warner, 2019 ). In many cases, workplace e-learning is conducted 
+at the learner ’ s own desk during working hours, rather than at a specific 
+time dedicated to training in a location like a training room where 
+training is the main focus (e.g. Baldwin-Evans, 2004 ; Eidson, 1999 ).
+Workplace learning can be differentiated from learning in institutes 
+of education. Schools, colleges, and universities exist to provide edu -
+cation and expand the boundaries of knowledge, whereas the function of 
+a workplace is to deliver a product or service ( Fuller & Unwin, 2004 ; 
+Illeris, 2011 ). In workplaces, learning is of secondary importance to 
+business objectives, with the function of training being to facilitate 
+organisational performance ( Lewis & Thornhill, 1994 ). While learning 
+in school or college follows a defined curriculum, learning in the 
+workplace tends to be more informal, with individuals choosing what 
+they learn based on their needs ( Eraut, 2004 ). Resnick (1987) observed 
+that learning in school is generalised, focusing on principles, whereas in 
+other learning situations the focus is on situation-specific competencies.
+As e-learning grows in importance, researchers need to understand 
+the factors that promote its transfer. Shukla et al. (2023) proposed a 
+taxonomy of factors that affect the transfer of e-learning: learning design 
+and planning, the learning environment and organisational support, 
+individual learner characteristics, and computer literacy/attitudes. 
+While the first three categories are relevant to both e-learning and to 
+traditional learning (e.g. Baldwin & Ford, 1988 ; Ford et al. 2018 ), 
+computer literacy and attitudes is unique to e-learning.
+The next section outlines the methodology used to identify and 
+classify the types of transfer studied in recent papers dealing with 
+workplace e-learning.
+2. Methodology
+The standards of the Preferred Reporting Items for Systematic Re -
+view and Meta-Analysis (PRISMA) ( Page et al. 2021 ) were used for 
+reporting this systematic literature review. While PRISMA was initially 
+proposed for use with medical studies, the approach has also been used 
+for studies in other fields, including workplace training and transfer (e.g. 
+Carter et al. 2014 ; Shukla et al. 2023 ).
+Table 1 
+Type of content to be transferred ( Barnett & Ceci, 2002 , p. 621).
+Content dimension Sub-Categories
+Learned Skill Procedure Representation Principle or Heuristic
+Performance 
+Change
+Speed Accuracy Approach
+Memory 
+Demands
+Execute 
+only
+Recognise and 
+execute
+Recall, recognise, and 
+execute
+A. O ’ Neill                                                                                                                                                                                                                                         Social Sciences & Humanities Open 11 (2025) 101407 
+2
+<<<PAGE=3>>>
+To identify the relevant literature, a database search was undertaken 
+in November 2024. EBSCO (all databases), Scopus, and Web of Science 
+were selected, as these databases provide broad coverage of the subject 
+matter. In each database, the search focused on abstracts containing the 
+words “ E-learning ” or “ Online learning ” or “ Web-based learning ” or 
+“ Multimedia learning ” , and “ Transfer ” , and “ Workplace ” or “ Corporate ” 
+or “ Company ” or “ Occupational ” . Additional searches included the 
+terms: “ Digital education ” or “ Virtual learning ” or “ Distance education ” 
+or “ Remote learning ” or “ Web-based training ” or “ Cyber learning ” or 
+“ Internet-based education ” . The searches covered the period from 
+January 2000 to October 2024, and identified 1118 results, 363 from 
+EBSCO, 355 from Scopus, and 400 from Web of Science. The abstracts 
+for each of the results were downloaded, along with other information 
+such as authors, year of publication, journal name, and DOI, and im -
+ported to an Excel spreadsheet which was used to summarise key in -
+formation from the papers.
+The inclusion criteria for the final analysis were: 1) the paper 
+included information about transfer, 2) it focused on training for the 
+workplace; 3) the training was delivered via e-learning; and 4) the paper 
+was in English. Papers that did not satisfy all four criteria were excluded. 
+Following identification and elimination of duplicates (304 papers) the 
+remaining 814 papers were analysed in two stages. First, the abstracts 
+were read to identify papers that clearly did not match the inclusion 
+criteria. Some themes were evident in the exclusions at this stage: 189 
+items did not deal with workplace learning (e.g. Emurian, 2006 ), 148 
+dealt with various aspects of machine learning (e.g. Lin & Chang, 2022 ), 
+71 items were proposals for or discussions of a methodology, technol -
+ogy, or platform (e.g. Hamburg et al. 2007 ), and 29 were in languages 
+other than English (e.g. Hochholdinger & Schaper, 2008 ). Many of the 
+papers could have been excluded for multiple reasons, but when at least 
+one inclusion criterion was absent, no further investigation was con -
+ducted. In total, 642 papers were excluded at this stage. The remaining 
+172 papers were read to assess if all inclusion criteria were satisfied. 
+Papers excluded at this stage included 57 papers that did not deal with 
+transfer of training (e.g. Lemaire & Greene, 2002 ), 21 papers that did not 
+deal with workplace learning (e.g. Arif & Ahmad Tarmizi, 2023 ), and 16 
+papers that were unavailable or only available for purchase (e.g. Burk 
+et al. 2015 ). In total, 145 papers were excluded at this stage, leaving 27 
+Table 2 
+Continua of transfer contexts, with examples ( Barnett & Ceci, 2002 , p. 621).
+Near Transfer < ——————————————— ————————— —————————————— > Far Transfer
+Knowledge 
+domain
+Mouse vs. rat Biology vs. botany Biology vs. economics Science vs. history Science vs. art
+Physical context Same room at school Different room at school School vs. research lab School vs. home School vs. the beach
+Temporal 
+context
+Same session Next day Weeks later Months later Years later
+Functional 
+context
+Both clearly 
+academic
+Both academic but one nonevaluative Academic vs. filling in tax 
+forms
+Academic vs. informal 
+questionnaire
+Academic vs. at play
+Social context Both individual Individual vs. pair Individual vs. small group Individual vs. large group Individual vs. 
+society
+Modality Both written, same 
+format
+Both written, multiple choice vs. essay Book learning vs. oral exam Lecture vs. wine tasting Lecture vs. wood 
+carving
+Fig. 1. Representation of filtering process.
+A. O ’ Neill                                                                                                                                                                                                                                         Social Sciences & Humanities Open 11 (2025) 101407 
+3
+<<<PAGE=4>>>
+papers for analysis. Four additional papers were added to the corpus 
+based on citations in the papers that were reviewed ( Bertram et al., 
+2015 ; Kirkman et al. 2006 ; Knott et al. 2024 ; Stein et al. 2015 ), leaving a 
+total of 31 papers for review. Fig. 1 shows a graphical representation of 
+the filtering process.
+The purpose of the review was to collect data relevant to the research 
+questions. The types of learned skill, performance change, and memory 
+demands, described in Table 1 , were recorded in the Excel spreadsheet, 
+along with the six transfer dimensions. The type of transfer under each 
+dimension is classified as either Near or Far. Although this is a simpli -
+fication, it nevertheless leads to 2
+6 
+= 64 different possibilities of detailed 
+transfer.
+Using Table 2 as a guide, near and far transfer were defined for each 
+dimension as shown in Table 3 . This pragmatic binary view enables a 
+process of differentiation and deeper analysis of published transfer 
+studies.
+Where available, the training topic and industry information were 
+recorded, along with training duration, and the type of transfer mea -
+surement. The number of trainees who completed the course and pro -
+vided transfer information was also recorded. In addition, the 
+theoretical framework used in each study was noted if the information 
+was provided.
+3. Findings
+The number of papers published in any year ranged from zero to five, 
+as shown in Fig. 2 . Three articles were published in the period 2001 to 
+2006, nine in 2007 – 2012, eight articles in 2013 – 2018 and eleven in 
+2019 – 2024, demonstrating a low but reasonably consistent interest in 
+this topic over time.
+Papers that provided the time commitment reported on training 
+ranging from a 30 – 50 min Naloxone distribution course ( Ericson et al., 
+2024 ) to 1500 h Master ’ s degree ( Navarro Martínez et al. 2022 ).
+The healthcare industry was the focus of 12 of the 31 papers. This 
+may be explained by the requirement for healthcare professionals to 
+keep their knowledge current. According to Zeiger (2005 , p. 91): 
+“ Perhaps more than any other professionals, physicians are expected to 
+keep current with the latest developments in their field ” . Only two other 
+industries, telecommunications and banking, were the focus of more 
+than one study, with two papers for each. Highly regulated sectors 
+(healthcare, telecoms, banking, health insurance, child welfare, 
+policing, and pharmacy) account for 20 papers, most likely reflecting the 
+training required to avoid the risks of non-compliance in these sectors. 
+The number of trainees who completed their courses and provided in -
+formation in relation to transfer ranged from 6 to 3900 (median 104). 
+Table 4 summarises key information about the training courses and 
+theoretical frameworks applied in the studies.
+3.1. Theoretical frameworks
+In examining RQ1, it is clear from the papers that there is not, as yet, 
+a widely accepted and used theoretical framework for examining the 
+transfer of workplace e-learning. Eight papers refer to the factors that 
+have an influence on transfer as discussed by Baldwin and Ford (1988)
+or Holton et al. (1996 , 2000) : individual differences like cognitive 
+ability, self-efficacy, or motivation; organisational factors like peer 
+support, supervisor support, or transfer climate; and instructional design 
+factors like sequencing, or utility. Atack and Luke (2008) refer to a 
+similar framework discussed by Cervero (1985) where the successful 
+transfer is linked to educational quality, organisational climate, 
+learners ’ openness to change, and perceived utility of the change. Jang 
+(2024) refers to the Dynamic Transfer Model ( Blume et al. 2019 ) where 
+transfer is an iterative process, with feedback and intention to transfer 
+affecting what transitions from one phase to the next. However, these 
+models refer to transfer in general, and not specifically transfer of 
+e-learning. In their study, Park and Wentling (2008) focused on 
+e-learning, and developed a transfer framework based on the number of 
+separate tasks, the number of times the learned competence was used, 
+and task difficulty, while also considering computer attitudes and us -
+ability of the training material. Other theoretical frameworks adopted in 
+the papers include a theory of supportive learning for distance education 
+based on communication with peers and tutors ( Atack, 2003 ), Thorn -
+dike and Woodworth ’ s (1901) theory of common elements ( Jordan, 
+2016 ), transfer as an element of a knowledge management strategy 
+( Tessier & Dalkir, 2016 ), and cognitive load theory as it relates to 
+multitasking and the effects of design, contextual factors, and trainee 
+characteristics on transfer ( Ronen, 2008 ).
+3.2. Training content
+Fig. 3 shows the analysis of training content based on the dimensions 
+in Table 1 .
+First, the Learned Skill ranges from specific (a procedure to follow in 
+all circumstances), to general (a principle or heuristic applicable in 
+many different situations). The training involved principles or heuristics 
+in 19 of the studies. For example, Atack (2003) discussed a course where 
+nurses were trained to consider patients ’ post-discharge home situation 
+and access to support services. In Martins et al. (2018) , the training topic 
+was Operational Efficiency, an unstructured task that involved applying 
+general principles. Similarly, Kramer (2007) outlined IT security 
+training where trainees had to apply general principles to identify se -
+curity risks. Six papers in the review reported training in procedures. For 
+example, Sloth et al. (2022) described training in surgical laparoscopic 
+Table 3 
+Binary representations of the six dimensions of transfer.
+Near Transfer Far Transfer
+Knowledge 
+domain
+Within the same high level 
+knowledge domain (cognitive, 
+affective, psychomotor).
+Different knowledge domain
+Many overlapping factors Few overlapping factors
+Physical 
+context
+Similar physical settings Dissimilar physical settings
+Settings with similar access and 
+control attributes (e.g. opening 
+hours, permitted behaviours)
+Settings with different access 
+and control attributes
+Temporal 
+context
+Up to four weeks between 
+training and application
+More than four weeks 
+between training and 
+application
+Similar time-sensitivity/time- 
+pressure
+Different time sensitivity/ 
+time-pressure
+Functional 
+context
+The application of training in a 
+manner consistent with the 
+original aims of the training
+The application of training in 
+a way not envisioned by the 
+original training
+Social 
+context
+Similar group size Different group size
+Similar level of collaboration Different level of 
+collaboration
+Modality Similar sensory (verbal, visual, 
+auditory) modality
+Different sensory modality
+Similar physical modality Different physical modality
+Fig. 2. Number of papers by publication year.
+A. O ’ Neill                                                                                                                                                                                                                                         Social Sciences & Humanities Open 11 (2025) 101407 
+4
+<<<PAGE=5>>>
+Table 4 
+Key information about the training courses.
+Paper Industry Training Topic Type of e-learning Training 
+Duration
+# of 
+trainees
+Theoretical 
+Framework for 
+Transfer (5)
+Findings in relation to transfer
+Jordan (2016) Telecoms Not stated Synchronous; 
+communication with 
+instructors
+Various 
+(1)
+118 (a), (b), (i) No significant difference between 
+traditional and online training.
+Macdonald et al. 
+(2008)
+Healthcare Collaboration Asynchronous; post-course 
+meetings with team for 
+group assignment
+Not stated 59 Not stated 82% of trainees agreed or strongly 
+agreed that they had used the trained 
+competence in the workplace.
+Atack (2003) Healthcare Healthcare 
+relationships
+Asynchronous; 
+Communication with 
+instructors and peers
+16 weeks 
+(2)
+11 Not stated Trainees reported post-training 
+changes in work practices.
+Rankin et al. 
+(2013)
+Healthcare Triage skills Asynchronous; 
+Communication with peers
+6 weeks 
+(2)
+132 Not stated Overall triage accuracy improved, 
+but no significant difference between 
+a control group and an intervention 
+group who undertook additional 
+learning tasks.
+Hinz (2018) Health 
+Insurance
+HIPAA Asynchronous; No 
+communication with peers 
+or instructors
+1 h 33 (b) No significant difference between 
+people who completed an e-learning 
+course and took a test, and those who 
+took the test without completing the 
+course.
+Hilbig et al. (2013) Various Instructional 
+Design
+Synchronous; 
+Communication with 
+instructors and peers
+15 h (3) 11 (d) Interviews revealed that 9 of the 11 
+participants had used the trained 
+competence in the workplace.
+Molina-Arrebola 
+et al. (2020)
+Healthcare Transfusion Unclear whether 
+synchronous or 
+asynchronous; Trainees had 
+access to chatroom
+35 h 556 Not stated 91.1% of trainees and 95.8% of 
+tutors considered that trainees had 
+applied “some” or “a lot” (two 
+highest scores on a 4-point Likert 
+scale) of their training in the 
+workplace.
+Saleh et al. (2022) Humanitarian 
+Aid
+Humanitarian 
+leadership
+Combination of synchronous 
+and asynchronous
+240 h 8 (d) Interviews with trainees and their 
+colleagues reported improved work 
+performance and expanded scope of 
+work.
+Park and Wentling 
+(2008)
+Heavy 
+Machinery
+Not stated Asynchronous; No detail 
+about communication
+Not stated 47 (a), (c) Computer attitudes (anxiety, 
+confidence, liking, usefulness) have 
+an indirect effect on transfer, 
+mediated by perception of course 
+usability.
+Atack and Luke 
+(2008)
+Healthcare Infection control Asynchronous; No 
+communication
+Not stated 55 (e) 55 trainees completed post- 
+completion questionnaire giving 
+examples of changes in work 
+practices as a result of the course
+Tessier and Dalkir 
+(2016)
+Call centre Not stated Asynchronous; No detail 
+about communication
+Not stated 51 (f) Group that received training via e- 
+learning used corporate wiki more 
+frequently than groups with webinar 
+or email training.
+Joo et al. (2011) Not stated Not stated Not stated Not stated 379 (a), (g) Organisational support positively 
+affected transfer, learning flow and 
+learner satisfaction. However, the 
+hypothesised effect of learner 
+satisfaction on transfer was not 
+shown.
+Martins et al. 
+(2018)
+Banking Operational 
+efficiency
+Not stated Not stated 3900 (a), (d) Trainee self-reports indicated a link 
+between learning strategies 
+(cognitive/help seeking, 
+behavioural, self-regulatory) and 
+transfer. Supervisor reports showed a 
+link between cognitive/help seeking 
+strategies and transfer.
+Kramer (2007) Telecoms IT security Not stated Not stated 145 (d) Trainees who had the opportunity to 
+apply the learned competence 
+reported that they did so, but not all 
+trainees had the opportunity.
+Kerfoot et al. 
+(2010)
+Healthcare Histopathology Asynchronous; No 
+communication with 
+instructors or peers
+45 weeks 
+(2)
+724 Not stated Trainees who received spaced 
+training over 4 weeks showed 
+stronger transfer than those who 
+received the training in a single 
+block.
+Sloth et al. (2022) Healthcare Laparoscopy Asynchronous; Also involved 
+use of portable laparoscopy 
+simulator. No detail about 
+communication
+5.5 h (3) 46 Not stated No significant differences in 
+outcomes between groups who 
+received in-person training vs. 
+training via e-learning.
+(continued on next page)
+A. O’Neill                                                                                                                                                                                                                                         Social Sciences & Humanities Open 11 (2025) 101407 
+5
+<<<PAGE=6>>>
+Table 4 ( continued )
+Paper Industry Training Topic Type of e-learning Training 
+Duration 
+# of 
+trainees 
+Theoretical 
+Framework for 
+Transfer (5) 
+Findings in relation to transfer
+Ad ´anez-Martínez 
+et al. (2022)
+Healthcare Telephone 
+consultations
+Combination of synchronous 
+and asynchronous. 
+Communication with 
+instructor and peers during 
+synchronous phase
+Not stated 145 Not stated Trainee self-reports indicated 
+implementation of trained 
+competence in the workplace.
+Ronen (2008) Not stated Not stated Not stated Not stated 418 (h) Transfer was positively associated 
+with computer self-efficacy, usability 
+of learning material, and supervisor 
+support. User control over time and 
+training location did not predict 
+transfer.
+Navarro Martínez 
+et al. (2022)
+Healthcare Digital skills Not stated 22 – 1500 
+h (4)
+104 (d) Almost 60% of respondents indicated 
+that they had transferred learned 
+competencies to the workplace, with 
+a positive correlation between the 
+length of the course and transfer.
+Kobulsky et al. 
+(2020)
+Child welfare Adoption and 
+guardianship
+Not stated for e-learning; 
+Virtual coaching sessions 
+were synchronous with 
+communication with 
+coaches
+20 – 28 h 327 Not stated Group that received virtual coaching 
+in addition to e-learning showed 
+better knowledge retention than e- 
+learning only group, but no 
+significant differences in transfer 
+between the two groups.
+Talanti et al. 
+(2010)
+Banking Regulatory 
+compliance
+Asynchronous; No detail 
+about communication
+Not stated 293 (h) Statistically significant correlations 
+between self-reported transfer and 
+motivation, content validity, and 
+supervisor support.
+Kirkman et al. 
+(2006)
+Travel Teamwork Asynchronous; No 
+interactivity
+Not stated 326 (a) Intra-team trust, experienced 
+leadership, and technological 
+support led to better transfer 
+outcomes.
+Stein et al. (2015) Healthcare Evidence-based 
+psychiatric 
+treatment
+Not stated if synchronous or 
+asynchronous. 
+Communication with peers 
+through a “ learning 
+collaborative ” .
+12 h 36 Not stated No significant difference between e- 
+learning group and in-person 
+workshop group.
+Knott et al. (2024) Pharmacy Pharmacy 
+preceptor 
+training
+Asynchronous; 
+Communication with peers
+6 h 28 (d) Trainees and their supervisees 
+associated the e-learning course with 
+better work performance.
+Kow et al. (2024) Healthcare Clinical reasoning Asynchronous; No 
+communication
+2 h 63 Not stated Standard e-learning group and group 
+using virtual simulation reported 
+post-training transfer to the 
+workplace; simulation group 
+reported higher transfer levels.
+Dixit and Sinha 
+(2022)
+Not stated Management 
+skills
+Synchronous; 
+Communication with 
+instructors and peers
+Not stated 108 Not stated Trainees and supervisors reported 
+that virtual training aided transfer.
+Thompson et al. 
+(2003)
+Various Human resource 
+management
+Synchronous; 
+Communication was 
+available but unclear if with 
+instructors, peers, or both
+24 h 18 (a), (d) Trainees and supervisors reported 
+post-training transfer to the 
+workplace
+Dalston (2009) Public 
+Libraries
+Dealing with 
+difficult patrons
+Asynchronous; Some 
+participants had access to a 
+facilitator
+2 h 193 Not stated 31% of trainees reported post- 
+training transfer. The study did not 
+disprove the null hypotheses in 
+relation to the effect of internal and 
+external support on training transfer.
+Ericson et al. 
+(2024)
+Healthcare Naloxone 
+distribution
+Asynchronous; No detail 
+about communication
+30 – 50 
+min
+185 Not stated 14.6% of respondents reported 
+dispensing Naloxone in the month 
+following training
+Jang (2024) Non-Profit Emergency 
+preparation
+Asynchronous; No detail 
+about communication
+Not stated 28 (c) The intervention group showed 
+higher transfer scores, but the 
+difference was not statistically 
+significant.
+Bertram et al. 
+(2015)
+Police Operating with 
+helicopter 
+support
+Synchronous Virtual Reality, 
+with communication with 
+team members
+2 days 6 (a), (b), (d) In-person training group scored 
+better than e-learning (Virtual 
+Reality) group for transfer in a basic 
+scenario, but the e-learning group 
+outperformed the in-person group in 
+a complex scenario.
+(1) Sample course mentioned had a duration of 24 h.
+(2) Time commitment not stated.
+(3) Mean or median time.
+(4) Range from short courses to Master ’ s degree.
+(5) Theoretical Frameworks: (a) Baldwin and Ford (1988) , (b) Holton (1996 , 2000) ), (c) Blume et al. (2019) , (d) Kirkpatrick (1979 , (e) Cervero (1985) , (f) Nonaka and 
+Takeuchi (1995) , (g) Hoffman and Novak (1996) , (h) Sweller (1988) , (i) Thorndike and Woodworth (1901) .
+A. O ’ Neill                                                                                                                                                                                                                                         Social Sciences & Humanities Open 11 (2025) 101407 
+6
+<<<PAGE=7>>>
+techniques, where the expected outcome was technical proficiency.
+Another procedural course involved training triage nurses in how to 
+use the Canadian Triage and Acuity Scale ( Rankin et al. 2013 ). One 
+paper, Navarro Martínez et al. (2022) , fell into to the category of Rep -
+resentation, because the training subject was “ digital skills ” , which are 
+neither highly procedural nor solely principle-based. Five papers did not 
+provide sufficient information to classify the learned skill.
+Second, the expected performance change following training could 
+relate to speed of task execution, accuracy of execution, or the selection 
+of the most appropriate implementation approach. Nineteen papers 
+dealt with topics where trainees would need to select a situationally 
+appropriate implementation approach. For example, Kobulsky et al. 
+(2020) described training for child welfare workers to improve out -
+comes for adoption and guardianship. Macdonald et al. (2008) described 
+Fig. 3. Analysis of training content (# of papers).
+Table 5 
+Training content and type of transfer.
+Paper Learned Skill Performance 
+Change
+Memory 
+Demands
+Knowledge 
+Domain
+Physical 
+Context
+Temporal 
+Context
+Functional 
+Context
+Social 
+Context
+Modality
+Jordan (2016) NS NS NS Near Near Far Near Unclear Far
+Macdonald et al. 
+(2008)
+PH Approach RRE Near Far Near Near Far Far
+Atack (2003) PH Approach RRE Near Far Far Near Near Far
+Rankin et al. (2013) Procedure Accuracy RRE Near Unclear Unclear Near Near Near
+Hinz (2018) PH Accuracy RRE Near Unclear Near Near Near Unclear
+Hilbig et al. (2013) PH Approach RRE Unclear Unclear Far Near Unclear Unclear
+Molina-Arrebola et al. 
+(2020)
+PH Approach RRE Near Unclear Far Near Near Far
+Saleh et al. (2022) PH Approach RRE Near Unclear Far Near Unclear Far
+Park and Wentling 
+(2008)
+NS NS NS Near Unclear Far Near Unclear Unclear
+Atack and Luke 
+(2008)
+PH Approach RRE Near Near Near Near Far Far
+Tessier and Dalkir 
+(2016)
+Procedure Accuracy Execute 
+only
+Near Near Unclear Near Near Near
+Joo et al. (2011) NS NS NS Near Unclear Near Near Unclear Unclear
+Martins et al. (2018) PH Approach RRE Near Unclear Far Near Unclear Unclear
+Kramer (2007) PH Approach RRE Near Unclear Far Near Unclear Near
+Kerfoot et al. (2010) PH Accuracy RRE Near Unclear Far Far Unclear Near
+Sloth et al. (2022) Procedure Accuracy Execute 
+only
+Near Far Far Near Far Near
+Ad ´anez-Martínez 
+et al. (2022)
+Procedure Approach RRE Near Unclear Far Near Far Near
+Ronen (2008) NS NS NS Unclear Unclear Unclear Unclear Unclear Unclear
+Navarro Martínez 
+et al. (2022)
+Representation Approach RRE Near Far Near and Far Near Unclear Near
+Kobulsky et al. (2020) PH Approach RRE Near Unclear Unclear Near Unclear Far
+Talanti et al. (2010) NS NS NS Near Unclear Unclear Unclear Unclear Unclear
+Kirkman et al. (2006) PH Approach RRE Near Far Far Near Far Near
+Stein et al. (2015) PH Approach RRE Near Unclear Far Near Far Far
+Knott et al. (2024) PH Approach RRE Near Unclear Far Near Far Far
+Kow et al. (2024) PH Approach RRE Near Near Near Near Unclear Far
+Dixit and Sinha 
+(2022)
+PH NS NS Near Unclear Unclear Unclear Unclear Unclear
+Thompson et al. 
+(2003)
+PH Approach RRE Near Unclear Unclear Near Unclear Far
+Dalston (2009) PH Approach RRE Near Unclear Far Near Unclear Far
+Ericson et al. (2024) Procedure Approach RRE Near Far Near Far Unclear Far
+Jang (2024) Procedure Accuracy Execute 
+only
+Near Unclear Far Near Unclear Far
+Bertram et al. (2015) PH Approach RRE Near Far Near Near Near Far
+Totals PH: n = 19 Approach: n =
+19
+RRE: n = 22 Near: n = 29 Near: n = 4 Near: n = 7 Near: n = 26 Near: n = 6 Near: n =
+8
+Procedure: n = 6 Accuracy: n = 6 EO: n = 3 Far: n = 0 Far: n = 7 Far: n = 16 Far: n = 2 Far: n = 7 Far: n = 15
+Representation: n 
+= 1
+NS: n = 6 NS: n = 6 Unclear: n = 2 Unclear: n 
+= 20
+Near and far: 
+n = 1
+Unclear: n =
+3
+Unclear: n 
+= 18
+Unclear: n 
+= 8
+NS: n = 5 ​ ​ ​ ​ Unclear: n =
+7
+​ ​ ​
+PH = Principle/Heuristic, NS = Not Stated, RRE = Recall, Recognise, Execute.
+A. O ’ Neill                                                                                                                                                                                                                                         Social Sciences & Humanities Open 11 (2025) 101407 
+7
+<<<PAGE=8>>>
+a course dealing with collaborative work and problem solving. Six pa -
+pers described training where the desired outcome was accuracy. For 
+example, Hinz (2018) examined a course about the accurate application 
+of health insurance codes in an IT system, and Tessier and Dalkir (2016)
+reported on a course teaching call centre employees how to provide 
+accurate information to customers. No paper dealt with training where 
+speed was the sole objective, although speed of execution of laparo -
+scopic techniques formed part of assessment described by Sloth et al. 
+(2022) . Six papers did not provide information about the expected 
+post-training performance change.
+The third dimension relates to demands on the trainee ’ s memory 
+when executing the learned competence. For example, on-screen input 
+tips in a computer system would limit a trainee ’ s memory requirements; 
+conversely, remembering a detailed matrix of options, recognising 
+which option is situationally appropriate without external prompts, and 
+then executing it, involves higher memory demands. In total, 22 papers 
+dealt with topics where trainees had to recall, recognise, and execute the 
+appropriate skill. For example, Kerfoot et al. (2010) described a medical 
+diagnosis course where trainees had to assess each case and make a 
+decision based on its individual presentation. Similarly, 
+Ad ´anez-Martínez et al. (2022) discussed a telephone consultation course 
+for physicians. The physicians needed to adapt their approach to the 
+specifics of each case using the learned procedure, rather than simply 
+following a script. Three papers described situations where the expected 
+training outcome was solely execution-based, and six papers did not 
+provide sufficient information to assess the memory demands.
+Most of the training discussed in the corpus involved relatively 
+complex tasks: learned skills involving principles or heuristics, changes 
+in approach rather than changes in speed or accuracy, and the 
+requirement for trainees to recall, recognise, and execute based on their 
+analysis of a situation. Table 5 shows an analysis of the learning content.
+3.3. Type of transfer
+To answer RQ2, the type of transfer assessed in each study was 
+recorded according to the binary classifications of the transfer di -
+mensions in Table 3 . Fig. 4 summarises the results.
+In their meta-analysis of transfer research, Blume et al. (2010)
+bemoaned the lack of detail provided by researchers about their oper -
+ationalisation of transfer. It seems that little has changed. Just 6 of the 
+31 papers provided sufficient information to assess all 6 dimensions of 
+transfer. The physical context was unclear in 20 papers, the social 
+context was unclear in 18 papers, the modality was unclear in 8 papers, 
+the temporal context was unclear in 7 papers, and the functional context 
+and knowledge domain transfer were unclear in 3 and 2 papers 
+respectively.
+The frequency of near transfer was highest for the knowledge domain 
+and the functional context, with 29 and 26 studies respectively assessing 
+near transfer on these dimensions. This is to be expected for two reasons. 
+First, the topics of workplace training are generally chosen because they 
+are relevant to the trainees ’ roles, with an expectation that the trained 
+competencies will be used in the workplace. Second, when assessing 
+training effectiveness, the measurement will focus on the use of the 
+training in the expected context.
+The dimension with the highest frequency of far transfer assessment 
+was the temporal context, with 17 studies assessing use of the trained 
+competencies more than 4 weeks after training. The modality, social 
+context, and physical context formed part of the far transfer mix in 15, 7, 
+and 7 studies respectively. These dimensions may be different in e- 
+learning than in face-to-face training. While e-learning involves inter -
+action with an electronic device, implementation of trained compe -
+tencies could be quite different: for example, a child welfare meeting 
+( Kobulsky et al. 2020 ), or interacting with patients and conducting 
+blood transfusions ( Molina-Arrebola et al. 2020 ). The social context can 
+also be different, as many e-learning courses involve individual learning, 
+but applying the trained competencies is often in a group situation (e.g. 
+Atack & Luke, 2008 ; Kirkman et al. 2006 ). Likewise, the physical context 
+can be different, for example if e-learning is done at home but imple -
+mentation is in a hospital (e.g. Atack, 2003 ; Macdonald et al. 2008 ).
+3.4. Transfer measurement
+To answer RQ3, the type of transfer measurement described in each 
+paper was recorded ( Table 6 ) across three categories. First, self-reports 
+where the trainee reported if they had transferred the trained compe -
+tence to the workplace. Second, third-party reports where another per -
+son, usually a supervisor, reported if trainees were using the trained 
+competences. The third category is an objective measurement of 
+transfer.
+People tend to rate themselves differently than others rate them 
+( Harris & Schaubroeck, 1988 ), suggesting that self-reports are an 
+imperfect transfer measurement, particularly where using the trained 
+competence is a socially desirable behaviour ( Podsakoff et al. 2003 ). 
+Third-party reports may provide more objectivity, but without a defined 
+scale there is a risk of inconsistency. An empirical objective measure 
+provides the best assessment of transfer effectiveness.
+Twenty-three of the 31 papers used self-reports for transfer mea -
+surement. Of these, 17 collected information using surveys, and 5 used 
+interviews. One study used both surveys and interviews.
+Of the 17 studies using self-reports, 9 also had third-party reports (6 
+surveys and 3 interviews). The triangulation afforded by combining self- 
+reports with third-party reports enhances the reliability of results 
+( Creswell & Creswell, 2018 ).
+Just seven studies used objective measures of transfer. Each mea -
+surement methodology was unique, ranging from an independent audit 
+of post-training work product ( Rankin et al. 2013 ) to an automated page 
+count of wiki use ( Tessier & Dalkir, 2016 ).
+In evaluating the training results, eight of the studies referred to the 
+4-level model of training outcomes ( Kirkpatrick, 1979 ). Level 1 refers to 
+trainees ’ reactions to the training, Level 2 refers to the amount learned, 
+Level 3 refers to behaviour changes, and Level 4 refers to tangible re -
+sults. Level 3 on this framework represents training transfer, which is the 
+measured outcome in 7 of the 8 papers using this framework. However, 
+Kirkman et al. (2006) went further and measured a Level 4 outcome, 
+improvement in customer satisfaction.
+3.5. Summary
+This review indicates that there is not yet a common theoretical 
+framework for the study of workplace e-learning, although the models 
+developed by Baldwin and Ford (1988) and Holton et al. (1996 , 2000)
+appear more often than other approaches. The learning material 
+addressed in the studies tended towards the more complex end of the 
+scale in terms of learned skills, performance change, and memory de -
+mands, indicating a willingness to use e-learning for complex topics. The 
+Fig. 4. Transfer dimensions (# of papers).
+A. O ’ Neill                                                                                                                                                                                                                                         Social Sciences & Humanities Open 11 (2025) 101407 
+8
+<<<PAGE=9>>>
+review also indicates that the type of transfer being measured is 
+frequently unclear in published studies. Finally, most studies used 
+self-reported transfer rather than an objective measurement.
+4. Discussion
+The variety of research frameworks adopted within the papers in -
+dicates that the field of study has yet to reach maturity. However, e- 
+learning is still a comparatively young field of research, and its wide -
+spread adoption in workplaces is quite recent. It seems likely, therefore, 
+that this topic will receive increased scholarly interest over time.
+The description of transfer was quite limited in most of the corpus, 
+with just 5 of the 31 papers providing enough information to fully 
+classify the transfer using the framework in Table 3 . To some extent this 
+is understandable: the authors were focused on describing their training 
+programs, and their level of success or otherwise in delivering their 
+training objectives. While transfer to the workplace was an objective, 
+transfer was mainly regarded as a single outcome, with nuance and sub- 
+classification not necessary for the objectives of their studies.
+While it was not possible to classify the type of training content in 
+Table 6 
+Type of transfer measurement.
+Paper Self 
+Report
+Type Form 3rd- 
+Party 
+Report
+Type Form Objective 
+Measurement
+Type
+Jordan (2016) Yes Survey 4 Likert scale questions Yes Survey 3 Likert scale questions No N/A
+Macdonald et al. 
+(2008)
+Yes Survey & 
+Interview
+3 Likert scale 
+questions:. Semi- 
+structured focus group 
+interviews
+Yes Interview Semi-structured 
+interviews
+No N/A
+Atack (2003) Yes Interview Focus group interview No N/A N/A No N/A
+Rankin et al. (2013) No N/A N/A No N/A N/A Yes Independent audit of 
+triage charts
+Hinz (2018) No N/A N/A No N/A N/A Yes 10-question multiple 
+choice test
+Hilbig et al. (2013) Yes Interview 10 – 20 min interviews No N/A N/A No N/A
+Molina-Arrebola 
+et al. (2020)
+Yes Survey 6 Likert scale questions Yes Survey 6 Likert scale questions No N/A
+Saleh et al. (2022) Yes Interview Semi-structured 
+interview
+Yes Survey 5 Likert scale questions, 
+3 open questions
+No N/A
+Park and Wentling 
+(2008)
+Yes Survey 13 questions Yes Survey 13 questions No N/A
+Atack and Luke 
+(2008)
+Yes Survey 3 open questions No N/A N/A No N/A
+Tessier and Dalkir 
+(2016)
+No N/A N/A No N/A N/A Yes Automatic page count of 
+wiki use
+Joo et al. (2011) Yes Survey 4 Likert scale questions No N/A N/A No N/A
+Martins et al. (2018) Yes Survey 7 Likert scale questions Yes Survey 7 Likert scale questions No N/A
+Kramer (2007) Yes Survey 18 Likert scale 
+questions, 1 Yes/No 
+question
+No N/A N/A No N/A
+Kerfoot et al. (2010) No N/A N/A No N/A N/A Yes 20 question test
+Sloth et al. (2022) No N/A N/A No N/A N/A Yes Test with scores based on 
+time and/or accuracy
+Ad ´anez-Martínez 
+et al. (2022)
+Yes Survey 8 Likert scale questions No N/A N/A No N/A
+Ronen (2008) Yes Survey 5 Likert scale questions No N/A N/A No N/A
+Navarro Martínez 
+et al. (2022)
+Yes Survey 5 Likert scale questions No N/A N/A No N/A
+Kobulsky et al. 
+(2020)
+Yes Survey 4 Likert scale 
+questions:, 2 Yes/No 
+questions
+No N/A N/A No N/A
+Talanti et al. (2010) Yes Survey Not stated No N/A N/A No N/A
+Kirkman et al. 
+(2006)
+No N/A N/A No N/A N/A Yes Customer satisfaction 
+survey
+Stein et al. (2015) No N/A N/A No N/A N/A Yes Survey of patients re 
+frequency of use of 
+trained competences
+Knott et al. (2024) Yes Interview 15 – 20 min semi- 
+structured interviews
+Yes Survey Survey of trainees about 
+preceptors ’ use of 
+trained competences
+No N/A
+Kow et al. (2024) Yes Survey 14 Likert scale 
+questions
+No N/A N/A No N/A
+Dixit and Sinha 
+(2022)
+Yes Survey Likert scale questions. 
+Number not stated
+Yes Interview Semi-structured 
+interviews
+No N/A
+Thompson et al. 
+(2003)
+Yes Interview Structured interview 
+with open-ended 
+questions
+Yes Interview Structured interviews No N/A
+Dalston (2009) Yes Survey 1 Likert scale question, 
+1 open question
+No N/A N/A No N/A
+Ericson et al. (2024) Yes Survey Not stated No N/A N/A No N/A
+Jang (2024) Yes Survey 11 Likert scale 
+questions
+No N/A N/A Yes Videos demonstrating 
+task completion
+Bertram et al. 
+(2015)
+No N/A N/A Yes Survey & 
+interview
+6 Likert scale questions, 
+Interviews
+No N/A
+A. O ’ Neill                                                                                                                                                                                                                                         Social Sciences & Humanities Open 11 (2025) 101407 
+9
+<<<PAGE=10>>>
+terms of learned skill, performance change, and memory demands for 5 
+the studies, it was clear for the remaining papers that the training was 
+mainly at the more complex end of the scale for all three factors, indi -
+cating an acceptance of e-learning as a training tool that can be used for 
+complex topics in addition to procedural training.
+While the majority of the studies relied on self-reports to assess 
+whether transfer had occurred, leading to a risk of measurement bias, 
+not all researchers regard this as a negative. According to Talanti et al. 
+(2010 , p. 217): “ Although there are many researchers who are against 
+the use of learners ’ self-reports to measure the degree of transfer of 
+training, learners are the most important and valid source as their per -
+ceptions will affect their motivation and performance ” . Nevertheless, 
+using a replicable empirical measurement for transfer will always pro -
+vide a more solid foundation for conclusions, and for scholarly analysis, 
+than basing those conclusions on subjective self-reports.
+5. Limitations and recommendations for future research
+In common with most systematic reviews, this paper has some lim -
+itations that must be mentioned. First, the database search was limited 
+to publications in English. It is possible that relevant publications in 
+other languages were overlooked. Second, the searches were limited to 
+the abstracts of articles and, although the search terms were carefully 
+selected, it is possible that relevant articles did not include these terms in 
+their abstracts resulting in their omission from the results. It is also 
+possible that alternative search terms might have returned different 
+results. Third, while this review analysed near and far transfer, it is 
+possible that using a different aspect, like lateral and vertical transfer or 
+literal and figural transfer, could have provided additional insights.
+Compiling this literature review raised some questions that could be 
+addressed in future studies. First, although the papers discussed the 
+transfer of workplace e-learning, there is little discussion of the factors 
+that promote the transfer of workplace e-learning, and how they might 
+differ from the factors that promote the transfer of traditional learning. 
+More research on this topic might lead to improvements in the design 
+and delivery of workplace e-learning. Second, as the review revealed 
+that a majority of the studies were conducted in highly regulated in -
+dustries, future researchers might examine which industries are most 
+likely to use e-learning, and for what specific purposes. Third, future 
+researchers might consider including detail about the training content 
+and the transfer context in their published results to allow for detailed 
+cross-study analysis. Finally, the papers indicated that there is not yet a 
+widely used theoretical framework for the topic. There has been some 
+progress in this respect. For example, Park and Wentling (2008) and 
+Shukla et al. (2023) have proposed theoretical frameworks including 
+factors specific to e-learning including computer attitudes, learning 
+design, and usability of the training material. Future research should 
+aim to further develop this framework and develop a model for transfer 
+of e-learning that can be empirically tested.
+6. Conclusion
+The reporting of studies relating to the transfer of workplace e- 
+learning has not yet reached the level of maturity where researchers 
+have a common understanding of what information should be included 
+in papers to facilitate systematic reviews and meta-analyses. Further -
+more, it seems that common research frameworks deal with transfer in a 
+general sense, and do not focus on the specifics of e-learning. Gegen -
+furtner et al. (2014 , p. 1110) noted that: “ This gap of theory frameworks 
+is unfortunate because it deemphasizes the momentum of 
+computer-supported training in organizations and companies world -
+wide ” . As the use of workplace e-learning continues to grow, we need to 
+develop a strong theoretical framework for the transfer of workplace 
+e-learning that will, in turn, lead to practical improvements in the 
+development and implementation of future training.
+Funding
+Publication costs supported by Irish Research eLibrary
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+References
+Studies included in the review are marked with an asterisk
+* Ad ´anez-Martínez, M. G., Jim ´enez-Ruiz, I., Carrillo-García, C., Díaz-Agea, J. L., 
+Ramos-Morcillo, A. J., Molina-Rodríguez, A., Ruzafa-Martínez, M., & Leal-Costa, C. 
+(2022). Telephone-based structured communication simulation program for the 
+follow-up of COVID-19 cases and contacts in primary care. International Journal of 
+Environmental Research and Public Health, 19 (7). https://doi. 
+org/10.3390/ijerph19073915 .
+Anderson, J. R., & Singley, M. K. (1993). The identical elements theory of transfer. In 
+J. R. Anderson, & F. S. Bellezza (Eds.), Rules of the mind (pp. 183 – 204). Hillsdale, N. 
+J.: Erlbaum . 
+Arif, S. M., & Ahmad Tarmizi, M. F. (2023). Digitalisation: The effectiveness of e-learning 
+in capital market education. Institutions and Economies, 15 (3), 105 – 128. https://doi. 
+org/10.22452/IJIE.vol15no3.5 . available:.
+* Atack, L. (2003). Becoming a web-based learner: Registered nurses ’ experiences. 
+Journal of Advanced Nursing, 44 (3), 289 – 297. https://doi. 
+org/10.1046/j.1365-2648.2003.02804.x . available:.
+* Atack, L., & Luke, R. (2008). Impact of an online course on infection control and 
+prevention competencies. Journal of Advanced Nursing, 63 (2), 175 – 180. https://doi. 
+org/10.1111/j.1365-2648.2008.04660.x .
+Baldwin, T. T., & Ford, J. K. (1988). Transfer of training: A review and directions for 
+future research. Personnel Psychology, 41 (1), 63 – 105. https://doi.org/10.1111/ 
+j.1744-6570.1988.tb00632.x
+Baldwin-Evans, K. (2004). Employees and e-learning: What do the end-users think? 
+Industrial & Commercial Training, 36 (7), 269 – 274. https://doi.org/10.1108/ 
+00197850410563894
+Barnett, S. M., & Ceci, S. J. (2002). When and where do we apply what we learn? A 
+taxonomy for far transfer. Psychological Bulletin, 128 (4), 612 – 637. https://doi.org/ 
+10.1037/0033-2909.128.4.612
+* Bertram, J., Moskaliuk, J., & Cress, U. (2015). Virtual training: Making reality work?. 
+Computers in Human Behavior, 43 , 284 – 292. https://doi.org/10.1016/j. 
+chb.2014.10.032 .
+Blume, B. D., Ford, J. K., Baldwin, T. T., & Huang, J. L. (2010). Transfer of training: A 
+meta-analytic review. Journal of Management, 36 (4), 1065 – 1105. https://doi.org/ 
+10.1177/0149206309352880
+Blume, B. D., Kevin Ford, J., Surface, E. A., & Olenick, J. (2019). A dynamic model of 
+training transfer. Human Resource Management Review, Advancing Training for the 21st 
+Century, 29 (2), 270 – 283. https://doi.org/10.1016/j.hrmr.2017.11.004 . available:.
+Burk, E., Pegues, J., & Taylor, C. (2015). Pivotal organizational success factors in a 
+cyberspace classroom. Knowledge Management: An International Journal, 15 (3), 
+15 – 23. https://doi.org/10.18848/2327-7998/CGP/v15i03/50835
+Carter, L. M., Salyers, V., Myers, S., Hipfner, C., Hoffart, C., MacLean, C., White, K., 
+Matus, T., Forssman, V., & Barrett, P. (2014). Qualitative insights from a Canadian 
+multi-institutional research study: In search of meaningful e-learning. Canadian 
+Journal for the Scholarship of Teaching & Learning, 5 (1), 1 – 17 .
+Cervero, R. M. (1985). Continuing professional education and behavioral change: A 
+model for research and evaluation. The Journal of Continuing Education in Nursing, 16 
+(3), 85 – 88. https://doi.org/10.3928/0022-0124-19850501-05
+Chen, E. (2008). Successful e-learning in corporations. Communications of the IIMA, 8 (2). 
+https://doi.org/10.58729/1941-6687.1080
+Clark, R. C., & Mayer, R. E. (2016). E-learning and the science of instruction: Proven 
+guidelines for consumers and designers of multimedia learning (4th ed.). Hoboken: 
+Wiley . 
+Creswell, J. W., & Creswell, J. D. (2018). Research design: Qualitative, quantitative, and 
+mixed methods approaches (5th ed.). Los Angeles London New Delhi Singapore 
+Washington DC Melbourne: SAGE . 
+* Dalston, T. (2009). Evaluating E-training for public library staff: A quasi-experimental 
+investigation. unpublished thesis (PhD), University of North Texas, available: https 
+://digital.library.unt.edu/ark:/67531/metadc12113/m2/1/high_res_d/dissertation. 
+pdf . (Accessed 10 November 2024).
+Detterman, D. K. (1993). The case for the prosecution: Transfer as an epiphenomenon. In 
+D. K. Detterman, & R. J. Sternberg (Eds.), Transfer on trial: Intelligence, cognition, and 
+instruction (pp. 1 – 24). Westport, CT, USA: Ablex Publishing . 
+* Dixit, R., & Sinha, V. (2022). Leveraging virtual learning to facilitate training transfer 
+in VUCA times: A case study. International Journal of Virtual and Personal Learning 
+Environments, 12 (1), 1 – 19. https://doi.org/10.4018/IJVPLE.295301 . available:.
+Eidson, L. A. K. (1999). Barriers to E-learning job training: Government employee Experiences 
+in an online wilderness management course, unpublished thesis (MSc) . University of 
+Montana. available: https://scholarworks.umt.edu/cgi/viewcontent.cgi?article 
+= 1105 & context = etd . (Accessed 10 June 2024).
+A. O ’ Neill                                                                                                                                                                                                                                         Social Sciences & Humanities Open 11 (2025) 101407 
+10
+<<<PAGE=11>>>
+Emurian, H. H. (2006). A web-based tutor for java: Evidence of meaningful learning. 
+International Journal of Distance Education Technologies, 4 (2), 10 – 30. https://doi.org/ 
+10.4018/jdet.2006040102
+Eraut, M. (2004). Informal learning in the workplace. Studies in Continuing Education, 26 
+(2), 247 – 273. https://doi.org/10.1080/158037042000225245
+* Ericson, Ø . B., Eide, D., Brendryen, H., Lobmaier, P., & Clausen, T. (2024). Scaling up! 
+Staff e-learning for a national take-home naloxone program. Frontiers in Digital 
+Health , 1 – 8. https://doi.org/10.3389/fdgth.2024.1404646 .
+Ford, J. K., Baldwin, T. T., & Prasad, J. (2018). Transfer of training: The known and the 
+unknown. Annual Review of Organizational Psychology and Organizational Behavior, 5 
+(1), 201 – 225. https://doi.org/10.1146/annurev-orgpsych-032117-104443
+Fuller, A., & Unwin, L. (2004). Expansive learning environments: Integrating 
+organizational and personal development. In H. Rainbird, A. Fuller, & A. Munro 
+(Eds.), Workplace learning in context (pp. 126 – 144). London ; New York: Routledge . 
+Gagn ´e, R. M. (1965). The conditions of learning (1st ed.). New York: Holt, Rinehart & 
+Winston . 
+Gegenfurtner, A., Quesada-Pallar `es, C., & Knogler, M. (2014). Digital simulation-based 
+training: A meta-analysis. British Journal of Educational Technology, 45 (6), 
+1097 – 1114. https://doi.org/10.1111/bjet.12188
+Hamburg, I., Engert, S., & Petschenka, A. (2007). Communities of practice and Web 2.0 
+to support learning in SMEs. In 6th Romanian educational network (RoEduNet) 
+international conference (pp. 152 – 155). https://www.uni-due.de/imperia/md/conte 
+nt/e-competence/roedu_hamburgengertpetschenka.pdf .
+Harris, M. M., & Schaubroeck, J. (1988). A meta-analysis of self-supervisor, self-peer, and 
+peer-supervisor ratings. Personnel Psychology, 41 (1), 43 – 62. https://doi.org/ 
+10.1111/j.1744-6570.1988.tb00631.x
+Haskell, R. E. (2001). Transfer of learning: Cognition, instruction, and reasoning. In 
+Educational psychology series . San Diego, Calif: Academic Press . 
+* Hilbig, A., Proske, A., Damnik, G., Faselt, F., & K ¨orndle, H. (2013). Designing 
+workplace learning and knowledge exchange: A postgraduate training program for 
+professionals in sme. In Proceedings of the 5th international Conference on computer 
+supported education, presented at CSEDU 2013 (pp. 635 – 638). Aachen, Germany: 
+SciTePress - Science and and Technology Publications. https://doi. 
+org/10.5220/0004345706350638 . available:.
+* Hinz, A. (2018). Corporate HIPAA E-learning effectiveness: Measuring knowledge transfer 
+to adhere to federal guidelines . Edgewood College. unpublished thesis (Ed.D. .
+Hochholdinger, S., & Schaper, N. (2008). Die bedeutung von lernkultur und 
+transfermotivation für betrieblichen e-learning-erfolg. Zeitschrift für 
+Personalpsychologie, 7 (2), 81 – 89. https://doi.org/10.1026/1617-6391.7.2.81
+Hoffman, D. L., & Novak, T. P. (1996). Marketing in hypermedia computer-mediated 
+environments: Conceptual foundations. Journal of Marketing, 60 (3), 50. https://doi. 
+org/10.1177/002224299606000304
+Holton, E. F. I. (1996). The flawed four-level evaluation model. Human Resource 
+Development Quarterly, 7 (1), 5 – 21. https://doi.org/10.1002/hrdq.3920070103
+Holton, E. F. I., Bates, R. A., & Ruona, W. E. A. (2000). Development of a generalized 
+learning transfer system inventory. Human Resource Development Quarterly, 11 (4), 
+333 – 360. https://doi.org/10.1002/1532-1096(200024)11:4 < 333::AID- 
+HRDQ2 > 3.0.CO , 2-P.
+Illeris, K. (2011). Workplaces and learning. In M. Malloch, L. Cairns, K. Evans, & 
+B. N. O ’ Connor (Eds.), The sage handbook of workplace learning (pp. 32 – 45). London: 
+SAGE . 
+* Jang, E. (2024). Transfer E-booster: An online Intervention to Reinforce and measure 
+training Transfer in the workplace, unpublished thesis (PhD) . University of Hawai ’ i 
+https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/857360db-4c 
+7b-49de-968d-fe18edc258c4/content . (Accessed 10 November 2024).
+* Joo, Y. J., Lim, K. Y., & Park, S. Y. (2011). Investigating the structural relationships 
+among organisational support, learning flow, learners ’ satisfaction and learning 
+transfer in corporate e-learning. British Journal of Educational Technology, 42 (6), 
+973 – 984. https://doi.org/10.1111/j.1467-8535.2010.01116.x .
+* Jordan, C. L. (2016). An archival research comparing learning effectiveness and training 
+transfer perceptions between classroom technical training and synchronous online 
+technical training . Capella University, ProQuest Dissertations and Theses. 
+unpublished thesis (Ph.D.) https://www.proquest.com/docview/1807416549/abstr 
+act/B72B5A3EBFD94E8CPQ/1 . (Accessed 23 January 2024).
+* Kerfoot, P. B., Fu, Y., Baker, H., Connelly, D., Ritchey, M. L., & Genega, E. M. (2010). 
+Online spaced education generates transfer and improves long-term retention of 
+diagnostic skills: A randomized controlled trial. Journal of the American College of 
+Surgeons, 211 (3), 331 – 337e1. https://doi.org/10.1016/j.jamcollsurg.2010.04.023 .
+* Kirkman, B. L., Rosen, B., Tesluk, P. E., & Gibson, C. B. (2006). Enhancing the transfer 
+of computer-assisted training proficiency in geographically distributed teams. 
+Journal of Applied Psychology, 91 (3), 706 – 716. https://doi. 
+org/10.1037/0021-9010.91.3.706 .
+Kirkpatrick, D. L. (1979). Techniques for evaluating training programs. Training & 
+Development Journal, 33 , 78 – 92 .
+* Knott, G. J., Mylrea, M. F., & Glass, B. D. (2024). Pharmacist and student evaluation of 
+a preceptor training program in a regional Australian university: A multi-method 
+study. BMC Medical Education, 24 (1), 49. https://doi. 
+org/10.1186/s12909-023-04979-7 .
+* Kobulsky, J. M., Goering, E. S., Lee, B. R., Gray, C., Moon, C., Bright, C. L., & Goodwin, 
+B. (2020). Virtual coaching for child welfare workers – a tool to promote learning. 
+Journal of Public Child Welfare, 14 (4), 458 – 476. https://doi. 
+org/10.1080/15548732.2019.1628867 .
+* Kow, F. F., Chong, M. C., Lai, L. L., Lee, W. L., Chua, W. L., & Liaw, S. Y. (2024). 
+Developing hospital nurses ’ clinical reasoning abilities in assessing and managing 
+clinical deterioration using a virtual patient simulation: A quasi-experimental study. 
+Clinical Simulation in Nursing, 87 , Article 101489. https://doi.org/10.1016/j. 
+ecns.2023.101489 .
+* Kramer, H. (2007). Measuring the Effect of E-Learning on job performance, unpublished 
+thesis (PhD) . Nova Southeastern University https://nsuworks.nova.edu/cgi/viewco 
+ntent.cgi?article = 1647 & context = gscis_etd/ . (Accessed 9 October 2023).
+Lemaire, E. D., & Greene, G. (2002). Continuing education in physical rehabilitation 
+using internet-based modules. Journal of Telemedicine and Telecare, 8 (1), 19 – 24. 
+https://doi.org/10.1258/1357633021937415
+Lewis, P., & Thornhill, A. (1994). The evaluation of training: An organizational culture 
+approach. Journal of European Industrial Training, 18 (8), 25 – 32. https://doi.org/ 
+10.1108/03090599410068042
+Lin, Y.-H., & Chang, L. (2022). An online transfer learning framework for time-varying 
+distribution data prediction. IEEE Transactions on Industrial Electronics, 69 (6), 
+6278 – 6287. https://doi.org/10.1109/TIE.2021.3090701
+Long, L. K., & Smith, R. D. (2004). The role of web-based distance learning in HR 
+development. The Journal of Management Development, 23 (3), 270 – 284. https://doi. 
+org/10.1108/02621710410524122
+* Macdonald, C. J., Stodel, E. J., & Chambers, L. W. (2008). An online interprofessional 
+learning resource for physicians, pharmacists, nurse practitioners, and nurses in 
+long-term care: Benefits, barriers, and lessons learned. Informatics for Health and 
+Social Care, 33 (1), 21 – 38. https://doi.org/10.1080/14639230801886824 .
+* Martins, L. B., Zerbini, T., & Medina, F. J. (2018). Learning strategies scale: Adaptation 
+to Portuguese and factor structure. Psicologia: Reflex ˜ao e Crítica, 31 (1), 1. https://doi. 
+org/10.1186/s41155-018-0092-1 .
+Melby-Lervåg, M., Redick, T. S., & Hulme, C. (2016). Working memory training does not 
+improve performance on measures of intelligence or other measures of “ far transfer ” : 
+Evidence from a meta-analytic review. Perspectives on Psychological Science, 11 (4), 
+512 – 534. https://doi.org/10.1177/174569161663561
+* Molina-Arrebola, M.-A., Fern ´andez-Guerrero, E., Aguirre-Ortega, F.-J., & 
+Avivar-Oyonarte, C. (2020). Digital resources for transfusion education. Journal of 
+Education and Health Promotion, 9 (1), 173. https://doi.org/10.4103/jehp. 
+jehp_81_20 .
+Mosing, M. A., Madison, G., Pedersen, N. L., & Ull ´en, F. (2016). Investigating cognitive 
+transfer within the framework of music practice: Genetic pleiotropy rather than 
+causality. Developmental Science, 19 (3), 504 – 512. https://doi.org/10.1111/ 
+desc.12306
+* Navarro Martínez, O., Igual García, J., & Traver Salcedo, V. (2022). Transferring 
+healthcare professional ’ s digital competencies to the workplace and patients: A pilot 
+study. International Journal of Environmental Research and Public Health, 19 (20). 
+https://doi.org/10.3390/ijerph192013187 .
+Nonaka, I., & Takeuchi, H. (1995). The knowledge creating company: How Japanese 
+companies create the dynamics of innovation . New York: Oxford University Press . 
+O ’ Neill, A. (2024). Was Humpty Dumpty right?: Towards a functional definition of e- 
+learning. Education and Information Technologies, 29 (2), 2093 – 2115. https://doi.org/ 
+10.1007/s10639-023-11900-8
+Overton, L. (2023). Learning at work 2023, survey report . London: Chartered Institute of 
+Personnel and Development. https://www.cipd.org/globalassets/media/knowled 
+ge/knowledge-hub/reports/2023-pdfs/2023-learning-at-work-survey-report-8378. 
+pdf . (Accessed 25 March 2024). 
+Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., 
+Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., 
+Grimshaw, J. M., Hr ´objartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., 
+McDonald, S., … Moher, D. (2021). The PRISMA 2020 statement: An updated 
+guideline for reporting systematic reviews. BMJ , (372), Article n71. https://doi.org/ 
+10.1136/bmj.n71 . available:.
+* Park, J.-H., & Wentling, T. (2008). Factors associated with transfer of training in 
+workplace e-learning. The Journal of Workplace E-Learning, 19 (5), 19 .
+Perkins, D. N., & Salomon, G. (1988). Teaching for transfer. Educational Leadership, 46 (1), 
+22 .
+Podsakoff, P. M., MacKenzie, S. B., Lee, J.-Y., & Podsakoff, N. P. (2003). Common method 
+biases in behavioral research: A critical review of the literature and recommended 
+remedies. Journal of Applied Psychology, 88 (5), 879. https://doi.org/10.1037/0021- 
+9010.88.5.879
+* Rankin, J. A., Then, K. L., & Atack, L. (2013). Can emergency nurses ’ triage skills be 
+improved by online learning? Results of an experiment. Journal of Emergency Nursing, 
+39 (1), 20 – 26. https://doi.org/10.1016/j.jen.2011.07.004 .
+Resnick, L. B. (1987). The 1987 presidential address: Learning in school and out. 
+Educational Researcher, 16 (9), 13 – 54. https://doi.org/10.3102/ 
+0013189X016009013
+Ritchie, S. J., Bates, T. C., & Deary, I. J. (2015). Is education associated with 
+improvements in general cognitive ability, or in specific skills? Developmental 
+Psychology, 51 (5), 573 – 582. https://doi.org/10.1037/a0038981
+* Ronen, E. (2008). Transfer of E-learning in the workplace: The effects of trainee 
+characteristics and contextual factors. In Illinois institute of technology, ProQuest 
+dissertations and theses . unpublished thesis (Ph.D.) https://www.proquest.com/do 
+cview/304606617/abstract/E244FF31486341D0PQ/1 . (Accessed 8 October 2023).
+Royer, J. M. (1979). Theories of the transfer of learning. Educational Psychologist, 14 (1), 
+53 – 69. https://doi.org/10.1080/00461527909529207
+Sala, G., Aksayli, N. D., Tatlidil, K. S., Tatsumi, T., Gondo, Y., & Gobet, F. (2019). Near 
+and far transfer in cognitive training: A second-order meta-analysis. Collabra: 
+Psychology, 5 (1), 18. https://doi.org/10.1525/collabra.203
+Sala, G., & Gobet, F. (2017). Does far transfer exist? Negative evidence from chess, music, 
+and working memory training. Current Directions in Psychological Science, 26 (6), 
+515 – 520. https://doi.org/10.1177/0963721417712760
+* Saleh, S., Brome, D., Mansour, R., Daou, T., Chamas, A., & Naal, H. (2022). Evaluating 
+an e-learning program to strengthen the capacity of humanitarian workers in the 
+A. O ’ Neill                                                                                                                                                                                                                                         Social Sciences & Humanities Open 11 (2025) 101407 
+11
+<<<PAGE=12>>>
+MENA region: The humanitarian leadership diploma. Conflict and Health, 16 (1), 
+1 – 24. https://doi.org/10.1186/s13031-022-00460-2 .
+Shukla, A., Dash, S., & Kumar, A. (2023). Factors affecting transfer of online training: A 
+systematic literature review and proposed taxonomy. Human Resource Development 
+Quarterly . https://doi.org/10.1002/hrdq.21518 . hrdq.21518, available:.
+* Sloth, S. B., Jensen, R. D., Seyer-Hansen, M., Christensen, M. K., & De Win, G. (2022). 
+Remote training in laparoscopy: A randomized trial comparing home-based 
+self-regulated training to centralized instructor-regulated training. Surgical 
+Endoscopy, 36 (2), 1444 – 1455. https://doi.org/10.1007/s00464-021-08429-7 . 
+available:.
+* Stein, B. D., Celedonia, K. L., Swartz, H. A., DeRosier, M. E., Sorbero, M. J., Brindley, 
+R. A., Burns, R. M., Dick, A. W., & Frank, E. (2015). Implementing a web-based 
+intervention to train community clinicians in an evidence-based psychotherapy: A 
+pilot study. Psychiatric Services, 66 (9), 988 – 991. https://doi.org/10.1176/appi. 
+ps.201400318 .
+Strother, J. B. (2002). An assessment of the effectiveness of e-learning in corporate 
+training programs. International Review of Research in Open and Distance Learning, 3 
+(1). https://doi.org/10.19173/irrodl.v3i1.83
+Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive 
+Science, 12 (2), 257 – 285. https://doi.org/10.1207/s15516709cog1202_4
+* Talanti, I., Poulymenakou, A., & Paraskeva, F. (2010). Workplace e-learning: Exploring 
+factors affecting perceived transfer of training. In PCI 2010, presented at the 2010 
+14th panhellenic conference on informatics (pp. 214 – 217). Tripoli, Greece: IEEE. 
+https://doi.org/10.1109/PCI.2010.40 .
+* Tessier, D., & Dalkir, K. (2016). Implementing Moodle for e-learning for a successful 
+knowledge management strategy. Knowledge Management & E-Learning, 8 (3), 
+414 – 429. https://doi.org/10.34105/j.kmel.2016.08.026 . available:.
+* Thompson, D. E., Brooks, K., & Liz ´arraga, E. S. (2003). Perceived transfer of learning: 
+From the distance education classroom to the workplace. Assessment & Evaluation in 
+Higher Education, 28 (5), 539 – 547. https://doi.org/10.1080/02602930301680 .
+Thorndike, E. L., & Woodworth, R. S. (1901). The influence of improvement in one 
+mental function upon the efficiency of other functions. Psychological Review, 8 (3), 
+247 – 261. https://doi.org/10.1037/h0074898
+Warner, M. C. (2019). The corporate adult learner: A study of the effectiveness of 
+asynchronous learning in a corporate workspace . Northeastern University. unpublished 
+thesis (PhD) https://repository.library.northeastern.edu/files/neu:m044f0676/full 
+text.pdf . (Accessed 1 February 2024).
+Yelon, S. L., & Ford, J. K. (1999). Pursuing a multidimensional view of transfer. 
+Performance Improvement Quarterly, 12 (3), 58 – 78. https://doi.org/10.1111/j.1937- 
+8327.1999.tb00138.x
+Zeiger, R. F. (2005). Toward continuous medical education. Journal of General Internal 
+Medicine, 20 (1), 91 – 94. https://doi.org/10.1111/j.1525-1497.2004.30049.x
+A. O ’ Neill                                                                                                                                                                                                                                         Social Sciences & Humanities Open 11 (2025) 101407 
+12

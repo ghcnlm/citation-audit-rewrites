@@ -1,0 +1,1545 @@
+<<<PAGE=1>>>
+TYPE Systematic Review
+PUBLISHED /zero.tnum/two.tnum June /two.tnum/zero.tnum/two.tnum/three.tnum
+DOI /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+OPEN ACCESS
+EDITED BY
+Rajashi Ghosh,
+Drexel University, United States
+REVIEWED BY
+José Augusto Felício,
+Independent Researcher, Lisbon, Portugal
+Thomas Garavan,
+University College Cork, Ireland
+*CORRESPONDENCE
+Andreea Nicolau
+andreea.c.simion@student.uaic.ro
+RECEIVED /zero.tnum/four.tnum November /two.tnum/zero.tnum/two.tnum/two.tnum
+ACCEPTED /zero.tnum/nine.tnum May /two.tnum/zero.tnum/two.tnum/three.tnum
+PUBLISHED /zero.tnum/two.tnum June /two.tnum/zero.tnum/two.tnum/three.tnum
+CITATION
+Nicolau A, Candel OS, Constantin T and
+Kleingeld A (/two.tnum/zero.tnum/two.tnum/three.tnum) The eﬀects of executive
+coaching on behaviors, attitudes, and personal
+characteristics: a meta-analysis of randomized
+control trial studies.
+Front. Psychol./one.tnum/four.tnum:/one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum.
+doi: /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+COPYRIGHT
+© /two.tnum/zero.tnum/two.tnum/three.tnum Nicolau, Candel, Constantin and
+Kleingeld. This is an open-access article
+distributed under the terms of the
+Creative
+Commons Attribution License (CC BY) . The use,
+distribution or reproduction in other forums is
+permitted, provided the original author(s) and
+the copyright owner(s) are credited and that
+the original publication in this journal is cited, in
+accordance with accepted academic practice.
+No use, distribution or reproduction is
+permitted which does not comply with these
+terms.
+The eﬀects of executive coaching
+on behaviors, attitudes, and
+personal characteristics: a
+meta-analysis of randomized
+control trial studies
+Andreea Nicolau/one.tnum*, Octav Sorin Candel /one.tnum, Ticu Constantin /one.tnumand
+Ad Kleingeld /two.tnum
+/one.tnumFaculty of Psychology and Education Sciences, Alexandru Ioan Cuz a University, Ia¸ si, Romania,
+/two.tnumDepartment of Industrial Engineering and Innovation Sciences , Eindhoven University of Technology,
+Eindhoven, Netherlands
+Background: A growing number of studies emphasize executive coaching as an
+eﬀective developmental tool that managers can use to increase th eir performance
+in organizational settings. However, the coaching research sugg ests a large
+variety of processes and outcomes, lacking clarity on the primary psychological
+dimensions most impacted.
+Method: Reviewing /two.tnum/zero.tnum studies with a rigorous methodological design that used
+control trials and pre-post tests, we evaluated and compared the r elative eﬀects
+of coaching on diﬀerent types and sub-types of outcomes by means o f a
+classiﬁcation of coaching outcomes based on previously used taxon omies.
+Results: The results indicate that the impact of coaching on behavioral
+outcomes was higher compared to attitudes and person characteristi cs outcomes,
+suggesting that behavioral coaching outcomes, especially cogni tive behavioral
+activities, are the most impacted by executive coaching. Moreover , we found
+signiﬁcant positive eﬀects for some speciﬁc outcomes, such as self -eﬃcacy,
+psychological capital, and resilience, indicating that executiv e coaching is eﬀective
+in producing change even on dimensions considered relatively s table over time.
+The results show no moderation eﬀects of the number of session s. The length
+of the coaching program was a signiﬁcant moderator only for the at titudes
+outcomes.
+Discussion: These ﬁndings provide evidence that executive coaching is a
+powerful instrument for organizations to support positive ch ange and personal
+development.
+KEYWORDS
+executive coaching, coaching outcomes, coaching eﬀective ness, organizational
+performance, meta-analysis
+Introduction
+Rapid changes in and the uncertainty of the economic, political, technological, and social
+environment require leaders to develop human capital and the capacity to respond to these
+challenges and achieve strategic organizational goals (
+Kim et al., 2014 ). This complex context
+increases the demands and expectations on leadership development to cultivate leaders
+who can maintain and create optimal conditions for employees and long-term outcomes.
+Executive coaching is now considered one of the primary methodologies for supporting
+leaders’ development (
+MacKie, 2014). Executive coaching concerns the supported changes in
+individuals with managerial authority and responsibility in an organization to enhance their
+professional performance and personal aspirations (
+Kilburg, 1996 ). Organizations widely
+Frontiers in Psychology /zero.tnum/one.tnum frontiersin.org
+<<<PAGE=2>>>
+Nicolau et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+use coaching to create cultural and wellbeing change ( O’Connor
+and Cavanagh, 2013 ). It enables long-term solutions by developing
+new habits, attitudes, and work practices through a systemic
+approach (
+Ballesteros-Sánchez et al., 2019 ). Its increased popularity
+has led to signiﬁcant ﬁnancial investment and over 71,000 coach
+practitioners worldwide (
+ICF, 2020).
+Despite the high demand for executive coaching and the
+increased interest from scholars, there is signiﬁcant debate
+about what outcomes can be achieved and where coaching
+resources should be targeted (
+MacKie, 2014 ). Executive coaching
+outcomes for an individual or organization can be manifold
+because they diﬀer depending on the client’s goal and the social
+context (
+Athanasopoulou and Dopson, 2018 ). Thus, how executive
+coaching outcomes are deﬁned and classiﬁed varies from one study
+to another, making it diﬃcult to assess what is most impacted.
+One of the main limitations of the past research in evaluating
+coaching eﬀectiveness centers on choosing from various outcomes
+and their beneﬁts (
+Leonard-Cross, 2010 ; Graßmann et al., 2020 ).
+Therefore, previous meta-analyses pointed out the lack of a clear
+conceptual framework for categorizing coaching outcomes and the
+importance of having one (
+Theeboom et al., 2014 ). Although some
+criteria for classifying coaching outcomes have been proposed and
+analyzed in previous meta-analyses, they only have been deﬁned
+based on the criteria measured and applicable to the included
+studies.
+Grant (2010), Theeboom et al. (2014) suggested that
+a robust framework incorporating theoretical perspectives from
+several sub-disciplines of psychology could enrich the coaching
+literature and beneﬁt practitioners in improving the coaching
+intervention. We believe that consistency in the deﬁnition and use
+of outcome measures is paramount to obtaining robust insights
+into the eﬀectiveness of executive coaching. Therefore, we used a
+systematic framework for coaching outcome classiﬁcation based on
+existing typologies in applied psychology research to address the
+past literature limitations and help evaluate the relative strength of
+executive coaching on diﬀerent sub-types of outcomes.
+Apart from the diﬃculty in structuring the outcomes, another
+challenge for consensus on evaluating the eﬀectiveness of executive
+coaching is the appropriate research designs (
+De Meuse et al., 2009 ;
+Theeboom et al., 2014 ; Sonesh et al., 2015 ; Jones et al., 2016 ).
+Most studies on executive coaching investigated the eﬀectiveness
+of coaching by utilizing a within-subject research design (
+Jones
+et al., 2016 ). In within-subjects designs, the eﬀect sizes represent the
+diﬀerences between measurements before and after the coaching,
+with time variation between measurements depending on the
+number of coaching sessions. An alternative design is a between-
+subjects design where eﬀect sizes represent the diﬀerences between
+the control and the experimental (i.e., coaching) groups (
+Neal et al.,
+2006; Orvis et al., 2009 ). The previous meta-analyses of executive
+coaching eﬀectiveness ( Theeboom et al., 2014 ; Sonesh et al., 2015 ;
+Jones et al., 2016 ) were based on study selections that include
+various research designs, such as randomized control trials (RCT)
+but also quasi-experimental designs that may have overestimated
+the eﬀect sizes.
+Theeboom et al. (2014) reported that the studies
+using a within-subject design show larger eﬀect sizes than those
+using an independent-group design, implying that the study design
+considerably inﬂuences the relationship between the coaching
+intervention and the reported outcomes. These conclusions were
+supported by the ﬁndings of a recent meta-analysis using only
+randomized control trials (
+Burt and Talati, 2017 ). Their analysis
+yielded notably lower overall weighted eﬀect sizes for all coaching
+outcomes in the small to medium range, compared with a medium
+to large eﬀect size (
+Theeboom et al., 2014 ) and a very large eﬀect
+size ( De Meuse et al., 2009 ), which was attributed to the diﬀerence
+in methodologies. To our knowledge, just one meta-analysis on
+executive coaching used only RCT (11 studies;
+Burt and Talati,
+2017). However, several RCT studies on executive coaching have
+been published since its publication. Therefore, we believe that
+there is a need for a new meta-analytic study, including exclusively
+RCT studies on executive coaching, where eﬀects are always
+established compared to a control group in the same circumstances,
+and source and selection biases are substantially reduced. Thus, to
+assess the eﬀectiveness of executive coaching, we have included 20
+RCT studies in the current meta-analysis, with only four of these
+included in the most recent published meta-analysis (
+Burt and
+Talati, 2017).
+Executive coaching is a supportive relationship with clearly
+deﬁned individual anticipated outcomes. However, there are
+questions about how many sessions are needed or how long a
+coaching program should take. As this study will show, a meta-
+analysis could investigate and provide evidence on how important
+these aspects are for the perceived coaching eﬀectiveness on
+diﬀerent types of outcomes.
+Thus, the present study aims to evaluate executive coaching
+eﬀectiveness and assess the relative strength of coaching on
+diﬀerent types of outcomes by reviewing and analyzing almost
+20 years (2006–2023) of published research using the most
+rigorous research design. Such analyses allow us to inform the
+coaching buyers’ decisions and allow important discussion of
+coaching eﬀectiveness regarding what is most impacted to facilitate
+more tailor-made and customized individual and organizational
+development in the current world context (
+LeBlanc, 2018 ). To
+our knowledge, our study is the ﬁrst meta-analysis of the relative
+strength of coaching among diﬀerent types of outcomes. The
+present article diﬀers from previous meta-analyses in that our focus
+is on including only RCT studies and comparing diﬀerent types of
+coaching outcomes to understand the most impacted ones rather
+than including studies using diﬀerent research designs and merely
+assessing the overall eﬀect of coaching eﬀectiveness. Our meta-
+analysis of RCT studies aims to (a) provide a way to structure
+and analyze the coaching outcomes, (b) examine the eﬀects of
+executive coaching on the overall outcomes studied and compare
+its relative strengths on diﬀerent types of coaching outcomes and
+(c) analyze possible conditions for coaching eﬀectiveness. Our hope
+is that our results contribute to improving the way of structuring
+and analyzing the coaching outcomes and the decisions on how to
+allocate coaching resources and support.
+Theoretical framework
+Deﬁning executive coaching
+Executive coaching—also referred to as business coaching,
+leadership coaching, or workplace coaching—is an individualized
+learning and development intervention to help leaders improve
+Frontiers in Psychology /zero.tnum/two.tnum frontiersin.org
+<<<PAGE=3>>>
+Nicolau et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+their capabilities, enhance their eﬀectiveness and maximize
+their personal and professional potential in their organizations
+(
+Richardson, 2010; Jones et al., 2016 ; Williams and Lowman, 2018 ).
+Executive coaching is considered a new discipline aimed
+at enhancing leaders’ growth and development ( Finn, 2007 ;
+Moen and Skaalvik, 2009 ). In organizational settings, executive
+coaching is a means for executives to increase knowledge, improve
+competencies, and enhance eﬀective leadership behavior favoring
+the company (
+Elliott, 2011 ; Moen and Federici, 2012 ). It has been
+suggested that executive coaching developed exponentially in the
+1980’s. One of the reasons was the volatile economic context, which
+required leadership development and outplacement, among other
+needs (
+Richardson, 2010).
+Kilburg (1996) and Grant et al. (2009) deﬁned executive
+coaching as a helping, collaborative relationship between a client
+who has managerial authority and responsibility in an organization
+and a professional coach, which focuses on setting mutually deﬁned
+goals and actions with the aim of improving their professional
+performance and personal aspirations, and, consequently, the
+eﬀectiveness of the organization. An executive coach facilitates
+continuous learning, provides emotional support and feedback,
+and helps managers to achieve a performance breakthrough and a
+fundamental transformation (
+Evers et al., 2006 ; Finn, 2007 ; Fontes
+and Dello Russo, 2021 ).
+Despite various approaches and models being available and
+used, common features of executive coaching interventions include
+goal-setting, awareness-raising, commitment and accountability,
+planning, and action (
+Grant et al., 2009 ; Jones et al., 2016 ). A
+particularity of executive coaching is its focus on goal-directed
+initiatives (
+Grant and Cavanagh, 2007 ; Spence and Oades, 2011 ).
+It is primarily concerned with setting goals related to strategic
+organizational objectives and improving performance at work
+(
+Moen and Skaalvik, 2009 ; Athanasopoulou and Dopson, 2018 ).
+Previous meta-analyses
+De Meuse et al. (2009) conducted the ﬁrst review of studies on
+executive coaching outcomes and assessed its eﬀectiveness using a
+meta-analytic approach. Only six of the 12 studies used external
+coaches and a methodological design that provided pre- and post-
+data. Their ﬁndings point to positive eﬀects of executive coaching,
+ranging from improved individual skills and behaviors to increased
+team performance. However, their meta-analysis found a lack of
+consistency in the impact of executive coaching due to the speciﬁc
+content area being coached. They suggested that the outcomes may
+vary based on the context and that there may even be negative
+outcomes in some situations.
+Theeboom et al. (2014), in a subsequent meta-analysis,
+highlighted the need for deﬁning relevant outcomes dimensions
+for executive coaching. They reported that executive coaching
+has signiﬁcant positive eﬀects on ﬁve outcomes suggested to be
+theoretically and practically relevant, which can ﬁt under three
+main branches: cognitive, aﬀective, and behavioral (
+Fontes and
+Dello Russo, 2021 ). Nevertheless, the large eﬀect size they found
+may have been partly due to the inclusion of diﬀerent research
+designs and the shortage of rigorous studies available. For this
+reason, the same outcomes—performance, wellbeing, attitude,
+coping, and goal attainment—were investigated in a meta-analysis
+conducted by
+Burt and Talati (2017) using only randomized control
+trial studies. It should be noted that, even though the authors refer
+to executive coaching in their meta-analysis, also studies that used
+life coaching were included, such as studies conducted by
+Green
+et al. (2006) and Spence and Grant (2007).
+Another framework for executive coaching outcomes was
+proposed and examined meta-analytically by Jones et al. (2016).
+Their meta-analysis, which included studies using diﬀerent
+research designs, indicated that coaching positively aﬀects skill-
+based, aﬀective, and individual-level outcomes, with a larger
+eﬀect size ( d = 0.5) for individual-level results.
+Sonesh et al.
+(2015) conducted a meta-analysis that explored a diﬀerent
+three-dimension framework, consisting of relationship outcomes,
+coachee outcomes, and organizational outcomes. Their ﬁndings
+suggested that coaching is an eﬀective development tool that
+contributes especially to improving the coachee outcome related
+to the behavioral change dimension. Although both meta-analyses
+reported positive eﬀects of coaching, the results have likely been
+inﬂuenced by the inclusion of correlational design studies (
+Sonesh
+et al., 2015 ) and studies that used both internal and external
+coaches ( Jones et al., 2016 ). Internal coaches are employees of the
+organization who provide coaching to other employees with whom
+they do not have formal authority. In contrast, external coaches are
+engaged by the organization based on a contractual agreement for
+speciﬁc coaching hours with speciﬁc employees.
+Present study
+To evaluate the relative strength of executive coaching on
+diﬀerent types of outcomes—the key aim of our study—we propose
+a classiﬁcation based on the taxonomy that
+Bosco et al. (2015)
+developed. This hierarchical variable taxonomy allows to code
+and analyze the eﬀect sizes (ES) to provide results on the extent
+to which Cohen’s ES benchmarks reﬂect the omnibus distribution
+of ﬁndings commonly investigated in applied psychology research
+and which benchmarks vary across bivariate relation types
+(e.g., attitude–intention vs. attitude–behavior). The taxonomy
+resulted from a content-coding scheme created inductively and
+covers all major areas of industrial–organizational psychology,
+organizational behavior, and human resource management. In
+total, the taxonomy includes 4,869 levels nodes (i.e., variable names
+or category names), 11 ﬁrst-level nodes (person characteristics,
+attitudes/evaluations, behaviors, organizational characteristics,
+contextual characteristics, miscellaneous, intentions, dyad/group
+characteristics, HR practices, cognitions, and occupational
+characteristics), which branch to second-level nodes, third-level
+nodes, and so forth It presents what a variable represents rather
+than how it is used in the studies. An example of hierarchical
+classiﬁcation used in the taxonomy developed by
+Bosco et al.
+(2015) is the variable transformative leadership located as a
+ﬁfth-level node, where level one is the variable “behaviors, ” level
+two is the variable “as an employee, ” level three is the variable
+“leadership, ” and level four is the variable “relations behavior.”
+The taxonomy oﬀers the possibility to extract eﬀect sizes at
+Frontiers in Psychology /zero.tnum/three.tnum frontiersin.org
+<<<PAGE=4>>>
+Nicolau et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+many diﬀerent levels of generality by zooming in on each of the
+broad categories.
+Bosco et al.’s (2015) analyses were based on
+a database of 1,660 unique articles containing 25,891 variables,
+their associated eﬀect sizes, and existing typologies in applied
+psychology research (
+Bosco et al., 2015 ). Thus, this study oﬀers
+information that can be used to understand the relative importance
+of the eﬀect sizes found in a particular study in relation to
+others in the same and other domains. We believe that this
+hierarchical taxonomy of variables, based on 147,328 correlations
+among the above-mentioned variables reported in the Journal of
+Applied Psychology and Personnel Psychology from 20 common
+research domains, represents a valuable approach to coaching
+outcomes classiﬁcation and evaluation of the relative coaching
+eﬀect on diﬀerent levels of generality. The increased awareness
+regarding eﬀect sizes across areas commonly researched in applied
+psychology allows us to anticipate a typical context-speciﬁc ES
+(e.g., for an attitude–behavior relation) and formulate predictors
+for observed coaching outcomes variables. As Wilkinson and
+the APA Task Force on Statistical Inference (
+Wilkinson, 1999 , p.
+599) noted, “We must stress again that reporting and interpreting
+eﬀect sizes in the context of previously reported eﬀects is essential
+to good research. It enables readers to evaluate the stability of
+results across samples, designs, and analyses.” Thus, a consistent
+classiﬁcation of outcomes is crucial.
+An overview of the coaching outcomes reported in the reviewed
+studies using the MetaBUS hierarchical structure is presented in
+Figure 1. As an example of hierarchical structure, the ﬁrst level of
+coaching outcomes includes ﬁve general types: behaviors, attitudes,
+person characteristics, intentions, and cognitions. The second
+classiﬁcation level includes sub-types such as leadership behaviors,
+organizational attitudes, and traits. The level of speciﬁcity further
+increases at the third classiﬁcation level, which includes the
+individual outcomes variables reported in the reviewed studies
+classiﬁed according to the classiﬁcation in
+Bosco et al.’s (2015)
+taxonomy. An example of a third-level outcomes variable is the goal
+attainment reported in four studies included in the current meta-
+analysis (
+Grant et al., 2009 , 2010; Ballesteros-Sánchez et al., 2019 ;
+Zanchetta et al., 2020 ). The deﬁnitions of the types of outcomes
+included in the classiﬁcation and the variables related to each type
+of outcome are listed in the
+Appendix.
+Hypotheses
+The ﬁrst study hypothesis ﬂows from our classiﬁcation model
+indicated in Figure 1. We expect to be able to show the eﬀect size
+of executive coaching on overall outcomes. The previous meta-
+analyses found a moderate to large eﬀect size for the overall
+coaching eﬀectiveness. By including studies with rigorous research
+design, and a sample similar to the one used in the previous
+meta-analyses, we expect to ﬁnd strong evidence of coaching
+eﬀectiveness. Therefore:
+Hypothesis 1 . Executive coaching will demonstrate an overall
+positive signiﬁcant eﬀect size across all outcomes.
+Based on the outcome classiﬁcation proposed, we expected
+a meta-analysis of rigorous methodological design studies to
+be able to show the relative strength of executive coaching on
+diﬀerent types of outcomes. Past research suggested that executive
+coaching is related to sustainable positive changes (
+Grant, 2012 )
+and desirable behaviors ( Ladegard and Gjerde, 2014 ; McGonagle
+et al., 2014 ; Nicolau and Constantin, 2021 ). Executive coaching was
+also associated with changes in attitudes, such as organizational
+commitment (
+Fontes and Dello Russo, 2021 ), and personality traits,
+such as core self-evaluations ( McGonagle et al., 2014 ). However,
+attitudes and personality traits have been considered to persist
+despite attempts at change. A recent review on attitudes change
+found a small eﬀect size ( d = 0.22) for the attitude change based on
+interventions or messages delivered at a particular time (
+Albarracin
+and Shavitt, 2018 ), while interventions associated with marked
+changes in personality trait measures over time indicated a medium
+eﬀect ( d = 0.37) in a recent systematic review (
+Roberts et al., 2017 ).
+Previous meta-analyses indicated that the coachee behavioral
+change improvements were signiﬁcantly larger than attitudinal
+changes (
+Sonesh et al., 2015 ), and the coaching outcomes represent
+the translation of learning through to performance beneﬁts ( Jones
+et al., 2016 ); therefore, we hypothesize:
+Hypothesis 2 : The relative strength of executive coaching on
+behavioral outcomes will be stronger compared to (a) attitude and
+(b) person characteristics outcomes.
+Furthermore, executive coaching measurement usually relates
+to the managers’ and organizations’ bottom-line performance
+(
+Athanasopoulou and Dopson, 2018 ). In our classiﬁcation,
+performance behaviors comprised goal attainment outcomes.
+Several studies have shown that coaching is associated with
+signiﬁcant progress toward self-set goals (
+Grant et al., 2009 ; Grant,
+2010; Ballesteros-Sánchez et al., 2019 ; Zanchetta et al., 2020 ).
+Moreover, when the coach guides managers through exploring
+their potential for development and optimal functioning, these
+managers usually deﬁne speciﬁc goals, explore internal and
+external resources, and ﬁnd speciﬁc actions to achieve them
+(
+Schunk, 1995; Whitmore, 2002). Thus, behaviors include cognitive
+activities, such as goal strategy and adopting new behaviors, which
+also improve during coaching (
+Finn, 2007 ; Moen and Federici,
+2012). The development of the alliance between the coach and
+coachee may also support behavioral modeling translated into the
+manager’s leadership behaviors, such as openness to consultation
+and compassion (
+Kochanowski et al., 2010 ; McGonagle et al.,
+2020). However, executive coaching is a solution-focused goal-
+oriented process ( Grant et al., 2009 ). Moreover, the hierarchical
+taxonomy developed by Bosco et al. (2015) based on eﬀect sizes
+indicates that the performance behaviors (e.g., task performance)
+as an employee are better predicted than leadership behaviors
+(e.g., relations or change behaviors). Thus, we expect performance
+behaviors to be highly impacted in the coaching process. Therefore,
+we hypothesize:
+Hypothesis 3 : The relative strength of coaching on behavioral
+performance outcomes will be stronger compared to (a) behavioral
+leadership and (b) behavioral cognitive activities.
+Potential moderators
+Several moderators of coaching eﬀectiveness have been
+suggested, such as coach background, coaching model, type of
+Frontiers in Psychology /zero.tnum/four.tnum frontiersin.org
+<<<PAGE=5>>>
+Nicolau et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+FIGURE /one.tnum
+Executive coaching outcomes classiﬁcation.
+coach (external or internal), and the number of coaching sessions.
+For most of these potential moderators, the lack of data reported in
+the reviewed studies prevented us from including them in the meta-
+analysis. For example, regarding coaching methods, we evaluated
+the methods reported in the included studies, such as positive
+psychology coaching, Goal-Reality-Options-Will (GROW), and
+cognitive-behavioral developmental coaching. Several of these
+methods’ components, such as setting the coaching goal, deﬁning
+strategies, designing actions for achieving the goal, and identifying
+resources or strengths, and overlap. Therefore, we concluded that
+there are no clear distinctions among them. Two related aspects
+of coaching could be included, i.e., the number of coaching
+sessions and the overall length of the coaching program. Research
+examining these possible moderators is limited and sometimes
+contradictory. For example, some meta-analyses suggested that the
+number of coaching sessions or the overall longevity of coaching
+Frontiers in Psychology /zero.tnum/five.tnum frontiersin.org
+<<<PAGE=6>>>
+Nicolau et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+interventions did not signiﬁcantly impact the executive coaching
+outcomes (
+Theeboom et al., 2014 ; Jones et al., 2016 ), while others
+showed a signiﬁcant moderating eﬀect of the number of coaching
+sessions (
+Sonesh et al., 2015 ). Authors have suggested that even a
+one-time coaching session is eﬀective ( Bright and Crockett, 2012 ).
+It is possible that executive coaching may have an immediate
+eﬀect by directing managers’ resources and focusing on clarifying
+the actions that are needed to increase performance (
+Moen and
+Skaalvik, 2009; Bright and Crockett, 2012 ; Peláez Zuberbuhler et al.,
+2020). In their meta-analysis, Sonesh et al. (2015) suggested that
+the complexity and diﬃculty of the coaching goals may impact
+the number of coaching sessions. As participants acquired new
+behaviors and competencies, they inevitably developed feelings of
+self-eﬃcacy, goal-focused orientation, and positive aﬀect, which,
+once inﬂuenced, continue to increase over time, generating a
+“prophylactic eﬀect” (
+Finn, 2007 ; Grant, 2010 ). Given these
+considerations, we did not expect unambiguous eﬀects of the
+number of sessions and length of the coaching program on
+the coaching outcomes, and we did not formulate a hypothesis
+regarding these moderation analyses.
+Method
+Literature search and inclusion criteria
+In this study, we focus on executive coaching as a supportive
+relationship provided by an external professional coach and a
+manager with authority and responsibility in an organizational
+context, excluding all other coaching or developmental practices
+(e.g., life coaching, internal/managerial coaching, and mentoring).
+To identify relevant published and unpublished studies (including
+doctoral theses), science databases were searched (SAGE Journals
+Online, Taylor and Francis, Science-Direct, PsycINFO, Google
+Scholar, Emerald, Research Gate, ProQuest, and ICF Research
+Portal) using the following keywords: “executive coaching, ”
+“leadership coaching, ” “managerial coaching, ” “coaching” in
+combination with “organizational performance.” We additionally
+manually reviewed the reference lists of all publications identiﬁed
+in the database search and the studies cited in the previous meta-
+analyses (i.e.,
+De Meuse et al., 2009 ; Theeboom et al., 2014 ;
+Sonesh et al., 2015 ; Jones et al., 2016 ; Burt and Talati, 2017 )
+and included the relevant studies. The Preferred Reporting Items
+guided this extensive literature search for Systematic Reviews and
+Meta-Analyses (PRISMA;
+Liberati et al., 2009 , see Figure 2).
+We assessed the studies for inclusion based on the following
+criteria: (a) the executive coaching intervention matched Kilburg’s
+(1996: p. 142) deﬁnition; (b) an external coach led the executive
+coaching intervention in a one-to-one session in an organizational
+setting; (c) the published or unpublished study was in English;
+(d) the study empirically investigated the relationship between the
+intervention and the executive coaching outcomes for the client; (e)
+the study used a between-subject design with a pre-post-test and
+control group and reported suﬃcient statistical data such as group
+sample sizes, means and standard deviation for each group.
+The main reason for not including studies that used internal
+coaches was to control for eﬀects that may contaminate the overall
+result of coaching eﬀectiveness.
+Jones et al. (2016) suggested
+that the eﬀects of coaching by internal coaches had a stronger
+eﬀect compared to external coaches. Moreover, the research on
+mentoring has shown that a mentee’s behavior can be aﬀected
+during the session when the mentor has formal authority over the
+mentee (
+Mullen, 1994 ). Thus, we decided to include only studies
+that used external coaches.
+The current meta-analysis did not include a study if the data
+needed to establish eﬀect sizes were unavailable.
+The ﬁrst two authors independently selected potentially eligible
+articles. The ﬁnal set of records was selected by reading the
+full texts of all articles that passed an initial screening of titles
+and abstracts. There was a 95.3% initial interrater agreement for
+screening full texts.
+The disagreements about screening and selection were resolved
+by consensus.
+The selection process yielded a total of 20 studies that met
+the selection criteria and were included in the meta-analysis (see
+Figure 2 and Table 1). All studies included in the ﬁnal analysis are
+indicated with an asterisk in our list of references.
+Research model
+The statistical model used to conduct the meta-analysis was
+a random eﬀects model, which permits that the true eﬀect
+sizes vary from study to study based on both the independent
+variable and the variability and diﬀerences in the research sample
+(
+Hedges and Cooper, 1994 ; Borenstein et al., 2009 ). The classical
+Cochran Q statistic and the I2 statistic, as proposed by Higgins
+and Thompson (2002), were calculated to test for heterogeneity
+between studies. The Q statistics provide a test of signiﬁcance
+for between-study heterogeneity, while the value of I2 represents
+the proportion of between-study variance in eﬀect sizes to
+between-study heterogeneity (
+Borenstein et al., 2009 ). When the
+value for I2 is close to or above 50%, moderating variables
+are considered to be present ( Higgins and Thompson, 2002 ).
+Moderator analysis was conducted using sub-group analysis when
+the moderators were categorical and meta-regression when the
+moderators were continuous.
+Outcome categories and moderators
+The ﬁrst two authors independently codded the outcomes. The
+disagreements about outcomes coding were resolved by consensus.
+The categorization of outcomes was conducted in two steps. In the
+ﬁrst step, we assigned the studies to one of the following general
+executive coaching outcomes categories: behaviors, attitudes,
+person characteristics, cognitions, and intentions. In the second
+step, we distinguished 10 sub-types categories based on the
+taxonomy developed by
+Bosco et al. (2015).
+We eliminated two general types of outcomes that could not
+be tested because of the limited number of studies that included
+them: cognition and intentions. Several studies selected for the
+meta-analysis included a broad range of outcomes within the same
+outcome category (e.g., measures of leading and eﬀectiveness both
+fall within the behavior category). For those studies, we examined
+Frontiers in Psychology /zero.tnum/six.tnum frontiersin.org
+<<<PAGE=7>>>
+Nicolau et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+FIGURE /two.tnum
+PRISMA ﬂowchart.
+the individual eﬀect sizes for each category, and an overall eﬀect
+size per study was included for each outcome category. All reported
+outcomes in the primary studies are based on self-reports and not
+on observations of others (e.g., subordinates and peers), test results,
+or measures of job performance because other measures were either
+not reported or reported only in a few studies.
+In addition to the meta-analysis of the executive coaching
+outcomes, we investigated whether the length of the coaching
+program and the number of sessions moderate the eﬀectiveness of
+executive coaching.
+Eﬀect sizes, methodology, and database
+Similar to the previous meta-analyses, the overall weighted
+eﬀect size was calculated using the
+Hedges and Olkin (1984)
+approach. The post-pre eﬀect size from the control group was
+subtracted from the post-pre eﬀect size for the treatment group.
+To standardize the mean diﬀerence between the pre- and post-
+measures of coaching outcomes, the eﬀect sizes of the original
+studies were transformed to a variation of Cohen’s d, the Hedges’
+g eﬀect size. This conservative approach allows for statistical
+correction of biases due to small sample sizes, measurement error,
+and range restriction to avoid overestimates (
+Hedges, 1981; Hedges
+et al., 2009 ). It provides a conservative estimate of the conﬁdence
+interval used for calculating the statistical signiﬁcance of eﬀect sizes
+(
+Johnson et al., 1995 ).
+We used Biostat’s Comprehensive Meta-Analysis program
+(CMA) version 2 ( Borenstein et al., 2005 ). This application is
+based on the approach to meta-analysis proposed by Hedges and
+Olkin (1984). CMA oﬀers the advantages of handling multiple data
+entry formats, the detection of between-study heterogeneity, and an
+intuitive approach to sensitivity analysis (
+Borenstein, 2005).
+We described our sampling plan, all data exclusions (if
+any), all manipulations, and all measures in the study. All data,
+analysis codes, and research materials are available at:
+https://osf.io/
+pz2a6/?view_only=1d4a77d2121b472f86fbd8def20f2def. The study
+Frontiers in Psychology /zero.tnum/seven.tnum frontiersin.org
+<<<PAGE=8>>>
+Nicolau et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+design, hypotheses, and analysis plan of the reported work were
+not preregistered.
+Results
+Aggregated eﬀect sizes across all studies
+and outcomes
+Table 2 contains the weighted eﬀect sizes (aggregated across
+outcomes) per study. We found an overall moderate weighted
+eﬀect size for all outcomes, reﬂecting an advantage of coaching
+over control groups [Hedges’ g = 0.43, 95% CI, 0.35–0.50, p
+< 0.001 [95% PI ( − 0.05 to 0.92)]. Hypothesis 1 was clearly
+supported. The results show that coaching has a signiﬁcant positive
+eﬀect on the overall coachee outcomes. The results also indicate
+that heterogeneity was statistically signiﬁcant and medium in
+magnitude ( Q = 100.64; p < 0.001; I2 = 61.24). Therefore, we
+continued this analysis by exploring various moderators for the
+positive eﬀect of executive coaching.
+Eﬀect sizes per general type, sub-type, and
+speciﬁc outcome
+Table 3 presents the eﬀect sizes for coaching interventions
+on the three general types of outcomes: behaviors, attitudes, and
+person characteristics. The eﬀect of coaching was signiﬁcant and
+positive for all three categories. The eﬀect sizes of coaching on
+behaviors, attitudes, and person characteristics were all positive
+(behaviors: Hedges’ g = 0.73, 95% CI, 0.41–1.05, p < 0.001;
+attitudes: Hedges’ g = 0.34, 95% CI, 0.24–0.44, p < 0.001; person
+characteristics: Hedges’ g = 0.51, 95% CI, 0.39–0.64, p < 0.001).
+We compared the eﬀects between these three categories. The results
+indicated a signiﬁcant diﬀerence between attitude and behavioral
+outcomes categories ( Q = 5.167, p < 0.05) and attitudes and person
+characteristics categories ( Q = 4.205, p < 0.05). These results
+supported Hypothesis 2a regarding the relative eﬀect of coaching
+on behavioral outcomes compared with attitudes and person
+characteristics outcomes. We also observed low heterogeneity in
+the results for attitudes and person characteristics (non-signiﬁcant
+Q values and low I2). However, we found signiﬁcant heterogeneity
+for behavior ( Q = 60.48, p < 0.001; I2 = 81.81), which suggested
+possible moderators.
+The results for the relative eﬀects of coaching on behavioral
+outcome sub-categories yielded a larger eﬀect size for the
+cognitive activities outcomes than for performance outcomes and
+a signiﬁcant diﬀerence between cognitive activities and leadership
+activities (Q = 10.388, p < 0.01). Hypothesis 2a was not supported.
+Table 4 presents the eﬀect sizes of the coaching intervention on sub-
+categories.
+We computed a series of analyses for some speciﬁc outcomes
+(see Table 5). Although most studies involved the measurement of
+multiple outcomes, only a few of them were included in a suﬃcient
+number of studies to allow us to do meaningful meta-analytic
+calculations. Thus, we found signiﬁcant and positive eﬀects on
+self-eﬃcacy (Hedges’ g = 0.31, p < 0.05), goal attainment (Hedges’
+g = 0.32, p < 0.001), psychological capital (Hedges’ g = 0.83, p <
+0.001), and resilience (Hedges’g = 0.57, p < 0.001). The aggregated
+eﬀect size for job satisfaction was positive but not signiﬁcant
+(Hedges’g = 0.36, p = 0.17).
+Moderator analysis
+We tested the moderating role of the length of the coaching
+program and the number of sessions for the three outcome
+categories (behavior, attitudes, and person characteristics). The
+results are displayed in
+Table 6. A series of meta-regressions showed
+that the length of the coaching program was a signiﬁcant moderator
+only for the attitudes category (coeﬃcient = 0.01, se = 0.008,
+p = 0.03). The longer the program was, the greater the eﬀect size.
+The number of sessions was not a signiﬁcant moderator for any
+outcome category.
+Publication bias
+Publication bias was assessed via visual inspection of funnel
+plots and the Egger bias test (
+Egger et al., 1997 ). The Egger test
+was signiﬁcant ( p < 0.001). Based on this result, we conducted
+further sensitivity analyses. Firstly, using the trim and ﬁll method,
+we found that by adding 29 new eﬀect sizes in the meta-analysis,
+the aggregated eﬀect size would decrease from 0.43 to 0.27. Even
+with this decrease, the aggregated eﬀect size would remain similar.
+Secondly, by using Orwin’s fail-safe N method (
+Orwin, 1983 ), we
+found that to ﬁnd a trivial eﬀect size ( <0.10), the addition of 332
+studies with an eﬀect size lower than 0.10 would be necessary.
+Concluding, we found no publication bias in this study.
+Discussion
+The purpose of the current meta-analysis was to evaluate
+coaching eﬀectiveness by investigating its eﬀect on the overall
+outcomes studied and its relative strength on diﬀerent coaching
+outcome types by systematically reviewing the existing RCT studies
+on coaching eﬀectiveness at work. Additionally, the study examined
+whether the number of coaching sessions and overall length of
+the coaching program moderated its eﬀectiveness. To evaluate the
+executive coaching intervention and multiple types of outcomes,
+we proposed a classiﬁcation based on previously used taxonomy in
+applied psychology. Hypothesis 1 was conﬁrmed. We found strong
+evidence for a signiﬁcant moderate eﬀect of executive coaching on
+overall coaching outcomes dimensions reported in the reviewed
+studies. We found support for Hypothesis 2a and Hypothesis 2b.
+The results indicated that the relative strength of coaching was
+higher on behavioral than on attitude and person characteristics
+outcomes, with a signiﬁcant diﬀerence between behavior and
+attitude outcomes and between attitude and person characteristics
+outcomes. Hypotheses 3a and 3b were not conﬁrmed. The
+analyses indicated a large eﬀect size for performance behaviors
+and behavioral-cognitive activities and a moderate eﬀect size for
+leadership behaviors, with a signiﬁcant diﬀerence only between
+behavioral cognitive activities and leadership behavior. The results
+show no moderating eﬀects of the number of coaching sessions
+Frontiers in Psychology /zero.tnum/eight.tnum frontiersin.org
+<<<PAGE=9>>>
+Nicolau et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+TABLE /one.tnum Inclusion criteria, outcomes, and moderators in previous meta-analyses and the current study.
+Meta-
+analysis
+Nr of studies
+included
+Inclusion criteria Design of the
+included studies
+Outcomes Moderators
+Current
+meta-analysis
+20 - Executive coaching matched
+Kilburg’s(1996) deﬁnition
+RCT - Behaviors
+Cognitive activities
+Leadership
+Performance
+- Number of coaching
+sessions
+- Length of coaching
+program (weeks)
+- External coach - Attitudes
+Organization
+People
+Job/Task
+- Randomized control trial - Person characteristic
+States
+Traits
+- Suﬃcient statistics reported
+Burt and Talati
+(2017)
+11 - Coaching method design
+equivalent to
+Grant’s
+(2003) deﬁnition
+RCT - Attitudes -Participant gende
+- External coach - Coping
+- Randomized control trial - Self-regulation
+- Outcomes reported - Well-being
+- Suﬃcient statistics reported
+Jones et al. (2016) 17 - Workplace coaching RCT - Aﬀective outcomes - Research design
+- Within- and
+between-subjects designs
+QEF - Skill-based outcomes - Multisource feedback
+- Report sample sizes WSD - Individual level outcomes - Format of coaching
+-Reported statistics - Type of coach (internal
+or external)
+- Coaching outcome
+measured at individual level
+- Number of
+coaching sessions
+Sonesh et al. (2015) 24 - Leadership, business, or
+executive coaching
+RCT - Relationship outcomes - Sample type
+- Empirical studies QEF Generic
+coach–coachee relationship
+- Design type
+WSD Working alliance - Coach background
+- Coachee outcomes - Coach expertise
+Goal attainment - Number of
+coaching sessions
+Behavioral change
+Work-related attitude change
+Personal attitude change
+Improved relations with others
+Overall satisfaction with coaching
+Cognitive change
+Task performance
+- Organization outcomes
+Theeboom et al.
+(2014)
+18 - External professional
+trained coach
+RCT - Performance/skills - Study design
+- Studies conducted in a work
+or educational context
+QEF - Work attitude - Number of
+coaching sessions
+- Coaches belonged to a
+non-clinical population
+WSD - Coping
+(Continued)
+Frontiers in Psychology /zero.tnum/nine.tnum frontiersin.org
+<<<PAGE=10>>>
+Nicolau et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+TABLE /one.tnum (Continued)
+Meta-
+analysis
+Nr of studies
+included
+Inclusion criteria Design of the
+included studies
+Outcomes Moderators
+- No inﬂuence of
+other interventions
+- Self-regulation
+- Enough
+statistical information
+- Wellbeing
+- Included quantitative data
+De Meuse et al.
+(2009)
+12 - Executive coaching QEF - Reactions to coaching - Type of coaching
+provided (suggested)
+- External coach WSD - Coaching eﬀectiveness at
+individual level
+- Content of the coaching
+engagement (suggested)
+- Pre- and
+post-coaching ratings
+- Coaching impact at
+organizational level
+- Content of the coaching
+engagement (suggested)
+- Statistics reported in
+the article
+RCT, randomized control trial; QEF, quasi-experimental ﬁeld study in which participants were non randomly allocated to experimental and control groups; WSD, within-subjects design without
+control group, which includes both pre- and post-intervention measure s.
+and the length of the coaching program, except for a positive
+relationship between the coaching program’s length and coaching
+eﬀectiveness for the attitude outcome. In summary, our meta-
+analytic ﬁndings indicate that executive coaching is an eﬀective tool
+resulting mainly in changes in individuals’ behaviors, especially in
+cognitive behaviors, with no conditional eﬀect from the number of
+sessions or the length of the coaching program.
+Contribution to theory and future research
+Our results are consistent with previous ﬁndings in the
+executive coaching literature about the overall eﬀect size and the
+varying eﬀect sizes for diﬀerent outcomes (
+Theeboom et al., 2014 ;
+Jones et al., 2016 ; Burt and Talati, 2017). We found clear indications
+that the relative strength of coaching was higher on behavioral
+outcomes than on other outcomes categories. Considering the
+stability of attitudes and person characteristics, the lower eﬀect
+sizes reported in our study can be expected. However, our ﬁndings
+on attitudes are likely to throw light on the contextual factors
+that contribute to coaching eﬀectiveness. Improvements in work-
+related attitudes, such as job satisfaction and wellbeing, suggest that
+coaching may facilitate a better alignment between the individual
+and the organization, ultimately creating a positive impact
+on coachees’ organization-related attitudes and the perception
+of coaching as an aid from the organization for individual
+development (
+Fontes and Dello Russo, 2021 ). The executives may
+experience positive work-related attitudes due to the perceived
+support provided by the organization that sponsors them with
+coaching (
+McGonagle et al., 2020 ). Managers who receive executive
+coaching may develop a stronger sense of control over their
+outcomes and workplace experience, resulting in an improved
+attitude and enhanced personal characteristics.
+We suggest that future research continues to assess the impact
+of the organizational context on executive coaching outcomes. It
+would be interesting to explore if a higher alignment between
+change initiatives at the organizational level and managers’ goals
+or increased support and resources from the supervisor would
+positively impact coaching outcomes.
+We found conﬁrmation that cognitive activities, such as
+openness to new behavior and goal strategy, represent the most
+impacted behavioral aspect. This is important because behavioral
+change is the most common objective of coaching engagements
+(
+Sonesh et al., 2015 ). Our ﬁndings suggest that although not the
+primary focus of executive coaching, cognitive outcomes, such as
+developing planning and goal strategy, are essential in promoting
+behavioral change. The coach’s feedback and support, and the focus
+on planning, can lead the coachee to develop an action plan, ﬁnd
+personal resources, and identify strategies to overcome possible
+obstacles (
+Fontes and Dello Russo, 2021 ). The large eﬀect size
+(g = 1.28) for cognitive activities diﬀers considerably from recent
+meta-analyses reported ( g = 0.22; Sonesh et al., 2015 ). However,
+these results should be interpreted cautiously, given the small
+number of studies included in the analysis ( k = 3).
+While our meta-analysis provides an insight into the
+relative eﬀects of executive coaching on the diﬀerent types of
+behavior outcomes, we were unable to explore speciﬁc behavior
+relationship constructs (e.g., adopting new behaviors, leader trust
+in subordinates, rational persuasion, and inspirational appeal) or
+task-oriented ones (e.g., goal types) due to a lack of primary studies.
+The coaching ﬁeld would beneﬁt from deﬁning outcomes by other
+considerations, essential for the behavioral outcome distinction
+given the variability in its eﬀect sizes between studies. Moreover,
+future research may investigate how the coaching and control
+groups changed in diﬀerent behavioral outcomes over time using
+multiple post-measures to establish whether executive coaching
+facilitates consistent change.
+Our meta-analysis revealed signiﬁcant and positive eﬀects of
+executive coaching on speciﬁc outcomes such as goal attainment,
+self-eﬃcacy, psychological capital, and resilience. Several
+mechanisms may be responsible for these improvements. Firstly,
+goalsetting at the starting phase of the coaching process aﬀects goal
+attainment through direction, energy, persistence, and improved
+task strategies (
+Locke and Latham, 2002 ). Secondly, executive
+coaching may encompass psychosocial-support dimensions such
+Frontiers in Psychology /one.tnum/zero.tnum frontiersin.org
+<<<PAGE=11>>>
+Nicolau et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+TABLE /two.tnum Weighted eﬀect sizes aggregated over outcomes per study.
+/nine.tnum/five.tnum% CI
+N Hedges g Standard error LL CI UL CI Z-value p
+Ballesteros-Sánchez et al.
+(2019)
+30 0.44 0.15 0.15 0.73 3.01 0.003
+Bright and Crockett
+(2012)
+127 0.24 0.06 − 0.18 0.78 1.21 0.226
+Evers et al. (2006) 60 0.26 0.10 0.05 0.46 2.44 0.014
+Finn (2007) 17 0.98 0.29 0.41 1.56 3.36 0.001
+Fontes and Dello Russo
+(2021)
+53 0.44 0.13 0.19 0.70 3.38 0.001
+Grant et al. (2009) 41 0.61 0.20 0.21 1.01 3.00 0.003
+Grant et al. (2010). 44 0.92 0.21 0.52 1.32 4.47 <0.001
+Kochanowski et al.
+(2010)
+93 0.12 0.13 − 0.13 0.37 0.95 0.340
+Ladegard and Gjerde
+(2014)
+30 1.50 0.34 0.83 2.18 4.37 0.000
+MacKie (2014) 31 0.38 0.36 − 0.32 1.07 1.06 0.287
+McGonagle et al. (2014) 48 0.53 0.15 0.23 0.83 3.44 0.001
+McGonagle et al. (2020) 50 0.38 0.11 0.17 0.59 3.58 <0.001
+Moen and Federici
+(2012)
+19 1.07 0.24 0.60 1.54 4.46 <0.001
+Moen and Skaalvik
+(2009)
+108 0.40 0.15 0.10 0.70 2.58 0.010
+O’Connor and Cavanagh
+(2013)
+102 0.30 0.25 − 0.19 0.79 1.21 0.227
+Richardson (2010) 18 0.62 0.35 − 0.05 1.30 1.81 0.070
+Williams and Lowman
+(2018)
+32 0.57 0.17 0.23 0.92 3.25 0.001
+Smither et al. (2003) 1,229 0.35 0.12 − 0.67 0.69 0.03 0.973
+Zanchetta et al. (2020) 70 0.86 0.17 0.52 1.20 4.92 <0.001
+Peláez Zuberbuhler et al.
+(2020)
+38 0.73 0.19 0.35 1.11 3.77 <0.001
+Random eﬀects model 0.43 0.04 0.35 0.51 11/05 <0.001
+N, analyzed sample size; LLCI, lower limit for the 95% conﬁdence interval for g; ULCI, upper limit for the 95% conﬁdence interval for g. The bold values i ndicate the aggregated results
+across outcomes.
+as self-conﬁdence or emotional support for executives’ role distress
+(
+Nicolau and Constantin, 2021 ). It allows one to reﬂect on attempts
+and errors, gain awareness of personal resources and strengths
+(
+Rank and Gray, 2017 ), and strive for mastery experiences,
+leading to improved self-eﬃcacy. By focusing on strengths and
+positive episodes, the reﬂection would increase conﬁdence in
+development and change, the ability to identify options, optimism
+about the change, and resilience when confronted with obstacles
+(
+Fontes and Dello Russo, 2021 ), thus improving psychological
+capital. It boasts a solution-focused reﬂection and strategy with a
+signiﬁcant impact on increasing resources and a sense of control
+through planning, which has the potential to reduce stress and
+enhance resilience (
+Grant et al., 2009 ; Nicolau and Constantin,
+2021).
+Nevertheless, executive coaching may exhibit the strongest
+relationship with these speciﬁc outcomes because they are assessed
+holistically, especially when assessing goal attainment (
+Graßmann
+et al., 2020 ). For example, goal achievements may depend on
+the manager’s tasks, team dynamics, and organizational support.
+Considering that organizations sponsored the executives with
+coaching for personal development in the reviewed studies, we
+might assume that the managers had perceived high contextual
+support, thus remaining committed and engaged to their goals
+(
+Fontes and Dello Russo, 2021 ). Future research should investigate
+the impact of perceived low organizational support, destructive
+leadership, or disruptive team dynamics on coaching outcomes.
+This study did not focus on the eﬀectiveness of speciﬁc
+elements coaches involve in their coaching engagement. Past
+research suggested that coaching is a complex dynamic change
+process rather than a linear input-output mechanism (
+Erdös
+and Ramseyer, 2021 ; Wasylyshyn, 2022 ; de Haan and Nilsson,
+2023) where relational coaching processes signiﬁcantly impact the
+outcomes. Future research may want to investigate some coaching
+processes that lead to change, such as the goal type, the coachee’s
+engagement during sessions, or the perceived coach’s support
+impact on executive coaching eﬀectiveness.
+Frontiers in Psychology /one.tnum/one.tnum frontiersin.org
+<<<PAGE=12>>>
+Nicolau et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+TABLE /three.tnum Eﬀect sizes for general types outcomes: behaviors, attitudes, and person characteristics.
+/nine.tnum/five.tnum% CI
+Outcome Samples N Hedges
+g
+Standard
+error
+LL CI UL CI Z-value p Q I2
+Behavior 12 565 0.73 0.16 0.42 1.07 4.53 <0.001 58.90∗∗∗ 81.32
+Attitudes 12 1,793 0.34 0.05 0.24 0.44 6.61 <0.001 10.79 0.00
+Person
+characteristics
+16 830 0.52 0.06 0.39 0.65 7.88 <0.001 24.64 39.12
+Between types
+Behavior vs.
+attitudes
+5.16∗∗
+Behavior vs. person
+characteristics
+1.53
+Attitudes vs. person
+characteristics
+4.20∗∗
+N, total sample size in k studies; LLCI, lower limit for the 95% conﬁdence i nterval for g; ULCI, upper limit for the 95% conﬁdence interval for g; Q, Coch ran Q statistic.
+I2, the proportion of total variation in the estimates of treatment eﬀect that is due to heterogeneity between studies.
+∗∗∗ Indicates that between-study heterogeneity is signiﬁcant ( p < 0.001).
+∗∗ Indicates that between-study heterogeneity is signiﬁcant ( p < 0.05).
+TABLE /four.tnum Eﬀect sizes for sub-types outcomes.
+/nine.tnum/five.tnum% CI
+Outcome Samples N Hedges
+g
+Standard
+error
+LL CI UL CI Z-value p Q I2
+Behavior
+Cognitive activities 3 144 1.28 0.17 0.94 1.62 7.36 <0.001 0.35 0.00
+Leadership 7 283 0.44 0.19 0.07 0.82 2.33 <0.010 19.59∗∗ 69.38
+Performance 4 185 1.11 0.28 0.55 1.68 3.86 <0.001 11.47∗∗ 73.85
+Between sub-types
+Cognitive vs.
+leadership
+10.38∗∗
+Cognitive vs.
+performance
+0.23
+Performance vs.
+leadership
+3.74
+Attitudes
+Organization 1 44 0.47 0.30 − 0.11 1.06 1.58 0.112 0.00 0.00
+People 7 1,550 0.30 0.13 0.04 0.57 2.27 <0.050 8.33 27.97
+Job/task 7 382 0.39 0.06 0.26 0.52 5.94 <0.001 3.65 0.00
+Between sub-types
+People vs. job/task 0.31
+Person characteristics
+States 13 0.50 0.07 0.36 0.64 7.04 <0.001 18.38 34.72
+Traits 7 0.61 0.13 0.34 0.88 4.44 <0.001 10.92 45.06
+Between sub-types
+States vs. traits 0.47
+N, total sample size in k studies; LLCI, lower limit for the 95% conﬁdence i nterval for g; ULCI, upper limit for the 95% conﬁdence interval for g; Q, Coch ran Q statistic.
+I2, the proportion of total variation in the estimates of treatment eﬀect that is due to heterogeneity between studies.
+∗∗ Indicates that between-study heterogeneity is signiﬁcant ( p < 0.05).
+Frontiers in Psychology /one.tnum/two.tnum frontiersin.org
+<<<PAGE=13>>>
+Nicolau et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+TABLE /five.tnum Eﬀect sizes for speciﬁc outcomes.
+/nine.tnum/five.tnum% CI
+Outcome Samples N Hedges
+g
+Standard
+error
+LL CI UL CI Z-value p Q I2
+Self-eﬃcacy 5 254 0.31 0.13 0.04 0.58 2.25 0.02 5.78 30.88
+Goal attainment 3 155 1.32 0.35 0.63 2.00 3.77 <0.001 7.46∗ 73.19
+Job satisfaction 3 154 0.36 0.27 − 0.17 0.91 1.31 0.17 5.86 65.92
+PsyCap 3 144 0.83 0.17 0.49 1.17 4.80 < 0.001 1.84 0.00
+Resilience 3 133 0.57 0.17 0.23 0.91 3.31 <0.001 0.34 0.00
+N, total sample size in k studies; LLCI, lower limit for the 95% conﬁdence i nterval for g; ULCI, upper limit for the 95% conﬁdence interval for g; Q, Coch ran Q statistic.
+I2, the proportion of total variation in the estimates of treatment eﬀect that is due to heterogeneity between studies.
+∗Indicates that between-study heterogeneity signiﬁcant ( p < 0.05).
+TABLE /six.tnum Results for the moderators.
+/nine.tnum/five.tnum% CI
+Outcome Samples Coeﬃcient Standard error LL CI UL CI z p
+Behavior
+Number of sessions 12 0.11 0.09 − 0.06 0.29 1.25 0.21
+Length of program 12 0.03 0.01 − 0.001 0.06 1.96 0.05
+Attitudes
+Number of sessions 12 0.004 0.03 − 0.05 0.06 0.13 0.89
+Length of program 10 0.01 0.008 0.001 0.03 2.11 0.03
+Person characteristics
+Number of sessions 15 0.001 0.02 − 0.05 0.05 0.03 0.97
+Length of program 14 − 0.001 0.01 − 0.02 0.01 − 0.08 0.93
+LLCI, lower limit for the 95% conﬁdence interval for the coeﬃcient; ULC I, upper limit for the 95% conﬁdence interval for coeﬃcient.
+Moderator analyses resulted in only one signiﬁcant moderator,
+the length of the coaching program, and only for the attitudes
+dimension. Although the length of the coaching programs may
+heighten the opportunity to identify resources and strategies for
+goal attainment, it is unclear what the moderating eﬀect means,
+as we did not ﬁnd diﬀerences in the number of coaching sessions.
+A possible explanation could be related to the fact that attitudes
+and beliefs that are consistent with other values are likely to persist,
+and defensive cognitive processes can be involved to protect the
+attitudes and beliefs, especially when motivation is low (
+Hart et al.,
+2009). This means managers who receive coaching might need
+more time to change their attitudes regardless of the number of
+sessions. Future research should investigate how the length of the
+coaching program may alter or enhance the coaching outcomes.
+Furthermore, researchers should provide more details related to the
+goal type, motivation, and organizational context to allow future
+analyses of other possible moderators.
+The eﬀect sizes observed across diﬀerent types of outcomes
+allow for identifying the research area that lags. As described
+earlier, we eliminated from the analyses two types of outcomes,
+intentions and cognitions, and subtypes of outcomes, such as
+goals and attitudes, because of the limited number of studies
+that included them. We propose that for coaching research
+to continue to advance, these are areas where progress is
+not being made and thus constitute important directions for
+future studies.
+Contribution to the coaching practice
+We found a robust relationship between executive coaching
+and all the outcome dimensions investigated, suggesting that
+executive coaching is an eﬀective developmental tool from which
+all organizations may beneﬁt. As an implication for practice, we
+suggest that organizations use executive coaching as a valuable
+tool for managers in any context, especially during organizational
+change, given both business and human costs (
+Grant et al., 2009 ).
+Our study points to behavior cognitive activities as the main
+outcome categories impacted by coaching. Thus, organizations
+may consider using coaching for managers involved in planning
+and strategizing processes, such as product and project managers.
+Moreover, designing coaching interventions that help managers
+identify goal strategies and support developmental planning in
+their roles and relationships at work could have signiﬁcant
+consequences at the organizational level (
+O’Connor and Cavanagh,
+2013).
+Considering the possible change in attitudes and person
+characteristics, we suggest that the strength of the coaching
+Frontiers in Psychology /one.tnum/three.tnum frontiersin.org
+<<<PAGE=14>>>
+Nicolau et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+on these dimensions could be stronger if coaches take a more
+systemic approach and facilitate aligning the manager’s goals
+with the organization’s strategy to enhance their positive attitudes
+toward the organization and, thus, motivation and engagement in
+goal achievement.
+We found conﬁrmation that the number of coaching sessions
+does not impact the coaching eﬀectiveness. This suggests that the
+coachees may adjust the number of sessions based on their needs
+and the complexity of the goals. This coregulation phenomenon
+was supported in psychotherapy by research that found that the
+patients showed similar gains regardless of the duration of the
+treatment (
+Stiles et al., 2015 ). Therefore, we suggest that allowing
+the coachees to schedule their own appointments rather than
+scheduling regular (e.g., weekly or bi-weekly) appointments might
+signiﬁcantly reduce “no-shows” or session cancellations without
+eﬀects on coaching eﬀectiveness.
+Limitations
+Although many of the methodological limitations of previous
+meta-analytic studies were addressed, some notable ones remained.
+Firstly, the coaching interventions, measures, and outcomes across
+the included studies varied considerably, which limited the number
+of direct comparisons that could be made for a meta-analytic
+synthesis. Some of the ﬁndings are based on a relatively small
+number of studies (k = 3), and such estimates are likely to be
+less stable (
+Borenstein et al., 2009 ). Furthermore, we could not
+analyze the relationship with executive coaching for some outcome
+dimensions, such as cognitions and intentions, or potential
+moderators, such as coaching background and coaching method,
+because of missing studies or data in the reviewed studies. Although
+there was no evidence for publication bias and the inclusion of the
+20 studies was above the minimum for meta-analysis (
+Sterne et al.,
+2008), further research is still required to substantiate these results
+and to explore the uncovered outcomes dimensions and possible
+moderators. Secondly, even though we provide insights into the
+impact of executive coaching on behaviors, attitudes, and person
+characteristic dimensions, we were unable to analyze speciﬁc
+outcomes (e.g., leading, engagement, job stress, and turnover
+intentions) or speciﬁc achievement goal frameworks due to a lack of
+primary studies. Thirdly, we could not measure the possible impact
+of executive coaching on other people within an organization due
+to the focus on individual outcomes of coaching in the studies
+included in our analysis (
+Grant et al., 2009 ). Similarly, we could
+not include the possible impact of context factors in facilitating or
+thwarting the coaching outcomes (
+Fontes and Dello Russo, 2021 ).
+Fourthly, the authors of the reviewed studies have investigated the
+coaching outcomes using a variety of measurements that could have
+inﬂuenced the results and may have depended on other variables
+(
+Graßmann et al., 2020 ).
+Conclusion
+The current meta-analysis strongly contributes to providing
+evidence that executive coaching is an eﬀective intervention
+in organizations, especially for behavioral change. While the
+literature shows that the recipients of executive coaching
+typically are leaders (
+De Meuse et al., 2009 ; MacKie, 2014 ;
+de Haan and Nilsson, 2023 ), this meta-analysis has brought
+signiﬁcant support for the eﬀectiveness of coaching that
+organizations may consider using for other groups of employees,
+such as production employees, to support their personal
+development, mainly due to its impact on behavioral cognitive
+activities and performance behaviors such as goal strategy and
+goal attainment.
+Despite some limitations, this meta-analysis has made
+important contributions to our understanding of coaching
+eﬀectiveness. Firstly, it proposes a way to structure the large variety
+of outcomes using a systemic approach for outcomes classiﬁcation
+based on existing typologies in applied psychology research (
+Bosco
+et al., 2015 ). This meta-analysis provides a more inclusive and
+robust hierarchic classiﬁcation framework for coaching outcomes
+and points to areas less explored by coaching research. It highlights
+future research directions, such as intentions, goals, cognitions,
+and attributions. Secondly, it investigates the relative eﬀect of
+executive coaching on diﬀerent types of coaching outcomes
+reported in RCT studies. Unlike the previous meta-analyses, it
+includes only the studies on executive coaching in organizational
+settings with rigorous research designs that allow controlling
+for a range of threats to internal and external validity (
+Grant
+et al., 2009 ; Grant, 2012 ) and substantially reduce same-source
+biases, Hawthorne eﬀects, and other false positives. Thirdly, our
+study oﬀers evidence regarding the distribution of eﬀect sizes
+across diﬀerent coaching outcomes and compares the strengths
+of coaching on diﬀerent types of outcomes to assess what is
+most impacted. Fourthly, it explores possible conditions for
+the relative eﬀect of coaching on diﬀerent types of outcomes,
+providing evidence for the importance of these conditions for
+coaching eﬀectiveness.
+Overall, our study supports the further development of
+coaching research and practice that can be used to identify
+the underlying mechanisms and processes by which coaching
+interventions are successful.
+Data availability statement
+The datasets presented in this study can be found in
+online repositories. The names of the repository/repositories
+and accession number(s) can be found in the
+article/
+Supplementary material.
+Author contributions
+AN and TC contributed to the conception and design of the
+study. AN organized the database and wrote the ﬁrst draft of
+the manuscript. OC and AN performed the statistical analysis.
+AN, OC, and AK wrote sections of the manuscript. All authors
+contributed to the manuscript revision, read, and approved the
+submitted version.
+Frontiers in Psychology /one.tnum/four.tnum frontiersin.org
+<<<PAGE=15>>>
+Nicolau et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+Funding
+This research was co-ﬁnanced from the European
+Social Fund through the Human Capital Operational
+Program, project no: POCU/993/6/13/153322 (Educational
+and training support for Ph.D. students and young
+researchers in preparation for insertion into the
+labor market).
+Conﬂict of interest
+The authors declare that the research was conducted
+in the absence of any commercial or ﬁnancial relationships
+that could be construed as a potential conﬂict
+of interest.
+Publisher’s note
+All claims expressed in this article are solely those of the
+authors and do not necessarily represent those of their aﬃliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+Supplementary material
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.
+1089797/full#supplementary-material
+References
+Albarracin, D., and Shavitt, S. (2018). Attitudes and attitu de change. Ann. Rev.
+Psychol. 69, 299–327. doi: 10.1146/annurev-psych-122216-011911
+Athanasopoulou, A., and Dopson, S. (2018). A systematic review of executive
+coaching outcomes: Is it the journey or the destination that matters the most? Leaders.
+Quart. 29, 70–88. doi: 10.1016/j.leaqua.2017.11.004
+∗Ballesteros-Sánchez, L., Ortiz-Marcos, I., and Rodríguez-R ivero, R. (2019). The
+impact of executive coaching on project managers’ personal com petencies. Project
+Manag. J. 50, 306–321. doi: 10.1177/8756972819832191
+Borenstein, M. (2005). Software for Publication Bias. Publication Bias
+in Meta-analysis: Prevention, Assessment and Adjustments , 193–220.
+doi: 10.1002/0470870168.ch11
+Borenstein, M., Cooper, H., Hedges, L., and Valentine, J. (200 9). Eﬀect sizes for
+continuous data. Handb. Res. Synth. Meta Anal . 2, 221–235.
+Borenstein, M., Hedges, L., Higgins, J., and Rothstein, H. ( 2005). Comprehensive
+Meta- analysis (Version 2) [Computer software] . Englewood, NJ: Biostat.
+Bosco, F. A., Aguinis, H., Singh, K., Field, J. G., and Pierce, C . A.
+(2015). Correlational eﬀect size benchmarks. J. Appl. Psychol . 100, 431–449.
+doi: 10.1037/a0038047
+Bright, D., and Crockett, A. (2012). Training combined with coaching can make
+a signiﬁcant diﬀerence in job performance and satisfaction. Coaching 5, 4–21.
+doi: 10.1080/17521882.2011.648332
+Burt, D., and Talati, Z. (2017). The unsolved value of executive coaching: A meta-
+analysis of outcomes using randomised control trial studies . Int. J. Evid. Based Coach.
+Mentor. 15, 17–24. doi: 10.3316/informit.261674206385623
+de Haan, E., and Nilsson, V. O. (2023). What can we know about th e eﬀectiveness
+of coaching? a meta-analysis based only on randomized controlle d trials. Acad. Manag.
+Learn. Educ. doi: 10.5465/amle.2022.0107
+De Meuse, K. P., Dai, G., and Lee, R. J. (2009). Evaluating the
+eﬀectiveness of executive coaching: Beyond ROI? Coaching 2, 117–134.
+doi: 10.1080/17521880902882413
+Egger, M., Smith, G. D., Schneider, M., and Minder, C. (1997). Bias in
+meta-analysis detected by a simple, graphical test. Br. Med. J . 315, 629–634.
+doi: 10.1136/bmj.315.7109.629
+Elliott, R. (2011). Utilizing evidence-based leadership theor ies in coaching for
+leadership development: Towards a comprehensive integrating c onceptual framework.
+Int. Coach. Psychol. Rev . 6, 46–70. doi: 10.53841/bpsicpr.2011.6.1.46
+Erdös, T., and Ramseyer, F. T. (2021). Change process in coach ing: Interplay of
+nonverbal synchrony, working alliance, self-regulation, and g oal attainment. Front.
+Psychol. 12, 580351. doi: 10.3389/fpsyg.2021.580351
+∗Evers, W. J., Brouwers, A., and Tomic, W. (2006). A quasi-exper imental
+study on management coaching eﬀectiveness. Consult. Psychol. J . 58, 174–182.
+doi: 10.1037/1065-9293.58.3.174
+∗Finn, F. A. (2007). Leadership Development Through Executive Coaching:
+The Eﬀects on Leaders’ Psychological States and Transformationa l Leadership
+Behaviour. (Doctoral dissertation), Queensland University of Technolo gy, Brisbane,
+QLD, Australia.
+∗Fontes, A., and Dello Russo, S. (2021). An experimental ﬁeld stud y on the eﬀects
+of coaching: The mediating role of psychological capital. Appl. Psychol . 70, 459–488.
+doi: 10.1111/apps.12260
+Grant, A. M. (2003). The impact of life coaching on goal attainme nt,
+metacognition and mental health. Soc. Behav. Pers. Int. J. 31, 253–263.
+doi: 10.2224/sbp.2003.31.3.25310.2224/sbp.2003.31.3.253
+Grant, A. M. (2010). It takes time: A stages of change perspectiv e on
+the adoption of workplace coaching skills. J. Change Manag . 10, 61–77.
+doi: 10.1080/14697010903549440
+Grant, A. M. (2012). ROI is a poor measure of coaching success: T owards a more
+holistic approach using a well-being and engagement framework. Coaching 5, 74–85.
+doi: 10.1080/17521882.2012.672438
+Grant, A. M., and Cavanagh, M. J. (2007). Evidence-based coac hing: Flourishing or
+languishing? Austr. Psycholog. 42, 239–254 doi: 10.1080/00050060701648175
+∗Grant, A. M., Curtayne, L., and Burton, G. (2009). Executive co aching enhances
+goal attainment, resilience and workplace well-being: A randomi sed controlled study.
+J. Positive Psychol . 4, 396–407. doi: 10.1080/17439760902992456
+∗Grant, A. M., Green, L. S., and Rynsaardt, J. (2010). Development al coaching for
+high school teachers: Executive coaching goes to school. Consult. Psychol. J . 62, 151.
+doi: 10.1037/a0019212
+Graßmann, C., Schölmerich, F., and Schermuly, C. C. (2020). The relationship
+between working alliance and client outcomes in coaching: A met a-analysis. Hum.
+Relat. 73, 35–58. doi: 10.1177/0018726718819725
+Green, L. S., Oades, L. G., and Grant, A. M. (2006). Cognitive-be havioral, solution-
+focused life coaching: Enhancing goal striving, well-being, a nd hope. J. Positive Psychol.
+1, 142–149. doi: 10.1080/17439760600619849
+Hart, W., Albarracín, D., Eagly, A. H., Brechan, I., Lindberg, M. J., and Merrill, L.
+(2009). Feeling validated versus being correct: A meta-analys is of selective exposure to
+information. Psycholog. Bullet. 135, 555. doi: 10.1037/a0015701
+Hedges, L. V. (1981). Distribution theory for Glass’s estimat or of eﬀect size and
+related estimators. J. Educ. Stat . 6, 107–128. doi: 10.3102/10769986006002107
+Hedges, L. V., and Cooper, H. (1994). “Research synthesis as a scientiﬁc enterprise, ”
+in The Handbook of Research Synthesis . p. 285–299.
+Hedges, L. V., Higgins, J. P. T., and Rothstein, H. R. (2009). Introduction to
+Meta-analysis. Chichester, WS: John Wiley & Sons.
+Hedges, L. V., and Olkin, I. (1984). Nonparametric estimators of eﬀect
+size in meta-analysis. Psychol. Bullet . 96, 573. doi: 10.1037/0033-2909.96.
+3.573
+Higgins, J. P., and Thompson, S. G. (2002). Quantifying hetero geneity in a meta-
+analysis. Stat. Med. 21, 1539–1558. doi: 10.1002/sim.1186
+ICF (2020). The 2020 ICF Global Coaching Study . Available online
+at: https://coachingfederation.org/app/uploads/2020/09/FINAL_ICF_GCS2020_
+ExecutiveSummary.pdf (accessed May 23, 2023).
+Johnson, B. T., Mullen, B., and Salas, E. (1995). Comparison of th ree major
+meta-analytic approaches. J. Appl. Psychol. 80, 94. doi: 10.1037/0021-9010.80.1.94
+Frontiers in Psychology /one.tnum/five.tnum frontiersin.org
+<<<PAGE=16>>>
+Nicolau et al. /one.tnum/zero.tnum./three.tnum/three.tnum/eight.tnum/nine.tnum/fpsyg./two.tnum/zero.tnum/two.tnum/three.tnum./one.tnum/zero.tnum/eight.tnum/nine.tnum/seven.tnum/nine.tnum/seven.tnum
+Jones, R. J., Woods, S. A., and Guillaume, Y. R. (2016). The eﬀect iveness of
+workplace coaching: A meta-analysis of learning and performance outcomes from
+coaching. J. Occup. Org. Psychol . 89, 249–277. doi: 10.1111/joop.12119
+Kilburg, R. R. (1996). Toward a conceptual understanding and d eﬁnition of
+executive coaching. Consult. Psychol. J . 48, 134. doi: 10.1037/1061-4087.48.2.134
+Kim, S., Egan, T. M., and Moon, M. J. (2014). Managerial coach ing
+eﬃcacy, work-related attitudes, and performance in public orga nizations:
+A comparative international study. Rev. Publ. Person. Admin . 34, 237–262.
+doi: 10.1177/0734371X13491120
+∗Kochanowski, S., Seifert, C. F., and Yukl, G. (2010). Using coa ching to enhance
+the eﬀects of behavioral feedback to managers. J. Leaders. Org. Stud . 17, 363–369.
+doi: 10.1177/1548051809352663
+∗Ladegard, G., and Gjerde, S. (2014). Leadership coaching, lea der role-
+eﬃcacy, and trust in subordinates. A mixed methods study ass essing leadership
+coaching as a leadership development tool. Leaders. Quart . 25, 631–646.
+doi: 10.1016/j.leaqua.2014.02.002
+LeBlanc, P. J. (2018). Higher education in a VUCA world. Change 50, 23–26.
+doi: 10.1080/00091383.2018.1507370
+Leonard-Cross, E. (2010). Developmental coaching: Business beneﬁt–fact or fad?
+An evaluative study to explore the impact of coaching in the workpla ce. Int. Coach.
+Psychol. Rev. 5, 36–47. doi: 10.53841/bpsicpr.2010.5.1.36
+Liberati, A., Altman, D. G., Tetzlaﬀ, J., Mulrow, C., Gøtzsche, P. C., Ioannidis,
+J. P., et al. (2009). The PRISMA statement for reporting system atic reviews and
+meta-analyses of studies that evaluate health care interventi ons: explanation and
+elaboration. Ann. Intern. Med. 151, W-65. doi: 10.7326/0003-4819-151-4-200908180-
+00136
+Locke, E. A., and Latham, G. P. (2002). Building a practically usef ul theory
+of goal setting and task motivation: A 35-year odyssey. Am. Psycholog . 57, 705.
+doi: 10.1037/0003-066X.57.9.705
+∗MacKie, D. (2014). The eﬀectiveness of strength-based exec utive coaching in
+enhancing full range leadership development: A controlled study. Consult. Psychol. J .
+66, 118. doi: 10.1037/cpb0000005
+∗McGonagle, A. K., Beatty, J. E., and Joﬀe, R. (2014). Coaching f or workers
+with chronic illness: Evaluating an intervention. J. Occup. Health Psychol . 19, 385.
+doi: 10.1037/a0036601
+∗McGonagle, A. K., Schwab, L., Yahanda, N., Duskey, H., Gertz, N. , Prior,
+L., et al. (2020). Coaching for primary care physician well-being : A randomized
+trial and follow-up analysis. J. Occup. Health Psychol . 25, 297. doi: 10.1037/ocp000
+0180
+∗Moen, F., and Federici, R. A. (2012). The eﬀect from external executive coaching.
+Coaching 5, 113–131. doi: 10.1080/17521882.2012.708355
+∗Moen, F., and Skaalvik, E. (2009). The eﬀect from executive co aching on
+performance psychology. Int. J. Evid. Based Coach. Mentor. 7, 31–49. Available online
+at: https://radar.brookes.ac.uk/radar/items/89e11575-fa06-473a-a6ab-8d202ca4e5d0/
+1/
+Mullen, E. J. (1994). Framing the mentoring relationship as an i nformation
+exchange. Hum. Resour. Manag. Rev . 4, 257–281. doi: 10.1016/1053-4822(94)90
+015-9
+Neal, A., Godley, S. T., Kirkpatrick, T., Dewsnap, G., Joung, W., an d Hesketh,
+B. (2006). An examination of learning processes during critic al incident training:
+Implications for the development of adaptable trainees. J. Appl. Psychol. 91, 1276–1291.
+doi: 10.1037/0021-9010.91.6.1276
+Nicolau, A., and Constantin, T. (2021). “How executive coach ing helps managers
+increase their performance and deal with uncertainty: A syst ematic review, ” in
+Monograph of Under the Pressure of Digitalization: Challenges an d Solutions at
+Organizational and Industrial Levels, Filodiritto Editore . p. 99–105.
+∗O’Connor, S., and Cavanagh, M. (2013). The coaching ripple eﬀec t: The eﬀects
+of developmental coaching on well-being across organisational networks. Psychol.
+WellBeing 3, 1–23. doi: 10.1186/2211-1522-3-2
+Orvis, K. A., Fisher, S. L., and Wasserman, M. E. (2009). Powe r to the people: Using
+learner control to improve trainee reactions and learning in we b-based instructional
+environments. J. Appl. Psychol . 94, 960–971. doi: 10.1037/a0014977
+Orwin, R. G. (1983). A fail-safe N for eﬀect size in meta-analysi s. J. Educ. Statist . 8,
+157–159. doi: 10.2307/1164923
+∗Peláez Zuberbuhler, M. J., Salanova, M., and Martínez, I. M. (20 20). Coaching-
+based leadership intervention program: A controlled trial stud y. Front. Psychol. 2019,
+3066. doi: 10.3389/fpsyg.2019.03066
+Rank, J., and Gray, D. E. (2017). The role of coaching for relatio nship satisfaction,
+self-reﬂection, and self-esteem: Coachees’ self-presentation ability as a moderator.
+Consult. Psychol. J . 69, 187. doi: 10.1037/cpb0000082
+∗Richardson, T. M. (2010). Solution-Focused Brief Coaching as an Executive
+Coaching Intervention: A Quasi-Experimental Study . (Doctoral dissertation),
+University of Phoenix, Washington, DC, United States.
+Roberts, B. W., Luo, J., Briley, D. A., Chow, P. I., Su, R., and H ill, P. L. (2017). A
+systematic review of personality trait change through interv ention. Psychol. Bullet. 143,
+117. doi: 10.1037/bul0000088
+Schunk, D. H. (1995). Self-eﬃcacy, motivation, and performan ce. J. Appl. Sport
+Psychol. 7, 112–137. doi: 10.1080/10413209508406961
+Smither, J. W., London, M., Flautt, R., Vargas, Y., and Kucine , I. (2003).
+Can working with an executive coach improve multisource feedb ack ratings
+over time? A quasi-experimental ﬁeld study. Personn. Psychol. 56, 23–44.
+doi: 10.1111/j.1744-6570.2003.tb00142.x
+Sonesh, S. C., Coultas, C. W., Lacerenza, C. N., Marlow, S. L., B enishek, L. E., and
+Salas, E. (2015). The power of coaching: A meta-analytic invest igation. Coaching 8,
+73–95. doi: 10.1080/17521882.2015.1071418
+Spence, G. B., and Grant, A. M. (2007). Professional and peer life c oaching and the
+enhancement of goal striving and well-being: An exploratory stu dy. J. Positive Psychol .
+2, 185–194. doi: 10.1080/17439760701228896
+Spence, G. B., and Oades, L. G. (2011). Coaching With Self-Determination Theory
+in Mind: Using Theory to Advance Evidence-Based Coaching Practice , 37–55. Available
+online at: https://ro.uow.edu.au/gsbpapers/104/ (accessed May 23, 2023).
+Sterne, J. A., Egger, M., and Moher, D. (2008). Addressing re porting biases. Cochr.
+Handb. Systemat. Rev. Intervent. 10, 297–333. doi: 10.1002/9780470712184.ch10
+Stiles, W. B., Barkham, M., and Wheeler, S. (2015). Duration of psychological
+therapy: Relation to recovery and improvement rates in UK routi ne practice. Br. J.
+Psychiatr. 207, 115–122. doi: 10.1192/bjp.bp.114.145565
+Theeboom, T., Beersma, B., and van Vianen, A. E. (2014). Does coaching work?
+A meta-analysis on the eﬀects of coaching on individual level o utcomes in an
+organizational context. J. Positive Psychol . 9, 1–18. doi: 10.1080/17439760.2013.837499
+Wasylyshyn, K. M. (2022). The “art” of executive coaching at t he top:
+Using clients’ self-imagery as a tool for high impact. Consult. Psychol. J . 74, 1.
+doi: 10.1037/cpb0000212
+Whitmore, J. (2002). Coaching for Performance . London: Nicholas
+Brealey Publishing.
+Wilkinson, L. (1999). Statistical methods in psychology journ als: Guidelines and
+explanations. Am. Psycholog. 54, 594–604. doi: 10.1037/0003-066X.54.8.594
+∗Williams, J. S., and Lowman, R. L. (2018). The eﬃcacy of executi ve coaching: An
+empirical investigation of two approaches using random assign ment and a switching-
+replications design. Consult. Psychol. J . 70, 227–249. doi: 10.1037/cpb0000115
+∗Zanchetta, M., Junker, S., Wolf, A. M., and Traut-Mattausch, E. (2020).
+“Overcoming the fear that haunts your success”—The eﬀectiv eness of
+interventions for reducing the impostor phenomenon. Front. Psychol . 11, 405.
+doi: 10.3389/fpsyg.2020.00405
+All studies that were included in the ﬁnal analysis are indic ated with an ∗ in
+our list of references.
+Frontiers in Psychology /one.tnum/six.tnum frontiersin.org

@@ -1,0 +1,2525 @@
+<<<PAGE=1>>>
+Fontaine et al. Implementation Science           (2024) 19:68  
+https://doi.org/10.1186/s13012-024-01398-0
+SYSTEMATIC REVIEW Open Access
+© The Author(s) 2024. Open Access  This article is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 
+International License, which permits any non-commercial use, sharing, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if 
+you modified the licensed material. You do not have permission under this licence to share adapted material derived from this article or 
+parts of it. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated 
+otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To 
+view a copy of this licence, visit http:// creat iveco mmons. org/ licen ses/ by- nc- nd/4. 0/.
+Implementation Science
+Effects of implementation strategies 
+on nursing practice and patient outcomes: 
+a comprehensive systematic review 
+and meta-analysis
+Guillaume Fontaine1,2,3,4*  , Billy Vinette5,6, Charlene Weight1, Marc-André Maheu-Cadotte5, 
+Andréane Lavallée7, Marie-France Deschênes5,8, Alexandra Lapierre9, Sonia A. Castiglione1,10, 
+Gabrielle Chicoine6,11, Geneviève Rouleau12,13, Nikolas Argiropoulos3, Kristin Konnyu14, Meagan Mooney1, 
+Christine E. Cassidy15,16, Tanya Mailhot5,17, Patrick Lavoie5,17, Catherine Pépin18, Sylvie Cossette5,17, 
+Marie-Pierre Gagnon9,19, Sonia Semenic1,10, Nicola Straiton20 and Sandy Middleton20,21 
+Abstract 
+Background Implementation strategies targeting individual healthcare professionals and teams, such as audit 
+and feedback, educational meetings, opinion leaders, and reminders, have demonstrated potential in promoting 
+evidence-based nursing practice. This systematic review examined the effects of the 19 Cochrane Effective Prac-
+tice and Organization Care (EPOC) healthcare professional-level implementation strategies on nursing practice 
+and patient outcomes.
+Methods A systematic review was conducted following the Cochrane Handbook, with six databases searched 
+up to February 2023 for randomized studies and non-randomized controlled studies evaluating the effects of EPOC 
+implementation strategies on nursing practice. Study selection and data extraction were performed in Covidence. 
+Random-effects meta-analyses were conducted in RevMan, while studies not eligible for meta-analysis were synthe-
+sized narratively based on the direction of effects. The quality of evidence was assessed using GRADE.
+Results Out of 21,571 unique records, 204 studies (152 randomized, 52 controlled, non-randomized) enrolling 36,544 
+nurses and 340,320 patients were included. Common strategies (> 10% of studies) were educational meetings, educa-
+tional materials, guidelines, reminders, audit and feedback, tailored interventions, educational outreach, and opinion 
+leaders. Implementation strategies as a whole improved clinical practice outcomes compared to no active inter-
+vention, despite high heterogeneity. Group and individual education, patient-mediated interventions, reminders, 
+tailored interventions and opinion leaders had statistically significant effects on clinical practice outcomes. Individual 
+education improved nurses’ attitude, knowledge, perceived control, and skills, while group education also influenced 
+perceived social norms. Although meta-analyses indicate a small, non-statistically significant effect of multifaceted 
+versus single strategies on clinical practice, the narrative synthesis of non-meta-analyzed studies shows favorable 
+*Correspondence:
+Guillaume Fontaine
+guil.fontaine@mcgill.ca
+Full list of author information is available at the end of the article
+<<<PAGE=2>>>
+Page 2 of 31Fontaine et al. Implementation Science           (2024) 19:68 
+outcomes in all studies comparing multifaceted versus single strategies. Group and individual education, as well 
+as tailored interventions, had statistically significant effects on patient outcomes.
+Conclusions Multiple types of implementation strategies may enhance evidence-based nursing practice, 
+though effects vary due to strategy complexity, contextual factors, and variability in outcome measurement. 
+Some evidence suggests that multifaceted strategies are more effective than single component strategies. Effects 
+on patient outcomes are modest. Healthcare organizations and implementation practitioners may consider employ-
+ing multifaceted, tailored strategies to address local barriers, expand the use of underutilized strategies, and assess 
+the long-term impact of strategies on nursing practice and patient outcomes.
+Trial registration PROSPERO CRD42019130446.
+Keywords Implementation strategies, Quality improvement, Knowledge translation strategies, Nurses, Nursing 
+practice, Professional practice, Clinical practice, Healthcare professional behavior, Patient outcomes
+Contributions to the literature
+• This is the first systematic review consolidating evi -
+dence on the effects of the 19 Cochrane Effective Prac -
+tice and Organization of Care (EPOC) healthcare pro -
+fessional-level implementation strategies on nursing 
+practice and patient outcomes.
+• It identifies effective strategies such as educational 
+meetings and materials, opinion leaders, strategies tai -
+lored to context-specific barriers and facilitators, and 
+reminders.
+• It illustrates the effects of strategies on determinants of 
+nurses’ behaviors, including attitude, perceived behav -
+ioral control, and social norms.
+• It identifies the need for more high-quality studies eval-
+uating underutilized strategies such as local consensus 
+processes, patient-reported outcome measures, and 
+continuous quality improvement, especially in low- and 
+middle-income countries.
+Background
+Nurses, comprising 59% of the global healthcare work -
+force, play a pivotal role in delivering both autonomous 
+and collaborative care across the spectrum of health -
+care services [1, 2]. Their contributions are essential for 
+achieving the United Nations’ 2030 Sustainable Devel -
+opment Goals (SDGs), particularly in ensuring healthy 
+lives and promoting well-being for people of all ages [3, 
+4]. Nurses are indispensable in providing comprehensive 
+primary healthcare [5], ensuring quality care, and main -
+taining patient safety through clinical decision-making 
+[6]. Given their central role in healthcare delivery, pro -
+moting the adoption of evidence-based practices among 
+nurses is a global imperative to enhance patient outcomes 
+and advance health equity [7, 8]. The range of nursing 
+practices is vast and can include administering medica -
+tion, assessing illnesses, conducting tests and screenings, 
+documenting care, practicing hand hygiene and other 
+infection prevention measures, offering vaccinations, and 
+providing counseling and advice on health behaviors [9].
+The successful adoption and sustained use of evidence-
+based practices by nurses is influenced by a multitude of 
+factors spanning individual, sociocultural, and environ -
+mental levels [9–13], as documented in implementation 
+science determinant frameworks such as the Theoreti -
+cal Domains Framework (TDF) [14]. These factors can 
+either hinder or facilitate implementation and encompass 
+challenges such as lack of knowledge, unfavorable social 
+norms, workflow or process issues, ineffective teamwork 
+or leadership, and inadequate institutional support [9–
+13, 15]. Implementation science has generated a wealth of 
+evidence on strategies that can overcome these multilevel 
+barriers, fostering behavior change and promoting the 
+adoption of best practices across various clinical contexts 
+[16–18]. Implementation strategies—the specific meth -
+ods/actions to promote the adoption of evidence-based 
+practices—aim to produce change in nurses’ behaviors or 
+the clinical environments in which they operate, or both 
+[19–21].
+Implementation strategy taxonomies have been devel -
+oped to characterize intervention components aimed 
+at promoting evidence uptake, including the Cochrane 
+Effective Practice and Organisation of Care (EPOC) Tax -
+onomy [22]. The EPOC Taxonomy includes 19 profes -
+sional implementation strategies, targeting individual 
+healthcare professionals and team behaviors, including 
+audit and feedback, clinical practice guidelines, commu -
+nities of practice, educational materials, local opinion 
+leaders, printed educational materials, and reminders 
+[22]. Multifaceted strategies, or implementation inter -
+ventions, combine several of these strategies to address 
+multiple barriers to implementation simultaneously [23, 
+24]. Investigating the effectiveness of multifaceted ver -
+sus single component strategies is crucial for identifying 
+the most efficient methods to promote evidence-based
+<<<PAGE=3>>>
+Page 3 of 31
+Fontaine et al. Implementation Science           (2024) 19:68 
+ 
+practices, optimizing resource use, and enhancing patient 
+outcomes [23].
+Studies examining the effects of implementation 
+strategies show small to moderate  impacts on chang -
+ing health professionals’ behaviors, with few providing 
+evidence of a significant change in patient outcomes 
+[25]. Systematic reviews have investigated the effects 
+of audit and feedback [17], local opinion leaders [26], 
+printed educational materials [27], strategies leveraging 
+information and communication technologies [28– 32], 
+and reminders [33] on professional practice and patient 
+outcomes. Specifically in nursing, two recent system -
+atic reviews explored the effects of implementation 
+strategies on the uptake of clinical practice guidelines 
+by nurses and demonstrated positive effects on nurs -
+ing practice and patient outcomes [34, 35]. However, 
+to our knowledge, no systematic review and meta-
+analysis has been conducted to consolidate evidence 
+on the effects of the full range of EPOC healthcare 
+professional-level implementation strategies on nurses’ 
+practice and patient outcomes. Furthermore, no pre -
+vious review has examined quantitatively the effects 
+of implementation strategies on key determinants of 
+nurses’ behaviors, such as attitudes (including beliefs 
+about consequences), knowledge, intentions, perceived 
+behavioral control (including beliefs about capabili -
+ties), skills, and perceived social norms, as outlined in 
+the TDF [14]. These determinants are particularly sig -
+nificant as they represent core elements of many estab -
+lished behavioral theories and frameworks [36], making 
+them crucial for understanding and driving clinical 
+practice change among nurses.
+Objective and research questions
+The objective of this systematic review and meta-
+analysis was to assess the effects of healthcare profes -
+sional-level implementation strategies, as defined in the 
+EPOC Taxonomy [22], on nurses’ clinical practice and 
+patient outcomes. We aimed to address the following 
+questions:
+1. What are the effects of implementation strategies on 
+compliance with desired clinical practice in nurses 
+(primary outcome) and patient outcomes (secondary 
+outcome)?
+2. What are the effects of implementation strategies on 
+six key determinants of nurses’ behavior in clinical 
+practice, including attitudes, intentions, knowledge, 
+perceived behavioral control, perceived social norms, 
+and skills (secondary outcomes)?
+3. What are the effects of multifaceted implementation 
+strategies compared to single implementation strate -
+gies on compliance with desired clinical practice in 
+nurses and patient outcomes?
+Methods
+This systematic review and meta-analysis was conducted 
+based on the Cochrane Handbook for Systematic Reviews 
+of Interventions [37] and is reported in accordance with 
+the Preferred Reporting Items for Systematic Reviews 
+and Meta-Analyses (PRISMA) statement (see Additional 
+file 1) [38].
+Protocol and registration
+The protocol was registered at the International Prospec -
+tive Register of Systematic Reviews on 5/01/19 (PROS -
+PERO CRD42019130446) and can be found online [39]. 
+No changes have been made to the review methods since 
+the protocol’s registration.
+Search strategy and eligibility criteria
+A search strategy was developed in collaboration with 
+a Research Librarian using controlled vocabulary (e.g., 
+MeSH terms) and keywords relating to implementa -
+tion strategies, nurses, and study designs. Searches were 
+undertaken in CINAHL, EMBASE, ERIC, PsycINFO, 
+PubMed and Web of Science for literature published 
+between database inception until February 26, 2023 (see 
+Additional file  2). Other sources searched to identify 
+additional relevant citations included the reference lists 
+of included studies and relevant systematic reviews found 
+through the Cochrane Database of Systematic Reviews 
+and Google Scholar.
+We included studies conducted with all types of nurses 
+(e.g., registered nurses, nurse practitioners, clinical nurse 
+specialists, licensed practical nurses) across any clini -
+cal setting. Studies were excluded if more than 10% of 
+the sample consisted of other healthcare professionals 
+or if results specific to nurses were not reported. Studies 
+focusing on nursing students were excluded. Implemen -
+tation strategies were defined as methods or techniques 
+to promote the initial adoption and sustained use of 
+evidence-based interventions, practices and programs 
+[22]. Eligible studies were required to include at least 
+one of the 19 healthcare professional-level implemen -
+tation strategies outlined in the EPOC Taxonomy (see 
+Table 1) [22]. Studies of financial interventions, patient-
+oriented organizational interventions, structural organi -
+zational interventions, and regulatory interventions were 
+considered out of scope. The review allowed for studies 
+with all types of comparators or usual care. Studies had 
+to report either an objective measure of nurses’ practice, 
+such as clinical interventions reported in patients’ medi -
+cal files or the number of tests ordered, or a subjective
+<<<PAGE=4>>>
+Page 4 of 31Fontaine et al. Implementation Science           (2024) 19:68 
+Table 1 The 19 healthcare professional level implementation strategies in the Effective Practice and Organization of Care (EPOC) Taxonomy [22]
+Implementation strategy group for the purpose 
+of this review
+EPOC implementation strategies (N = 19) Definition Example
+Group 1: Individual clinician education Clinical practice guidelines Dissemination of systematically developed 
+guidelines intended to assist healthcare profes-
+sionals and patients in making informed decisions 
+about appropriate healthcare for specific clinical 
+conditions
+Providing nurses in geriatric care with updated guide-
+lines on fall prevention strategies
+Educational materials Development and distribution of manuals, toolkits, 
+and other resources either in-person, in print, or online, 
+designed to facilitate healthcare professionals’ under-
+standing and delivery of clinical innovations
+Distributing a handbook to oncology nurses on the lat-
+est chemotherapy administration protocols
+Educational games Utilization of interactive games either in-person, 
+in print, or online as a method to enhance learning 
+and improve standards of care among healthcare 
+professionals
+A mobile app game designed for nurses to practice 
+emergency response scenarios, enhancing their 
+decision-making skills in critical situations
+Educational outreach visits, or academic detailing Personalized education sessions conducted by trained 
+individuals who visit healthcare professionals in their 
+practice settings to inform and influence practice pat-
+terns towards the adoption of clinical innovations
+Academic detailers visiting community health centers 
+to train nurses on the use of new digital tools for patient 
+management
+Group 2: Group clinician education Educational meetings Organization of events such as workshops, courses, 
+or conferences specifically targeted at healthcare 
+professionals to educate and train them about new 
+clinical practices or innovations
+A workshop for nurse practitioners on advanced wound 
+care techniques, including the use of new biologic 
+dressings
+Communities of practice Formation of groups comprising individuals 
+with shared interests who engage regularly to enhance 
+their knowledge and expertise through collaborative 
+learning
+A virtual community of practice for pediatric nurses 
+to discuss challenges and solutions in neonatal care
+Interprofessional education Continuing education programs for healthcare profes-
+sionals from various disciplines, aimed at fostering 
+a collaborative environment to enhance the imple-
+mentation of clinical innovations
+An interprofessional training session for nurses, physi-
+cians, and pharmacists on multidisciplinary approaches 
+to pain management
+Group 3: Clinician reminders Reminders Manual or computerized prompts that direct health-
+care professionals to perform specific actions dur-
+ing interactions with patients, such as those provided 
+by computerized decision support systems
+Computer alerts reminding nurses in the intensive care 
+unit to assess patients for delirium at specific intervals
+Group 4: Patient-mediated interventions Patient-mediated Interventions Strategies aimed at modifying healthcare professional 
+behavior through direct engagement with patients, 
+equipping patients to be proactive about their care 
+and to question their healthcare guidelines and treat-
+ments
+Educating patients in a diabetes clinic on how to com-
+municate effectively with their nurses about their insulin 
+usage and concerns
+Group 5: Public release of performance data Public release of performance data Making performance data for healthcare professionals 
+available to the public through written or electronic 
+reports, intended to inform and influence consumer 
+choice and provider accountability
+Publishing annual nursing care quality metrics 
+for a maternity ward on the hospital website to help 
+expectant mothers choose their care providers
+Group 6: Managerial supervision Managerial supervision Provision of continuous oversight and training 
+for clinical supervisors who are tasked with oversee-
+ing the delivery of clinical innovations by healthcare 
+providers
+Implementing a mentoring program where experi-
+enced nurse supervisors provide guidance and feed-
+back to newly graduated nurses during their first year 
+of practice
+<<<PAGE=5>>>
+Page 5 of 31
+Fontaine et al. Implementation Science           (2024) 19:68 
+ 
+Table 1 (continued)
+Implementation strategy group for the purpose 
+of this review
+EPOC implementation strategies (N = 19) Definition Example
+Group 7: Audit and feedback Audit and feedback Regular summaries of healthcare professionals’ 
+performance, provided in written, electronic, or verbal 
+format, often accompanied by recommendations 
+for clinical improvements
+Feedback sessions where nurse managers review 
+monthly infection control practices with their team 
+and suggest improvements
+Monitoring the performance of the delivery of healthcare Ongoing assessment of healthcare services by individ-
+uals or organizations, comparing them against external 
+standards to ensure quality and compliance
+Regular audits of nursing documentation in the elec-
+tronic health record to ensure accuracy and complete-
+ness of patient care information
+Routine patient-reported outcome measures Systematic collection and analysis of data reported 
+directly by patients about their health outcomes, 
+used to inform healthcare delivery and patient care 
+strategies
+Nurses collecting and reviewing patient feedback 
+on post-operative care in a surgical unit to improve 
+nursing protocols
+Continuous quality improvement An iterative method involving healthcare teams 
+to continuously review and enhance the quality 
+of care, incorporating systematic problem-solving 
+methods and data analysis
+A nurse-led initiative to reduce patient wait times in the 
+emergency department by analyzing triage procedures 
+and implementing efficiency improvements
+Clinical incident reporting Systems designed to document and report critical 
+incidents in healthcare settings, aimed at identifying 
+and mitigating risks to patient safety
+A system where nurses can report any medication 
+errors or near misses, which is then reviewed for process 
+improvement
+Group 8: Tailored interventions Tailored interventions Customized strategies designed to address spe-
+cific barriers or to leverage facilitators identified 
+through assessments such as surveys or interviews, 
+intended to enhance the adoption of clinical practices
+Developing a tailored implementation strategy 
+for nurses in a neonatal intensive care unit (NICU) based 
+on a survey that identified specific barriers in adopt-
+ing a new protocol for managing neonatal abstinence 
+syndrome
+Local consensus processes Engagement of local healthcare professionals 
+and stakeholders in discussions to evaluate the rel-
+evance and appropriateness of a clinical innovation, 
+through formal or informal consensus-building 
+methods
+Facilitating discussions among nursing teams to decide 
+on the adoption of a new patient safety checklist
+Group 9: Local opinion leaders Local opinion leaders Identification and informational engagement of key 
+influencers within the healthcare community, recog-
+nized by their peers as leaders, to promote the adop-
+tion of clinical innovations among their colleagues
+Engaging a highly respected nurse to promote best 
+practices in patient-centered care across nursing teams
+<<<PAGE=6>>>
+Page 6 of 31Fontaine et al. Implementation Science           (2024) 19:68 
+measure, such as self-reported performance of clinical 
+interventions. Studies which focused solely on determi -
+nants of nurses’ practice were excluded. In terms of study 
+designs, the review included all types of randomized 
+studies including randomized controlled trials (RCTs), 
+cluster randomized trials (CRTs) and stepped wedge 
+CRTs. We also included non-randomized controlled 
+studies (NRCS). Cross-sectional studies, observational 
+studies, and case reports were excluded. Only published 
+peer-reviewed articles were included to allow for detailed 
+review of intervention components; conference abstracts, 
+dissertations and theses were excluded.
+Selection of studies
+Identified records were imported into EndNote X8 [40] 
+and duplicates were removed. The remaining records 
+were imported into the Covidence software [41] for 
+screening where additional duplicates were removed 
+automatically. Titles, abstracts, and full texts were 
+screened in duplicate in Covidence for eligibility by two 
+reviewers with conflicts resolved through discussion or 
+moderation of a third reviewer.
+Data extraction
+All data were extracted in duplicate in Covidence by two 
+reviewers with conflicts resolved through discussion or 
+moderation of a third reviewer. Data were extracted for 
+study, participant, and intervention characteristics (e.g., 
+strategies in each study arm according to the EPOC Tax -
+onomy), as well as our primary and secondary outcomes, 
+into a pre-piloted and standardized data extraction form 
+(Microsoft Excel for Office 365). All corresponding study 
+authors were contacted by email to clarify study details 
+and to obtain additional study characteristics and results 
+data. Two reminder emails were sent to authors who did 
+not respond to the initial request.
+Assessment of risk of bias
+For RCTs, risk of bias was assessed with the Cochrane 
+Risk of Bias 2 (RoB 2) tool for randomized trials [42]. For 
+CRTs, risk of bias was assessed with the Cochrane RoB 2 
+tool for CRTs [42]. For NRCS, risk of bias was assessed 
+with the Risk Of Bias in Non-randomized Studies-of 
+Interventions (ROBINS-I) tool [43]. If a single study 
+reported multiple outcomes relevant to the review, risk of 
+bias was assessed for each outcome. RCTs were ranked as 
+having low risk, some concerns, or high risk of bias across 
+five domains, and the overall risk of bias was derived. 
+CRTs were ranked as having low risk, some concerns, or 
+high risk of bias across six domains, and the overall risk 
+of bias was derived. NRCS were ranked as having a low, 
+moderate, serious, or critical risk of bias across seven 
+domains, and the overall risk of bias was derived. Two 
+reviewers assessed risk of bias independently, with con -
+flicts resolved through discussion.
+Measures of intervention effect
+All continuous and dichotomous outcomes related to 
+clinical practice were expressed in terms of compliance 
+with the desired practice or process of care completed by 
+a nurse. In cases where studies reported both dichoto -
+mous and continuous measures for the same targeted 
+behavior, we extracted and conducted separate analyses 
+for each type of measure. We prioritized the extraction 
+of individual clinical practice measures over summary or 
+composite measures whenever the former were available.
+In situations where the intervention aimed to reduce a 
+targeted behavior to align more closely with established 
+guidelines, we inverted the outcome data for both con -
+tinuous and dichotomous measures to ensure a consist -
+ent direction of effect and interpretation across studies. 
+When a study measured multiple clinical practice out -
+comes, we selected the outcome identified as the primary 
+outcome by the study authors. If the primary outcome 
+was not specified, we extracted the first outcome listed in 
+the results section.
+Additional continuous and dichotomous outcomes 
+extracted, where available, included nurses’ attitudes 
+(encompassing beliefs about consequences), defined 
+broadly as emotional and evaluative responses to a clini -
+cal behavior; intention, defined as readiness to perform 
+a clinical behavior; knowledge, defined as the aware -
+ness and understanding of specific facts, techniques, 
+or processes that affect the clinical behavior; perceived 
+behavioral control (encompassing beliefs about capabili -
+ties, self-efficacy), defined broadly as nurses’ perception 
+of their ability to perform a clinical behavior; perceived 
+social norms (encompassing social influences), defined 
+broadly as nurses’ perception about the normative expec-
+tations of others regarding a clinical behavior; and skills, 
+defined as the practical abilities to perform a clinical 
+behavior. We also extracted continuous and dichotomous 
+outcomes related to patient health, defined as patient 
+health status, reduction in symptoms, and other health 
+improvements reasonably attributable to the nursing care 
+provided.
+For outcomes assessed at multiple time points, we 
+selected data from the longest follow-up period. In the 
+case of cross-over studies, we used data from the first 
+period only due to the risk of carryover effects.
+Data analysis
+Where data were available, we performed DerSimonian 
+and Laird random-effects meta-analyses of the primary
+<<<PAGE=7>>>
+Page 7 of 31
+Fontaine et al. Implementation Science           (2024) 19:68 
+ 
+(clinical practice) or secondary outcomes (patient out -
+comes; nurses’ attitudes, intentions, knowledge, per -
+ceived control, perceived social norms, and skills) across 
+various intervention categorizations outlined in Table  1. 
+We synthesized the pooled estimate of studies in which 
+the implementation strategy was present vs. not present 
+(e.g., audit and feedback in the intervention arm [IA] vs. 
+no active intervention or another implementation strat -
+egy in the control arm [CA]). We also synthesized the 
+pooled estimate of studies comparing directly a multifac -
+eted strategy to a single strategy.
+For dichotomous outcomes, a pooled odds ratio (OR) 
+with a 95% confidence interval (CI) was calculated in 
+Review Manager Web (RevMan Web) Version 7.7.0 [44] 
+using the proportion of people with each outcome of 
+interest. A fixed continuity correction of 0.5 was applied 
+where there was a 0 cell in calculating ORs. For continu -
+ous outcomes, we calculated the standardized mean 
+difference (SMD) by using the difference between the 
+post-test means, divided by the pooled standard devia -
+tion (SD) in RevMan Web since studies used a wide 
+range of outcome measures for diverse constructs and 
+targeted behaviors. Missing SDs were obtained, when 
+possible, by using CIs or standard errors in calculations 
+detailed in the Cochrane Handbook [37]. For the CRTs 
+included, we conducted analyses adjusting for clustering 
+with the design effect when possible. The design effect 
+was calculated using the intracluster correlation coeffi -
+cient (ICC), the number of clusters and the average sam -
+ple size of each cluster [37]. Stepped-wedge CRTs were 
+only included for descriptive purposes and were not 
+used in the analysis due to the inability to adjust for time 
+effects. For studies with multiple intervention groups, 
+we included each pairwise comparison relevant to this 
+review separately, but with shared control groups divided 
+out approximately evenly among the comparisons [37]. 
+Missing data regarding study and intervention character -
+istics, as well as results, were not imputed. Missing data 
+regarding ICCs were imputed based on the median ICC 
+observed in the extracted data. Two-sided p values of less 
+than 0.05 were deemed to be statistically significant.
+In addition to the quantitative analyses, we conducted a 
+narrative synthesis to summarize and interpret the find -
+ings from studies that could not be included in the meta-
+analysis due to missing data, the nature of the outcome, 
+or the nature of the comparison. As recommended in 
+the Cochrane Handbook [37], we used the direct of the 
+effects to synthesize findings narratively.
+Tables were created to present the characteristics of 
+included studies, the effects of implementation strate -
+gies on both primary and secondary outcomes, and the 
+effects of implementation strategies on clinical practice 
+outcomes across strata for the primary comparison.
+Risk of bias judgments for each extracted outcome 
+were summarized by domain using RoB 2 and ROBINS-I, 
+and presented through risk of bias graphs and summaries 
+with the risk of bias visualization tool (robvis) [45].
+Subgroup analysis, investigation of heterogeneity 
+and non-reporting bias
+We assessed heterogeneity across studies using the 
+I2 statistic (I 2  of less than 25% = low heterogeneity; I2 
+25–75% = moderate heterogeneity; I2 of more than 
+75% = high heterogeneity) and by visually examining 
+forest plots to explore the range of effect sizes for com -
+parisons of interest.  We investigated heterogeneity by 
+stratifying the meta-analysis for our first comparison 
+(i.e., any implementation strategy versus no active inter -
+vention) based on the study design, the study setting, the 
+targeted clinical behavior in nurses, and the intervention 
+(i.e., implementation strategy group).  We assessed non-
+reporting bias with funnel plots for our primary outcome.
+Sensitivity analysis
+We conducted a sensitivity analysis by excluding studies 
+with unclear to high risk of bias to assess their potential 
+impact on study outcomes.
+Assessment of the certainty of the evidence and summary 
+of findings
+Two reviewers assessed the quality of evidence inde -
+pendently for each outcome using the five domains of 
+the Grading of Recommendations Assessment, Devel -
+opment, and Evaluation (GRADE) approach [46] in the 
+GRADEpro GDT software [47]: risk of bias, inconsist -
+ency, indirectness, imprecision, and publication bias. A 
+third reviewer helped resolve any discrepancies in the 
+assessments. Risk of bias was assessed by the percentage 
+of studies evaluated as low risk of bias in a given com -
+parison (not serious > 50% studies, serious 21–50%, very 
+serious ≤ 20%). The certainty of evidence was rated for 
+each outcome as “very low, ” “low, ” “moderate, ” or “high. ” 
+A table was created to present an overview of effects and 
+the certainty of evidence for clinical practice and patient 
+outcomes, and summary of findings tables were created 
+for all comparisons and outcomes.
+Results
+Results of the search and included studies
+We identified 30,134 records from bibliographical data -
+bases and 39 from other sources, resulting in 21,602 
+unique records (see Fig.  1). Out of 837 records assessed 
+for eligibility, 204 studies were included: 152 randomized 
+studies and 52 controlled, non-randomized studies,
+<<<PAGE=8>>>
+Page 8 of 31Fontaine et al. Implementation Science           (2024) 19:68 
+enrolling 36,544 nurses (reported in 161 studies) and 
+340,320 patients (reported in 88 studies). All correspond-
+ing authors were contacted, and a total of 78 authors 
+(38%) responded to requests for additional data. Out of 
+the 204 studies included in the review, 160 contributed 
+data to the meta-analyses for our primary outcome (com-
+pliance with desired clinical practice) and 44 were syn -
+thesized narratively.
+Characteristics of included studies
+A summary of the characteristics of included studies is 
+presented in Table  2. The majority were randomized 
+studies (152 studies, 75%), including 96 CRTs (47%), 51 
+RCTs (25%), and 5 stepped-wedge CRTs (2%), involv -
+ing a total of 30,473 nurses and 323,986 patients. Non-
+randomized studies accounted for 52 studies (25%), 
+including 38 non-randomized controlled trials (19%), 
+13 non-randomized cluster-controlled trials (6%), and 
+1 controlled time series study (< 1%), involving 6,071 
+nurses and 16,334 patients. Most studies were conducted 
+in hospital settings, particularly inpatient or emergency 
+departments (139 studies; 68%). Primary care or general 
+practice settings comprised 25 studies (12%), and nurs -
+ing homes accounted for 21 studies (10%). Other settings 
+included community health centers, homecare, hospital 
+outpatient settings, public health units and skilled nurs -
+ing facilities. In terms of country income status, most 
+studies were conducted in high-income countries (160 
+studies, 78%), followed by upper-middle-income coun -
+tries (37 studies, 18%), and a small number in lower-mid -
+dle-income (7 studies, 3%) and low-income countries (1 
+study, < 1%). The studies targeted various clinical behav -
+iors, with the most common focus on multiple behaviors 
+(48 studies, 24%). Common behaviors included: pro -
+viding counseling and advice (29 studies, 14%), infec -
+tion prevention and control practices (26 studies, 13%), 
+assessing and diagnosing illness (26 studies, 13%), admin-
+istering medication (14 studies, 7%), documenting care 
+(10 studies, 5%), and coordinating care (10 studies, 5%). 
+Behaviors targeted in less than 5% of studies included 
+testing and screening, managing physical restraints, man-
+aging symptoms, managing care equipment, prescribing, 
+vaccinating, and reporting clinical incidents. Additional 
+file 3 presents the characteristics of all included studies. 
+Additional file 4 presents the excluded articles at full text 
+assessment stage and reasons for exclusion.
+Risk of bias across included studies
+We summarized the decisions regarding individual 
+domains within the Cochrane RoB 2 tool and ROBINS-I 
+in the risk of bias summary (see Fig. 2). Overall, for CRTs, 
+the risk of bias for all outcome assessments (N = 227 from 
+96 CRTs and 5 stepped-wedge CRTs) was distributed as 
+follows: 50% were assessed as low risk, 29% had some 
+concerns, and 21% were considered high risk. For RCTs 
+(N = 127 outcome assessments across 51 RCTs), 50% of 
+the assessments were categorized as having some con -
+cerns, 28% as high risk, and 22% as low risk. For NRCS 
+(N = 85 outcome assessments across 52 NRCS), 55% were 
+considered to have a critical risk, 25% a serious risk, 18% 
+a moderate risk and 2% a low risk. The full risk of bias 
+assessment for each outcome, for RCTs, CRTs and NCRS 
+is presented in Additional file 5.
+Use of implementation strategies across included studies
+As illustrated in the panel a of Fig.  3, among the imple -
+mentation strategies employed in at least 10% of the 
+studies, educational meetings were the most common 
+(intervention arms [IAs] N = 155; control arms [CAs] 
+N = 29), followed by educational materials (IAs N = 145; 
+CAs N = 22), clinical practice guidelines (IAs N = 64; 
+CAs N = 13), reminders (IAs N = 43; CAs N = 3), audit 
+and feedback (IAs N = 38; CAs N = 1), educational out -
+reach (IAs N = 32; CAs N = 1), tailored interventions (IAs 
+N = 26; CAs N = 2), and local opinion leaders (IAs N = 24; 
+CAs N = 3). Strategies employed in less than 10% of stud -
+ies included patient-mediated interventions, local con -
+sensus processes, monitoring the performance of delivery 
+of healthcare, clinical incident reporting, interprofes -
+sional education, communities of practice, managerial 
+supervision, routine patient-reported outcome measures, 
+educational games, and continuous quality improvement. 
+No intervention used public release of performance data.
+As illustrated in the panel b of Fig.  3, implementation 
+strategies almost always included some form of individ -
+ual clinician education (including educational materials, 
+educational outreach, and clinical practice guidelines) 
+and/or group clinician education (including communities 
+of practice, educational meetings, and interprofessional 
+education) combined with reminders, audit and feed -
+back, local opinion leaders, and tailored interventions. 
+Additional file  3 presents the implementation strategies 
+used across study arms.
+Effects of implementation strategies
+Effects of implementation strategies as a whole compared 
+to no active intervention
+In comparison with no active intervention, implementa -
+tion strategies as a whole had significant positive effects 
+on continuous clinical practice outcomes (76 assess -
+ments; SMD 0.94, 95% CI 0.72–1.15; I 2 = 95%; see Fig.  4), 
+and dichotomous clinical practice outcomes (60 assess -
+ments; OR 2.11, 95% CI 1.70–2.62; I 2 = 95%; see Fig.  5). 
+Statistically significant positive effects were also observed 
+on nurses’ attitudes (30 assessments; SMD 0.59, 95% CI 
+0.23–0.95; I2 = 92%), knowledge (37 assessments; SMD
+<<<PAGE=9>>>
+Page 9 of 31
+Fontaine et al. Implementation Science           (2024) 19:68 
+ 
+1.16, 95% CI 0.82–1.49; I 2 = 91%), perceived behavioral 
+control (19 assessments; SMD 0.74, 95% CI 0.35–1.13; 
+I2 = 91%), and skills (10 assessments; SMD 0.97, 95% CI 
+0.42–1.52; I2 = 87%). No significant effects were observed 
+on continuous patient outcomes (10 assessments; SMD 
+0.23, 95% CI -0.01–0.47; I 2 = 87%) and dichotomous 
+patient outcomes (12 assessments; OR 1.46, 95% CI 0.96–
+2.22; I2 = 84%). Statistical heterogeneity was high in all 
+analyses. All forest plots are presented in Additional file 6. 
+The clinical practice outcomes included in meta-analyses 
+across all comparisons are presented in Additional file 7.
+Table  3 presents subgroup analyses of the estimated 
+SMDs for continuous outcomes and the estimated ORs 
+for dichotomous outcomes to illuminate the variance in 
+effects attributed to study design, study setting, and clini-
+cal behavior targeted for change. Minimal differences in 
+effects were noted across these strata. Though, primary 
+care/general practice for continuous clinical practice out-
+comes decreased and was no longer significant.
+Effects of specific implementation strategies on primary 
+and secondary outcomes
+Table  4 displays effects of the implementation strat -
+egy subgroups by the primary outcome. Dichotomous 
+clinical practice outcomes are positively affected (i.e., 
+more likely to align with desired practice) by group 
+Fig. 1 PRISMA study flow diagram
+<<<PAGE=10>>>
+Page 10 of 31Fontaine et al. Implementation Science           (2024) 19:68 
+clinician education, individual clinician education, 
+reminders, patient-mediated interventions, tailored 
+interventions, and opinion leaders. Continuous clini -
+cal practice outcomes are positively affected by group 
+clinician education, individual clinician education, and 
+tailored interventions. Across all implementation strat -
+egy subgroups, group clinician education, individual 
+clinician education and tailored interventions had sta -
+tistically significant effects on patient outcomes. These 
+results may be influenced by heterogeneity and the lack 
+Table 2 Summary of characteristics of included studies (N = 204)a
+a NR Not reported
+b For study setting, one study was conducted both in hospital and nursing home settings – giving a total of 205 studies instead of 204
+c Number of nurses enrolled reported in 160 studies
+d Number of patients enrolled reported in 89 studies
+Number of studies (%)b Number of nursesc Number 
+of 
+patientsd
+Study design
+ Cluster randomized trial 96 (47%) 22,356 310,101
+ Randomized controlled trial 51 (25%) 6499 5831
+ Non-randomized controlled trial 38 (19%) 5193 7954
+ Non-randomized cluster-controlled trial 13 (6%) 878 7645
+ Stepped-wedge cluster-randomized trial 5 (2%) 1618 8054
+ Controlled time series study 1 (1%) NR 735
+Study setting
+ Hospital (inpatient or emergency department) 139 (68%) 25,884 82,237
+ Primary care or general practice 25 (12%) 1607 160,869
+ Nursing home 21 (10%) 2247 19,096
+ Community health center 7 (3%) 507 2896
+ Homecare 6 (3%) 1260 1599
+ Hospital (outpatient) 3 (1%) 465 3502
+ Public health unit 2 (1%) 95 62,168
+ Skilled nursing facility 2 (1%) 4479 7953
+Country income status
+ High income 159 (78%) 33,047 323,382
+ Upper-middle income 37 (18%) 2894 16,938
+ Lower-middle income 7 (3%) 498 NR
+ Low income 1 (1%) 105 NR
+Target clinical behavior
+ Multiple 47 (23%) 7744 100,810
+ Providing counseling and advice 29 (14%) 2892 4372
+ Practicing infection prevention and control measures (e.g., hand 
+hygiene)
+26 (13%) 4824 5551
+ Assessing and diagnosing illness 26 (13%) 9133 11,865
+ Administering medication 14 (7%) 2236 15,496
+ Documenting 10 (5%) 541 1266
+ Coordinating care 10 (5%) 1226 1016
+ Testing and screening 8 (4%) 482 57,683
+ Managing physical restraints 8 (4%) 2011 12,415
+ Managing symptoms 8 (4%) 338 2721
+ Managing care equipment 8 (4%) 504 19,362
+ Prescribing 3 (1%) 38 96,741
+ Vaccinating 3 (1%) 4479 9617
+ Reporting incidents 2 (1%) NR 1405
+ Other 2 (1%) 96 NR
+<<<PAGE=11>>>
+Page 11 of 31
+Fontaine et al. Implementation Science           (2024) 19:68 
+ 
+Fig. 2 a Summary of risk of bias for cluster randomized trials. b Summary of risk of bias for randomized controlled trials. c Summary of risk of bias 
+for non-randomized controlled studies
+<<<PAGE=12>>>
+Page 12 of 31Fontaine et al. Implementation Science           (2024) 19:68 
+of control over co-existing strategies within these sub -
+group analyses, likely leading to an inflation of the effects 
+of individual strategies.
+Table 5 displays effects of the implementation strategy 
+subgroups by secondary outcomes. Attitude (continu -
+ous) was positively influenced by group clinician educa -
+tion, individual clinician education, audit and feedback, 
+and tailored interventions. Attitude (dichotomous) was 
+positively influenced by group clinician education and 
+individual clinician education. Knowledge was positively 
+influenced by group clinician education, individual cli -
+nician education, and tailored interventions. Perceived 
+behavioral control was positively influenced by group 
+clinician education, individual clinician education, and 
+reminders. Skills were positively influenced by group cli -
+nician education and individual clinician education. Per -
+ceived social norms were positively influenced by group 
+clinician education.
+Effects of multifaceted implementation strategies compared 
+to single implementation strategy
+In studies comparing a multifaceted implementation 
+strategy (combining two or more implementation strat -
+egies) with a single type of implementation strategy, 
+Fig. 3 a Frequency of use of each implementation strategy across intervention and control arms. b Frequency of combinations of implementation 
+strategies in interventions assessed in included studies. EMeet = educational meetings, EMat = educational materials, CPG = clinical practice 
+guidelines, R = reminders, A&F = audit and feedback, EO = educational outreach, TI = tailored interventions, OL = local opinion leaders, 
+PMI = patient-mediated interventions, MPDH = monitoring the performance of delivery of healthcare, LCP = local consensus processes, 
+CIR = clinical incident reporting, IPE = interprofessional education, COP = communities of practice, MS = managerial supervision, RPROM = routine 
+patient-reported outcome measures, CQI = continuous quality improvement, EGames = educational games
+<<<PAGE=13>>>
+Page 13 of 31
+Fontaine et al. Implementation Science           (2024) 19:68 
+ 
+multifaceted strategies had small, non statistically signifi -
+cant effects on continuous clinical practice outcomes (12 
+assessments; SMD 0.23, 95% CI -0.01–0.46; I 2 = 77%; see 
+panel a of Fig. 6), dichotomous clinical practice outcomes 
+(20 assessments; OR 1.35, 95% CI 0.76–2.40; I 2 = 91%; 
+panel b of Fig.  6), and dichotomous patient outcomes (5 
+assessments; OR 1.30, 95% CI 0.89–1.90; I 2 = 0%) (see 
+Additional file 6).
+Effects of implementation strategies in included studies 
+not ineligible for meta‑analysis
+After contacting all study authors, 44 studies were not 
+included in meta-analyses for our primary outcome due 
+to missing data (n= 27) [48–74], comparisons that were 
+not relevant to our analyses (e.g., comparing two groups 
+receiving the same type of implementation strategy with 
+design variations) (n= 14) [75–88], or expressing their 
+outcomes as rates rather than in a compatible format 
+(n= 3) [89–91].
+Of these studies, 25 focused solely on educational strat-
+egies, with 22 showing more favorable outcomes in the 
+experimental groups. Kaner et  al. [78] demonstrated 
+that educational outreach increased brief alcohol inter -
+ventions compared to clinical practice guidelines. Edu -
+cational meetings (EMeet), often supplemented with 
+educational materials (EMat) and/or clinical practice 
+guidelines (CPG), led to improvements across various 
+areas:  blood glucose monitoring (O’Neill et  al.: EMeet), 
+[63] communication (Antonini et al.: EMeet), [48] diabe -
+tes management (Lim et al.: EMeet + EMat), [59] endotra-
+cheal suctioning practices (Day et  al.: CPG + EMeet), 
+[52] nursing documentation and care planning (Müller-
+Staub et al.: EMeet; Brady et al.: EMeet), [49, 81] use of 
+physical restraints (Chang et al.: EMeet), [51] counseling 
+(Tsai et al.: EMeet; Woodcock et al.: EMeet), [72, 86] and 
+symptom management (Hessig et  al.: EMat + EMeet; 
+Michaels et  al.: CPG + EMat + EMeet). [55, 61] Magnan 
+et  al. [80] used educational materials alone to improve 
+physical examination. Nine studies evaluated tech -
+nology-enhanced educational strategies. Carrico et  al. 
+[87] reported that biosimulated visual demonstration 
+of particulate transmission resulted in increased per -
+sonal protective equipment use. Jansson et  al. [84, 92], 
+through two studies, demonstrated adding feedback and 
+debriefing to simulation-focused educational meetings, 
+improved nurses’ adherence to evidence-based guide -
+lines for mechanical ventilation. Rutherford-Hemming 
+et  al. [82] found higher levels of evidence-based perfor -
+mance of neurological examinations in simulation-based 
+education compared to a self-study module. Wang et al. 
+[83] found improved application of counseling following 
+the additional of simulation to educational meetings and 
+materials. Wang et al. reported the effects of game-based 
+learning on hand hygiene practices. [85] Kinsman et  al. 
+[88], Lau et  al. [79], and Van de Steeg et  al. [70] found 
+e-learning programs improved physical examination, 
+medication administration, and delirium care. Hammers-
+ley et al. [53], Seeley et al. [68], and Segal et al. [69] found 
+no benefits from educational strategies.
+Four out of five studies using audit and feedback alone 
+were inconclusive. Charrier et al. [76] found that audit and 
+feedback and the presence of facilitators, compared with 
+self-monitoring, improved compliance to protocols for 
+pressure lesions and the management of catheters. Bittner 
+et al. [75], Hutchinson et al. [91], Noordman et al. [62], and 
+Rothschild et al. [66] found no effects of audit and feedback 
+on hand hygiene, history-taking, the reporting of medica-
+tion errors, and medication errors.
+Studies using multifaceted implementation strategies 
+including other strategies than education compared to 
+no active intervention were often successful, with 9 out 
+of 10 showing positive results. Brennan et  al. [50] evalu -
+ated a tailored intervention using the CAM-ICU guideline, 
+which increased delirium screenings and led to a decrease 
+in delirium rates. Chambers et al. [89] and Fabre et al. [90] 
+found that a multifaceted implementation strategy reduced 
+nurse-led urine culturing. Hödl et al. [56] improved urinary 
+incontinence equipment management using educational 
+outreach, materials, guidelines, and reminders. Documen-
+tation improved by 43% in the multi-faceted group, while 
+the control group saw a 15% decrease after 2  weeks. Lin 
+et  al. [60] found that a multifaceted strategy (audit and 
+feedback, tailored intervention, educational meetings, and 
+materials) improved the use of relaxation techniques in 
+surgical nurses in Taipei. Morita et al. [73] found improved 
+palliative care practices following a multifaceted strat -
+egy involving tailoring and education. Reynolds et  al. [65] 
+assessed a multifaceted strategy (educational outreach, 
+educational materials, audit and feedback) to improve 
+compliance with chlorhexidine gluconate bathing docu -
+mentation and reduce central line-associated bloodstream 
+infections. While CHG bathing compliance increased sig-
+nificantly by 6.97%, the 27.4% decrease in CLABSI rates 
+was not significant. Schondelmeyer et al. [67] reported that 
+education (meetings, clinical practice guidelines, outreach) 
+with audit and feedback reduced guideline-discordant 
+continuous pulse oximetry use by 30% in pediatric nurses 
+in the USA. Wald et al. [74] also found effects of audit and 
+feedback on the uptake of catheter-associated urinary tract 
+infection prevention measures. One study of a multifaceted 
+implementation strategy had inconclusive results. Happ 
+et al. [93] evaluated a web-based training with local opinion 
+leaders to reduce ICU adverse events, finding no significant 
+changes in physical restraint use.
+Four studies specifically compared the effects of mul -
+tifaceted versus single-component strategies, with all
+<<<PAGE=14>>>
+Page 14 of 31Fontaine et al. Implementation Science           (2024) 19:68 
+favoring multifaceted strategies. Hong et  al. [57] found 
+higher urinary catheter care practice implementation 
+using local opinion leaders with educational meetings, 
+than either component alone. Johnston et  al. [58] used 
+audit and feedback, local opinion leaders, and educational 
+materials compared to only monitoring healthcare deliv -
+ery on the documentation of pain assessment in Cana -
+dian patients. Pagaiya et al. [64] compared a multifaceted 
+Fig. 4 Effects of implementation strategies on continuous clinical practice outcomes, compared with no active intervention
+<<<PAGE=15>>>
+Page 15 of 31
+Fontaine et al. Implementation Science           (2024) 19:68 
+ 
+strategy to guidelines alone for reducing antibiotic pre -
+scriptions in Thailand. Walsh et  al. [71] found that web-
+based education with process feedback significantly 
+reduced oversedation in ICU patients in the UK, more 
+than other education methods.
+Sensitivity analyses
+We conducted sensitivity analyses to exclude stud -
+ies assessed as being at overall unclear or high risk of 
+bias, as presented in Additional file  8. Effect measures 
+tended to decrease with the removal of high risk of bias 
+Fig. 5 Effects of implementation strategies on dichotomous clinical practice outcomes, compared with no active intervention
+<<<PAGE=16>>>
+Page 16 of 31Fontaine et al. Implementation Science           (2024) 19:68 
+studies, though most remained statistically significant. 
+In rare instances, the effect sizes increased, such as with 
+continuous clinical practice outcomes for multifaceted 
+interventions compared to single strategy interventions. 
+Heterogeneity remained high in most analyses.
+Non-reporting bias
+Funnel plots indicated some evidence for non-reporting 
+bias in dichotomous clinical practice outcomes (any vs 
+no implementation strategies comparison), continuous 
+clinical practice outcomes (individual clinician education 
+comparison), and continuous clinical practice outcomes 
+(group clinician education comparison) (Additional 
+file  9). These studies tend to be heavily concentrated to 
+the upper left of the triangle suggesting that the effect 
+measure could be underestimated for the intervention. 
+We did not find clear evidence for non-reporting bias for 
+other outcomes.
+Certainty of the evidence
+Table 6 provides an overview of the impact of various 
+implementation strategies compared with different or 
+no active interventions for improving compliance with 
+desired clinical practice and patient outcomes. The table 
+presents both quantitative findings from meta-analyses 
+and narrative findings from studies not included in the 
+meta-analyses. It also includes the certainty of evidence 
+(GRADE) for each type of intervention and outcome, 
+offering a comprehensive view of how different strate -
+gies influence clinical practice and patient care. Detailed 
+summary of findings tables are presented in Additional 
+file 10.
+Discussion
+This systematic review examined the effects of healthcare 
+professional-level implementation strategies on nursing 
+practice and patient outcomes across 204 studies. Over -
+whelmingly, the implementation strategies described 
+were multi-component, primarily involving individual 
+and group education (e.g., educational meetings, educa -
+tional materials, clinical practice guidelines, communities 
+of practice, interprofessional education) combined with 
+reminders, audit and feedback, local opinion leaders, 
+and tailored interventions. In a quarter of the included 
+Table 3 Effects on clinical practice outcomes across strata for the primary comparison (any implementation strategy vs no active 
+intervention)a
+a Denotes a statistically significant result (i.e., two-sided p value of less than 0.05)
+Strata Clinical practice outcomes (Continuous) Clinical practice outcomes 
+(Dichotomous)
+N studies SMD (95% CI) I2 N studies OR (95% CI) I2
+Study design
+ Cluster randomized trials 26 0.70a
+(0.45, 0.96)
+90% 39 1.86a
+(1.42, 2.43)
+97%
+ Randomized controlled trials 23 1.37a
+(0.87, 1.87)
+97% 8 2.90a
+(1.77, 4.76)
+77%
+ Non-randomized studies 21 0.86a
+(0.46, 1.25)
+95% 10 2.54a
+(1.50, 4.32)
+89%
+Study setting
+ Hospital (inpatient or emergency department) 51 1.10a
+(0.81, 1.39)
+95% 33 2.14a
+(1.70, 2.69)
+91%
+ Primary care or general practice 7 0.21
+(-0.07, 0.49)
+75% 8 2.00a
+(1.05, 3.80)
+98%
+ Nursing home 6 0.15a
+(0.02, 0.29)
+3% 9 2.15
+(0.96, 4.84)
+95%
+Clinical behavior targeted for change
+ Counseling and advice 25 0.71a
+(0.40, 1.02)
+92% 9 1.54a
+(1.09, 2.17)
+81%
+ Infection control and prevention measures 12 1.32a
+(0.54, 2.09)
+96% 8 1.12
+(0.81, 1.54)
+85%
+ Assessing and diagnosing illness 13 1.85a
+(1.11, 2.59)
+97% 20 1.91a
+(1.56, 2.34)
+75%
+ Coordinating care 9 1.05a
+(0.28, 1.82)
+95% 11 1.71a
+(1.38, 2.12)
+89%
+<<<PAGE=17>>>
+Page 17 of 31
+Fontaine et al. Implementation Science           (2024) 19:68 
+ 
+Table 4 Effects of implementation strategies on clinical practice and patient outcomes by subgroup
+a Denotes a statistically significant result (i.e., two-sided p value of less than 0.05)
+Subgroup Clinical practice 
+outcomes 
+(Dichotomous)
+Clinical practice 
+outcomes (Continuous)
+Patient outcomes 
+(Dichotomous)
+Patient outcomes 
+(Continuous)
+N OR (95% CI) I2 N SMD (95% CI) I2 N OR (95% CI) I2 N SMD (95% CI) I2
+Strategy including group clinician education (GCE) vs a strategy that does not include GCE 
+or no active intervention
+63 1.81a
+(1.50, 2.19)
+94% 72 0.96a
+(0.73, 1.19)
+95% 13 1.37a
+(1.07, 1.77)
+84% 8 0.14
+(-0.11, 0.38)
+86%
+ GCE only vs a strategy that does not include GCE or no active intervention 6 1.81a
+(1.05, 3.12)
+68% 13 0.34a
+(0.03, 0.65)
+87% ·· ·· ·· ·· ·· ··
+ GCE only vs no active intervention 5 2.14a
+(1.09, 4.21)
+74% 10 0.41a
+(0.05, 0.77)
+89% ·· ·· ·· 2 0.67
+(-0.24, 1.58)
+74%
+Strategy including individual clinician education (ICE) vs a strategy that does not include 
+ICE or no active intervention
+61 2.04a
+(1.62, 2.56)
+96% 67 0.82a
+(0.60, 1.03)
+94% 11 1.26
+(0.81, 1.94)
+81% 9 0.17
+(-0.02, 0.35)
+79%
+ ICE only vs a strategy that does not include ICE or no active intervention 5 2.87a
+(1.47, 5.58)
+68% 10 0.36a
+(0.06, 0.65)
+81% ·· ·· ·· ·· ·· ··
+ ICE only vs no active intervention 3 2.79
+(0.95, 8.23)
+76% 7 0.44a
+(0.09, 0.80)
+84% 2 0.62a
+(0.03, 1.22)
+80%
+Strategy including reminders vs a strategy that does not include reminders or no active 
+intervention
+25 2.44a
+(1.89, 3.17)
+90% 12 0.61
+(-0.11, 1.33)
+95% 8 1.00
+(0.76, 1.31)
+48% ·· ·· ··
+ Reminders only vs a strategy that does not include reminders or no active intervention 4 2.24a
+(1.00, 5.06)
+82% ·· ·· ·· ·· ·· ·· ·· ·· ··
+ Reminders only vs no active intervention 3 2.49a
+(1.08, 5.75)
+86% 2 0.17
+(-0.66, 0.99)
+86% ·· ·· ·· ·· ·· ··
+Strategy including a patient-mediated intervention (PMI) vs a strategy that does 
+not include PMI or no active intervention
+9 1.78a
+(1.13, 2.79)
+95% ·· ·· ·· 2 0.97
+(0.79, 1.19)
+0% ·· ·· ··
+Strategy including audit and feedback (A&F) vs a strategy that does not include A&F 
+or no active intervention
+22 1.42
+(0.94, 2.13)
+98% 8 -0.18
+(-0.60, 0.24)
+86% 11 1.11
+(0.74, 1.65)
+72% 3 -0.21
+(-0.66, 0.25)
+62%
+Strategy including a tailored intervention (TI) versus a strategy that does not include TI 
+or no active intervention
+15 1.90a
+(1.23, 2.93)
+99% 10 1.41a
+(0.65, 2.17)
+97% 6 1.34
+(0.96, 1.86)
+79% 4 0.23a
+(0.09, 0.37)
+86%
+Strategy including opinion leaders (OLs) vs a strategy that does not include TI or no active 
+intervention
+15 1.96a
+(1.22, 3.14)
+98% 5 0.35
+(-0.04, 0.74)
+81% 5 0.92
+(0.86, 1.00)
+0% ·· ·· ··
+<<<PAGE=18>>>
+Page 18 of 31Fontaine et al. Implementation Science           (2024) 19:68 
+Table 5 Effects of implementation strategies on the determinants of nurses’ behavior in clinical practice by subgroup
+Subgroup Intention Attitude (Dichot.) Attitude (Cont.) Knowledge Perceived behavioral 
+control
+Skills Perceived social 
+norms
+N SMD (95% 
+CI)
+I2 N OR (95% CI) I2 N SMD (95% 
+CI)
+I2 N SMD (95% 
+CI)
+I2 N SMD (95% 
+CI)
+I2 N SMD (95% 
+CI)
+I2 N SMD (95% 
+CI)
+I2
+Strategy 
+includ-
+ing group 
+clinician 
+education 
+(GCE) vs 
+a strategy 
+that does 
+not include 
+GCE 
+or no active 
+intervention
+4 0.43
+(-0.12, 0.99)
+69% 2 2.59
+(0.48, 13.87)
+27% 32 0.54a
+(0.19, 0.89)
+93% 38 1.07a
+(0.73, 1.40)
+93% 17 0.75a
+(0.33, 1.17)
+93% 9 0.64a
+(0.33, 0.95)
+53% 3 0.23a
+(0.01, 0.45)
+0%
+ GCE only vs 
+a strategy 
+that does 
+not include 
+GCE 
+or no active 
+intervention
+·· ·· ·· ·· ·· ·· 5 0.18
+(-0.12, 0.48)
+40% ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ·· ··
+ GCE only 
+vs no active 
+intervention
+·· ·· ·· ·· ·· ·· 4 0.13
+(-0.23, 0.50)
+51% 2 1.37
+(-1.15, 3.89)
+98% 5 0.27a
+(0.03, 0.50)
+0% ·· ·· ·· ·· ··
+Strategy 
+includ-
+ing indi-
+vidual 
+clinician edu-
+cation (ICE) vs 
+a strategy 
+that does 
+not include 
+ICE 
+or no active 
+intervention
+2 0.16
+(-0.31, 0.63)
+24% 2 1.65
+(0.71, 3.83)
+0% 30 0.68a
+(0.31, 1.05)
+93% 42 1.03a 
+(0.73,1.33)
+91% 14 0.89a
+(0.39, 1.38)
+93% 8 0.49a
+(0.22, 0.77)
+24% ·· ·· ··
+ ICE only vs 
+a strategy 
+that does 
+not include 
+ICE 
+or no active 
+intervention
+·· ·· ·· ·· ·· ·· 5 0.08
+(-0.47, 0.63)
+79% . ·· ·· ·· ·· . ·· ·· ·· ·· ·· ··
+<<<PAGE=19>>>
+Page 19 of 31
+Fontaine et al. Implementation Science           (2024) 19:68 
+ 
+Table 5 (continued)
+Subgroup Intention Attitude (Dichot.) Attitude (Cont.) Knowledge Perceived behavioral 
+control
+Skills Perceived social 
+norms
+N SMD (95% 
+CI)
+I2 N OR (95% CI) I2 N SMD (95% 
+CI)
+I2 N SMD (95% 
+CI)
+I2 N SMD (95% 
+CI)
+I2 N SMD (95% 
+CI)
+I2 N SMD (95% 
+CI)
+I2
+ ICE only vs 
+no active 
+intervention
+·· ·· ·· ·· ·· ·· 3 -0.08
+(-0.43, 0.26)
+0% 3 0.33
+(-0.67, 1.33)
+85% 3 0.31
+(-0.45, 1.08)
+·· ·· ··
+Strategy 
+includ-
+ing remind-
+ers vs a strat-
+egy that does 
+not include 
+reminders 
+or no active 
+intervention
+·· ·· ·· ·· ·· ·· 5 1.10
+(-0.41, 2.60)
+97% 10 1.07a
+(0.41, 1.74)
+92% 3 7.48a
+(6.74, 8.21)
+84% ·· ·· ·· ·· ·· ··
+Strategy 
+includ-
+ing a patient-
+mediated 
+intervention 
+(PMI) vs 
+a strategy 
+that does 
+not include 
+PMI 
+or no active 
+intervention
+·· ·· ·· ·· ·· ·· ·· ·· ·· … . ·· ·· ·· ·· ·· ·· ·· ·· ·· ··
+Strategy 
+includ-
+ing audit and 
+feedback 
+(A&F) vs 
+a strategy 
+that does 
+not include 
+A&F 
+or no active 
+intervention
+·· ·· ·· ·· ·· ·· 3 0.20a
+(0.01, 0.38)
+0% 4 -0.17
+(-0.97, 0.64)
+87% ·· ·· ·· ·· ·· ·· ·· ·· ··
+<<<PAGE=20>>>
+Page 20 of 31Fontaine et al. Implementation Science           (2024) 19:68 
+Table 5 (continued)
+Subgroup Intention Attitude (Dichot.) Attitude (Cont.) Knowledge Perceived behavioral 
+control
+Skills Perceived social 
+norms
+N SMD (95% 
+CI)
+I2 N OR (95% CI) I2 N SMD (95% 
+CI)
+I2 N SMD (95% 
+CI)
+I2 N SMD (95% 
+CI)
+I2 N SMD (95% 
+CI)
+I2 N SMD (95% 
+CI)
+I2
+Strategy 
+includ-
+ing a tailored 
+intervention 
+(TI) vs a strat-
+egy that does 
+not include TI 
+or no active 
+intervention
+·· ·· ·· ·· ·· ·· 4 0.28
+(-0.01, 0.57)
+65% 5 0.53
+(-0.04, 1.09)
+91% ·· ·· ·· ·· ·· ·· ·· ·· ··
+Strategy 
+includ-
+ing opinion 
+leaders 
+(OLs) vs 
+a strategy 
+that does 
+not include 
+OLs 
+or no active 
+intervention
+·· ·· ·· ·· ·· ·· ·· ·· ·· 3 0.03
+(-0.20, 0.27)
+0% ·· ·· ·· ·· ·· ·· ·· ·· ··
+a Denotes a statistically significant result (i.e., two-sided p value of less than 0.05)
+<<<PAGE=21>>>
+Page 21 of 31
+Fontaine et al. Implementation Science           (2024) 19:68 
+ 
+studies, implementation strategies targeted multiple 
+clinical behaviors for change, such as providing coun -
+seling and advice, practicing hand hygiene, assessing and 
+diagnosing illness, administrating medication and docu -
+menting care. Meta-analyses of 160 studies and narra -
+tive synthesis of 44 studies not eligible for meta-analysis 
+revealed that both single and multifaceted implementa -
+tion strategies have positive effects on clinical practice 
+outcomes, with important variability across strategies. 
+Statistically significant and practically meaningful posi -
+tive effects were also observed for secondary outcomes 
+including nurses’ attitudes, knowledge, perceived behav -
+ioral control and skills for strategies consisting of indi -
+vidual or group education, reminders, and tailored 
+interventions. Effects on patient outcomes were observed 
+Fig. 6 Effects of multifaceted vs. single strategies on continuous (a) and dichotomous (b) clinical practice outcomes
+<<<PAGE=22>>>
+Page 22 of 31Fontaine et al. Implementation Science           (2024) 19:68 
+for group and individual education, as well as tailored 
+interventions.
+Our findings are consistent with previous reviews of 
+implementation strategies, demonstrating the positive 
+effects of group and individual education, reminders, 
+patient-mediated interventions, and the involvement 
+of opinion leaders on clinical practice outcomes. A 
+systematic review by Spoon et  al. [35] similarly iden -
+tified a broad spectrum of implementation strategies 
+that positively influenced guideline adherence among 
+nurses and improved patient-reported nursing out -
+comes. Likewise, Cassidy et al. [34] found that combin -
+ing educational meetings with other strategies, such 
+as educational materials and opinion leaders, effec -
+tively supported guideline-concordant nursing care. 
+Forsetlund et  al. [16] associated educational meetings 
+with likely improvements in professional practice and 
+patient outcomes, while Giguère et al [27] observed that 
+printed educational materials, when used alone and 
+compared to no intervention, might improve slightly 
+healthcare professionals’ practices and patient health 
+outcomes. Additionally, Flodgren et  al. [26] reported 
+that opinion leaders, whether alone or in combina -
+tion with other interventions, can promote evidence-
+based practice, though their effectiveness varies across 
+studies. However, despite its widespread use, audit 
+and feedback have shown mixed results. A systematic 
+review by Ivers et al. [94] indicated small improvements 
+in professional practice among physicians but provided 
+limited evidence of effectiveness among nurses. In our 
+meta-analyses, strategies including audit and feedback 
+did not achieve statistically significant impacts on clini -
+cal practice outcomes (a sensitivity analysis excluding 
+high-risk-of-bias studies showed a statistically signifi -
+cant effect, but only in two studies). This may be due to 
+limited statistical power, heterogeneity, or limitations 
+of this strategy in inducing practice change among 
+nurses. Notably, while 9 out of 14 studies of strategies 
+including audit and feedback synthesized narratively 
+favored the experimental group in terms of clinical 
+practice outcomes, 8 of these studies involved multifac -
+eted strategies.
+Additionally, our review highlights the underuse of 
+many implementation strategies. Ten out of 19 EPOC 
+strategies examined were used in less than 5% of included 
+studies. This suggests a need for further exploration and 
+integration of the full range of EPOC strategies to poten -
+tially enhance nursing practice and patient outcomes. 
+Furthermore, there is a need to consider additional tax -
+onomies of implementation strategies, such as the Expert 
+Recommendations for Implementing Change (ERIC) 
+Taxonomy, which outlines 73 unique strategies across 
+9 clusters [20]. Designing and evaluating multifaceted 
+strategies using a broader range of implementation strat -
+egies could help address the gaps in current implemen -
+tation research and practice. While our exploration of 
+the effects of implementation strategies on determinants 
+of nurses’ behavior is novel and provides insights on the 
+effectiveness of educational strategies on attitudes, inten-
+tions, knowledge, perceived behavioral control, perceived 
+social norms, and skills, further research could benefit 
+from examining outcomes through the lens of the TDF 
+[14] and the Capability, Opportunity, Motivation and 
+Behavior (COM-B) Model [95], as these frameworks 
+allow for a deeper understanding of the determinants of 
+behavior change.
+Our findings contribute to the ongoing discussion 
+about the effectiveness of multifaceted versus single 
+component implementation strategies. An overview of 
+reviews by Squires et  al. [96] found no strong evidence 
+that multifaceted strategies significantly improve out -
+comes compared to single interventions. A more recent 
+overview of reviews by Boaz et  al. [25], without quan -
+titative analyses, concluded that the effectiveness of 
+multifaceted strategies compared to single strategies is 
+nuanced and context-dependent. The authors discussed 
+that  while multifaceted strategies appear to be more 
+likely to generate positive results than single strategies, 
+the evidence varies, and the impact on patient outcomes 
+is often limited. In our review, while quantitative find -
+ings suggest a small, non-statistically  significant effect 
+of multifaceted versus single strategies on clinical prac -
+tice, the narrative synthesis of studies with outcomes 
+ineligible for meta-analysis shows favorable outcomes in 
+all four studies using multifaceted strategies compared 
+to single strategies. These multifaceted strategies typi -
+cally combined elements such as educational outreach, 
+audit and feedback, tailored interventions, and the use of 
+local opinion leaders. This might indicate that multifac -
+eted strategies can enhance the uptake of evidence-based 
+practice among nurses more effectively than single strate-
+gies. However, the translation of these improvements to 
+better patient outcomes is uncertain. Tailoring strategies 
+and ensuring organizational capacity to support research 
+utilization, as emphasized by Boaz et  al. [25], are cru -
+cial. Our analyses showed that tailored strategies based 
+on contextual assessments of implementation barriers 
+and enablers had significant effects on professional out -
+comes and patient outcomes. This suggests that strategies 
+customized to address specific barriers and facilitators 
+within a particular context, echoing a previous system -
+atic review by Baker et al., [97] may be more effective in 
+driving improvements in patient care.
+The analysis reveals that while implementation strat -
+egies can improve clinical practice outcomes among 
+nurses, their impact on patient outcomes is modest. This
+<<<PAGE=23>>>
+Page 23 of 31
+Fontaine et al. Implementation Science           (2024) 19:68 
+ 
+Table 6 Overview of quantitative findings, narrative findings and certainty of evidence: implementation strategies compared with different or no active interventions for 
+improving compliance with desired clinical practice and patient  outcomesa,b,c
+Types of interventions and 
+comparisons
+Impact Outcomes and certainty of the evidence (GRADE) for meta-analytic results
+Quantitative findings (meta-
+analyses)
+Narrative findings Continuous clinical practice 
+outcomes
+Dichotomous clinical 
+practice outcomes
+Continuous patient 
+outcomes
+Dichotomous patient 
+outcomes
+Any implementation strategy 
+vs None
+Implementation strate-
+gies as a whole, compared 
+to no active intervention, 
+probably improve compliance 
+with desired clinical practice 
+among nurses (moderate cer-
+tainty of evidence). Implemen-
+tation strategies may slightly 
+improve patient outcomes 
+(low certainty of evidence)
+Among the 21 studies 
+not included in the meta-
+analysis comparing any 
+implementation strategy 
+to no active intervention, 18 
+favored the experimental 
+group for clinical practice 
+outcomes
+ ⊕  ⊕  ⊕  ⊝ 
+Moderate
+(26 CRTs, 23 RCTs, 21 NCRS)
+ ⊕  ⊕  ⊕  ⊝ 
+Moderate
+(38 CRTs, 9 RCTs, 11 NCRS)
+ ⊕  ⊕  ⊝  ⊝ 
+Low
+(6 CRTs, 2 RCTs, 2 NCRS)
+ ⊕  ⊕  ⊝  ⊝ 
+Low
+(7 CRTs, 2 RCTs, 3 NCRS)
+Multifaceted strategies vs 
+Single
+Multifaceted implementation 
+strategies, compared to single 
+component strategies, may 
+slightly improve compliance 
+with desired clinical practice 
+among nurses (low certainty 
+of evidence) and patient 
+outcomes (low to very low 
+certainty of evidence)
+Among the 4 studies 
+not included in the meta-anal-
+ysis comparing multifaceted 
+implementation strategies 
+to single strategies, all favored 
+the experimental group 
+for clinical practice outcomes
+ ⊕  ⊕  ⊝  ⊝ 
+Low
+(3 CRTs, 6 RCTs, 3 NCRS)
+ ⊕  ⊕  ⊝  ⊝ 
+Low
+(9 CRTs, 4 RCTs, 1 NCRS)
+ ⊕  ⊝  ⊝  ⊝ 
+Very low
+(1 CRT, 1 RCT)
+ ⊕  ⊕  ⊝  ⊝ 
+Low
+(3 CRTs)
+Group clinician education 
+(GCE) vs No GCE
+Implementation strategies 
+including GCE, compared 
+to strategies not includ-
+ing GCE or no active inter-
+vention, probably improve 
+compliance with desired 
+clinical practice among nurses 
+(moderate certainty of evi-
+dence), and may slightly 
+improve patient outcomes 
+(moderate to low certainty 
+of evidence)
+Among the 18 studies 
+not included in the meta-
+analysis comparing strategies 
+with GCE to those without, 
+14 favored the experimental 
+group for clinical practice 
+outcomes
+ ⊕  ⊕  ⊕  ⊝ 
+Moderate
+(25 CRTs, 24 RCTs, 19 NCRS)
+ ⊕  ⊕  ⊕  ⊝ 
+Moderate
+(39 CRTs, 6 RCTs, 10 NCRS)
+ ⊕  ⊕  ⊕  ⊝ 
+Moderate
+(6 CRTs, 2 RCTs)
+ ⊕  ⊕  ⊝  ⊝ 
+Low
+(8 CRTs, 2 RCTs, 2 NRCS)
+Individual clinician education 
+(ICE) vs No ICE
+Implementation strategies 
+including ICE, compared 
+to strategies not including ICE 
+or no active intervention, 
+probably improve compli-
+ance with desired clinical 
+practice in nurses (moderate 
+to low certainty of evidence) 
+and slightly improve patient 
+outcomes (moderate certainty 
+of evidence)
+Among the 17 studies 
+not included in the meta-
+analysis comparing strategies 
+with ICE to those without, 
+15 favored the experimental 
+group for clinical practice 
+outcomes
+ ⊕  ⊕  ⊝  ⊝ 
+Low
+(23 CRTs, 22 RCTs, 17 NCRS)
+ ⊕  ⊕  ⊕  ⊝ 
+Moderate
+(34 CRTs, 7 RCTs, 12 NCRS)
+ ⊕  ⊕  ⊕  ⊝ 
+Moderate
+(7 CRTs, 1 RCT, 2 NRCS)
+ ⊕  ⊕  ⊕  ⊝ 
+Moderate
+(7 CRTs, 1 RCT, 3 NRCS)
+<<<PAGE=24>>>
+Page 24 of 31Fontaine et al. Implementation Science           (2024) 19:68 
+Table 6 (continued)
+Types of interventions and 
+comparisons
+Impact Outcomes and certainty of the evidence (GRADE) for meta-analytic results
+Quantitative findings (meta-
+analyses)
+Narrative findings Continuous clinical practice 
+outcomes
+Dichotomous clinical 
+practice outcomes
+Continuous patient 
+outcomes
+Dichotomous patient 
+outcomes
+Reminders vs No Reminders Implementation strate-
+gies including reminders, 
+compared to no reminders 
+or no active intervention, 
+probably improve compli-
+ance with desired clinical 
+practice in nurses (high to low 
+certainty of evidence), 
+but probably makes little 
+to no difference in patient 
+outcomes (moderate certainty 
+of evidence)
+Among the 4 studies 
+not included in the meta-
+analysis comparing strategies 
+with reminders to those with-
+out or no active intervention, 
+3 favored the experimental 
+group for clinical practice 
+outcomes
+ ⊕  ⊕  ⊝  ⊝ 
+Low
+(4 CRTs, 2 RCTs, 5 NCRS)
+ ⊕  ⊕  ⊕  ⊕ 
+High
+(16 CRTs, 5 RCTs, 2 NRCS)
+··  ⊕  ⊕  ⊕  ⊝ 
+Moderate
+(6 CRTs, 2 NRCS)
+Patient-mediated intervention 
+(PMI) vs No PMI
+Implementation strategies 
+including a PMI, compared 
+to no PMI or no active 
+intervention, may improve 
+compliance with desired 
+clinical practice among nurses 
+(low certainty of evidence), 
+but we are uncertain 
+about their effects on patient 
+outcomes (low certainty 
+of evidence)
+·· ··  ⊕  ⊕  ⊝  ⊝ 
+Low
+(7 CRTs, 1 NRCS)
+··  ⊕  ⊕  ⊝  ⊝ 
+Low
+(2 CRTs)
+Audit and Feedback (A&F) vs 
+No A&F
+Implementation strategies 
+including A&F, compared 
+to no A&F or no active 
+intervention, probably 
+slightly improve compliance 
+with desired clinical practice 
+in nurses (moderate certainty 
+of evidence), but may make lit-
+tle to no difference in patient 
+outcomes (low to very low 
+certainty of evidence)
+Among the 14 studies 
+not included in the meta-
+analysis comparing strategies 
+with A&F to those with-
+out or no active intervention, 
+9 favored the experimental 
+group for clinical practice 
+outcomes, though 8 of these 
+were multifaceted strategies
+ ⊕  ⊕  ⊕  ⊝ 
+Moderate
+(5 CRTs, 2 NRCS)
+ ⊕  ⊕  ⊕  ⊝ 
+Moderate
+(13 CRTs, 4 NRCS)
+ ⊕  ⊝  ⊝  ⊝ 
+Very low
+(2 CRTs)
+ ⊕  ⊕  ⊝  ⊝ 
+Low
+(6 CRTs, 2 NRCS)
+Tailored Intervention (TI) vs 
+No TI
+Tailored implementation 
+strategies, compared to non-
+tailored strategies or no active 
+intervention, improve compli-
+ance with desired clinical prac-
+tice in nurses (high to moder-
+ate certainty of evidence) 
+and probably improve slightly 
+patient outcomes (moderate 
+certainty of evidence)
+Among the 5 studies 
+not included in the meta-
+analysis comparing strategies 
+with TI to those without or no 
+active intervention, all favored 
+the experimental group 
+for clinical practice outcomes
+ ⊕  ⊕  ⊕  ⊝ 
+Moderate
+(3 CRTs, 3 RCTs, 3 NRCS)
+ ⊕  ⊕  ⊕  ⊕ 
+High
+(13 CRTs, 1 NRCS)
+ ⊕  ⊕  ⊕  ⊝ 
+Moderate
+(2 CRTs, 1 RCT)
+ ⊕  ⊕  ⊕  ⊝ 
+Moderate
+(5 CRTs, 1 NRCS)
+<<<PAGE=25>>>
+Page 25 of 31
+Fontaine et al. Implementation Science           (2024) 19:68 
+ 
+Table 6 (continued)
+Types of interventions and 
+comparisons
+Impact Outcomes and certainty of the evidence (GRADE) for meta-analytic results
+Quantitative findings (meta-
+analyses)
+Narrative findings Continuous clinical practice 
+outcomes
+Dichotomous clinical 
+practice outcomes
+Continuous patient 
+outcomes
+Dichotomous patient 
+outcomes
+Opinion Leaders (OLs) vs 
+No OLs
+Implementation strategies 
+including OLs, compared 
+to no OLs or no active inter-
+vention, may improve compli-
+ance with desired clinical prac-
+tice in nurses (low certainty 
+of evidence), but probably 
+make little to no difference 
+in patient outcomes (moder-
+ate certainty of evidence)
+Among the 5 studies 
+not included in the meta-
+analysis comparing strategies 
+with OLs to those with-
+out or no active intervention, 
+4 favored the experimental 
+group for clinical practice 
+outcomes
+ ⊕  ⊕  ⊝  ⊝ 
+Low
+(1 CRT, 3 NRCS)
+ ⊕  ⊕  ⊝  ⊝ 
+Low
+(12 CRTs, 1 NRCS)
+··  ⊕  ⊕  ⊕  ⊝ 
+Moderate
+(4 CRTs)
+High certainty: Further research is very unlikely to change our confidence in the estimate of effect
+Moderate certainty: Further research is likely to have an important impact on our confidence in the estimate of effect and maychange the estimate
+Low certainty: Further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate
+Very low certainty: We are very uncertain about the estimate
+a See individual ’Summary of findings’ tables (by intervention type) for specific impact and rationale for downgrading evidence
+b GCE Group Clinician Education, ICE Individual Clinician Education, PMI Patient-Mediated Intervention, A&F Audit and Feedback, TI Tailored Intervention, OLs Opinion Leaders, CRT  Cluster Randomized Trial, RCT  
+Randomized Controlled Trial, NRCS Non-Randomized Controlled Study
+c GRADE Working Group grades of evidence
+<<<PAGE=26>>>
+Page 26 of 31Fontaine et al. Implementation Science           (2024) 19:68 
+observation aligns with broader research, which sug -
+gests that while nurses play a crucial role in healthcare 
+delivery, the direct translation of their practice improve -
+ments into measurable patient benefits is influenced by a 
+multitude of factors. The pathway from practice changes 
+to patient outcomes is complex, shaped by organiza -
+tional culture, patient engagement, and broader systemic 
+issues within healthcare settings [16, 17, 25]. Consider -
+ing the role of these factors and the influence of other 
+healthcare professionals, nurses can have a nuanced and 
+often indirect influence on patient outcomes within the 
+larger healthcare system [6]. However, several outcomes 
+directly affected by nursing practice were not extracted 
+in the context of this review, such as length of stay, read -
+missions and patient satisfaction [98]. Additionally, we 
+extracted the longest follow-up measurements for all 
+outcomes, which may have diminished the observed 
+effects. Consequently, it is important to interpret these 
+overall averages and findings with caution, given the 
+effects of strategies may vary significantly depending on 
+the context, target behaviors, actors, outcomes and spe -
+cific populations involved.
+The predominance of studies (190 studies) from high-
+income countries highlights a critical gap in the literature 
+regarding the effectiveness of implementation strategies 
+on nursing practice in low- and middle-income countries 
+(LMIC). A recent review using the ERIC Taxonomy sug -
+gests that many implementation strategies can be applied 
+to LMIC contexts [99]. However, out of 60 studies in this 
+review, a minority of studies employed randomized trials 
+or high-quality quasi-experimental designs with controls, 
+and just one study evaluated implementation strat -
+egy effectiveness [99]. Future research should focus on 
+exploring the adaptation and evaluation of professional 
+implementation strategies in diverse contexts to ensure 
+global relevance and equity in healthcare improvements.
+A key strength of this systematic review is its focus on 
+nursing practice, improving comparability across studies. 
+The inclusion of studies conducted with multiple types 
+of healthcare providers in previous systematic reviews 
+of implementation strategies constitutes an important 
+source of heterogeneity. Additional strengths include 
+the extraction of continuous and dichotomous clinical 
+practice and patient outcomes, as well as a comprehen -
+sive range of determinants preceding clinical practice in 
+nurses (e.g., social norms, attitudes, intentions), provid -
+ing additional insights on the effects of implementation 
+strategies. Other methodological strengths of the review 
+include contacting all study authors systematically to 
+obtain additional data, the use of the EPOC Taxonomy 
+to guide data extraction and analysis of findings and the 
+use of GRADE to assess the certainty of evidence and 
+enhance the reliability of the review’s conclusions.
+This review also has limitations. The presence of mul -
+tiple co-interventions and varying study designs could 
+confound the results, making it challenging to isolate the 
+effect of specific implementation strategies. Some stud -
+ies were judged to have a high risk of bias, potentially 
+affecting the reliability of the findings, though sensitivity 
+analyses were conducted to exclude these studies. Addi -
+tionally, we could not abstract some important factors, 
+such as organizational and contextual characteristics, 
+and the effects of implementation strategies depend on 
+engagement with the intervention, which was not meas -
+ured or reported in many studies. We synthesized and 
+described a very large, heterogeneous dataset, which we 
+believed could not be meaningfully summarized effec -
+tively through a narrative approach alone. The meta-
+analyses demonstrated substantial heterogeneity for most 
+analyses (I2 often above 75%), indicating significant vari -
+ability in the effect sizes across studies. This high hetero -
+geneity can reduce the reliability of the pooled estimates 
+and suggests that the effects of implementation strategies 
+may differ substantially depending on the context and 
+specific characteristics of each study. There was consider-
+able variation in the measurement and reporting of clini -
+cal practice and patient outcomes across studies. This 
+variation complicates the comparison and synthesis of 
+results and may contribute to the observed heterogene -
+ity. For these reasons, the findings from our quantitative 
+analyses should be interpreted with caution given that 
+they rely on heterogenous and moderate quality data, and 
+as a quantitative aid to the narrative synthesis.
+This comprehensive review offers several action -
+able recommendations and implications for health -
+care systems. Implementation practitioners and 
+healthcare organizations may consider adopting and 
+investing in multifaceted, tailored, context-specific strat -
+egies that address local barriers and leverage facilitators 
+for the successful implementation of evidence-based 
+interventions in nursing practice. Furthermore, practi -
+tioners and organizations should also consider expanding 
+the repertoire of strategies they employ, incorporating 
+underutilized strategies listed in the EPOC Taxonomy 
+such as local consensus processes, patient-mediated 
+interventions, and continuous quality improvement, 
+while exploring additional strategies outlined in the ERIC 
+Taxonomy. Finally, there is need for ongoing monitor -
+ing and evaluation mechanisms to assess the long-term 
+impact of implementation strategies on both clinical 
+practice and patient outcomes.
+Conclusions
+Implementation strategies play a crucial role in enhanc -
+ing evidence-based nursing practice and potentially 
+improving patient outcomes. Future research should
+<<<PAGE=27>>>
+Page 27 of 31
+Fontaine et al. Implementation Science           (2024) 19:68 
+ 
+focus on exploring how different healthcare settings 
+and contexts influence the effectiveness of implementa -
+tion strategies; investigating the sustainability and long-
+term impact of strategies on both clinical practice and 
+patient outcomes; evaluating the effectiveness of novel 
+and underutilized implementation strategies; evaluating 
+the effectiveness of implementation strategies in diverse 
+healthcare systems (particularly in LMICs); and design -
+ing trials that more rigorously measure the direct impact 
+of implementation strategies on patient outcomes.
+Abbreviations
+A&F  Audit and feedback
+CHG  Chlorhexidine gluconate
+CLABSI  Central line-associated bloodstream infections
+CI  Confidence interval
+CIR  Clinical incident reporting
+CPG  Clinical practice guidelines
+COP  Communities of practice
+CQI  Continuous quality improvement
+CRT   Cluster randomized trial
+EGames  Educational games
+EMat  Educational materials
+EMeet  Educational meetings
+EO  Educational outreach
+EPOC  Effective Practice and Organisation of Care Group
+ERIC  Expert Recommendations for Implementing Change
+ICU  Intensive care unit
+IPE  Inter-professional education
+LCP  Local consensus processes
+LMIC  Low and middle-income countries
+MPDH  Monitoring the performance of delivery of healthcare
+MS  Managerial supervision
+OL  Local opinion leaders
+OR  Odds ratio
+PMI  Patient-mediated interventions
+R  Reminders
+RCT   Randomized control trial
+RevMan Web  Review Manager Web
+RoB 2  Risk of Bias 2
+ROBINS-I  Risk Of Bias in Non-randomized Studies-of Interventions
+RPROM  Routine patient-reported outcome measures
+SD  Standard deviation
+SDG  Sustainable Development Goals
+SMD  Standardized mean difference
+TI  Tailored interventions
+Supplementary Information
+The online version contains supplementary material available at https:// doi. 
+org/ 10. 1186/ s13012- 024- 01398-0.
+Supplementary Material 1.
+Supplementary Material 2.
+Supplementary Material 3.
+Supplementary Material 4.
+Supplementary Material 5.
+Supplementary Material 6.
+Supplementary Material 7.
+Supplementary Material 8.
+Supplementary Material 9.
+Supplementary Material 10.
+Acknowledgements
+The authors wish to acknowledge the contribution of Jérémie Blondin for the 
+development of search strategies and the search in bibliographical databases. 
+We thank Ariane Ballard for contributing to study selection. We thank the 
+individuals who responded to requests for additional data, including Jens 
+Abraham, Patrick Akande, Marvin J. Bittner, Ian Blanco Mavillard, Nicolle P . G. 
+Boumans, Marian C. Brady, Diane L. Carroll, Andrea Chaplin, Lorena Charrier, 
+Francine M. Cheater, Lynn Chenoweth, Yeu-Hui Chuang, Lorenzo Cohen, Kelly 
+Jo Cone, Susan Cortez, J. Randall Curtis, Barbara Davies, Tina Day, Marlies de 
+Rond, Dennis de Ruijter, Helen Edwards, Mohamed Elzeky, Ruth Engelberg, 
+David Evans, Valeria Fabre, Tobias Filmer, Christopher R. Friese, Marjorie Funk, 
+Matthew Bidwell Goetz, Salla Grommi, Mary Beth Happ, Michael Hendryx, 
+Manuela Hödl, Anita Huis, Alison Hutchinson, Yueh-Juan Hwu, Ali Khani 
+Jeihooni, Céleste Johnston, Eileen F. S. Kaner, Zahra Karimian, Kristina H. 
+Karvinen, Sedigheh Khanjari, Mahnaz Khatiban, Serena Koh, Sascha Köpke, 
+Ruth Kleinpell, Una Kyriacos, Jan van Lieshout, Li-Chan Lin, Elizabeth Manias, 
+Edward R. Marcantonio, Gabriele Meyer, Sandy Middleton, Tatsuya Morita, 
+Janneke Noordman, Mary Patricia Nowalk, Jane Ogden, Christine Paul, James 
+A. Rankin, Marilyn Rantz, Susan M. Ray, Staci S. Reynolds, Young Sook Roh, 
+Jeffrey M. Rothschild, Reza Sadeghi, Trygve Johannes Lereim Sævareid, Parvin 
+Mangolian Shahrbabaki, Davide Sisti, Wilma ten Ham-Baoyi, Sousan Valizadeh, 
+Maritta Välimäki, Ayse Kacaroglu Vicdan, Thomas von Lengerke, Laura Wagner, 
+Timothy Walsh, Marcia Weaver, Chistopher Weir, and Carla Zotti.
+Authors’ contributions
+GF conceptualized the study, developed the research questions, and defined 
+the scope of the review. GF, in collaboration with a Research Librarian, 
+designed and ran the search strategies. Title and abstract screening were per-
+formed by GF, BV, MAMC, ALav, MFD, ALap, GC, GR and CP . The full text review 
+was carried out by GF, BV, MAMC, ALav, MFD, ALap, GC, GR, CEC and CP . Data 
+extraction and risk of bias assessment were conducted by GF, BV, CW, MAMC, 
+ALav, MFD, ALap, SAC, GC, GR, NA, MM, CEC, CP , TM and PL. GF, BV, CW, and NA 
+managed the data cleaning and performed the meta-analyses, which were 
+reviewed by KK. GF, BV and CW prepared the tables and figures, while GF and 
+CW led the narrative synthesis and drafted the manuscript. KK, SC, MPG, SS, NS 
+and SM provided critical input into the organization, analysis, and interpreta-
+tion of the results. All authors read and approved the final manuscript.
+Funding
+GF was supported by a Banting Postdoctoral Fellowship (#202010BPF-
+453986–255367) from the Canadian Institutes of Health Research (CIHR), and 
+a Junior 1 Research Scholar Award from the Fonds de recherche du Québec – 
+Santé (FRQ-S). This project is supported by a project grant from the Quebec 
+Health Research Fund (FRQ-S) and the Réseau de recherche en interventions 
+en sciences infirmières du Québec/Quebec Network on Nursing Intervention 
+Research (RRISIQ).
+Availability of data and materials
+All data are included in this published article and its supplementary informa-
+tion files.
+Declarations
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1 Ingram School of Nursing, Faculty of Medicine and Health Sciences, McGill 
+University, 680 Rue Sherbrooke West, 18Th Floor, Office 1812, Montréal, QC 
+H3A 2M7, Canada. 2 Centre for Clinical Epidemiology, Lady Davis Institute 
+for Medical Research, Sir Mortimer B. Davis Jewish General Hospital, CIUSSS 
+West-Central Montreal, 3755 Chem. de La Côte-Sainte-Catherine, Montréal, 
+QC H3T 1E2, Canada. 3 Centre for Nursing Research, Sir Mortimer B. Davis 
+Jewish General Hospital, CIUSSS West-Central Montreal, 3755 Chem. de La
+<<<PAGE=28>>>
+Page 28 of 31Fontaine et al. Implementation Science           (2024) 19:68 
+Côte-Sainte-Catherine, Montréal, QC H3T 1E2, Canada. 4 Centre for Implemen-
+tation Research, Methodological and Implementation Research Program, 
+Ottawa Hospital Research Institute, 501 Smyth Road, Ottawa, ON K1H 8L6, 
+Canada. 5 Faculty of Nursing, Université de Montréal, 2375 Chemin de La 
+Côte-Sainte-Catherine, Montréal, QC H3T 1A8, Canada. 6 Research Centre 
+of the Centre Hospitalier de L ’Université de Montréal, 900 Saint Denis St, 
+Montreal, QC H2X 0A9, Canada. 7 Division of Child and Adolescent Health, 
+Department of Pediatrics, Columbia University Vagelos College of Physi-
+cians and Surgeons and NewYork-Presbyterian Morgan Stanley Children’s 
+Hospital, 3659 Broadway, New York, NY 10032, USA. 8 Centre de Recherche 
+Interdisciplinaire en Réadaptation du Montréal Métropolitain, Institut de 
+Réadaptation Gingras-Lindsay-de-Montréal, 6363 Hudson Rd, Montréal, QC 
+H3S 1M9, Canada. 9 CHU de Québec-Université Laval Research Centre, 1050 
+Chemin Sainte-Foy, Québec City, QC G1S 4L8, Canada. 10 Research Institute 
+of the McGill University Health Centre, 2155 Guy St, Montreal, QC H3H 2L9, 
+Canada. 11 Knowledge Translation Program, Li Ka Shing Knowledge Institute, St. 
+Michael’s Hospital, Unity Health Toronto, 38 Shuter St, Toronto, ON M5B 1A6, 
+Canada. 12 Department of Nursing, Université du Québec en Outaouais, 283, 
+Boulevard Alexandre-Taché, Gatineau, QC J8X 3X7, Canada. 13 Women’s College 
+Hospital Institute for Health System Solutions and Virtual Care, Women’s Col-
+lege Hospital, 76 Grenville St, Toronto, ON M5G 1N8, Canada. 14 Health Services 
+Research Unit, School of Medicine, Medical Sciences and Nutrition, University 
+of Aberdeen, Health Sciences Building Foresterhill, Aberdeen AB25 2ZD, UK. 
+15 School of Nursing, Dalhousie University, 5869 University Ave, Halifax, NS B3H 
+4R2, Canada. 16 IWK Health, 5980 University Ave, Halifax, NS B3K 6R8, Canada. 
+17 Montreal Heart Institute Research Centre, 5000 Bélanger, Montréal, QC H1T 
+1C8, Canada. 18 Centre Intégré de Santé et de Services Sociaux de Chaudière-
+Appalaches, 143, Rue Wolfe, Lévis, QC G6V 3Z1, Canada. 19 Faculty of Nursing, 
+Université Laval, Pavillon Ferdinand-Vandry, 1050, Avenue de La Médecine, 
+Québec City, QC G1V 0A6, Canada. 20 Nursing Research Institute, St Vincent’s 
+Health Network Sydney, St Vincent’s Hospital Melbourne and the Australian 
+Catholic University, 390 Victoria St, Level 5 deLacy Building, Darlinghurst, NSW 
+2010, Australia. 21 School of Nursing, Midwifery and Paramedicine, Austral-
+ian Catholic University, 40 Edward Street, North Sydney, Sydney, NSW 2060, 
+Australia. 
+Received: 4 July 2024   Accepted: 13 September 2024
+References
+ 1. World Health Organization. State of the world’s nursing 2020: investing in 
+education, jobs and leadership. 2020.
+ 2. World Health Organization. Global strategic directions for nursing and 
+midwifery 2021–2025. 2021.
+ 3. United Nations. Transforming our world: the 2030 Agenda for Sustain-
+able Development - Resolution adopted by the General Assembly on 25 
+September 2015. 2015.
+ 4. Fields L, Perkiss S, Dean BA, Moroney T. Nursing and the Sustainable 
+Development Goals: a scoping review. J Nurs Scholarsh. 2021;53(5):568–
+77. https:// doi. org/ 10. 1111/ jnu. 12675.
+ 5. Laurant M, van der Biezen M, Wijers N, Watananirun K, Kontopantelis E, 
+van Vught AJ. Nurses as substitutes for doctors in primary care. Cochrane 
+Database Syst Rev. 2018;7(7):CD001271. https:// doi. org/ 10. 1002/ 14651 
+858. CD001 271. pub3.
+ 6. Coster S, Watkins M, Norman IJ. What is the impact of professional nurs-
+ing on patients’ outcomes globally? An overview of research evidence. Int 
+J Nurs Stud. 2018;78:76–83. https:// doi. org/ 10. 1016/j. ijnur stu. 2017. 10. 009.
+ 7. Nundy S, Cooper LA, Mate KS. The Quintuple Aim for health care 
+improvement: a new imperative to advance health equity. JAMA. 
+2022;327(6):521–2. https:// doi. org/ 10. 1001/ jama. 2021. 25181.
+ 8. Stephenson J. Expand Nurses’ Scope of Practice, Strengthen Nursing 
+Education to Advance Health Equity, Report Advises. JAMA Health Forum. 
+2021;2(5):e211527. https:// doi. org/ 10. 1001/ jamah ealth forum. 2021. 1527.
+ 9. Patey AM, Fontaine G, Francis JJ, McCleary N, Presseau J, Grimshaw 
+JM. Healthcare professional behaviour: health impact, prevalence of 
+evidence-based behaviours, correlates and interventions. Psychol Health. 
+2023;38(6):766–94. https:// doi. org/ 10. 1080/ 08870 446. 2022. 21008 87.
+ 10. Cheraghi R, Ebrahimi H, Kheibar N, Sahebihagh MH. Reasons for 
+resistance to change in nursing: an integrative review. BMC Nurs. 
+2023;22(1):310. https:// doi. org/ 10. 1186/ s12912- 023- 01460-0.
+ 11. Godin G, Belanger-Gravel A, Eccles M, Grimshaw J. Healthcare profession-
+als’ intentions and behaviours: a systematic review of studies based on 
+social cognitive theories. Implement Sci. 2008;3:36. https:// doi. org/ 10. 
+1186/ 1748- 5908-3- 36.
+ 12. McArthur C, Bai Y, Hewston P , Giangregorio L, Straus S, Papaioannou A. 
+Barriers and facilitators to implementing evidence-based guidelines 
+in long-term care: a qualitative evidence synthesis. Implement Sci. 
+2021;16(1):70. https:// doi. org/ 10. 1186/ s13012- 021- 01140-0.
+ 13. Shayan SJ, Kiwanuka F, Nakaye Z. Barriers associated with evidence-based 
+practice among nurses in low- and middle-income countries: a system-
+atic review. Worldviews Evid Based Nurs. 2019;16(1):12–20. https:// doi. 
+org/ 10. 1111/ wvn. 12337.
+ 14. Cane J, O’Connor D, Michie S. Validation of the theoretical domains 
+framework for use in behaviour change and implementation research. 
+Implement Sci. 2012;7:37. https:// doi. org/ 10. 1186/ 1748- 5908-7- 37.
+ 15. Dakka FJ. Nurses barriers to evidence-based practice in palliative care: a 
+systematic review. SAGE Open Nurs Jan-Dec. 2022;8:23779608221142956. 
+https:// doi. org/ 10. 1177/ 23779 60822 11429 57.
+ 16. Forsetlund L, O’Brien MA, Forsen L, et al. Continuing education meet-
+ings and workshops: effects on professional practice and healthcare 
+outcomes. Cochrane Database Syst Rev. 2021;(9)https:// doi. org/ 10. 1002/ 
+14651 858. CD003 030. pub3
+ 17. Ivers N, Jamtvedt G, Flottorp S, et al. Audit and feedback: effects on 
+professional practice and healthcare outcomes. Cochrane Database Syst 
+Rev. 2012;(6)https:// doi. org/ 10. 1002/ 14651 858. CD000 259. pub3
+ 18. Santos WJ, Graham ID, Lalonde M, Demery Varin M, Squires JE. The 
+effectiveness of champions in implementing innovations in health care: a 
+systematic review. Implement Sci Commun. 2022;3(1):80. https:// doi. org/ 
+10. 1186/ s43058- 022- 00315-0.
+ 19. Cahill LS, Carey LM, Lannin NA, et al. Implementation interventions to 
+promote the uptake of evidence‐based practices in stroke rehabilitation. 
+Cochrane Database Syst Rev. 2020;(10)https:// doi. org/ 10. 1002/ 14651 858. 
+CD012 575. pub2
+ 20. Powell BJ, Waltz TJ, Chinman MJ, et al. A refined compilation of imple-
+mentation strategies: results from the Expert Recommendations for 
+Implementing Change (ERIC) project. Implement Sci. 2015;10:21. https:// 
+doi. org/ 10. 1186/ s13012- 015- 0209-1.
+ 21. Proctor EK, Powell BJ, McMillen JC. Implementation strategies: recom-
+mendations for specifying and reporting. Implement Sci. 2013;8:139. 
+https:// doi. org/ 10. 1186/ 1748- 5908-8- 139.
+ 22. Effective Practice and Organisation of Care (EPOC). EPOC Taxonomy. 
+https:// epoc. cochr ane. org/ epoc- taxon omy. Accessed 20 Sept 2024.
+ 23. Hulscher MWM. Multifaceted Implementation Strategies. In: Wensing 
+MGR, Grimshaw J, editors. Improving Patient Care: The Implementation of 
+Change in Health Care. 3rd ed. 2020.
+ 24. Suman A, Dikkers MF, Schaafsma FG, van Tulder MW, Anema JR. Effective-
+ness of multifaceted implementation strategies for the implementa-
+tion of back and neck pain guidelines in health care: a systematic 
+review. Implement Sci. 2016;11(1):126. https:// doi. org/ 10. 1186/ 
+s13012- 016- 0482-7.
+ 25. Boaz A, Baeza J, Fraser A, Persson E. ‘It depends’: what 86 systematic 
+reviews tell us about what strategies to use to support the use of 
+research in clinical practice. Implement Sci. 2024;19(1):15. https:// doi. org/ 
+10. 1186/ s13012- 024- 01337-z.
+ 26. Flodgren G, O’Brien MA, Parmelli E, Grimshaw JM. Local opinion leaders: 
+effects on professional practice and healthcare outcomes. Cochrane 
+Database Syst Rev. 2019;6(6):CD000125. https:// doi. org/ 10. 1002/ 14651 
+858. CD000 125. pub5.
+ 27. Giguere A, Legare F, Grimshaw J, et al. Printed educational materials: 
+effects on professional practice and healthcare outcomes. Cochrane 
+Database Syst Rev. 2020;10(10):CD004398. https:// doi. org/ 10. 1002/ 14651 
+858. CD004 398. pub3.
+ 28. Maheu-Cadotte MA, Cossette S, Dube V, et al. Efficacy of serious games in 
+healthcare professions education: a systematic review and meta-analysis. 
+Simul Healthc. 2021;16(3):199–212. https:// doi. org/ 10. 1097/ SIH. 00000 
+00000 000512.
+ 29. Fontaine G, Cossette S, Maheu-Cadotte MA, et al. Efficacy of adaptive 
+e-learning for health professionals and students: a systematic review and
+<<<PAGE=29>>>
+Page 29 of 31
+Fontaine et al. Implementation Science           (2024) 19:68 
+ 
+meta-analysis. BMJ Open. 2019;9(8):e025252. https:// doi. org/ 10. 1136/ 
+bmjop en- 2018- 025252.
+ 30. Maheu-Cadotte M-A, Lapierre A, Fontaine G, Mailhot T, Lavoie P . Effect of 
+simulation-based education on the preparedness of healthcare profes-
+sionals for the COVID-19 Pandemic: a systematic review and meta-anal-
+ysis. Sci Nurs Health Pract. 2021;4(1):1–21. https:// doi. org/ 10. 7202/ 10779 
+86ar.
+ 31. Brown A, Barnes C, Byaruhanga J, et al. Effectiveness of Technology-
+Enabled Knowledge Translation Strategies in Improving the Use of 
+Research in Public Health: Systematic Review. J Med Internet Res. 
+2020;22(7):e17274. https:// doi. org/ 10. 2196/ 17274.
+ 32. De Angelis G, Davies B, King J, et al. Information and communication 
+technologies for the dissemination of clinical practice guidelines to 
+health professionals: a systematic review. JMIR Med Educ. 2016;2(2):e16. 
+https:// doi. org/ 10. 2196/ mededu. 6288.
+ 33. Pantoja T, Grimshaw JM, Colomer N, Castanon C, Leniz Martelli J. 
+Manually-generated reminders delivered on paper: effects on profes-
+sional practice and patient outcomes. Cochrane Database Syst Rev. 
+2019;12(12):CD001174. https:// doi. org/ 10. 1002/ 14651 858. CD001 174. 
+pub4.
+ 34. Cassidy CE, Harrison MB, Godfrey C, et al. Use and effects of imple-
+mentation strategies for practice guidelines in nursing: a systematic 
+review. Implement Sci. 2021;16(1):102. https:// doi. org/ 10. 1186/ 
+s13012- 021- 01165-5.
+ 35. Spoon D, Rietbergen T, Huis A, et al. Implementation strategies used to 
+implement nursing guidelines in daily practice: a systematic review. Int 
+J Nurs Stud. 2020;111:103748. https:// doi. org/ 10. 1016/j. ijnur stu. 2020. 
+103748.
+ 36. Michie S. ABC of behaviour change theories. London: Silverback Publish-
+ing; 2014.
+ 37. Higgins JPT, Thomas J, Chandler J, et al. Cochrane handbook for system-
+atic reviews of interventions. 2 ed. Oxford: Wiley Blackwell; 2019.
+ 38. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 statement: 
+an updated guideline for reporting systematic reviews. Syst Rev. 
+2021;10(1):1–11. https:// doi. org/ 10. 1186/ s13643- 021- 01626-4.
+ 39. Fontaine G, Cossette S, Maheu-Cadotte MA, et al. Effect of implementa-
+tion interventions on nurses’ behaviour in clinical practice: a system-
+atic review, meta-analysis and meta-regression protocol. Syst Rev. 
+2019;8(1):305. https:// doi. org/ 10. 1186/ s13643- 019- 1227-x.
+ 40. Clarivate. EndNote X8 [Computer software]. https:// endno te. com/ produ 
+ct- detai ls/ x8/. Accessed 20 Sept 2024.
+ 41. Covidence. Covidence [Computer software]. https:// www. covid ence. 
+org/. Accessed 20 Sept 2024.
+ 42. Sterne JA, Savović J, Page MJ, et al. RoB 2: a revised tool for assessing risk 
+of bias in randomised trials. BMJ. 2019;366. https:// doi. org/ 10. 1136/ bmj. 
+l4898
+ 43. Sterne JA, Hernán MA, Reeves BC, et al. ROBINS-I: a tool for assessing risk 
+of bias in non-randomised studies of interventions. BMJ. 2016;355https:// 
+doi. org/ 10. 1136/ bmj. i4919
+ 44. Cochrane. Review Manager Web (RevMan Web) Version 7.7.0 [Computer 
+software]. https:// revman. cochr ane. org
+ 45. McGuinness L, Higgins, JPT. Risk-of-bias VISualization (robvis): An R pack-
+age and Shiny web app for visualizing risk-of-bias assessments. Res Syn 
+Meth. 2020:1–7. https:// doi. org/ 10. 1002/ jrsm. 1411
+ 46. Guyatt G, Oxman AD, Akl EA, et al. GRADE guidelines: 1. Introduction-
+GRADE evidence profiles and summary of findings tables. J Clin Epide-
+miol. 2011;64(4):383–94. https:// doi. org/ 10. 1016/j. jclin epi. 2010. 04. 026.
+ 47. GRADEpro GDT: GRADEpro Guideline development tool [Software]. 
+McMaster University and evidence prime. 2024. Available from grade pro. 
+org.
+ 48. Antonini M, Bellier-Teichmann T, O’Reilly L, et al. Effects of an educational 
+intervention to strengthen humanistic practice on haemodialysis nurses’ 
+caring attitudes and behaviours and quality of working life: a cluster 
+randomised controlled trial. BMC Nurs. 2021;20(1):255. https:// doi. org/ 10. 
+1186/ s12912- 021- 00729-6.
+ 49. Brady MC, Stott DJ, Weir CJ, et al. A pragmatic, multi-centered, stepped 
+wedge, cluster randomized controlled trial pilot of the clinical and cost 
+effectiveness of a complex Stroke Oral healthCare intervention pLan 
+Evaluation II (SOCLE II) compared with usual oral healthcare in stroke 
+wards. Int J Stroke. 2020;15(3):318–23. https:// doi. org/ 10. 1177/ 17474 
+93019 871824.
+ 50. Brennan K, Sanchez D, Hedges S, et al. A nurse-led intervention to reduce 
+the incidence and duration of delirium among adults admitted to 
+intensive care: a stepped-wedge cluster randomised trial. Aust Criti Care. 
+2023;36(4):441–8. https:// doi. org/ 10. 1016/j. aucc. 2022. 08. 005.
+ 51. Chang Y-Y, Yu H-H, Loh E-W, Chang L-Y. The efficacy of an in-service 
+education program designed to enhance the effectiveness of physical 
+restraints. J Nurs Res. 2016;24(1):79–86. https:// doi. org/ 10. 1097/ jnr. 00000 
+00000 000092.
+ 52. Day T, Wainwright SP , Wilson-Barnett J. An evaluation of a teaching inter-
+vention to improve the practice of endotracheal suctioning in intensive 
+care units. J Clin Nurs. 2001;10(5):682–96. https:// doi. org/ 10. 1046/j. 1365- 
+2702. 2001. 00519.x.
+ 53. Hammersley VS, Elton RA, Walker S, Hansen CH, Sheikh A. Adolescent sea-
+sonal allergic rhinitis and the impact of health-care professional training: 
+Cluster randomised controlled trial of a complex intervention in primary 
+care. NPJ Prim Care Respir Med. 2014;24:14012. https:// doi. org/ 10. 1038/ 
+npjpc rm. 2014. 12.
+ 54. Happ MB, Sereika SM, Houze MP , et al. Quality of care and resource use 
+among mechanically ventilated patients before and after an interven-
+tion to assist nurse-nonvocal patient communication. Heart & Lung. 
+2015;44(5):408-415. e2. https:// doi. org/ 10. 1016/j. hrtlng. 2015. 07. 001.
+ 55. Hessig RE, Arcand LL, Frost MH. The effects of an educational interven-
+tion on oncology nurses’ attitude, perceived knowledge, and self-
+reported application of complementary therapies. Oncol Nurs Forum. 
+2004;31(1):71–8. https:// doi. org/ 10. 1188/ 04. Onf. 71- 78.
+ 56. Hödl M, Halfens RJ, Lohrmann C. Effectiveness of conservative urinary 
+incontinence management among female nursing home residents—a 
+cluster RCT. Arch Gerontol Geriatr. 2019;81:245–51. https:// doi. org/ 10. 
+1016/j. archg er. 2019. 01. 003.
+ 57. Hong SW, Ching TY, Fwng JPM, Seto WL. The employment of ward 
+opinion leaders for continuing education in the hospital. Med Teach. 
+1990;12(2):209–17. https:// doi. org/ 10. 3109/ 01421 59900 90066 98.
+ 58. Johnston CC, Gagnon A, Rennick J, et al. One-on-one coaching to 
+improve pain assessment and management practices of pediatric nurses. 
+J Pediatr Nurs. 2007;22(6):467–78. https:// doi. org/ 10. 1016/j. pedn. 2007. 07. 
+004.
+ 59. Lim SC, Mustapha FI, Aagaard-Hansen J, Calopietro M, Aris T, Bjerre-Chris-
+tensen U. Impact of continuing medical education for primary healthcare 
+providers in Malaysia on diabetes knowledge, attitudes, skills and clinical 
+practices. Med Educ Online. 2020;25(1):1710330. https:// doi. org/ 10. 1080/ 
+10872 981. 2019. 17103 30.
+ 60. Lin PC, Chiang HW, Chiang TT, Chen CS. Pain management: evaluating 
+the effectiveness of an educational programme for surgical nursing staff. 
+J Clin Nurs. 2008;17(15):2032–41. https:// doi. org/ 10. 1111/j. 1365- 2702. 
+2007. 02190.x.
+ 61. Michaels TK, Hubbartt E, Carroll SA, Hudson-Barr D. Evaluating an educa-
+tional approach to improve pain assessment in hospitalized patients. J 
+Nurs Care Qual. 2007;22(3):260–5. https:// doi. org/ 10. 1097/ 01. Ncq. 00002 
+77784. 14310. 66.
+ 62. Noordman J, van der Weijden T, van Dulmen S. Effects of video-feedback 
+on the communication, clinical competence and motivational interview-
+ing skills of practice nurses: a pre-test posttest control group study. J Adv 
+Nurs. 2014;70(10):2272–83. https:// doi. org/ 10. 1111/ jan. 12376.
+ 63. O’Neill KL, Ross-Kerr JC. Impact of an instructional program on 
+nurses’ accuracy in capillary blood glucose monitoring. Clin Nurs Res. 
+1999;8(2):166–78. https:// doi. org/ 10. 1177/ 10547 73992 21582 23.
+ 64. Pagaiya N, Garner P . Primary care nurses using guidelines in Thailand: 
+a randomized controlled trial. Trop Med Int Health. 2005;10(5):471–7. 
+https:// doi. org/ 10. 1111/j. 1365- 3156. 2005. 01404.x.
+ 65. Reynolds SS, Woltz P , Keating E, et al. Results of the CHlorhexidine Gluco-
+nate Bathing implementation intervention to improve evidence-based 
+nursing practices for prevention of central line associated bloodstream 
+infections Study (CHanGing BathS): a stepped wedge cluster rand-
+omized trial. Implement Sci. 2021;16(1):45. https:// doi. org/ 10. 1186/ 
+s13012- 021- 01112-4.
+ 66. Rothschild JM, Keohane CA, Cook EF, et al. A controlled trial of smart infu-
+sion pumps to improve medication safety in critically ill patients. Crit Care 
+Med. 2005;33(3):533–40. https:// doi. org/ 10. 1097/ 01. ccm. 00001 55912. 
+73313. cd.
+ 67. Schondelmeyer AC, Bettencourt AP , Xiao R, et al. Evaluation of an educa-
+tional outreach and audit and feedback program to reduce continuous
+<<<PAGE=30>>>
+Page 30 of 31Fontaine et al. Implementation Science           (2024) 19:68 
+pulse oximetry use in hospitalized infants with stable bronchiolitis: a non-
+randomized clinical trial. JAMA Netw Open. 2021;4(9):e2122826. https:// 
+doi. org/ 10. 1001/ jaman etwor kopen. 2021. 22826.
+ 68. Seeley MA, Harding KG. The effects of education and training on clinical 
+practice in wound healing. Int Wound J. 2008;5(5):660–4. https:// doi. org/ 
+10. 1111/j. 1742- 481X. 2008. 00519.x.
+ 69. Segal G, Karniel E, Mahagna A, Kaa’dan F, Levi Z, Balik C. A nurse-guided, 
+basal-prandial insulin treatment protocol for achieving glycaemic control 
+of hospitalized, non-critically ill diabetes patients, is non-inferior to physi-
+cian-guided therapy: a pivotal, nurse-empowerment study. International 
+Journal of Mursing Practice. 2015;21(6):790–6. https:// doi. org/ 10. 1111/ ijn. 
+12292.
+ 70. Van de Steeg L, IJkema R, Langelaan M, Wagner C. Can an e-learning 
+course improve nursing care for older people at risk of delirium: a 
+stepped wedge cluster randomised trial. BMC Geriatr. 2014;14(1):1–8. 
+https:// doi. org/ 10. 1186/ 1471- 2318- 14- 69.
+ 71. Walsh TS, Kydonaki K, Antonelli J, et al. Staff education, regular sedation 
+and analgesia quality feedback, and a sedation monitoring technology 
+for improving sedation and analgesia quality for critically ill, mechani-
+cally ventilated patients: a cluster randomised trial. Lancet Respir Med. 
+2016;4(10):807–17. https:// doi. org/ 10. 1016/ S2213- 2600(16) 30178-3.
+ 72. Woodcock AJ, Kinmonth A-L, Campbell MJ, Griffin SJ, Spiegal NM. 
+Diabetes care from diagnosis: effects of training in patient-centred care 
+on beliefs, attitudes and behaviour of primary care professionals. Patient 
+Educ Couns. 1999;37(1):65–79. https:// doi. org/ 10. 1016/ S0738- 3991(98) 
+00104-9.
+ 73. Morita T, Murata H, Kishi E, Miyashita M, Yamaguchi T, Uchitomi Y. Mean-
+inglessness in terminally ill cancer patients: a randomized controlled 
+study. J Pain Symptom Manage. 2009;37(4):649–58. https:// doi. org/ 10. 
+1016/j. jpain symman. 2008. 04. 017.
+ 74. Wald HL, Bandle B, Richard AA, Min SJ, Capezuti E. A Trial of electronic 
+surveillance feedback for quality improvement at Nurses Improving Care 
+for Healthsystem Elders (NICHE) hospitals. Am J Infect Control. 2014;42(10 
+Suppl):S250–6. https:// doi. org/ 10. 1016/j. ajic. 2014. 04. 018.
+ 75. Bittner MJ, Rich EC, Turner PD, Arnold WH Jr. Limited impact of sustained 
+simple feedback based on soap and paper towel consumption on the 
+frequency of hand washing in an adult intensive care unit. Infect Control 
+Hosp Epidemiol. 2002;23(3):120–6. https:// doi. org/ 10. 1086/ 502020.
+ 76. Charrier L, Allochis MC, Cavallo MR, Gregori D, Cavallo F, Zotti CM. Inte-
+grated audit as a means to implement unit protocols: a randomized and 
+controlled study. J Eval Clin Pract. 2008;14(5):847–53. https:// doi. org/ 10. 
+1111/j. 1365- 2753. 2008. 01042.x.
+ 77. Jansson MM, Syrjala HP , Ohtonen PP , Merilainen MH, Kyngas HA, Ala-
+Kokko TI. Simulation education as a single intervention does not improve 
+hand hygiene practices: a randomized controlled follow-up study. Am J 
+Infect Control. 2016;44(6):625–30. https:// doi. org/ 10. 1016/j. ajic. 2015. 12. 
+030.
+ 78. Kaner E, Lock C, Heather N, McNamee P , Bond S. Promoting brief alcohol 
+intervention by nurses in primary care: a cluster randomised controlled 
+trial. Patient Educ Couns. 2003;51(3):277–84. https:// doi. org/ 10. 1016/ 
+s0738- 3991(02) 00242-2.
+ 79. Lau BD, Shaffer DL, Hobson DB, et al. Effectiveness of two distinct web-
+based education tools for bedside nurses on medication administration 
+practice for venous thromboembolism prevention: a randomized clinical 
+trial. PLoS One. 2017;12(8):e0181664. https:// doi. org/ 10. 1371/ journ al. 
+pone. 01816 64.
+ 80. Magnan MA, Maklebust J. The effect of Web-based Braden Scale training 
+on the reliability and precision of Braden Scale pressure ulcer risk assess-
+ments. J Wound Ostomy Continence Nurs. 2008;35(2):199–208. https:// 
+doi. org/ 10. 1097/ 01. WON. 00003 13643. 60117. b2. discussion 209.
+ 81. Muller-Staub M, Needham I, Odenbreit M, Lavin MA, van Achterberg T. 
+Implementing nursing diagnostics effectively: cluster randomized trial. J 
+Adv Nurs. 2008;63(3):291–301. https:// doi. org/ 10. 1111/j. 1365- 2648. 2008. 
+04700.x.
+ 82. Rutherford-Hemming T, Kelsey NC, Grenig DL, Feliciano M, Simko L, Hen-
+rich CM. Multisite single-blinded randomized control study of transfer 
+and retention of knowledge and skill between nurses using simulation 
+and online self-study module. Simul Healthc. 2016;11(4):264–70. https:// 
+doi. org/ 10. 1097/ sih. 00000 00000 000168.
+ 83. Wang L, Chen H, Yang L, Qian C, Sun D, Sun Y. Systematic training 
+program for nursing home staff based on the concept of combination 
+of medicine and care. Medicine. 2020;99(24):e20559. https:// doi. org/ 10. 
+1097/ MD. 00000 00000 020559.
+ 84. Jansson MM, Ala-Kokko TI, Ohtonen PP , Merilainen MH, Syrjala HP , Kyngas 
+HA. Human patient simulation education in the nursing management of 
+patients requiring mechanical ventilation: a randomized, controlled trial. 
+Am J Infect Control. 2014;42(3):271–6. https:// doi. org/ 10. 1016/j. ajic. 2013. 
+11. 023.
+ 85. Wang J, Wei L, Li H, et al. Effectiveness of a Game-Based Phone Applica-
+tion in Educating Health Care Workers on the Proper Use of Personal 
+Protective Equipment. J Contin Educ Nurs. 2022;53(5):212–20. https:// doi. 
+org/ 10. 3928/ 00220 124- 20220 414- 03.
+ 86. Tsai WP , Lin LY, Chang HC, Yu LS, Chou MC. The effects of the gatekeeper 
+suicide-awareness program for nursing personnel. Perspect Psychiatr 
+Care. 2011;47(3):117–25. https:// doi. org/ 10. 1111/j. 1744- 6163. 2010. 
+00278.x.
+ 87. Carrico RM, Coty MB, Goss LK, LaJoie AS. Changing health care worker 
+behavior in relation to respiratory disease transmission with a novel train-
+ing approach that uses biosimulation. Am J Infect Control. 2007;35(1):14–
+9. https:// doi. org/ 10. 1016/j. ajic. 2005. 12. 013.
+ 88. Kinsman L, Cooper S, Champion R, et al. The impact of web-based and 
+face-to-face simulation education programs on nurses’ response to 
+patient deterioration: a multi-site interrupted time series study. Nurse 
+Educ Today. 2021;102: 104939. https:// doi. org/ 10. 1016/j. nedt. 2021. 
+104939.
+ 89. Chambers A, Chen C, Brown KA, et al. Virtual learning collaboratives to 
+improve urine culturing and antibiotic prescribing in long-term care: con-
+trolled before-and-after study. BMJ Qual Saf. 2022;31(2):94–104. https:// 
+doi. org/ 10. 1136/ bmjqs- 2020- 012226.
+ 90. Fabre V, Pleiss A, Klein E, et al. A Pilot study to evaluate the impact of 
+a nurse-driven urine culture diagnostic stewardship intervention on 
+urine cultures in the acute care setting. Jt Comm J Qual Patient Saf. 
+2020;46(11):650–5. https:// doi. org/ 10. 1016/j. jcjq. 2020. 07. 003.
+ 91. Hutchinson AM, Brotto V, Chapman A, Sales AE, Mohebbi M, Bucknall 
+TK. Use of an audit with feedback implementation strategy to promote 
+medication error reporting by nurses. J Clin Nurs. 2020;29(21–22):4180–
+93. https:// doi. org/ 10. 1111/ jocn. 15447.
+ 92. Jansson MM, Syrjala HP , Ohtonen PP , Merilainen MH, Kyngas HA, Ala-
+Kokko TI. Randomized, controlled trial of the effectiveness of simula-
+tion education: a 24-month follow-up study in a clinical setting. Am J 
+Infect Control. 2016;44(4):387–93. https:// doi. org/ 10. 1016/j. ajic. 2015. 
+10. 035.
+ 93. Happ MB, Sereika SM, Houze MP , et al. Quality of care and resource use 
+among mechanically ventilated patients before and after an interven-
+tion to assist nurse-nonvocal patient communication. Heart Lung. 
+2015;44(5):408-415.e2. https:// doi. org/ 10. 1016/j. hrtlng. 2015. 07. 001.
+ 94. Ivers N YS, Lacroix M, Brown KA, Antony J, Soobiah C, Simeoni M, Willis 
+TA, Crawshaw J, Antonopoulou V, Meyer C, Solbak NM, Murray BJ, Butler 
+E, Zahradnik M, Lepage S, Giltenane M, Carter MD, Fontaine G, Sykes M, 
+Halasy M, Bazazo A, Seaton S, Canavan T, Alderson S, Reis C, Linklater S, 
+Lalor A, Fletcher A, Gearon E, Jenkins H, Wallis JA, Grobler L, Beccaria L, 
+Cyril S, Rozbroj T, Han JC, Xu AXT, Wu K, Rouleau G, Shah M, Konnyu K, 
+Colquhoun H, Presseau J, O’Connor D, Lorencatto F, Grimshaw JM,. Audit 
+and feedback: effects on professional practice and healthcare outcomes. 
+Cochrane Database Syst Rev. 2024.
+ 95. Michie S, van Stralen MM, West R. The behaviour change wheel: a 
+new method for characterising and designing behaviour change 
+interventions. Implement Sci. 2011;6:42. https:// doi. org/ 10. 1186/ 
+1748- 5908-6- 42.
+ 96. Squires JE, Sullivan K, Eccles MP , Worswick J, Grimshaw JM. Are multi-
+faceted interventions more effective than single-component interven-
+tions in changing health-care professionals’ behaviours? An overview of 
+systematic reviews. Implement Sci. 2014;9:152. https:// doi. org/ 10. 1186/ 
+s13012- 014- 0152-6.
+ 97. Baker R, Camosso-Stefinovic J, Gillies C, et al. Tailored interventions 
+to address determinants of practice. Cochrane Database Syst Rev. 
+2015;2015(4):CD005470. https:// doi. org/ 10. 1002/ 14651 858. CD005 470. 
+pub3.
+<<<PAGE=31>>>
+Page 31 of 31
+Fontaine et al. Implementation Science           (2024) 19:68 
+ 
+ 98. Connor L, Dean J, McNett M, et al. Evidence-based practice improves 
+patient outcomes and healthcare system return on investment: findings 
+from a scoping review. Worldviews Evid Based Nurs. 2023;20(1):6–15. 
+https:// doi. org/ 10. 1111/ wvn. 12621.
+ 99. Lovero KL, Kemp CG, Wagenaar BH, et al. Application of the Expert 
+Recommendations for Implementing Change (ERIC) compilation of strat-
+egies to health intervention implementation in low- and middle-income 
+countries: a systematic review. Implement Sci. 2023;18(1):56. https:// doi. 
+org/ 10. 1186/ s13012- 023- 01310-2.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.

@@ -1,0 +1,1176 @@
+<<<PAGE=1>>>
+Finn et al. Hum Resour Health            (2021) 19:5  
+https://doi.org/10.1186/s12960-020-00547-y
+REVIEW
+What do we mean by individual capacity 
+strengthening for primary health care in low- 
+and middle-income countries? A systematic 
+scoping review to improve conceptual clarity
+Mairéad Finn1,2* , Brynne Gilmore3, Greg Sheaf4 and Frédérique Vallières1
+Abstract 
+Background: Capacity strengthening of primary health care workers is widely used as a means to strengthen health 
+service delivery, particularly in low- and middle-income countries. Despite the widespread recognition of the impor-
+tance of capacity strengthening to improve access to quality health care, how the term ‘capacity strengthening’ is 
+both used and measured varies substantially across the literature. This scoping review sought to identify the most 
+common domains of individual capacity strengthening, as well as their most common forms of measurement, to gen-
+erate a better understanding of what is meant by the term ‘capacity strengthening’ for primary health care workers.
+Methods: Six electronic databases were searched for studies published between January 2000 and October 2020. 
+A total of 4474 articles were screened at title and abstract phase and 323 full-text articles were reviewed. 55 articles 
+were ultimately identified for inclusion, covering various geographic settings and health topics.
+Results: Capacity strengthening is predominantly conceptualised in relation to knowledge and skills, as either sole 
+domains of capacity, or used in combination with other domains including self-efficacy, practices, ability, and compe-
+tencies. Capacity strengthening is primarily measured using pre- and post-tests, practical evaluations, and observa-
+tion. These occur along study-specific indicators, though some pre-existing, validated tools are also used.
+Conclusion: The concept of capacity strengthening for primary health care workers reflected across a number of 
+relevant frameworks and theories differs from what is commonly seen in practice. A framework of individual capac-
+ity strengthening across intra-personal, inter-personal, and technical domains is proposed, as an initial step towards 
+building a common consensus of individual capacity strengthening for future work.
+Keywords: Scoping review, Capacity strengthening, Capacity building, Low- and middle-income countries, Primary 
+health care workers
+© The Author(s) 2021. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which 
+permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the 
+original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or 
+other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line 
+to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory 
+regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this 
+licence, visit http://creat iveco mmons .org/licen ses/by/4.0/. The Creative Commons Public Domain Dedication waiver (http://creat iveco 
+mmons .org/publi cdoma in/zero/1.0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.
+Introduction
+Capacity strengthening for primary health care workers 
+is widely relied upon as a strategy for improving health 
+worker performance, for strengthening health systems, 
+and for overall quality improvement in the delivery 
+of health services globally [1–4]. In this way, capac -
+ity strengthening interventions for human resources for 
+health is considered an important mechanism to achieve 
+Universal Health Coverage (UHC) under Workforce 
+2030, through the Global Strategy for Human Resources 
+for Health [5, 6], and to support the implementation of 
+the Sustainable Development Goals, articulated in Goal 
+17.9 [7]. In the context of these global frameworks, and 
+Open Access
+*Correspondence:  mairead.finn@tcd.ie
+1 Trinity Centre for Global Health, School of Psychology, Trinity College 
+Dublin, Dublin, Ireland
+Full list of author information is available at the end of the article
+<<<PAGE=2>>>
+Page 2 of 13Finn et al. Hum Resour Health            (2021) 19:5 
+in recognition of the paramount importance of a strong 
+workforce to strengthen health systems, there are sub -
+stantial investments to build primary health worker 
+capacity in low- and middle-income countries (LMICs). 
+Strengthening health systems, including the workforce 
+at primary level, is thus recognised as a vehicle through 
+which to enhance quality of care for broader populations, 
+particularly those most vulnerable or marginalised [6].
+Broadly defined as the ability to carry out stated objec -
+tives [8], capacity is a coveted aspect of human capital. 
+Capacity strengthening (also commonly referred to as 
+capacity building) has been conceptualised as an ongoing 
+process by which individuals, groups, organisations, and 
+societies increase their ability to perform core functions, 
+solve problems, define and achieve objectives, and under-
+stand and deal with development needs in a broad con -
+text and sustainable manner [9]. This process is reflected 
+across a number of prevalent models or frameworks, 
+which consider capacity strengthening as taking place 
+across individual, organisational, community, societal 
+and a broader ‘systems’ components [10, 11].
+Capacity strengthening for health interventions tends 
+to take place at the level of the individual , ranging from 
+training individuals in leadership, strategic thinking, 
+supervisory, financial, project, and performance man -
+agement skills, to training on more technical subjects, 
+including laboratory, clinical and non-clinical, surveil -
+lance, monitoring, and research skills [12, 13]. It also 
+takes place at the level of the organisation (i.e. through 
+improved partnership, leadership, or governance infra -
+structure) [2]; and at the level of the community  (i.e. 
+community health programming) [14, 15]. A common 
+inference however, is that intervening at one level (i.e. at 
+the level of the individual primary health care worker) 
+will subsequently result in observable changes within 
+another level (i.e. organisational) [16, 17].
+Despite efforts to map the theoretical underpin -
+nings of capacity strengthening approaches [17], assess -
+ing or evaluating whether programmes designed to 
+strengthen capacity effectively do so remains difficult, 
+prompting some to call for the term to be considered 
+and understood in more practical terms [15, 18]. Moreo-
+ver, the effects of capacity strengthening interventions 
+on improved health outcomes are difficult to ascertain. 
+According to Crisp et  al. [16], evaluating capacity must 
+consider that (i) capacity strengthening is a process and 
+therefore evolves over time; (ii) aggregates of individual 
+change may be insufficient to assess organisational or 
+community level changes, and (iii) capacity strength -
+ening may result in unintended consequences across 
+other components. Similarly, Aroni [18] notes that the 
+complexity and multi-disciplinary nature of capacity 
+strengthening in practice poses inherent challenges when 
+it comes to measuring changes in capacity. In response to 
+the problem of measurement, others have attempted to 
+conceptualise capacity strengthening in terms of its indi -
+cators, or domains [15]. Nevertheless, it remains unclear 
+what domains are most commonly used in the literature 
+where studies claim to have demonstrated an increase in 
+individual capacity among primary health care workers.
+Study objectives
+Despite the frequent use of the term ‘capacity strength -
+ening’ within the academic and implementation litera -
+ture, and the widespread recognition of the importance 
+of capacity strengthening in improving access to qual -
+ity health care [19], there is substantial variation in how 
+capacity strengthening is both interpreted and measured. 
+Thus, and informed by the growing emphasis within 
+programmes on ‘capacity strengthening’ approaches for 
+primary health care workers and by the absence of an 
+identified set of domains comprising ‘capacity strength -
+ening’ at the level of the individual, the aims of this scop -
+ing review are twofold. Firstly, the study aimed to identify 
+common domains of capacity strengthening for primary 
+health care workers, assessed at the level of the individ -
+ual. Specifically, we ask what domains are referred to, and 
+in which combinations, in studies that aim to strengthen 
+‘capacity’ among primary health care workers? Second, 
+we identify the methods used to measure and assess these 
+domains. In achieving both of these aims, we offer insight 
+into what is commonly understood as individual capacity 
+strengthening for primary health care within LMICs.
+Methodology
+A systematic scoping review of the literature was car -
+ried out following procedures described by Arksey and 
+O’Malley’s [20] and Levac, Colquhoun and O’Brien [21]. 
+Scoping review methodology was chosen because of the 
+potential wide array of relevant literature, and because of 
+the recognised value of scoping reviews in clarifying con -
+cepts or to investigate research conduct [22]. The current 
+review included articles published from 2000—corre -
+sponding to the launch of the Millennium Development 
+Goals—to October 2020. An initial search was conducted 
+in July 2018, subsequently updated to October 2020. Both 
+rounds of searching adhered to the same procedures, 
+outlined below.
+Identifying relevant studies—inclusion and exclusion 
+criteria
+The population was restricted to primary health care 
+workers, conceptualised as any non-specialist health care 
+worker providing health care at the first point of con -
+tact to the health system, for individuals and families in 
+the community [23, 24]. Included papers were further
+<<<PAGE=3>>>
+Page 3 of 13
+Finn et al. Hum Resour Health            (2021) 19:5 
+ 
+required to describe capacity strengthening interven -
+tions targeting the primary health care worker. Inter -
+ventions specific to research capacity strengthening 
+were excluded, as this has been extensively examined 
+elsewhere [25]. Lastly, and given that capacity strength -
+ening is recognised as a process taking place over time 
+[16], only studies that measured changes in capacity were 
+included. The review’s full inclusion and exclusion crite -
+ria are summarised in Table 1.
+Identifying relevant studies—search strategy
+The search terminology included four categories: capac -
+ity strengthening, health care providers, primary care, 
+and low- and middle-income countries. A subject librar -
+ian (GS) developed search strings for six electronic data -
+bases—CINAHL, Embase, MEDLINE, ProQuest Social 
+Science Premium Collection, PsycINFO, and Scopus—
+which were searched using various combinations of 
+indexing and key search terms. Additional file  1 contains 
+the search strings formatted for MEDLINE. The refer -
+ence lists of all articles retrieved for full-text screening 
+were also searched.
+Study selection
+Two researchers (MF, BG or FV) independently assessed 
+studies, at both title and abstract and full-text screen -
+ing phase. Any discrepancies between the two primary 
+screening authors were brought forward to the third 
+author for review. If unresolved, all three discussed the 
+study together and came to an agreement.
+Data management, extraction and synthesis
+Returned studies were imported into EndNote, where 
+duplicates were removed. Remaining articles were then 
+compiled and screened in Covidence, a systematic review 
+data management tool. A data extraction template was 
+created in Microsoft Excel to capture information includ-
+ing the study characteristics, intervention characteristics, 
+capacity strengthening domains and outcome measures. 
+MF extracted the data for each included study and a sec -
+ond author (BG or FV) independently compared extrac -
+tions for 20% of the articles for inter-rater reliability. The 
+authors also discussed any cases where it was necessary 
+to clarify decisions.
+Quality assessment
+The Mixed Methods Appraisal Tool (MMAT) [27] was 
+applied to each article. MMAT has been used success -
+fully for other systematic literature reviews [28] and was 
+chosen for its ability to score studies of varying methodo-
+logical traditions in a single coherent manner. Due to the 
+nature of this review, the MMAT was not used to inform 
+the interpretation of our findings, but is presented as a 
+resource to readers who may wish to apply individual 
+studies to their own practice.
+Results
+In total, 6078 articles were returned from the combined 
+database searches, of which 1604 were duplicates. Of 
+the 4474 screened at title and abstract phase, 323 were 
+put through for full-text screening. 269 articles were 
+excluded at full-text phase. An additional 21 articles 
+were identified through snowballing, of which one was 
+Table 1 Inclusion and exclusion criteria
+Inclusion criteria Exclusion criteria
+Population Primary health care workers Non-primary health care workers (i.e. specialists, consultants 
+researchers)
+Intervention Interventions that aimed to strengthen capacity at the individual 
+level
+Interventions aiming to strengthen capacity at organisational or 
+community level
+Interventions aiming to build research capacity
+Context Low-income and lower-middle income countries as defined by 
+the World Bank at time of study [26]
+High-income and upper-middle income countries at time of 
+study
+Outcomes Studies must have assessed changes in capacity specifically at 
+the level of the individual
+Studies which intervened at the individual level, but which only 
+assessed changes outside of the individual level (i.e. organisa-
+tional or community)
+Study design Studies must have a comparative element assessing capacity 
+at a minimum of two timepoints (i.e. pre–post) or using an 
+experimental design
+Non-comparative or cross-sectional designs
+Date range Published from 2000 Published prior to 2000
+Publication type Research article Conference abstracts, conference proceedings, grey literature, 
+report
+Languages All, though searching was primarily conducted in English
+<<<PAGE=4>>>
+Page 4 of 13Finn et al. Hum Resour Health            (2021) 19:5 
+included. A total of 55 articles were identified for inclu -
+sion. Figure 1 summarises the screening process.
+Article characteristics
+Primary health care workers in the sample studies 
+included physicians, nurses, midwives, medical officers, 
+community health workers, surveillance officers, clinical 
+officers, as well as psychiatrists and disease control offic -
+ers. Forty-nine capacity strengthening interventions took 
+place in one national setting, two were set between two- 
+or four-country contexts; and four were set across wider 
+regions of the Middle East, Africa and South Asia. Inter -
+ventions were implemented across a range of settings 
+including rural communities, cities, district and primary 
+PRISMA 2009 Flow Diagram 
+Ar/g415cles iden/g415ﬁed from manua l 
+search  
+(n=1) 
+Records iden/g415ﬁed through database  
+searching 
+(n =  6078) 
+Screening Included Eligibility Iden/g415ﬁca/g415o n 
+Less duplicates  
+(n =  1604) 
+Records a/g332er duplicates remove d 
+(n =  4474 )  
+Records excluded a/g332er /g415tle and  
+abstract review 
+ (n =  4151)  
+Full-text ar/g415cles assessed for 
+eligibility  
+(n =  323)  Full-text ar/g415cles excluded, with  
+reasons  (n = 269) 
+ 
+Excluded Study Type (n=145) 
+Excluded Method (n=76)  
+Excluded Se/g427ng  (n=48) 
+Selected ar/g415cles  
+(n = 54)  
+Included ar/g415cles  
+(n=55)  
+Fig. 1 PRISMA flow diagram
+<<<PAGE=5>>>
+Page 5 of 13
+Finn et al. Hum Resour Health            (2021) 19:5 
+ 
+health facilities, communities, as well as conferences and 
+educational settings. Most studies (n = 46) were pub -
+lished after 2010, with 40 published between 2015 and 
+2020, aligning to an increased focus on capacity strength-
+ening resulting from the commencement of the SDGs.
+Capacity strengthening interventions ranged from dis -
+ease prevention and surveillance, to clinical, management 
+and supervision interventions. Each study contained 
+some form of training for primary health care workers 
+with the duration of training ranging from 2.5  hours to 
+a 4-year ongoing programme. Interventions employed 
+an array of educational resources including manuals, 
+activities at conferences and workshops, lectures and 
+e-learning supports, mentorship, and case studies and 
+role plays, overall encompassing both didactic and expe -
+riential learning. Additional file  2 contains the full table 
+of included studies, their capacity strengthening topics 
+and specific details on the approaches, components and 
+measurements.
+Quality assessment
+MMAT resulted in the identification of 19 studies being 
+deemed as low quality. The majority of studies complied 
+with the quality criteria with 14 studies meeting all five 
+and 22 studies meeting four of five. A detailed presenta -
+tion of the ratings of each of the included studies, across 
+the five criteria, is available in Additional file 3.
+Objective 1: domains of capacity strengthening
+Domains of capacity strengthening were extracted based 
+on the terminology used in each study. Sixteen domains 
+of capacity strengthening were identified across the 
+sample of 55 studies: knowledge, skills, timeliness, con -
+fidence, abilities, leadership, motivation, self-efficacy, 
+commitment, resources, attitudes, practices, compe -
+tence, awareness, professional satisfaction and profes -
+sional quality of life. Table 2 provides a summary of these 
+16 domains identified, including where they were used in 
+combination with other domains (i.e. co-domains).
+Within the sample, 16 studies defined capacity 
+strengthening as a single domain. These studies meas -
+ured knowledge (n = 13), skills (n = 2) and practice 
+(n = 1). Nineteen studies used a combination of two 
+domains, 14 used three domains, and the remaining 
+used four (n = 5) and five (n = 1). Across the full sam -
+ple, the most commonly reported domain of capacity 
+strengthening was knowledge (n = 51). Knowledge was 
+most frequently strengthened alongside skills (n = 18), 
+attitude (n = 10), confidence (n = 8), practice (n = 6) and 
+self-efficacy (n = 6). Skills were the second most recorded 
+domain (n = 25), similarly most frequently strengthened 
+alongside knowledge (n = 18), followed by confidence 
+(n = 4). Knowledge or skills were present in 52 of 55 stud-
+ies, either alone or in combination with other domains.
+Domains of capacity were strengthened across a range 
+of aspects of primary health care. Knowledge as a sole 
+domain was strengthened primarily on clinical and tech -
+nical subjects, with a more limited number of studies 
+focusing on management and supervision. For exam -
+ple, Citraningtyas et al. [29] built knowledge to enhance 
+mental health workers’ understanding of how to pro -
+vide assistance to children and adolescents in disaster 
+affected areas in Indonesia. Strengthening of skills as 
+the sole domain tended towards strengthening leader -
+ship and management skills among supervisors [30, 31]. 
+In the 18 studies which measured skills alongside knowl -
+edge, capacity strengthening was conceptualised as both 
+increases in content knowledge and observed practice, 
+over a range of topics ranging from health promotion 
+[32] to disease surveillance [33], and infection control 
+[34]. One study related to ability to coach clinical skills 
+and quality improvement [35], and another to the man -
+agement of substance use conditions [36], with all other 
+studies related to more technical skills, such as breast 
+ultrasound interpretation [37], surveillance [33] and neo-
+natal continuous positive airway pressure [38].
+Thirteen studies assessing the domains of self-efficacy 
+or confidence were applied to strengthen leadership, 
+managerial or teaching capacity [39–42]; working with 
+patients [43–46]; and for the provision of care, such as 
+treatment for non-communicable disease [47], anti-ret -
+roviral therapy [45], and providing mental health care 
+[48–51], a topic which has become prevalent in more 
+recent years.
+Objective 2: measurements of capacity strengthening
+Changes in individual capacity were measured using a 
+range of methods including pre-intervention and post-
+intervention objective knowledge assessments (n = 37), 
+pre- and post-subjective assessments (n = 21), and 
+observation or practical assessment (n = 20), among 
+others. The various tools used to measure the strength -
+ening of capacity are summarised in Table  3, according 
+to each domain(s). Many studies contained a combina -
+tion of approaches [37, 40, 46–48, 50, 52–64]. Research 
+designs included pre- and post-survey measures, quasi-
+experimental, prospective and retrospective evaluations, 
+cluster randomised trial components, and participatory 
+needs assessments.
+Capacity strengthening for individual domains was pri -
+marily measured via objective measures (n = 57), either 
+through testing of percentage increase in knowledge 
+(n = 37) or through the direct observation of a specific 
+task ( n = 20). Change in knowledge was also assessed 
+using subjective, self-report measures (n = 9), most
+<<<PAGE=6>>>
+Page 6 of 13Finn et al. Hum Resour Health            (2021) 19:5 
+Table 2 Domains of individual capacity strengthening
+Objective 1: domains of individual capacity strengthening
+Domain Articles Co-domains
+Knowledge (n = 51) See Additional file 4
+n = 13 measure knowledge as the sole domain
+Total with co-domains (n = 38)
+Skills (n = 18)
+For remaining, see domains below
+Skills (n = 25) See Additional File 4
+n = 2 measure skills as the sole domain
+Total with co-domains (n = 23)
+Knowledge (n = 18)
+For remaining, see domains below
+Attitude (n = 11) Hofmann-Broussard et al. [48] Knowledge, confidence
+Kamiru et al. [45] Knowledge, self-efficacy
+Kohrt et al. [64] Knowledge, clinical competence
+Liautaud et al. [78] Knowledge, skills, practice
+Minh et al. [58] Knowledge, practice
+Sijbrandij et al. [50] Knowledge, skills, confidence, professional satisfaction
+Spagnolo et al. [51] Knowledge, self-efficacy, practice
+Taieb et al. [66] Knowledge, practice
+Tharkar et al. [62] Knowledge, behaviour
+Werdenberg et al. [72] Practice
+Williams et al. [44] Knowledge, self-confidence
+Confidence (n = 8) Bemah et al. [46] Knowledge, skills
+Blignault et al. [73] Knowledge, skills
+Edwards et al. [43] Knowledge, skills, ability
+Hofmann-Broussard et al. [48] Knowledge, attitude
+Mehrotra et al. [49] Knowledge, self-efficacy
+Sharma et al. [42] Knowledge
+Sijbrandij et al. [50] Knowledge, skills, attitude, professional satisfaction
+Williams et al. [44] Knowledge, attitude
+Practice (n = 8) Burnett et al. [70] –
+Echeverri et al. [79] Knowledge, attitude, skills
+Imani et al. [69] Knowledge
+Liautaud et al. [78] Knowledge, attitude, skills
+Minh et al. [58] Knowledge, attitude
+Taieb et al. [66] Knowledge, attitude
+Spagnolo et al. [51] Knowledge, attitude, self-efficacy
+Werdenberg et al. [72] Attitude
+Self-efficacy (n = 6) Bikinesi et al. [41] Knowledge, professional satisfaction
+Davila et al. [47] Knowledge, skills
+Kamiru et al. [45] Knowledge, attitude
+Mehrotra et al. [49] Knowledge, confidence
+Mutale et al. [39] Knowledge, motivation
+Spagnolo et al. [51] Knowledge, attitude, practice
+Abilities (n = 3) Chaoniyom et al. [53] Knowledge, leadership, motivation
+Edwards et al. [43] Knowledge, skill, confidence
+Sennun et al. [67] Knowledge
+Motivation (n = 2) Chaoniyom et al. [53] Knowledge, leadership, ability
+Mutale et al. [39] Knowledge, self-efficacy
+Commitment (n = 1) Kim et al. [55] Knowledge, skills, resources
+Competence (n = 2) Kohrt et al. [64] Knowledge, attitude
+Mazia et al. [56] Knowledge, skills
+Leadership (n = 1) Chaoniyom et al. [53] Knowledge, ability, motivation
+Resources (n = 1) Kim et al. [55] Knowledge, skills, commitment
+<<<PAGE=7>>>
+Page 7 of 13
+Finn et al. Hum Resour Health            (2021) 19:5 
+ 
+commonly determined by asking individuals whether 
+they had perceived a change in knowledge as a result of 
+a capacity strengthening intervention. Two studies meas-
+ured skills alone, one using a subjective measure [30] and 
+the other using an objective measure [31]. For the most 
+part, skills were measured directly through observation 
+or practice assessment (n = 11), but in some cases, the 
+acquisition of skills through practice was inferred from 
+the acquisition of knowledge [58, 65, 66]. Ameme et  al. 
+[65] examined the impact of knowledge gained on prac -
+tice and Minh et al. [58] recognised that knowledge does 
+not always translate into practice.
+Attitudes were largely measured through self-eval -
+uation (n = 4) and vignettes (n = 3), but also through 
+practice [62]. Confidence was always measured through 
+pre–post self-report assessments (n = 8).
+Twelve studies used multiple methods including a com-
+bination of subjective and objective measures of capacity. 
+For example, Sennun et al. [67] employed a combination 
+of subjective, self-rated assessment and objective obser -
+vation to measure the effect of supervision models on 
+the knowledge and ability of Health Officers and District 
+Level Supervisors. In contrast, Davila et  al. [47] used 
+objective measures of knowledge and subjective, partici -
+pant self-report measures to assess strengthening in the 
+multiple domains of skills and self-efficacy for treating 
+non-communicable diseases. Validated scales were used 
+in 19 studies, including the Nursing Best Practice Guide -
+lines [43]; Objective Structured Clinical Assessment 
+(OSCA) [61]; and the mental health Global Action Pro -
+gramme (mhGAP) Knowledge Assessment and Attitude 
+Scale [49–51, 64]. Full details of these validated tools are 
+in Additional file 4.
+The majority of studies (n = 36) measured outcomes 
+in terms of a percentage change in the domain between 
+pre- and post-intervention—whether objective or sub -
+jective—and the statistical significance of this change. 
+Fourteen studies combined this with observation and six 
+relied on observation alone to observe changes in knowl -
+edge, skills or practice [31, 38, 68–71]. In some cases, 
+strengthened capacity through observation was rated as 
+a percentage improvement [31], and in other cases, it was 
+simply observed [57].
+In terms of the time intervals across which capacity 
+was assessed, most of the interventions (n = 28) assessed 
+changes in capacity across short intervals, of around 
+1 week, ranging from 2.5 hours [57] to 2 days (n = 8) to 
+5  days (n = 8), and 6 to 8  days (n = 4); with others hav -
+ing intervals of several weeks or months (n = 17). These 
+ranged from 1  month [56] up to 6 or 7 (n = 6) months, 
+18 months [72] and 4 years [43]. In four cases, domains 
+were assessed a third time, after a period of some 
+months, in order to assess the longer-term sustainabil -
+ity of the capacity strengthening intervention [52, 73]. 
+For example, Blignault et  al. [73] measured knowledge, 
+attitudes and confidence via a pre- and post-workshop 
+test, and measured attitudes and confidence 6  months 
+later through a questionnaire on experience of learning 
+in day-to-day practice. The degree or amount of capacity 
+strengthened was primarily determined through a range 
+of comparative and correlational analyses (i.e. t tests/
+ANOVAs, Chi-square, and regression analyses), manual 
+content analysis, descriptive multi-variate and factor 
+analysis, and difference-in-difference. Studies of high 
+quality had strong conceptual frameworks and method -
+ologies to guide the organisation and analysis of capacity 
+strengthening.
+Discussion
+A common understanding of what is meant by ‘strength -
+ening capacity’ for the primary health care workforce is 
+needed, given their critical role in providing quality, per -
+son-centred health care. The importance of this common 
+understanding is further reflected through the substan -
+tial investment in and focus on building primary health 
+worker capacity in LMICs, as a key component of health 
+systems strengthening. This scoping review therefore 
+sought to synthesise the existing literature to determine 
+how the concept of individual ‘capacity strengthening’ is 
+operationalised and measured in practice, as an initial 
+step towards building greater consensus around what is 
+meant by the term ‘capacity strengthening’ for primary 
+health care workers in LMICs.
+The most salient domains identified in the sample were 
+knowledge—included in all but four studies—and skills, 
+followed by attitude, confidence, and practice. Overall, 
+Table 2 (continued)
+Objective 1: domains of individual capacity strengthening
+Domain Articles Co-domains
+Timeliness (n = 1) André et al. [68] Knowledge
+Awareness (n = 1) Oladele et al. [80] Skills
+Professional satisfaction (n = 1) Bikinesi et al. [41] Knowledge, self-efficacy
+Professional quality of life (n = 1) Sijbrandij et al. [50] Knowledge, skills, attitude, confidence
+<<<PAGE=8>>>
+Page 8 of 13Finn et al. Hum Resour Health            (2021) 19:5 
+Table 3 Measurements of individual capacity strengthening
+Objective 2: measurement of individual capacity strengthening
+Measurement tool Domains Articles
+Pre–post learning assessment (n = 37) Knowledge Abrahams-Gessel et al. [52]; Ameme et al. [65]; 
+Bemah et al. [46]; Bikinesi et al. [41]; Chaoniyom 
+et al. [53]; Citraningtyas et al. [29]; Crocker et al. 
+[54]; Davila et al. [47]; Garg et al. [81]; Hofmann-
+Broussard et al. [48]; Kabir and Hossain [82]; Kohrt 
+et al. [64]; Mazia et al. [56]; McConnell et al. [83]; 
+Mehrotra et al. [49]; Merchant et al. [57]; Minh 
+et al. [58]; Murugesan et al. [74]; Namazzi et al. 
+[84]; Okereke et al. [85]; Oleribe et al. [86]; Pringle 
+et al. [59]; Scheel et al. [37]; Sijbrandij et al. [50]; 
+Soeters et al. [60]; Stephens et al. [61]; Tarannum 
+et al. [36]; Tharkar et al. [62]; Wilson et al. [63]; Yu 
+et al. [87]
+Attitude Kohrt et al. [64]
+Knowledge, skills Hien et al. [32]; Weaver et al. [34]
+Awareness (clinical), skills Oladele et al. [80]
+Knowledge, self-efficacy Kamiru et al. [45]
+Knowledge, skills, commitment, resources Kim et al. [55]
+Knowledge, attitude, practice Taieb et al. [66]; Spagnolo et al. [51]
+Pre–post self-report measures (n = 21) Knowledge Mehrotra et al. [49]; Sharma et al. [42]; Sennun et al. 
+[67]
+Skills Perrone et al. [30]
+Confidence Bemah et al. [46]; Hofmann-Broussard et al. [48]; 
+Mehrotra et al. [49]; Sharma et al. [42]
+Self-efficacy Mehrotra et al. [49]; Spagnolo et al. [51]
+Knowledge, confidence Blignault et al. [73]
+Knowledge, skills Dawson et al. [40]
+Skills, self-efficacy Davila et al. [47]
+Attitude; practice Werdenberg et al. [72]
+Self-efficacy, professional satisfaction Bikinesi et al. [41]
+Knowledge, attitude, self-confidence Williams et al. [44]
+Knowledge, self-efficacy, motivation Mutale et al. [39]
+Knowledge, skills, ability, confidence Edwards et al. [43]
+Ability, leadership, motivation Chaoniyom et al. [53]
+Attitude, confidence, professional quality of life Sijbrandij et al. [50]
+Knowledge, attitude, practice, skills Echeverri et al. [79]
+Observation/simulation/surveillance data/practi-
+cal evaluation (n = 20)
+Knowledge Pringle et al. [59]; Soeters et al. [60]
+Skills Abrahams-Gessel et al. [52]; Bemah et al. [46]; Mer-
+chant et al. [57]; Namagembe et al. [31]; Scheel 
+et al. [37]; Sijbrandij et al. [50]; Stephens et al. [61]; 
+Tarannum et al. [36]; Wilson et al. [63]
+Ability Sennun et al. [67]
+Practice Burnett et al. [70], Minh et al. [58]
+Knowledge, skills Asibon et al. [38]
+Knowledge, timeliness André et al. [68]
+Knowledge, practice Imani et al. [69]
+Practice, attitude Tharkar et al. [62]
+Skills, competencies Kohrt et al. [64]; Mazia et al. [56]
+Interviews and/or focus group discussions (n = 3) Skills Crocker et al. [54]; Dawson et al. [40]
+Knowledge, skills Kaewboonchoo et al. [33]
+Hospital data/reports (n = 1) Knowledge, Skills Cosimi et al. [35]
+Vignettes/case scenarios (n = 3) Attitude Hofmann-Broussard et al. [48]; Kamiru et al. [45]; 
+Minh et al. [58]
+<<<PAGE=9>>>
+Page 9 of 13
+Finn et al. Hum Resour Health            (2021) 19:5 
+ 
+only 20 studies in the review assessed the active imple -
+mentation of objectives, through either observation or 
+assessment of practical application. Consequently, our 
+results suggest that the definition of capacity as “a meas -
+ure of ability and, as most simply defined, capacity is 
+the ability to carry out stated objectives” [18] is not sys -
+tematically reflected in the operationalisation of capac -
+ity strengthening within the extant literature. Rather, 
+our results suggest that capacity strengthening, where 
+assessed, is largely operationalised as testing knowledge 
+for action.
+Capacity was predominantly measured using pre- and 
+post-tests of knowledge change, with few studies trac -
+ing how improved knowledge translates into subsequent 
+changes in practice. Of those studies that did assess how 
+increased knowledge translates into practice, this was 
+largely achieved through observation or practice assess -
+ments. Frequently, mechanisms to increase knowledge at 
+individual level were simply assumed to lead to organisa -
+tional-level capacity strengthening. For example, Muru -
+gesan et  al. [74] built knowledge of doctors on diabetes 
+care assuming this would lead to changes in their attitude 
+and approach to chronic care of diseases and increase the 
+national capacity for management of diabetes.
+In addition to being deemed of higher quality, stud -
+ies with more developed conceptual frameworks tended 
+to frame capacity strengthening in broader and more 
+comprehensive terms, that is, incorporating more than 
+one domain and often across categories. Studies concep -
+tualising capacity in this wider sense also tended to be 
+informed by frameworks of capacity as broader develop -
+ment and aimed to strengthen each domain in a cohe -
+sive and stepwise manner. As an example, Chaoniyom 
+et al. [53] strengthened the domain of motivation along -
+side knowledge, abilities and leadership. Other studies 
+that employed broader frameworks of capacity included 
+Davila et  al. [47], who relied on experiential learning 
+theory to inform their study design. Additionally, and 
+while a 2017 systematic review of theoretical approaches 
+to capacity strengthening [17] identified various theories 
+related to capacity strengthening, we found no overlap 
+between the review’s sample and the present sample. 
+Overall, very few studies identified in the current study 
+cited specific theories underpinning their approach.
+Given the range of domains and measurements found 
+in the literature, the common use of the term ‘capac -
+ity’ , and the focus on strengthening health care sys -
+tems within global health, we identify a need for a more 
+defined description of what is, and what is not, consid -
+ered ‘capacity strengthening’ . Notably, we argue that one 
+domain is insufficient to be considered ‘capacity strength-
+ening’ and encourage that going forward, the use of the 
+term ‘capacity strengthening’ be reserved for broader, 
+multi-faceted, interventions working across more than 
+one domain. In this way, we recommend interventions 
+addressing a single domain to simply use the terminology 
+ascribed to the specific activity (i.e. increasing skills or 
+improving knowledge, etc.) as a more accurate reflection 
+of an intervention’s impact, rather than using the broader 
+term ‘capacity strengthening’ .
+In light of our findings, we propose that individual 
+capacity be better conceptualised in terms of a combi -
+nation of domains that span technical ability, such as 
+knowledge and skills; intra-personal domains, as domains 
+internal to the individual, such as motivation and confi -
+dence; and inter-personal domains, such as leadership 
+and management. These combinations can overlap in dif-
+ferent ways, specific to each context, to offer a more com-
+prehensive framework. Applying this framework to the 
+current review, all 55 studies measured technical or clini-
+cal aspects of health care, 19 measured intra-personal 
+aspects such as confidence, self-efficacy and attitude, and 
+two measured inter-personal aspects of leadership and 
+resources. Figure  2 offers a summary of this framework, 
+whereby individual capacity building is conceptualised as 
+a broader, more comprehensive and strategic model.
+The domains identified in this review therefore 
+reflect the three domains of learning, as identified 
+within the educational literature (i.e. cognitive, affec -
+tive and psychomotor) [75– 77], whereby ability, 
+practices and skills related to a technical capacity to 
+perform a task or set of tasks (psychomotor); moti -
+vation, self-efficacy, confidence and commitment all 
+related to an intra-personal capacity (affective); and 
+Table 3 (continued)
+Objective 2: measurement of individual capacity strengthening
+Measurement tool Domains Articles
+Follow-up questionnaires 6 or 12 months later 
+(n = 5)
+Knowledge Abrahams-Gessel et al. [52]; Namazzi et al. [84]; 
+Oleribe et al. [86]
+Skills Blignault et al. [73]
+Knowledge, skills, attitude, confidence, profes-
+sional quality of life
+Sijbrandij et al. [50]
+<<<PAGE=10>>>
+Page 10 of 13Finn et al. Hum Resour Health            (2021) 19:5 
+leadership and management related to  an inter-per -
+sonal capacity (cognitive). This new conceptualisation 
+thus aligns with the literature on educational theo -
+ries and other models and frameworks underpinning 
+capacity strengthening interventions relevant to pub -
+lic health, for example, theories such as Diffusion of 
+Innovations and Transformational Learning, and mod -
+els such as Ecological and Interactive Systems Frame -
+work for Dissemination and Implementation [17]. We 
+propose that initiatives to strengthen individual-level 
+capacity and truly embed change within organisations 
+and environments must therefore take into consid -
+eration the need to build capacity across these three 
+spheres.
+Limitations
+The current study is not without limitations. Firstly, 
+the study was limited by having one principal data 
+extractor, though there was discussion of any cases, 
+where necessary. Second, while we extracted domains 
+in terms of how they were named in the articles, we 
+acknowledge that these different terminologies may 
+overlap in terms of their meaning. Third, and though 
+we did include some search terms in French and Por -
+tuguese, studies were restricted only to the English 
+language. Fourth, setting the cut-off year at 2000 
+might have resulted in the exclusion of studies that 
+demonstrate earlier conceptualisations of capacity. 
+Finally, while this review advances our understanding 
+of what is meant by capacity strengthening within the 
+literature, further research is required to test the valid -
+ity of our proposed framework.
+Conclusion
+In the era of the Agenda 2030, Workforce 2030 and 
+Universal Health Coverage, there is strong focus on 
+strengthening capacities at individual, organisational and 
+environmental levels. This study reviewed the evidence-
+base to identify salient domains of capacity at individual 
+level, including how they are measured. The concept of 
+capacity strengthening for primary health care reflected 
+in a number of relevant frameworks and theories differs 
+from what is commonly seen in practice, where capacity 
+building is largely seen as knowledge increase and skills 
+development. Conceptually however, capacity strength -
+ening is more than knowledge acquisition. A concep -
+tualisation of individual capacity strengthening across 
+technical, intra-personal and inter-personal  domains 
+is proposed as a way to offer greater conceptual clarity 
+and a more practical application of this concept in future 
+work.
+Supplementary Information
+The online version contains supplementary material available at https ://doi.
+org/10.1186/s1296 0-020-00547 -y.
+Additional file 1: Example search in MEDLINE (Ebsco).
+Additional file 2: Data extraction tables.
+Additional file 3: MMAT quality assessment scores.
+Additional file 4: Pre-existing validated tools.
+Acknowledgements
+Not applicable.
+Authors’ contributions
+MF and FV conceptualised the study. All authors contributed to the study 
+design. GS conducted the database searching, with MF, FV and BG screening, 
+extracting and synthesising data. MF led the manuscript preparation with FV 
+and BG contributing to the initial draft. All authors contributed to manuscript 
+revisions. All authors read and approved the final manuscript.
+Funding
+This paper is a product of PERFORM2Scale (2017–2021), a H2020 programme 
+to strengthen management at district level in Ghana, Malawi and Uganda, in 
+support of the achievement of Universal Health Coverage. The programme 
+is funded by the European Union’s Horizon 2020 research and innovation 
+programme (Reference Number: 733360).
+Availability of data and materials
+All data extracted are presented in Additional file 2. Further details can be 
+available from the corresponding author, Mairéad Finn, upon reasonable 
+request.
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Technical:
+•Knowledge, 
+•Skills, 
+•Ability, 
+•Practice, 
+•Timeliness (Pace),
+•Competencies
+Intrapersonal:
+•Confidence, 
+•Motivation, 
+•Self-Efficacy, 
+•Committment,
+•Attitude
+Interpersonal:
+•Leadership, 
+•Resources, 
+•Communication, 
+•Conflict Resolution
+• Change Management
+Technical:
+•Knowledge, 
+•Skills, 
+•Ability, 
+•Practice, 
+•Timeliness (Pace),
+•Competencies
+Intrapersonal:
+•Confidence, 
+•Motivation, 
+•Self-Efficacy, 
+•Committment,
+•Attitude
+Interpersonal:
+•Leadership, 
+•Resources, 
+•Communication, 
+•Conflict Resolution
+• Change Management
+Individual Level Capacity
+Fig. 2 Model of individual-level capacity strengthening
+<<<PAGE=11>>>
+Page 11 of 13
+Finn et al. Hum Resour Health            (2021) 19:5 
+ 
+Competing interests
+The authors declare that they have no competing interests.
+Author details
+1 Trinity Centre for Global Health, School of Psychology, Trinity College Dublin, 
+Dublin, Ireland. 2 Department of Public Health and Epidemiology, Royal Col-
+lege of Surgeons in Ireland, Dublin, Ireland. 3 UCD Centre for Interdisciplinary 
+Research, Education and Innovation in Health Systems, School of Nursing, 
+Midwifery and Health Systems, University College Dublin, Dublin, Ireland. 4 The 
+Library of Trinity College Dublin, Dublin, Ireland. 
+Received: 10 July 2020   Accepted: 11 December 2020
+References
+ 1. DeCorby-Watson K, Mensah G, Bergeron K, Abdi S, Rempel B, Manson H. 
+Effectiveness of capacity building interventions relevant to public health 
+practice: a systematic review. BMC Public Health. 2018;18(1):684.
+ 2. Swanson RC, Atun R, Best A, Betigeri A, de Campos F, Chunharas S, et al. 
+Strengthening health systems in low-income countries by enhanc-
+ing organizational capacities and improving institutions. Glob Health. 
+2015;11(1):5.
+ 3. World Health Organization. Strengthening the health workforce to 
+strengthen health systems. Geneva: World Health Organization; 2010.
+ 4. Alliance for Health Policy and Systems Research. Report of the expert 
+consultation on primary care systems profiles & performance (PRIMASYS). 
+Geneva: World Health Organisation; 2015.
+ 5. Yeager VA, Bertrand J. Putting management capacity building at the 
+forefront of health systems strengthening: Comment on “Management 
+Matters: A Leverage Point for Health Systems Strengthening in Global 
+Health.” Int J Health Policy Manage. 2015;5(2):129–31.
+ 6. World Health Organization. Global Strategy on Human Resources for 
+Health: Workforce 2030. Geneva: World Health Organization; 2016.
+ 7. United Nations General Assembly. Transforming our world: the 2030 
+agenda for sustainable development. New York: United National Depart-
+ment of Economic and Social Affairs; 2015.
+ 8. Goodman RM, Speers MA, McLeroy K, Fawcett S, Kegler M, Parker E, 
+et al. Identifying and defining the dimensions of community capacity to 
+provide a basis for measurement. Health Educ Behav. 1998;25(3):258–78.
+ 9. Horton D, Alexaki A, Bennet-Lartey S. Evaluating capacity development: 
+experiences from research development organizations around the world. 
+The Hague: International Service for National Agricultural Research/Inter-
+national Development Research Centre; 2003.
+ 10. PEPFAR. Capacity building and strengthening framework. Washington 
+D.C.: U.S. State Department President’s Emergency Plan for AIDS Relief; 
+2012.
+ 11. UNDP . Capacity development: a UNDP primer. New York: United Nations 
+Development Programme Capacity Development Group; 2009.
+ 12. Morel T, Maher D, Nyirenda T, Olesen OF. Strengthening health research 
+capacity in sub-Saharan Africa: mapping the 2012–2017 landscape of 
+externally funded international postgraduate training at institutions in 
+the region. Globalization and Health. 2018;14(1):77.
+ 13. Dean L, Gregorius S, Bates I, Pulford J. Advancing the science of health 
+research capacity strengthening in low-income and middle-income 
+countries: a scoping review of the published literature, 2000–2016. BMJ 
+Open. 2017;7(12):e018718.
+ 14. Banek K, Nankabirwa J, Maiteki-Sebuguzi C, Diliberto D, Taaka L, Chandler 
+CI, et al. Community case management of malaria: exploring support, 
+capacity and motivation of community medicine distributors in Uganda. 
+Health Policy Plann. 2014.
+ 15. Liberato SC, Brimblecombe J, Ritchie J, Ferguson M, Coveney J. Measuring 
+capacity building in communities: a review of the literature. BMC Public 
+Health. 2011;11(1):850.
+ 16. Crisp BR, Swerissen H, Duckett SJ. Four approaches to capacity building 
+in health: consequences for measurement and accountability. Health 
+Promot Int. 2000;15(2):99–107.
+ 17. Bergeron K, Abdi S, DeCorby K, Mensah G, Rempel B, Manson H. Theories, 
+models and frameworks used in capacity building interventions relevant 
+to public health: a systematic review. BMC Public Health. 2017;17(1):914.
+ 18. Aroni A. Health management capacity building: an integral component 
+of health systems’ improvement. Brussels: European Health Management 
+Association; 2012.
+ 19. Ebbesen LS, Heath S, Naylor P-J, Anderson D. Issues in measuring health 
+promotion capacity in Canada: a multi-province perspective. Health 
+Promot Int. 2004;19(1):85–94.
+ 20. Arksey H, O’Malley L. Scoping studies: towards a methodological frame-
+work. Int J Soc Res Methodol. 2005;8(1):19–32.
+ 21. Levac D, Colquhoun H, O’Brien KK. Scoping studies: advancing the meth-
+odology. Implement Sci. 2010;5(1):69.
+ 22. Munn Z, Peters MD, Stern C, Tufanaru C, McArthur A, Aromataris E. 
+Systematic review or scoping review? Guidance for authors when choos-
+ing between a systematic or scoping review approach. BMC Med Res 
+Methodol. 2018;18(1):143.
+ 23. International Conference on Primary Health Care. Declaration of Alma-
+Ata. WHO Chron. 1978;32(11):428–30.
+ 24. World Health Organization and UNICEF. A Vision for Primary Health Care 
+in the 21st Century: Towards Universal Health Coverage and the Sustain-
+able Development Goals. Geneva: World Health Organization and the 
+United Nations Children’s Fund (UNICEF); 2018.
+ 25. Bowsher G, Papamichail A, El Achi N, Ekzayez A, Roberts B, Sullivan R, et al. 
+A narrative review of health research capacity strengthening in low and 
+middle-income countries: lessons for conflict-affected areas. Glob Health. 
+2019;15(1):23.
+ 26. World Bank. World Development Indicators. 2019.
+ 27. Pluye P , Hong QN. Combining the power of stories and the power of 
+numbers: mixed methods research and mixed studies reviews. Annu Rev 
+Public Health. 2014;35(1):29–45.
+ 28. Tagoe N, Molyneux S, Pulford J, Murunga VI, Kinyanjui S. Managing health 
+research capacity strengthening consortia: a systematised review of the 
+published literature. BMJ Global Health. 2019;4(2):e001318.
+ 29. Citraningtyas T, Martina W, Nurmiati A, Hervita D, Tjhin W. Capacity build-
+ing for child and adolescent mental health in disaster areas: learning from 
+the experiences of mental health care workers in Indonesia. Aust J Disast 
+Trauma Stud. 2017;21(2):57–64.
+ 30. Perrone LA, Confer D, Scott E, Livingston L, Bradburn C, McGee A, et al. 
+Implementation of a mentored professional development programme 
+in laboratory leadership and management in the middle east and North 
+Africa. Eastern Mediterranean Health J. 2016;22(11):832–9.
+ 31. Namagembe A, Ssekabira U, Weaver MR, Blum N, Burnett S, Dorsey G, 
+et al. Improved clinical and laboratory skills after team-based, malaria 
+case management training of health care professionals in Uganda. Malar 
+J. 2012;11:44.
+ 32. Hien LTT, Takano T, Seino K, Ohnishi M, Nakamura K. Effectiveness of a 
+capacity-building program for community leaders in a healthy living 
+environment: a randomized community-based intervention in rural 
+Vietnam. Health Promot Int. 2008;23(4):354–64.
+ 33. Kaewboonchoo O, Silpasuwan P , Jirapongsuwan A, Rawiworrakul T, 
+Hansing S. Participatory capacity building in occupational disease surveil-
+lance among primary care unit (PCU) health personnel. Southeast Asian J 
+Trop Med Public Health. 2011;42(5):1262–8.
+ 34. Weaver MR, Crozier I, Eleku S, Makanga G, Mpanga Sebuyira L, Nyakake J, 
+et al. Capacity-building and clinical competence in infectious disease in 
+Uganda: a mixed-design study with pre/post and cluster-randomized trial 
+components. PLoS ONE. 2012;7(12):e51319.
+ 35. Cosimi LA, Dam HV, Nguyen TQ, Ho HT, Do PT, Duc DN, et al. Integrated 
+clinical and quality improvement coaching in Son La Province, Vietnam: a 
+model of building public sector capacity for sustainable HIV care delivery. 
+BMC Health Serv Res. 2015;15:269.
+ 36. Tarannum S, Elshazly M, Harlass S, Ventevogel P . Integrating mental health 
+into primary health care in Rohingya refugee settings in Bangladesh: 
+experiences of UNHCR. Intervention. 2019;17(2):130–9.
+ 37. Scheel JR, Peacock S, Orem J, Bugeza S, Muyinda Z, Porter PL, et al. 
+Improving breast ultrasound interpretation in Uganda using a 
+condensed breast imaging reporting and data system. Acad Radiol. 
+2016;23(10):1271–7.
+ 38. Asibon A, Lufesi N, Choudhury A, Olvera S, Molyneux E, Oden M, et al. 
+Using a peer mentorship approach improved the use of neonatal con-
+tinuous positive airway pressure and related outcomes in Malawi. Acta 
+Paediatr. 2020;109(4):705–10.
+<<<PAGE=12>>>
+Page 12 of 13Finn et al. Hum Resour Health            (2021) 19:5 
+ 39. Mutale W, Vardoy-Mutale AT, Kachemba A, Mukendi R, Clarke K, Mulenga 
+D. Leadership and management training as a catalyst to health system 
+strengthening in low-income settings: Evidence from implementation 
+of the Zambia Management and Leadership course for district health 
+managers in Zambia. PLoS ONE. 2017;12(7):e0174536.
+ 40. Dawson A, Kililo M, Geita L, Mola G, Brodie PM, Rumsey M, et al. Midwifery 
+capacity building in Papua New Guinea: key achievements and ways 
+forward. Women Birth. 2016;29(2):180–8.
+ 41. Bikinesi L, O’Bryan G, Roscoe C, Mekonen T, Shoopala N, Mengistu AT, 
+et al. Implementation and evaluation of a Project ECHO telementor-
+ing program for the Namibian HIV workforce. Hum Resour Health. 
+2020;18(1):61.
+ 42. Sharma A, Jose AP , Pandey N, Vats S, Bagre V, Kumar H, et al. A collabora-
+tive model for capacity building of primary care physicians in the man-
+agement of Hypertension in India. J Hum Hypertens. 2019;33(8):562–5.
+ 43. Edwards N, Kaseje D, Kahwa E, Klopper HC, Mill J, Webber J, et al. The 
+impact of leadership hubs on the uptake of evidence-informed nursing 
+practices and workplace policies for HIV care: a quasi-experimental 
+study in Jamaica, Kenya, Uganda and South Africa. Implement Sci. 
+2016;11(1):110.
+ 44. Williams AB, Le ST, Colby D, Le Thu TT, Pollack T, Cosimi L. Effectiveness 
+of train-the-trainer HIV education: a model from Vietnam. J Assoc Nurses 
+AIDS Care. 2014;25(4):341–50.
+ 45. Kamiru HN, Ross MW, Bartholomew LK, McCurdy SA, Kline MW. Effective-
+ness of a training program to increase the capacity of health care provid-
+ers to provide HIV/AIDS care and treatment in Swaziland. AIDS Care. 
+2009;21(11):1463–70.
+ 46. Bemah P , Baller A, Cooper C, Massaquoi M, Skrip L, Rude JM, et al. 
+Strengthening healthcare workforce capacity during and post Ebola 
+outbreaks in Liberia: an innovative and effective approach to epidemic 
+preparedness and response. Pan Afr Med J. 2019;33(Suppl 2):9.
+ 47. Davila EP , Suleiman Z, Mghamba J, Rolle I, Ahluwalia I, Mmbuji P , et al. 
+Non-communicable disease training for public health workers in low- 
+and middle-income countries: lessons learned from a pilot training in 
+Tanzania. Int Health. 2015;7(5):339–47.
+ 48. Hofmann-Broussard C, Armstrong G, Boschen MJ, Somasundaram KV. A 
+mental health training program for community health workers in India: 
+impact on recognition of mental disorders, stigmatizing attitudes and 
+confidence. Int J Cult Ment Health. 2017;10(1):62–74.
+ 49. Mehrotra K, Chand P , Bandawar M, Rao Sagi M, Kaur S, Aurobind G, et al. 
+Effectiveness of NIMHANS ECHO blended tele-mentoring model on Inte-
+grated Mental Health and Addiction for counsellors in rural and under-
+served districts of Chhattisgarh, India. Asian J Psychiatr. 2018;36:123–7.
+ 50. Sijbrandij M, Horn R, Esliker R, O’May F, Reiffers R, Ruttenberg L, et al. The 
+effect of psychological first aid training on knowledge and under-
+standing about psychosocial support principles: a cluster-randomized 
+controlled trial. Int J Environ Res Public Health. 2020;17(2):484.
+ 51. Spagnolo J, Champagne F, Leduc N, Rivard M, Melki W, Piat M, et al. Build-
+ing capacity in mental health care in low- and middle-income countries 
+by training primary care physicians using the mhGAP: a randomized 
+controlled trial. Health Policy Plan. 2020;35(2):186–98.
+ 52. Abrahams-Gessel S, Denman CA, Montano CM, Gaziano TA, Levitt 
+N, Rivera-Andrade A, et al. The training and fieldwork experiences of 
+community health workers conducting population-based, noninvasive 
+screening for CVD in LMIC. Global Heart. 2015;10(1):45–54.
+ 53. Chaoniyom W, Suwannapong N, Howteerakul N, Pacheun O. Strengthen-
+ing the capability of family health leaders for sustainable community-
+based health promotion. Southeast Asian J Trop Med Public Health. 
+2005;36(4):1039–47.
+ 54. Crocker J, Shields KF, Venkataramanan V, Saywell D, Bartram J. Building 
+capacity for water, sanitation, and hygiene programming: Training evalua-
+tion theory applied to CLTS management training in Kenya. Soc Sci Med. 
+2016;166:66.
+ 55. Kim JM, Koh KW, Oak CH, Jung WH, Kim SH, Park DH. Assessment of 
+village health worker training program in Tuguegarao, Philippine. J Prev 
+Med Public Health. 2009;42(6):377–85.
+ 56. Mazia G, Narayanan I, Warren C, Mahdi M, Chibuye P , Walligo A, et al. 
+Integrating quality postnatal care into PMTCT in Swaziland. Glob Public 
+Health. 2009;4(3):253–70.
+ 57. Merchant A, Outhay M, Gonzaléz-Calvo L, Moon TD, Sidat M, Taibo CLA, 
+et al. Training laypersons and hospital personnel in basic resuscitation 
+techniques: an approach to impact the global trauma burden in Mozam-
+bique. World J Surg. 2015;39(6):1433–7.
+ 58. Minh PD, Huong DTM, Byrkit R, Murray M. Strengthening pharmacy 
+practice in Vietnam: findings of a training intervention study. Trop Med 
+Int Health. 2013;18(4):426–34.
+ 59. Pringle K, Mackey JM, Modi P , Janeway H, Romero T, Meynard F, et al. A 
+short trauma course for physicians in a resource-limited setting: Is low-
+cost simulation effective? Injury. 2015;46(9):1796–800.
+ 60. Soeters HM, Koivogui L, de Beer L, Johnson CY, Diaby D, Ouedraogo A, 
+et al. Infection prevention and control training and capacity building dur-
+ing the Ebola epidemic in Guinea. PLoS ONE. 2018;13(2):e0193291.
+ 61. Stephens T, De Silva AP , Beane A, Welch J, Sigera C, De Alwis S, et al. 
+Capacity building for critical care training delivery: Development and 
+evaluation of the Network for Improving Critical Care Skills Training 
+(NICST) programme in Sri Lanka. Intensive Crit Care Nurs. 2017;39:28–36.
+ 62. Tharkar S, Kathiresan K, Abraham P , Viswanathan V. Development and 
+evaluation of a training programme on primary prevention of diabetes 
+for primary care physicians. Int J Health Res. 2009;2(4):307–14.
+ 63. Wilson E, Lee L, Klas R, Nesbit KC. Technology and rehabilitation training 
+for community health workers: Strengthening health systems in Malawi. 
+Health Soc Care Community. 2020;28(3):833–41.
+ 64. Kohrt BA, Turner EL, Rai S, Bhardwaj A, Sikkema KJ, Adelekun A, et al. 
+Reducing mental illness stigma in healthcare settings: proof of concept 
+for a social contact intervention to address what matters most for pri-
+mary care providers. Soc Sci Med. 2020;250:112852.
+ 65. Ameme DK, Nyarko KM, Afari EA, Antara S, Sackey SO, Wurapa F. Training 
+Ghanaian frontline healthcare workers in public health surveillance and 
+disease outbreak investigation and response. Pan Afr Med J. 2016;25:2.
+ 66. Taieb F, Dub T, Madec Y, Tondeur L, Chippaux JP , Lebreton M, et al. 
+Knowledge, attitude and practices of snakebite management amongst 
+health workers in Cameroon: Need for continuous training and capacity 
+building. PLoS Negl Trop Dis. 2018;12(10):e0006716-e.
+ 67. Sennun P , Suwannapong N, Howteerakul N, Pacheun O. Participatory 
+supervision model: building health promotion capacity among health 
+officers and the community. Rural Remote Health. 2006;6(2):440.
+ 68. André AM, Lopez A, Perkins S, Lambert S, Chace L, Noudeke N, et al. 
+Frontline field epidemiology training programs as a strategy to improve 
+disease surveillance and response. Emerg Infect Dis. 2017;23(13):S166–73.
+ 69. Imani P , Jakech B, Kirunda I, Mbonye MK, Naikoba S, Weaver MR. Effect 
+of integrated infectious disease training and on-site support on the 
+management of childhood illnesses in Uganda: a cluster randomized trial. 
+BMC Pediatrics. 2015;15:103.
+ 70. Burnett SM, Mubiru N, Imani P , Mbonye MK, Fisher L, Colebunders R, 
+et al. Synergistic impact of training followed by on-site support on HIV 
+clinical practice: a mixed-design study in Uganda with pre/post and 
+cluster-randomized trial components. J Acquir Immune Defic Syndr. 
+2018;77(5):467–75.
+ 71. Al Shdaifat A, Zink T. Pilot study to build capacity for family medicine 
+with abbreviated, low-cost training programme with minimal impact on 
+patient care for a cohort of 84 general practitioners caring for Palestinian 
+refugees in Jordan. BMJ Open. 2019;9(8):e028240.
+ 72. Werdenberg J, Biziyaremye F, Nyishime M, Nahimana E, Mutaganzwa C, 
+Tugizimana D, et al. Successful implementation of a combined learning 
+collaborative and mentoring intervention to improve neonatal quality of 
+care in rural Rwanda. BMC Health Serv Res. 2018;18(1):941.
+ 73. Blignault I, Manicavasagar V, Parker G, Wijeratne C, Sumathipala A. Build-
+ing capacity in identification and management of mood disorders: an 
+Australia-Sri Lanka collaboration. Australas Psychiatry. 2012;20(1):53–6.
+ 74. Murugesan N, Shobana R, Snehalatha C, Kapur A, Ramachandran A. 
+Immediate impact of a diabetes training programme for primary care 
+physicians—an endeavour for national capacity building for diabetes 
+management in India. Diabetes Res Clin Pract. 2009;83(1):140–4.
+ 75. Adams NE. Bloom’s taxonomy of cognitive learning objectives. J Med Libr 
+Assoc. 2015;103(3):152–3.
+ 76. Légaré F, Freitas A, Thompson-Leduc P , Borduas F, Luconi F, Boucher 
+A, et al. The majority of accredited continuing professional develop-
+ment activities do not target clinical behavior change. Acad Med. 
+2015;90(2):197–202.
+ 77. Bloom B. Taxonomy of educational objectives: the classification of educa-
+tion goals. New York: Longman Green; 1956.
+<<<PAGE=13>>>
+Page 13 of 13
+Finn et al. Hum Resour Health            (2021) 19:5 
+ 
+•
+ 
+fast, convenient online submission
+ •
+  
+thorough peer review by experienced researchers in your ﬁeld
+• 
+ 
+rapid publication on acceptance
+• 
+ 
+support for research data, including large and complex data types
+•
+  
+gold Open Access which fosters wider collaboration and increased citations 
+ 
+maximum visibility for your research: over 100M website views per year •
+  At BMC, research is always in progress.
+Learn more biomedcentral.com/submissions
+Ready to submit y our researc hReady to submit y our researc h  ?  Choose BMC and benefit fr om: ?  Choose BMC and benefit fr om: 
+ 78. Liautaud A, Adu PA, Yassi A, Zungu M, Spiegel JM, Rawat A, et al. Strength-
+ening human immunodeficiency virus and tuberculosis prevention 
+capacity among South African healthcare workers: a mixed methods 
+study of a collaborative occupational health program. Saf Health Work. 
+2018;9(2):172–9.
+ 79. Echeverri C, Le Roy J, Worku B, Ventevogel P . Mental health capacity build-
+ing in refugee primary health care settings in Sub-Saharan Africa: impact, 
+challenges and gaps. Glob Ment Health. 2018;5:e28.
+ 80. Oladele RO, Jordan A, Akande P , Akanmu SA, Akase IE, Aliyu S, et al. Tack-
+ling cryptococcal meningitis in Nigeria, one-step at a time; the impact of 
+training. PLoS ONE. 2020;15(7):e0235577.
+ 81. Garg S, Basu S, Baswal D, Mariram W, Rustagi R. Training of health workers 
+for Maternal Death Surveillance and Response program in India: knowl-
+edge assessment and analytical evaluation. J Midwifery Reprod Health. 
+2020;8(1):2041–9.
+ 82. Kabir H, Hossain S. Knowledge on leprosy and its management among 
+primary healthcare providers in two districts of Bangladesh. BMC Health 
+Serv Res. 2019;19(1):787.
+ 83. McConnell KA, Krisher LK, Lenssen M, Bunik M, Bunge Montes S, Domek 
+GJ. Telehealth to expand community health nurse education in rural 
+Guatemala: a pilot feasibility and acceptability evaluation. Front Public 
+Health. 2017;5:60.
+ 84. Namazzi G, Waiswa P , Nakakeeto M, Nakibuuka VK, Namutamba S, 
+Najjemba M, et al. Strengthening health facilities for maternal and new-
+born care: experiences from rural eastern Uganda. Glob Health Action. 
+2015;8:24271.
+ 85. Okereke E, Tukur J, Oginni AB, Obonyo B. Evaluating health workers’ 
+knowledge following the introduction of clinical mentoring in Jigawa 
+State, Northern Nigeria. Afr J Reprod Health. 2015;19(3):118–25.
+ 86. Oleribe OO, Salako BL, Akpalu A, Anteyi E, Ka MM, Deen G, et al. Public 
+private partnership in in-service training of physicians: the millennium 
+development goal 6-partnership for African clinical training (M-PACT) 
+approach. Pan Afr Med J. 2018;29:77.
+ 87. Yu X, Pendse A, Slifko S, Inman AG, Kong P , Knettel BA. Healthy people, 
+healthy community: evaluation of a train-the-trainers programme for 
+community health workers on water, sanitation and hygiene in rural Haiti. 
+Health Educ J. 2019;78(8):931–45.
+Publisher’s Note
+Springer Nature remains neutral with regard to jurisdictional claims in pub-
+lished maps and institutional affiliations.

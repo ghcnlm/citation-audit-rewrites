@@ -1,0 +1,1161 @@
+<<<PAGE=1>>>
+Computers and Education Open 5 (2023) 100147
+Available online 4 August 2023
+2666-5573/© 2023 Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Role of course relevance and course content quality in MOOCs acceptance 
+and use 
+Chimobi R. Ucha
+* 
+School of Computing, Weber State University, 1395 Evaldson Street, Rm 379, Ogden, UT 84408, USA   
+ARTICLE INFO  
+Keywords: 
+Technology acceptance model 
+MOOCs 
+Course relevance 
+Course content quality 
+ABSTRACT  
+Despite several benefits attributed to the use of MOOCs for learning, acceptance levels remain low and studies 
+investigating adoption and use of the technology are limited. This study draws from the literature on specific 
+factors that influence online learning environments and extends the technology acceptance model (TAM) to 
+understand if those factors can be used to explain and facilitate MOOCs acceptance and use behaviors among 
+learners. The factors investigated include, course content quality, course relevance, course instructor quality, 
+course design quality, learner-instructor interaction, and learner-interaction. There were 138 participants in the 
+study. Partial Least Squares SEM (PLS-SEM) was used to analyze the relationships proposed for the study. The 
+results suggest that the extended TAM offered a good explanation of MOOC acceptance and use, with course 
+relevance and course content quality as external variables affecting MOOCs acceptance. Findings from this study 
+provides practical implications for MOOCs implementation to increase acceptance and further lays a foundation 
+for future research   
+Introduction 
+Massive Open Online Courses (MOOCs) are online courses that aim 
+to make quality higher education more accessible to people across the 
+world, regardless of their geographical location [ 16,45 ]. The term 
+MOOC was first used to describe an online course taught by Professor 
+George Siemens at the University of Manitoba in 2008 [16] . However, in 
+2012, a different form of MOOCs, sometimes referred to as xMOOCs was 
+popularized by top MOOC providers such as Coursera and edX [ 16 , 21 ]. 
+This new form is what we know and refer to as MOOCs today. MOOCs 
+have become a major higher education advancement and continue to 
+gain increasing popularity as they provide online learning opportunities 
+on a large scale to people with no geographic limitations [ 15 , 37 ]. They 
+are especially beneficial in providing quality higher education to those 
+who have limited access, for instance, those in developing countries [ 21 , 
+22 ]. 
+The benefits of MOOCs have since been enjoyed by both those in 
+developing and developed countries, as anyone who needs to learn a 
+new skill or improve on an existing skill with limited barriers to learning 
+can turn to MOOCs for their educational needs. However, despite 
+growing interest in MOOCs, there are limited studies investigating 
+adoption behaviors of the learning technology [22] and how the 
+perceptions people hold about the technology affect their intention to 
+adopt or use them. This topic is especially important because, despite all 
+the benefits associated with MOOCs, researchers have often pointed to 
+the fact that MOOCs are not being utilized to their potential [ 7 , 14 ]. And 
+this is potentially because users are not accepting and using them effi -
+ciently for their learning purposes [42] . Hence, it is important to 
+continue to explore the subject of how to improve acceptance and use of 
+MOOCs among learners if their potential is to be realized [37] . 
+As a result, investigating ways to improve acceptance and use has 
+become important for MOOC research and a few studies have examined 
+this phenomenon using different theories such as Technology Accep -
+tance Model (TAM) (e.g., [ 37 , 43 , 44 ]). However, a lot of previous studies 
+examining acceptance and use of MOOCs have mostly focused on de -
+mographic, psychological and social factors [37] . With studies exam -
+ining specific course-related factors that can aid in tangible 
+improvements in MOOC quality and acceptance, still limited [43] . 
+Although some of these course-related factors have been explored in the 
+context of e-learning [ 1 , 31,43 ], the results of those studies may not 
+directly translate to the MOOCs context. Hence, it is important to 
+explore how those different factors affect acceptance and use of MOOCs. 
+This is especially crucial because learning in MOOCs differ significantly 
+from learning occurring in more traditional learning environments. 
+* Corresponding author. 
+E-mail address: chimobiucha@weber.edu .  
+Contents lists available at ScienceDirect 
+Computers and Education Open 
+journal homepag e: www.sci encedirect. com/journa l/computers-a nd-educati on-open 
+https://doi.org/10.1016/j.caeo.2023.100147 
+Received 22 December 2021; Received in revised form 29 June 2023; Accepted 3 August 2023
+<<<PAGE=2>>>
+Computers and Education Open 5 (2023) 100147
+2
+Especially since MOOCs learning is primarily optional, informal, and 
+self-regulated, requiring more self-motivation and persistence for suc -
+cess [43] . Understanding such specific factors that influence learners ’ 
+intention to participate in MOOCs can enable and support MOOC de -
+velopers and course designers to design content and strategies that will 
+be valuable to students and increase their use of MOOCs [43] . 
+This study therefore draws from the literature on specific factors that 
+have been found to influence acceptance and use of traditional online 
+learning environments to understand if they can be used to explain and 
+facilitate MOOCs acceptance and use behaviors among learners. The 
+phenomenon was explored using the TAM framework and the study 
+proposes a MOOC acceptance framework that examines the roles of the 
+identified factors, namely, course content quality, course instructor 
+quality, course design quality, course relevance, learner-learner inter -
+action and learner-instructor interaction in learner acceptance and use 
+of MOOCs. The aim is to provide MOOC platforms and designers some 
+guidance on course-specific factors to consider when developing MOOCs 
+in order to increase learner acceptance and use. Hence, the main 
+research question examined by the study was: 
+RQ. What specific factors associated with e-learning courses influ -
+ence learners ’ acceptance and use of MOOCs? 
+To answer the research question, the study examined the well- 
+explored TAM constructs (perceived usefulness and perceived ease of 
+use) and less-explored course characteristics variables related to MOOCs 
+use experience, namely, course instructor quality, course content qual -
+ity, course design quality, course relevance, learner-instructor interac -
+tion, and learner-learner interaction. The TAM framework was 
+considered appropriate because of its strong predictive power of an in -
+dividual ’ s intention to use a system [ 32 , 40 ]. Partial least squares 
+structural equation modeling (PLS-SEM) was used to test the proposed 
+relationships because of the exploratory nature of the study. Data for the 
+study was collected using online surveys and a total of 138 people 
+completed the survey. 
+Literature review and research model 
+Technology acceptance model 
+Technology Acceptance Model (TAM) is a technology adoption 
+framework that proposes that peoples ’ behavioral intention to use a 
+system is a strong predictor of actual usage behavior. It also stipulates 
+that behavioral intention to use a system is a factor of an individuals ’ 
+perceived usefulness and perceived ease of use of the system [ 6 , 40 ]. This 
+theory further holds that perceived ease of use also influences perceived 
+usefulness, as a system would be generally more useful if it is easy to use 
+[41] . Perceived usefulness is defined as “ the degree to which an indi -
+vidual believes that using a particular system will enhance his or her job 
+performance ” ( [6] , p.319; [40] ). In other words, how useful they expect 
+the system to be in their effort to achieve their goals. This construct deals 
+more with the utilitarian value of a system, that is, how useful or ad -
+vantageous users consider it to be in achieving their goals [ 6 , 40 ]. 
+Perceived usefulness drives motivation in such a way that, the more 
+useful a person considers a system, the more they are likely to intend to 
+use it and vice versa [6] . Perceived ease of use on the other hand refers to 
+the degree or extent to which “ a person believes that using a particular 
+system would be free of effort ” [ 6 , 41 ]. In other words, how easy they 
+believe it will be to use the system. This construct drives motivation in 
+such a way that, the easier a system is to use, the more users are likely to 
+accept and use it [6] . 
+TAM remains the most widely utilized theory of acceptance and use, 
+due to the superior predictive power of its constructs [ 6 , 40 ]. TAM was 
+considered appropriate for this study because it is a framework that has 
+been used by other researchers to examine acceptance and use of 
+MOOCs [ 23 , 37 ] and other e-learning contexts [ 9 , 24 ]. For instance, Tao 
+et al. [37] found that perceived usefulness and perceived ease of use 
+significantly predicted intention to use MOOCs among college students. 
+They also found that perceived ease of use was a strong predictor of 
+perceived usefulness and that behavioral intention significantly pre -
+dicted actual usage behavior of MOOCs among the students. Similarly, 
+Ma and Lee [23] , found perceived usefulness to be a strong predictor of 
+behavioral intention to use MOOCs. Furthermore, while examining 
+e-learning acceptance among university students, Mailizar et al. [24] 
+found that perceived usefulness strongly predicted students ’ behavioral 
+intention to use e-learning and that perceived ease of use was strongly 
+associated with perceived usefulness of e-learning. Fearnley and Amora 
+[9] also found that behavioral intention to adopt learning management 
+systems (LMS) is influenced by perceived usefulness. Perceived useful -
+ness on the other hand was influenced by perceived ease of use and 
+behavioral intention significantly predicted actual usage of LMS among 
+participants [9] . Based on evidence from previous studies on the use of 
+TAM to predict acceptance and use of e-learning and MOOCs, the 
+following hypotheses were proposed ( Fig. 1 ): 
+H1 . Perceived usefulness will positively influence behavioral inten -
+tion to use MOOCs. 
+H2. Perceived ease of use will positively influence perceived use -
+fulness of MOOCs. 
+H3. Perceived ease of use will positively influence behavioral 
+intention to use MOOCs. 
+H4. Behavioral Intention to use MOOCs will positively influence 
+actual usage of MOOCs. 
+Extending TAM: examining determinants of perceived usefulness and ease 
+of use 
+The basic framework of TAM has been extended by several studies 
+that examine external factors likely affecting the key constructs of 
+perceived usefulness and perceived ease of use [ 1 , 31 , 32 , 40 , 41 ]. For 
+instance, Venkatesh & Davis [40] suggested that factors such as result 
+demonstrability, job relevance, output quality, and perceived ease of use 
+all predicted perceived usefulness. And factors such as computer anxiety 
+and playfulness predicted ease of use [41] . Similarly, Park et al. [32] , 
+found relevance and perceived ease of use to be significant predictors of 
+perceived usefulness. These studies further emphasize the need to 
+Fig. 1. Technology acceptance model [39] .  
+C.R. Ucha
+<<<PAGE=3>>>
+Computers and Education Open 5 (2023) 100147
+3
+consider the importance of external variables influencing TAM con -
+structs in the design and implementation of effective information sys -
+tems and to improve adoption of such systems [32] . Mathieson [26] 
+further emphasizes the importance of such variables by suggesting that 
+examining TAM without consideration for external factors that are likely 
+influencing its main constructs will only provide a broad view of user 
+opinions about the system with no specific information that can inform 
+the design of a better or enhanced system. Hence, specifying external 
+factors for TAM constructs not only predicts intention to use a system 
+but further offers an explanation as to why a particular system is not 
+being adopted, so that corrective measures can be implemented [ 6 , 40 ]. 
+Discussed below are the external variables that were examined as 
+potentially influencing the main TAM constructs in this study with 
+regards to MOOC adoption and use: 
+Course content, instructor, and design quality 
+Providing quality instruction is important for any learning environ -
+ment. This is even more so for online learning platforms (such as 
+MOOCs) where the instructor is not always available to clarify any lack 
+of understanding of the course content. As a result, course quality, 
+instructor quality and overall quality of instruction are important factors 
+that have been found to be affecting learner perceptions of usefulness 
+and ease of use of online learning [ 1 , 31 , 43 ]. For instance, Abbas [1] 
+found that students ’ perceptions of the quality of the instructor signifi -
+cantly predicted both perceived usefulness and perceived ease of use of 
+the platform. Similarly, Lee, Yoon, and Lee [19] found instructor char -
+acteristics and quality of teaching materials to be positively related to 
+perceptions of usefulness of e-learning, while finding content design to 
+be positively associated with perceptions of ease of use. Furthermore, 
+Ozkan and Koesler [31] found both instructor and content quality to be 
+strong predictors of learners ’ perceived satisfaction with an e-learning 
+system. Instructor quality was found to be significantly predicting 
+perceived usefulness, while course design quality was significantly 
+predicting perceived ease of use of e-learning [4] . Also, the content 
+quality of an e-learning website was found to be positively associated 
+with perceived usefulness and perceived ease of use [29] . And course 
+content quality and course design quality were found to be predictors of 
+perceived usefulness and perceived ease of use of mobile learning [2] . 
+Although studies examining the relationship between these quality 
+antecedents within the context of MOOCs are limited, a few studies have 
+found a positive relationship between some of these factors and 
+perceived usefulness and perceived ease of use of MOOCs. For instance, 
+in their study examining the quality factors that influence students ’ 
+continuous intention to participate in MOOCs, Yang et al. [43] found 
+course quality to be positively associated with perceived usefulness of 
+MOOCs. Also, Razami and Ibrahim [34] found a significant positive 
+relationship between course quality and perceived usefulness while 
+investigating factors influencing MOOCs acceptance in higher educa -
+tion. Furthermore, course interface design was found to be positively 
+associated with perceived ease of use of MOOCs, while course quality 
+was positively associated with perceived usefulness of MOOCs [37] . And 
+Yang and Zhao [44] found that the information quality of MOOCs 
+courses positively influenced their perceived usefulness. 
+In general, these studies show that instruction characteristics such as 
+the quality of instructional materials, instructor feedback, teaching 
+style, among others, positively affect students ’ perceptions of usefulness, 
+ease of use of online learning, and overall perception of the course. 
+Hence, within the context of TAM, this study proposes that ( Fig. 2 ): 
+H5. Course content quality will positively influence perceived use -
+fulness of MOOCs. 
+H6 . Course content quality will positively influence perceived ease of 
+use of MOOCs. 
+H7. Course instructor quality will positively influence perceived 
+usefulness of MOOCs. 
+H8. Course instructor quality will positively influence perceived ease 
+of use of MOOCs. 
+H9. Course design quality will positively influence perceived ease of 
+use of MOOCs. 
+Course relevance 
+Relevance is a successful learning motivator, with different studies 
+finding that materials that learners perceive to be relevant, either in 
+their work or personal interests, successfully motivated them to learn [ 3, 
+13 ]. Specific to MOOCs, Khalil and Ebner [18] found that when learners 
+perceive that MOOCs hold relevance for them either in their professional 
+Fig. 2. Conceptual framework – Extended technology acceptance model.  
+C.R. Ucha
+<<<PAGE=4>>>
+Computers and Education Open 5 (2023) 100147
+4
+or academic life, they are more motivated to learn using them. 
+Furthermore, Keller [17] suggests that engaging strategies such as 
+demonstrating the intrinsic value of the learning content to the students, 
+explicitly suggesting how instruction can help students meet their future 
+goals, and having learners relate instruction to their own goals, estab -
+lishes relevance for the course content and can motivate students to 
+learn. 
+The importance of relevance on perceived usefulness of a system was 
+established in TAM2 by [40] where they identified job relevance as a 
+determinant of perceived usefulness. They defined this construct as “an 
+individual’s perception regarding the degree to which the target system 
+is applicable to his or her job”and found it to be significantly predicting 
+perceived usefulness. In the context of e-learning, relevance has been 
+found to be a strong predictor of perceived usefulness of e-learning 
+systems [27,32]. It is evident from these studies that relevance is related 
+to perceived usefulness in such a way that, the more relevance learners 
+attribute to a MOOC, the more they are likely to consider it useful. 
+However, there is a lack of recent studies examining online learning 
+course relevance within the context of TAM. Although, some studies 
+have examined the construct in understanding positive online learning 
+perceptions and behavior in general. For instance, Cheng and Xie [5] 
+found that students’ perceived content relevance had an indirect effect 
+on student procrastination in online learning, through task value. And 
+course content relevance was also found to be a major factor influencing 
+student satisfaction in online learning in higher education in Malaysia 
+[38]. Hence, within the context of TAM, this study proposes that (Fig. 2): 
+H10. Course relevance will positively influence perceived usefulness 
+of MOOCs. 
+Learner-Instructor and learner-learner interaction 
+The social information processing model of interpersonal interaction 
+by Walther [47] assumes that participants in a computer-mediated 
+communication (CMC) environment are essentially driven to develop 
+social relationships. The model maintains that it is possible for players in 
+CMC environments to attain and surpass the level of communication 
+quality obtainable in face-to-face environments, especially given the 
+unique affordances of CMC environments which make different kinds of 
+communication possible. Following this, it can be argued that the 
+absence of face-to-face interaction does not have to inhibit the level of 
+communication that is required for online learning, however, the issue 
+of lack of interpersonal interaction continues to be regarded as the 
+biggest bottleneck for learning occurring in online spaces. For instance, 
+Moore & Kearsley [28] argue that learners tend to feel isolated in online 
+learning environments as they lack the level of rich interaction they 
+experience in traditional environments. More recent studies have also 
+referred to lack of sense of community and effective social interactions 
+as major issues facing online learning, including MOOCs [14,15]. There 
+is therefore a need for an enhanced level of interpersonal interaction to 
+be designed into online learning environments for learners to be moti -
+vated more by such learning. 
+More (1989) defined two types of interaction related to interpersonal 
+communication that he considers essential for online learning, namely 
+learner-instructor interaction (i.e., interaction involving teacher and 
+learners) and learner-learner interaction (i.e., interaction involving 
+learners with each other). Consequently, many studies have since 
+examined these types of interactions within online learning environ -
+ments, to determine their effects on student learning. For instance, in 
+their study involving 299 learners from an online MBA course, Peltier, 
+Drago, and Schibrowsky [33] found student-student interaction and 
+student-instructor interaction to be significant determinants of 
+perceived effectiveness of the course by students. Similarly, Marks et al. 
+[25] found that instructor-student interaction and student-student 
+interaction had significant effects on learning effectiveness in online 
+learning spaces, with instructor-student interaction having twice as 
+much effect as student-student interaction. Furthermore, Hone and El 
+Said [14] reported a lack of satisfaction with MOOCs among students 
+who indicated feeling isolated as a result of a lack of interaction with 
+another human in the course. Other studies have also linked these 
+constructs to learning satisfaction [36], perceived effectiveness of online 
+courses [33], increased motivation and retention in online learning [30] 
+and MOOCs [10]. Hence, given that interpersonal interaction will likely 
+affect perceptions about different aspects of the course as indicated by 
+previous studies, this study proposes that interpersonal interaction 
+perceptions will positively influence both TAM constructs (Fig. 2): 
+H11. Learner-instructor interaction will positively influence 
+perceived usefulness of MOOCs. 
+H12. Learner-instructor interaction will positively influence 
+perceived ease of use of MOOCs. 
+H13. Learner-learner interaction will positively influence perceived 
+usefulness of MOOCs. 
+H14. Learner-learner interaction will positively influence perceived 
+ease of ue of MOOCs. 
+Research methodology 
+Study design and measures 
+The study used a structured online questionnaire consisting of two 
+parts for testing the theoretical model proposed. The first part of the 
+survey was used to gather demographic information of the participants 
+while the second part collected data on the main study constructs being 
+measured. The construct items were measured using a 5-point multi- 
+item Likert scale, where participants were asked to indicate to what 
+extent they agree or disagree with a statement where (1) represents 
+“strongly disagree” and (5) strongly agree. 
+All the construct items, except actual usage, were adopted from 
+previously validated scales and were modified to fit the context of this 
+study. The items for perceived usefulness and perceived ease of use were 
+adapted from the original TAM model proposed by Davis [6], while 
+items for behavioral intention were adapted from Venkatesh [41]. The 
+item used to measure actual usage for this study was specifically 
+measuring the level of MOOC enrollment among participants. This was 
+considered appropriate as the study aimed to explore adoption of 
+MOOCs by participants. The scales for course instructor quality and 
+course content quality were adapted from Ozkan & Koseler [31] and Lee 
+et al. [19], while that of MOOC design quality will be adapted from Lee 
+et al. [19]. The items for course relevance were adapted from the scales 
+of relevance established in Venkatesh and Davis [40] and Park et al. 
+[32]. The items for learner-instructor and learner-learner interaction 
+were adapted from the scales established in Peltier et al. [33] and Marks 
+et al. [25]. Please find a full table indicating the items used for each scale 
+in Appendix 1. 
+Participants and procedure 
+The study investigated perceptions of MOOCs learners to better un -
+derstand how those influence their intention and actual use behavior of 
+MOOCs. Participants for the study were recruited via Prolific (an online 
+research data collection service). A purposeful sampling technique was 
+used because the study aimed to include only those with some experi -
+ence using MOOCs and participants who did not meet that criterion were 
+filtered out using a screening questionnaire. Particularly, only those who 
+indicated that they have enrolled in and completed at least one MOOC 
+course in the past were selected for the study. Also, participant country 
+was restricted to the US in the selection process to allow for a more 
+focused sample, as the platform consists of people from different coun -
+tries. The main survey was sent out on the 29th of July 2020 and was 
+active for a total of 1 week. All respondents were required to be at least 
+18 years old to participate and were required to complete a consent form 
+before proceeding. A total of 138 people completed the survey. Of the 
+C.R. Ucha
+<<<PAGE=5>>>
+Computers and Education Open 5 (2023) 100147
+5
+138 participants who completed the survey, 70 were male, 67 were fe -
+male and 1 indicated as non-binary. The mean age of respondents was 
+28.41 ( SD = 8.991), with about 60% of participants being 28 years or 
+younger. Also, the participants were mostly educated, with about 57% of 
+them having an undergraduate degree or above, and another 24% 
+having some college or technical education. 
+Data analysis technique 
+Partial Least Squares Structural Equation Modeling (PLS-SEM) was 
+used for data analysis for the study. PLS-SEM was considered more 
+appropriate than the traditional covariance-based SEM for this study 
+because it is more suited for exploratory research and is more efficient 
+for examining smaller sample sizes, as was the case in this study [ 11,12 ]. 
+PLS-SEM was also considered desirable because it allows for the esti -
+mation of complex models without distributional assumptions [12] . 
+SmartPLS3 software [35] was used to run the PLS-SEM technique for this 
+study. As suggested by Hair et al. [12] , a two-stage approach was used in 
+the PLS-SEM data analysis process. First, the reliability and validity of 
+the measurement (outer) model were assessed using the criteria pro -
+posed by Hair et al., [12] . Specifically, the outer weights, Cronbach 
+alpha, composite reliability, and average variance explained of each 
+construct were examined to ensure that they are within the recom -
+mended range [12] . Secondly, the structural (inner) model was assessed 
+by examining the variance explained of the dependent variables, the 
+predictive relevance of the constructs, and the level of significance of the 
+proposed relationships [ 11,12 ]. 
+Results 
+Assessing the measurement model 
+To assess the measurement model for reliability and validity, the 
+factor loadings for the construct indicators were first examined. Almost 
+all the reflective indicators had loadings that were higher than 0.50, 
+indicating acceptable item reliability [46] , except for CDQ5 (0.396) and 
+LII3 (0.423). The two items were dropped from their respective con -
+structs before the measurement model was assessed. Furthermore, the 
+composite reliabilities and Cronbach alpha values of the constructs were 
+all above the recommended value of 0.70, indicating good internal 
+consistency and less than the recommended threshold of 0.95, indicating 
+that items within the constructs are not redundant [ 8,11,12 ]. 
+Convergent validity, which is the extent to which the variance 
+observed in the individual indicators is explained by the construct they 
+represent, was examined using average variance extracted (AVE). The 
+AVE values were above the recommended value of 0.50 for all the 
+constructs, indicating good convergent validity [12] . Finally, discrimi -
+nant validity, which is the extent to which constructs are distinct from 
+each other (i.e., the absence of multicollinearity across constructs), was 
+assessed using heterotrait-monotrait (HTMT) ratio of the correlations as 
+recommended by Hair et al. [12] . The HTMT values across the con -
+structs were under the recommended limit of ≤ 0.90, indicating good 
+discriminant validity [12] , i.e., that the constructs measured are truly 
+distinct as no multicollinearity was observed. 
+Overall, the measurement model showed satisfactory internal reli -
+ability, convergent validity, and discriminant validity, indicating 
+adequate robustness for the structural model proposed for the study to 
+be assessed. See detailed results of the measurement model in 
+Appendix 1 . 
+Assessing the structural model 
+Further, the structural model of MOOCs acceptance and use that was 
+proposed for the study was assessed based on recommended criteria in 
+Hair et al. [12] . First, it is recommended that before assessing the 
+structural relationship in a model, it is important to examine the level of 
+collinearity to ensure that the regression results obtained are not biased 
+[12] . The variance inflation factor (VIF) values for all the predictors 
+were between 1.000 to 1.985, which is well within the recommended 
+limit of ≤ 5 [35] , indicating that no collinearity issues were detected for 
+the structural model in this study. Next, R-squared ( R
+2
+), predictive 
+relevance, and significance of the path coefficients of the relationships 
+specified in the study model need to be examined [12] . 
+R
+2 
+is the proportion of variance in the dependent variables explained 
+by the independent variables in the study. The R
+2 
+values of the endog -
+enous (dependent) variables, namely, perceived usefulness, perceived 
+ease of use, behavioral intention, and actual usage were 0.50, 0.28, 0.40 
+and 0.25, respectively. These values were all within the acceptable range 
+of 0.10 and above for R
+2 
+[12] . The results indicate that 50% of the 
+variance in perceived usefulness is explained by its significant predictor, 
+course relevance, and 28% of the variance in perceived ease of use is 
+explained by its significant predictor, course content quality. The 
+Fig. 3. Hypotheses testing results.  
+C.R. Ucha
+<<<PAGE=6>>>
+Computers and Education Open 5 (2023) 100147
+6
+combined effect of all the significant exogenous (independent) variables 
+on behavioral intention to use MOOCs was 40%, meaning that, the total 
+effect of the factors, perceived usefulness, perceived ease of use, course 
+relevance, and course content quality explained 40% of the variance 
+observed in behavioral intention to use MOOCs. Furthermore, about 
+25% of the variance in actual usage was explained by the combined 
+effects of perceived usefulness, perceived ease of use, course relevance, 
+course content quality, and behavioral intention. 
+The predictive relevance of the structural model was assessed using 
+Q
+2
+, a blindfolding technique that cross-validates a model for redun -
+dancy. The Q
+2 
+values for the endogenous constructs were all greater 
+than zero (BI = 0.34, PU = 0.33 and PEOU = 0.18, AU = 0.09), indicating 
+acceptable predictive relevance of the proposed path model [12] . 
+Finally, a bootstrapping technique using 1000 subsamples was used 
+to test the study hypotheses for significance, as recommended by Hair 
+et al. [12] . Only five (5) of the proposed hypotheses were supported. The 
+results showed that perceived usefulness and perceived ease of use had 
+significant positive impact on behavioral intention to use MOOCs ( b =
+0.52, p < 0.001 and b = 0.24, p < 0.01, respectively), supporting H1 and 
+H3. Also, behavioral intention predicted actual usage behavior of 
+MOOCs ( b = 0.50, p < 0.001), supporting H4. Furthermore, course con -
+tent quality predicted perceived ease of use ( b = 0.27, p < 0.05), while 
+course relevance predicted perceived usefulness ( b = 0.69, p < 0.001), 
+supporting H6 and H10 respectively. All other hypotheses proposed for 
+the study were not supported. Particularly, no relationships were found 
+between course content quality and perceived usefulness, course design 
+quality and perceived ease of use. And none was found between course 
+instructor quality, learner-learner interaction, learner instructor 
+Table 1 
+Factor loadings, Cronbach ’ s alpha, composite reliability, and average variance extracted.  
+Construct Indicators Factor Loadings Cronbach ’ s Alpha ( α ) Composite Reliability (CR) Average Variance Extracted (AVE) 
+Perceived Usefulness (PU) PU1 
+PU2 
+PU3 
+PU4 
+PU5 
+0.84 
+0.76 
+0.84 
+0.84 
+0.85 
+0.88 0.92 0.68 
+Perceived Ease of Use (PEOU) PEOU1 
+PEOU2 
+PEOU3 
+PEOU4 
+0.81 
+0.85 
+0.85 
+0.86 
+0.86 0.91 0.71 
+Course Content Quality (CCQ) CCQ1 
+CCQ2 
+CCQ3 
+CCQ4 
+CCQ5 
+0.69 
+0.71 
+0.83 
+0.73 
+0.79 
+0.81 0.87 0.57 
+Course Instructor Quality (CIQ) CIQ1 
+CIQ2 
+CIQ3 
+CIQ4 
+CIQ5 
+0.76 
+0.75 
+0.77 
+0.52 
+0.80 
+0.79 0.85 0.53 
+Course Design Quality (CDQ) CDQ1 
+CDQ2 
+CDQ3 
+CDQ4 
+0.73 
+0.78 
+0.67 
+0.79 
+0.74 0.83 0.55 
+Course Relevance (CR) CR1 
+CR2 
+CR3 
+CR4 
+CR5 
+0.85 
+0.77 
+0.78 
+0.87 
+0.81 
+0.88 0.91 0.67 
+Learner-Instructor Interaction (LII) LII1 
+LII2 
+LII4 
+0.80 
+0.89 
+0.67 
+0.73 0.83 0.63 
+Learner-Learner Interaction (LLI) LLI1 
+LLI2 
+LLI3 
+LLI4 
+0.81 
+0.81 
+0.76 
+0.75 
+0.79 0.86 0.61 
+Behavioral Intention (BI) BI1 
+BI2 
+BI3 
+0.93 
+0.95 
+0.91 
+0.92 0.95 0.86 
+Actual Usage (AU) AU1 1.00 1.00  1.00  1.00   
+Table 2 
+Discriminant validity (HTMT values).   
+AU BI CCQ CDQ CIQ CR LLI PU PEOU TLI 
+AU           
+BI 0.52          
+CCQ 0.22 0.43         
+CDQ 0.19 0.39 0.83        
+CIQ 0.13 0.20 0.65 0.72       
+CR 0.38 0.48 0.69 0.68 0.61      
+LLI 0.18 0.13 0.16 0.22 0.28 0.21     
+PU 0.41 0.43 0.58 0.55 0.44 0.29 0.12    
+PEOU 0.26 0.65 0.53 0.42 0.40 0.78 0.12 0.34   
+LII 0.16 0.18 0.22 0.23 0.39 0.27 0.79 0.16 0.11   
+C.R. Ucha
+<<<PAGE=7>>>
+Computers and Education Open 5 (2023) 100147
+7
+interaction and perceived usefulness or ease of use. Fig. 3 below illus -
+trates the results of the hypotheses testing is illustrated in Fig. 3 below 
+and more detailed results of the test can be found in Appendix 2 . 
+Discussion 
+Introduction 
+This study examined key course-specific factors that are likely 
+contributing to people ’ s intention to use MOOCs and their actual usage 
+behavior, to better understand adoption behavior associated with the 
+learning technology. This study specifically uses TAM as a theoretical 
+framework to understand the acceptance and use of MOOCs. It extends 
+TAM by investigating specific factors influencing people ’ s perceived 
+usefulness and perceived ease of use of MOOCs. The specific factors 
+examined include, course instructor quality, course content quality, 
+course design quality, course relevance, learner-instructor interaction, 
+and learner-learner interaction. Learning in MOOCs is optional, 
+informal, and self-regulated, hence, ensuring that a course possesses 
+appealing characteristics is important to attract and keep learners. 
+Therefore, investigating external factors like those proposed in this 
+study can have important implications for instructors or MOOCs course 
+providers that want to create courses that are appealing, and that people 
+want to enroll and learn from. 
+Perceived usefulness mediates the relationship between course relevance 
+and behavioral intention to use MOOCs 
+The results showed that MOOC learners in this study consider 
+tangible value (e.g., educational, and job-related benefits) associated 
+with MOOCs to be an important determinant of the decision to use them. 
+Specifically, the more useful they considered a MOOC to be, the more 
+likely they are to consider using them for their needs. Additionally, 
+course relevance was found to be affecting how useful learners in this 
+study consider MOOCs to be such that more relevant learners consider 
+the course content or materials covered in a MOOC to be for either their 
+professional or personal purposes, the more they would consider that 
+course to be, and they will in turn be more motivated to participate in 
+that course. This is consistent with previous studies that found learners ’ 
+perceived usefulness of a MOOCs course to be a reason why people want 
+to participate in such a course [ 9 , 23 ]. It also supports previous findings 
+that suggest that content that is relevant to participants ’ job needs is a 
+major factor drawing students to participate in MOOCs [20] . In other 
+online learning environments, it has also been found that course rele -
+vance is a strong predictor of perceived usefulness [27] , motivation to 
+learn [32] and student perceptions and behavior [ 5 , 38 ]. Hence from 
+these findings, it can be argued that the MOOC learners are likely to 
+consider how useful and relevant a course is to their needs as important 
+factors when choosing to accept and use MOOCs. Therefore, it is 
+important to develop strategies to demonstrate tangible value associated 
+with the learning content to learners. For instance, explicitly providing 
+details on how participating in the course can help students meet their 
+future goals, whether it is academic or job-related. This can involve 
+helping learners build their portfolio with projects and providing a more 
+direct path from MOOC learning to real-life experience, whether it is 
+through volunteer projects, internships, or job opportunities. 
+Perceived ease of use mediates the relationship between content quality 
+and behavioral intention to use MOOCs 
+Additionally, the results also showed that, MOOC learners in this 
+study consider the effort required to use MOOCs, a main factor influ -
+encing their decision to use them. Specifically, the less effort that is 
+required to participate in MOOCs, the more likely learners were to 
+consider using them. Furthermore, course content quality was found to 
+be affecting how easy the learners find MOOCs to be such that, when the 
+course content is of desirable quality, for instance, enjoyable, easy to 
+follow, and have established guidelines, learners are more likely to 
+consider the course easy to use. And as such, they would be more willing 
+to participate in MOOCs. Although studies examining the relationship 
+between content quality and perceived ease of use of MOOCs are 
+limited, this finding supports a previous study that showed course 
+content quality to be a significant predictor of perceived ease of use in 
+online learning contexts [ 2 , 29 ]. Hence, the findings can be used to make 
+the argument that, the effort required to use MOOCs and the quality of 
+the content provided in MOOCs are important factors affecting people ’ s 
+willingness to accept and participate in them. Hence, it is essential that 
+MOOC providers make the platforms and courses enjoyable and 
+learner-friendly, to attract and keep learners. This may entail working 
+with professional instructional designers to ensure that the content of 
+the courses is clear and easy to follow, captures learners ’ attention (e.g., 
+through use of real-world examples, multimedia, minimal text, and 
+interactive components), and fits the objectives that the learner expects 
+from any given course. 
+Behavioral intention to use MOOCs predicts actual usage of MOOCs 
+The results also showed that the actual usage behavior of the MOOC 
+learners in this study reflected their intention to use MOOCs. Particu -
+larly, those who have a higher level of experience with MOOCs 
+Table 3 
+Path coefficients.  
+Hypothesis Path b t 95% CI [LL, UL] Supported f
+2 
+VIF 
+H1 PU - > BI 0.52*** 5.90 [0.33, 0.67] Yes 0.40
+b 
+1.098 
+H2 PEOU - > PU 0.15 1.73 [   0.01, 0.33] No 0.03 1.381 
+H3 PEOU - > BI 0.24** 3.15 [0.10, 0.39] Yes 0.08
+c 
+1.098 
+H4 BI - > AU 0.50*** 11.15 [0.38, 0.60] Yes 0.33
+b 
+1.000 
+H5 CCQ - > PU 0.02 0.27 [   0.13, 0.21] No 0.00 2.038 
+H6 CCQ - > PEOU 0.27* 2.29 [0.03, 0.49] Yes 0.05
+c 
+1.898 
+H7 CIQ - > PU   0.06 0.69 [   0.22, 0.10] No 0.00 1.753 
+H8 CIQ - > PEOU 0.16 1.82 [   0.01, 0.34] No 0.02 1.779 
+H9 CDQ - > PEOU 0.186 1.60 [   0.05, 0.40] No 0.02 1.985 
+H10 CR - > PU 0.69*** 8.05 [0.49, 0.82] Yes 0.56
+a 
+1.697 
+H11 LII - > PU 0.06 0.99 [   0.08, 0.17] No 0.01 1.554 
+H12 LII - > PEOU   0.02 0.24 [   0.16, 0.15] No 0.00 1.546 
+H13 LLI - > PU 0.01 0.14 [   0.14, 0.16] No 0.00 1.478 
+H14 LLI - > PEOU 0.03 0.24 [   0.26, 0.30] No 0.00 1.483  
+a
+Large effect size. 
+b
+Medium effect size. 
+c
+Small effect size. 
+*** p < 0.001, ** p < 0.01, * p < 0.05. 
+C.R. Ucha
+<<<PAGE=8>>>
+Computers and Education Open 5 (2023) 100147
+8
+enrollment were more likely to be those that indicated intention to 
+continue learning with MOOCs. Meaning that when people intend to use 
+MOOCs, due to how useful and easy to use they consider them to be, the 
+more they may be likely to have a high usage behavior. This is consistent 
+with previous findings that have found behavioral intention to be a 
+strong predictor of actual usage behavior in different technologies, 
+including online learning [9,41]. 
+Examined factors not influencing perceived usefulness and perceived ease 
+of use of MOOCs 
+Furthermore, it was found that for participants in this study, having a 
+high-quality instructor, course content, and course design may not be as 
+important in influencing how useful and easy to use a learner will 
+perceive a course to be. It was also found that interpersonal interaction 
+may not be as important in MOOCs as it is in other more formal online 
+learning platforms. These findings are contrary to those found for other 
+more traditional e-learning platforms, where those factors were found to 
+be important in predicting the perceived ease of use and perceived 
+usefulness of the platforms (e.g., [4,10,14,30,37]). It is however 
+important to note that the items for this study were adapted from studies 
+examining traditional e-learning environments, so it is possible that the 
+items are more suited to that specific learning environment. And the 
+differences between the features of MOOCs and traditional e-learning 
+environments can be a contributing factor to those differences observed 
+in this study. For instance, as indicated earlier, MOOC learning is pri -
+marily optional, informal, and self-regulated and typically requires more 
+self-motivation and persistence from learners for participation. Hence 
+learners’ assessment of these factors in MOOCs can differ significantly as 
+it is generally easier for them to switch from one course to another, since 
+the sense of commitment to a course is fundamentally different from that 
+of traditional online learning courses. Also, interacting with the 
+instructor and other students, which are major quality determinants in 
+traditional learning environments, are not very integrated into the 
+MOOC learning structure. So how those components will affect MOOCs 
+acceptance and use will essentially be different for learners. In summary, 
+the way that course content quality, instructor quality, course design 
+quality and interaction components are measured may need to be 
+redefined for MOOCs. This suggests a need for further studies to explore 
+and develop these factors that are more specific to the unique context of 
+MOOC learning environments for a better understanding on how they 
+can influence MOOCs acceptance and use. 
+Theoretical implications 
+This study contributes to the literature in two important ways. First, 
+it provides empirical evidence that the TAM framework is a viable 
+framework in understanding the acceptance and use of novel technology 
+such as MOOCs. Evidence from the study suggests that learners’ 
+perceived usefulness and perceived ease of use of MOOCs are important 
+predictors of their behavioral intention to learn using them. However, 
+contrary to previous studies, perceived ease of use did not predict 
+perceived usefulness in this study, implying that making MOOCs easy to 
+use may not be enough for learners to consider them useful. Future 
+Table 4 
+Constructs, measures, and sources.  
+Construct Measures Sources 
+Perceived 
+usefulness (PU) 
+PU1: I find MOOCs useful in accomplishing 
+my education or job-related goals 
+PU2: Using MOOCs enables me to 
+accomplish my education or job-related 
+tasks more quickly 
+PU3: Using MOOCs increases my learning 
+or job productivity 
+PU4: Using MOOCs is beneficial for me in 
+preparing for further education or a new 
+role 
+PU5: Using MOOCs makes it easier for me 
+to gain desirable skills I need for my studies 
+or my job 
+[6,39,41] 
+Perceived ease of 
+use (PEOU) 
+PEOU1: I find MOOCs easy to use 
+PEOU2: Learning to use MOOCs is easy for 
+me 
+PEOU3: My interaction with MOOCs is 
+clear and understandable 
+PEOU4: It is easy for me to become skillful 
+at using MOOCs 
+[6,39,41] 
+Behavioral 
+Intention (BI) 
+BI1: I intend to use MOOCs in the future 
+BI2: I will use MOOCs in the future 
+BI3: I predict that I would use MOOCs in the 
+future 
+[6,39,41] 
+Actual Usage (AU) AU1: Approximately how many MOOCs 
+classes have you enrolled in till date? 
+Created for 
+this study 
+Course Instructor 
+Quality (CIQ) 
+CIQ1: Instructors clearly provide students 
+with relevant information in MOOCs 
+CIQ2: Instructors promptly respond to 
+student inquiries in MOOCs 
+CIQ3: Instructors provide timely feedback 
+to students in MOOCs 
+CIQ4: Instructors encourage interaction 
+among students in MOOCs 
+CIQ5: Instructors deliver instructions 
+clearly to students in MOOCs 
+[19,31] 
+Course Content 
+Quality (CCQ) 
+CCQ1: MOOCs content and presentation 
+attracts attention 
+CCQ2: I find it easy to understand and 
+follow the content of MOOCs 
+CCQ3: MOOCs content is very enjoyable 
+CCQ4: Learning objectives are clearly 
+established in MOOCs 
+CCQ5: MOOC course content fits with my 
+learning objectives 
+[19,31] 
+Course Design 
+Quality (CDQ) 
+CDQ1: The level of difficulty of MOOCs 
+learning content is appropriate 
+CDQ2: The content of MOOCs assignments 
+is easy to understand 
+CDQ3: The amount of learning content in 
+MOOCs are appropriate 
+CDQ4: The delivery schedule of MOOCs 
+learning content is flexible 
+CDQ5: MOOCs provide individualized 
+learning management (dropped) 
+[19,31] 
+Course Relevance 
+(CR) 
+CR1: MOOCs are relevant to my needs 
+CR2: MOOCs are important for my needs 
+CR3: MOOCs provide relevant information 
+in my area(s) of interest 
+CR4: Content provided in MOOCs relate 
+well to my needs 
+CR5: MOOCs have adequate resources for 
+my needs 
+[32,40] 
+Learner-Instructor 
+Interaction (LII) 
+LII1: Interacting with the instructor in 
+MOOCs is more difficult than in other 
+courses I have taken 
+LII2: The interaction between students and 
+instructors is inadequate in MOOCs 
+LII3: The instructor seldom answers 
+students’ questions in MOOCs (dropped) 
+LII4: Class discussions are more difficult to 
+participate in MOOCs than in other courses 
+I have taken 
+[25,33]  
+Table 4 (continued ) 
+Construct Measures Sources 
+Learner-Learner 
+Interaction (LLI) 
+LLI1: There is little interaction between 
+students in MOOCs 
+LLI2: Interacting with other students in 
+MOOCs is more difficult than in other 
+courses I have taken 
+LLI3: Students seldom ask or answer each 
+other’s questions in MOOCs 
+LLI4: There are inadequate opportunities to 
+participate in class discussions in MOOCs 
+[25,33]  
+C.R. Ucha
+<<<PAGE=9>>>
+Computers and Education Open 5 (2023) 100147
+9
+studies can explore the relationship between perceived usefulness and 
+perceived ease of use, with regards to MOOCs to further support or 
+contradict this assertion. Furthermore, this study created items for 
+MOOC usage behavior and confirmed that people’s intention to use a 
+technology predicts their actual usage behavior, as suggested in TAM. 
+Secondly, the study also provides evidence of the importance of 
+extending the TAM framework to include external determinants of the 
+main constructs of perceived usefulness and perceived ease of use, to 
+offer context-specific explanations for the acceptance of a particular 
+technology. Specifically, it was found in this study that course relevance 
+predicted perceived usefulness, and course content quality predicted 
+perceived ease of use within the context of MOOCs. Hence, course 
+relevance and course content quality are two factors that can be added to 
+TAM to examine the acceptance and use of MOOCs as a learning 
+technology. 
+Limitations and future research 
+This study is not without limitations, which creates opportunities for 
+future research. First, participants for the study were recruited from a 
+specialized research participation platform, Prolific, where only regis -
+tered users on the platform and those who were active on the during the 
+period of the study would have had a chance to participate. Hence, 
+generalizing the results of this study to all MOOC learners should be 
+done cautiously. Future research can recruit participants more randomly 
+using varied means. Additionally, with regards to sampling, the partic -
+ipants in the study had varied level of MOOC experience, which may 
+have influenced their responses. Although all participants were required 
+to have enrolled in and completed at least one MOOC course in the past. 
+Future research can modify the criteria for choosing participants to 
+include those with similar level of experiences for a more unified 
+outcome. 
+Furthermore, only specific course characteristics were explored in 
+the study as determinants of the main TAM constructs. Future studies 
+can explore other factors that may also be relevant within the MOOCs 
+context. Furthermore, this study required learners to self-report their 
+MOOC usage behavior, so there is a possibility that participants over- 
+reported their usage, thereby introducing social desirability bias into 
+the data. Future studies can determine usage behavior via other means, 
+e.g., obtaining direct proof of completed courses and certificates. 
+Finally, the survey items were close-ended and were therefore limited by 
+the amount of information that can be obtained to explain a construct. 
+Supplementing survey data with a qualitative component such as in -
+terviews would be beneficial for future studies to gather more in-depth 
+perspectives about people’s perceptions of the phenomenon being 
+studied and get more insights on how to better design MOOCs to in -
+crease their acceptance by learners. 
+Conclusion 
+This study integrated specific course characteristics variables into 
+the well-known TAM framework to enhance understanding of accep -
+tance of MOOCs among learners. The findings show that perceived 
+usefulness, perceived ease of use, course relevance and course content 
+quality are all important factors affecting MOOCs acceptance. These 
+results support previous findings that TAM constructs can be used in 
+understanding acceptance of MOOCs and e-learning [9,23]. It also 
+supports the argument that relevant external variables be added to TAM 
+to better understand the technology being studied [26,41]. This study 
+contributes to the literature by establishing the importance of 
+less-explored variables, course relevance and course content quality in 
+learners’ acceptance and use of MOOCs. The results specifically confirm 
+previous findings that perceived usefulness and perceived ease of use 
+significantly influence behavioral intention to use MOOCs [23,37]. 
+While two of the external variables explored, course relevance and 
+course content quality, indirectly influenced behavioral intention 
+through perceived usefulness and perceived ease of use respectively. 
+These results are in support of those found in previous studies exploring 
+other e-learning contexts [20,38]. 
+The study concludes that, the relevance of a MOOC course to the 
+needs of the learners and the quality of the content provided, are factors 
+that need to be addressed to increase acceptance. These factors can be 
+utilized by MOOC platforms and course designers when designing 
+courses to appeal to learners. For instance, to create courses that are 
+useful and relevant to the needs of learners, MOOC developers can 
+ensure that the objectives of the course are clearly communicated early 
+on during the course and that the content and activities provided to 
+achieve those objectives are relevant to the topic being addressed. They 
+can also ensure that adequate resources on the topic or subject are 
+provided throughout the course. These will potentially enable the stu -
+dent to easily identify if the course or specific aspects of the course is 
+relevant for their needs and that they have adequate resources to sup -
+port their learning of the content. Also, MOOC platforms can ensure that 
+there are strategies in place to demonstrate tangible value associated 
+with the learning content to learners. For instance, creating a connection 
+between the course and a tangible future goal for the learners, whether 
+academic or job-related, through activities like, portfolio building, 
+interview preparation, volunteer projects, internships or even job op -
+portunities for best performers. Furthermore, to create courses that are 
+easy to use, MOOC developers can ensure that the learning content is of 
+good quality by establishing clear learning objectives and providing 
+content that captures attention, is easy to understand and follow, and is 
+enjoyable. They can do this by engaging the services of professional 
+instructional designers. Overall, the study shows that the TAM frame -
+work, with course relevance and course content quality included as 
+external variables, can be used to explain MOOC acceptance and use 
+among learners. 
+This study therefore had the following major contributions: 
+The study investigates MOOCs acceptance and use, a topic that is still 
+understudied regardless of the proliferation of the learning tech -
+nology in question. 
+The study adds to the MOOCs acceptance literature by proposing a 
+conceptual framework that investigates the roles of less-studied 
+course-specific variables such as, course instructor quality, course 
+content quality, course design quality, course relevance, learner- 
+instructor interaction, and learner-instructor interaction. 
+This study explicitly identifies and adds to the literature, course 
+relevance and course content quality, as specific course-related fac -
+tors affecting MOOCs acceptance and use, providing more context to 
+inform course design for better acceptance. 
+To the best of the researcher’s knowledge, this is one of the first 
+studies to investigate the course-specific variables outlined in this 
+study within the context of MOOCs acceptance. 
+Funding 
+This work was supported by the Michigan State University Graduate 
+School research fellowship. 
+Declaration of Competing Interest 
+None. 
+Appendix 1: Measurement model assessment 
+Tables 1 and 2. 
+Appendix 2: Structural model assessment 
+Table 3. 
+C.R. Ucha
+<<<PAGE=10>>>
+Computers and Education Open 5 (2023) 100147
+10
+Appendix 3: Study measures 
+Table 4 . 
+References 
+[1] Abbas T. Social factors affecting students ’ acceptance of e-learning environments in 
+developing and developed countries: a structural equation modeling approach. 
+J Hosp Tour Technol 2016;7(2):200 – 12. https://doi.org/10.1108/JHTT-11-2015- 
+0042 . 
+[2] Almaiah MA, Jalil MA, Man M. Extending the TAM to examine the effects of quality 
+features on mobile learning acceptance. J Comput Educ 2016;3(4):453 – 85 . 
+[3] Bonk CJ. Online training in an online world. Bloomington, IN: CourseShare. com; 
+2002 . 
+[4] Cheng YM. Effects of quality antecedents on e-learning acceptance. Internet Res 
+2012;22(3):361 – 90. https://doi.org/10.1108/10662241211235699 . 
+[5] Cheng, S.L., & Xie, K. (2021). d. The internet and higher education , 50, 100807. 
+[6] Davis FD. Perceived usefulness, perceived ease of use, and user acceptance of 
+information technology. MIS Quart Manag Inf Syst 1989:319 – 40. https://doi.org/ 
+10.2307/249008 . 
+[7] De Freitas SI, Morgan J, Gibson D. Will MOOCs transform learning and teaching in 
+higher education? Engagement and course retention in online learning provision. 
+Br J Educ Technol 2015;46(3):455 – 71. https://doi.org/10.1111/bjet.12268 . 
+[8] Diamantopoulos A, Sarstedt M, Fuchs C, Wilczynski P, Kaiser S. Guidelines for 
+choosing between multi-item and single-item scales for construct measurement: a 
+predictive validity perspective. J Acad Mark Sci 2012;40(3):434 – 49 . 
+[9] Fearnley MR, Amora JT. Learning management system adoption in higher 
+education using the extended technology acceptance model. IAFOR J Educ 2020;8 
+(2):89 – 106 . 
+[10] Gregori EB, Zhang J, Galv ´an-Fern ´andez C, Fern ´andez-Navarro Fde A. Learner 
+support in MOOCs: identifying variables linked to completion. Comput Educ 2018; 
+122:153 – 68. https://doi.org/10.1016/j.compedu.2018.03.014 . 
+[11] Hair Jr JF, Matthews LM, Matthews RL, Sarstedt M. PLS-SEM or CB-SEM: updated 
+guidelines on which method to use. Int J Multivar Data Anal 2017;1(2):107 – 23 . 
+[12] Hair JF, Risher JJ, Sarstedt M, Ringle CM. When to use and how to report the 
+results of PLS-SEM. Eur Bus Rev 2019;31(1):2 – 24. https://doi.org/10.1108/ebr- 
+11-2018-0203 . 
+[13] Hodges CB. Designing to motivate: motivational techniques to incorporate in e- 
+learning experiences. J Interact Online Learn 2004;2(3):1 – 7. www.ncolr.org . 
+[14] Hone KS, El Said GR. Exploring the factors affecting MOOC retention: a survey 
+study. Comput Educ 2016;98:157 – 68. https://doi.org/10.1016/j. 
+compedu.2016.03.016 . 
+[15] Jung Y, Lee J. Learning engagement and persistence in massive open online courses 
+(MOOCS). Comput Educ 2018;122:9 – 22 . 
+[16] Kay J, Reimann P, Diebold E, Kummerfeld B. MOOCs: so many learners, so much 
+potential. IEEE Intell Syst 2013;28(3):70 – 7. https://doi.org/10.1109/ 
+MIS.2013.66 . 
+[17] Keller JM. Development and use of the ARCS model of instructional design. 
+J Instruct Dev 1987;10(3):2 – 10. https://doi.org/10.1007/BF02905780 . 
+[18] Khalil H, Ebner M. MOOCs completion rates and possible methods to improve 
+retention-a literature review personal learning environment view project open 
+educational resources view project. In: Proceedings of the world conference on 
+educational multimedia, hypermedia and telecommunications; 2014. p. 1236 – 44. 
+https://www.researchgate.net/publication/306127713 . 
+[19] Lee BC, Yoon JO, Lee I. Learners ’ acceptance of e-learning in South Korea: theories 
+and results. Comput Educ 2009;53(4):1320 – 9. https://doi.org/10.1016/j. 
+compedu.2009.06.014 . 
+[20] Littenberg-Tobias J, Reich J. Evaluating access, quality, and equity in online 
+learning: a case study of a MOOC-based blended professional degree program. 
+Internet Higher Educ 2020;47:100759 . 
+[21] Liyanagunawardena TR, Adams AA, Williams SA. MOOCs: a systematic study of the 
+published literature 2008-2012. Int Rev Res Open Distance Learn 2013;14(3): 
+202 – 27. https://doi.org/10.19173/irrodl.v14i3.1455 . 
+[22] Ma L, Lee CS. Understanding the barriers to the use of MOOCs in a developing 
+country: an innovation resistance perspective. J Educ Comput Res 2019;57(3): 
+571 – 90 . 
+[23] Ma L, Lee CS. Drivers and barriers to MOOC adoption: perspectives from adopters 
+and non-adopters. Online Inf Rev 2020;44(3):671 – 84 . 
+[24] Mailizar M, Burg D, Maulina S. Examining university students ’ behavioural 
+intention to use e-learning during the COVID-19 pandemic: an extended TAM 
+model. Educ Inf Technol 2021;26(6):7057 – 77 . 
+[25] Marks RB, Sibley SD, Arbaugh JB. A structural equation model of predictors for 
+effective online learning. J Manag Educ 2005;29(4):531 – 63. https://doi.org/ 
+10.1177/1052562904271199 . 
+[26] Mathieson K. Predicting user intentions: comparing the technology acceptance 
+model with the theory of planned behavior. Inf Syst Res 1991;2(3):173 – 91. 
+https://doi.org/10.1287/isre.2.3.173 . 
+[27] Miller J, Khera O. Digital library adoption and the technology acceptance model: a 
+cross-country analysis. Electr J Inf Syst Dev Ctries 2010;40(1):1 – 19. https://doi. 
+org/10.1002/j.1681-4835.2010.tb00288.x . 
+[28] Moore MG, Kearsley G. Distance education: a systems view of online learning. 
+Cengage Learning; 2011 . 
+[29] Al Mulhem A. Exploring the key factors in the use of an e-learning system among 
+students at King Faisal. University Saudi Arabia; 2020 . 
+[30] Nandi D, Hamilton M, Harland J. Evaluating the quality of interaction in 
+asynchronous discussion forums in fully online courses. Distance Educ 2012;33(1): 
+5 – 30. https://doi.org/10.1080/01587919.2012.667957 . 
+[31] Ozkan S, Koseler R. Multi-dimensional students ’ evaluation of e-learning systems 
+in the higher education context: an empirical investigation. Comput Educ 2009;53 
+(4):1285 – 96. https://doi.org/10.1016/j.compedu.2009.06.011 . 
+[32] Park N, Roman R, Lee S, Chung JE. User acceptance of a digital library system in 
+developing countries: an application of the technology acceptance model. Int J Inf 
+Manag 2009;29(3):196 – 209. https://doi.org/10.1016/j.ijinfomgt.2008.07.001 . 
+[33] Peltier JW, Drago W, Schibrowsky JA. Virtual communities and the assessment of 
+online marketing education. J Mark Educ 2003;25(3):260 – 76. https://doi.org/ 
+10.1177/0273475303257762 . 
+[34] Razami HH, Ibrahim R. Investigating the factors that influence the acceptance of 
+MOOC as a supplementary learning tool in higher education. J Adv Res Dyn 
+Control Syst 2020;12(3):522 – 30 . 
+[35] Ringle CM, Wende S, Becker JM. SmartPLS 3.0. Boenningstedt: SmartPLS GmbH; 
+2015 . 
+[36] Sher A. Assessing the relationship of student-instructor and student-student 
+interaction to student learning and satisfaction in Web-based online learning 
+environment. J Interact Online Learn 2009;8(2):102 – 20 . 
+[37] Tao D, Fu P, Wang Y, Zhang T, Qu X. Key characteristics in designing massive open 
+online courses (MOOCs) for user acceptance: an application of the extended 
+technology acceptance model. Interact Learn Environ 2022;30(5):882 – 95 . 
+[38] Vaz A, Tendulkarb A, Fernandezc RT, Mansorid S. Student preference and content 
+relevance as important service quality factors that impact online learning design in 
+tertiary education in Malaysia. TEST Eng Manag 2020;83(March – April 2020): 
+574 – 85 . 
+[39] Venkatesh V, Davis FD. A model of the antecedents of perceived ease of use: 
+development and test. Decis Sci 1996;27(3):451 – 81 . 
+[40] Venkatesh V, Davis FD. A theoretical extension of the technology acceptance 
+model: four longitudinal field studies. Manage Sci 2000;46(2):186 – 204. https:// 
+doi.org/10.1287/mnsc.46.2.186.11926 . 
+[41] Venkatesh V. Determinants of perceived ease of use: integrating control, intrinsic 
+motivation, and emotion into the technology acceptance model. Inf Syst Res 2000; 
+11(4):342 – 65. https://doi.org/10.1287/isre.11.4.342.11872 . 
+[42] Wu B, Chen X. Continuance intention to use MOOCs: integrating the technology 
+acceptance model (TAM) and task technology fit (TTF) model. Comput Hum Behav 
+2017;67:221 – 32 . 
+[43] Yang M, Shao Z, Liu Q, Liu C. Understanding the quality factors that influence the 
+continuance intention of students toward participation in MOOCs. Educ Technol 
+Res Dev 2017;65(5):1195 – 214. https://doi.org/10.1007/s11423-017-9513-6 . 
+[44] Yang B, Zhao Y. Research on the continuance intention of MOOC platforms based 
+on the technology acceptance model: a case of MOOC learning platforms in Chinese 
+Universities. In: Proceedings of the 2nd international conference on artificial 
+intelligence and education (ICAIE). IEEE; 2021. p. 642 – 5 . 
+[45] Emanuel EJ. MOOCs taken by educated few. Nature 2013;503(7476):342. https:// 
+doi.org/10.1038/503342a . 
+[46] Fornell C, Larcker DF. Evaluating structural equation models with unobservable 
+variables and measurement error. J Mark Res 1981;18(1):39 – 50 . 
+[47] Walther JB. Computer-mediated communication: Impersonal, interpersonal, and 
+hyperpersonal interaction. Commun Res 1996;23(1):3 – 43 . 
+C.R. Ucha

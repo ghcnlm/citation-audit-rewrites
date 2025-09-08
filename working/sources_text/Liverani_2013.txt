@@ -1,0 +1,970 @@
+<<<PAGE=1>>>
+Political and Institutional Influences on the Use of
+Evidence in Public Health Policy. A Systematic Review
+Marco Liverani*, Benjamin Hawkins, Justin O. Parkhurst
+Department of Global Health and Development, London School of Hygiene and Tropical Medicine, London, United Kingdom
+Abstract
+Background: There is increasing recognition that the development of evidence-informed health policy is not only a
+technical problem of knowledge exchange or translation, but also a political challenge. Yet, while political scientists have
+long considered the nature of political systems, the role of institutional structures, and the political contestation of policy
+issues as central to understanding policy decisions, these issues remain largely unexplored by scholars of evidence-informed
+policy making.
+Methods: We conducted a systematic review of empirical studies that examined the influence of key features of political
+systems and institutional mechanisms on evidence use, and contextual factors that may contribute to the politicisation of
+health evidence. Eligible studies were identified through searches of seven health and social sciences databases, websites of
+relevant organisations, the British Library database, and manual searches of academic journals. Relevant findings were
+extracted using a uniform data extraction tool and synthesised by narrative review.
+Findings: 56 studies were selected for inclusion. Relevant political and institutional aspects affecting the use of health
+evidence included the level of state centralisation and democratisation, the influence of external donors and organisations,
+the organisation and function of bureaucracies, and the framing of evidence in relation to social norms and values.
+However, our understanding of such influences remains piecemeal given the limited number of empirical analyses on this
+subject, the paucity of comparative works, and the limited consideration of political and institutional theory in these studies.
+Conclusions: This review highlights the need for a more explicit engagement with the political and institutional factors
+affecting the use of health evidence in decision-making. A more nuanced understanding of evidence use in health policy
+making requires both additional empirical studies of evidence use, and an engagement with theories and approaches
+beyond the current remit of public health or knowledge utilisation studies.
+Citation: Liverani M, Hawkins B, Parkhurst JO (2013) Political and Institutional Influences on the Use of Evidence in Public Health Policy. A Systematic Review. PLoS
+ONE 8(10): e77404. doi:10.1371/journal.pone.0077404
+Editor: Gemma Elizabeth Derrick, Consejo Superior de Investigaciones Cientifics, Spain
+Received April 18, 2013;Accepted September 2, 2013;Published October 30, 2013
+Copyright: /C2232013 Liverani et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This study was supported by the European Research Council (grant no. 282118). The funder had no role in study design, data collection and analysis,
+decision to publish, or preparation of the manuscript.
+Competing Interests:The authors have declared that no competing interests exist.
+* E-mail: marco.liverani@lshtm.ac.uk
+Introduction
+In the past two decades there has been a tremendous increase in
+expenditure on global health research. The Global Forum for
+Health Research, for example, reported that international funding
+for this has risen from US
+$30 billion in 1986 to an estimated$163
+billion in 2005 [1]. Despite this growth, concerns remain that
+health policy and practice are not adequately informed by the best
+available evidence, and that research findings may take too long to
+be incorporated in policy processes. As former World Health
+Organization (WHO) director Lee Jong-wook stressed ‘‘there is a
+sense that science has not done enough, especially for public
+health, and there is a gap between today’s scientific advances and
+their application: between what we know and what is actually
+being done’’ [2]. In this context, a growing body of literature has
+begun to study the use of evidence in public health policy-making
+through empirical and conceptual analyses, attempting to identify
+technical barriers and facilitators that may influence the timely
+uptake of research findings [3,4]. In addition, a diverse range of
+initiatives has attempted to bridge gaps that are seen to exist
+between research and policy [5], including regional networks to
+link researchers and policy makers [6], user-friendly data
+repositories [7], guidelines for drafting and using evidence-
+informed policy briefs [8], and training of decision makers on
+how to use systematic review information [9].
+However, within research and policy communities there has
+been increasing awareness that getting research into policy is not
+only a technical matter of knowledge translation and exchange,
+but also a political challenge [10]. A report by the Alliance for
+Health Policy and Systems Research, for instance, noted that:
+‘‘Policy making is a complex and essentially political process that is
+influenced by several factors (…) Recognition and understanding
+of decision-making processes and factors that influence the process
+can increase the potential for inserting research information into
+the process’’ [11].
+Outside the field of public health, the discipline of policy studies
+has long explored the decision-making process, illustrating how
+different political systems shape the capacity of governments to
+PLOS ONE | www.plosone.org 1 October 2013 | Volume 8 | Issue 10 | e77404
+<<<PAGE=2>>>
+develop effective policies. Key political system features include the
+territorial structure of the state – whether it is a unitary
+(centralised) or a devolved (federal) state [12] – the level of
+democracy (the degree of political pluralism and freedom), and the
+role of the bureaucracy (in particular their degree of control over
+the policy advice given to decision makers) [13,14].
+It is also well established in social and political science that
+decision-making processes involve tradeoffs between competing
+interests and values [15] and, as such, analyses of policy making
+must pay attention to the ways in which a given issue is politicised.
+Even within a single sector (such as health), policy decisions can be
+contested in numerous ways. All decisions will have implications
+for sectoral budgets and priorities, and will imply certain
+opportunity costs; but health policy issues are also likely to involve
+social considerations beyond clinical outcomes alone - such as
+questions of equity, justice, or morality – all of which can influence
+decision making around any given body of health evidence [16].
+While social and political scientists have long considered the
+nature of political systems, the role of institutional structures, and
+the political contestation of policy issues as central to understand-
+ing decision making, these issues remain largely unexplored by
+scholars of evidence-informed policy making. It remains unclear,
+for example, how the political nature of a given health issue might
+affect the use of relevant evidence (for example, when an issue is
+morally contested or impinges on powerful economic interests).
+Nor is there significant understanding of whether particular state
+structures or institutional bureaucratic arrangements may facilitate
+or impede the use of evidence for health decision making.
+To advance our understanding of these questions, we conducted
+a systematic review of empirical studies that examine the complex
+interface between politics, policy, and the use of evidence. Previous
+systematic reviews have been undertaken on aspects of health
+research utilisation, but these have primarily focussed on technical
+aspects of knowledge translation including barriers to evidence use,
+and ways to overcome them. Past reviews have addressed, for
+example, policy makers’ perceptions of their use of evidence [17],
+the effectiveness of interventions designed to increase the use of
+research in clinical practice [18], and the usefulness of systematic
+reviews for health care managers and policy-makers [19]. This
+journal has also recently published a systematic review of the use of
+evidence in settings with universal health care systems, which
+concluded that ‘‘organisational, political, and strategic factors’’
+restricted the use of evidence in public health decision making.
+That paper further noted that most systematic reviews of policy
+studies ‘‘tend to overlook the impact of political and institutional
+context’’ [20]. By contrast, our systematic review explicitly
+addressed the political nature of decision making, seeking to
+identify what is currently known about the ways in which political
+factors shape the uptake and use of evidence in health policy
+making. In order to capture the variety of potentially relevant
+themes, we maintained a broad understanding of ‘politics’ that
+goes beyond state institutions and party politics, to include political
+culture, ideologies, and informal arrangements at both the
+national and international level [21]. For the same reason, we
+reviewed studies that focused both on specific health conditions as
+well as broader health concerns such as access to care, the
+organisation of health services, and the social determinants of
+health. However, as our focus was specifically at the policy level,
+we discarded studies that did not focus on public health issues,
+such as studies that examined the uptake of evidence-based
+guidelines within routine clinical practice.
+Methods
+Search Strategy
+The methods of the analysis and inclusion criteria for the study
+were specified in advance and are documented in the attached
+protocol (Text S1). Eligible studies were initially identified using
+the following health and social sciences databases: Global Health,
+Healthcare Management Information Consortium (HMIC),
+International Bibliography of the Social Sciences (IBSS), MED-
+LINE, PubMed, Social Policy and Practice, and ISI Web of
+Science. No limitations were placed on language, although all
+search terms were in English. Whilst there is a literature on
+evidence use in policy making that predates the period reviewed
+[22–25], we limited our search to materials published after 1990
+for two principal reasons. First, we were mainly interested in
+exploring the contemporary context of health policy making.
+Second, the ‘evidence based medicine’ movement, which gave an
+increased impetus to demands for evidence informed health policy,
+is widely seen to have taken shape in the 1990s [26] (for example,
+with the creation of the Cochrane collaboration in 1993). The
+listed databases were searched in May 2012, using two broad
+query strings that enabled comprehensive searches of relevant
+material:
+1) Health polic* AND (research OR evidence) AND (governance OR
+institution* OR polit*);
+2) Evidence-based AND (health* OR medicine) AND policy AND
+(governance OR institution* OR polit*)
+Internet search engines such as Google and Google Scholar
+were also used to identify material which was not published in
+journals or available online (e.g. monographs and book chapters).
+The British Library catalogue was searched to identify relevant
+titles which met our inclusion criteria. Individual websites were
+then reviewed for grey literature, selected on the basis of their
+relevance to the subject and on recommendation from key
+individuals working in the field. These included the online
+repositories of the Program in Policy Decision Making at
+McMaster University, the Centre for Evidence & Policy at King’s
+College, the WHO Evidence into Policy Network (EVIPNet), and
+Evidence to Policy Initiative (E2Pi) at the University of California
+at San Francisco.
+Finally, manual literature searches were undertaken in the
+online archives of the following journals from 1990 until May
+2012: BMC Health Services Research; Evidence & Policy; Health Policy;
+Health Policy & Planning; Journal of Health Politics, Policy, and Law;
+Milbank Quarterly; Social Science & Medicine; Health Research Policy and
+Systems. The bibliographies of all included text were also reviewed
+for further relevant citations. Articles were downloaded to an
+Endnote database and duplicates were removed. All remaining
+references were then transferred to aMendeley database to facilitate
+collaboration during the screening and data extraction phases.
+Selection of Studies
+Electronic searches yielded 9,730 items. A further 34 items were
+identified through searches in journal archives, recommendations
+of colleagues, and through following up of references found in the
+included articles. After removing of duplicates, 9,257 unique
+studies remained. The first and second author conducted a
+preliminary screening of all retrieved studies on the basis of titles
+and abstracts. 647 articles met the inclusion criteria and were
+retained. The full texts of these were obtained and assessed for
+relevance (Figure 1).
+Political Influences on the Use of Health Evidence
+PLOS ONE | www.plosone.org 2 October 2013 | Volume 8 | Issue 10 | e77404
+<<<PAGE=3>>>
+Given the dearth of specific studies on the politics of evidence-
+based health policy, we adopted an inclusive approach throughout
+the selection process. It was decided to include works whose aims
+were tangential to the central focus of our review, but which
+presented and discussed relevant findings. However, papers that
+provided a description of wider political and institutional contexts,
+but did not explore the ways in which such contexts may have
+shaped the use of evidence were excluded. We also excluded all
+contributions that were not supported by empirical data, such as
+commentaries, letters, and conceptual frameworks. Finally, all
+three authors discussed and refined the inclusion criteria at several
+stages of the process and independently reviewed the final list of
+articles included.
+Data Extraction and Analysis
+The first and the second author extracted data from included
+studies using a uniform data extraction tool (Table S1). In addition
+to information on the study characteristics (e.g. methodological
+approach, data sources, country focus, health issues), relevant
+findings were identified and analysed according to three research
+questions derived from political studies theories and designed to
+address the gaps identified above in the existing literature on
+evidence to policy processes:
+1. Whether the study analysed features of political systems that
+influenced the use (or neglect) of evidence for health policy;
+2. Whether the study analysed institutional mechanisms that
+influenced the use (or neglect) of health research;
+3. Whether the study analysed other contextual factors that
+contributed to the politicisation and contestation of health
+evidence.
+The relevant material extracted from the included studies was
+tabulated and organised according to the three overarching
+questions noted above. Within these broad thematic areas,
+collected data were combined according to recurrent issues that
+emerged from the studies themselves and presented by narrative
+review [27]. Given the diverse and generally non-cumulative
+nature of selected studies, it was not possible to incorporate all
+extracted information in the presentation and discussion of results.
+However, Table S2 provides the comprehensive collection of
+research findings.
+Results
+After full-text review, 56 studies were selected for inclusion.
+They focused on a variety of countries, settings, and health issues.
+Most included studies utilised qualitative methods such as semi-
+structured interviews and critical analysis of policy documents,
+although different approaches and sampling criteria were used.
+Most studies examined single cases of research use in one country,
+but 12 studies included multiple country comparison or data and 4
+Figure 1. PRISMA flow diagram.
+doi:10.1371/journal.pone.0077404.g001
+Political Influences on the Use of Health Evidence
+PLOS ONE | www.plosone.org 3 October 2013 | Volume 8 | Issue 10 | e77404
+<<<PAGE=4>>>
+studies provided comparative analysis of different cases of research
+utilisation in the same country. With few exceptions, selected
+studies can be situated in the field of public health and were
+primarily driven by practical concerns with health care and health
+services. Indeed, 35 out of 56 studies were published in health
+journals, while the majority of the remainder were published in
+public policy journals. In most contributions the analysis of
+political and institutional elements was often subordinate to other
+research objectives, such as the identification of technical barriers
+to, and facilitators of, the use of evidence or descriptions of the
+ways in which evidence was used to inform specific health policies
+or programmes. Only 6 studies were judged to have explicitly
+engaged with political theories or concepts [28–33]. In the
+majority of cases, when issues relevant to our research questions
+were included in the studies, often there was only passing mention
+of these factors, and the points raised were rarely analysed in
+depth. However, due to the multi-disciplinary nature of our
+inquiry and desire for maximum coverage, we opted to include
+any studies which might provide insights for each of our research
+questions.
+Political Systems
+The first of the key questions we set out to explore is whether
+any links could be found between the use of evidence for health
+policy and key features of different state political systems (such as
+the structure of decision making authority, or level of public
+participation and democracy). We identified 4 studies that
+explicitly addressed this question, all of which were concerned
+with the implications of centralised governance. One study
+explored decision-making processes at the UK National Health
+Service (NHS) prior to the reforms of the late 1990s [30]. This
+study suggested that centralised political systems are likely to be
+less open to the uptake of research findings than de-centralised
+systems. The concentration of power was found to prevent
+pluralistic debate and thus the need for evidence to support
+competing views. By contrast, it was argued that in countries in
+which policy is made through ad-hoc, issue specific coalitions, such
+as the United States, and in federal systems in which policy is
+made at the provincial level, ‘‘there is more need for research as
+legitimation or ammunition’’ to justify policy decisions and defend
+them against the criticisms of opponents.
+Another study examined the failure of the British government to
+handle risk communication during the public health crisis of
+bovine spongiform encephalopathy (BSE) in the late 1980s.
+Having analysed the political and institutional context in which
+decisions about scientific evidence were made, this study found
+that a centralised system in which government agencies control
+expert advice with little public oversight is more vulnerable to the
+pressure of expert interest groups in decisions around evidence use
+[29]. Other studies documented how financial and corporate
+interest groups exert pressure on decision makers either to take up
+or ignore research findings, based on their commercial interest
+[34–37]. One study argued that the lack of pressure from
+organised lobbies in Laos facilitated the use of evidence for health
+policy on essential medicines in this country [38]. However, none
+of these studies explicitly examined whether differing political or
+institutional contexts may be more or less susceptible to such
+influences. Finally, one study on the use of health research in
+Mexico found that hierarchical management of information in a
+centralised system may prevent research results to arrive at
+operational levels, where they could have greater impact and
+usefulness [37].We did not identify any studies that analysed in
+depth the use of health evidence in one-party or authoritarian
+states. However, a case study on the development of health
+insurance in rural China illustrated the value of having a broker in
+the research team who understands political practices and thus can
+propose solutions that are compatible with the wider policy agenda
+of the central government [39]. The same study also noted that
+international experts and organisations have played a key role in
+providing research input for radical policy change in this country,
+given the lack of autonomy of domestic bodies that support health
+and health services research.
+We found no studies that systematically explored the effects of
+democratisation on the use of evidence, but the findings of some
+studies which noted the importance of changes in regime are
+relevant to this question. Two studies reported that the shift to
+parliamentary democracy in South Africa in 1994 created a new
+governance model that was more open to the uptake of research
+findings, as academic researchers were appointed to managing
+positions in the National Department of Health and new research
+institutes were established to support policy making [40,41].
+Similarly, another study reported that the establishment of a
+democratic government in Uruguay after the end of the military
+dictatorship in 1983 contributed to the enhancement of research
+capacities for infectious disease control and a culture of evidence-
+based policy. For example, new funding was allocated to science
+and the reconstruction of research facilities, which had been
+reduced drastically during the totalitarian regime [42]. However,
+none of these studies provide an analysis of specific political
+mechanisms that facilitated these developments. In principle,
+health research institutes could also have been appointed during
+the previous regimes. Indeed, a comparative study of the ‘‘market
+for evidence’’ in child health policy found that the nature of the
+political system (e.g. democratic or autocratic) is not necessarily a
+key factor in influencing the use of evidence in policy making [43].
+Other studies suggested that potential biases in the use of evidence
+may result from processes of democratic deliberation, including
+opportunistic use of evidence to delay decision-making [44], to
+legitimate particular policy positions or to discredit opponents in
+political debates [45–48]. One study on the policy process around
+the implementation of a bowel cancer screening programme in
+Australia noted that evidence may become more contested during
+electoral campaigns, as underlying tensions between stakeholders
+who control the selection of evidence for policy are likely to be
+amplified [49]. Finally, one study on health policy making in
+Australia found that issue polarisation dictates the extent to which
+research or researchers are used technically or politically [50].
+Institutional Mechanisms
+Our second area of analysis was to identify empirical studies of
+how different institutional mechanisms (such as the structures,
+processes, or regulations followed by bureaucracies) shape the use
+of health evidence. While more studies were identified which
+addressed this issue than the theme of political systems, many
+studies cut across a wide range of topics, providing a variety of
+disparate findings.
+One study on policy for health inequalities in the UK, for
+example, found that the division of responsibilities within
+government bureaucracies limited the use of evidence, arguing
+that ‘‘individual civil servants are compelled to focus on small,
+specific areas of policy activity, making it extremely difficult for
+them to engage with ideas beyond their immediate area of
+responsibility’’ [32]. Two further cases illustrated how institutional
+‘silos’ could limit evidence consideration for complex health issues
+that require multi-disciplinary evidence and horizontal thinking
+across sectoral boundaries, such as in a bowel cancer programme
+in New Zealand [51] and HIV/AIDS policy in Cambodia [52].
+Political Influences on the Use of Health Evidence
+PLOS ONE | www.plosone.org 4 October 2013 | Volume 8 | Issue 10 | e77404
+<<<PAGE=5>>>
+Institutional path-dependency was found to be another impor-
+tant hurdle to unbiased or systematic evidence use. A study of
+WHO’s management of the 2009 H1N1 pandemic suggested that
+previously chosen policy responses are likely to be prioritised over
+alternative evidence-informed options, especially when the health
+issue is surrounded by scientific uncertainties [28]. Another study
+of HIV policy in Tanzania suggested that path-dependency may
+result from self-perpetuating mechanisms of organisational prac-
+tices. This study found that evidence indicating a need to address
+upstream structural drivers of HIV was not acted upon because,
+‘‘any shift in prevention priorities would imply taking funds away
+from some organisations and directing them to others - putting at
+stake the former’s institutional existence’’ [53].
+Another institutional challenge noted in three studies was how
+high turnover of staff in health departments could undermine the
+systematic use of evidence for policy or planning [32,49,53]. One
+of these studies noted that frequent replacement of civil servants in
+UK health departments resulted in a lack of ‘institutional memory’
+and the recycling of old but seemingly novel ideas, thus ‘‘creating
+the illusion that research is informing policy far more than it is’’
+[32].
+We found a number of studies which included some institutional
+analysis of bodies outside government departments of health which
+are tasked with facilitating evidence utilisation and knowledge
+brokering. A comparative study of nine Latin American and three
+European countries, for example, found that the use of evidence
+from economic evaluations for health policy decisions was
+increased in countries (such as the UK and Portugal) which had
+formally-mandated organisations to provide such evidence [54].
+Other studies reported that the existence of organisational and
+institutional structures for knowledge brokering and exchange can
+greatly facilitate the uptake of evidence [6,55–58].
+Works focussing on non-governmental evidence-providing
+bodies also pointed to how personal connections between
+knowledge brokers and decision makers can be an important
+factor increasing the uptake and use of evidence in both high-
+income [55] and developing countries [39,59]. One study,
+however, found that in three high income countries (US, UK,
+and the Netherlands) greater attention was paid to the reputation
+and professional legitimacy of institutions charged with the
+production or use of evidence, while in three middle-income
+countries (China, South Africa and Chile) it was personal
+relationships with experts that appeared essential [60]. Another
+comparative study in Bolivia, Cameroon, Mexico, and the
+Philippines found that the existence of a strongly motivated senior
+health official who championed evidence-informed concepts was
+essential in driving the policy process [61].
+The Political Nature of the Health Issue
+Our final theme of analysis was to explore other contextual
+factors that may influence and politicise the use of evidence in
+health policy making. A set of studies were identified that analysed
+how existing normative positions including: values and moral
+convictions [31,48,62–64], religious and cultural identity [65,66],
+or nationalism [46,67,68] can bias the selection or interpretation
+of evidence used for health policy development. One study showed
+how the understanding of evidence on the advantages of
+breastfeeding in the US may have been biased by highly
+entrenched values and beliefs around motherhood and infant
+rearing [64]. Another study in Ghana similarly noted that
+evidence on the health effects of procedures such as male
+circumcision were influenced by religious and cultural views
+[66]. Two further studies found that resistance to Western
+concepts of science, grounded in ideas of nationalism and cultural
+specificity, helped to explain why former South African president
+Mbeki rejected evidence on the causal link between HIV and
+AIDS [67,68].
+Several further studies noted how the alignment of health issues
+with existing political priorities in a country can affect the use of
+evidence. A study on health policy in China reported that research
+findings on the impact of health expenditure on rural poverty had
+a direct impact on policy because they reflected already existing
+concerns of policy-makers about economic growth and poverty
+reduction [39]. Further case studies from the UK [69,70], the US
+[71], Uganda [46], and a comparison of three African countries
+[72] also suggested that the objectives of the wider policy agenda
+may influence how and what evidence is used. Related to the
+above, 4 studies noted the importance of the discursive framing of
+evidence in shaping its use in policy debates [31,36,73,74]. One
+study, examining the policy debate on tobacco control in New
+Zealand, concluded that ’exceptional storytellers’ are needed to
+drive the process of policy making [36]. Another study illustrated
+that successful political uptake of evidence-based solutions may
+require ‘‘a shift in meaning of the idea or, at the very least, a more
+flexible construction of the idea’’ [33], especially if policy strategies
+overtly conflict with the dominant political ideology.
+An article from Canada further suggested that policy decisions
+about the content of an intervention may be more amenable to the
+influence of research than broader or more conceptual decisions
+with multiple social implications [75]. Another study from Israel
+made a similar distinction, finding that evidence is more likely to
+be used for ’second order’ decisions (how to do something), rather
+than for ‘first order’ decisions (whether to do it), although it found
+first order decision which were technical in nature were also likely
+to be informed by data [76].
+Several studies from lower-income settings noted that when a
+health issue is particularly important to international donors, this
+too can impact on the use of evidence, including the ways in which
+research is prioritised and conducted, and how findings are
+interpreted and used to inform policy decisions. Donors tended to
+promote interventions with strong evidence bases, but they do so
+in ways that may neglect local context, needs and capabilities
+[43,52,53,77,78].
+Finally, the tensions between national and international
+concerns and the influence of national as opposed to international
+evidence was also a theme that appeared in some included studies.
+A study from the Netherlands found that there was a growing
+reliance on international rather than national data, raising
+concerns over the relevance of such research to specific country
+needs, the ease of access to findings, and the perceived legitimacy
+by local policy makers [79]. However, a seven-country compar-
+ative study of vaccine adoption [80] and a health insurance study
+from China [39] both reported that the use of local data had a
+stronger impact on national policy process than evidence from
+international sources.
+Discussion
+This review arose from recognition of the importance of
+political factors in shaping the use of evidence to inform health
+policy processes, yet the limited explicit engagement with relevant
+theories in the literature on evidence-informed health policy. We
+structured our analysis around three analytical themes emerging
+from social and political sciences as explaining policy outcomes:
+the features of state political systems, the institutional structures
+and arrangements of bodies using evidence, and the politicisation
+of specific issues. A stand-out finding from our review was that
+little empirical work has been done explicitly analysing these
+Political Influences on the Use of Health Evidence
+PLOS ONE | www.plosone.org 5 October 2013 | Volume 8 | Issue 10 | e77404
+<<<PAGE=6>>>
+issues, with many included studies dealing with them only
+indirectly.
+The systematic review approach, however, enabled us to
+identify the political and institutional factors that have so far been
+identified in the existing literature as important in shaping the
+uptake of evidence for health policy making. These factors include
+concentration of power and political centralisation, levels of
+democratisation, institutional mechanisms and processes, turnover
+of staff in government bodies, the influence of donors and external
+organisations, the pressure of wider policy strategies and political
+cultures, as well as the alignment of evidence with predominant
+values or existing political agendas. Results also indicate that
+processes of evidence-based policy making often involve a complex
+interplay of these factors, both at the national and international
+level.
+Nevertheless, our understanding of these issues remains patchy
+and inconclusive. The selected studies do not constitute a clearly
+defined body of research, developed around shared debates,
+research questions or theoretical approaches. While many studies
+relied on theories of knowledge utilisation, these were generally
+applied to support and guide empirical work rather than using
+empirical works to test or refine specific theories. Most notably,
+despite the fundamentally political nature of decision making
+processes, the extensive literature on political institutions, and the
+highly contested nature of many health issues, very few works
+could be identified which explicitly applied policy science
+perspectives to understand the use of evidence in health policy
+making. As a result, the analysis of political and institutional
+influences was limited, with no significant consideration of key
+issues such as the influence of party systems, the relations between
+different branches of government, power imbalances and hierar-
+chies, and questions of political legitimacy.
+Furthermore, the highly contextual nature of the policy process
+points to the need for comparative case study analysis to facilitate
+theory development [81]. For example, comparative approaches
+would be particularly fruitful to test hypotheses about the effects of
+more or less centralised political or administrative systems on the
+use of evidence. A number of multi-country studies relevant to our
+issues of interest were included in our review, but we found no
+studies that explicitly tested hypotheses in such a way and only 5
+studies in which the use of a comparative approach was associated
+with a more explicit engagement with political and institutional
+analysis [33,43,66,78,82]. Similarly, we found only 4 studies that
+examined comparatively the effects of political and institutional
+change on evidence use practices within the same country
+[37,42,69,74].
+Finally, we conducted this literature review according to
+systematic, and therefore replicable, criteria for data collection
+and inclusion [83]. However, the application of these standards for
+analysis and data extraction was not always straightforward.
+Quality appraisal posed particular challenges, given the diversity
+of selected studies, the multitude of disciplinary approaches (with
+no standard of practice on methods or method reporting) and the
+lack of universal standards for the definition of ‘quality’ in
+qualitative research [84,85]. In light of this, we decided to include
+all empirical studies that met our inclusion criteria as long as they
+documented their data sources, including those in which methods
+of data analysis were not clear. We shall note that similar
+challenges have been raised in past discussions around the
+difficulties in identifying clear criteria by which qualitative
+research should be assessed in systematic reviews [86].
+Despite these limitations, our review contributes to improved
+recognition of the political dimension of health evidence utilisa-
+tion, and can thus stimulate critical thinking about current policy
+debates. In particular, the perceived need to ‘bridge the gap’
+between research and policy has encouraged the development of
+technical recommendations to facilitate research uptake; with the
+universal value of using the research often taken for granted. For
+example, some consensus has emerged in recent years about the
+benefits of closer interactions between researchers and policy-
+makers, from the early stages of research processes [4,87–89]. One
+study concluded that ‘‘effective use of evidence requires a move
+away from a simple characterisation of ‘two communities’ and a
+new view of research being generated jointly in partnership with
+researchers and decision-makers’’ [90]. As recent initiatives
+illustrate [5], such interactions have the potential to promote the
+generation of policy-relevant research in different contexts.
+However, such efforts typically overstate the ability of better
+linkages between researchers and policy makers to facilitate
+evidence use or overcome political contestation, as was docu-
+mented by an early evaluation of research utilisation at the UK
+Department of Health [22]. Given the high turnover of politicians
+and administrators in key decision making positions, training or
+linking of individuals may not produce sustained improvements in
+evidence use. Rather, establishment of institutional processes and
+procedures setting the standards for evidence use over time may be
+needed.
+Furthermore, our approach raises concerns about the public
+health community’s tendency to depoliticise the idea of evidence
+use, evaluating policy making processes simply by whether, how
+much, or how quickly pieces of evidence are taken up by policy
+makers. Such an approach can obscure the complexity of the
+policy making process in which policy makers must evaluate
+competing social outcomes and value systems in ways which are
+accountable to local populations. Simply calling for policy to be
+‘evidence based’ encourages decision makers to prioritise those
+issues where a large or more coherent body of evidence is available
+(such as for clinical treatments which have been evaluated in
+experimental trials) as opposed to more complex social and
+structural interventions to prevent ill health for which it is not so
+easy to identify direct causal mechanisms or gather evidence of
+immediate effect [16,91].
+Our review also suggests that an unreflective acceptance of
+over-simplified concepts of ‘evidence based policy’ is not
+conducive to good governance practices. For example, political
+pressures may encourage a selective use of evidence as a rhetorical
+device to support predetermined policy choices or ideological
+positions, or may delay decision-making on contentious issues
+while less contentious topics with clearer, uncontested evidence
+bases are followed. Such biases are likely to be amplified when
+there is a lack of institutional capacity or structures able to provide
+competent and independent scientific advice. However, empirical
+studies indicate that even institutional bodies that operate
+according to the most rigorous procedures may be vulnerable to
+distortions and/or the influence of interest groups [29,92]. Thus,
+more attention needs to be paid to the specific kinds of evidence
+used at different stages of the policy making process, and the ways
+in which different political and institutional drivers may contribute
+to more or less appropriate evidence utilisation.
+Conclusions
+This review identified a number of key issues at the interface of
+health policy, politics, and evidence use. With a greater awareness
+of the politics of evidence-informed health policy, more specific
+and explicit questions must be asked about the effects of different
+political factors impacting on evidence use in policy making and
+their interdependencies. What kind of institutional arrangements
+Political Influences on the Use of Health Evidence
+PLOS ONE | www.plosone.org 6 October 2013 | Volume 8 | Issue 10 | e77404
+<<<PAGE=7>>>
+are more likely to facilitate a ‘good’ use of evidence in different
+political contexts? Are decisions seen as more legitimate if evidence
+is used to inform decision-making? How can these be evaluated?
+What can be done to reduce the biased and opportunistic use of
+evidence for political ends? To what extent can evidence-based
+guidelines promote policy change across different political and
+institutional settings?
+Improved understanding of questions such as these requires the
+in-depth analysis of case studies of research uptake, with careful
+consideration of the institutional and organisational arrangements
+that may influence the selection and use of evidence. The work of
+Kogan and Henkel in the 1980s, for example, undertaking a seven
+year evaluation of the UK Department of Health’s use of evidence
+[22], has continued to inform discussions of evidence use today
+[23,93] as it is a rare example of in-depth empirical work on the
+subject. Similarly Carol Weiss’ pioneering work in the 1970s and
+80s on the multiple meanings of research utilisation [24,25]
+continues to set the basic conceptual framework for many
+contemporary studies looking at evidence uptake or knowledge
+transfer [94–96]. At the same time, however, exploring the
+complexity of the multi-dimensional links between research and
+policy making requires innovative thinking and an engagement
+with theories and approaches beyond the current remit of public
+health and knowledge utilisation studies. Relevant insights are
+likely to be drawn from fields such as political and institutional
+theory, public administration, political sociology, and science and
+technology studies. There is a rich body of comparative studies of
+science policy and environmental risk regulations, for example,
+which could provide useful methodological tools and theoretical
+insights to this task [97–99], but which have not yet been applied
+to current policy questions in public health. Comparative analysis
+of evidentiary practices would be particularly useful to discern
+patterns and regularities across different institutional and political
+environments. In turn, the analysis of such patterns would provide
+empirical foundations for a more theoretically informed under-
+standing of these issues. This will be a major research challenge,
+given the complexity of decision-making systems, and the
+important role of intervening variables in the wider socio-cultural
+contexts. Yet, it is a challenge worth taking up if we are to develop
+institutional structures and mechanisms that can work to ensure an
+effective and appropriate use of evidence in health policy and
+practice.
+Supporting Information
+Table S1 Data extraction form.
+(DOCX)
+Table S2 Characteristics of included studies.
+(DOCX)
+Text S1 Research protocol.
+(DOCX)
+Checklist S1 PRISMA checklist.
+(DOC)
+Acknowledgments
+We wish to thank Arturo Alvarez-Rosete and Stephanie Ettelt of the
+GRIP-Health programme research team for their valuable input. We also
+wish to thank John Lavis and Kaelan Moat for their useful comments at the
+early stage of this research project, and the reviewers for their careful
+examination of our manuscript.
+Author Contributions
+Conceived and designed the experiments: JP ML BH. Performed the
+experiments: ML BH. Analyzed the data: ML BH JP. Wrote the paper:
+ML JP BH.
+References
+1. Burke M, Matlin S (2008) Monitoring financial flows for health research.
+Geneva: Global Forum for Health Research.
+2. WHO (2004) World report on knowledge for better health. Geneva: World
+Health Organization.
+3. Hanney SR, Gonza´lez-Block MA, Buxton MJ, Kogan M (2003) The utilisation
+of health research in policy-making : concepts, examples and methods of
+assessment. Health Res Policy Syst 12.
+4. Mitton C, Adair CE, McKenzie E, Patten SB, Perry BW (2007) Knowledge
+transfer and exchange: review and synthesis of the literature. Milbank Q 85(4):
+729–768.
+5. Hanney SR, Gonza´lez-Block MA (2011) Yes, research can inform health policy;
+but can we bridge the ‘Do-Knowing It’s Been Done’ gap? Health Res Policy Syst
+9: 23.
+6. van Kammen J, de Savigny D, Sewankambo N (2006) Using knowledge
+brokering to promote evidence-based policy-making: the need for support
+structures. Bull World Health Organ 84(8): 608–612.
+7. Dobbins M, DeCorby K, Robeson P, Husson H, Tirilis D, et al. (2010) A
+knowledge management tool for public health: health-evidence.ca. BMC Public
+Health 10(1): 496.
+8. Lavis JN, Wilson MG, Oxman AD, Lewin S, Fretheim A (2009) SUPPORT
+Tools for evidence-informed health Policymaking (STP) 4: Using research
+evidence to clarify a problem. Health Res Policy Syst 7 Suppl 1: S4.
+9. Lavis JN (2009) How can we support the use of systematic reviews in
+policymaking? PLoS Med 6(11): e1000141.
+10. Humphreys K, Piot P (2012) Scientific evidence alone is not sufficient basis for
+health policy. BMJ 344e1316.
+11. Alliance for Health Policy and Systems Research (AHPSR) (2004) Strengthening
+health systems: The role and promise of policy and systems research. Geneva:
+Global Forum for Health Research. Available: http://www.who.int/alliance-
+hpsr/resources/Strengthening_complet.pdf. Accessed 2013 July 26.
+12. Rhodes RAW, Binder SA, Rockman BA (2008) The Oxford handbook of
+political institutions. Oxford: Oxford University Press.
+13. Peters G (1995) The politics of bureaucracy. New York: Longman.
+14. Peters G (2002) Politicians and bureaucrats in the politics of policy-making. In:
+Osborne SP, editor. Public management: Critical perspectives. London:
+Routledge. 156–182.
+15. Lasswell H (1990 [1936]) Politics: Who gets what, when, how. Gloucester: Peter
+Smith Publisher.
+16. Barnes A, Parkhurst J (2014) Can global health policy be depoliticised? A
+critique of global calls for evidence-based policy. In: Yamey G, Brown G,
+editors. Handbook of global health policy. Oxford: Wiley-Blackwell. In press.
+17. Innvaer S, Vist G, Trommald M, Oxman A (2002) Health policy-makers’
+perceptions of their use of evidence : a systematic review. J Health Serv Res
+Policy 7(4): 239–244.
+18. Boaz A, Baeza J, Fraser A (2011) Effective implementation of research into
+practice: an overview of systematic reviews of the health literature. BMC Res
+Notes 4: 212.
+19. Lavis J, Davies H, Oxman A, Denis JL, Golden-Biddle K, et al. (2005) Towards
+systematic reviews that inform health care management and policy-making.
+J Health Serv Res Policy 10 (Suppl 1): 35–48.
+20. Orton L, Lloyd-Williams F, Taylor-Robinson D, O’Flaherty M, Capewell S
+(2011) The use of research evidence in public health decision making processes:
+systematic review. PLoS One 6(7): e2170.
+21. Peters G (2005) Institutional theory in political science. London: Continuum.
+22. Kogan M, Henkel M (1983) Government and research: the Rotschild
+experiment in a government department. London: Heinemann.
+23. Kogan M, Henkel M, Hanney SR (2006) Government and research: thirty years
+of evolution. Dordrecht: Springer.
+24. Weiss C, editor (1977) Using social research in public policy making. Lexington,
+Mass: Lexington Books.
+25. Weiss C (1979) The many meanings of research utilization. Public Adm Rev
+39(5): 426–431.
+26. Starr M, Chalmers I, Clarke M, Oxman AD (2009) The origins, evolution, and
+future of The Cochrane Database of Systematic Reviews. Int J Technol Assess
+Health Care (Suppl 1): 182–195.
+27. Popay J, Roberts H, Sowden A, Petticrew M, Arai L, et al. (2006) Guidance on
+the conduct of narrative synthesis in systematic reviews. London: Institute for
+Health Research.
+28. Abeysinghe S (2012) ‘Because we all know that vaccines are an extremely
+effective public health tool’: path dependency, H1N1 and the World Health
+Organization. Policy Studies 33(5): 37–41.
+Political Influences on the Use of Health Evidence
+PLOS ONE | www.plosone.org 7 October 2013 | Volume 8 | Issue 10 | e77404
+<<<PAGE=8>>>
+29. Beck M, Asenova D, Dickson G (2005) Public administration, science, and risk
+assessment: a case study of the U.K. bovine spongiform encephalopathy crisis.
+Public Adm Rev 65(4): 396–408.
+30. Klein R (1990) Research, policy, and the National Health Service. J Health Polit
+Policy Law 15(3): 501–523.
+31. Parkhurst J (2012) Framing, ideology and evidence: Uganda’s HIV success and
+the development of PEPFAR’s ‘‘ABC’’ policy of HIV prevention. Evid Policy
+81(1): 17–36.
+32. Smith K (2012) Institutional filters : the translation and re- circulation of ideas
+about health inequalities within policy. Policy & Politics 41(1): 81–100.
+33. Smith KE (2007) Health inequalities in Scotland and England: the contrasting
+journeys of ideas from research into policy. Soc Sci Med 64(7): 1438–1449.
+34. Haas M, Ashton T, Blum K, Christiansen T, Conis E, et al. (2009) Drugs, sex,
+money and power: an HPV vaccine case study. Health Policy 92(2–3): 288–295.
+35. Mubyazi GM, Gonzalez-Block MA (2005) Research influence on antimalarial
+drug policy change in Tanzania: case study of replacing chloroquine with
+sulfadoxine-pyrimethamine as the first-line drug. Malar J 4: 51.
+36. Thomson G, Wilson N, Howden-Chapman P (2007) The use and misuse of
+health research by parliamentary politicians during the development of a
+national smokefree law. Aust New Zealand Health Policy 4(24).
+37. Trostle J, Bronfman M, Langer A (1999) How do researchers influence decision-
+makers? Case studies of Mexican policies. Health Policy Plan 14(2): 103–114.
+38. Tomson G, Paphassarang C, Jo¨nsson K, Houamboun K, Akkhavong K, et al.
+(2005) Decision-makers and the usefulness of research evidence in policy
+implementation–a case study from Lao PDR. Soc Sci Med 61(6): 1291–1299.
+39. Liu YL, Rao K (2006) Providing health insurance in rural China: from research
+to policy. J Health Polit Policy Law 31(1): 71–92.
+40. Daniels K, Lewin S (2008) Translating research into maternal health care policy:
+a qualitative case study of the use of evidence in policies for the treatment of
+eclampsia and pre-eclampsia in South Africa. Health Res Policy Syst 6(12).
+41. Moodley J, Jacobs M (2000) Combating vitamin A deficiencies in South Africa.
+Lessons in research to action and policy: case studies from seven countries.
+Geneva: The Council on Health Research for Development.
+42. Salvatella R, Muzio F, Sa´nchez D (2000) Chagar disease and foot and mouth
+disease eradication in Uruguay. Lessons in research to action and policy: case
+studies from seven countries. Geneva: The Council on Health Research for
+Development.
+43. Sumner A, Harpham T (2008) The market for ‘evidence’ in policy processes: the
+case of child health policy in Andhra Pradesh, India and Viet Nam. The
+European Journal of Development Research 20(4): 712–732.
+44. Jill GE, Gordon EJ (2006) The political contexts of evidence-based medicine:
+policymaking for daily hemodialysis. Soc Sci Med 62(11): 2707–2719.
+45. Bowen S (2009) Killer facts, politics, and other influences: what evidence
+triggered early childhood intervention policies in Australia? Evid Policy 5(1): 5–
+32.
+46. Broadbent E (2012) Research-based evidence in African policy debates.
+Evidence-Based Policy in Development Network.
+47. Hughes CE (2007) Evidence-based policy or policy-based evidence? The role of
+evidence in the development and implementation of the Illicit Drug Diversion
+Initiative. Drug Alcohol Rev 26: 363–368.
+48. Saguy AC, Riley KW (2005) Weighing both sides: morality, mortality, and
+framing contests over obesity. J Health Polit Policy Law 30(5): 869–921.
+49. Flitcroft KL, Gillespie JA, Salkeld G, Carter S, Trevena L (2011) Getting
+evidence into policy: the need for deliberative strategies? Soc Sci Med 72(7):
+1039–1046.
+50. Haynes AS, Gillespie JA, Derrick GE, Hall WD, Redman S, et al. (2011)
+Galvanizers, guides, champions, and shields: the many ways that policymakers
+use public health researchers. Milbank Q 89(4): 564–598.
+51. Flitcroft KL, Gillespie JA, Carter SM, Trevena LJ, Salkeld GP (2011) When
+good evidence is not enough: the role of context in bowel cancer screening policy
+in New Zealand. Evid Policy 7(3): 307–326.
+52. Edstro¨m J, Roberts J, Sumner A, Chamreun CS (2008) Policy process for
+children and AIDS in Cambodia. IDS Bulletin 39: 71–79.
+53. Hunsmann M (2012) Limits to evidence-based health policymaking: Policy
+hurdles to structural HIV prevention in Tanzania. Soc Sci Med 74(10): 1477–
+1485.
+54. Iglesias CP, Drummond MF, Rovira J (2005) Health-care decision-making
+processes in Latin America: problems and prospects for the use of economic
+evaluation. Int J Technol Assess Health Care 21: 1–14.
+55. Bekker M, van Egmond S, Wehrens R, Putters K, Bal R (2010) Linking research
+and policy in Dutch healthcare: infrastructure, innovations and impacts. Evid
+Policy 6(2): 237–253.
+56. Hamel N, Schrecker T (2011) Unpacking capacity to utilize research: A tale of
+the Burkina Faso public health association. Soc Sci Med 72(1): 31–38.
+57. Orem JN, Mafigiri DK, Marchal B, Ssengooba F, Macq J, et al. (2012)
+Research, evidence and policymaking: the perspectives of policy actors on
+improving uptake of evidence in health policy development and implementation
+in Uganda. BMC Public Health 12: 109.
+58. Uneke CJ, Ezeoha AE, Ndukwe CD, Onwe F, Igbinedion EB, et al. (2011)
+Individual and organisational capacity for evidence use in policy making in
+Nigeria: an exploratory study of the perceptions of Nigeria health policy makers.
+Evid Policy 7(3): 251–276.
+59. Ensor T, Clapham S, Prasai DP (2009) What drives health policy formulation:
+insights from the Nepal maternity incentive scheme? Health Policy 90(2–3): 247–
+253.
+60. Pittman PM (2006) Beyond the sound of one hand clapping: experiences in six
+countries using health equity research in policy. J Health Polit Policy Law 31(1):
+33–49.
+61. Pappaioanou M, Malison M, Wilkins K, Otto B, Goodman RA, et al. (2003)
+Strengthening capacity in developing countries for evidence-based public health:
+the data for decision-making project. Soc Sci Med 57(10): 1925–1937.
+62. Goede Jd, Putters K, Oers Hv, de Goede J, van Oers H (2012) Utilization of
+epidemiological research for the development of local public health policy in
+The Netherlands: a case study approach. Soc Sci Med 74(5): 707–714.
+63. Waddell C, Lavis JN, Abelson J, Lomas J, Shepherd CA, et al. (2005) Research
+use in children’s mental health policy in Canada: maintaining vigilance amid
+ambiguity. Soc Sci Med 61(8): 1649–1657.
+64. Wolf JB (2007) Is breast really best? Risk and total motherhood in the national
+breastfeeding awareness campaign. J Health Polit Policy Law 32(4): 595–636.
+65. De Vries R, Lemmens T (2006) The social and cultural shaping of medical
+evidence: case studies from pharmaceutical research and obstetric science. Soc
+Sci Med 62(11): 2694–2706.
+66. Tulloch O, Mayaud P, Adu-Sarkodie Y, Opoku BK, Lithur NO, et al. (2011)
+Using research to influence sexual and reproductive health practice and
+implementation in Sub-Saharan Africa: a case-study analysis. Health Res Policy
+Syst (Suppl 1): S10.
+67. Nattrass N (2008) AIDS and the scientific governance of medicine in post-
+apartheid South Africa. Afr Aff 107(427): 157–176.
+68. Schneider H (2002) On the fault-line : the politics of AIDS policy in
+contemporary South Africa. Afr Stud 61(1): 145–167.
+69. Berridge V, Thom B (1996) Research and policy: what determines the
+relationship? Policy Studies 17(1): 23–34.
+70. Wilson P, Sheldon TA (2006) Muddy waters: evidence-based policy making,
+uncertainty and the ‘York review’ on water fluoridation. Evid Policy 2(3): 321–
+331.
+71. Jewell CJ, Bero LA (2008) ‘‘Developing good taste in evidence’’: facilitators of
+and hindrances to evidence-informed health policymaking in state government.
+Milbank Q 86(2): 177–208.
+72. Hutchinson E, Parkhurst OJ, Phiri S, Gibb DM, Chishinga N, et al. (2011)
+National policy development for cotrimoxazole prophylaxis in Malawi, Uganda
+and Zambia: the relationship between Context, Evidence and Links. Health Res
+Policy Syst (Suppl 1): S6.
+73. Northington Gamble V, Stone D (2006) U.S. policy on health inequalities: the
+interplay of politics and research. J Health Polit Policy Law 31(1): 93–126.
+74. Wimbush E, Harper H, Wight D, Gruer L, Lowther M, et al. (2005) Evidence,
+policy and practice: developing collaborative approaches in Scotland. Evid
+Policy 1(3): 391–407.
+75. Lavis JN, Ross SE, Hurley JE, Hohenadel JM, Stoddart GL, et al. (2002)
+Examining the role of health services research in public policymaking.
+Milbank Q 80(1): 125–154.
+76. Schwartz R, Rosen B, Bruce R, Robert S (2004) The politics of evidence-based
+health policy-making. Public Money & Management 24(2): 121–127.
+77. Behague D, Tawiah C, Rosato M, Some T, Morrison J (2009) Evidence-based
+policy-making: the implications of globally-applicable research for context-
+specific problem-solving in developing countries. Soc Sci Med 69(10): 1539–
+1546.
+78. Court J (2005) Bridging research and policy on HIV/AIDS in developing
+countries. London: Overseas Development Institute.
+79. Blume S, Tump J (2010) Evidence and policymaking: The introduction of MMR
+vaccine in the Netherlands. Soc Sci Med 71(6): 1049–1055.
+80. Burchett HE, Mounier-Jack S, Griffiths UK, Biellik R, Ongolo-Zogo P, et al.
+(2012) New vaccine adoption: qualitative study of national decision-making
+processes in seven low- and middle-income countries. Health Policy Plan 27
+(Suppl 2): ii5–ii16.
+81. Jasanoff S (2007) Designs on nature: Science and democracy in Europe and the
+United States. Princeton, NJ: Princeton University Press.
+82. Rennert G (2003) Political interpretation of scientific evidence–case study of
+breast cancer screening policies around the world. Recent Results Cancer Res
+163: 140–148.
+83. Liberati A, Altman DG, Tetzlaff J, Mulron C, Gotzsche PC, et al. (2009) The
+PRISMA statement for reporting systematic reviews and meta-analyses of studies
+that evaluate health care interventions: explanation and elaboration. PLoS Med
+6(7): e1000100.
+84. Hammersley M (2007) The issue of quality in qualitative research. Int J Res
+Meth Educ 30(3): 287–305.
+85. Reynolds J, Kizito J, Ezumah N, Mangesho P, Allen E, et al. (2011) Quality
+assurance of qualitative research: a review of the discourse. Health Res Policy
+Syst 9: 43.
+86. Dixon-Woods M, Bonas S, Booth A, Jones DR, Miller T, et al. (2006) How can
+systematic reviews incorporate qualitative research? A critical perspective.
+Qualitative Research 6(1): 27–44.
+87. Hennink M, Stephenson R (2005) Using research to inform health policy:
+barriers and strategies in developing countries. J Health Commun 10(2): 163–
+180.
+Political Influences on the Use of Health Evidence
+PLOS ONE | www.plosone.org 8 October 2013 | Volume 8 | Issue 10 | e77404
+<<<PAGE=9>>>
+88. Landry R, Lamari M, Amara N (2003) The extent and determiniants of the
+utilization of university research in government agencies. Public Adm Rev 63(2):
+192–205.
+89. Theobald S, Taegtmeyer M, Squire SB, Crichton J, Simwaka BN, et al. (2009)
+Towards building equitable health systems in Sub-Saharan Africa: lessons from
+case studies on operational research. Health Res Policy Syst 7: 26.
+90. Allen P, Peckham S, Anderson S, Goodwin N (2007) Commissioning research
+that is used: the experience of the NHS service delivery and organisation
+research and development programme. Evid Policy 3(1): 119–134.
+91. Victora CG, Habicht JP, Bryce J (2004) Evidence-based public health: moving
+beyond randomized trials. Am J Public Health 94(3): 400–405.
+92. Milewa T, Barry C (2005) Health policy and the politics of evidence. Soc Policy
+Adm 39(5): 498–512.
+93. Hanney S, Gonzalez-Block M (2009) Evidence-informed health policy: are we
+beginning to get there at last? Health Res Policy Syst 7: 30.
+94. Davison C, Health NCCfDo (2013) Critical examination of knowledge to action
+models and implications for promoting health equity. Antigonish, Nova Scotia:
+Canadian National Collaborating Centre for Determinants of Health. St Francis
+Xavier University.
+95. Monaghan M (2011) Evidence versus politics: exploiting research in the UK
+drug policy making. Portland, OR: The Policy Press.
+96. Ottoson J (2009) Knowledge-for-action theories in evaluation: knowledge
+utilization, diffusion, implementation, transfer, and translation. New Directions
+for Evaluation 2009 (124): 7–20.
+97. Brickman R, Jasanoff S, Ilgen T (1985) Controlling chemicals: the politics of
+regulation in Europe and the United States. Ithaca: Cornell University Press.
+98. Jasanoff S (1986) Risk Management and Political Culture. New York: Rusell
+Sage Foundation.
+99. Vogel D (1986) National styles of regulation: environmental policy in Great
+Britain and the United States. Ithaca, NY: Cornell University Press.
+Political Influences on the Use of Health Evidence
+PLOS ONE | www.plosone.org 9 October 2013 | Volume 8 | Issue 10 | e77404

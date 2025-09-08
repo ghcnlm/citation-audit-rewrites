@@ -1,0 +1,36 @@
+CLAIM: 
+{{ claim_text }}
+
+CITATION CONTEXT:
+- Citation text: {{ citation_text }}
+- Type: {{ citation_type }}{% if is_secondary %} (secondary){% endif %}
+{% if primary_mentioned_author %}- Primary source mentioned: {{ primary_mentioned_author }} ({{ primary_mentioned_year }}){% endif %}
+{% if stated_page %}- Stated page (may be wrong): {{ stated_page }}{% endif %}
+
+CITED SOURCE:
+- {{ source_author }} ({{ source_year }})
+- {{ source_pdf_path }}
+
+SOURCE EXCERPTS:
+{% for ex in evidence %}
+[pp. {{ ex.page_range }}] {{ ex.text }}
+{% endfor %}
+
+TASK:
+You are adjudicating whether the CLAIM is supported by the CITED SOURCE excerpts.
+
+Label one: EXACT_QUOTE_PASS | FAITHFUL_PARAPHRASE_PASS | AMBIGUOUS_REVIEW | UNSUPPORTED_FAIL.
+Explain briefly and cite exact pages in evidence_span.
+
+OUTPUT FORMAT (STRICT):
+Return a single JSON object with EXACTLY these keys and constraints:
+- verdict: one of ["EXACT_QUOTE_PASS","FAITHFUL_PARAPHRASE_PASS","AMBIGUOUS_REVIEW","UNSUPPORTED_FAIL"].
+- rationale: 1–3 sentences explaining the verdict.
+- evidence_span: short quote or page range(s) supporting your verdict.
+- required_fix: a short, actionable correction for the review author. If no change is needed (for PASS), return the literal string "none".
+- risk_flags: an array of strings. Include any that apply; otherwise return [].
+  Suggested flags: ["secondary_citation","page_mismatch","pdf_missing","ambiguous_citation","insufficient_evidence","quote_mismatch","out_of_scope"].
+
+IMPORTANT:
+- Output JSON ONLY. No prose, no markdown, no backticks.
+- Do not include any extra keys beyond those listed.

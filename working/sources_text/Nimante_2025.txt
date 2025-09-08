@@ -1,0 +1,1287 @@
+<<<PAGE=1>>>
+Academic Editor: Xinqiao Liu
+Received: 25 November 2024
+Revised: 9 January 2025
+Accepted: 12 January 2025
+Published: 16 January 2025
+Citation: N¯ımante, D., Kokare, M.,
+Baranova, S., & Surikova, S. (2025).
+Transferring Results of Professional
+Development into Practice: A Scoping
+Review. Education Sciences, 15(1), 95.
+https://doi.org/10.3390/educsci
+15010095
+Copyright: © 2025 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license
+(https://creativecommons.org/
+licenses/by/4.0/).
+Review
+Transferring Results of Professional Development into Practice:
+A Scoping Review
+Dita N¯ımante 1
+ , Maija Kokare 2
+ , Sanita Baranova 1, *
+ and Svetlana Surikova 2
+1 Faculty of Education Sciences and Psychology, University of Latvia, LV-1083 R¯ıga, Latvia; dita.nimante@lu.lv
+2 Scientific Institute of Pedagogy, Faculty of Education Sciences and Psychology, University of Latvia,
+LV-1083 R¯ıga, Latvia; maija.kokare@lu.lv (M.K.); svetlana.surikova@lu.lv (S.S.)
+* Correspondence: sanita.baranova@lu.lv
+Abstract: The paper aims to map available evidence regarding the transfer of learning
+from professional development (PD) into practice. The scoping review is based on an
+analysis of the key characteristics of effective PD, drawing from 60 meta-analyses and
+various types of reviews (e.g., systematic, integrative, etc.) regarding PD both in general
+and in various professional fields published from 2009 to 2024. Three research questions
+are put forward: What characterises effective PD? Which theoretical concepts in the scien-
+tific literature represent the transfer of adult PD into practice? And what processes and
+indicators show effective ways of transferring PD and learning outcomes into practice?
+The methodology of the review is organised into three steps—preliminary study, the main
+study, and conceptualisation—by selecting publications and deriving concepts and conclu-
+sions relevant to the research questions, as well as identifying knowledge gaps for further
+exploration. The research literature uses various concepts to characterise the transfer of PD
+into practice as it is determined by different contexts, research traditions, and practices. Al-
+though effective PD has been defined and several theoretical models have been developed,
+research on PD effectiveness indicators and processes related to the transfer of PD into
+practice is still ongoing. However, not all evaluations take these models as bases to evaluate
+the existing PD practices, so the different indicators proposed by different researchers make
+it difficult to compare the results. The main problem is insufficient evidence in terms of
+measurable and comparable effectiveness criteria in all fields. The scoping review reveals
+a variety of controversial or incompletely researched aspects of transferring PD results
+into practice.
+Keywords: professional development; professional learning; continuing professional
+development; transferring to practice; gap in knowledge
+1. Introduction
+Professional development (PD) is crucial for both employees and employers. It en-
+hances skills, competitiveness, and a commitment to lifelong learning. Studies have shown
+that employees who engage in upskilling or training are more likely to retain their jobs
+(Shiri et al., 2023).
+Despite significant investments in employee training, a persistent challenge is the
+low transfer of PD into actual workplace practices. While extensive research has explored
+effective PD design, particularly for teachers and healthcare professionals (e.g., Sims
+et al., 2023; Basma & Savage, 2023; Darling-Hammond et al., 2017; Guskey, 2003; Dunst
+et al., 2015), a universally accepted framework for effective adult PD across all fields
+remains elusive.
+Educ. Sci. 2025, 15, 95 https://doi.org/10.3390/educsci15010095
+<<<PAGE=2>>>
+Educ. Sci. 2025, 15, 95 2 of 22
+Furthermore, although the rapid evolution of PD implementation strategies, driven
+by advancements in online learning as a result of the pandemic and blended learning, has
+created new challenges in PD, most research remains focused on transmissive PD models
+(Kennedy & Stevenson, 2023). This limits our understanding of how to effectively evaluate
+the impact of contemporary PD approaches.
+Therefore, understanding PD and transferring the results of PD into practice by iden-
+tifying both current research directions and limitations in new contemporary situations
+would help both researchers and practitioners to develop further the field of PD. So far,
+most of the research is about teachers and health workers and less about other professions;
+thus, we focus on all fields in our scoping review. This paper investigates both the con-
+ceptualisation of PD and identifies the measurable results (processes and indicators) in
+terms of PD outcomes and effects (e.g., Dunst et al., 2015). Thus, our study aims to map
+the available evidence regarding the transfer of learning from PD into practice. Based on a
+literature review, we aim to identify gaps in knowledge for further research by exploring
+three research questions: What characterises effective PD? Which theoretical concepts in
+the scientific literature represent the transfer of adult PD into practice? And what processes
+and indicators show effective ways of transferring PD and learning outcomes into practice?
+2. Method
+The current study focuses on published research regarding the transfer of PD results
+into practice. The scoping review draws on qualitative research of systematic reviews,
+meta-analyses, critical reviews, etc. (for the period 2009–2024). We chose a scoping review
+(Arksey & O’Malley, 2005; Munn et al., 2018) with the purpose of reviewing the existing
+theoretical literature to identify knowledge gaps and scope a body of literature, as well as
+to map the concepts of effective PD. We proceeded with our research in three steps:
+1. Preliminary study: a team of eight researchers decided on inclusion/exclusion criteria,
+searching strategies and sources, and publications selected for analysis and identified
+relevant articles to answer the research questions (Levac et al., 2010).
+2. The main study: the authors analysed articles in detail to reveal the diversity
+and problematics of the perspectives reflected in the studies regarding the three
+research questions.
+3. Conceptualisation: the authors identified knowledge gaps and summarised knowl-
+edge for further analyses.
+When searching for articles, the keywords were derived from the following research
+questions: professional development OR professional learning OR further education OR
+continuing education OR continuing professional development OR in-service training
+OR professional growth OR professional empowerment OR professional upskilling AND
+effective OR effectiveness OR effect OR impact OR influence AND transfer OR transfer of
+training OR training transfer OR transfer of learning OR learning transfer OR transfer into
+practice OR transfer of results AND systematic review OR systematic literature review OR
+systematic synthesis OR meta-analysis.
+In order to not expand the scope of research, we did not focus our searching strategies
+on the concepts of organisational learning and workplace learning, although contextually
+these are important aspects for the transfer of PD results into practice. Finally, inclusion
+and exclusion criteria were applied to the scoping review (see Table 1) to focus on the whole
+picture. This is an essential step both for determining the directions of future research and
+for limiting the number of studies relevant to the research questions.
+<<<PAGE=3>>>
+Educ. Sci. 2025, 15, 95 3 of 22
+Table 1. Inclusion and exclusion criteria for the scoping review.
+Aspect Inclusion Criteria Exclusion Criteria
+Source
+Web of Science, Scopus, ERIC, EBSCO, Sage Journals,
+SpringerLink Contemporary Journals, Wiley Online
+Library, Taylor & Francis Library, ScienceDirect,
+MDPI, Emerald eJournals Premier
+other resources
+Language English or German other languages
+Publication year 2004–2024 before 2004
+Publication type journal articles, research reports books, chapters, conference
+proceedings
+Research type
+meta-analyses and various types of reviews (e.g.,
+systematic review, integrative review, rapid synthesis
+review, scoping review, mapping review, etc.)
+other
+Target group (field) employed adults, professionals unemployed adults
+Full-text paper available yes no
+Protocol PRISMA or other relevant protocol is used PRISMA or other relevant
+protocol is not used
+Answered RQ1–3 yes no
+In total, 151 articles were selected by the team of eight researchers for further analysis
+after searching publication titles, keywords, and abstracts in 11 databases (EBSCO, Emerald
+eJournals Premier, ERIC, MDPI, ScienceDirect, Sage Journals, Web of Science, Scopus,
+SpringerLink Contemporary Journals, Taylor & Francis Library, Wiley Online Library).
+In the second research phase, 60 articles that fully responded to the inclusion criteria
+(Supplementary Materials) were identified by searching the full text. It was found that
+62% of the selected articles were targeted to teacher PD, 25% to the growth of healthcare
+professionals, and 13% to developing PD in general or in other professions.
+Of the articles selected for detailed analysis, 52 articles include answers to RQ1 (“What
+characterises effective PD?”), 39 to RQ2 (“Which theoretical concepts in the scientific litera-
+ture represent the transfer of adult PD into practice?”), and 41 to RQ3 (“What processes and
+indicators show effective ways of transferring PD and learning outcomes into practice?”).
+For a detailed summary, including the author(s), publication year, source (database),
+research type, target group (field), number of studies included in the research, period
+of publication, research design and location, and contribution(s) to the current study in
+addressing the three research questions, please refer to Supplementary Materials.
+3. Results
+3.1. RQ1: What Characterises Effective PD?
+The concept of PD and its effectiveness has been widely discussed over the last
+two decades, providing many widely recognised reviews, systematic analyses, and meta-
+analyses regarding the PD of teachers (e.g., Basma & Savage, 2018, 2023; Kyndt et al.,
+2016; Sims et al., 2021, 2023; etc.), as well as some for healthcare professionals (e.g., Allen
+et al., 2019; Main & Anderson, 2023; Firmstone et al., 2013; Hill et al., 2009, etc.) and other
+professionals (Shahzad et al., 2023a, 2023b; Wong et al., 2018; Pargmann et al., 2023; Fogaça
+et al., 2024). Nevertheless, the concept’s complexity and methodological ambiguity lead to
+a lack of clarity and cannot be generalised and applied to various and changing contexts.
+It must be acknowledged that the “ambition to identify general features of effective
+professional development is also problematic” (Asterhan & Lefstein, 2024, p. 11), even
+<<<PAGE=4>>>
+Educ. Sci. 2025, 15, 95 4 of 22
+in educational settings. As “we absolutely know how to change what teachers know
+and do” (Desimone, 2023, p. 2), the main problem is related to the hardly measurable
+and comparable impact of teacher PD on student learning and the transfer of learning
+into more general settings. Similar conclusions have been made in the field of healthcare,
+reporting great heterogeneity with no common features regarding duration, frequency,
+or method of intervention (Hill et al., 2009) as well as the impact of PD: “In order to
+capture the broad range of impacts of CPD, including those that are unanticipated, a more
+broadly encompassing definition of impacts that goes beyond knowledge, attitude, and
+behaviour change and incorporates the full range of potential impacts of CPD programmes,
+is required” (Allen et al., 2019, p. 1097).
+Although most authors define PD as formally organised activities for improved perfor-
+mance, though without hard evidence, many reviews focus on the concepts of the learning
+community, workplace learning, coaching, and mentoring as a part of PD (Hughes et al.,
+2020; Wang et al., 2022; Salmerón Aroca et al., 2023), particularly that of teachers (Kyndt
+et al., 2016; Yang et al., 2022; Filderman et al., 2022) and healthcare professionals (Campbell
+et al., 2019). These reviews emphasise informal learning as an important but hardly mea-
+surable and contradictory aspect of professional learning and development (for instance,
+Basma and Savage (2023) did not find significant results related to coaching in their review).
+Notably, no large-scale studies for workplace learning effectiveness have been identified
+(Ventista & Brown, 2023).
+This is why three critical considerations related to the use of the concept of PD are
+chosen as the reference points for analysis:
+1. Measurability and the problem of evidence;
+2. The incomparable effects of formal, informal, and workplace learning;
+3. The transformative potential of professional learning.
+Effective PD is characterised in 52 publications as follows:
+• Desimone’s conceptual framework (Desimone, 2009; so-called ‘consensus view’) for
+‘high-quality’ teachers’ PD, which is characterised by ‘core features’: content focus,
+active learning, coherence (relevance), duration, and collective participation (Didion
+et al., 2020; Donath et al., 2023; Filderman et al., 2022; Parkhouse et al., 2019; Willems
+& Van den Bossche, 2019);
+• Desimone’s revised framework (Desimone, 2023), emphasising individual PD pro-
+cesses and the role of leadership, and the expanded framework, which adds other
+relevant concepts—the process of teacher change (Guskey, 2002) and wider organisa-
+tional contexts (Philipsen et al., 2019);
+• Design elements of teachers’ PD programmes (Darling-Hammond et al., 2017)—
+content focus, use of models and modelling, active learning, collaboration, coaching
+and expert support, feedback, reflection, and sustained duration (Boz, 2023; Lo, 2021;
+Surahman & Wang, 2023);
+• Teachers’ motivation, attitude, commitment, and self-efficacy (Johari et al., 2022);
+• Content, process and structure, collective engagement, goal alignment, and ongoing
+and sustainable support (Huang et al., 2022);
+• Kirkpatrick’s (1959) general and teacher-specific models, which evaluate PD pro-
+grammes on four different levels: reaction, participant’s learning, changes in learner’s
+behaviour, and the programme’s impact on objectives (Ahadi et al., 2024; Ayeleke
+et al., 2019; Campbell et al., 2019; Firmstone et al., 2013; Hill et al., 2009; Pagnucci et al.,
+2023; Petersen et al., 2024; Phillips et al., 2019), and Guskey’s (2000) model, an adapted
+version for educational settings;
+• Moore’s expanded outcomes framework (Moore et al., 2009)—participation, satisfac-
+tion, learning (declarative and procedural knowledge), competence, performance,
+<<<PAGE=5>>>
+Educ. Sci. 2025, 15, 95 5 of 22
+patient health, and community health—for continuing medical education (Williams
+et al., 2023);
+• The IMTP model—insight, motivation, techniques, and practice (Sims et al., 2021, 2023).
+Effective PD for teachers is summarised in 35 selected publications for different
+contexts (for STEM teachers—Boz, 2023; Huang et al., 2022; Lo, 2021; for reading
+achievement—Didion et al., 2020; Basma & Savage, 2023; for inclusive education—Donath
+et al., 2023; Ahmed et al., 2022; for novice teachers—Hirsch et al., 2021; for early childhood
+and care—Jensen & Rasmussen, 2019; Obee et al., 2023; Peleman et al., 2018; for mathe-
+matics teachers—Johari et al., 2022; for science teachers—Kowalski et al., 2020; for science
+teachers’ online learning—Li et al., 2023). Nevertheless, it is acknowledged that the solid
+theoretical foundations for ‘PD features’ are not supported by direct evidence (for instance,
+Kowalski et al., 2020; Sims et al., 2021, 2023). Moreover, it is argued (Asterhan & Lefstein,
+2024) that researchers, by relying on an assumed consensus, do not test and search for solid
+evidence of PD’s effectiveness but instead are looking for correspondence between PD
+processes and consensus view statements.
+Overall, different aspects of PD effectiveness are studied depending on what the
+result is considered to be—for teacher PD, this may be improved students’ or teachers’
+performance. Some studies (e.g., Basma & Savage, 2023; Sims et al., 2021, 2023; Didion et al.,
+2020; Kahmann et al., 2022; Kowalski et al., 2020; Zhou et al., 2022) employ the link between
+teachers and students’ performance (described by Kennedy, 2016; Darling-Hammond et al.,
+2017; Desimone, 2009; etc.), assuming (but not always empirically justifying) that if the
+performance of teachers resulting from increased knowledge, understanding, and mastery
+improves, students’ learning and results will also improve (noted by Dunst et al., 2015).
+Similar conclusions emerge from research in the health sector; for instance, “while there is
+good evidence that continuous PD is effective in increasing practitioner knowledge, there
+is less evidence that it changes clinical practice” (Main & Anderson, 2023, p. 2).
+Most PD in the reviews is related to PD programmes, searching for the best ways to
+characterise their effectiveness. There are two main perspectives regarding the effectiveness
+of PD programmes (Li et al., 2023):
+1. Evaluate the impact of PD programmes based on participants’ performance, measur-
+ing the learning outcomes represented as improved practice.
+2. Evaluate the effectiveness of PD programmes, collecting participants’ personal reviews
+(subjective evaluation).
+In this respect, Asterhan and Lefstein (2024) refer to recent research and argue that
+teachers’ self-reported gains in PD do not correlate with subsequent direct assessments
+of teacher knowledge. Nevertheless, Donath et al.’s (2023) meta-analysis revealed no
+difference between self-rated knowledge and knowledge assessed using tests. Higher
+effects of PD demonstrated for programmes connected to a specific subject domain may be
+related to the notion that measurements of student outcomes are mostly subject-oriented
+(Kahmann et al., 2022); therefore, more general effects could not be measured at all.
+Some authors conclude that secondary school teachers are offered more formal PD,
+but primary school teachers are more often engaged in learning communities, receiving
+less formal PD (Ventista & Brown, 2023). Although the majority of the research is focused
+on formal PD, it has also been noted that formal and informal PD are unjustifiably di-
+chotomised; these forms of learning are marginal states, but the reality is in between—i.e.,
+continuous and undifferentiated (Kyndt et al., 2016). It is diverse support for practicing
+what has been learnt (perhaps also informally, but certainly contextually and dependent on
+the organisation’s learning culture) that constitutes sustainable PD practice.
+Criticising the insufficiently developed methodology of previous studies (Sims &
+Fletcher-Wood, 2021), a group of researchers (Sims et al., 2021, 2023) has developed a
+<<<PAGE=6>>>
+Educ. Sci. 2025, 15, 95 6 of 22
+new theory for guiding teachers’ effective PD—the IGTP (Sims et al., 2021) or IMTP (Sims
+et al., 2023) model. In this theory, effective PD is defined as “the ability to improve
+teaching, as reflected in pupil test scores” (Sims et al., 2023, p. 3). While being limited
+in a variety of PD outcomes, this narrow perspective on PD offers testable indicators for
+measuring effectiveness in order to explain the impact of PD designs on teaching and
+learning. A set of causally active 14 mechanisms developed by the analogical abduction
+of the broader literature is used to operationalise the four constitutive parts (‘things’) of
+effective PD—insight, motivation, techniques, and practice—derived by analysing failings
+in teachers’ PD described in previous studies.
+Systematic reviews empirically justify the model’s usefulness and examine two hy-
+potheses regarding the impact of PD programmes, concluding that the “number of mecha-
+nisms incorporated in a PD programme is associated with greater impact of the PD on test
+scores” and “balanced PD programs do have higher average effect sizes than imbalanced
+PD programs” (Sims et al., 2023, pp. 23, 26). The IMTP model provides a granular, flexible
+approach for PD designers “in order to develop teacher insights, motivate change, develop
+techniques, and embed these in practice” (Sims et al., 2023, p. 28).
+Acknowledging that evidence about the impact of continuing PD (CPD) on patient
+outcomes and clinical practice remains unclear (Petersen et al., 2024) or is not statistically
+significant, research characterises the effective CPD of health professionals as interactive,
+using a variety of methods, providing multiple exposures over a longer period of time,
+and focusing on content that is important for practitioners (Main & Anderson, 2023). It
+has also been noted that just a variety of programmes, unless they are sustainable, may
+produce fragmented improvement (Hill et al., 2009). Recently, research has focused on the
+modalities of CPD, concluding that “no one unique mode of delivering CPD programmes
+(face-to-face, online, and blended) will be sufficient to ensure optimal results in delivering
+CPD programmes” (Pagnucci et al., 2023, p. 6).
+A few systematic reviews have also been devoted to other professions:
+• Sport psychologists (Fogaça et al., 2024), using the perspective of counselling and
+supervision as a means for PD and identifying specific developmental characteristics
+related to a professional career;
+• Librarians (Shahzad et al., 2023a, 2023b), focusing more on sustainable competence
+development needs and challenges than on effectiveness;
+• Accountants (Pargmann et al., 2023), considering changing job profiles related to
+digital transformation and exploring new technologies rather than providing routine
+PD; and
+• Engineers (Wong et al., 2018), exploring mentoring as a career development approach
+instead of PD.
+Regarding the systematic analyses reviewed, it can be summarised that PD is regarded
+as effective if the following criteria are met:
+• Learning results are applied in the workplace (Campbell et al., 2019);
+• Learning results are transferred into practice (Filderman et al., 2022) or embedded in
+practice (Sims et al., 2023);
+• It changes teachers’ attitudes, beliefs, knowledge, and understanding (Ahmed et al.,
+2022; Didion et al., 2020);
+• It is transformative and fosters professionalism (Boylan et al., 2023);
+• It is practice-based, and developed skills are transferred from authentic professional
+learning situations to the classroom (Hirsch et al., 2021);
+• It has a positive impact (Ahadi et al., 2024; Willemsen et al., 2023) or effect in terms of
+improved practice (for instance, student learning outcomes are improved);
+<<<PAGE=7>>>
+Educ. Sci. 2025, 15, 95 7 of 22
+• It demonstrates outcomes according to Moore’s framework: participation, satisfaction,
+declarative and procedural knowledge, competence, performance, patient health, and
+community health (Williams et al., 2023);
+• It is provided in a balanced way by using different mechanisms (Sims et al., 2023);
+• It is sustained and linked to students’ learning goals, is based on best practices and
+delivered by coaches/experts, includes collaborative participation among teachers,
+derives from student needs, and is implemented with school support, including solid
+leadership and reflective teaching practices (Basma & Savage, 2023).
+This highlights the complexity of assessing and comparing effective PD transfer into
+practice. Besides, it is important to note that limited evidence does not mean that PD has
+not been effective (Firmstone et al., 2013).
+Since different concepts are used in the research literature to characterise the transfer of
+PD into practice, as it is determined by different contexts, research traditions, and practices,
+it is essential to create a conceptually unified view of the terms used to characterise and
+describe effective PD while acknowledging and accepting the risk of losing the nuances of
+particular concepts. Some researchers (for instance, Jensen & Rasmussen, 2019) recommend
+developing a flexible design framework, ensuring different contexts but still enabling
+comparable analyses of the impact of PD while acknowledging that “the most effective
+type of PD” could not be generally defined.
+3.2. RQ2: Which Theoretical Concepts in the Scientific Literature Represent the Transfer of Adult
+Professional Development into Practice?
+The gap between acquiring new knowledge and skills in PD and applying them in the
+workplace is also a persistent challenge from the point of view of theoretical justification.
+Understanding the theoretical concepts behind the transfer of learning is crucial to bridging
+this gap and maximising the effectiveness of adult education programmes. However,
+in the context of our research, we should look not just at programmes but also more
+broadly at PD as a whole, including workplace learning and self-organised learning. The
+transfer of adult PD into practice involves various theoretical concepts, from adult learning
+theory to organisational behaviour and instructional design. These concepts provide
+valuable insights into how people learn, how effective teaching can be designed, and how
+educational outcomes can be improved, helping explain how adults acquire, retain, and
+apply new knowledge and skills in their professional environments. Theoretical concepts
+guide research, inform teaching practice, and shape educational policy in a variety of
+learning environments.
+Of the selected articles in which we were able to identify an answer to the second
+research question, the majority (24) were conducted in the field of PD for teachers and those
+working in the education sector, followed by the PD of healthcare and medical professionals
+(12). Twelve articles refer to the model developed by Kirkpatrick (Ahadi et al., 2024; Allen
+et al., 2019; Ayeleke et al., 2019; Ayivi-Vinz et al., 2022; Campbell et al., 2019; Firmstone
+et al., 2013; Hill et al., 2009; Li et al., 2023; Nexø et al., 2024; Pagnucci et al., 2023; Petersen
+et al., 2024; Phillips et al., 2019), while eight refer to Guskey’s model (Ahadi et al., 2024;
+Basma & Savage, 2023; Didion et al., 2020; Huang et al., 2022; Kahmann et al., 2022; Li
+et al., 2023; Philipsen et al., 2019; Sims et al., 2021). The Kirkpatrick model is popular in the
+theoretical framework for evaluating the effectiveness of PD outside the education sector,
+such as in the context of the PD of healthcare and medical professionals. This is due to
+the fact that the model is structured and enables the assessment of PD effectiveness at the
+organisational level based on specific criteria (Petersen et al., 2024). Several researchers
+(Blume et al., 2010; Hughes et al., 2020; Wißhak, 2022) refer to one of the earliest conceptual
+frameworks for learning transfer—Baldwin and Ford’s model of training transfer. In this
+<<<PAGE=8>>>
+Educ. Sci. 2025, 15, 95 8 of 22
+model (Baldwin & Ford, 1988), transfer is explained as learning acquired in the workplace,
+using improved and newly learnt skills in different situations and maintaining them over
+a longer period of time. Transfer can be assessed as the use of learnt knowledge or skills
+and as the effectiveness of the learner’s application of knowledge or skills. Factors in the
+work environment during this time, such as support from management and colleagues and
+limitations or opportunities to use the skills learnt at work, are important.
+According to Blume et al. (2010), training transfer can be viewed as two types of
+processes: generalisation (to what extent the knowledge and skills acquired in the learning
+environment are applied in different environments and situations outside of learning)
+and maintenance (how changes resulting from learning experiences persist over time).
+Therefore, learning transfer is more than just what was learnt during the training; primarily,
+it is the proof that the acquired competences are used in the job for which they were
+intended. In the context of PD transfer, employees should meaningfully think, feel, and/or
+act differently than before (Blume et al., 2010; Wißhak, 2022).
+Frameworks such as Guskey’s five levels of PD evaluation (Guskey, 2000; Guskey,
+2003) and Desimone’s conceptual framework (Desimone, 2009) help us understand how
+the knowledge and skills gained through PD are applied in practice (Donath et al., 2023;
+Kowalski et al., 2020; Willems & Van den Bossche, 2019). Guskey’s approach, for instance,
+evaluates the effectiveness of PD on different levels, including participants’ reactions,
+learning, and the application of new knowledge or skills (Li et al., 2023). This transfer
+process also requires alignment between the PD activities and the actual work context of the
+participants, highlighting the importance of situating learning within relevant professional
+challenges and environments.
+The Kennedy framework (Kennedy, 2005, 2014) is an important theoretical underpin-
+ning of several studies (referred to by Ahadi et al., 2024; Basma & Savage, 2023; Boylan
+et al., 2023; Didion et al., 2020; Fernández-Batanero et al., 2022; Hirsch et al., 2021; Kah-
+mann et al., 2022; Li et al., 2023; Petersen et al., 2024; Main & Anderson, 2023; Ventista &
+Brown, 2023; Williams et al., 2023) for analysing CPD models. Kennedy (2005) developed
+a framework in which the main characteristics of nine CPD models are identified and
+categorised: the training model, the award-bearing model, the deficit model, the cascade
+model, the standards-based model, the coaching/mentoring model, the community of
+practice model, the action research model, and the transformative model. All models
+are organised into three broad categories—transmission, transitional, and transformative.
+The models’ structure shows that the professional autonomy abilities of teachers (as adult
+learners) should increase when moving from transmission to transformative categories.
+When explaining the interconnections of PD, theories of action are utilised to ensure
+that professional learning serves as a long-term outcome, including in relation to change
+theories. Effective PD leads to positive changes both in individual performance and in
+organisational development. Theories of action help analyse why, how, and for whom PD
+is effective (Kowalski et al., 2020; Rogers et al., 2020). In this context, significant theoretical
+concepts for ensuring effective PD include specific and clear requirements, factors related
+to adult learner self-motivation, the relevance of learning to practice, and a supportive
+leadership and workplace culture. Thus, it incorporates the theoretical principles of both
+behaviourism and pragmatism (Main & Anderson, 2023; Mairs et al., 2013).
+Psychological theories are also implemented in the justification of PD, emphasising
+that it should help mitigate stress and reduce the risks of burnout (Hirsch et al., 2021). PD
+should be implemented within a practice-based PD framework, taking into account that
+effective PD incorporates active learning, focuses on specific content and skill development,
+provides multiple models of practice, delivers several sessions over a period of time, and
+offers adults the opportunity to learn and practice new skills (Hirsch et al., 2021).
+<<<PAGE=9>>>
+Educ. Sci. 2025, 15, 95 9 of 22
+Theoretical concepts of active learning are revealed through analysis, highlighting
+the importance of supervision, the apprenticeship model, peer-to-peer support, coaching,
+expert support, and workshops in PD. These various approaches help practitioners un-
+derstand how to refine and apply the knowledge, skills, beliefs, or behaviours they have
+acquired. Thus, PD enhances self-efficacy (Johari et al., 2022; Rogers et al., 2020; Willems &
+Van den Bossche, 2019; Lo, 2021; Hirsch et al., 2021), enabling personalised PD learning
+paths (Main & Anderson, 2023). PD training should be interactive, employing a variety of
+methods (such as case-based learning, demonstrations, feedback, lectures, problem-based
+learning, role play, and simulations) and delivered in a sequence that involves multiple
+exposures over an extended period. The training should focus on outcomes deemed
+important by practitioners (Main & Anderson, 2023).
+In the analysis of adult PD, essential theoretical principles also emerge from interdisci-
+plinary and transdisciplinary collaborative learning, which helps to analyse and transform
+their practice (Lo, 2021; Kowalski et al., 2020).
+In the transfer of PD outcomes in the context of learning and motivation theories,
+attention should be paid both to the learning participant and to the adult educators be-
+cause they prepare the participants for the transfer of the learning experience. Needs
+assessment, appropriate learning content and methods, cognitive abilities, awareness, mo-
+tivation, self-efficacy, support, and feedback in the workplace are important in transfer
+(Wißhak, 2022).
+Professional learning should be implemented by providing adults with formal learn-
+ing through programmes, as well as both formal and informal learning in the workplace,
+including self-directed and collaborative learning (Zhou et al., 2022). Synthesising the-
+oretical perspectives with empirical evidence highlights the importance of the coaching
+approach, derived from anthropological theories, in PD (Main & Anderson, 2023; Yang
+et al., 2022). The situated learning theory has also been discussed as a basis for PD (Yang
+et al., 2022).
+Some studies are based on social constructivism theory (one of the most effective ap-
+proaches to effective learning), the concepts and principles of adult education (andragogy),
+the application of flipped learning, information processing, and technological pedagogical
+content knowledge (TPACK) frameworks (Lo, 2021; Rogers et al., 2020; Surahman & Wang,
+2023; Williams et al., 2023). Studies also examine PD or professional learning in the context
+of online learning strategies, particularly concerning information processing and flow
+theory in relation to technology-based learning (Zhou et al., 2022). The selected theoretical
+concepts depend on the branch in which the research was conducted, as well as the fields
+of science represented by the researchers. The study of the PD of (sports) psychology practi-
+tioners is grounded in psychological theories, explaining how PD occurs within the context
+of personality development, including emotional, cognitive, and behavioural aspects. It is
+argued that effective PD should encompass processes such as learning by doing, reflection,
+supervision, and connections and networking with peers. Specifically, learning by doing is
+identified as the central concept for effective PD (Fogaça et al., 2024).
+Some authors indicate the importance of self-determination theory (Li et al., 2023;
+Wißhak, 2022) in effective PD and its transfer. According to the self-determination theory,
+intrinsic motivation, which is particularly important for typical transfer, is promoted by the
+learners’ autonomy, their experience of competence, and social integration. Additionally,
+Su et al. (2023) analysed the didactic–mathematical knowledge and competencies (DMKC)
+model for initial teacher training in mathematics for sustainability in a systematic review,
+describing the importance of the focus and sustainability of initial teacher education and
+PD for teachers (in this case, mathematics teachers).
+<<<PAGE=10>>>
+Educ. Sci. 2025, 15, 95 10 of 22
+The selected articles include a number of theoretical concepts developed in the context
+of organisations and/or programs used rather than justifying learning as an individual
+and social phenomenon. Numerous derived theories are used as the theoretical basis of the
+analysed articles, and an invitation was even made to develop a new theory of the transfer
+of PD. Additionally, a discussion regarding whether the existing theoretical foundation is
+sufficiently supported by strong evidence is encouraged. However, it is impossible to create
+a universal theory because PD is a multidimensional phenomenon that needs to be analysed
+interdisciplinarily and contextually. As transfer research is multidisciplinary (Hughes et al.,
+2020; Kowalski et al., 2020), transfer research will always be multidisciplinary, as will the
+theoretical concepts used to support it.
+3.3. RQ3: What Processes and Indicators Show Effective Ways of Transferring PD and Learning
+Outcomes into Practice?
+Although discussions about processes and indicators showing effective ways of trans-
+ferring PD and learning outcomes into practice have been around for some time in both
+psychology and education, an empirical synthesis is still lacking (Blume et al., 2010).
+Relevant publications in teacher PD contain a number of proposals for key indicators.
+The ultimate goal of PD and PD programmes is to help in-service teachers to develop
+positive attitudes, knowledge, skills, and beliefs in order to improve students’ learning
+outcomes and behaviour and improve other children’s school experiences (Donath et al.,
+2023; Filderman et al., 2022). Zhou et al. (2022), analysing 37 studies, summarised the
+learning outcomes of vocational education pedagogues (mostly found to be positive) as
+follows: (1) pedagogy and industry knowledge and skills, (2) emotions (e.g., whether
+educators are satisfied with their learning experience), (3) value relevance (how educa-
+tors perceive the importance of what they have learned in their pedagogical practice),
+(4) motivation and attitude (do educators have a characteristic enthusiasm and desire to
+apply what they have learned in practice), (5) new awareness (does something change
+conceptually in the pedagogue’s perception and thinking), (6) impact on teaching practice
+(what changes occur in the teaching practice of pedagogues), (7) student/pupil results
+(what is the benefit of teachers’ professional learning for learners), and (8) institutional
+results (what is the benefit of professional learning the teacher’s colleagues, educational
+institution, and industry).
+Filderman et al. (2022) concluded that teachers’ training in data literacy has significant
+positive effects on both teacher knowledge/skills and teacher beliefs. At the same time,
+they admitted that future research that evaluates how training impacts long-term effects
+on practice is necessary. Participants must be given sufficient time to adopt new ideas
+into their practice and transform it. Therefore, the degree and quality of implementation
+practice should be evaluated. Depending on the purpose of PD, the scientific literature
+recommends using questionnaires, structured interviews, lesson plans (for teachers), oral
+or written individual reflections, participant journals, dictionaries and portfolios, direct
+observations by professional observers or digital recorders, videos, and other methods to
+evaluate the effectiveness of PD (Huang et al., 2022). Self-assessment is not considered
+sufficient to evaluate the results of PD; scientists often recommend strict quality monitoring
+in the process of the implementation and evaluation of PD planning, using formative and
+summative evaluations (Boz, 2023).
+PD outcome measurement can be identified as cognitive, behavioural, affective, and
+correlational. According to Huang et al. (2022), the most common subcategories for the
+cognitive dimension are higher-order thinking, student achievement, teacher learning
+outcomes, and teacher collaboration. On the other hand, the affective dimension involves
+self-efficacy/belief/identity and teachers’ opinions on various issues related to PD, fol-
+lowed by attitude/motivation. When characterising the behaviour dimension, teachers
+<<<PAGE=11>>>
+Educ. Sci. 2025, 15, 95 11 of 22
+were most often asked, for example, how often they used so-called online learning. In
+addition, Huang et al. (2022) recommend specifying skills as pedagogical ideas/practices.
+Teachers’ skills/practices/ideas were mainly assessed by observing teachers in action
+and conducting interviews. Correlation studies analysed the relationship between the
+knowledge acquired and teachers’ practice.
+In order for the results of PD to be implemented in practice, including in the long
+term, the organisational aspect is crucial. Hughes et al. (2020) conducted a meta-analysis
+on the importance of three indicators of work environment support in order to transform
+the PD outcomes—peer, supervisor, and organisational support—in relation to the training
+results’ (knowledge, skills, and attitudes) transfer, persistence, and long-term use. The
+meta-analysis concluded the importance of the work environment in the transfer of learning
+outcomes for all indicators. Motivation to transfer for trainees was shown to act as an
+important mediator, explaining the ability of work environment support variables to
+predict training transfer. Organisational, supervisory, and peer support are explained by
+motivation to transfer as a mediator, and all these factors predict the persistence of learning
+outcomes. All three levels of work environment indicators are recognised as statistically
+significant, confirming their unique importance in training transfer. Peer support in the
+work environment has the greatest relative importance in predicting the transfer of training
+outcomes. The conclusions emphasise the importance of designing training as a systemic,
+multi-level process that takes place on an ongoing basis and that all levels of support in
+the work environment (i.e., organisation, supervisors, and colleagues) are essential for
+sustaining learning outcomes.
+The effective transfer to practice in teacher education is evidenced by the positive
+impact of PD on child/student learning outcomes (Sims et al., 2023; Ventista & Brown,
+2023; Didion et al., 2020; Asterhan & Lefstein, 2024; Jensen & Rasmussen, 2019; Johari et al.,
+2022), most commonly evaluated by standardised student test scores. For example, Didion
+et al. (2020) investigated the impact of teachers’ PD on the reading results of preschool
+children and students up to the 8th grade. However, the systematic review developed
+by Ventista and Brown (2023) concluded that no research was identified that examined
+the impact of teacher PD on other valuable 21st-century educational outcomes and skills
+needed by future citizens, such as students’ critical thinking, creativity, motivation, or
+collaboration skills.
+Based on the results of a systematic review, Ahadi et al. (2024) concluded that the 41
+reviewed papers do not utilise evaluation frameworks designed to assess the PD workshop
+programmes. Most papers included in the scoping review did not deploy comprehensive
+PD evaluation models to assess teacher PD workshops or report on the use of established
+instruments for the purposes of data collection. Thus, the majority of these studies did not
+attempt to evaluate different dimensions of teacher change. Thus, Ahadi et al. recommend
+that the evaluation of the effectiveness of PD programs should be carried out, taking into
+account the following considerations: (a) programmes’ evaluation should be based on the
+theories of evaluation and teacher change, (b) a comprehensive range of PD dimensions
+to be evaluated should be developed, (c) various data should be collected before the
+implementation of the PD programme, during the implementation of the programme,
+and after the completion of the programme, and (d) validated tools should be used in the
+evaluation, not hastily created, questionable, and theoretically agnostic questionnaires.
+Only then can researchers develop a more complete understanding of the effectiveness of
+PD and individuals’ readiness and ability to transfer the acquired experience into practice.
+Basma and Savage (2023) concluded that none of the analysed studies presented
+indicators of the implementation of teachers’ PD based on theory. It was recognised
+that a full-fledged PD model has not been established; thus, potential factors have been
+<<<PAGE=12>>>
+Educ. Sci. 2025, 15, 95 12 of 22
+investigated, but not a complete set of theoretical influencing factors. The research data
+showed an apparent disconnect between what the theory of effective teacher PD expounds
+and the content and approaches of well-designed empirical studies of teacher PD. Thus,
+further research is recommended to identify changes in teachers’ knowledge and attitudes
+in PD. The review by Boylan et al. (2023) also indicates that transformative professional
+learning is under-theorised, with accounts emphasising only one or two features, usually
+agency, collaboration, or educational purpose. The authors suggest that transformative
+professional learning should be grounded in clarity about its purpose, knowledge, and the
+relationship to the knowledge developed.
+Another aspect that has not been researched properly is the context of PD. Context
+plays an important role in PD practitioners’/researchers’ successes and challenges in the
+field. However, only a few studies included detailed information regarding teacher, school,
+and district backgrounds (Boz, 2023). Relevant publications in psychology focused on
+the transfer of training from a psychological perspective. There is a long history of such
+research. Blume et al. (2010) found that learning outcomes may decay over time. Their
+meta-analysis of 89 empirical studies explored the impact of predictive factors (e.g., trainee
+characteristics, work environment, training interventions) on the transfer of training to
+different tasks and contexts. They used the model of training transfer presented by Baldwin
+and Ford (1988) as their theoretical basis. Thus, Blume et al. (2010) concluded that the
+single largest relationship to transfer involved cognitive ability. However, transfer is not
+solely dependent on trainees’ cognitive ability, as other moderately strong relationships
+were observed for other trainee characteristics, such as conscientiousness and voluntary
+participation. Neuroticism, pretraining self-efficacy, motivation to learn, and a learning
+goal orientation also had moderate relationships with transfer. Specifically, most predictor
+variables examined (e.g., motivation, work environment) had stronger relationships to
+transfer when the focus of training was on open (e.g., leadership development) as opposed
+to closed (e.g., computer software) skills.
+Fewer studies were found for the representatives of other professions. In these studies,
+similar to the case of teachers’ PD, it was also concluded that the transfer of PD into practice
+can be evaluated at different levels—both at the level of the individual and at the level of
+the organisation. Therefore, the connection of the transfer with individual needs, such as
+personality and professional activity, can be evaluated (in the context of the workplace,
+according to the needs of the organisation) (Shahzad et al., 2023b). For example, Ayivi-Vinz
+et al. (2022) evaluated the changes in the behaviour of healthcare specialists as a result of
+CPD activities, using the CPD-REACTION questionnaire. In another study (Williams et al.,
+2023) on the transfer of the results of the PD of healthcare specialists into practice, it was
+recognised that there were improvements in professional performance in the workplace
+(workplace-based performance) and in their professional practice (performance in one’s
+own practice), using Moore’s outcomes framework (Moore et al., 2009).
+Kirkpatrick’s classic model (Kirkpatrick & Kirkpatrick, 2016) is also used relatively
+often to evaluate PD transfer (Ayeleke et al., 2019; Pagnucci et al., 2023). As concluded
+by Ayeleke et al. (2019), most of the studies included in the review focused primarily on
+the effects of PD at the individual level, e.g., assessing participants’ knowledge and skills,
+as well as professional performance related to level 2 (learning) and level 3 (behavioural)
+assessments from Kirkpatrick’s model. Little, if any, data were collected for level 4 (out-
+comes) relating to organisational performance (which could include healthcare quality and
+patient outcomes in the healthcare context). Therefore, the authors could not objectively
+draw conclusions about the impact of PD on organisational performance.
+It can be concluded that researchers have put forward several indicators of effective
+PD transfer. There are identifiable performance indicators, such as student learning out-
+<<<PAGE=13>>>
+Educ. Sci. 2025, 15, 95 13 of 22
+comes in standardised tests, student behaviour, course duration, cognitive abilities, etc.
+Several process indicators (quality) have been identified: learning outcomes (knowledge,
+skills, attitude, beliefs, competencies, emotions, perceptions, new awareness, motivation,
+engagement, satisfaction, self-efficacy), trainer satisfaction, employer satisfaction, impact
+on teaching practices, transfer of knowledge, persistence and long-term use, pedagogical
+ideas/practices, work environment, teacher collaboration, peer, supervisor, and organ-
+isational support, generalisation, maintenance, etc. These indicators may refer to the
+individual, organisational, programme/intervention, or global level. In psychology and
+education, at an individual level, it refers to both professional and personal aspects, such
+as knowledge, skills, attitudes, beliefs, cognitive ability, motivation, etc.
+In many cases, the effectiveness of teachers’ PD and its transfer is linked to the achieve-
+ments of students, as they can be objectively evaluated using standardised tests; usually, the
+students’ academic achievements are evaluated. However, insufficient studies have been
+identified that assess how the transfer of PD influences other aspects of student performance
+(development of 21st-century skills, social-emotional development, behaviour). Various
+environmental factors—peer, supervisor, and organisational support—are essential in en-
+suring training transfer, persistence, and long-term use of PD results at the organisational
+level. PD context also plays an important role in the transfer. Although the effectiveness of
+PD programmes is evaluated in two ways—by evaluating objectively measurable indicators
+(students’ achievements) and by subjective evaluations—the personal benefits to teachers
+and the programmes’ effectiveness are not always evaluated correctly, especially in the
+long term.
+4. Discussion
+Over the past 15–20 years, researchers have attempted to define what effective PD is.
+Several theoretical models of PD practice have been developed, and several effectiveness
+indicators and identified processes related to the transfer of PD into practice have been
+discussed. Recent research reflects a consensus that PD is helping teachers to improve their
+knowledge, skills, and practice, thus hopefully increasing student achievement. Despite
+that, there is no clear set of indicators that researchers regularly measure in empirical
+studies of PD (Desimone, 2009). The complexity of the issue that focuses on the need for
+clarity at the specific level of PD and what the impacts are for practice has been evaluated.
+Although recent research has tried to resolve the complex question of the effectiveness of
+PD and then put those theoretical models into practice, implementing programmes based
+on these premises, there is still an urgent need to make some kind of common theory-based
+practice in all fields. Analysing the recent developments, certain gaps in the knowledge
+and questions that should be addressed in the future have been identified (see Table 2).
+It is assumed that effective PD will improve teachers’ performance and probably
+increase student outcomes and transfer processes (such as bridging the knowledge–doing
+gap), probably occurring in workplaces in non-linear ways, are needed for that. Never-
+theless, the value of PD is individual and contextual and depends not only on the PD
+content, types of programs and mechanisms, support, etc., but mainly on the professional’s
+own ability to analyse what is valuable for a particular situation (what can improve per-
+formance or make a process more efficient by optimising it) and what is not. Improving
+performance for teachers means becoming a reflective practitioner, working harder by
+transferring PD gains to practice, and using evidence to constantly revise ongoing practice
+by experimenting—giving up less effective techniques and strategies to introduce new
+and more promising ones. In this process, it is not possible to distinguish the pathway of
+single PD programme outcomes to characterise their effectiveness. Therefore, PD results
+should be measured in the workplace (at the individual or organisational level), not in
+<<<PAGE=14>>>
+Educ. Sci. 2025, 15, 95 14 of 22
+single interventions as the result of particular PD programmes. Besides, personalised and
+self-directed PD that is based on teachers’ metacognitive competence and embedded in a
+school’s organisational culture emphasises the paradigm shift from ‘deficit paradigm’ to
+‘teacher as active participant’ who constructs their own PD trajectories, conceptualising
+teacher professional learning and PD in terms of internal teacher growth or change rather
+than in terms of activities.
+The concept of effectiveness itself is based on measurable impact; thus, it is embedded
+within performative structures and could be applied to reproductive activities and systems
+with clear performance indicators. It does not provide a means for evaluating the transfor-
+mative aspects of PD and learning. Studying the long-term effects on practice is necessary:
+participants should be given enough time to adopt new ideas into their practice and trans-
+form it. In his proposed “Five Levels of Professional Development Evaluation”, Guskey
+(2002) argues that level 1 (“Participant reaction”) and level 2 (“Participant learning”), which
+combine satisfaction about learning and new knowledge and skills, can be immediately
+evaluated after PD, but information about level 4 (“Participant use of new knowledge and
+skills”) cannot be gathered straight after a PD session. According to Knapp (2003), the
+purpose of PD assessment is to examine changes in thinking, knowledge, skills, and their
+application, and there is a very strong recommendation to use a variety of assessment tools
+and involve as many different assessment agents as possible (e.g., teachers, administration,
+parents, etc.).
+Discussions about the transformative potential of professional learning are emerging
+in the field (Boylan et al., 2023) by “challenging [the] dominant approach to professional
+learning, which focuses on attempts to identify the most ‘effective’ means of ensuring
+that teachers can improve pupils’ scores on standardised tests” (Kennedy & Stevenson,
+2023, pp. 581–582). However, despite quite a lot of research over a long period of time, the
+theoretical concepts of learning transfer are still fragmented and characterised by different
+findings (Wenzel & Cordery, 2014). Kennedy (2014), reflecting on his CPD model developed
+in 2005, points out that it is necessary to take into account how the use of concepts changes
+when talking about PD. Sometimes, concepts are considered self-evident in the theoretical
+aspect, but from the context, different phenomena can be understood with the same
+concept. As time goes on, theoretical assumptions and the categories they include should be
+critically evaluated.
+Table 2. Gaps in present knowledge.
+What Has Been Researched? Authors Gap in Knowledge and Future
+Questions
+Characteristics of effective teachers’
+PD programmes and different aspects
+of PD design regarding its impact on
+teacher and/or student outcomes, four
+core features: intensity, relevance,
+active learning, and collective
+participation; specific subject focus,
+modelling, practising, ongoing
+reflection, and sustainable support.
+(Boz, 2023)
+(Donath et al., 2023)
+(Didion et al., 2020)
+(Filderman et al., 2022)
+(Huang et al., 2022)
+(Kowalski et al., 2020)
+(Willems & Van den Bossche, 2019)
+Methodological weaknesses, little
+empirical support, and controversial
+results are reported, suggesting that
+there is a need to use more
+experimental studies to test proposed
+features of effective PD and to
+distinguish what makes PD more or
+less effective in different contexts and
+how PD programmes introduce
+pedagogical strategies.
+<<<PAGE=15>>>
+Educ. Sci. 2025, 15, 95 15 of 22
+Table 2. Cont.
+What Has Been Researched? Authors Gap in Knowledge and Future Questions
+The effectiveness of teacher PD transfer is
+linked to student outcomes, often to (easily
+measurable) results in tests.
+(Ahmed et al., 2022)
+(Basma & Savage, 2023)
+(Boz, 2023)
+(Didion et al., 2020)
+(Jensen & Rasmussen, 2019)
+(Parkhouse et al., 2019)
+(Rogers et al., 2020)
+(Ryan et al., 2022)
+(Sims et al., 2021, 2023)
+(Ventista & Brown, 2023)
+(Yang et al., 2022)
+(Wißhak, 2022)
+Research assessing how teacher PD results
+are transferred to affect diverse aspects of
+student performance—development of
+21st-century skills, social-emotional
+development, behaviour, and
+well-being—is insufficiently identified.
+Processes and indicators showing effective
+ways of transferring professional learning
+outcomes into practice; factors that can
+predict the transfer have been identified.
+(Blume et al., 2010)
+Lack of empirical synthesis for processes
+and indicators. What are the personal,
+professional, and environmental
+(organisational) factors?
+Various evaluation models have been
+developed and used to assess the impact of
+PD in terms of different outcomes,
+generally indicating the positive effects
+of PD.
+(Ahadi et al., 2024)
+(Ayeleke et al., 2019)
+(Didion et al., 2020)
+(Firmstone et al., 2013)
+(Hill et al., 2009)
+(Huang et al., 2022)
+(Kahmann et al., 2022)
+(Kowalski et al., 2020)
+(Pargmann et al., 2023)
+(Rogers et al., 2020)
+(Sims et al., 2021, 2023)
+(Zhou et al., 2022)
+(Willemsen et al., 2023)
+(Willems & Van den Bossche, 2019)
+There are still questions about whether
+changes in professional training can be
+associated with improvements in
+student/client outcomes.
+The quality of measurements is
+questionable, with high degrees of
+heterogeneity between studies and a lack
+of standardised, theoretically grounded,
+evidence-based research that involves a
+broad range of outcomes (both process and
+performance indicators) to reveal the link
+between professional outcomes in PD and
+student/client outcomes/benefits.
+Quantitative and qualitative
+methodologies should be mixed.
+The IMTP model for teacher PD evaluation:
+develop insights, motivate change, develop
+techniques, and embed these in practice.
+Fourteen mechanisms in a PD programme
+are associated with PD’s greater impact on
+student test results, and balanced PD
+programmes have higher average effect
+sizes than imbalanced PD programmes.
+(Sims et al., 2023)
+Future research needs to apply the model
+in broader contexts and different
+professional fields.
+Usually, short-term results are measured
+and reported, even for PD aspects that
+require sustained use to be represented
+in outcomes.
+(Donath et al., 2023)
+(Filderman et al., 2022)
+(Yang et al., 2022)
+The lack of maintenance measures for PD
+effectiveness is identified in the long term.
+Future research that evaluates the
+long-term effects of PD on practice and
+performance is necessary.
+One of the achievable results of PD is a
+change in teacher attitudes and beliefs.
+(Ahmed et al., 2022)
+(Basma & Savage, 2023)
+(Dignath et al., 2022)
+(Filderman et al., 2022)
+(Johari et al., 2022)
+Incomparable measurements addressing
+teacher attitudes and belief systems limit
+exploring their relation to change in
+practice and student achievement. There is
+a need to evaluate more different
+dimensions of teacher change.
+<<<PAGE=16>>>
+Educ. Sci. 2025, 15, 95 16 of 22
+Table 2. Cont.
+What Has Been Researched? Authors Gap in Knowledge and Future Questions
+Controversial results about the impact of
+increasingly used coaching and mentoring
+as a part of PD are reported, and formal
+and informal aspects of mentoring are
+also discussed.
+(Basma & Savage, 2023)
+(Didion et al., 2020)
+(Filderman et al., 2022)
+(Main & Anderson, 2023)
+(Rogers et al., 2020)
+(Wang et al., 2022)
+(Wißhak, 2022)
+(Wong et al., 2018)
+(Yang et al., 2022)
+(Salmerón Aroca et al., 2023)
+Coaching and feedback are often defined
+ambiguously and characterised as very
+different constructs, lacking consensus on
+the theoretical foundation related to
+coaching as an effective tool, not specifying
+coaching design, and not providing
+transparent data analysis.
+Future research is needed as there are
+many new contextual opportunities to use
+both mentoring and coaching at the
+organisational level to support PD transfer
+into practice.
+A potential shift from formally organised
+PD courses to teacher workplace learning
+is recognised.
+Informal learning is considered an
+important but hardly measurable part
+of PD.
+(Kyndt et al., 2016)
+(Ventista & Brown, 2023)
+(Zhou et al., 2022)
+Research on the impact of teachers’
+self-organised learning and targeted
+workplace learning approaches on the
+teaching, student outcomes, and
+organisational factors of a school is limited
+and should be investigated. PD transfer is
+incorporated into these practices.
+There are rather controversial research
+results about what is more
+effective—mandatory/obligatory versus
+self-directed/voluntary participation in
+PD.
+(Donath et al., 2023)
+(Main & Anderson, 2023)
+(Wißhak, 2022)
+Objective, comparable measures to
+evaluate the role of voluntary versus
+mandatory participation of professionals in
+PD and the effectiveness of PD are lacking.
+Various environmental factors (the
+context—e.g., school, district, etc.) are
+essential in ensuring transfer at the
+organisational level. PD context plays an
+important role in the transfer of PD results.
+(Boz, 2023)
+(Peleman et al., 2018)
+There is a lack of research about the PD
+context, which plays an important role in
+PD practitioners/researchers’ successes
+and challenges in the field. However, it has
+been undervalued so far.
+Community of practice is recognised as an
+important aspect of practice-based PD
+(especially in early career stages). Virtual
+communities of practice are an effective
+way to share knowledge
+among professionals.
+(Campbell et al., 2019)
+(Concina, 2023)
+(Hirsch et al., 2021)
+(Kyndt et al., 2016)
+(Mairs et al., 2013)
+(Surahman & Wang, 2023)
+(Ventista & Brown, 2023)
+There is a need for experimental research
+based on underlying PD characteristics
+and related to the broader (virtual)
+communities of practice.
+Teacher PD duration has been analysed,
+with controversial conclusions. There is no
+consensus on the length of PD to improve
+teaching practice, and it could be
+concluded that there are other aspects than
+the duration of PD affecting the transfer of
+PD into practice and student results.
+(Basma & Savage, 2023)
+(Boz, 2023)
+(Didion et al., 2020)
+(Dignath et al., 2022)
+(Donath et al., 2023)
+(Jensen & Rasmussen, 2019)
+(Kowalski et al., 2020)
+Research should be carried out in the
+context of PD content and outcomes and
+whether the current indicator can be used
+as a PD effectiveness indicator.
+No unique mode (face-to-face, online,
+blended) of delivery of PD activities is
+recognised to be most effective; however,
+the practical nature of training
+programmes is related to
+educational effectiveness.
+Research based on experimental designs
+regarding various modes and formats
+provides differing results.
+(Fernández-Batanero et al., 2022)
+(Pagnucci et al., 2023)
+(Williams et al., 2023)
+More experimental design research
+targeting higher levels of educational
+outcomes (including community-level
+outcomes) is needed for a consensus
+regarding various PD modes and formats.
+<<<PAGE=17>>>
+Educ. Sci. 2025, 15, 95 17 of 22
+Table 2. Cont.
+What Has Been Researched? Authors Gap in Knowledge and Future Questions
+The effectiveness of PD may be moderated
+by teachers’ experience/career stage. (Didion et al., 2020)
+Evidence-based studies of how teaching
+experience is related to the transfer of PD
+outcomes into practice are needed.
+PD is recognised as a way to transfer
+(translate) and disseminate findings of
+current research in medicine into practice,
+not just as the training and changing
+knowledge/skills/attitude of practitioners.
+(Mairs et al., 2013)
+(Nexø et al., 2024)
+The role of universities and researchers in
+providing PD focused on the
+translation/dissemination of actual
+research findings (evidence) into teaching
+practice is understudied.
+Understanding of theories and concepts. (Basma & Savage, 2023)
+(Li et al., 2023)
+The use of theoretical concepts should be
+critically evaluated in line with current
+theories, considering dynamic changes in
+systems, organisations, processes,
+individuals, and their contexts.
+PD as a learning process. (Wißhak, 2022)
+There is a need to see learning in PD as an
+individual and social phenomenon, as an
+autonomous process involving individual
+growth, not only as organisational
+development.
+Approach to the use of theories (Surahman & Wang, 2023)
+(Williams et al., 2023)
+A comprehensive meta-study of the
+theories used in the research on PD and its
+transfer into practice should be conducted.
+Transformative professional learning has
+been conceptualised but is not related to
+the effectiveness of PD.
+(Boylan et al., 2023)
+Transformative professional learning is
+insufficiently conceptualised theoretically.
+It should be conceptualised across a range
+of aspects important for understanding
+both professionalism and
+professional learning.
+Regarding teacher PD and learning, our scoping review, on the one hand, identifies
+gaps in the knowledge, emphasising the need for rigorous research designs, standardised
+indicators, and performance measurements, and on the other, it strongly resonates with the
+findings that characterise teacher learning “as a non-linear, complex process that makes
+planning and evaluating professional learning somewhat challenging” (King et al., 2023,
+p. 974). It proposes a pragmatic approach to conceptualising teacher professional learning
+according to the three major constructs—context, experience, and outcomes (King et al.,
+2023)—as well as the emerging effort in the field for uncovering the transformative potential
+of professional learning (Kennedy & Stevenson, 2023).
+Finally, according to conclusions from the research in health care (Mairs et al., 2013;
+Nexø et al., 2024), instead of concentrating on investigating PD as interventions, training,
+and routines, researchers probably should rather focus on PD as a way to transfer and
+disseminate findings from current research in all fields, enabling them to follow how new
+knowledge takes place by changing practices in different contexts.
+5. Conclusions
+The scoping review is designed to identify and summarise current approaches, trends,
+and conclusions regarding the evaluation of the effectiveness of transferring PD results into
+practice in order to develop an evidence-based, conceptually and operationally coherent,
+multi-level (at national, organisational, and individual levels) PD system in Latvia.
+<<<PAGE=18>>>
+Educ. Sci. 2025, 15, 95 18 of 22
+Regarding RQ1, most of the studies reviewed analyse the PD of teachers and health-
+care professionals, exploring formal, informal, and workplace learning in different settings
+and contexts and revealing complexities and challenges in defining universal features of
+effective PD due to its context-specific nature and ambiguous concepts regarding outcomes.
+Although different models and frameworks have been developed and applied to charac-
+terise the effectiveness of PD programmes and practices, a consensus on effective PD has
+not yet been reached, and measuring its impact remains problematic. These models and
+frameworks either lack strong empirical evidence or simplify reality by losing contextual
+information, which reduces the possibility of using the conclusions in practice. A new
+theory (IMTP model: Sims et al., 2023) aims at measuring the impact of teacher PD repre-
+sented in student results and offers a more granular approach to PD by focusing on insight,
+motivation, techniques, and practice. On the one hand, it identifies testable indicators for
+measuring the impact of PD programmes, and on the other, it is focused on PD interven-
+tions, not on PD as an ongoing practice within contextually rich settings. PD effectiveness
+has also been explored in other professions, like sports psychology, librarianship, and
+engineering, though these studies tend to focus on specific career development challenges
+rather than broader PD outcomes. In general, while PD’s effectiveness varies by context
+and profession, ensuring that learning results are applied in practice remains a key marker
+of success, even as the methods for evaluating this impact continue to evolve. We conclude
+that the term ‘effectiveness’ can be aligned with successful transformational change at the
+levels of individual and organisational development.
+By evaluating the selected publications to address RQ2, we can conclude that more the-
+oretical models are utilised at the organisational and programme levels, while insufficient
+attention is given to PD as an individual and social learning process. The theoretical basis
+for further research should be more versatile, incorporating theories that address not only
+the outcomes of learning but also its processes and contexts. The dynamic global, political,
+social, and individual influences on adult learning mean that the pursuit of adequate
+theoretical concepts that help us to understand and shape it is permanent.
+Answering RQ3, it was concluded that identified indicators are statistics that allow
+value judgements to be made about key aspects of the functioning of PD and its effective-
+ness. There is no common agreement on what the key indicators to be used for measuring
+PD effectiveness are, which is why the transfer of PD outcomes in terms of aim, content, and
+contexts—in different fields and professions—can vary substantially. Many suggestions
+about possible indicators come from researchers working in psychology and education,
+who use both performance (for example, student outcomes) and process indicators (for
+example, teacher learning outcomes). Additionally, there are indicators at the individual,
+organisational, programme, and global levels. A range of indicators to measure lower-level
+and short-term PD results has been introduced; indicators for measuring long-term results
+showing PD transfer into practice are less common. Finally, resorting to too many indicators
+exacerbates the problem since the use of different methodologies and approaches makes
+most research findings incomparable.
+Supplementary Materials: The following supporting information can be downloaded at: https://
+www.mdpi.com/article/10.3390/educsci15010095/s1. Annex: References Analysed Reviews.
+Author Contributions: Conceptualisation, M.K., D.N. and S.B.; methodology, D.N. and S.S.; valida-
+tion, D.N., M.K., S.B. and S.S.; investigation and formal analysis, D.N., M.K. and S.B.; writing-original
+draft preparation, D.N., M.K. and S.B.; writing-review and editing, D.N., M.K., S.B. and S.S.; project
+administration, S.S. All authors have read and agreed to the published version of the manuscript.
+<<<PAGE=19>>>
+Educ. Sci. 2025, 15, 95 19 of 22
+Funding: This research is funded by the Ministry of Education and Science of the Republic of Latvia,
+project “Elaboration of evidence-based solutions for effective professional competence development
+of adults and assessment of the transfer of its results into practice in Latvia”, project No. VPP-IZM-
+Izgl¯ıt¯ıba-2023/4-0001.
+Institutional Review Board Statement: As this work has undertaken a scoping review of the
+literature, there is no need for ethical approval.
+Informed Consent Statement: Not applicable.
+Data Availability Statement: Data are contained within the article.
+Conflicts of Interest: The authors declare no conflicts of interest.
+References
+Ahadi, A., Bower, M., Lai, J., Singh, A., & Garrett, M. (2024). Evaluation of teacher professional learning workshops on the use of
+technology—A systematic review. Professional Development in Education, 50(1), 221–237. [CrossRef]
+Ahmed, S. K., Jeffries, D., Chakraborty, A., Lietz, P ., Kaushik, A., Rahayu, B., Armstrong, D., & Sundarsagar, K. (2022). PROTOCOL:
+Teacher professional development for disability inclusion in low-and middle-income Asia-Pacific countries: An evidence and gap
+map. Campbell Systematic Reviews, 17(4), e1287. [CrossRef] [PubMed]
+Allen, L. M., Palermo, C., Armstrong, E., & Hay, M. (2019). Categorising the broad impacts of continuing professional development: A
+scoping review. Medical Education, 53(11), 1087–1099. [CrossRef] [PubMed]
+Arksey, H., & O’Malley, L. (2005). Scoping studies: Towards a methodological framework. International Journal of Social Research
+Methodology, 8(1), 19–32. [CrossRef]
+Asterhan, S. C., & Lefstein, A. (2024). The search for evidence-based features of effective teacher professional development: A critical
+analysis of the literature. Professional Development in Education, 50(1), 11–23. [CrossRef]
+Ayeleke, R. O., North, N. H., Dunham, A., & Wallis, K. A. (2019). Impact of training and professional development on health
+management and leadership competence: A mixed methods systematic review. Journal of Health Organization and Management,
+33(4), 354–379. [CrossRef]
+Ayivi-Vinz, G., Bakwa Kanyinga, F., Bergeron, L., Décary, S., Adisso,É. L., Zomahoun, H. T. V ., Daniel, S. J., Tremblay, M., Plourde,
+K. V ., Guay-Bélanger, S., & Légaré, F. (2022). Use of the CPD-REACTION questionnaire to evaluate continuing professional
+development activities for health professionals: Systematic review. JMIR Medical Education, 8(2), e36948. [CrossRef]
+Baldwin, T. T., & Ford, J. K. (1988). Transfer of training: A review and directions for future research. Personnel Psychology, 41(1), 63–105.
+[CrossRef]
+Basma, B., & Savage, R. (2018). Teacher professional development and student literacy growth: A systematic review and meta-analysis.
+Educational Psychology Review, 30, 457–481. [CrossRef]
+Basma, B., & Savage, R. (2023). Teacher professional development and student reading in middle and high school: A systematic review
+and meta-analysis. Journal of Teacher Education, 74(3), 214–228. [CrossRef]
+Blume, B. D., Ford, J. K., Baldwin, T. T., & Huang, J. L. (2010). Transfer of training: A meta-analytic review. Journal of Management, 36(4),
+1065–1105. [CrossRef]
+Boylan, M., Adams, G., Perry, E., & Booth, J. (2023). Reimagining transformative professional learning for critical teacher professional-
+ism: A conceptual review. Professional Development in Education, 49(4), 651–669. [CrossRef]
+Boz, T. (2023). Teacher professional development for STEM integration in elementary/primary schools: A systematic review.Inter-
+national Electronic Journal of Elementary Education, 15(5), 371–382. Available online: https://www.iejee.com/index.php/IEJEE/
+article/view/1958 (accessed on 3 June 2024). [CrossRef]
+Campbell, N., Wozniak, H., Philip, R. L., & Damarell, R. A. (2019). Peer-supported faculty development and workplace teaching: An
+integrative review. Medical Education, 53(10), 978–988. [CrossRef]
+Concina, E. (2023). Effective music teachers and effective music teaching today: A systematic review. Education Sciences, 13, 107.
+[CrossRef]
+Darling-Hammond, L., Hyler, M. E., & Gardner, M. (2017). Effective teacher professional development. Learning Policy Institute.
+Desimone, L. M. (2009). Improving impact studies of teachers’ professional development: Toward better conceptualizations and
+measures. Educational Researcher, 38(3), 181–199. [CrossRef]
+Desimone, L. M. (2023). Rethinking teacher PD: A focus on how to improve student learning. Professional Development in Education,
+49(1), 1–3. [CrossRef]
+Didion, L., Toste, J. R., & Filderman, M. J. (2020). Teacher professional development and student reading achievement: A meta-analytic
+review of the effects. Journal of Research on Educational Effectiveness, 13(1), 29–66. [CrossRef]
+<<<PAGE=20>>>
+Educ. Sci. 2025, 15, 95 20 of 22
+Dignath, C., Rimm-Kaufman, S., van Ewijk, R., & Kunter, M. (2022). Teachers’ beliefs about inclusive education and insights on what
+contributes to those beliefs: A meta-analytical study. Educational Psychology Review, 34, 2609–2660. [CrossRef]
+Donath, J. L., Lüke, T., Graf, E., Tran, U. S., & Götz, T. (2023). Does professional development effectively support the implementation of
+inclusive education? A meta-analysis. Educational Psychology Review, 35, 30. [CrossRef]
+Dunst, C. J., Bruder, M. B., & Hamby, D. W. (2015). Metasynthesis of in-service professional development research: Features associated
+with positive educator and student outcomes. Educational Research and Reviews, 10(12), 1731–1744. [CrossRef]
+Fernández-Batanero, J. M., Montenegro-Rueda, M., Fernández-Cerero, J., & García-Martínez, I. (2022). Digital competences for teacher
+professional development. Systematic review. European Journal of Teacher Education, 45(4), 513–531. [CrossRef]
+Filderman, M. J., Toste, J. R., Didion, L., & Peng, P . (2022). Data literacy training for K–12 teachers: A meta-analysis of the effects on
+teacher outcomes. Remedial and Special Education, 43(5), 328–343. [CrossRef]
+Firmstone, V . R., Elley, K. M., Skrybant, M. T., Fry-Smith, A., Bayliss, S., & Torgerson, C. J. (2013). Systematic review of the effectiveness
+of continuing dental professional development on learning, behavior, or patient outcomes. Journal of Dental Education, 77(3),
+300–315. [CrossRef] [PubMed]
+Fogaça, J. L., Quartiroli, A., & Wagstaff, C. R. D. (2024). Professional development of sport psychology practitioners: From systematic
+review to a model of development. Psychology of Sport and Exercise, 70, 102550. [CrossRef]
+Guskey, T. R. (2000).Evaluating professional development. Corwin Press.
+Guskey, T. R. (2002). Professional development and teacher change. Teachers and Teaching, 8(3), 381–391. [CrossRef]
+Guskey, T. R. (2003). Analyzing lists of the characteristics of effective professional development to promote visionary leadership.
+NASSP Bulletin, 87(637), 4–20. [CrossRef]
+Hill, A. G., Yu, T.-C., Barrow, M., & Hattie, J. (2009). A systematic review of resident-as-teacher programmes.Medical Education, 43(12),
+1129–1140. [CrossRef]
+Hirsch, S. E., Randall, K., Bradshaw, C., & Lloyd, J. W. (2021). Professional learning and development in classroom management for
+novice teachers: A systematic review. Education and Treatment of Children, 44, 291–307. [CrossRef]
+Huang, B., Jong, M. S.-Y., Tu, Y.-F., Hwang, G.-J., Chai, C. S., & Jiang, M. Y.-C. (2022). Trends and exemplary practices of STEM
+teacher professional development programs in K-12 contexts: A systematic review of empirical studies. Computers & Education,
+189, 104577. [CrossRef]
+Hughes, A. M., Zajac, S., Woods, A. L., & Salas, E. (2020). The role of work environment in training sustainment: A meta-analysis.
+Human Factors, 62(1), 166–183. [CrossRef] [PubMed]
+Jensen, P ., & Rasmussen, A. W. (2019). Professional development and its impact on children in early childhood education and care: A
+meta-analysis based on European studies. Scandinavian Journal of Educational Research, 63(6), 935–950. [CrossRef]
+Johari, M. I., Rosli, R., Maat, S. M., Mahmud, M. S., Capraro, M. M., & Capraro, R. M. (2022). Integrated professional development for
+mathematics teachers: A systematic review. Pegem Journal of Education and Instruction, 12(4), 226–234. [CrossRef]
+Kahmann, R., Droop, M., & Lazonder, A. W. (2022). Meta-analysis of professional development programs in differentiated instruction.
+International Journal of Educational Research, 116, 102072. [CrossRef]
+Kennedy, A. (2005). Models of continuing professional development: A framework for analysis. Journal of In-Service Education, 31(2),
+235–250. [CrossRef]
+Kennedy, A. (2014). Understanding continuing professional development: The need for theory to impact on policy and practice.
+Professional Development in Education, 40(5), 688–697. [CrossRef]
+Kennedy, A., & Stevenson, H. (2023). Beyond reproduction: The transformative potential of professional learning. Professional
+Development in Education, 49(4), 581–585. [CrossRef]
+Kennedy, M. M. (2016). How does professional development improve teaching? Review of Educational Research, 86, 945–980. [CrossRef]
+King, F., Poekert, P ., & Pierre, T. (2023). A pragmatic meta-model to navigate complexity in teachers’ professional learning.Professional
+Development in Education, 49(6), 958–977. [CrossRef]
+Kirkpatrick, D. L. (1959). Techniques for evaluating training programs: Pt.1. Reactions. Journal of the American Society for Training and
+Development, 13(11), 3–9.
+Kirkpatrick, J. D., & Kirkpatrick, W. K. (2016). Kirkpatrick’s four levels of training evaluation. ATD Press.
+Knapp, M. S. (2003). Professional development as a policy pathway. Review of Research in Education, 27(1), 109–157. [CrossRef]
+Kowalski, S. M., Taylor, J. A., Askinas, K. M., Wang, Q., Zhang, Q., Maddix, W. P ., & Tipton, E. (2020). Examining factors contributing to
+variation in effect size estimates of teacher outcomes from studies of science teacher professional development. Journal of Research
+on Educational Effectiveness, 13(3), 430–458. [CrossRef]
+Kyndt, E., Gijbels, D., Grosemans, I., & Donche, V . (2016). Teachers’ everyday professional development: Mapping informal learning
+activities, antecedents, and learning outcomes. Review of Educational Research, 86(4), 1111–1150. [CrossRef]
+Levac, D., Colquhoun, H., & O’Brien, K. K. (2010). Scoping studies: Advancing the methodology. Implementation Science, 5, 69.
+[CrossRef]
+<<<PAGE=21>>>
+Educ. Sci. 2025, 15, 95 21 of 22
+Li, Z., Hassan, N. C., & Jalil, H. A. (2023). The effectiveness of face-to-face versus online delivery of continuing professional development
+for science teachers: A systematic review. Education Sciences, 13(12), 1251. [CrossRef]
+Lo, C. K. (2021). Design principles for effective teacher professional development in integrated stem education: A systematic review.
+Educational Technology & Society, 24(4), 136–152.
+Main, P . A. E., & Anderson, S. (2023). Evidence for continuing professional development standards for regulated health practitioners in
+Australia: A systematic review. Human Resources for Health, 21, 23. [CrossRef]
+Mairs, K., McNeil, H., McLeod, J., Prorok, J., & Stolee, P . (2013). Online strategies to facilitate health-related knowledge transfer: A
+systematic search and review. Health Information & Libraries Journal, 30(4), 261–277. [CrossRef]
+Moore, D. E., Jr., Green, J. S., & Gallis, H. A. (2009). Achieving desired results and improved outcomes: Integrating planning and
+assessment throughout learning activities. Journal of Continuing Education in the Health Profession, 29(1), 1–15. [CrossRef]
+Munn, Z., Peters, M. D. J., Stern, C., Tufanaru, C., McArthur, A., & Aromataris, E. (2018). Systematic review or scoping review?
+Guidance for authors when choosing between a systematic or scoping review approach. BMC Medical Research Methodology,
+18, 143. [CrossRef]
+Nexø, M. A., Kingod, N. R., Eshøj, S. H., Kjærulff, E. M., Nørgaard, O., & Andersen, T. H. (2024). The impact of train-the-trainer
+programs on the continued professional development of nurses: A systematic review. BMC Medical Education, 24, 30. [CrossRef]
+Obee, A. F., Hart, K. C., & Fabiano, G. A. (2023). Professional development targeting classroom management and behavioral support
+skills in early childhood settings: A systematic review. School Mental Health, 15, 339–369. [CrossRef]
+Pagnucci, N., Aleo, G., Orlik, W., Mahon, P ., Kearns, T., Kelly, C., Lordan, T., & Fitzgerald, C. (2023). Teaching and learning modalities
+for continuing professional development in the long-term care: A rapid synthesis review. Nurse Education in Practice, 70, 103638.
+[CrossRef]
+Pargmann, J., Riebenbauer, E., Flick-Holtsch, D., & Berding, F. (2023). Digitalisation in accounting: A systematic literature review of
+activities and implications for competences. Empirical Research in Vocational Education and Training, 15, 1. [CrossRef]
+Parkhouse, H., Lu, C. Y., & Massaro, V . R. (2019). Multicultural education professional development: A review of the literature.Review
+of Educational Research, 89(3), 416–458. [CrossRef]
+Peleman, B., Lazzari, A., Budginait˙e, I., Siarova, H., Hauari, H., Peeters, J., & Cameron, C. (2018). Continuous professional development
+and ECEC quality: Findings from a European systematic literature review. European Journal of Education, 53(1), 9–22. [CrossRef]
+Petersen, J. A., Bray, L., & Østergaard, D. (2024). Continuing professional development (CPD) for anesthetists: A systematic review.
+Acta Anaesthesiologica Scandinavica, 68(1), 2–15. [CrossRef]
+Philipsen, B., Tondeur, J., Pareja Roblin, N., Vanslambrouck, S., & Zhu, C. (2019). Improving teacher professional development
+for online and blended learning: A systematic meta-aggregative review. Educational Technology Research and Development, 67,
+1145–1174. [CrossRef]
+Phillips, J. L., Heneka, N., Bhattarai, P ., Fraser, C., & Shaw, T. (2019). Effectiveness of the spaced education pedagogy for clinicians’
+continuing professional development: A systematic review. Medical Education, 53(9), 886–902. [CrossRef]
+Rogers, S., Brown, C., & Poblete, X. (2020). A systematic review of the evidence base for professional learning in early years education
+(The PLEYE Review). Review of Education, 8(1), 156–188. [CrossRef]
+Ryan, M., Alliott, O., Ikeda, E., Luan, J., Hofmann, R., & van Sluijs, E. (2022). Features of effective staff training programmes within
+school-based interventions targeting student activity behaviour: A systematic review and meta-analysis. International Journal of
+Behavioral Nutrition and Physical Activity, 19, 125. [CrossRef]
+Salmerón Aroca, J. A., Moreno Abellán, P ., & Martínez de Miguel López, S. (2023). Teachers’ professional development and intelligent
+ways of coping with it: A systematic review in elementary and middle school education. Journal of Intelligence, 11(1), 1. [CrossRef]
+Shahzad, K., Khan, S. A., Javed, Y., & Iqbal, A. (2023a). E-learning for continuing professional development of university librarians: A
+systematic review. Sustainability, 15(1), 849. [CrossRef]
+Shahzad, K., Khan, S. A., Latif, M., & Iqbal, A. (2023b). Relationship between personal traits and sustainable competence development
+among librarians in relation to value-added library services in a networked world: A systematic literature review from 2002 to
+2022. Sustainability, 15(3), 2359. [CrossRef]
+Shiri, R., El-Metwally, A., Sallinen, M., Pöyry, M., Härmä, M., & Toppinen-Tanner, S. (2023). The role of continuing professional training
+or development in maintaining current employment: A systematic review. Healthcare, 11, 2900. [CrossRef]
+Sims, S., & Fletcher-Wood, H. (2021). Identifying the characteristics of effective teacher professional development: A critical review.
+School Effectiveness and School Improvement, 32(1), 47–63. [CrossRef]
+Sims, S., Fletcher-Wood, H., O’Mara-Eves, A., Cottingham, S., Stansfield, C., Van Herwegen, J., & Anders, J. (2021). What are the
+characteristics of effective teacher professional development? A systematic review and meta-analysis. Education Endowment Foundation.
+Available online: https://files.eric.ed.gov/fulltext/ED615914.pdf (accessed on 18 June 2024).
+Sims, S., Fletcher-Wood, H., O’Mara-Eves, A., Cottingham, S., Stansfield, C., Goodrich, J., Van Herwegen, J., & Anders, J. (2023).
+Effective teacher professional development: New theory and a meta-analytic test. Review of Educational Research, 0(0). [CrossRef]
+<<<PAGE=22>>>
+Educ. Sci. 2025, 15, 95 22 of 22
+Su, C. S., Díaz-Levicoy, D., Vásquez, C., & Hsu, C. C. (2023). Sustainable development education for training and service teachers
+teaching mathematics: A systematic review. Sustainability, 15, 8435. [CrossRef]
+Surahman, E., & Wang, T.-H. (2023). In-service STEM teachers professional development programmes: A systematic literature review
+2018–2022. Teaching and Teacher Education, 135, 104326. [CrossRef]
+Ventista, O. M., & Brown, C. (2023). Teachers’ professional learning and its impact on students’ learning outcomes: Findings from a
+systematic review. Social Sciences & Humanities Open, 8(1), 100565. [CrossRef]
+Wang, Q., Lai, Y.-L., Xu, X., & McDowall, A. (2022). The effectiveness of workplace coaching: A meta-analysis of contemporary
+psychologically informed coaching approaches. Journal of Work-Applied Management, 14(1), 77–101. [CrossRef]
+Wenzel, R., & Cordery, J. (2014).Training transfer research: A manager’s guide and bibliography. Australian Institute of Management.
+Willems, I., & Van den Bossche, P . (2019). Lesson study effectiveness for teachers’ professional learning: A best evidence synthesis.
+International Journal for Lesson and Learning Studies, 8(4), 257–271. [CrossRef]
+Willemsen, J., de Condé, H., Kaluzeviciute-Moreton, G., Guogaite, G., Polipo, N. F., & Zech, E. (2023). A qualitative meta-analysis
+examining the impact of personal therapy on clinical work and personal and professional development. Counselling and
+Psychotherapy Research, 24(3), 853–869. [CrossRef]
+Williams, E., Fernandes, R. D., Choi, K., Fasola, L., & Zevin, B. (2023). Learning outcomes and educational effectiveness of e-learning as
+a continuing professional development intervention for practicing surgeons and proceduralists: A systematic review. Journal of
+Surgical Education, 80(8), 1139–1149. [CrossRef]
+Wißhak, S. (2022). Transfer in der berufsbezogenen Weiterbildung: Systematisches Literaturreview und Synthese mit Blick auf die
+Handlungsmöglichkeiten der Lehrenden [Transfer in professional training: Systematic literature review and synthesis with
+regard to the options for action of teachers]. Zeitschrift für Weiterbildungsforschung, 45, 69–88. [CrossRef]
+Wong, S. S. K., Cross, J. A., & Mueller, P . S. (2018). Impact of mentoring on practicing engineers: A meta-synthesis.Journal of Workplace
+Learning, 30(6), 415–441. [CrossRef]
+Yang, W., Huang, R., Su, Y., Zhu, J., Hsieh, W. Y., & Li, H. (2022). Coaching early childhood teachers: A systematic review of its effects
+on teacher instruction and child development. Review of Education, 10(1), e3343. [CrossRef]
+Zhou, N., Tigelaar, D. E. H., & Admiraal, W. (2022). Vocational teachers’ professional learning: A systematic literature review of the
+past decade. Teaching and Teacher Education, 119, 103856. [CrossRef]
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.

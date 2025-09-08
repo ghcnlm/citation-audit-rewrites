@@ -1,0 +1,29 @@
+RESEARCH QUESTION (H1):
+{{ research_question }}
+
+SECTION FOCUS (H2/H3/H4 title):
+{{ section_title }}
+
+ORIGINAL CLAIM (UNSUPPORTED):
+{{ claim_text }}
+
+CITED SOURCE:
+- {{ citation_author }} ({{ citation_year }})
+- {{ source_pdf_path }}
+
+RELEVANT EXCERPTS (with page ranges):
+{% for ex in evidence %}
+[pp. {{ ex.page_range }}] {{ ex.text }}
+{% endfor %}
+
+Instructions:
+- Produce a replacement that fits seamlessly where the original claim sits.
+- It must rely on the ideas in the excerpts and include a parenthetical citation with pages.
+- Keep it concise but sufficient; multiple sentences allowed if needed.
+- If the source has multiple authors, use the “Surname et al., YEAR” short form in the parenthetical citation.
+
+Return strictly in JSON with:
+- proposed_rewrite (string, includes a parenthetical with pages)
+- page_anchor (string like "p. 6" or "pp. 247–252")
+- notes (string; brief rationale of how the rewrite aligns with section focus and RQ)
+- risk_flags (array of strings; e.g., ["secondary_citation","weak_evidence"])

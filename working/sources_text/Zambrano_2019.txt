@@ -1,0 +1,1091 @@
+<<<PAGE=1>>>
+Contents lists available atScienceDirect
+Learning and Instruction
+journal homepage: www.elsevier.com/locate/learninstruc
+Eﬀects of prior knowledge on collaborative and individual learning
+Jimmy Zambrano R.a,∗, Femke Kirschnerb, John Swellerc, Paul A. Kirschnerd
+a Open University of the Netherlands. Welten Institute, PO Box 2960, 6401 DL, Heerlen, the Netherlands
+b Utrecht University. Faculty of Social Sciences, PO Box 80125, 3508 TC, Utrecht, the Netherlands
+c University of New South Wales, School of Education, Sydney, NSW 2052, Australia
+d Open University of the Netherlands/University of Oulu. Welten Institute, PO Box 2960, 6401 DL, Heerlen, the Netherlands
+ARTICLE INFO
+Keywords:
+Cognitive load theory
+Collaborative learning
+Individual learning
+Prior knowledge
+ABSTRACT
+Collaborative learning is an extensively used instructional technique by which individuals interact in small
+groups to learn to solve academic problems. This study aimed to determine the impact of task-speciﬁc prior
+knowledge on individual learners and collaborative groups that were instructed to collaborate. A 2 (individual
+vs. collaborative group) × 2 (novice vs. knowledgeable learners) factorial experiment with 228 students was
+carried out to examine the eﬀects of these treatments on performance and mental eﬀort in learning and its
+outcomes. As expected, knowledgeable individuals and knowledgeable collaborative groups outperformed no-
+vice individuals and novice collaborative groups in learning outcomes. Less knowledgeable, collaborating
+learners outperformed less knowledgeable, individual learners in learning outcomes. While more knowledgeable
+collaborating and individual learners performed equally well in the learning phase and the delayed test, on the
+retention test, collaborative groups demonstrated better performance. In general, collaboration bene ﬁted
+learning compared to individual learning in complex tasks, but performance depended on the learner task-
+speciﬁc prior knowledge.
+1. Introduction
+Collaborative learning is an extensively used instructional tech-
+nique. It refers to the process by which individuals interact in small
+groups to learn to solve academic problems (
+Slavin, 2014). However,
+literature indicates that learning in groups is not always associated with
+better learning compared to individual learning (
+Clinton & Kohlmeyer,
+2005; Morgan & Tindale, 2002; Shibley & Zimmaro, 2002; Tindale,
+1993; Weldon, Blair, & Huebsch, 2000).
+This article begins with a short discussion of the importance of
+developing eﬀective collaborative groups (i.e., team formation) and
+reveals that the results of research in this area are inconclusive. That
+being said, from an instructional perspective data indicate that pro-
+viding explicit guidance on how to collaborate on highly demanding
+tasks may help collaborative groups to take advantage of inter-in-
+dividual activities for learning. The discussion on developing colla-
+borative groups is followed by a review of collaborative learning re-
+search from a cognitive load theory (CLT) perspective (
+Sweller, Ayres,
+& Kalyuga, 2011). The experiment carried out here examined whether,
+taking prior knowledge into account, collaborative groups are more
+eﬀective than individual learners when they are prepared to learn
+collaboratively with highly-complex tasks. Groups were prepared for
+collaboration via explicit guidance on how to work together con-
+sidering the characteristics of the tasks.
+1.1. Promoting successful collaboration
+One way to maximize collaborative learning is to develop colla-
+borative groups to be eﬀective. Research on team development suggests
+that a collaborative group is eﬀective when it develops shared mental
+models, mutual performance monitoring, and interpersonal trust
+(
+Fransen, Kirschner, & Erkens, 2011), positive social interdependence
+(D. W. Johnson & Johnson, 2009) or social cohesion (Sharan & Sharan,
+1992). This assumes that high-performing groups require extensive
+periods of time (Gersick, 1988; S. D. Johnson, Suriya, Won Yoon,
+Berrett, & La Fleur, 2002). However, research shows that collaborative
+group development is not always associated with higher performance.
+For example, concerning cohesion (i.e., the progressive tendency for a
+group to stick together in the pursuit of instrumental goals), a meta-
+analysis showed that the cohesion-performance relationship was
+stronger for tasks requiring high interdependence such as commu-
+nication, coordination, and mutual performing monitoring (
+Gully,
+https://doi.org/10.1016/j.learninstruc.2019.05.011
+Received 31 August 2018; Received in revised form 19 May 2019; Accepted 24 May 2019
+∗ Corresponding author.Welten Institute, PO Box 2960, 6401 DL, Heerlen, the Netherlands.
+E-mail addresses: info@jimmyzambrano.com (J. Zambrano R.),f.c.kirschner@uu.nl (F. Kirschner),j.sweller@unsw.edu.au (J. Sweller),
+paul.kirschner@ou.nl (P.A. Kirschner).
+Learning and Instruction 63 (2019) 101214
+0959-4752/ © 2019 Elsevier Ltd. All rights reserved.
+T
+<<<PAGE=2>>>
+Devine, & Whitney, 2012). However, a subsequent meta-analysis re-
+examining this relationship found that cohesion had a lower eﬀect size
+with increasing performance, decreasing even further when the mea-
+sure of cohesion was more general (
+Castaño, Watts, & Tekleab, 2013).
+From an instructional perspective, there is also evidence that sug-
+gests that learners can take advantage of collaborative work when they
+receive guidance on how to collaborate rather than waiting for colla-
+borative groups to develop naturally. For example,
+Buchs, Gilles,
+Antonietti, and Butera (2015)used 10 min to instruct group members
+on collaborative skills. They found that learning in dyads with in-
+structional support on how to work together produces better learning
+outcomes compared to learning individually or collaboratively without
+instructional support.
+Prichard, Bizo, and Stratford (2006)examined
+the beneﬁts of guiding collaborative members on how to work in groups
+with three cohorts. In general, they found that the cohort that received
+instructions on how to collaborate outperformed the cohort that was
+not trained and that the beneﬁts of the collaboration guide could be lost
+when the collaborative group members split up into new groups.
+Group development and instructional approaches have in common
+that collaborative groups should have some experience or guidance in
+working together. A factor in this might be task complexity as a de-
+terminant of the eﬀectiveness of learners who have been prepared to
+collaborate compared to individual learners. Task complexity is a
+concern that has been extensively studied within a CLT framework.
+1.2. Collaboration from a cognitive load theory perspective
+CLT is an instructional perspective based on human cognitive ar-
+chitecture (
+Sweller, Van Merriënboer, & Paas, 2019). It suggests that
+when acquiring and automating complex knowledge (e.g., school do-
+mains) instructors should provide proper guidance keeping task com-
+plexity within working memory capacity which can be as low as two
+elements (
+Gilchrist & Cowan, 2011) and considering whether long-term
+memory structures facilitate or impair learning ( Kalyuga, Ayres,
+Chandler, & Sweller, 2003). Cognitive load refers to the load on
+working memory when processing information (Sweller et al., 2011).
+CLT researchers have presented evidence that students learn better
+when they process task information within the boundaries of working
+memory (
+Sweller et al., 2011). If tasks are complex and little knowledge
+is stored in long-term memory, learners experience overload and per-
+formance decays.
+Collaborative learning is an emerging research topic in CLT. Under
+some circumstances group interactions can be a source of cognitive load
+associated with a collaborative learning task (P. A. Kirschner, Sweller,
+Kirschner, & Zambrano R., 2018). However, evidence of the advantages
+of collaborative learning compared with individual learning is not al-
+ways consistent. On the one hand, there is evidence that a collabora-
+tion-based approach may be more beneﬁcial than individual learning
+when problems are highly complex and when information is distributed
+among diﬀerent working memories. Investigations by F.
+Kirschner,
+Paas, and Kirschner (2009, 2011; 2011) suggest that groups may be
+more eﬀective and eﬃcient because members can make use of each
+other's working memory resources (the collective working memory ef-
+fect; F.
+Kirschner, Paas, & Kirschner, 2011). The collective working
+memory eﬀect holds that collaborative learning is more eﬀective than
+individual learning when the complexity of the learning material is high
+(F.
+Kirschner, Paas, & Kirschner, 2011). Sharing information processing
+of learning materials among the collaborative group members who
+share working memory resources permits better comprehension and
+knowledge acquisition of the to be learned tasks. This eﬀect seems to
+occur when the beneﬁts of reducing cognitive load due to information
+distribution (i.e., making learners depend on each other's information)
+are higher than the cognitive costs incurred in communication and
+coordination activities (i.e., transactional activities). F.
+Kirschner, Paas,
+and Kirschner (2011)also found that for low-complexity tasks, colla-
+borative learning was redundant since group members achieved equal
+or lower performance and eﬃciency scores than individuals. An inter-
+esting result in F.Kirschner, Paas, and Kirschner (2011)is that group
+members perceived a higher perception of mental eﬀort in the learning
+phase which was related to a higher performance and eﬃciency on the
+posttest.
+On the other hand, evidence suggests that collaboration does not
+improve learning either low- nor high-complexity tasks compared with
+individual learning. Investigations by
+Retnowati, Ayres, and Sweller
+(2010, 2016) investigated the eﬀect of conventional problems and
+worked-out examples (worked examples) on individual and collabora-
+tive learning. They found that in some high-complexity tasks, in-
+dividuals performed better than groups. They also found that working
+in collaborative groups was more beneﬁcial than working alone in
+problem-solving tasks. In general, Retnowati et al. concluded that at
+least under some circumstances, especially when using worked ex-
+amples collaborative learning is not better than individual learning
+either in high or low complex tasks. Unlike the Kirschner et al. study,
+task information was not distributed among members in these studies.
+Curiously, in the learning phase of the second experiment (
+Retnowati,
+Ayres, & Sweller, 2016), individual learners outperformed groups in
+high-complexity tasks with a signiﬁcantly higher cognitive load.
+When considering prior knowledge, there are also mixed results.
+Zhang, Kalyuga, Lee, Lei, and Jiao (2015) explored collaborative
+learning when grouping learners by their scores of the previous year.
+Learners with lower scores were collaboratively grouped and categor-
+ized as less knowledgeable learners (with lower prior knowledge), and
+those with higher score as advanced learners (higher prior knowledge).
+The latter did not receive instruction on the domain-speciﬁc learning
+task. Researchers found that heterogeneous groups (i.e., groups in-
+cluding novice and advanced learners) favored lower prior knowledge
+learners, whereas for more knowledgeable learners, homogeneity was
+redundant. Moreover, individuals with higher prior domain knowledge
+marginally outperformed homogeneous and heterogeneous groups.
+Zhang, Kalyuga, Lee, and Lei (2016)replicated this study and obtained
+similar results. These studies are limited because novice and advanced
+students were not grouped using prior knowledge speciﬁcally related to
+the learning tasks.
+Retnowati, Ayres, and Sweller (2018)performed a study manip-
+ulating prior knowledge of learning tasks. Participants had either in-
+complete or complete prior knowledge and compared collaborative
+groups with individual learning. Interaction analyses revealed that
+when learners have gaps in their knowledge base, collaborative
+learning is superior to individual learning. However, when learners
+have complete prior knowledge, individual learning is superior to col-
+laborative learning. They also found that individual learning condition
+participants with complete prior knowledge for all learning tasks (in-
+dividual-complete knowledge condition) outperformed collaboration
+with complete and incomplete knowledge and individual with in-
+complete knowledge conditions in transfer tasks. However, the re-
+searchers did not compare complex and simple tasks. It is not yet clear
+whether these results would vary if the complexity of the tasks is in-
+creased to the point that individual learners with complete prior
+knowledge still need to rely on other group members’ working memory
+resources.
+Considering prior knowledge in collaborative learning also can pose
+challenges in predicting cognitive load. If group members are advanced,
+learning collaboratively may be harmful because transaction activities
+demand working memory resources resulting in increases in cognitive
+load. However, if the task has a very high level of interactive elements
+and peers have partially developed previous knowledge, it can be ex-
+pected that the collaboration is beneﬁcial. Thus, demands on working
+memory may increase if collaboration is unnecessary and decrease if
+collaborating partners have useful knowledge with group members
+taking advantage of partially developed schemas to re ﬁne their
+knowledge in a learning situation (i.e., reexposure eﬀect;
+Rajaram &
+Pereira-Pasarin, 2010). These two opposing eﬀects on working memory
+J. Zambrano R., et al. Learning and Instruction 63 (2019) 101214
+2
+<<<PAGE=3>>>
+demands may counteract each other.
+1.3. The present study
+Task complexity, information distribution (member inter-
+dependence), and prior knowledge are factors that may explain the
+advantage of collaborative learning. However, the inconclusive results
+seem to suggest that grouping learners to collaborate does not ne-
+cessarily promote better learning (
+Gillies, 2016). Also, currently there
+are no data from CLT-based studies about preparing groups to colla-
+borate (see section
+1.1).
+Instructing students how to work collaboratively on speciﬁc tasks
+may be a category of domain-generalized knowledge (Kalyuga, 2013)a t
+the group level (P. A. Kirschner, Sweller, Kirschner, & Zambrano,
+2018). Knowledge about how to collaborate may work better when it is
+built into a domain-speciﬁc task. When this type of knowledge is
+learned in task-speciﬁc situations, it may be retrieved from long-term
+memory and used in similar tasks through analogical transfer (Gick &
+Holyoak, 1980). For example, a group of learners may better learn
+problems of linear demand and supply curves in an administration
+subject if they previously learned to solve problems of linear equations
+in mathematics compared to another group of learners who did not
+work on mathematics tasks as a team. Group members may transfer
+their experience from one task situation to another byﬁnding corre-
+spondences through schema induction (
+Gick & Holyoak, 1980). Gen-
+eralized domain-knowledge on collaborative work may explain why
+learners who are prepared to work together are more eﬀective than
+individual learners (
+Buchs et al., 2015; Prichard et al., 2006).
+This study is aﬁrst step to attempt to close this gap. Accordingly,
+this experiment examined the eﬀect of learning in groups instructed to
+collaborate vs. learning individually and the eﬀect of prior knowledge
+level on performance and mental eﬀort with high-complexity problems.
+The hypotheses were:
+H1. When learning individually, students with more knowledge will
+outperform and invest less mental e ﬀort than students with less
+knowledge.
+H2. When learning in collaborative groups, students with more
+knowledge will outperform students with less knowledge but the
+counteractive e ﬀects on mental e ﬀort when more and less
+knowledgeable students collaborate cannot be precisely determined.
+H3. For learners with less knowledge, collaborative learning groups
+will outperform and perceive less mental eﬀort than individual learning
+groups.
+H4. For learners with more knowledge, learning in collaborative groups
+will become detrimental and no advantage to learning in collaborative
+groups will be found.
+2. Method
+2.1. Participants
+This study was conducted with 228 students (135 females, 93
+males) of a large, public high school in Sangolquí, Ecuador. Their
+average age was 15.87 years (SD = 0.745). The study was part of the
+mathematics classes and received approval from the local ethical
+committee. Participants did not have prior knowledge of the learning
+phase tasks because it is not included in the content of the very strict
+national curriculum which explicitly prohibits teaching topics not in the
+curriculum. Further, teachers at the school conﬁrmed that they had not
+previously taught the content of the learning tasks and that all parti-
+cipants came from the same school. Finally, participants were randomly
+assigned to the conditions to exclude any systematic prior knowledge
+diﬀerences. Participants were noti ﬁed of the study and received
+academic compensation of 10 points for voluntary participation.
+2.2. Design and procedure
+A 2 (collaborative learning vs. individual learning) x 2 (less vs. more
+knowledgeable learners) factorial design was used. Dependent variables
+were performance and mental eﬀort. The study was conducted inﬁve
+phases: preparation, prior knowledge instruction, learning, retention
+testing, and delayed testing. Each phase consisted of multiple sessions
+of 45 min. Three instructors and the experimenter guided participants
+throughout all phases of the study. The experimenter supervised the
+procedure to guarantee interventionﬁdelity. All instructions were read
+aloud.
+The ﬁve phases entailed:
+1. Preparation: Construct collaboration schemas using the previously
+learned domain-speciﬁc task of solving quadratic equations and
+emphasizing collaborative work. Half of the participants formed 3-
+person collaborative groups (collaborative group condition), and the
+other half worked individually (individual condition). This phase
+consisted of four sessions over one week.
+2. Prior knowledge instruction: Half of each of the collaborative group
+and individual conditions received instruction on how to calculate a
+break-even point (BEP). This phase comprised one session on the
+day following the preparatory phase.
+3. Learning: All participants received the same learning tasks to cal-
+culate the BEP either as individuals or in teams. This phase com-
+prised one session on the day following the prior knowledge in-
+struction phase.
+4. Retention testing: Similar problems with only the name of the costs
+and their values varied from the learning tasks were used to evaluate
+the outcomes of the collaborative and individual learning conditions
+one day after the learning phase.
+5. Delayed testing: Similar retention testing problems but seven days
+after the learning phase.
+The preparation phase began in the second week of the new school
+term, after two months of school vacation, to reduce eﬀects of having
+previously worked together. Participants were randomly assigned to
+two conditions: individual learning and collaborative groups. All lear-
+ners worked on solving quadratic equations. There were no time re-
+straints on theﬁrst tasks, but 10 min were allotted to solve theﬁnal two
+tasks from the second session onwards (a digital clock was placed in
+front of the class); writing was permitted only for theﬁnal answer.
+Instructors encouraged members to interact with each other, to share
+their values and coordinate calculations among themselves, and dis-
+couraged non-task conversations. Participants received the correct an-
+swers at the end of each session and were asked to think about how they
+may collaborate better on the following tasks.
+In theprior knowledge instruction phase, half of the participants were
+randomly selected to receive additional instruction. Each learner re-
+ceived a booklet with the concepts of the BEP and a worked example on
+how to solve a problem (8 min). After studying the booklet, they solved
+three conventional problems individually (7 min each) using the
+worked example of the booklet as assistance. After solving each pro-
+blem, they received the worked example of the three problems and
+were asked to compare their results and correct their mistakes.
+Moreover, learners were asked if they had questions to clarify any step
+for calculating the BEP. Instructors made sure all learners had corrected
+the errors to foster problem-solving understanding. The other half of
+the participants received a theoretical class about the topic of the new
+term, real number properties, which was unrelated to the BEP.
+In the learning phase, only individuals and groups that had com-
+pleted the previous phases participated. An a priori analysis with a
+power of .8 and a medium-size eﬀect (i.e., 0.06;
+Cohen, 1998) revealed
+that the study required 32 individuals for the individual learning
+J. Zambrano R., et al. Learning and Instruction 63 (2019) 101214
+3
+<<<PAGE=4>>>
+condition or 11 triadic groups for the collaborative learning condition
+to reliably test the hypotheses (see Results section). Collaborative group
+members remained in their groups to maintain the previous schemas of
+working together (
+Prichard et al., 2006 ). Groups and individuals
+worked on three tasks to calculate the BEP (9 min for task 1, 8 min for
+tasks 2 and 3 = 25 min). As in the preparation phase, the instructors
+encouraged group members to share their values and to coordinate the
+calculations to solve each problem. If a collaborative group or in-
+dividual solved the task before the time assigned, that group or in-
+dividual was required to wait to start the next problem. All problems
+were solved mentally. Using paper and pencil was only permitted for
+recording the ﬁnal answer and indicating the mental eﬀort after com-
+pleting each task.
+In theretention and delayed test phases, participants were required
+to individually solve three conventional problems in 30 min, 10 min per
+problem. They were asked to write the calculations for each step of the
+problems and scored the amount of mental eﬀort invested in each
+problem. If a student was absent from the retention test, s/he was al-
+lowed to take the delayed test and vice-versa because each test was
+analyzed independently. No case, thus, needed to be deleted.
+2.3. Materials
+The materials were in the domain of mathematics and economics.
+The preparation phase consisted of solving quadratic equations, while
+the remaining phases involved calculating BEPs. All materials were
+paper-based and presented in booklets.
+2.3.1. Preparation phase
+Quadratic equations are compulsory in the national curriculum, and
+the participants had already received instruction the previous year. All
+tasks were designed and assigned with a completion strategy scaf-
+folding approach (
+Van Merriënboer, 1990) as follows: theﬁrst session
+began with an introduction about quadratic equations and two worked
+examples showing how to solve them using the factoring method during
+prior knowledge activation. Five rules on how to solve the equations
+collaboratively were given and explained to the collaborative group
+condition, followed by a worked example showing how each group
+member should apply them (see supplementary material), and a con-
+ventional task with the correct answer. Examples of the rules are: When
+it is possible to perform the calculations without the help of others, do it
+alone and continually rehearse the results to avoid forgetting them. For
+the collaborative group condition, we manipulated the task informa-
+tion, unpacking the equation values to distribute them among group
+members (e.g., for −45x
+2, each member would receive−15x2), re-
+quiring each learner to depend on other members to solve the problem.
+This manipulation also had the purpose of providing prior experience
+for the information distribution of the learning tasks. Each member
+received diﬀerent values for solving the same equation and a table in
+which they could write down the intermediate steps (see supplementary
+material). The individual condition participants received the same va-
+lues and the table.
+In the second session, both conditions received the rules of colla-
+boration, two conventional problems with correct answers, and a con-
+ventional problem without the correct answer again. The conventional
+problems had six values, two for each group member; individuals re-
+ceived all values. In the third and fourth sessions, both collaborative
+groups and individuals received three conventional quadratic equation
+problems without correct answers, with six to nine values (e.g.,
+− + −−+ =− + +xx x x x x10 5 50 50 200 1 50 50 10022 2).
+2.3.2. Prior knowledge instruction phase
+One way to acquire generalizable domain-speciﬁc collaboration
+schemas may be to use diﬀerent tasks but with analogous features.
+Calculating the BEP is a problem with similar characteristics to quad-
+ratic equations such as: requiring a combination of several numerical
+values, using basic mathematical operations, calculating partial an-
+swers, holding them in working memory, andﬁnding a single correct
+answer. The material included a brief explanation of the BEP and a
+worked example (see
+Table 1 and steps in Table 2). It also included
+three conventional problems that were similar to those used in the
+learning phase, and their corresponding resolution process (worked
+examples).
+2.3.3. Learning phase
+Each participant received the concepts of the BEP, two worked ex-
+amples, prompt questions, three learning tasks, and a piece of paper
+with examples ofﬁxed and variable costs and the BEP in unit's formula
+(see step 6,
+Table 2). The booklet explained the BEP and the types of
+costs (i.e., ﬁxed and variable costs, variable cost per unit, and total
+costs), the contribution, and the BEP both in units and sales. The
+worked examples contained a 7-step procedure (see
+Table 2). Examples
+of prompt questions were: What was the diﬀerence between the BEPs in
+units and sales? How did you calculate the contribution? Examples of
+ﬁxed and variable costs were provided to avoid confusion during the
+learning phase.
+Participants from the collaborative group and individual conditions
+received the same learning tasks. Task complexity level was determined
+using the method of
+Sweller and Chandler (1994), which counts the
+number of items and operations that must be considered and processed
+in working memory to solve the task. As presented in
+Table 2, the 7-step
+procedure to solve each problem comprised nine items that must be
+integrated during 8 min to obtain a single correct answer (
+Table 2). Like
+the equations of the preparation phase, no step could be solved without
+all members sharing and working together on their items. Each member
+needed to depend on other's information. A group member received a
+ﬁxed cost, a variable cost and any of the other three items that were
+insuﬃcient to solve each step of the problem. Members had to share all
+their items, coordinate how to solve each step, and jointly perform
+calculations using basic mathematical operations. Each step varied in
+the number of interacting items (column 3 of
+Table 2), amounting to a
+total of 45 including mathematical signs. Also, in each step, individual
+participants and collaborative groups had to perform multiple mental
+calculations to ﬁnd many partial answers, hold them temporarily in
+working memory (column 4 of
+Table 2), and then integrate them with
+partial answers computed by others in the group without writing the
+calculations (i.e., mental arithmetic;
+DeStefano & LeFevre, 2004). Given
+these cognitive demands, it was assumed that the tasks were highly
+complex.
+2.3.4. Retention and delayed test phases
+The quality of the task-speciﬁc knowledge of each participant was
+assessed using six similar problems with the same level of complexity as
+the learning tasks. Participants received worksheets with three tasks
+one day after the learning tasks (the retention test) and three other
+similar tasks seven days after (the delayed test). Each problem included
+a table with seven numbered rows to write the calculations for each
+step of the solution process.
+Table 1
+Example a BEP problem.
+Calculate the break-even point of a school chairs business:
+• Total chairs produced: 50
+• Price of each chair: $41
+• Oﬃce and warehouse rental: $108
+• Cost of the wood for the chairs: $155
+• Administrator's salary: $119
+• Cost of the metal for the chairs: $63
+• Proﬁt: $ 52
+• Cost of the paint for the chairs: $82
+• Electricity, water, telephone, and Internet service: $71
+J. Zambrano R., et al.
+Learning and Instruction 63 (2019) 101214
+4
+<<<PAGE=5>>>
+2.4. Measurement
+2.4.1. Cognitive load
+Cognitive load was measured subjectively in the learning, retention
+test, and delayed test phases using a 9-point mental eﬀort rating scale
+(
+Paas, Tuovinen, Tabbers, & Van Gerven, 2003). Mental eﬀort “refers to
+the cognitive capacity that is actually allocated to accommodate the
+demands imposed by the task; thus, it can be considered to reﬂect the
+actual cognitive load” (
+Paas et al., 2003, p. 64). The scale is non-in-
+trusive, is sensitive to changes in complexity, and is valid, and reliable
+for individual learning (
+Szulewski, Gegenfurtner, Howes, Sivilotti, &
+van Merriënboer, 2017). Participants were asked to‘Please rate the
+level of mental eﬀort you invested in this task’ on a Likert scale ranging
+from 1 (very, very low mental eﬀort) to 9 (very, very high mental ef-
+fort) after each problem to obtain a more precise estimation of the in-
+vested load (
+Van Gog, Kirschner, Kester, & Paas, 2012). Cognitive load
+for each collaborative group for the learning phase was calculated
+averaging the scores of the members. Individual scores were used in
+subsequent phases.
+2.4.2. Performance
+Performance was measured in the learning, retention test, and de-
+layed test phases. The total number of points for all three learning tasks
+was 3: 1 point per correct answer or 0 points if the answer was in-
+correct. For the three tasks of the retention test and delayed test, a total
+of 7 points could be awarded based on the seven calculations required
+to obtain the BEP. Each calculation was scored individually based on
+whether correct values and mathematical operations were used. Correct
+calculations received 1 point and incorrect calculations 0 points, re-
+sulting in a maximum score of 21 points and a minimum of 0. If a step
+was partially correct, a proportional score was given (e.g., if in steps 4,
+6 or 7 an incorrect value was used, ½ point was given). Performance
+scores on the learning, retention test and delayed test phases were
+transformed into proportions.
+3. Results
+The data were analyzed with 2 (collaborative group vs. individual
+learning) x 2 (less knowledgeable learners vs. more knowledgeable
+learners) analyses of variance (ANOVAs). Dependent variables were
+performance and mental eﬀort, which were measured and analyzed
+separately for the learning, retention test, and delayed test phases.
+There were no activities or analyses carried out between the phases.
+Data exploration revealed outliers. However, the outliers were not ex-
+cluded because an analysis that excluded outliers showed that they did
+not alter the pattern of signiﬁcant results. The results are reported se-
+parately, and the means and standard deviations of the dependent
+variables for all phases are shown in
+Tables 2–4. A summary of all
+signiﬁcant results is provided inAppendix A. A signiﬁcance level of
+0.05 was used for all analyses. Partial eta-squared was used as a mea-
+sure of eﬀect size, with values of 0.01, 0.06, and 0.14 corresponding to
+small, medium, and large eﬀects, respectively (
+Cohen et al., 1988).
+3.1. Learning phase
+Two collaborative groups and two individuals were excluded from
+the analysis after not completing the previous phases. In this phase, 17
+three-person novice collaborative groups, 19 knowledgeable colla-
+borative groups, 66 less knowledgeable individuals, and 46 more
+knowledgeable individuals participated.
+Table 3 shows descriptive
+statistics.
+Concerning performance, the ANOVA revealed a signiﬁcant main
+eﬀect for condition, F(1, 144) = 18.391, MSE = 0.073,p < .001,
+ηp
+2 = 0.113: collaborative groups (M = 0.69,SD = 0.31) outperformed
+individual learners (M = 0.42,SD = 0.34). The main eﬀect for knowl-
+edge level was also signi ﬁcant, F(1, 144) = 49.265, MSE = 0.073,
+p < .001,ηp
+2 = 0.255: knowledgeable learners (M = 0.71,SD = 0.25)
+outperformed novice learners (M = 0.31,SD = 0.31). The interaction
+Table 2
+Process to calculate the BEP.
+Steps to solve the problem Calculations Interacting elements Temporary answers maintained in working memory
+1. Recognize cost items Nine items of the problem
+155, 63, 82, 50, 41, 108, 71, 119, 52
+9
+2. Total variable cost VC
+1 +VC2 +V C3 = TVC
+155 + 63 + 82 = 300
+7 300
+3. Variable cost per unit TVC ÷ amount produced = CU
+300 ÷ 50 = 6
+5 300, 6
+4. Contribution Price – CU = C
+41–6=3 5
+56 , 35
+5. Totalﬁxed cost FC 1 +F C2 +F C3 + proﬁt = TFC
+108 + 71 + 119 + 52 = 350
+9 35, 350
+6. BEP in units TFC ÷ C = BPU
+350 ÷ 35 = 10
+5 35, 350, 10
+7. BEP in sales BPU × price = BPS
+10 × 41 = 410
+5 10, 410
+Note. CV = variable cost; FC =ﬁxed cost; TVC = total variable cost; CU = variable cost per unit; C = contribution; TFC = totalﬁxed cost; BPU = BEP in units;
+BPS = BEP in sales.
+Table 3
+Means and standard deviations for dependent variables in the learning phase.
+Dependent variables Collaborative groups Individuals
+MS D M SD
+Learning performance (0–1)
+Less knowledgeable learners .51 .31 .25 .29
+More knowledgeable learners .84 .20 .65 .24
+Learning mental eﬀort (1–9)
+Less knowledgeable learners 6.27 2.06 6.41 1.58
+More knowledgeable learners 6.99 1.68 5.51 1.87
+Table 4
+Means and standard deviations for dependent variables in the retention test
+phase.
+Dependent variables Collaborative groups Individuals
+MS D M SD
+Retention test performance (0–1)
+Less knowledgeable learners .50 .22 .23 .22
+More knowledgeable learners .87 .18 .74 .24
+Retention test mental eﬀort (1–9)
+Less knowledgeable learners 6.01 2.50 3.86 2.29
+More knowledgeable learners 5.67 1.87 6.12 1.62
+J. Zambrano R., et al.
+Learning and Instruction 63 (2019) 101214
+5
+<<<PAGE=6>>>
+between main e ﬀects was not signi ﬁcant; F(1, 144) = 0.417,
+MSE = 0.073,ns.
+For mental eﬀort, the main eﬀect for condition was signiﬁcant, F(1,
+144) = 4.006, MSE = 3.052,p = .047, ηp
+2 = 0.027: collaborative
+groups (M = 6.65, SD = 1.88) experienced more mental eﬀort than
+individual learners (M = 6.04,SD = 1.76). However, the main eﬀect
+for knowledge level was not signi ﬁcant, F(1, 144) = 0.077,
+MSE = 3.052,ns. The interaction between these eﬀects was signiﬁcant,
+F(1, 144) = 5.849, MSE = 3.052,p = .017, ηp
+2 = 0.039. A post-hoc
+Bonferroni test showed that for participants learning individually, more
+knowledgeable learners reported less mental eﬀort than less knowl-
+edgeable learners (p = .008,η
+p
+2 = 0.048). No diﬀerences were found
+for participants learning in collaborative groups. The test also showed
+no diﬀerence for less knowledgeable learners; however, for more
+knowledgeable learners, collaborative groups reported more mental
+eﬀort than individuals (p = .002, η
+p
+2 = 0.063).
+3.2. Retention test
+In this phase, 49 novice collaborative group members, 56 knowl-
+edgeable collaborative group members, 61 novice individuals, and 46
+knowledgeable individuals participated.
+Table 4shows the descriptive
+results.
+The ANOVA for performance found a signiﬁcant main eﬀect for
+condition, F(1, 208) = 46.764, MSE = 0.047,p < .001, ηp
+2 = 0.184:
+collaborative groups (M = 0.70,SD = 0.27) outperformed individuals
+(M = 0.45, SD = 0.34). Concerning knowledge level, F
+(1, 208) = 217.926, MSE = 0.047,p < .001, ηp
+2 = 0.512: more
+knowledgeable participants (M = 0.81,SD = 0.22) outperformed less
+knowledgeable participants (M = 0.35, SD = 0.26). The interaction
+between main e ﬀects was also signi ﬁcant, F(1, 208) = 5.580,
+MSE = 0.047,p = .019,ηp
+2 = 0.026. The Bonferroni test showed that
+for participants learning individually, more knowledgeable learners
+outperformed less knowledgeable learners (p < .001, η
+p
+2 = 0.414);
+among participants learning in collaborative groups, more knowl-
+edgeable participants outperformed less knowledgeable learners
+(p < .001, η
+p
+2 = 0.270). It was also found that among more knowl-
+edgeable learners, collaborative groups outperformed individual lear-
+ners (p < .001, η
+p
+2 = 0.174) and, for less knowledgeable participants,
+collaborative groups outperformed individual learners ( p = .002,
+ηp
+2 = 0.044). The large diﬀerence in eﬀect sizes explains the signiﬁcant
+interaction.
+Regarding mental eﬀort, a signiﬁcant main eﬀect for condition was
+found, F(1, 208) = 8.524, MSE = 4.443,p = .004,ηp
+2 = 0.039: colla-
+borative groups (M = 5.83,SD = 2.18) reported more mental eﬀort
+than individuals (M = 4.83, SD = 2.31). Knowledge level was also
+signiﬁcant, F(1, 208) = 10.698, MSE = 4.443,p = .001,ηp
+2 = 0.049:
+more knowledgeable learners (M = 5.87, SD = 1.77) reported more
+mental eﬀort than less knowledgeable learners (M = 4.82,SD = 2.60).
+The interaction between these e ﬀects was also signi ﬁcant, F(1,
+208) = 19.908, MSE = 4.443,p < 001, ηp
+2 = 0.087. The Bonferroni
+test showed that among participants learning individually, more
+knowledgeable learners reported more mental eﬀort than less knowl-
+edgeable learners (p < .001, η
+p
+2 = 0.126). There was no signiﬁcant
+diﬀerence between more and less knowledgeable learners on levels of
+mental eﬀort when they learned in collaborative groups. In addition,
+among novice participants, collaborative groups reported more mental
+eﬀort than individual learners (p < .001, η
+p
+2 = 0.120). However, for
+knowledgeable participants, no diﬀerence between individuals and
+collaborative groups was found, indicating the cause of the signiﬁcant
+interaction.
+3.3. Delayed test
+In this phase, 49 novice collaborative group members, 57 knowl-
+edgeable collaborative group members, 65 novice individuals, and 44
+knowledgeable individuals participated. Descriptive statistics are
+shown in
+Table 5.
+For performance, the main eﬀect for condition was signiﬁcant, F
+(1, 212) = 4.467, MSE = 0.041,p = .036, ηp
+2 = 0.021: collaborative
+groups ( M = 0.60, SD = 0.27) outperformed individual learners
+(M = 0.48,SD = 0.33). The main eﬀect for knowledge level was also
+signiﬁcant, F(1, 212) = 271.491, MSE = 0.041,p < .001,ηp
+2 = 0.562:
+more knowledgeable learners (M = 0.78,SD = 0.22) achieved better
+performance than less knowledgeable learners (M = 0.32,SD = 0.19).
+The interaction between e ﬀects was signiﬁcant, F(1, 212) = 6.861,
+MSE = 0.041, p = .009, ηp
+2 = 0.031. For individual learning
+(p < .001, ηp
+2 = 0.464) and for collaborative learning (p < .001,
+ηp
+2 = 0.311), it was found that more knowledgeable learners out-
+performed less knowledgeable learners. The Bonferroni test indicated
+that less knowledgeable participants performed better in collaborative
+groups than those learning individually (p = .001,η
+p
+2 = 0.053); how-
+ever, there was no signiﬁcant diﬀerence between collaborative and
+individual groups explaining the signiﬁcant interaction.
+Regarding mental eﬀort, the main eﬀect for condition was sig-
+niﬁcant, F(1, 212) = 8.553, MSE = 2.682,p = .004,ηp
+2 = 0.039: in-
+dividual learners reported more mental eﬀort (M = 4.98,SD = 1.70)
+than collaborative groups (M = 4.50,SD = 1.88). The main eﬀect for
+knowledge level was also signi ﬁcant, F(1, 212) = 42.909,
+MSE = 2.682,p < .001, ηp
+2 = 0.168: more knowledgeable learners
+(M = 5.48,SD = 1.65) reported more mental eﬀort than less knowl-
+edgeable learners (M = 4.09, SD = 1.68). The interaction between
+these eﬀects was not signiﬁcant F(1, 212) = 1.189, MSE = 2.682,ns.
+4. Discussion
+The results are discussed following the order of the hypotheses,
+starting with condition followed by level of prior knowledge. Regarding
+condition, it was expected that for individual learning, more knowl-
+edgeable learners would outperform and invest less mental eﬀort than
+less knowledgeable learners (
+H1). In the learning phase, more knowl-
+edgeable individuals reported less mental eﬀort than less knowledge-
+able learners as expected but performed equally well. In retention and
+delayed tests, more knowledgeable learners outperformed less knowl-
+edgeable learners as expected. Knowledgeable learners invested more
+mental eﬀort in the retention phase and similar mental eﬀort in the
+delayed test. This suggests that for high-complexity tasks, prior
+knowledge reduces mental eﬀort during learning without necessarily
+improving performance during learning. However, as found by
+Retnowati et al. (2018), the beneﬁts of providing prior knowledge for
+complex tasks had signiﬁcant beneﬁts in the performance outcomes (1
+and 7 days after). Interestingly, in the retention test, novice individuals
+experienced a lower cognitive load. One possible explanation may be
+their lack of knowledge which may have reduced their judgment of the
+complexity of tasks and overestimated their current performance,
+which in turn decreased their mental e ﬀort ratings (
+Nugteren,
+Jarodzka, Kester, & Van Merriënboer, 2018).
+Table 5
+Means and standard deviations for dependent variables in the delayed test
+phase.
+Dependent variables Condition
+Groups Individuals
+MS D MS D
+Delayed test performance (0–1)
+Less knowledgeable learners .39 .14 .26 .20
+More knowledgeable learners .78 .23 .79 .22
+Delayed test mental eﬀort (1–9)
+Less knowledgeable learners 3.58 1.42 4.48 1.77
+More knowledgeable learners 5.30 1.87 5.66 1.29
+J. Zambrano R., et al.
+Learning and Instruction 63 (2019) 101214
+6
+<<<PAGE=7>>>
+We also expected that when students who have prior knowledge
+learn in collaborative groups, they will outperform less knowledgeable
+learners, but the counteractive eﬀects on mental eﬀort when more and
+less knowledgeable students collaborate cannot be precisely determined
+(
+H2). As expected, we found evidence for performance both in retention
+and delayed test phases. Advanced learners could handle the com-
+plexity due to their better task-speciﬁc knowledge. This result allows us
+to assume that transactional activities were advantageous for advanced
+learning groups because the learning tasks had a high level of element
+interactivity (
+Retnowati et al., 2018; 2016). This advantage was ob-
+served in both individual post-tests. For cognitive load, we found
+nonsigniﬁcant diﬀerences. Mental eﬀect results suggest that transac-
+tional activities could have interfered with prior knowledge (
+Retnowati
+et al., 2018). Seemingly, collaborative groups of advanced learners
+experienced cognitive load caused by the redundancy of interactions
+that were unnecessary because group members already had partially
+developed task knowledge. This cognitive load may be equivalent to the
+low-knowledge groups’ cognitive load. Low-knowledge groups may
+have performed irrelevant transactional activities (e.g., randomly
+searching activities) because they lack suﬃcient schemas that guide
+their operations in high-complexity tasks (
+Zhang et al., 2016).
+Concerning the eﬀect of prior knowledge, it was expected that when
+learners are less knowledgeable, collaborative groups outperform and
+perceive less mental eﬀort than individuals (
+H3). We found evidence for
+this hypothesis on performance both in the retention and delayed tests.
+For cognitive load, surprisingly, less knowledgeable learners that
+learned in collaborative groups perceived a signiﬁcantly higher load
+than individuals in the retention test while no diﬀerence was found in
+the other phases. In line with the collective working memory eﬀect (F.
+Kirschner, Paas, & Kirschner, 2011), greater cognitive capacity allowed
+collaborative groups to acquire better mental representations from the
+complex information. These data suggest that when learners are re-
+quired to learn from highly demanding problems, collaborative
+learning may impose a substantial cognitive load, but is more eﬀective
+than in individual learning, and its beneﬁts are observed in the long
+term (
+Soderstrom & Bjork, 2015). The perception of higher mental ef-
+fort in the retention phase of learners who learned in collaborative
+groups is interesting (M = 6.01), but even more interesting is the sub-
+stantially lower cognitive load perceived by individual students
+(M = 3.86). It seems, they did not invest a high mental eﬀort because
+they did not have the appropriate task knowledge (
+Sweller et al., 2011).
+It may be necessary to investigate these cases in depth through the
+analysis of think-aloud protocols (
+Kalyuga & Plass, 2018).
+It was also expected that when learners have prior knowledge,
+learning in collaborative groups will become detrimental, with no
+collaborative group advantage (
+H4). This was conﬁrmed for all phases
+and measures except the performance in the retention phase of those
+who learned in collaborative groups. This result might be explained by
+the activating of prior task schemas when carrying out highly-complex
+tasks. During the learning phase, knowledgeable collaborative group
+members reported signiﬁcantly higher cognitive load because they may
+need to reconcile their own knowledge with externally provided gui-
+dance (
+Kalyuga et al., 2003). Besides, they may have to deal with the
+transactional activities that were inevitable due to the distribution of
+information among members which further increased the perception of
+mental eﬀort.
+Interestingly, despite reporting more mental eﬀort during colla-
+borative learning, in the retention phase, more knowledgeable colla-
+borative group members were more eﬀective than more knowledgeable
+individuals. Seemingly, collaborative learning and prior knowledge for
+high-complexity tasks did not seem detrimental as the additionally
+acquired collaborative group knowledge allowed collaborators to out-
+perform individuals the next day. However, this advantage was not
+long-lasting (i.e., in the delayed test).
+5. Conclusions
+In general, the results seem to suggest that collaborative learning
+may be eﬀective for high-complexity tasks compared with individual
+learning when learners have domain-generalized knowledge at a col-
+laborative group level (
+Kalyuga, 2013). Giving learners guidance on
+how to work together seems to be associated with better performance
+than just bringing students together to learn new problems (
+Gillies,
+2016; P. A.;Kirschner et al., 2018). Seemingly, learners who are pre-
+pared to learn collaboratively build task-based collaboration schemas.
+They may be applied through analogical transfer when these colla-
+borative groups must learn similar tasks (
+Gick & Holyoak, 1980). It may
+be reasonable to think that domain-generalizable knowledge for colla-
+boration operates as intergroup guides that take advantage of transac-
+tional activities to better learn relatively new tasks.
+Furthermore, the eﬀectiveness of collaborative learning is aﬀected
+by prior task knowledge (
+Retnowati et al., 2018; Zhang et al., 2015,
+2016). Providing preliminary instruction to construct partially devel-
+oped domain-speciﬁc knowledge before subsequent explicit instruction
+may produce higher performance in the retention and delayed tests
+than learning individually without such prior knowledge. Similarly,
+learning collaboratively with partial knowledge structures yields higher
+performance than collaborating among less knowledgeable learners.
+However, when individuals and collaborative groups with this prior
+knowledge are compared, the advantage of learning in collaborative
+groups only decreases the mental eﬀort in the learning phase (i.e., due
+to the advantage distribution) and produces higher performance in the
+retention test. In the longer term (i.e., delayed test), the performance
+between collaborative groups and individuals is equal. However, if
+learners have not received preliminary instruction, learning in colla-
+borative groups is more e ﬀective with higher performance than
+learning individually in the short- and long-term as indicated by the
+retention and delayed tests respectively.
+5.1. Practical implications
+This study has educational implications when the learning goal is to
+learn high-complexity problems, and when high performance needs to
+be sustained in the longer-term. First, if collaborative learning is used,
+learners should be provided preparation in learning in collaborative
+groups through practice on tasks previously learned in the same do-
+main. Once learners have had a collaborative group experience, they
+will then be able to manage the collaborative cognitive load and
+transfer this experience to relatively new problems. Also, before giving
+explicit or full comprehensive instruction for learning to solve quite
+complex problems, novice collaborative group members should receive
+preliminary knowledge to guide subsequent acquisition. Instructors can
+begin instruction by providing guidance using worked examples toﬁrst
+stimulate individual long-term memory elaboration and then promote
+the construction of better schemas through collaborative learning.
+However, if learners have prior task-speciﬁc knowledge, learning in
+collaborative groups may not be more beneﬁcial than learning in-
+dividually because collaborative groups experience more cognitive load
+during full guidance (i.e., learning phase) and an advantage in perfor-
+mance is not durable in the long term.
+5.2. Limitations and future directions
+Assuming that cognitive load may vary during learning (
+Kalyuga &
+Plass, 2018), it is important to develop ways of measuring it during
+collaboration activities. Making collaborative group activities explicit
+along with their respective cognitive loads is fundamental. For this, an
+in-depth analysis of the loads related to transactional activities is re-
+quired concerning how group members process task information in-
+dividually and amongst themselves and how learners support each
+other to overcome task-related diﬃculties. An evaluation of the impact
+J. Zambrano R., et al.
+Learning and Instruction 63 (2019) 101214
+7
+<<<PAGE=8>>>
+of transactional activity patterns on performance and mental eﬀort in
+individual long-term post-tests also is required.
+Further, the subjective measurement of cognitive load may not be
+appropriate for collaborative learning (F.Kirschner, Paas, & Kirschner,
+2011; Retnowati et al., 2016). Although the mental eﬀort scale appears
+to be robust for individual conditions, it should be determined if it is
+valid and reliable for collaborative learning conditions. Other measures
+of cognitive load that account for the multiple sources and types of
+cognitive load in collaborative conditions may need to be constructed.
+Another limitation of this study is that a pretest was not used.
+Although the tasks in the learning phase are not easily acquired without
+being part of a curricular program, students might acquire this
+knowledge outside the school context. Of course, our use of random
+allocation to groups should eliminate any systematic biases. A pretest
+would test whether this is the case.
+This study is aﬁrst step to uncover the cognitive load factors as-
+sociated with individual and collaborative learning considering the
+prior knowledge eﬀect. Future studies should replicate this study to
+conﬁrm these results and examine the eﬀect of prior knowledge be-
+tween individual learning, and collaborative learning with and without
+collaborative preparation. Also, tasks with higher and lower complexity
+should be used to investigate relations between prior knowledge and
+complexity.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at
+https://
+doi.org/10.1016/j.learninstruc.2019.05.011.
+References
+Buchs, C., Gilles, I., Antonietti, J.-P., & Butera, F. (2015). Why students need to be pre-
+pared to cooperate: A cooperative nudge in statistics learning at university.
+Educational Psychology, 36(5), 956–974.
+https://doi.org/10.1080/01443410.2015.
+1075963.
+Castaño, N., Watts, T., & Tekleab, A. G. (2013). A reexamination of the cohe-
+sion–performance relationship meta-analyses: A comprehensive approach.Group
+Dynamics: Theory, Research, and Practice, 17(4), 207–231. https://doi.org/10.1037/
+a0034142.
+Clinton, B. D., & Kohlmeyer, J. M. (2005). The eﬀects of group quizzes on performance
+and motivation to learn: Two experiments in cooperative learning.Journal of
+Accounting Education, 23(2), 96–116. https://doi.org/10.1016/j.jaccedu.2005.06.
+001.
+Cohen, J. (1988).Statistical power analysis for the behavioral sciences(2nd ed.). Hillsdale:
+N.J.: L. Erlbaum Associates.
+DeStefano, D., & LeFevre, J. A. (2004). The role of working memory in mental arithmetic
+au - destefano, diana.European Journal of Cognitive Psychology, 16(3), 353–386.
+https://doi.org/10.1080/09541440244000328.
+Fransen, J., Kirschner, P. A., & Erkens, G. (2011). Mediating team eﬀectiveness in the
+context of collaborative learning: The importance of team and task awareness.
+Computers in Human Behavior, 27(3), 1103–1113.
+https://doi.org/10.1016/j.chb.
+2010.05.017.
+Gersick, C. J. G. (1988). Time and transition in work teams: Toward a new model of group
+development. Academy of Management Journal, 31(1), 9–41. https://doi.org/10.
+2307/256496.
+Gick, M. L., & Holyoak, K. J. (1980). Analogical problem solving.Cognitive Psychology,
+12(3), 306–355. https://doi.org/10.1016/0010-0285(80)90013-4.
+Gilchrist, A. L., & Cowan, N. (2011). Can the focus of attention accommodate multiple,
+separate items?Journal of Experimental Psychology: Learning, Memory, and Cognition,
+37(6), 1484.
+Gillies, R. M. (2016). Cooperative learning: Review of research and practice.Australian
+Journal of Teacher Education, 41(3), https://doi.org/10.14221/ajte.2016v41n3.3.
+Gully, S. M., Devine, D. J., & Whitney, D. J. (2012). A meta-analysis of cohesion and
+performance. Small Group Research, 43(6), 702–725. https://doi.org/10.1177/
+1046496412468069.
+Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social
+interdependence theory and cooperative learning.Educational Researcher, 38(5),
+365–379. https://doi.org/10.3102/0013189x09339057.
+Johnson, S. D., Suriya, C., Won Yoon, S., Berrett, J. V., & La Fleur, J. (2002). Team
+development and group processes of virtual learning teams.Computers & Education,
+39(4), 379–393. https://doi.org/10.1016/S0360-1315(02)00074-X.
+Kalyuga, S. (2013). Enhancing transfer by learning generalized domain knowledge
+structures. European Journal of Psychology of Education, 28(4), 1477–1493. https://
+doi.org/10.1007/s10212-013-0176-3.
+Kalyuga, S., Ayres, P., Chandler, P., & Sweller, J. (2003). The expertise reversal eﬀect.
+Educational Psychologist, 38(1), 23–31. https://doi.org/10.1207/
+s15326985ep3801_4.
+Kalyuga, S., & Plass, J. L. (2018). Cognitive load as a local characteristic of cognitive
+processes: Implications for measurement approaches. In R. Zheng (Ed.).Cognitive load
+measurement and application: A theoretical framework for meaningful research and
+practice (pp. 59–74). New York, NY: Routledge
+.
+Kirschner, F., Paas, F., & Kirschner, P. A. (2009). Individual and group-based learning
+from complex cognitive tasks: Eﬀects on retention and transfer eﬃciency. Computers
+in Human Behavior, 25(2), 306–314. https://doi.org/10.1016/j.chb.2008.12.008.
+Kirschner, F., Paas, F., & Kirschner, P. A. (2011). Task complexity as a driver for colla-
+borative learning eﬃciency: The collective working-memory eﬀect. Applied Cognitive
+Psychology, 25(4), 615–624. https://doi.org/10.1002/acp.1730.
+Kirschner, F., Paas, F., Kirschner, P. A., & Janssen, J. (2011). Diﬀerential eﬀects of pro-
+blem-solving demands on individual and collaborative learning outcomes.Learning
+and Instruction, 21(4), 587–599. https://doi.org/10.1016/j.learninstruc.2011.01.001.
+Kirschner, P. A., Sweller, J., Kirschner, F., & Zambrano, R.,J. (2018). From cognitive load
+theory to collaborative cognitive load theory.International Journal of Computer-
+Supported Collaborative Learning, 13(2), 213–233. https://doi.org/10.1007/s11412-
+018-9277-y.
+Morgan, P. M., & Tindale, R. S. (2002). Group vs individual performance in mixed-motive
+situations: Exploring an inconsistency.Organizational Behavior and Human Decision
+Processes, 87(1), 44–65. https://doi.org/10.1006/obhd.2001.2952.
+Nugteren, M. L., Jarodzka, H., Kester, L., & Van Merriënboer, J. J. G. (2018). Self-reg-
+ulation of secondary school students: Self-assessments are inaccurate and in-
+suﬃciently used for learning-task selection.Instructional Science, 46, 357–381.
+https://doi.org/10.1007/s11251-018-9448-2.
+Paas, F., Tuovinen, J. E., Tabbers, H., & Van Gerven, P. W. M. (2003). Cognitive load
+measurement as a means to advance cognitive load theory.Educational Psychologist,
+38(1), 63–71. https://doi.org/10.1207/s15326985ep3801_8.
+Prichard, J. S., Bizo, L. A., & Stratford, R. J. (2006). The educational impact of team-skills
+training: Preparing students to work in groups.British Journal of Educational
+Psychology, 76(1), 119–140. https://doi.org/10.1348/000709904X24564.
+Rajaram, S., & Pereira-Pasarin, L. P. (2010). Collaborative memory: Cognitive research
+and theory.Perspectives on Psychological Science, 5(6), 649–663. https://doi.org/10.
+1177/1745691610388763.
+Retnowati, E., Ayres, P., & Sweller, J. (2010). Worked example eﬀects in individual and
+group work settings.Educational Psychology, 30(3), 349–367. https://doi.org/10.
+1080/01443411003659960.
+Retnowati, E., Ayres, P., & Sweller, J. (2016). Can collaborative learning improve the
+eﬀectiveness of worked examples in learning mathematics?Journal of Educational
+Psychology, 109(5), 666–679. https://doi.org/10.1037/edu0000167.
+Retnowati, E., Ayres, P., & Sweller, J. (2018). Collaborative learning eﬀects when stu-
+dents have complete or incomplete knowledge.Applied Cognitive Psychology. https://
+doi.org/10.1002/acp.3444.
+Sharan, Y., & Sharan, S. (1992).Expanding cooperative learning through group investigation.
+New York, NY: Teachers College Press.
+Shibley, I. A., & Zimmaro, D. M. (2002). The inﬂuence of collaborative learning on stu-
+dent attitudes and performance in an introductory chemistry laboratory.Journal of
+Chemical Education, 79(6), 745.https://doi.org/10.1021/ed079p745.
+Slavin, R. E. (2014). Cooperative learning and academic achievement: Why does group-
+work work?Anales de Psicología/Annals of Psychology, 30(3), 785–791. https://doi.
+org/10.6018/analesps.30.3.201201.
+Soderstrom, N. C., & Bjork, R. A. (2015). Learning versus performance: An integrative
+review. Perspectives on Psychological Science, 10(2), 176–199. https://doi.org/10.
+1177/1745691615569000.
+Sweller, J., Ayres, P., & Kalyuga, S. (2011).Cognitive load theory.New York, NY: Springer.
+Sweller, J., & Chandler, P. (1994). Why some material is diﬃcult to learn.Cognition and
+Instruction, 12(3), 185–233. https://doi.org/10.1207/s1532690xci1203_1.
+Sweller, J., Van Merriënboer, J. J. G., & Paas, F. (2019). Cognitive architecture and in-
+structional design: 20 years later.Educational Psychology Review,1–32. https://doi.
+org/10.1007/s10648-019-09465-5.
+Szulewski, A., Gegenfurtner, A., Howes, D. W., Sivilotti, M. L. A., & van Merriënboer, J. J.
+G. (2017). Measuring physician cognitive load: Validity evidence for a physiologic
+and a psychometric tool.Advances in Health Sciences Education, 22(4), 951–968.
+https://doi.org/10.1007/s10459-016-9725-2.
+Tindale, R. S. (1993). Decision errors made by individuals and groups.Individual and
+group decision making: Current issues(pp. 109–124). Hillsdale, NJ: Lawrence Erlbaum
+Associates.
+Van Gog, T., Kirschner, F., Kester, L., & Paas, F. (2012). Timing and frequency of mental
+eﬀort measurement: Evidence in favour of repeated measures.Applied Cognitive
+Psychology, 26(6), 833–839. https://doi.org/10.1002/acp.2883.
+Van Merriënboer, J. J. G. (1990). Strategies for programming instruction in high school:
+Program completion vs. Program generation.Journal of Educational Computing
+Research, 6(3), 265–285. https://doi.org/10.2190/4nk5-17l7-twqv-1ehl.
+Weldon, M. S., Blair, C., & Huebsch, P. D. (2000). Group remembering: Does social loaﬁng
+underlie collaborative inhibition?Journal of Experimental Psychology: Learning,
+Memory, and Cognition, 26(6), 1568–1577. https://doi.org/10.1037/0278-7393.26.6.
+1568.
+Zhang, L., Kalyuga, S., Lee, C., & Lei, C. (2016). Eﬀectiveness of collaborative learning of
+computer programming under diﬀerent learning group formations according to stu-
+dents' prior knowledge: A cognitive load perspective.Journal of Interactive Learning
+Research, 27(2), 171–192. http://www.learntechlib.org/p/111825.
+Zhang, L., Kalyuga, S., Lee, C. H., Lei, C., & Jiao, J. (2015). Eﬀectiveness of collaborative
+learning with complex tasks under diﬀerent learning group formations: A cognitive
+load perspective.Paper presented at the hybrid learning: Innovation in educational
+practices: 8th international conference, ICHL 2015, Wuhan, China, july 27-29, 2015,
+proceedings
+.
+J. Zambrano R., et al. Learning and Instruction 63 (2019) 101214
+8

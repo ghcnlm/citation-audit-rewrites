@@ -1,0 +1,1190 @@
+<<<PAGE=1>>>
+Policy Studies Journal, Vol. 50, No. 3, 2022
+615
+doi: 10.1111/psj.12381 
+© 2020 Policy Studies Organization
+Using the Multiple Streams Framework to Connect 
+Policy Adoption to Implementation
+Luke Fowler
+The author furthers research on the multiple streams framework (MSF) by testing hypotheses related 
+to the conditional nature of politics, policy, and problems streams in affecting policy outputs from 
+both policymaking and policy implementation. The author articulates a theoretical model of the 
+policy process where policymaking and policy implementation are separate, but interdependent 
+processes, and generates three hypotheses related to policymaking, policy implementation, and the 
+interdependence of those processes. Then, the author tests hypotheses with state-level implementation 
+of federal environmental policy over a 20 year period. Using seemingly unrelated regression (SUR), 
+the author makes joint estimations of policymaking and policy implementation as separate, correlated 
+processes. Findings indicate how politics affects policymaking and policy implementation is conditional 
+on existing policies and problems, and that these two processes are not independent from each other. 
+Conclusions connect this MSF to the broader literature and how it may address current criticisms.
+KEY WORDS: multiple streams framework, policymaking, policy implementation
+通过测试与“政治、政策和问题源流在影响政策制定和政策落实所产生的政策输出时的条
+件性质”相关的理论, 作者进一步研究了多源流框架（MSF）。作者阐述了一个政策过程理论
+模型, 在此政策过程中政策制定和落实是相互分离又相互依赖的两个过程, 作者提出三个与政
+策制定、政策落实以及相互依赖性有关的理论。随后, 作者用为期20年的州级联邦环境政策落
+实过程, 对理论进行检验。通过使用似不相关回归（SUR）模型, 我们将政策制定和政策落实
+作为分离却相关的过程进行共同预测。结果显示了政治如何影响政策制定, 并且政策落实取决
+于现有政策和问题, 以及政策制定和落实这两个过程互不独立。结论将该多源流框架与更广泛
+的文献进行联系, 并探讨了其如何能应对当前批判。
+关键词: 多源流框架, 政策制定, 政策落实
+Los autores investigan más a fondo el Marco de Múltiples Flujos (MSF) probando hipótesis 
+relacionadas con la naturaleza condicional de políticas, políticas y flujos de problemas 
+que afectan los resultados de las políticas tanto de la formulación de políticas como de la 
+implementación de políticas. Los autores articulan un modelo teórico del proceso de políticas 
+donde la formulación de políticas y la implementación de políticas son procesos separados, 
+pero interdependientes, y generan tres hipótesis relacionadas con la formulación de políticas, 
+la implementación de políticas y la interdependencia de esos procesos. Luego, los autores 
+prueban las hipótesis con la implementación a nivel estatal de la política ambiental federal
+<<<PAGE=2>>>
+616 Policy Studies Journal, 50:3
+durante un período de 20 años. Utilizando la Regresión aparentemente no relacionada (SUR), 
+hacemos estimaciones conjuntas de la formulación de políticas y la implementación de 
+políticas como procesos separados y correlacionados. Los resultados indican cómo la política 
+afecta la formulación de políticas y la implementación de políticas está condicionada a las 
+políticas y problemas existentes, y que estos dos procesos no son independientes entre sí. 
+Las conclusiones conectan este MSF con la literatura más amplia y cómo puede abordar las 
+críticas actuales.
+PALABRAS CLA VES: marco de múltiples flujos, formulación de políticas, implementación de políticas
+With the multiple streams framework (MSF), John Kingdon (1995) created a sophis-
+ticated yet simple theoretical framework to explain how policy actors sort through 
+ambiguous circumstances during policy processes. In the decades following its pub-
+lication, scholars further developed many key theoretical concepts, including the 
+nature of policy windows; activities of policy entrepreneurs; and the construction 
+of policy, politics, and problem streams (Herweg, Zahariadis, & Zohlnhöfe, 2018). 
+While the crux of this research focuses on agenda-setting and policy adoption, more 
+recent development also applies concepts to understanding policy implementation 
+(e.g., Fowler, 2019). Despite this, critics still question MSF’s usefulness for two rea-
+sons. First, literature connecting policy adoption and implementation is disjointed, 
+much of the development related to implementation is recent, and there are few 
+examples of policy adoption and implementation being examined in a single model. 
+As such, many still see MSF as only suited to explaining agenda-setting or policy 
+adoption, and not for understanding how collective choices and collective actions 
+occur in conjunction as part of a policy system (Herweg et al., 2018). Second, testable 
+hypotheses are sparse, which creates limitations to providing empirical evidence 
+supporting key theoretical tenets, and much of the research is based on case studies 
+(Engler & Herweg, 2019; Herweg et al., 2018). To this end, a significant step in this 
+line of research is articulating a policy process model that includes both policy adop-
+tion and implementation, and empirically testing hypotheses based on that model.
+This model will provide a vital step in understanding policy during the gover -
+nance era by: (i) integrating existing MSF scholarship into a single theoretical policy 
+process model; and, (ii) providing quantitative evidence that supports its validity. As 
+such, we proceed with a discussion of policy adoption and policy implementation as 
+two components of a single policy process through the MSF lens. Then, we develop 
+three hypotheses related to the conditional nature of politics, policy, and problems 
+streams in affecting both policy adoption and implementation, and the interdepen-
+dent relationship between the two. Finally, we use seemingly unrelated regression 
+(SUR) to test our hypotheses by modeling U.S. state environmental policy as a single 
+process. Findings support hypotheses and indicate that there is an interaction among 
+politics, policies, and problems in predicting major departures from the status quo in 
+both policy adoption and implementation, and policy adoption and implementation 
+are not independent from each other. Conclusions suggest implications for how MSF 
+can further understandings of policy governance.
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=3>>>
+Fowler: Connecting Policymaking and Policy Implementation 617
+The Multiple Streams Framework
+A Model for Agenda-Setting and Policy Adoption
+MSF scholarship largely assumes that policy processes are characterized by 
+ambiguity, where different ways of thinking about similar circumstances compete 
+for relevance among decision makers. Key sources of ambiguity are: fluid partici-
+pants (e.g., shifting policy communities), problematic preferences (e.g., ill-defined 
+policy goals), and unclear technology (i.e., uncertainty about what is possible). As 
+a result, there is a constant state of chaos surrounding which problems need to be 
+solved or how to solve them, and where policymakers must make sense of incom-
+plete information to comprehend the world. The ultimate goal of MSF is to add 
+order to this chaos (Herweg et al., 2018). To this end, Kingdon (1995) identifies five 
+structural components in policy processes, where politics, problems, and policies in-
+dependently stream until policy entrepreneurs couple them together during policy 
+windows. Although this does not guarantee success, policy adoption is much more 
+likely when this occurs (Avery, 2004; Birkland, 2004; Zahariadis, 2005).
+First, politics streams encompass the political atmosphere and corresponding 
+competition between value-based decisions that includes, but are not limited to, 
+who should benefit, what issues should be prioritized, and how policy images will 
+be interpreted. Of course, policy communities (or networks) and politicians play 
+key roles in shaping debates surrounding whether problems are worthy of attention 
+or policies are acceptable. Second, problem streams are made up a collection socio-
+economic and environmental conditions that exist in society. Conditions become 
+problems when they are identified as “non-ideal” and draw attention from poli-
+cymakers via focusing events, feedback, or indicators. Third, policy streams con-
+sist of a cornucopia of ideas for what should be done about problems that (may or 
+may not) exist. Ideas tend to be generated by policy specialists and spread through 
+policy communities based on technical or political feasibility (Herweg et al., 2018; 
+Kingdon, 1995). A central tenet of MSF is that the streams have a life of their own; 
+however, some critics have questioned this assumption (Herweg et al., 2018). For 
+example, Robinson and Eller (2010) find evidence of stream unity in local policy 
+adoption contexts.
+Fourth, policy entrepreneurs are actors who attempt to manipulate policy 
+streams in order to advocate for certain perspectives. Their goal is to couple streams 
+together by framing and re-framing perceptions of problems, politics, and policies 
+in order to satisfy policymakers’ problematic preferences. In other words, policy 
+entrepreneurs want to convince decision makers that a certain choice is politically 
+acceptable to solve a salient problem (Zahariadis, 2005). Finally, policy windows are 
+those fleeting opportunities where there is a problem with sufficient attention from 
+policymakers, a policy solution that is feasible (both technically and politically), and 
+politics that are amenable to change. When policy entrepreneurs take advantage of 
+these opportunities, new policies are adopted, but when they are missed, the sta-
+tus quo  is maintained (Herweg et al., 2018; Kingdon, 1995). Consequently, there 
+is a conditional nature to how politics, policy, and problem streams affect policy 
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=4>>>
+618 Policy Studies Journal, 50:3
+adoption, which depends on an interaction among the three (Fowler, 2019; Travis & 
+Zahariadis, 2002).
+Adding in Implementation
+Despite widespread application of the canonical model, a key MSF criticism is 
+the primary focus on agenda-setting and policy adoption, and relatively little con-
+sideration of what happens after policy is adopted (Fowler, 2019; Howlett, 2019). In 
+response, recent scholars have begun applying MSF to policy implementation (e.g., 
+Aberbach & Christensen, 2014; Boswell & Rodrigues, 2016; Fowler, 2019; Howlett, 
+McConnell, & Perl, 2015; Sager & Thomann, 2017; Zahariadis & Exadaktylos, 2016). 
+Although this body of scholarship is far less developed than scholarship focusing 
+on policy adoption, there are several key concepts that are consistent. First, ambi-
+guity still reigns, but decision making in policy implementation is different than in 
+agenda-setting or policy adoption. While policymakers tend to be a discrete group, 
+policy implementers include a swath of people with some capacity to impact pol-
+icy outputs through public service delivery. Similar to policymakers, implementers 
+have problematic preferences caused by uncertainty surrounding policy meanings 
+and competing demands for their attention or resources (Fowler, 2019; Pandey & 
+Wright, 2006). As such, policy entrepreneurs continue to employ strategies to ma-
+nipulate how policy implementers interpret policies. Their interpretations, in turn, 
+constitute the norms of policies in practice where ideas translate into action, and 
+lead to changes in social conditions (Aberbach & Christensen, 2014; Boswell & 
+Rodrigues, 2016; Fowler, 2019; Zahariadis & Exadaktylos, 2016).
+Second, politics, problems, and policy streams manifest differently during 
+policy implementation. Most importantly, policy streams here are not a collection 
+of competing ideas for how to solve problems, but a collection of competing pol-
+icy interpretations (Fowler, 2019). The inherent ambiguity that exists during pol-
+icy adoption requires implementers to make sense out of policies when applying 
+them to real-world conditions, which opens the door for administrative discretion 
+in determining appropriate implementation behavior (Lipsky, 2010; Sowa & Selden, 
+2003). Notably, policymakers have different tools at their disposal to constrain dis-
+cretion (e.g., incentives, institutional rules, resource allocations), so implementers 
+behave in a way that is consistent with their preferred policy interpretation (Stazyk 
+& Goerdel, 2011; Wood & Waterman, 1991).
+In addition, problems streams in implementation are fed by problems iden-
+tified during agenda-setting processes, as policymakers already sorted through 
+a litany of issues and made choices about where to focus their attention (Fowler, 
+2019). Since administrators tend to focus on  what is being monitored, they natu-
+rally prioritize problems that already have attention of policymakers. However, 
+when policies do not outline specific performance indicators, implementers may 
+make their own determinations of which measures are the most pertinent (Brehm & 
+Gates, 1999; Chun & Rainey, 2005). Last, politics streams still consist of competing 
+values and beliefs about how interests should be balanced (Fowler, 2019). Similar 
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=5>>>
+Fowler: Connecting Policymaking and Policy Implementation 619
+to policymakers, implementers have to sustain political coalitions by being respon-
+sive to their environment in order to maintain legitimacy for their administrative 
+decisions. Importantly, if implementers are not responsive to their political environ-
+ment, they risk challenges to their uses of discretion and renewed interest from pol-
+icymakers, who may then adjust policies to further constrain their behavior (Davis 
+& Stazyk, 2015; Reed, 2014). Consequently, the politics streams in agenda-setting 
+and program implementation are, to some extent, fused. Notably, this still largely 
+assumes the stream independence, but does suggest a degree of conditionality to 
+which streams affect implementer behavior. In other words, the politics stream in 
+policy adoption and the politics stream in implementation are tied together, but the 
+politics stream remains independent from the problems or policy streams.
+Third, by adopting new policies, policymakers open policy windows that cre-
+ate opportunities to change the status quo in implementation behavior. In general, 
+implementer behavior is driven by efforts to maintain the status quo in social con-
+ditions, so problems do not catch policymaker attention and force new policies on 
+implementers (Boswell & Rodrigues, 2016; Fowler, 2019; Stazyk & Goerdel, 2011; 
+Zahariadis & Exadaktylos, 2016). This assumes norms of practice should be consis-
+tent and stable over time, which should result in stable social conditions (i.e., policy 
+adoption problems stream). Consequently, by maintaining the status quo and not 
+altering policy interpretations, implementers are able to create stasis in policy sub-
+systems and maintain control (Fowler, 2019; Zahariadis & Exadaktylos, 2016).
+However, “[w]hile implementers may be able to withstand challenges to the sta-
+tus quo from any single stream (i.e., shift in public opinion, focusing events), when 
+coupled, implementers have no choice but to respond. Otherwise, they risk a break-
+down of political coalitions, challenges to their legitimacy, implementation failures, 
+or issues returning to the policy agendas as policy entrepreneurs shift pressure back 
+to policymakers” (Fowler, 2019, pp. 7–8). In essence, if policy implementers fail to 
+respond, policy communities who supported adoption are likely to question the 
+efficacy and/or legitimacy of implementers, placing them under intense scrutiny 
+(Fowler, 2019; Reed, 2014). Moreover, without an open policy window, the spotlight 
+is unlikely to be retained on implementation, causing focus to shift back to policy 
+agendas and adoption, relieving any pressure that implementers face. As such, there 
+is an inherently conditional nature to the politics, problems, and policy streams in 
+affecting policy implementation, where effects of one stream depend largely on 
+other streams.
+Linking Policy Adoption and Implementation
+Although policy adoption and implementation make up two distinct compo-
+nents of policy processes, previous MSF scholarship largely focuses on one or the 
+other, leaving few direct insights into how they may be linked. More recent scholar-
+ship on implementation from the MSF literature provides some of the most clearly 
+developed theoretical connections between the two (Fowler, 2019; Howlett, et al., 
+2015; Zahariadis & Exadaktylos, 2016). This scholarship largely argues that “policy 
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=6>>>
+620 Policy Studies Journal, 50:3
+systems and processes are nested, with policymaking and policy implementation 
+existing in organized interdependent layers” (Fowler, 2019, p. 4). In other words, 
+these two components are essentially subprocesses (i.e., collective choice versus col-
+lective action) of a larger process. While interrelated, there are separate outputs for 
+policy adoption and implementation that are linked together and aggregate to pol-
+icy process outputs. Figure 1 illustrates a MSF policy process model that includes 
+both policy adoption and implementation subprocesses. First, policy adoption out-
+puts are new policies that result from decisions made during policy adoption, which 
+address nonideal social conditions. Second, once new policies are adopted, policy 
+implementers respond. Individual-level behaviors, then, aggregate to the norms of 
+policies in practice, which constitute implementation outputs. Third, implementa-
+tion outputs lead to changes in behaviors related to social conditions that new pol-
+icies aim to affect.
+As such, we can isolate three different outputs within policy processes that 
+likely result from policy windows: policies as choices (policy adoption outputs), 
+policies as actions (policy implementation outputs), and policies as agents of social 
+change (policy process outputs). Furthermore, there are also links between policy 
+streams. As implied by the relationship between outputs, policy adoption out-
+puts become policy streams during policy implementation. Moreover, politics and 
+problems streams are largely assumed to exist in a very similar state in both policy 
+adoption and implementation. However, other scholars argue that streams and/or 
+coupling processes function differently in policy adoption compared to implemen-
+tation (Fowler, 2019; Herweg et al., 2018). Importantly, policy process outputs feed 
+into problem streams as both deal with nonideal social conditions. Consequently, 
+policy, politics, and problem streams remain independent within each subprocess 
+Figure 1. MSF Theoretical Model for Policymaking and Policy Implementation Processes. 
+Note: Solid lines represent a causal relationship among streams, policy windows, and outputs, while 
+dashed lines represent the transition of streams from a policy-making orientation to an implementation 
+orientation.
+Implementation 
+policy window
+Coupling by policy 
+entrepreneurs; 
+manipulation of 
+implementation 
+behavior
+Implementation 
+output 
+Norms of behavior 
+related to a problem
+Implementation 
+policy stream
+Policy 
+interpretations, 
+resources
+Implementation 
+politics stream
+Balance of interests
+Implementation 
+problem stream
+Conditions that 
+policymakers seek 
+to change
+Adoption 
+policy stream
+Competing ideas
+Adoption policy 
+window
+Coupling by policy 
+entrepreneurs; 
+manipulation of 
+policymaker 
+preferences
+Adoption 
+politics stream
+Balance of 
+interests
+Adoption 
+problem stream
+Non-ideal 
+conditions with 
+policymakers’ 
+attention
+Adoption 
+output 
+Decisions made 
+by policymakers
+Policy process 
+output 
+Changes in 
+conditions
+Policy
+entrepreneurs
+Policy
+entrepreneurs
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=7>>>
+Fowler: Connecting Policymaking and Policy Implementation 621
+(i.e., adoption, implementation), but are linked together as focus shifts from one 
+subprocess to the other. Although consistent with other research on links between 
+policy adoption and implementation, there is little empirical evidence surrounding 
+these assumptions.
+Modeling Policy Adoption and Implementation
+Although well developed in many areas and widely applied around the world, 
+several important shortcomings are noted by critics. Methodologically, a lack of test-
+able hypotheses limits the sophistication of empirical evidence (Herweg et al., 2018). 
+However, recent scholarship offers hypotheses related to specific parts of MSF, such 
+as interactions between streams, which provide ample ground for empirical testing 
+(Fowler, 2019; Travis & Zahariadis, 2002). Furthermore, much of this research relies 
+on an implicit assumption that each policy process component can be studied in 
+isolation, which does not account for how factors in policy adoption may influence 
+the implementation processes or vice versa. In other words, it is difficult to under -
+stand how systems work without examining the system as a whole, which creates 
+distinct limitations to insights that can be gleaned from extant MSF scholarship. 
+Consequently, many scholars question MSF’s utility in explaining policy processes 
+and providing guidance on democratic governance that includes both policy deci-
+sions and execution (Herweg et al., 2018). A key step in overcoming these challenges 
+is developing and testing hypotheses related to the three elements at hand: adop-
+tion, implementation, and links between adoption and implementation.
+Specifically, we need  hypotheses concerning: how policy choices are made, 
+how policy choices are executed, and how policy choices and execution affect each 
+other. To this end, previous scholarship offers two related hypotheses concerning 
+the conditional nature of politics, policy, and problems streams in affecting outputs 
+from policy adoption and policy implementation processes. As such, the crux of 
+our hypotheses rests on a conditional nature to the effects of streams on policy out-
+puts. Although focused on a limited part of MSF, the theoretical interaction between 
+streams is a crucial part of this framework, so it makes for an ample place to begin 
+developing a more sophisticated policy process model. Consequently, our hypoth-
+eses are based on two assumptions. First, it is not necessary to identify individual 
+policy actors (i.e., policymakers, implementers) to investigate how streams impact 
+policy processes (Fowler, 2019; Travis & Zahariadis, 2002). In most cases, it is impos-
+sible to identify the influence of individual actors within a chaotic and complex 
+process, but we can assume that individual actions aggregate to process-level out-
+puts. By extension, it is more practical to focus on observing changes in outputs, 
+rather than individual-level changes in behavior (Fowler, 2019). Second, as policy 
+processes do not happen in a vacuum, there is an element of inertia within every 
+policy process, where choices concerning future policies are influenced by current 
+circumstances (Fowler, 2019; Travis & Zahariadis, 2002).
+We draw our policy adoption hypotheses from Travis and Zahariadis (2002), 
+which finds that effects of politics and problems streams on future allocation of 
+U.S. aid to foreign countries is conditional on the normal amount of aid received. 
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=8>>>
+622 Policy Studies Journal, 50:3
+Specifically, they find that need is a significant concern to policymakers when allo-
+cating aid to poorer countries with less political importance in international rela-
+tions but other factors become increasingly important as countries become wealthier 
+and more politically relevant. In general terms, there is an interaction among poli-
+tics, problems, and policies that affects choices concerning future policies made by 
+policymakers, where deviations in the status quo of policies only occur during open 
+windows when policymakers adjust their choices conditional to the coupling of 
+streams. We should then expect to find that the influence of politics on policy adop-
+tion outputs is moderated by both current problems and existing policies, where 
+different policy choices occur depending on how significant problems are and what 
+policies are currently in place.
+Policy adoption hypothesis: Effects of politics on policy adoption outputs are 
+conditional on current problems and policies.
+We draw our policy implementation hypothesis from Fowler (2019). Extending 
+the research design and hypothesis from Travis and Zahariadis (2002) to policy im-
+plementation, Fowler (2019) finds evidence of a similar conditional nature for the 
+effects of policy, problems, and politics streams. Specifically, he finds that there are 
+only marginal differences in policy outputs from federal environmental programs 
+when public opinion on the environment, spending, and/or pollutant levels are 
+moderate, but when those factors all reach extreme levels, there are substantive im-
+provements in program effectiveness. In general, Fowler (2019) hypothesizes that 
+“[p]olicy implementers continue the status quo in implementation behavior by not 
+altering their administrative decisions, but during open windows, implementa-
+tion behavior is adjusted conditional to coupling of problems, policy, and politics 
+streams” (p. 8). We should then expect to find that the influence of politics on policy 
+implementation outputs is moderated by both the current problems and existing 
+policies, where different implementation behavior emerges depending on how sig-
+nificant problems are and what policies are in place.
+Policy Implementation hypothesis: Effects of politics on policy implementation 
+outputs are conditional on current problems and policies.
+Previous scholarship is limited when it comes to the final element here: linking 
+policy adoption and implementation. However, there is enough on which to base 
+a simple hypothesis. From the MSF perspective, policy adoption and implementa-
+tion are connected by both policy entrepreneurs and the streams. For instance, pol-
+icy adoption outputs (i.e., decisions made by policymakers) become policy streams 
+during implementation, as those decisions are a key source of ideas for how imple-
+menters translate policies into actions; and, implementation outputs (i.e., norms of 
+practice) feed into problem streams during policy adoption, as conditions policy-
+makers are concerned about. As such, there is an implicit assumption in existing 
+literature that these processes are not independent from each other and there is a 
+degree of mutual influence, even though previous scholars have not explicitly tested 
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=9>>>
+Fowler: Connecting Policymaking and Policy Implementation 623
+this (Fowler, 2019; Zahariadis & Exadaktylos, 2016). Consequently, we should then 
+expect to find that effects of politics, policy, and problem streams on policy adoption 
+and implementation processes are interdependent.
+Interdependent Processes hypothesis: Effects of politics, policy, and prob-
+lem streams on policy adoption outputs are not independent from their ef-
+fects on policy implementation outputs.
+Methodology
+Data and Empirical Strategy
+Following Fowler’s (2019) empirical strategy, we test our theoretical model by 
+analyzing state implementation of U.S. federal environmental policy for two rea-
+sons. First, and most importantly, it is consistent with the most recent and devel-
+oped empirical testing of MSF hypotheses. As such, this allows us to reduce some 
+of the “white noise” in expanding theoretical concepts, where concerns of whether 
+this is a “good” case for examination are assuaged. Second, the federal-state frame-
+work for managing the Clean Air Act (CAA), Clean Water Act (CWA), and Resource 
+Conservation and Recovery Act (RCRA) allows for national and temporal consis-
+tency, while also creating variation in policy adoption and implementation at the 
+state level. These three programs represent the backbone of U.S. environmental pol-
+icy, with the Environmental Protection Agency (EPA) setting broad national stan-
+dards and states adapting those standards to fit local needs. Previous scholarship 
+argues this framework contributes to 50 different strategies for environmental policy 
+and management, which, in turn, contribute to interstate differences in environmen-
+tal policy outcomes (Konisky & Woods, 2012; Travis, Morris, & Morris, 2004; Woods, 
+2006). As such, it allows for a quasi-experiment, where core policy and administra-
+tive elements are consistent, but are matched to specific contexts through indepen-
+dent policy adoption and implementation processes.
+We use a pooled cross-sectional dataset that includes 50 states over 20 years, cre-
+ating 1,000 state-year observations. With lagged variables, observations encompass 
+the time period from 1994 to 2016. We obtained data from publicly available data-
+bases managed by the EPA, U.S Census Bureau, U.S. Bureau of Economic Analysis 
+(BEA), League of Conservation Voters (LCV), as well as from previously published 
+material as cited. Figure 2 illustrates our empirical model of MSF applied to U.S. 
+environmental policy.
+Temporal Dimensions
+As our core interest here concerns changes from the status quo, we rely on a 
+difference-in-difference approach in order to account for how changes in predictor 
+variables correspond to changes in dependent variables. As such, we model our 
+variables as change over time to account for how departures from norms in politics, 
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=10>>>
+624 Policy Studies Journal, 50:3
+policies, or problems cause changes in policy adoption or implementation outputs. 
+To this end, we define t1 as an initial time period in policy processes, t2 as a time pe-
+riod that directly follows t1, t3 as a time  period that directly follows t2, and t 0 as 
+a time  period that directly precedes t1. Importantly, this incorporates a temporal 
+dimension with changes over time being a distinct point of interest as the  status 
+quo is reinforced or replaced. Given that temporal organization of public programs 
+and data reporting tend to occur on a yearly basis, we organize our data so that time 
+periods correspond to years (i.e., t1 is the initial year of observation, t2 the following 
+year, and so on), with our initial observation years as 1995 to 2014. Table 1 provides 
+a description of time periods.
+The temporal dimension here is an important theoretical and empirical issue as 
+it relates to serial versus concurrent processes (Baumgartner, Jones, & Mortensen, 
+2018; Nakamura, 1987). The “textbook perspective” (i.e., stages heuristic) presents 
+policy processes as: policymakers decide on a new policy; then, implementers go 
+about putting it into practice (serial process;  Nakamura, 1987; Smith & Larimer, 
+2009). Moreover, numerous scholars advocate for a more realistic perspective where 
+few policies are completely new and implementers are constantly managing prob-
+lems while policymakers develop and amend policies (concurrent process). From 
+an empirical perspective, assuming a serial process allows for a “cleaner” approach 
+to modeling a multistep process, and reduces potential autocorrelation issues. 
+However, in doing so, we create theoretical limitations by not incorporating fac-
+tors in policy adoption and implementation with mutual influence. After balancing 
+competing interests, we elected to model this as a serial process by separating our 
+variables into two stages. In the first stage (i.e., adoption), predictors are modeled 
+as change in value from t0 to t1 and the dependent variable as change in value from 
+Figure 2. MSF Empirical Model for Policymaking and Policy Implementation Processes.
+Note: Solid lines represent causal relationships among streams, policy windows, and outputs, while 
+dashed lines represent the transition of streams from a policy-making orientation to an implementation 
+orientation.
+Implementation 
+policy window
+Conditional 
+relationship 
+between streams 
+& implementation 
+behavior 
+Implementation 
+output 
+(unobserved)
+Implementation 
+policy stream
+Expenditures(t2-t1)
+Implementation 
+politics stream
+LCV(t2-t1)
+Ideology(t2-t1)
+Implementation 
+problem stream
+Toxic releases (t2-t1)
+Adoption policy 
+stream
+Expenditures(t1-t0)
+Adoption policy 
+window
+Conditional 
+relationship 
+between streams 
+& policymaker 
+decisions
+Adoption 
+politics stream
+LCV(t1-t0)
+Ideology(t1-t0)
+Adoption 
+problem stream
+Toxic releases (t1-
+t0)
+Adoption 
+output 
+Expenditures(t2-t1)
+Policy process 
+output 
+Toxic releases (t3-t2)
+Policy
+Entrepreneurs 
+(unobserved)
+Policy
+Entrepreneurs 
+(unobserved)
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=11>>>
+Fowler: Connecting Policymaking and Policy Implementation 625
+t1 to t2. In the second stage (i.e., implementation), predictors are modeled as change 
+in value from t 1 to t 2 and the dependent variable as change in value from t 2 to t 3. 
+Figure 2 illustrates our empirical model.
+Streams
+Although underlying theoretical concepts represented by policy, problem, and 
+politics streams are complex and multi-faceted, we employ an empirical strategy that 
+favors parsimony in order to reduce complexity in testing and interpreting variables 
+with conditional relationships. First, to operationalize problems and policy streams, 
+we again follow Fowler’s (2019) empirical strategy, and use toxic releases and state 
+environmental expenditures, respectively. Toxic releases are a key indicator of “the 
+conditions that policymakers and implementers seek to alter, with [policy adoption 
+and implementation] efforts aimed to that end. As such, existing toxic releases cap-
+tures the existing problems” with attention from both policymakers and implement-
+ers" (Fowler, 2019). Toxic releases are also a key indicator of toxins released into the 
+environment that are correlated with other measures of environmental quality.
+In addition, as Fowler (2019) argues, states retain control over program funding, 
+which allows state policymakers to use budgeting to constrict or expand resources 
+in order to affect policies in practice. While the CAA, CWA, and RCRA are federal 
+programs, state legislatures serve as gatekeepers for funding allocations, and states 
+must adopt implementation plans into state law; both of which provide specific 
+opportunities for state policymakers to determine how programs are operational-
+ized within their jurisdictions. Notably, federal funding only partially supports state 
+efforts, and does not include the level of variability across states or over time nec-
+essary to identify any specific effects. Moreover, state funding is the primary mech-
+anisms by which legislatures influence program implementation. Furthermore, 
+previous research indicates there is a flypaper effect for state spending, where states 
+spend more in response to EPA grants. Consequently, using state environmental 
+expenditures also allows us to account for how federal grants may feed into state 
+policy processes (Clark & Whitford, 2011). In other words, while the CAA, CWA, 
+and RCRA are federal policies, state funding is part of an annual agenda-setting 
+and policy adoption process which represents decisions concerning how policies 
+should be curtailed to local contexts and the corresponding implementation of those 
+Table 1. Temporal Dimensions
+Time period Description
+t0 Value of variable preceding initial observation year
+t1 Value of variable during initial observation year
+t2 Value of variable following initial observation year
+t3 Value of variable following t2 (two years after initial observation year)
+(t1–t0) Change in value from t0 to t1
+(t2–t1) Change in value from t1 to t2
+(t3–t2) Change in value from t2 to t3
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=12>>>
+626 Policy Studies Journal, 50:3
+decisions, from which we can connect an output from agenda-setting and policy 
+adoption processes produced at regular intervals to other factors. We measure both 
+expenditures and toxic releases as 1 year change in per capita rate to make a better 
+comparison between states, with data from the U.S. Census Bureau and EPA, respec-
+tively, and expenditures as real 2009 dollars in order to control for inflation.
+Second, we operationalize the politics streams with two variables: citizen ideol-
+ogy, and League of Conservation Voters (LCV) National Environmental Scorecard. 
+In both cases, variables are modeled as changes from 1 year to the next. We differ 
+from Fowler (2019) in this regard as he relies on a measure of public opinion that is 
+temporally limited to the 2000s and is time invariant. In addition, the politics stream 
+is likely the most nebulous concept to empirically model here, with few measures 
+that capture how interests may be balanced with enough specificity to apply to envi-
+ronmental policy. As such, we first look to a general indicator of interstate politi-
+cal differences: ideology. We use Berry, Fording, Ringquist, Hanson, and Klarner’s 
+(2010) measure of state government ideology that places states on a continuum from 
+conservative to liberal based on interest group ratings of Congressional delegations. 
+Berry et al. (2010, 2012) argue this measure can be used to infer ideological orienta-
+tions of both state elected officials and electorates who elected them. Consequently, 
+we assume liberal states will be more favorable to environmental interests in policy 
+adoption processes and implementers will respond to ideological bents in construct-
+ing their policy interpretations. However, the generality of ideology may limit its 
+applicability when examining a specific policy area and, in using it, we must assume 
+a correlation between liberalism and environmentalism.
+To provide a second perspective, we also incorporate LCV scorecards, which 
+provides a more specific rating of how often Congressional delegations cast pro-en-
+vironmental votes on key legislation. We measure this as the annual percentage of 
+pro-environmental votes made by state delegations. Although this measure is not 
+as sophisticated as Berry et al.’s (2010) measure of government ideology, it rests 
+on the same logic in inferring state-level political ideologies based on behavior of 
+Congressional delegations. This provides us with a specific indicator of how elected 
+officials perceive competing interests in environmental policy choices. As such, we 
+assume elected officials in states whose Congressional delegations are rated as more 
+pro-environmental will share a favorable attitude toward environmental interests 
+and implementers will respond accordingly when interpreting policy. Table 2 pro-
+vides descriptions of variables used in the analysis.
+Although this provides us with measures of the streams, it does not account for 
+ambiguity. Unfortunately, ambiguity is nearly impossible to quantitatively model 
+here, but we should note its role in shaping how policy actors identify problems, 
+interpret policies, and decode politics. For instance, there is significant research on 
+social construction of problem indicators and how they spawn value-laden metrics 
+(Pierce et al., 2014; Schneider & Sidney, 2009; Yearley, 2002). While we look at toxic 
+releases as a measure of pollution, it may not be equally weighted across all policy 
+subsystems in the same way, and some policy entrepreneurs may choose to identify 
+other problem indicators as more important (e.g., symbolic thresholds). As such, our 
+measure of problems here does not assume toxic releases are an objective problem 
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=13>>>
+Fowler: Connecting Policymaking and Policy Implementation 627
+Table 2. Variable Descriptive Statistics
+Variable Description Time Mean Std. Dev. Min Max
+LCV One-year change in League of Conservation rat-
+ing of Congressional Delegation (LCV , 2019)
+(t1–t0) 0.001 0.122 −0.760 0.860
+(t2-t1) −0.003 0.117 −0.760 0.860
+Ideology One-year change in Berry, et al.'s (2012) measure 
+of state government ideology
+(t1-t0) −0.516 6.301 −39.822 28.219
+(t2-t1) −0.333 6.184 −39.822 28.219
+Expenditures One-year change in state spending on natural 
+resources in thousands of (real 2009) dollars per 
+person (U.S. Census Bureau, 2019)
+(t1-t0) 0.000 0.017 −0.271 0.128
+(t2–t1) 0.000 0.015 −0.110 0.128
+State spending on natural resources per capita 
+in thousands of (real 2009) dollars per 
+person during initial observation year (U.S. 
+Census Bureau, 2019)
+(t1) 0.091 0.083 0.014 0.624
+Toxic releases One-year change in total on-site toxic releases per 
+capita (in pounds per person; U.S. EPA, 2019b)
+(t1–t0) 1.644 68.027 −1067.149 1447.463
+(t2–t1) 0.083 72.164 −1067.149 1447.463
+(t3–t2) 1.180 72.793 −1067.149 1447.463
+Total on-site toxic releases per capita (in pounds 
+per person) during initial observation year 
+(U.S. EPA, 2019b)
+(t1) 36.00 129.399 0.000 1579.948
+Program authority Dummy variable comparing states with authority 
+for CAA, CWA, and RCRA to states without 
+authority (base category; U.S. EPA, 2019a)
+(t1–t0) 0.858 0.349 0 1
+(t2–t1) 0.863 0.344 0 1
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=14>>>
+628 Policy Studies Journal, 50:3
+that is equally interpreted across all states, but rather, it assumes that policy actors 
+rely on toxic releases as an indicator when interpreting environmental problems. 
+Moreover, if policy actors are unconcerned with toxic releases, then there is unlikely 
+to be any relationship with policy adoption choices or implementation behaviors. 
+Similarly, we must also assume that state-level expenditures, citizen ideology, and 
+environmental voting records are measures that reflect ambiguous contexts in which 
+policy processes play out.
+Policy Outputs
+Our theoretical model identifies three separate outputs: policy adoption out-
+puts, implementation outputs, and policy process outputs. However, the rather 
+complex and abstract nature of implementation outputs (i.e., norms of implementa-
+tion behaviors) creates a significant methodological challenge in searching for mea-
+surement equivalence between different choice opportunities and uses of discretion 
+(Jilke, Meuleman, & Van de Walle, 2015; Tummers & Bekkers, 2014). In order to ad-
+dress this challenge, we continue to follow Fowler’s (2019) empirical strategy and 
+assume that policy process outputs are a result of implementation outputs, but leave 
+implementation outputs unobserved in the model. As such, we infer a causal link 
+between the unobserved variable (i.e., implementation outputs) and the next theo-
+retical step in the process (i.e., policy process outputs). We, therefore, assume that 
+policy process outputs should be a direct result of implementation behaviors. This, 
+of course, presents pros and cons. On the one hand, it allows us to build on Fowler 
+(2019) both theoretically and empirically, and eliminates any “white noise” created 
+by ineffective measures of implementation outputs. On the other hand, it skips over 
+an important theoretical step in the policy process model (Howlett, 2011), and as-
+sumes a causal link. Given competing demands, we determined that the probative 
+value of building on Fowler (2019) outweighs limitations of leaving implementation 
+outputs as an unobserved variable; however, we should be circumspect in thinking 
+about findings in light of the limitations that this creates.
+Consequently, we focus on policy adoption outputs and policy process outputs 
+as dependent variables, which we measure as state environmental expenditures and 
+toxic releases, respectively. In both cases, our dependent variables are in keeping 
+with Travis and Zahariadis (2002) and Fowler (2019), which are two key empirical 
+analyses of policy adoption and implementation using MSF, respectively. As argued 
+above, control over spending is a key policy tool wielded by state policymakers 
+to influence implementation of federal environmental programs, and toxic releases 
+is an indicator of problems that policymakers and implementers want to affect 
+through policy processes. As such, these largely capture two important dimensions 
+of policy processes in terms of what policy choices are made and how those choices 
+are implemented. We use lagged variables and measure change over time (see 
+Table 1), so dependent variables capture a corresponding change in policy outputs 
+that results from changes in streams. In addition, we measure both expenditures and 
+toxic releases as per capita rates to make a better comparison between states, and 
+expenditures as real 2009 dollars in order to control for inflation.
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=15>>>
+Fowler: Connecting Policymaking and Policy Implementation 629
+As we measure policy and problems streams with the same variables (at dif-
+ferent time intervals), our assumptions about causal pathways are important here. 
+First, we assume initial spending (politics stream) influences spending the follow-
+ing year (policy adoption outputs), which in turn influences implementer behav-
+ior (implementation outputs). Second, we assume toxic releases (problems stream) 
+influence both policymaker choices concerning spending (policy adoption outputs) 
+and implementation behavior (implementation outputs), which affects future toxic 
+releases (policy process outputs). As such, our policy adoption hypothesis is: effects 
+of LCV scores and citizen ideology (politics) on next year’s environmental expendi-
+tures (policy adoption outputs) are conditional on current expenditure levels (poli-
+cies) and toxic releases (problems), where different relationships emerge depending 
+on whether current expenditures and toxic releases are moderate (i.e., at the mean), 
+or extremely high (i.e., three standard deviations above the mean or the 99.7th per -
+centile). In addition, our implementation hypothesis is: effects of LCV scores and 
+citizen ideology (politics) on next year’s toxic releases (policy process outputs) are 
+conditional on current expenditure levels (policies) and toxic releases (problems), 
+where different relationships emerge depending on whether current expenditures 
+and toxic releases are moderate (i.e., at the mean), or extremely high (i.e., three stan-
+dard deviations above the mean). Finally, our interdependent process hypothesis is: 
+effects of LCV scores and citizen ideology, expenditures, and toxic releases on future 
+environmental expenditures are not independent from their effects on future toxic 
+releases.
+Other Co-variants
+To control for an initial baseline of policy adoption and policy process outputs, 
+we include control variables for expenditures and toxic releases during the ini-
+tial observation year (i.e., t 1), respectively. We measure expenditures as per capita 
+spending in real 2009 dollars, and toxic releases as thousands of pounds per person. 
+In addition, while EPA delegates authority over the CAA, CWA, and RCRA to most 
+states, it retains authority in a few. As such, we control for program authority using a 
+dummy variable comparing states with authority over CAA, CWA, and RCRA pro-
+grams to those without authority (U.S. EPA, 2019a). Note that unlike other variables, 
+co-variants are not measured as change over time, but are time variant.
+Analysis
+Given that we are interested in examining two processes that are separate but 
+not independent, we test our data using SUR. SUR builds on ordinary least squares 
+(OLS) regression by creating a joint estimate of two or more equations through a 
+single iterative procedure. Previous scholarship argues that SUR is more efficient 
+than single equation estimators by utilizing relevant information from cross-re-
+gression correlations when determining parameters for each equation (Andrews 
+& Van de Walle, 2013; Jackson, 2002; Martin & Smith, 2005; Mintz & Huang, 1990; 
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=16>>>
+630 Policy Studies Journal, 50:3
+Zellner, 1962). Specifically, “SUR estimation transforms the errors so that they all 
+have the same variance and are uncorrelated. This transformation is then applied 
+to the other variables in each equation, and OLS is applied to these transformed 
+variables. This procedure  … offers more precise parameter estimates than single 
+equation least squares because it incorporates the additional information provided 
+by the correlation between the individual equation errors” (Martin & Smith, 2005, p. 
+604). However, SUR estimations are only more efficient than OLS when correlations 
+are significantly different from zero, and most software packages (e.g., Stata) will 
+default to OLS if predictor variables are identical across equations (Mintz & Huang, 
+1990; StataCorp, 2017).
+Since our hypotheses focus on a conditional nature of stream effects on policy 
+outputs, we use interaction terms to test relationships between our predictors and 
+dependent variables. As interaction terms can cause inflated standard errors, we 
+cluster standard errors at the state  level, which assumes standard errors are cor -
+related within states over time but not across states. In addition, although SUR pro-
+vides some correction for potential serial correlation issues that may exist in pooled 
+cross-sectional datasets, this provides an extra safeguard against biased estimation of 
+standard errors (Beck & Katz, 1995, 1996; Fowler, 2019; Primo, Jacobsmeier, & Milyo, 
+2007; Travis & Zahariadis, 2002). Finally, coefficients for interaction terms can be dif-
+ficult to interpret, so we use standardized coefficients and graph interaction effects 
+(Fowler, 2019; Travis & Zahariadis, 2002). As we use two dependent variables, stan-
+dardized coefficients allow for some comparison of effects within and between mod-
+els, which would otherwise be inappropriate (King, 1986). Graphs compare effects 
+when predictor variables are at mean values to values three standard deviations 
+above the mean in order to illustrate differences that emerge between moderate and 
+extreme values. We present two models: model 1 uses LCV scores to measure the 
+politics stream, and model 2, citizen ideology.
+Results
+Table 3 displays results for both models, while Figure 3 graphs results for both 
+dependent variables in model 1 and Figure 4, results for model 2. First, findings in 
+both models indicate effects of politics on policy adoption outputs are conditional 
+on existing policies and problems, which supports our policy adoption hypothe-
+sis. Statistically significant interactions between stream variables denote effects of 
+both LCV scores and citizen ideology on future environmental expenditures are con-
+ditional on current expenditures and toxic releases. As coefficients for interaction 
+terms are difficult to interpret directly, Figures 3 and 4 illustrate these relationships. 
+Consistently in both figures, we see only marginal differences emerge in the rela-
+tionship between both politics stream variables and future expenditures when either 
+current expenditures or toxic releases are at the mean. However, when both current 
+expenditures and toxic releases values are at three standard deviations above the 
+mean, a definite positive relationship between both politics variables and future ex-
+penditures becomes evident, where increased political value on environmentalism 
+is correlated with increased spending. In addition, there also appears to be little 
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=17>>>
+Fowler: Connecting Policymaking and Policy Implementation 631
+difference in future expenditures when both expenditures and toxic releases are at 
+three standard deviations above the mean if either LCV scores or citizen ideology 
+are at the mean.
+Second, findings for both models suggest effects of politics on policy process out-
+puts are conditional on existing policies and problems, which supports our imple-
+mentation hypothesis. Statistically significant interactions between stream variables 
+indicate effects of both LCV scores and citizen ideology on future toxic releases 
+are conditional on current expenditures and toxic releases. Although interactions 
+between LCV scores and other stream variables individually are statistically signifi-
+cant, the interaction between all three stream variables is not statistically significant 
+Table 3. SUREG Model Results (Serial)
+  Model 1 Model 2
+Dependent variable: Expenditures (t2–t1)    
+LCV (t1–t0) −0.023 (0.030)  
+Ideology (t1–t0)   0.067 (0.030)*
+Expenditures (t1–t0) −0.173 (0.030)*** −0.180 (0.031)***
+Toxic releases (t1–t0) −0.197 (0.034)*** 0.096 (0.059)
+Expenditures (t1–t0) × Toxic releases (t1–t0) 0.157 (0.019)*** 0.189 (0.034)***
+LCV (t1–t0) × Expenditures (t1–t0) 0.151 (0.031)***  
+LCV (t1–t0) × Toxic releases (t1–t0) −0.087 (0.044)*  
+LCV (t1–t0) × Expenditures (t1–t0) × Toxic releases (t1–t0) 0.131 (0.024)***  
+Ideology (t1–t0) × Expenditures (t1–t0)   0.088 (0.027)***
+Ideology (t1–t0) × Toxic releases (t1–t0)   0.197 (0.047)***
+Ideology (t1–t0) × Expenditures (t1–t0) × Toxic releases 
+(t1–t0)
+  0.053 (0.019)**
+Expenditures (t1) 0.059 (0.031) 0.023 (0.032)
+Program authority (t1) 0.039 (0.088) 0.063 (0.089)
+Constant −0.031 (0.081) −0.044 (0.082)
+R2 0.116 0.088
+Chi-squared 170.33*** 112.78***
+Dependent variable: Toxic releases (t3–t2)    
+LCV (t2–t1) −0.011 (0.024)  
+Ideology (t2–t1)   0.0004 (0.026)
+Expenditures (t2–t1) 0.294 (0.025)*** 0.295 (0.025)***
+Toxic releases (t2–t1) −0.403 (0.028)*** −0.383 (0.027)***
+Expenditures (t2–t1) × Toxic releases (t2–t1) −0.195 (0.014)*** −0.185 (0.013)***
+LCV (t2–t1) × Expenditures (t2–t1) −0.106 (0.023)***  
+LCV (t2–t1) × Toxic releases (t2–t1) −0.093 (0.036)**  
+LCV (t2–t1) × Expenditures (t2–t1) × Toxic releases (t2–t1) −0.017 (0.018)  
+Ideology (t2–t1) × Expenditures (t2–t1)   −0.009 (0.034)***
+Ideology (t2–t2) × Toxic releases (t2–t1)   0.500 (0.192)**
+Ideology (t2–t1) × Expenditures (t2–t1) × Toxic releases 
+(t2–t1)
+  −0.457 (0.185)*
+Toxic releases (t1) −0.073 (0.028)** −0.027 (0.029)
+Program authority (t2) −0.197 (0.073)** −0.191 (0.075)*
+Constant 0.162 (0.068) 0.165 (0.069)*
+R2 0.419 0.404
+Chi-squared 809.18*** 728.21***
+N 1000 1000
+BIC 5071.981 5170.738
+Correlation of residuals −0.127 −0.079
+Breusch-Pagan test of independence 16.015*** 6.237*
+Note: Standard errors in parentheses.
+*p < 0.05;**p < 0.01;***p < 0.001.
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=18>>>
+632 Policy Studies Journal, 50:3
+in model 1. Moreover, all interaction terms are statistically significant when ideology 
+is used to measure politics in model 2. Similar to findings for policy adoption out-
+puts in Figures 3 and 4, we see only marginal differences emerge in the relationship 
+between both politics stream variables and future toxic releases when either current 
+expenditures or toxic releases are at the mean. However, when both current expen-
+ditures and toxic releases are at three standard deviations above the mean, negative 
+relationships between politics variables and future expenditures begin to emerge, 
+where increased political value on environmentalism is correlated with decreased 
+toxic releases. In addition, there appears to be little difference in future toxic releases 
+Figure 3. Graph of Interaction Effects from Model 1.
+Figure 4. Graph of Interaction Effects from Model 2.
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=19>>>
+Fowler: Connecting Policymaking and Policy Implementation 633
+when both expenditures and toxic releases are at three standard deviations above 
+the mean if either LCV scores or citizen ideology are at the mean.
+Third, results of the Breusch–Pagan test are statistically significant for both mod-
+els, which supports our interdependent process hypothesis. Findings indicate that 
+residuals from both equations are correlated, which suggests that although separate, 
+policy adoption and implementation processes are not independent from each other. 
+Unfortunately, this test is limited in offering additional inferences about the relation-
+ship between policy adoption and implementation, but other model statistics offer 
+further insights. Notably, there is a negative correlation of residuals in both models, 
+which suggests that as one equation becomes more efficient, the other becomes less 
+efficient. In addition, R2 statistics indicate that our models are much better predic-
+tors of policy process outputs than policy adoption outputs. Taken together, this 
+suggests that while there is overlap in how predictors affect both policy adoption 
+and policy process outputs, there is also a significant degree of divergence. In other 
+words, even though the same factors likely exist in both, policy adoption streams 
+likely materialize differently than implementation streams. Despite this, it appears 
+that interactions between expenditures and toxic releases are particularly import-
+ant indicators of both policy adoption and policy process outputs across the board. 
+Finally, findings for program authorities indicate that increased state responsibil-
+ity for federal environmental programs leads to both more expenditures and lower 
+toxic releases; however, effects are not statistically significant for policy adoption, so 
+they should be interpreted with caution.
+Discussion
+Findings provide support for our policy adoption, implementation, and interde-
+pendent process hypotheses. In sum, effects of politics on policy adoption outputs 
+and policy implementation are conditional on current policies and problems, and 
+those effects are correlated with each other. Specifically, when environmental ex-
+penditures (policies), toxic releases (problems), or LCV scores or citizen ideology 
+(politics) are at moderate levels, there are only marginal differences across policy 
+outputs. Moreover, when all three increase to extreme levels, significant departures 
+from status quo emerge. While our empirical models provide statistical evidence, it 
+is also important to think about how this process plays out in practical terms. To start, 
+if political winds shift in a pro-environment direction, legislatures may not respond 
+by increasing spending, particularly if indicators do not suggest an environmen-
+tal problem or they operate in an atmosphere of budget austerity. However, if this 
+is coupled with both increasing pollution and nonincremental spending increases 
+from previous years, then state legislatures are faced with a unique situation: there is 
+a problem that is getting worse that has political support and that legislatures have 
+already invested substantial resources into. Consequently, legislatures are likely to 
+respond by further investing resources in hopes that it spurs improvements in the 
+problem, or at least, dissipates political interest.
+By extension, without new resources flooding into environmental agencies, imple-
+menters are unlikely to shift their behavior or norms of practice, so the status quo 
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=20>>>
+634 Policy Studies Journal, 50:3
+remains intact. Moreover, when new resources are coupled with a growing political 
+interest in environmental quality and rising pollution levels, implementers are forced 
+to respond by changing the norms of how they monitor and enforce environmental 
+regulations in order to improve environmental conditions. Nevertheless, if pollution 
+levels off, then implementers will likely maintain their current approach by rational-
+izing that changing may aggravate the problem or that what they are doing works. In 
+addition, if new resources from policymakers dissipate political interest in the envi-
+ronment, then there is no pressure on implementers to change in the first place. In 
+sum, it takes a unique set of conditions to trigger both collective choices to change 
+social conditions and the necessary collective actions to put those choices into practice.
+Of course, ambiguity plays a key role here, and we assume that our measures 
+reflect facets of policy adoption and implementation contexts that create an objective 
+comparison across states. Ambiguity is difficult to account for though, and mecha-
+nisms by which policy actors interpret their surroundings is unclear. For instance, 
+toxic releases may not be an important problem indicator for some. While our anal-
+ysis provides empirical evidence to support our narrative above, it only begins to 
+unravel the black box of policy processes that includes both decision making and exe-
+cution. For instance, this does not directly account for the often changing and some-
+times contradictory regulatory demands placed on state agencies by federal agencies. 
+Our dataset covers three presidencies with different approaches to environmental 
+policy, which reverberated through the federal system (e.g., Konisky & Woods, 2016; 
+Rabe, 2007). As we examine program management in a federal system, it behooves us 
+not to overlook intergovernmental dimensions that play an important role in shaping 
+policy outcomes when attempting to build theory around policy implementation.
+Most importantly, while our findings do provide evidence that policy adoption and 
+implementation are correlated with each other, our observations do not provide much 
+depth to the exact nature of that relationship. Our research design is based on a two-stage 
+process with implementation following policy adoption, where we assume “a spend-
+ing bill passed today is driven by environmental conditions of yesterday, but affects 
+implementation and policy outputs of tomorrow” (Fowler, 2019, p. 15). However, some 
+scholars argue that in reality implementation tends to coincide with policy adoption, 
+where administrators work to manage problems at the same time policymakers are 
+deciding what to do. We also assume that politics and problem streams exist in much 
+the same way for policy adoption and implementation. However, some scholars argue 
+that politics and problem streams are constructed differently during implementation 
+than during policy adoption, particularly as policymakers have different relationships 
+with citizens than policy implementers (e.g., Boswell & Rodrigues, 2016).
+In addition, we leave policy implementation outputs (i.e., norms of policies 
+in practice) unobserved in the model, and assume a direct correlation with policy 
+process outputs (i.e., toxic releases). While our assumptions create a parsimonious 
+research design to test our hypotheses and can be justified, they also create import-
+ant limitations for our findings and the inferences that can be made about policy 
+processes. Unfortunately, this is a common shortcoming, and “management and 
+managerial behaviors are crucial but underexplored and underexamined variables 
+in the policy literature” (Howlett & Walker, 2012, p. 212). While some scholars offer 
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=21>>>
+Fowler: Connecting Policymaking and Policy Implementation 635
+suggestions for resolving the problem with the “missing” public manager variable, 
+there are few good methodological solutions to empirically modeling how policy 
+implementers apply administrative discretion in an ambiguous and chaotic environ-
+ment (Howlett, 2011; Meier, 2009; Robichau & Lynn, 2009). Certainly, this element 
+requires extensive additional research, but its absence from our empirical models 
+does not negate the novelty of our findings. At minimum, using SUR here allows us 
+to show that the conditional relationship among policy, politics, and problems is not 
+isolated to policy adoption and has an interdependent relationship with policy pro-
+cess outputs. Even if we disregard the implementation element (which we caution 
+readers not to), this finding alone is noteworthy, as MSF scholars work to develop 
+and quantitatively test hypotheses and to expand MSF beyond policy adoption so 
+that it becomes a more robust theory.
+Finally, if we assume that ambiguity shapes interpretations of environmental 
+conditions, then we also have to question whether using a measure such as change in 
+toxic releases is an effective problem indicator. For instance, limiting climate change 
+to two degrees Celsius has long been a climate policy goal, but in many ways, this is a 
+symbolic threshold as there is a significant degree of uncertainty surrounding actual 
+climate thresholds (Keller, Bolker, & Bradford, 2004). Toxic releases are not framed 
+by the same type of symbolic thresholds, so we are unable to examine it here; other 
+more specific forms of pollution are though. For example, air quality is measured by 
+pollutant concentrations, but some scholars argue that managers are focused on how 
+often pollutant concentrations exceed recommended levels, rather than marginal 
+changes in pollutant concentration (Fowler, 2016). Given this, additional research 
+is necessary to examine whether conditional relationships between streams and the 
+interdependence of policy processes is altered by symbolic thresholds.
+Conclusions
+A key contribution of this research is providing empirical evidence that sup-
+ports a MSF theoretical model of a whole policy process, which is an important ex-
+pansion that addresses key criticisms of existing scholarship. Most importantly, this 
+builds a deeper understanding of how collective choices lead to collective actions, 
+and in turn, solve social problems. Although previous scholarship is well developed 
+in many areas related to this, there are few examples of models that incorporate 
+both policy choices and execution. As such, our examination provides new insights 
+into how ambiguous circumstances surrounding two distinct subprocesses can be 
+integrated in order to understand a single complex process. As governance schemes 
+evolve and become reliant on nongovernmental organizations and networks, under-
+standing how to connect choices and actions will become an important determinant 
+of success. Although our analysis focuses on state governments here, MSF is not 
+exclusive to public agencies or traditional policy-making bodies, which allows it to 
+incorporate institutional arrangements that include myriad organizations working 
+to manage public problems. This will likely be important as we further consider how 
+political power is used to manipulate policy choices and public service delivery in 
+nonhierarchical arrangements with pluralistic interests.
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=22>>>
+636 Policy Studies Journal, 50:3
+This examination begins to build a bridge between MSF scholarship and demo-
+cratic governance from which advice and guidance can be derived. From our findings, 
+we can glean that windows open for both policy choices and execution when politics, 
+problems, and policies come together, and this is a key step in successful policy gover-
+nance. We can also infer that while policy windows can be utilized to increase program 
+resources, those new resources may not affect policy outputs unless the right political 
+and problem circumstances exist. As such, policy entrepreneurs should follow policy 
+ideas through adoption and into implementation in order to ensure social problems 
+actually improve. Otherwise, they may be successful in having policies adopted only 
+to see those policies fail in practice. While our findings are limited in providing spe-
+cific guidance beyond this point, scholars have vigorously explored other MSF con-
+cepts (Herweg et al., 2018). As such, our theoretical model also makes it possible to 
+integrate bodies of literature to create a cohesive explanation of policy processes.
+Nevertheless, additional research is necessary. First, core MSF concepts that have 
+previously been seen as self-contained within agenda-setting and policy adoption or 
+policy implementation need to be considered within a broader policy process. For 
+example, existing research considers how policy entrepreneurs operate during both 
+policy process stages, but those concepts can be more effectively integrated. While 
+scholarship is well developed in terms of policy entrepreneurship during agen-
+da-setting or policy adoption, there is far less insight into how transitions between 
+two interdependent processes impact strategies or tactics (Frisch-Aviram, Beeri, & 
+Cohen, 2019; Roberts & King, 1991; Zahariadis, 2005; Zahariadis & Exadakatylos, 
+2016). As such, scholars should examine how policy entrepreneurs switch focus 
+from policymakers to policy implementers, and whether some policy entrepreneurs 
+limit themselves to one part of the process or another.
+Second, scholarship should integrate findings and synthesize advice and guid-
+ance for democratic governance, so practitioners can more effectively navigate 
+ambiguous policy environments. Ideally, by better understanding how the whole 
+policy process comes together, policy actors can have a more acute understanding 
+of their role in it and how to achieve outcomes that improve our society. To do so 
+requires scholars to bridge the gap between theory and practice, so scholarship is 
+palatable for non-academics. Finally, as this is only an initial examination of this 
+model, further research is necessary to experiment with alternative research designs 
+(e.g., conditional path analysis or conditional mixed-process modeling) that pro-
+vide for more sophisticated modeling of relationships, such as concurrent processes. 
+Although MSF is already widely used by students of public policy, expanding the-
+oretical models to incorporate both policy adoption and implementation addresses 
+key criticisms and increases its utility in understanding policy processes.
+Luke Fowler is associate professor in public policy and administration and director 
+of the MPA program at Boise State University. His research interests include policy 
+implementation, collaboration and collective action, energy and environmental pol-
+icy, and state and local government. His work has appeared in the American Review 
+of Public Administration, Environmental Politics, Governance, State & Local Government 
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=23>>>
+Fowler: Connecting Policymaking and Policy Implementation 637
+Review, Publius, Public Works Management & Policy, Public Performance & Management 
+Review, Review of Policy Research, and Review of Public Personnel Administration.
+References
+Aberbach, Joel D., and Tom Christensen. 2014. “Why Reforms So Often Disappoint.” American Review of 
+Public Administration 44 (1): 3–16.
+Andrews, Rhys, and Steven Van de Walle. 2013. “New Public Management and Citizens’ Perceptions of 
+Local Service Efficiency, Responsiveness, Equity, and Effectiveness.” Public Management Review 15 
+(5): 762–83.
+Avery, George. 2004. “Bioterrorism, Fear, and Public Health Reform: Matching Policy Solution to the 
+Wrong Window.” Public Administration Review 64 (3): 274–88.
+Baumgartner, Frank R., Bryan D. Jones, and Peter B. Mortensen. 2018. “Punctuated Equilibrium Theory: 
+Explaining Stability and Change in Public Policymaking.” In Theories of the Policy Process, 4th ed., ed. 
+Christopher M. Weible, and Paul A. Sabatier. Boulder, CO: Westview Press, 59–103.
+Beck, Nathaniel, and Jonathan N. Katz. 1995. “What to Do (and Not to Do) with Time Series Cross-Section 
+Data.” American Political Science Review 89 (3): 634–47.
+   . 1996. “Nuisance vs. Substance: Specifying and Estimating Time-Series-Cross-Section Models.” 
+Political Analysis 6 (1): 1–36.
+Berry, William D., Richard C. Fording, Evan J. Ringquist, Russell L. Hanson, and Carl E. Klarner. 2010. 
+“Measuring Citizen and Government Ideology in the U.S. States.” States Politics and Policy Quarterly 
+10 (2): 117–35.
+Berry, William D., Richard C. Fording, Evan J. Ringquist, Russell L. Hanson, and Carl Klarner. 2012. “A 
+New Measure of State Government Ideology, and Evidence that Both the New Measure and an Old 
+Measure Are Valid.” States Politics and Policy Quarterly 13 (2): 164–82.
+Birkland, T. A. 2004. “The World Changed Today: Agenda-Setting and Policy Change in the Wake of the 
+September 11 Terrorist Attacks.” Review of Policy Research 21 (2): 179–200.
+Boswell, Christina, and Eugénia Rodrigues. 2016. “Policies, Politics, and Organisational Problems: 
+Multiple Streams and the Implementation of Targets in UK Government.” Policy & Politics 44 (4): 
+507–24.
+Brehm, John O., and Scott Gates. 1999. Working, Shirking, and Sabotage. Ann Arbor, MI: University of 
+Michigan Press.
+Chun, Young Han, and Hal G. Rainey. 2005. “Goal Ambiguity in Organizational Performance in U.S. 
+Federal Agencies.” Journal of Public Administration Research & Theory 15 (4): 529–57.
+Clark, Benjamin Y., and Andrew B. Whitford. 2011. “Does More Federal Environmental Funding Increase 
+or Decrease States’ Efforts?” Journal of Policy Analysis & Management 30 (1): 136–52.
+Davis, Randall S., and Edmund C. Stazyk. 2015. “Developing and Testing a New Goal Taxonomy: 
+Accounting for the Complexity of Ambiguity and Political Support.” Journal of Public Administration 
+Research & Theory 25 (3): 751–75.
+Engler, Fabian, and Nicole Herweg. 2019. “Of Barriers to Entry for Medium and Large n Multiple Streams 
+Applications: Methodological and Conceptual Considerations.” Policy Studies Journal 47 (4): 751–75.
+Fowler, Luke. 2016. “Local Governments: The ‘Hidden Partners’ of Air Quality Management.” State & 
+Local Government Review 48 (3): 175–88.
+   . 2019. “Problems, Politics, and Policy Streams in Policy Implementation.” Governance 32 (3): 
+403–20.
+Frisch-Aviram, Neomi, Itai Beeri, and Nissim Cohen. 2019. “Entrepreneurship in the Policy Process: 
+Linking Behavior and Context through a Systematic Review of the Policy Entrepreneurship 
+Literature.” Public Administration Review. https ://doi.org/10.1111/puar.13089 .
+Herweg, Nicole, Nikolaos Zahariadis, and Reimut Zohlnhöfer. 2018. “The Multiple Stream Framework: 
+Foundations, Refinements, and Empirical Applications.” In Theories of the Policy Process, 4th ed., ed. 
+Christopher M. Weible, and Paul A. Sabatier. Boulder, CO: Westview Press, 17–53.
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=24>>>
+638 Policy Studies Journal, 50:3
+Howlett, Michael. 2011. “Public Managers as the Missing Variable in Policy Studies: An Empirical 
+Investigation Using Canadian Data.” Review of Policy Research 28 (3): 247–63.
+   . 2019. “Moving Policy Implementation Theory Forward: A Multiple Streams/Critical Junction 
+Approach.” Public Policy & Administration 34 (4): 405–30.
+Howlett, Michael, and Richard M. Walker. 2012. “Public Managers in the Policy Process: More Evidence 
+on the Missing Variable?” Policy Studies Journal 40 (2): 211–33.
+Howlett, Michael, Allan McConnell, and Anthony Perl. 2015. “Streams and Stages: Reconciling Kingdon 
+and Policy Process Theory.” European Journal of Political Research 54 (3): 419–34.
+Jackson, John E. 2002. “A Seemingly Unrelated Regression Model for Analyzing Multiparty Elections.” 
+Political Analysis 10 (1): 49–65.
+Jilke, Ssebastian, Bart Meuleman, and Steven Van de Walle. 2015. “We Need to Compare, but How? 
+Measurement Equivalence in Comparative Public Administration.” Public Administration Review 75 
+(1): 36–48.
+Keller, Klaus, Benjamin M. Bolker, and David F. Bradford. 2004. “Uncertain Climate Thresholds and 
+Optimal Economic Growth.” Journal of Environmental Economics & Management 48 (1): 723–41.
+King, Gary. 1986. “How Not to Lie with Statistics: Avoiding Common Mistakes in Quantitative Political 
+Science.” American Journal of Political Science 30 (3): 666–87.
+Kingdon, John W. 1995. Agendas, Alternatives, and Public Policies, 2nd ed. New York, NY: HarperCollins.
+Konisky, David M., and Neal D. Woods. 2012. “Measuring State Environmental Policy.” Review of Policy 
+Research 29 (4): 544–69.
+   . 2016. “Environmental Policy, Federalism, and the Obama Presidency.” Publius 46 (3): 366–91.
+League of Conservation Voters (LCV). 2019. National Environmental Scorecard. https ://score card.lcv.org/. 
+Accessed August 2019.
+Lipsky, Michael. 2010. Street-Level Bureaucracy. New York: Russell Sage Foundation.
+Martin, Stephen, and Peter C. Smith. 2005. “Multiple Public Service Performance Indicators: Toward an 
+Integrated Statistical Approach.” Journal of Public Administration Research & Theory 15 (4): 599–613.
+Meier, Kenneth J. 2009. “Policy Theory, Policy Theory Everywhere: Ravings of a Deranged Policy Scholar.” 
+Policy Studies Journal 37 (1): 5–11.
+Mintz, Alex, and Chi Huang. 1990. “Defense Expenditures, Economic Growth, and the 'Peace Dividend.'” 
+American Political Science review 84 (4): 1283–93.
+Nakamura, Robert T. 1987. “The Textbook Policy Process and Implementation Research.” Review of Policy 
+Research 7 (1): 142–54.
+Pandey, Sanjay K., and Bradley E. Wright. 2006. “Connecting the Dots in Public Management: Political 
+Environment, Organizational Goal Ambiguity, and the Public Manager’s Role Ambiguity.” Journal of 
+Public Administration Research & Theory 16 (4): 511–32.
+Pierce, Jonathan J., Saba Siddiki, Michael D. Jones, Kristin Schumacher, Andrew Pattison, and Holly 
+Peterson. 2014. “Social Construction and Policy Design: A Review of Past Applications.” Policy 
+Studies Journal 42 (1): 1–29.
+Primo, David M., Matthew L. Jacobsmeier, and Jeffrey Milyo. 2007. “Estimating the Impact of State 
+Policies and Institutions with Mixed-Level Data.” State Politics and Policy Quarterly 7 (4): 446–59.
+Rabe, Barry. 2007. “Environmental Policy and the Bush Era: The Collision between the Administrative 
+Presidency and State Experimentation.” Publius 37 (3): 413–31.
+Reed, Douglas S. 2014. Building the Federal Schoolhouse. New York: Oxford University.
+Roberts, Nancy C., and Paula J. King. 1991. “Policy Entrepreneurs: Their Activity Structure and Function 
+in the Policy Process.” Journal of Public Administration Research & Theory 1 (2): 147–75.
+Robichau, Robbie Waters, and Laurence E. Lynn Jr. 2009. “The Implementation of Public Policy: Still the 
+Missing Link.” Policy Studies Journal 37 (1): 21–36.
+Robinson, Scott E., and Warren S. Eller. 2010. “Participation in Policy Streams: Testing the Separation of 
+Problems and Solutions in Subnational Policy Systems.” Policy Studies Journal 38 (2): 199–215.
+Sager, Fritz, and Eva Thomann. 2017. “Multiple Streams in Member State Implementation: Politics, 
+Problem Construction and Policy Paths in Swiss Asylum Policy.” Journal of Public Policy 37 (3): 
+287–314.
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=25>>>
+Fowler: Connecting Policymaking and Policy Implementation 639
+Schneider, Anne, and Mara Sidney. 2009. “What Is Next for Policy Design and Social Construction 
+Theory.” Policy Studies Journal 37 (1): 103–19.
+Smith, Kevin B., and Christopher W. Larimer. 2009. The Public Policy Theory Primer. Boulder, CO: Westview 
+Press.
+Sowa, Jessica E., and Sally Coleman Selden. 2003. “Administrative Discretion and Active Representation: 
+An Expansion of the Theory of Representative Bureaucracy.” Public Administration Review 63 (6): 
+700–10.
+StataCorp. 2017. Stata 15 Base Reference Manual. College Station, TX: Stata Press.
+Stazyk, Edmund C., and Holly T. Goerdel. 2011. “The Benefits of Bureaucracy: Public Managers’ 
+Perceptions of Political Support, Goal Ambiguity, and Organizational Effectiveness.” Journal of Public 
+Administration Research & Theory 21 (4): 645–72.
+Travis, Rick, John C. Morris, and Elizabeth D. Morris. 2004. “State Implementation of Federal 
+Environmental Policy: Leveraging in the State Clean Water Revolving Fund.” Policy Studies Journal 
+32 (3): 461–80.
+Travis, Rick, and Nikolaos Zahariadis. 2002. “A Multiple Streams Model of U.S. Foreign Aid Policy.” 
+Policy Studies Journal 30 (4): 495–514.
+Tummers, Lars, and Victor Bekkers. 2014. “Policy Implementation, Street-Level Bureaucracy, and the 
+Importance of Discretion.” Public Management Review 16 (4): 527–47.
+U.S. Census Bureau. 2019. Annual Survey of State Government Finance Datasets. https ://www.census.gov/
+progr ams-surve ys/state/ data/datas ets.html [Accessed August, 2019].
+U.S. Environmental Protection Agency (U.S. EPA). 2019a. State Review Framework for Compliance and 
+Enforcement Performance. https ://www.epa.gov/compl iance/ state-review-frame work-compl iance-
+and-enfor cement-perfo rmance. Accessed August 2019.
+   . 2019b. Toxic Releases Inventory. https ://www.epa.gov/toxics-relea se-inven tory-tri-program. 
+Accessed August 2019.
+Wood, B. Dan, and Richard W. Waterman. 1991. “The Dynamics of Political Control of the Bureaucracy.” 
+American Political Science Review 85 (3): 801–28.
+Woods, Neal D. 2006. “Primacy Implementation of Environmental Policy in the US States.” Publius 36 
+(2): 259–76.
+Yearley, S. 2002. “The Social Construction of Environmental Problems: A Theoretical Review and Some 
+Not-Very-Herculean Labors.” In Sociological Theory and the Environment: Classical Foundations, 
+Contemporary Insights, ed. Riley E. Dunlap, Frederick H. Buttel, Peter Dickens, and August Gijswijt. 
+New York, NY: Rowman & Littlefield, 274–85.
+Zahariadis, Nikolaos. 2005. Essence of Political Manipulation. New York, NY: Peter Lang.
+Zahariadis, Nikolaos, and Theofanis Exadaktylos. 2016. “Policies that Succeed and Programs that Fail: 
+Ambiguity, Conflict, and Crisis in Greek Higher Education.” Policy Studies Journal 44 (1): 59–82.
+Zellner, Arnold. 1962. “An Efficient Method of Estimating Seemingly Unrelated Regressions and Tests of 
+Aggregation Bias.” Journal of the American Statistical Association 57 (298): 348–68.
+ 15410072, 2022, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/psj.12381 by WORLD BANK, Wiley Online Library on [18/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

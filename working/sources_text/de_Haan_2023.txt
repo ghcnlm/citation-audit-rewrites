@@ -1,0 +1,2152 @@
+<<<PAGE=1>>>
+WHAT CAN WE KNOW ABOUT THE EFFECTIVENESS OF
+COACHING? A META-ANALYSIS BASED ONLY ON
+RANDOMIZED CONTROLLED TRIALS
+ERIK DE HAAN
+Hult International Business School
+VU University Amsterdam
+VIKTOR O. NILSSON
+Hult International Business School
+Norwegian School of Economics
+The study involved a comprehensive meta-analysis of 37 randomized controlled trial
+(RCT) studies of workplace and executive coaching programs written in the English lan-
+guage between 1994 and 2021, using rigorous inclusion criteria designed to align with the
+robustness of statistical significance and coaching applications. Analysis of 39 coaching
+RCT samples, with a total sample size ofn 52,528, yielded a statistically significant effect
+of workplace coaching across all leadership and personal outcomes. Our best estimate of
+a standard effect size for coaching ofg 5.59 fell well within the moderate range, although
+there were indications of significant publication bias, as expected. Furthermore, we
+develop a model that is based on the leverage from coregulation between coach and coa-
+chee. The model was confirmed in five different predictions: moderation analyses indi-
+cated that effects are larger with self-reported outcomes, as distinct from observed
+outcomes; they are larger with qualified coaches in nonleadership applications; and they
+are somewhat larger with female coachees, while they do not depend much on the length
+of the overall coaching assignment. Taken together, these findings provide clear and new
+evidence of the efficacy of coaching interventions in a variety of applications.
+Coaching is a customized personal development
+journey that promotes the client’s decision-making
+and performance through conversations, making use
+of shared inquiry, reflection, support, and challenge.
+As a pathway for personal and professional growth,
+coaching is now firmly established in the sports and
+business worlds and enjoys a growing popularity in
+the teaching and medical professions. In response
+to the coaching profession’s growth over the last
+two decades, research into workplace coaching out-
+comes has increased significantly, and has produced
+a wide and varied evidence base for its effectiveness.
+Of the 160 unique and rigorous empirical studies
+summarized in De Haan (2021), 11 were published
+in 2019 and 14 in 2020 alone.
+Despite a growing base of empirical research, the
+effectiveness of workplace coaching has not been es-
+tablished beyond doubt. Most published studies show
+clear indications of effectiveness, although there are
+several counterexamples and the case against coach-
+ing’s effectiveness can still be made, especially when
+publication biases are estimated (de Haan, 2021).
+Beyond establishing general effectiveness, there are
+clear questions around how many sessions are needed
+to achieve a satisfactory level of outcomes. As this
+study will show, a meta-analysis can now establish
+not only a convincing measure of general effective-
+ness, but also the effects of dosage (session num-
+bers), coachee gender, coach and coachee job roles,
+and even the types of outcomes measured. Eventu-
+ally, one would expect to show differential effects
+for coaching models and years of experience, al-
+though most researchers expect common factors to
+dominate, which means that interventions, qualifi-
+cations, and experience levels are not expected to be
+very distinctive when regressed against outcomes.
+There have been four previously published, explo-
+rational meta-analyses of coaching effectiveness (Burt
+& Talati, 2017; Jones, Woods, & Guillaume, 2015;
+Sonesh, Coultas, Lacerenza, Marlow, Benishek, &
+Salas, 2015; Theeboom, Beersma, & van Vianen,
+2014), but they were all conducted before a recent
+Corresponding author: Erik de Haan (erik.dehaan@
+ashridge.org.uk).
+1
+Copyright of the Academy of Management, all rights reserved. Contents may not be copied, emailed, posted to a listserv, or otherwise transmitted without the copyright holder's express
+written permission. Users may print, download, or email articles for individual use only.
+r Academy of Management Learning & Education
+2023, Vol. 00, No. 00, 1–21.
+https://doi.org/10.5465/amle.2022.0107
+<<<PAGE=2>>>
+growth of randomized controlled trials (RCTs). They
+encompass 18, 24, 17, and 11 studies, respectively,
+and miss out on some of the earlier RCTs. We believe
+each of those analyses has insufficient power to
+demonstrate small effects or reject the null hypothesis—
+see, for example, our power analysis in the Methodol-
+ogy section. Moreover, they are all based on study
+selections that include not just RCTs but also quasi-
+experimental designs wherein the control group was
+not randomized, which may have overstated the ef-
+fect sizes. Only one of the earlier meta-analyses, Jones
+et al. (2015), reported a“prediction interval” (PI),
+which is meta-analysis’s most powerful measure of
+the significance of overall effectiveness, and that
+study only reported a nonstandard 80% PI.
+The most reliable research protocol, the random-
+ized controlled trial, has grown considerably in coach-
+ing. RCT applications have more than tripled since
+the most recent overview by Burt and Talati in 2017.
+Considering this strong growth in research, helped by
+a growth in PhDs in coaching and a growing number
+of medical applications of workplace coaching, we
+believe it is time to attempt a new meta-analysis study,
+this time exclusively based on RCTs, so that artificial
+biases are avoided, and effect sizes are more compara-
+ble. In a meta-analysis of studies with between-group
+designs, effect sizes are always measured against
+those of a control group in the same circumstances,
+which substantially reduces same-source and selec-
+tion biases, Hawthorne effects, and other false posi-
+tives. For this meta-analysis, we have brought
+together all 37 RCT studies in workplace, executive,
+and life coaching, containing 40 independent sam-
+ples. Where data were incomplete, we contacted the
+authors. For one article, the authors could no longer
+report the full data, so our meta-analysis is based on
+36 rigorous RCT studies, which were published
+between 1994 to 2021, with 26% of the included
+samples published since the latest published meta-
+analysis (Burt & Talati, 2017)
+Workplace (including leadership or executive)
+coaching has characteristics that lend it very well to
+outcome research. Coaching is a goal-directed activ-
+ity that mostly takes place during carefully time-
+bounded, discrete sessions in a neutral, delimited
+location. This creates something similar to a“lab”
+situation with clearly described, anticipated out-
+comes, where all changes can be attributed to a pre-
+cise number of hours and sessions, and to those
+sessions alone. There are also challenges in conduct-
+ing coaching research, mostly to do with the commis-
+sioning of coaching programs, where organizational
+sponsors want to determine who gets access and
+when, which makes the creation of an equal and ran-
+domized control group precarious in realistic situa-
+tions (see, e.g., the disrupted trials of Egan & Song,
+2005, and Ungerer, Heinzelmann, Baltes, & K€onig,
+2019).
+We believe nevertheless that, with careful formula-
+tion of theory and hypotheses, a new meta-analysis
+can give insight into which implementations of coach-
+ing can be most (cost-) effective and can resolve chal-
+lenges in the implementation of leadership coaching,
+such as the number of sessions or qualification levels
+of coaches. This meta-analysis can also test if coachee
+self-reported outcomes are worth measuring even if
+they are notoriously biased toward false positives
+(Grover & Furnham, 2016). It would be able to show
+that the findings from less rigorous but, in many cases,
+more realistic trials still support similar predictions as
+the more rigorous studies.
+In summary, this study was undertaken to (a) pro-
+vide a clear PI for effectiveness of workplace coach-
+ing based on the relatively less biased RCT studies,
+(b) fill gaps and update the current systematic review
+literature, and (c) identify clear and significant mod-
+erators of this effectiveness, by studying differentials
+in the studies related to type of coaches, coachees,
+and outcome measures.
+THEORETICAL MODEL UNDERPINNING OUR
+META-ANALYSIS
+Based on results in psychotherapy (Cuijpers,
+Karyotaki, De Wit, & Ebert, 2020) and mentoring
+(Stoeger, Balestrini, & Ziegler, 2021), and from a
+glance through the results from RCTs in coaching,
+we would expect to be able to demonstrate a moder-
+ate level of effectiveness and a PI that does not
+include zero. We base all our other hypotheses on
+the cocreated nature of coaching (Erd€os & Ramseyer,
+2021; Wasylyshyn, 2022), where coregulation (Sbarra
+& Hazan, 2008), relational attunement (Yip, Trainor,
+Black, Soto-Torres, & Reichard, 2020), and nonverbal
+synchrony (Koole & Tschacher, 2016) are significantly
+shaping measurable outcome factors. Synchrony, re-
+sponsiveness, and coregulation within sessions have
+been shown to relate to better therapy and coaching
+outcomes (e.g., Ianiro, Lehmann-Willenbrock, &
+Kauffeld, 2015; Ramseyer & Tschacher, 2011;
+Watson & Wiseman, 2021). The terms “respon-
+siveness,”“ relational attunement,”“ cocreation,”
+and “coregulation” r e f e rt ot h ea b i l i t yo fc o a c ha n d
+coachee to respond flexibly and constructively to
+new events—
+that is, explicitly processing and ad-
+dressing new information in the present moment.
+2 Academy of Management Learning & Education Month
+<<<PAGE=3>>>
+Nonverbal (interpersonal) synchrony can be seen as
+evidence for this coregulation: it is defined by syn-
+chronized (and slightly delayed) changes within
+coach and coachee— for example, vocal pitch, bodily
+movements, and even their physiological processes.
+Coregulation boils down to the ability to influence
+one another in a“relational dance” (De Haan, 2008),
+moment by moment, but also longer term. One
+would expect forces from (self-)motivation and sta-
+tus through to positional power and relational lever-
+age to play a role in shaping the willingness and
+ability to cocreate. Indeed, abundant evidence has
+already been found for the contribution of such
+leverage-underpinning coregulation to predict coach-
+ing effectiveness: (a) the credibility (e.g., Boyce,
+Jackson, & Neal, 2010; Bozer, Sarros, & Santora, 2014;
+Grant, 2014; Sue-Chan & Latham, 2004) and dominant-
+friendliness (e.g., Ianiro & Kauffeld, 2014; Ianiro et al.,
+2015; Ianiro, Schermuly, & Kauffeld, 2013) of the
+coach; (b) the intrinsic motivation of the coachee (e.g.,
+Bozer, Sarros, & Santora, 2013); and (c) the trust
+within or strength of the coaching alliance (e.g., Boyce
+et al., 2010; De Haan, Grant, Burger, & Eriksson, 2016;
+Kim & Kuo, 2015; Zimmermann & Antoni, 2020).
+Similar coregulated factors have been shown to be
+important in the effectiveness of psychotherapy (e.g.,
+Ramseyer & Tschacher, 2011; Stiles, Honos-Webb, &
+Surko, 1998; Wieder & Wiltshire, 2020).
+We would therefore hypothesize thatleverage as
+expressed by coregulation— that is, by influence,
+credibility, motivation, and trust within the coach-
+ing relationship— is bound to be the determining
+variable for the effectiveness of coaching. Our model
+as illustrated in Figure 1 predicts that coaching
+impact correlates with theleverage that the coach
+and coachee have on one another— the ability of
+both partners to influence each other and to shape a
+coaching relationship that is safe, independent, and
+conducive to learning and change.
+This Study’s Hypotheses
+This study’s hypotheses flow from our model,
+which takes theleverage within the cocreated and
+responsively regulated coaching relationship as the
+fundamental variable that predicts outcomes (see
+Figure 1 for an illustration of the hypotheses).
+Overall effect size.The most rigorous and helpful
+estimate of the range of effect sizes to be expected is
+the PI. Of the previous meta-analyses, only Jones
+et al. (2015) reported an 80% PI in their meta-
+analysis study, which ran from20.16 to 0.97 for cor-
+rected effect sizes. We expect, with more samples, to
+substantially improve on this interval. We will
+report the standard 95% PI, which is a lot more strin-
+gent, and we hypothesize to find it entirely above
+zero, which would produce a strong indication for
+the effectiveness of coaching. Therefore:
+Hypothesis 1. Coaching will demonstrate positive and
+moderate effects that can be shown to be significantly
+different from zero.
+The outcomes of coaching.The aim of coaching
+and the measures of coaching outcomes varies be-
+tween several studies. Evaluating the different out-
+comes of coaching research is therefore important. A
+systematic review of workplace coaching outcomes
+comprising 110 peer-reviewed studies by Athanaso-
+poulou and Dopson (2018) suggested that there is
+evidence of three categories of coaching outcome—
+namely, personal development, behavioral changes,
+and the coachee and their work. The personal develop-
+ment category includes specific outcomes such as
+health-related measures (reduced stress, increased life
+satisfaction, and experienced support). The behavioral
+change outcome includes specific skills and perfor-
+mance measures expressed by better communication
+skills, management skills, and team-building skills.
+Lastly, the“coachee and their work” category includes
+outcomes focusing on psychological preparedness that
+affect workplace productivity, such as self-awareness,
+psychological capital, and self-efficacy. There is also
+support in the literature for a goal attainment approach
+in coaching, where the coach strives to achieve the
+intended outcomes by working on the coachee’sg o a l
+(Grant, 2012). Workplace coaching with a goal attain-
+ment focus does not always measure improved health
+benefits, workplace skills, or readiness.
+We would expect the strength of coaching outcomes
+to be dependent on the methodology of data collec-
+tion. We expect effect sizes to be higher for self-scores
+than for scores by others and for objective ratings sim-
+ply because coach and coachee have more leverage on
+the same-source biases (see De Haan, 2021, for an
+extensive comparison of self-scores, multisource feed-
+back scores, and more objective and independent
+outcome measures). Given the variety of coaching
+outcomes within the review by Athanasopoulou and
+Dopson (2018), and the support for goal-attainment
+coaching approaches (Grant, 2012), we posit:
+Hypothesis 2a. Coaching will have positive effects for
+well-being, workplace skills, preparedness, and goal
+attainment.
+Hypothesis 2b. Effect sizes will be skewed upwards
+for self-scores.
+2023 De Haan and Nilsson 3
+<<<PAGE=4>>>
+Type of coachee.The question about who bene-
+fits (the most) from coaching is important and our
+meta-analysis can explore for differential effects for
+different coachees. To the best of our knowledge,
+direct comparisons between different types of coach-
+ing clients, such as students in university settings,
+general adults, professionals inside organizations,
+and managers or executives inside organizations,
+has not been undertaken. From within-sample com-
+parisons, some first indications have been put
+forward that coachees from a higher educational
+background, such as university students, benefit
+more (e.g., Hoven, Ford, Willmot, Hagan, & Siegrist,
+2014; Poluka & Kaifi, 2015). Toegel and Nicholson
+(2005) and Bozer, Baek-Kyoo, & Santora (2015) found
+a similar small positive effect for same-gender pairs.
+We would assume leverage of coaching (from
+the viewpoint of autonomy as well as trust and
+safety) is highest when the coachee is relatively
+separate from an organization (such as in student
+and general adult populations) and lowest when
+coaching takes place higher up the hierarchical
+ranks inside organizations. In view of the male
+dominance in the business world, in conjunction
+with gender stereotypes suggesting females are
+more people oriented, open, and caring (Gray,
+De Haan, & Bonneywell, 2019), we expect female
+coachees to be more intrinsically motivated for
+coaching. Moreover, as the coachee’s agenda and
+motivation is central to coaching and intrinsic, vol-
+untary motivation influences female learners more
+than male counterparts, both in sports coaching and
+in traditional education (e.g. Amorose & Horn, 2000;
+Vecchione, Alessandri, & Marsicano, 2014), we ex-
+pect a slightly higher effectiveness for female coa-
+chees. Thus:
+Hypothesis 3a. Workplace coaching will be effective
+for students, employees, and leaders, and skewed
+upwards for student and nonleadership coachees.
+Hypothesis 3b. Workplace coaching will achieve
+higher effects for female coachees.
+Type of coach and coach presence.Leverage will
+be highest when the coach is also the coachee’s
+FIGURE 1
+Overview of the Four Hypotheses in the Study
+Expectancy bias
+Same-source bias
+Selection bias
+Hypothesis 1
+Hypothesis 4
+Hypothesis 2
+Hypothesis 3
+Coach contribution
+Coachee contribution
+Outcome of coaching
+Type
+Hypothesis 2a
+Source
+Hypothesis 2b
+Coaching
+effect = gCertified coach Number of
+coaching
+sessions
+Professional
+coach
+Student coach
+Type Presence
+Hypothesis 4a
+Type
+Hypothesis 3a
+Gender
+Hypothesis 3b
+
+Well-being
+Leaders Proportion of
+female
+participants
+
+Employees
+Students
+General adults
+Goal
+effectiveness
+
+Preparedness
+Self-reported
+Observed
+Objective
+Professional
+skills
+
+
+
+Hypothesis 4b
+RCT
+4 Academy of Management Learning & Education Month
+<<<PAGE=5>>>
+instructor or line manager, because then the coach’s
+impact tends to stretch beyond the boundaries of for-
+mal coaching sessions. For the same reason, we
+hypothesize external coaches to have lower impact
+than instructors or managers. In a teaching or labora-
+tory context, leverage should be on an intermediate
+level: coaches have influence over and authority
+within the setting, something that external coaches
+do not have. As far as we know, there are currently
+very few studies into different types and dosages of
+coaches. Sue-Chan and Latham (2004) found that
+students receiving coaching from a faculty instructor
+achieved significantly higher course grades than stu-
+dents who had been coached by a peer. Students
+also rated the faculty instructor as more credible
+than the peer coaches. Liljenstrand and Nebeker
+(2008) compared 2,231 coaches of different back-
+grounds and suggested that those with psychology
+training are more represented in executive coaching
+and are finding the marketplace more competitive.
+Finally, Boyce et al., (2010), Grant (2014), and Bozer
+et al., (2014) have provided some evidence as to the
+higher impact of a coach with“credibility”— that is,
+external, qualified, psychologically trained execu-
+tive coaches. We propose therefore that, compared
+to those working with student coaches, coachees
+who receive coaching from an external coach may
+feel more confident in the credibility and profession-
+alism of the coach, and in the confidentiality of the
+sessions, which will increase leverage of those coa-
+ches and therefore effectiveness.
+On first sight, the amount of presence of the coach,
+expressed by the number of sessions, should in-
+crease leverage. However, we have seen strong evi-
+dence of coregulation, or“responsive regulation” in
+the psychotherapy literature (Stiles, Barkham, &
+Wheeler, 2015), where it is found that therapist
+and client can coregulate the overall outcome to fit
+within a good range in terms of number of sessions.
+In coaching too, coregulation has been found to lead
+to the result that similar effect sizes are found for dif-
+ferent “doses” of coaching or numbers of sessions
+(see Anthony, Gimbert, & Fultz, 2013; Goff, Goldring,
+Guthrie, & Bickman, 2014; and, in meta-analysis stud-
+ies, Sonesh et al., 2015; Theeboom et al., 2014). We
+postulate:
+Hypothesis 4a. Coaching provided by an external,
+qualified executive coach will demonstrate greater
+effect sizes than coaching provided by (a) an internal
+or (b) student coach.
+Hypothesis 4b. Coaching impact will be independent
+of number of coaching sessions provided.
+METHODOLOGY
+A literature search was carried out using the
+EBSCO, Google Scholar, and ProQuest databases to
+identify relevant studies published up to December
+31, 2020. The following terms were used sequentially
+in the search:“executive,”“ workplace,”“ coaching,”
+and “research” in combination, then“quantitative,”
+then“effect size” and“control group”in combination,
+and finally “randomized,” with additional terms
+“health coaching” and “executive coaching” to refine
+the search (see Figure 2). This search strategy yielded
+a total of 463 sources, of which 20 were original RCT
+studies. By cross-checking all references of these
+sources and the references in earlier systematic re-
+views and meta-analyses (i.e., Athanasopoulou &
+Dopson, 2018; Burt & Talati, 2017; Ely, Boyce, Nelson,
+Zaccaro, Hernez-Broome, & Whyman, 2010; Grover &
+Furnham, 2016; Jones et al., 2015; Sonesh et al., 2015;
+Theeboom et al., 2014), we were able to grow the num-
+ber of original RCT studies in workplace coaching to
+37. Details on how many studies were removed at
+each stage can be found in Figure 2. We checked all
+remaining articles for our definition of coaching as a
+series of distinct, one-to-one, client-led, goal-directed
+conversations, wherein independent (coaching) pro-
+fessionals work with healthy adults. We included one
+study with adults who had recently been unable to
+work due to mental disability, because they had been
+in therapeutic treatment and were being supported by
+coaches to reintegrate in normal competitive employ-
+ment (Viering et al., 2015).
+Inclusion and Exclusion Criteria
+Our selection stays within the definition of work-
+place or leadership coaching as a series of one-to-
+one helping conversations, in which the coach is
+independent and supports a healthy, adult coachee
+who works on his or her own, mostly work-related
+goals. For this reason, we have selected all RCTs
+(with a control group of comparable size to the inter-
+vention group) in leadership, life, and workplace
+coaching, as these have similar coaching methods in
+common and place the coachee’s own challenges and
+decisions at the center of the process. We have ex-
+cluded studies in health coaching, sports coaching,
+and mentoring where the coach is much more in
+charge, uses a different coaching methodology, and
+directs the change process by means of instruction or
+education. These are large domains of practice that
+would skew any meta-analysis around workplace
+coaching of independent adults; moreover, we expect
+a meta-analysis of all these fields to be so diverse that
+2023 De Haan and Nilsson 5
+<<<PAGE=6>>>
+the PI becomes unwieldy and workplace-related pre-
+dictions cannot be well calculated.
+In summary, we excluded all studies that were not
+researching workplace or executive coaching in the
+widest sense. This meant we included work-related,
+life, career, and executive coaching with adults. We
+did not exclude any studies on the grounds of the
+background, interventions, or qualifications of the
+coach, nor of the nature of the coaching outcomes,
+nor of the coachees’seniority, gender, or age, lack of
+realism in the experiment, geography, nor industry.
+In the overall sample, these dimensions tended to be
+unique in nearly every study. We selected as many
+of these aspects as we could as moderating aspects to
+study in the meta-analysis. We believe our inclusion
+criteria were straightforward and rigorous: any truly
+randomized controlled trial (RCT) in adult work-
+place coaching would be included. See Table 1 for
+a more detailed description of each study, including
+the nature of the study, type of coach, type of
+coachee, types of outcomes, and sample sizes.
+We left out more than 100 RCTs that were under-
+taken in health coaching, because they were all con-
+ducted with patients (moreover, they were undertaken
+in a highly directive, coach-led, educational manner,
+which would be likely to turn out differently from
+workplace coaching, where the client’so w ng o a l s
+are emphasized). We also left out several mentoring
+RCTs, which were often nonwork related (e.g.,“youth
+mentoring” or “peer mentoring”)a n d— similar to
+health coaching— were too advisory and directive to
+represent coaching interventions. Health coaching
+and mentoring outcome research have been re-
+viewed in more depth alongside workplace-
+coaching outcome research in De Haan (2021). Our
+criteria meant that we did include group coaching
+(e.g., Green, Oades, & Grant, 2006; Poepsel, 2011;
+and, partially, De Haan, Gray, & Bonneywell, 2019),
+life coaching for healthy adults (Green, Grant, & Ryn-
+saardt, 2007; Green et al., 2006; Spence & Grant,
+2007) and several studies in which coachees were
+physically or mentally challenged— for example, by
+FIGURE 2
+Overview of the Systematic Search and Selection Process
+Initial search on EBSCO, Libraries 
+Worldwide, and Google Scholar search 
+terms “executive,” “workplace,” “coaching,” 
+and “research”: 99,800 results 
+Add search term “qualitative”: 
+61,200 sources
+Add search term “quantitative”: 
+49,500 results 
+Add search terms “process 
+research” and “case study”: 179 
+sources 
+Add search terms “effect size” 
+and “control group”: 644 results 
+Add search term “randomized”:
+463 sources
+Add search term “executive 
+coaching”: 58 results
+Add search term “health 
+coaching”: 177 sources
+Check unicity and new sources 
+from references resulted in De 
+Haan (2019) with 101 sources
+Check unicity and new sources 
+from references resulted in 37 
+randomized controlled trials
+6 Academy of Management Learning & Education Month
+<<<PAGE=7>>>
+TABLE 1
+Chronologic Overview of All 36 Studies in the Meta-Analysis, Comprising 39 Independent Samples
+RCT study
+(chronological
+order) Type of coaching Coachees Coaches N Outcome measures
+Deviney (1994) Leadership
+coaching
+Middle managers Higher middle managers EG1: 14, EG2: 13,
+CG: 18
+360-degree feedback before and
+after
+Taylor (1997) Coaching in support
+of education
+Graduates Teaching assistants with
+coaching training
+EG1: 26, EG2: 16,
+EG3: 26, CG: 16
+Medical College Admission Test
+results, self-scored stress
+Grant (2001) Coaching in support
+of education
+Students Tutors Three trials: EG1: 10,
+CG1: 10; EG2: 9,
+CG2: 9; EG3: 12,
+CG3: 12
+Several including academic
+achievement
+Miller, Yahne,
+Moyers,
+Martinez, and
+Pirritano (2004)
+Coaching in support
+of education
+Health professionals Motivational
+interviewing
+instructors
+EG1–4: 24, 33, 34, 26;
+CG: 23
+Work samples and assessment, with
+4-, 8-, 12- month follow-up
+Green et al. (2006) Life coaching (in
+groups)
+Healthy adults Qualified psychologists EG: 28, CG: 28 Self-scored goal attainment, hope,
+and well-being, with 3-, 5-, 7-
+month follow-up
+Green et al. (2007) Workplace coaching High school
+students
+High school teachers EG: 25, CG: 24 Self-scored cognitive hardiness,
+hope, stress
+Spence and Grant
+(2007)
+Life coaching Healthy adults Qualified psychologists EG1: 21, EG2: 22,
+CG: 20
+Self-scored goal attainment and
+well-being
+Finn, Mason, and
+Bradley (2007),
+based on Finn
+(2007)
+Leadership
+coaching
+Senior managers Executive coaches EG: 11, CG: 12 360-degree feedback and self-scored
+self-efficacy, developmental
+support, positive affect, openness,
+and developmental planning
+Grant, Curtayne,
+and Burton
+(2009)
+Leadership
+coaching
+Senior managers Executive coaches EG: 21, CG: 20 Self-scored goal attainment, stress,
+well-being and resilience
+Grant, Green, and
+Rynsaardt (2010)
+Workplace coaching High school
+teachers
+Qualified psychologists EG: 23, CG: 21 Self-scored goal attainment, stress,
+well-being, and resilience, with
+10-month follow-up
+Kochanowski,
+Seifert, and Yukl
+(2010)
+Leadership
+coaching
+Senior managers Executive coach EG: 15, CG: 15 Ratings by subordinates on core
+influence tactics before and after
+Stelter et al. (2011) Coaching in support
+of education and
+career
+Students Qualified coach EG: 31, CG: 46 Self-scored social recovery and
+general well-being before and
+after
+Taie (2011) Workplace coaching Nurses Middle managers EG: 60, CG: 60 Independent rating of life-support
+skills
+Poepsel (2011) Online life coaching
+(in groups)
+Healthy adults Qualified coach EG: 12, CG: 16 Self-scored goal attainment, hope,
+and well-being
+Passmore and
+Rahman (2012)
+Driving-instruction
+coaching
+Healthy adults Driving instructors EG: 104, CG: 104 Time in training, first-time pass
+rate, number of attempts
+2023 De Haan and Nilsson 7
+<<<PAGE=8>>>
+TABLE 1
+(Continued)
+RCT study
+(chronological
+order) Type of coaching Coachees Coaches N Outcome measures
+Passmore and Velez
+(2012)
+Driving-instruction
+coaching
+Healthy adults Driving instructors EG: 163, CG: 164 Insurance claims, mileage, and
+driving convictions
+Goff et al. (2014) Leadership
+coaching
+School principals External school
+leadership coaches
+EG: 26, CG: 26 360-degree feedback before and
+after
+McGonagle, Beatty,
+and Joffe (2014)
+Workplace coaching General employees Qualified executive
+coaches
+EG: 23, CG: 25 Self-scored work ability
+perceptions, job self-efficacy, job
+satisfaction, burnout, core self-
+evaluations, and resilience, with
+3-month follow-up
+Singh, Aggarwal,
+Tahir, Pucher,
+and Darzi (2015)
+Coaching in support
+of education
+Medical students
+learning
+laparoscopic
+surgical skills
+Laparoscopic surgeons/
+educators
+EG: 10, CG: 10 Performance assessment based on
+two medical operations
+Bonrath, Dedy,
+Gordon, and
+Grantcharov
+(2015)
+Coaching in support
+of education
+Medical students
+learning bariatric
+surgical skills
+Bariatric surgeons/
+educators
+EG: 9, CG: 9 Performance assessment based on
+two videos
+Viering et al. (2015) Reintegration
+coaching
+Adult job seekers
+with disability
+Qualified psychologists EG: 88, CG: 83 Attainment of competitive
+employment
+Losch, Traut-
+Mattausch,
+M€uhlberger, and
+Jonas (2016)
+Workplace coaching Psychology students Psychology master ’s
+students
+EG1: 23, EG2: 13,
+EG3: 27, CG: 21
+Self-scored satisfaction, goal
+attainment, procrastination
+Telle et al. (2016) Workplace coaching Employees Job coaches EG: 51, CG: 34 Self-reported number of sickness
+absence days, self-scored
+burnout, life satisfaction, and
+work attitudes, with 3-month
+follow-up
+Tee, Shearer, and
+Roderique-Davies
+(2017)
+Workplace coaching Psychology
+undergraduates
+Peers (undergraduate
+students)
+EG: 19, CG: 11 Self-scored core self-evaluations
+Niglio de
+Figueiredo et al.
+(2018)
+Coaching in support
+of education
+Oncologists being
+trained in
+consultation
+skills
+Psychologists EG: 36, CG: 36 Ratings by experts of consultations
+with patients before and after
+comparisons
+Allan, Leeson, De
+Fruyt, and Martin
+(2018)
+Life coaching Healthy adults Psychologists EG: 27, CG: 27 Changes on NEO ( “Big 5”)
+personality instrument, with
+3-month follow-up
+Williams and
+Lowman (2018)
+Leadership
+coaching
+Middle managers Qualified psychologists Two trials: EG1: 32,
+CG1: 32; EG2: 32,
+CG2: 32
+Self-scored leadership competencies
+and behaviors
+8 Academy of Management Learning & Education Month
+<<<PAGE=9>>>
+TABLE 1
+(Continued)
+RCT study
+(chronological
+order) Type of coaching Coachees Coaches N Outcome measures
+Alameddine,
+Englesbe, and
+Waits (2018)
+Coaching in support
+of education
+Medical students
+learning suturing
+surgical skills
+Surgeons/educators EG: 8, CG: 8 Faculty and self-scored assessment
+of suturing based on videos
+De Haan et al.
+(2019)
+Leadership
+coaching
+Middle managers Experienced, qualified
+executive coaches
+EG: 89, CG: 72 360-degree feedback on working
+alliance and coaching
+effectiveness before and after,
+Hogan personality instrument
+before and after, self-scored well-
+being, and perceived social
+support
+Dyrbye, Shanafelt,
+Gill, Satele, and
+West (2019)
+Workplace coaching Qualified
+physicians
+Experienced, qualified
+executive coaches
+EG: 41, CG: 41 Self-scored distress, well-being,
+career satisfaction, and meaning
+in work
+McGonagle et al.
+(2020)
+Workplace coaching Qualified
+physicians
+Experienced, qualified
+executive coaches
+EG: 26, CG: 24 Self-scored burnout, stress, turnover
+intentions, work engagement,
+psychological capital,
+compassion, job self-efficacy, and
+job satisfaction, with 3-, 6-month
+follow-up
+De Haan et al.
+(2020)
+Workplace coaching Business school
+students
+Experienced, qualified
+executive coaches
+EG: 76, CG: 95 Self-scored coaching effectiveness,
+goal attainment, perceived stress
+Zanchetta, Junker,
+Wolf, and Traut-
+Mattausch (2020)
+Workplace coaching Young employees Psychology master ’s
+students
+EG1: 36, EG2: 33,
+CG: 34
+Self-scored goal attainment,
+imposter phenomenon
+Junker, P€ommer,
+and Traut-
+Mattausch (2021)
+Workplace coaching Undergraduate
+students
+Psychology master’s
+students
+EG: 24, CG: 20 Self-scored goal attainment, stress
+Fontes and Dello
+Russo (2020)
+Workplace coaching Marketing
+professionals
+Experienced, qualified
+executive coach
+EG: 32, CG: 24 360-degree feedback before and
+after, self-scored psychological
+capital, job satisfaction, and
+organizational commitment, with
+4-month follow-up
+Howlett et al. (2021) Coaching in support
+of education
+Students Trained academic
+coaches
+EG: 53, CG: 63 Self-scored metacognitive awareness
+before and after
+Notes:E G5 experimental group, CG5 control group. If there is more than one EG, then there is always only one group with an added“coaching” condition that has been
+used for the meta-analysis. More than one CG indicates independent RCTs within the study.
+2023 De Haan and Nilsson 9
+<<<PAGE=10>>>
+being close to burn out— but where the coaching was
+still work related and separate from their medical
+treatment (Duijts, Kant, Van den Brandt, & Swaen,
+2008; McGonagle et al., 2014; Viering et al., 2015).
+The studies undertaken in the related areas of life
+coaching, driver coaching, and burn-out coaching
+made use of qualified executive coaches, so they
+were all broadly using the same methods as the other
+RCT studies.
+The selection process excluded two further studies
+that started out as rigorous randomized controlled
+trials and are therefore worth a mention. In each case,
+the experiment was set up in a realistic setting with
+executive coachees and proper randomization, but
+organizational pressures and attrition meant that inter-
+vention and control groups could no longer be fully
+randomized. One of these studies found significant
+effects and the other had to confirm the null hypothe-
+sis. Here is a short summary of each:
+/C15Egan and Song (2005) found that 54 new man-
+agers in a multinational retail organization who
+were coached by external executive coaches
+received higher line manager ratings than 49 man-
+agers in the control group (d 5 .6; p , .05). Signif-
+icant differences on self-scored performance-goal
+orientation, job satisfaction, and organizational
+commitment were also found.
+/C15Ungerer et al. (2019) found that 36 new German
+entrepreneurs in innovative technology-based
+firms who had received state-sponsored external
+coaching did not acquire significantly more sur-
+vival capability than the 57-strong control group,
+as no significant results were found on any of the
+indicators of survival capability.
+Even though an impressive amount of good re-
+search has now been done and many RCTs can be
+reviewed together, there is still considerable variability
+remaining between the various studies. Some were
+undertaken in realistic, corporate settings with execu-
+tive coachees, while others have student coachees or
+even student coaches; some have objectively measured
+or at least intersubjectively validated (observed) out-
+comes, others have only self-scored outcomes. There
+are no agreed outcome variables that have been
+researched throughout the literature (see Table 1).
+Three key challenges in present-day RCTs are (1) the
+widespread reliance onself-score measures,i na b o u t
+half of the RCTs; (2) the limited statistical power
+because ofsmall sample sizeswell undern 5 100, in
+four fifths of RTCs; and (3) the focus on leadership—
+that is,executive coaching— in about one fifth of the
+RCTs (see also Table 1, which has a summary of all
+selected studies).
+Analysis
+Effect sizes.“Effect size” is a quantitative measure
+to understand the size of the estimated difference
+between two or more populations. A central tenet
+of meta-analysis (Borenstein, Hedges, Higgins, &
+Rothstein, 2009) is that effect sizes can be applied and
+compared between samples regardless of their meth-
+odology and size. In this study, the effect sizes were
+calculated based on between-group standardized
+mean differences, which means that original effect
+sizes from all samples were transformed to a repeated-
+measures Cohen’sd e l t a(d
+ppc2; Morris, 2008) where
+means and standard deviations of pre- and post-tests
+were available. Morris (2008) suggested using a pooled
+pre-test standard deviation of the experiment and con-
+trol group to control for effect of the intervention and
+correcting for small sample sizes; see Figure 3 for the
+equation used by Morris (2008).
+For the calculation of effect sizes, we collected
+group sizes, all mean scores, and the standard devia-
+tions for both groups for at least the time measure-
+ments before and after the intervention. There were
+11 sources in the sample in which the publication did
+not include all those data or at least not in a usable
+format; thus we contacted the authors of these papers
+and requested the mean scores and standard devia-
+tion for the pre- and post-scores of both groups, and
+we are very grateful for their help. There was one RCT
+for which, unfortunately, the full data could not be
+retrieved, and so we had to exclude it from the meta-
+analysis: Duijts et al., 2008. This left us with 36 of the
+37 studies in the meta-analysis, comprising a total of
+39 independent samples, because Williams and Low-
+man (2018) reported two independent samples in
+their study and Grant (2001) reported three.
+FIGURE 3
+Definition of Cohen’s (1988) Effect Size Extracted
+from a Pre- and Post-Measurement RCT
+dppc2 = CP
+SDpre = 
+CP = 1 –
+3
+(Mpost,T – Mpre,T) – (Mpost,C – Mpre,C)
+(nT – 1) SD 2
+pre,T + (nC – 1) SD 2
+pre,C
+nT + nC – 2
+4(nT + nC – 2) – 1 ·
+SDpre
+10 Academy of Management Learning & Education Month
+<<<PAGE=11>>>
+Where pre-scores were not available, the reported
+Cohen’s delta were used (ink 5 8c a s e s :F i n ne ta l . ,
+2007; Goff et al., 2014; Passmore & Rahman, 2012;
+Passmore & Velez, 2012; Poepsel, 2011; Singh et al.,
+2015; Tee et al., 2017; Viering et al., 2015), and, in
+three other cases, effect sizes had to be transformed
+from r
+2 and r (Stelter et al., 2011; Taie, 2011; Telle
+et al., 2016). To avoid overestimating the population
+effect size, given some small sample sizes, we calcu-
+lated Hedges’g, which has the same small-sample
+correction asd
+ppc2 (Borenstein et al., 2009).
+We conducted a power analysis for random-
+effects models to identify the number of studies
+required to achieve a power of. 80% that is recom-
+mended to identify a true effect (Ellis, 2010). We
+used a conservative effect size ofd 5 . 2 0t oa l l o ws t u d -
+ies with low effects to be identified, and the sample
+size was set atn 5 56, which was the average number
+of participants in the meta-analysis by Theeboom et al.
+(2014) when outliers had been controlled for. This
+power-analysis revealed thatk 5 27 would be suffi-
+cient to assure power over 80%.
+Model and heterogeneity.The meta-analysis in
+this paper is conducted on RCTs of different partici-
+pants, methodologies, and outcomes. A random effects
+model in meta-analysis is appropriate to use when the
+effect sizes are assumed to fluctuate between studies
+due to uncontrolled variables, such as differences
+in the methodology of the interventions, differences
+in participants, etc. (Borenstein 2019). Given this het-
+erogeneity in intervention content, we decided in
+advance to pool data using a random-effects model,
+with all effect sizes weighted by the reciprocal of
+the sampling variances, as suggested by Borenstein,
+Hedges, Higgins, & Rothstein (2010). Furthermore,
+the Hartung–Knapp–Sidik–Jonkman (HKSJ) adjust-
+ment was used to correct the random-effects model
+and create more robust estimates (Hartung & Knapp,
+2001; Sidik & Jonkman, 2002). The HKSJ adjustment
+often results in lower error rates in a meta-analysis that
+contains a smaller number of studies and studies with
+similar sample sizes (IntHout, Ioannidis, & Borm,
+2014). The analysis of the moderating relationships
+(Hypotheses 2–4) is conducted on smaller subsets of
+studies (k4–k27) and the HKSJ adjustment is therefore
+a suitable and preferable adjustment model for the
+analyses in this study.
+As recommended by Borenstein et al. (2009), het-
+erogeneity between samples was measured by cal-
+culating both the classical Q statistic and theI
+2
+statistic. The most used heterogeneity statistic is Q,
+which calculates a weighted sum of the square
+distances of the observed effects from the null
+hypothesis of equality of the effects. The Q statistic
+provided a significance test for between-sample het-
+erogeneity, whereas the value forI2 represented the
+percentage of between-sample variance in effect sizes
+that can be attributed to between-sample heterogene-
+ity rather than within-sample variability (Borenstein
+et al., 2009). The software used for the analysis was
+MIX 2.0, developed by Leon Bax (2016).
+Inclusion variables and outcome categorization.
+As Table 1 shows, most RCTs contained multiple out-
+come variables. Thus, a four-step selection process
+was implemented to categorize outcomes and select
+the variables to include in the main meta-analysis.
+The first step was to assess if a variable was character-
+ized as the main outcome variable by the authors. If,
+instead, a sample had multiple variables in focus, the
+second step consisted of selecting an objective, or
+(next) an observed variable, such as ratings by direct
+reports or peers, instead of a self-reported variable, to
+reduce same-source biases. If this did not yield a clear
+outcome variable for that sample, in a third step, we
+undertook an analysis of the variables in the wider
+literature to assess which were more reliable than
+others. If none of these three steps yielded a single
+remaining outcome measure, we randomly selected
+one and only one of the remaining variables, to pre-
+vent violation of the independent sample assumption
+(Borenstein et al., 2009).
+When we later tested explicitly for differences
+between self-reported, observed, and objective out-
+come variables, and a single sample provided vari-
+ables in more than one of these categories, then they
+were all selected for this test, so as to include the
+widest possible range of samples.
+Moderator variables.Moderator variables were
+investigated using subgroup analyses for sets of sam-
+ples that differed in terms of the samples of partici-
+pants and outcome variables. Moderating variables are
+considered to be present when the value forI
+2 is close
+to or above 50% (Higgins & Thompson, 2002). Sub-
+group analysis and multiple meta-regressions were per-
+formed using the R packages Meta (Schwarzer, 2007)
+and Metafor (Viechtbauer, 2010). The subgroup analy-
+sis pooled the effect size of each subgroup and com-
+pared the effect sizes of each subgroup with each other
+using a random effects model (Borenstein & Higgins,
+2013). Our multiple meta-regression models used pro-
+portion of females and number of sessions as predic-
+tors of the effect size (this could be done for thek 5 33
+samples that provided these data). These multiple-
+regression models were controlled by HKSJ adjust-
+ments and only performed on subgroups withk $ 10,
+as recommended by Borenstein et al. (2009: 188).
+2023 De Haan and Nilsson 11
+<<<PAGE=12>>>
+RESULTS
+Data Check and Meta-Analysis
+The Results section is outlined after the four hy-
+potheses, and will present the impact of coaching on
+types of measurements of outcomes, nature of out-
+comes, coachees, and coaches. The random effects
+meta-analysis of executive coaching against control
+groups yielded an overall weighted effect size for all
+outcomes that was in the moderate range, reflecting
+an advantage of coaching over control groups, with
+Hedges’g 5 .59 [0.45, 0.74],t 5 8.42, p , .001 (95%
+PI [20.19 to 1.38]; Figure 4). All results of the meta-
+analyses are summarized in Table 2.
+An exclusion-sensitivity assessment of the differ-
+ent studies, with the aim of identifying how specific
+studies impacted the overall results, indicated that
+the studies with the most participants (Passmore &
+Rahman, 2012; Passmore & Velez, 2012) skewed the
+data significantly. An analysis of the whole sample
+with the two articles removed showed a higher effect
+size, g 5 .63 [0.48, 0.77],t 5 8.69, p , .001. This
+improves the prediction interval, which is now PI
+[20.15 to 1.40]. The two studies excluded from fur-
+ther analysis form part of a group of four studies in
+which the coaches were also instructors or line man-
+agers of the coachees, and where it can be argued
+that coaches provide a lot more than just“coaching
+sessions” (Deviney, 1994; Passmore & Rahman,
+2012; Passmore & Velez, 2012; Taie, 2011). We tested
+what would happen to the overall effect size if these
+studies were taken out. Excluding any combination
+of these studies did not have a large impact on the
+effect size, with the lowest effect size found when
+they are all taken out,g 5 .59 [0.46, 0.73],t 5 8.93,
+p , .001, and PI [20.07 to 1.26]. Taking any of these
+samples out did improve the PI, which confirms that
+they were probably outliers and they have limited
+relevance to workplace and executive coaching.
+Passmore and Rahman (2012) and Passmore and
+Velez (2012) were removed from further subgroup
+analysis where the overall weight is impacted more,
+because the coaches were primarily instructors.
+In sum, Hypothesis 1 is clearly supported, although
+the 95% PI only nearly excludes zero, especially
+when studies with coaches who are also managers or
+instructors are taken out.
+Types of Measurements of Outcomes
+While most studies were focusing on well-being
+dependent variables (k 5 15), there were also numer-
+ous studies with a focus on professional skills (k 5 13)
+or goal attainment (k 5 10). A few studies did also
+focus on measuring the impact of coaching on general
+preparedness, such as self-efficacy or psychological
+capital (k 5 9). All types of measures were signifi-
+cantly impacted by coaching (see Table 2). A subgroup
+analysis did not indicate that the effect of coaching
+significantly differed between any of the variables.
+This supports Hypothesis 2a regarding coaching
+outcomes.
+Self-reported measures were the most reported
+measure (k 5 27), followed by objective (k 5 8) and
+observed measures (k 5 8), and, as can be seen in
+Table 2, all three types of measures were significantly
+impacted by coaching. Although the objective out-
+comes had a high pooledg, they did not significantly
+differ from either self-reported outcomes (z 52 0.45
+[20.51, 0.81],p 5 .65) or observed outcomes (z 5
+21.51 [21.14; 20.00], p 5 .049) after the confidence
+interval being corrected by the Bonferroni correction
+(0.05 / 35 0.017). However, coaching does have a
+significantly higher effect on self-reported measures
+compared to observed measures (z 5 2.63, [0.10,
+0.71], p 5 .008). This supports Hypothesis 2b regard-
+ing self-scored variables.
+Coachees
+Coaching studies were mostly conducted on em-
+ployees (k 5 11) and students (k 5 13), followed by
+leaders (k 5 7), and, lastly, a more general adult popu-
+lation (k 5 6). Coaching had a significant impact on all
+participant groups; however, the significant effect dis-
+appeared on leadership coaching when a Bonferroni
+correction was implemented (0.05 / 45 0.013). Fur-
+thermore, a subgroup analysis did not identify signifi-
+cant effect differences between any of the participant
+subgroups. This lends support to Hypothesis 3a,
+which stated that we expect lower overall effects on
+leaders and managers.
+Coaches
+The majority of the studies included in this meta-
+analysis used coaches with some level of certificate or
+accreditation (k 5 15). Other studies had trained inter-
+nal coaches (k 5 8) or students as coaches (k 5 4).
+From the analysis, we learn that both certified coaches
+and internal coaches had a significant effect, while the
+effect sizes of student coaches was not significantly
+different from zero (see Table 2). However, a subgroup
+analysis could not identify any significant differences
+in the effect between the types of coaches. This means
+12 Academy of Management Learning & Education Month
+<<<PAGE=13>>>
+FIGURE 4
+Forest Plot Showing the Effect of RCT on Coaching Outcomes for Increasing Effect Size
+Authors SE
+Tee et al. (2017) 0.2500
+0.1000
+0.7300
+1.2700
+0.1200
+0.0900
+0.2100
+0.2100
+0.1100
+0.2500
+0.7800
+0.1300
+0.1300
+0.1600
+0.4400
+0.3100
+0.2400
+0.1800
+0.3800
+0.2600
+0.3500
+0.2700
+0.2400
+0.2300
+0.9000
+0.2600
+0.5300
+0.4000
+0.5100
+0.2900
+0.5200
+0.4100
+0.5700
+0.3900
+0.4200
+0.4400
+0.4800
+0.6500
+0.7300
+Passmore and Velez (2012)
+Telle et al. (2016)
+Deviney (1994) 
+Dyrbye et al. (2019)
+Kochanowski et al. (2010)
+Viering et al. (2015) 
+Goff et al. (2014)
+Howlett et al. (2021)
+Miller et al. (2004)
+Alameddine et al. (2018)
+Passmore and Rehman (2012)
+de Figueiredo et al. (2018)
+Zanchetta et al. (2020)
+Finn et al. (2007)
+Williams and Lowman (2018)
+Stelter et al. (2011)
+McGonagle et al. (2020)
+Junker et al. (2021)
+McGonagle et al. (2014)
+Fontes and Dello Russo (2020)
+Grant (2001) 
+Williams and Lowman (2018)
+De Haan et al. (2020)
+Singh et al. (2015) 
+De Haan et al. (2019)
+Grant (2001) 
+Losch et al. (2016)
+Taylor (1997) 
+Allan et al. (2014)
+Spence and Grant (2007)
+Poepsel (2011) 
+Green et al. (2007)
+Bonrath et al. (2015)
+Green et al. (2006)
+Grant et al. (2010)
+Grant et al. (2009)
+Grant (2001) 
+Taie (2011) 
+Random effects model
+Prediction interval
+Heterogeneity: p < .01  
+Standardized Mean
+Difference Hedge’s g 95% CI
+[–0.47, 0.51] 3.2
+4.2
+1.0
+0.4
+4.1
+4.3
+3.5
+3.5
+4.2
+3.2
+0.9
+4.1
+4.1
+3.8
+1.9
+2.7
+3.2
+3.7
+2.3
+3.1
+2.4
+3.0
+3.2
+3.3
+0.7
+3.1
+1.5
+2.1
+1.6
+2.9
+1.6
+2.1
+1.4
+2.2
+2.0
+1.9
+1.7
+1.1
+1.0
+[–0.16, 0.24]
+[–1.36, 1.50]
+[–2.42, 2.56]
+[–0.12, 0.36]
+[–0.03, 0.33]
+[–0.17, 0.65]
+[–0.14, 0.68]
+[ 0.08, 0.52]
+[–0.14, 0.84]
+[–1.18, 1.88]
+[ 0.12, 0.62]
+[ 0.12, 0.62]
+[ 0.08, 0.70]
+[–0.43, 1.29]
+[–0.15, 1.07]
+[ 0.03, 0.97]
+[ 0.21, 0.91]
+[–0.16, 1.32]
+[ 0.10, 1.12]
+[ 0.00, 1.38]
+[ 0.16, 1.22]
+[ 0.23, 1.17]
+[ 0.32, 1.22]
+[–0.96, 2.56]
+[ 0.35, 1.37]
+[–0.15, 1.93]
+[ 0.12, 1.68]
+[–0.06, 1.94]
+[ 0.38, 1.52]
+[–0.01, 2.03]
+[ 0.29, 1.89]
+[ 0.00, 2.24]
+[ 0.45, 1.97]
+[ 0.56, 2.20]
+[ 0.60, 2.32]
+[ 0.66, 2.54]
+[ 0.40, 2.94]
+[ 0.98, 3.84]
+[ 0.45, 0.74]
+[–0.19, 1.38]
+100.0
+0.02
+0.04
+0.07
+0.07
+0.12
+0.15
+0.24
+0.27
+0.30
+0.35
+0.35
+0.37
+0.37
+0.39
+0.43
+0.46
+0.50
+0.56
+0.58
+0.61
+0.69
+0.69
+0.70
+0.77
+0.80
+0.86
+0.89
+0.90
+0.94
+0.95
+1.01
+1.09
+1.12
+1.21
+1.38
+1.46
+1.60
+1.67
+2.41
+0.59
+–3 –2 –1 0 1 2 3
+Weight (%)
+The figure shows the standard error of the effect size (SE), the standardized mean difference (Hedges’g), the 95% confidence interval (CI),
+and the weight of each study to the overall effect. Each study of the main analysis is displayed and sorted on their standardized mean difference.
+The overall effect and the PI are shown at the bottom.
+2023 De Haan and Nilsson 13
+<<<PAGE=14>>>
+that Hypothesis 4a is not supported, yet there is some
+support for Hypothesis 4b.
+Multiple Meta-Regression
+Multiple meta-regressions were conducted to un-
+derstand the impact of the number of coaching ses-
+sions and the proportion of female clients in the
+research sample. The multiple meta-regression in-
+dicated that the predictors significantly explained
+61.99% of the effect size heterogeneity (r
+2 5 61.99),
+f(2, 29) 5 5.71, p , .01, where the proportion of
+females had a significant unique prediction of the
+effect (b 5 0.007, SE 5 0.003, p , .01). This signifies
+that a 10% increase in female proportion is associ-
+ated with an effect size increase of 0.07. However,
+the number of coaching sessions did not have a
+unique prediction of the overall effect (b 5 0.04,
+SE 5 0.02,p . .05). The number of coaching sessions
+ranged from 1 to 16, with an average of seven ses-
+sions. A regression on effect size confirms that effect
+sizes are stable between four to eight interventions.
+The studies with higher effect sizes with interven-
+tions between four to eight are studies with fewer par-
+ticipants. There seem to be a few studies around 10
+interventions with a higher effect size, but these stud-
+ies have a lower weight of the meta-analysis.
+The number of coaching sessions did, however,
+significantly predict the effect size for self-reported
+measures only. In fact, the full regression showed
+r
+2 5 70.54, f(2, 23)5 4.38, p , .01, with number of
+coaching sessions (b 5 0.05, SE 5 0.03, p , .05);
+and, again, the proportion of females uniquely pre-
+dicted this effect size as well (b 5 0.01, SE 5 0.003,
+p , .05).
+Hypotheses 3b and 4b were both supported, with
+females benefiting slightly but significantly more
+from coaching in these samples, and numbers of ses-
+sions having nearly no impact on effectiveness.
+Publication Bias
+We performed an analysis of potential publication
+bias by conducting a funnel plot and Egger’sr e g r e s -
+sions analysis (Duval & Tweedie, 2000). The funnel
+plot in Figure 5 suggests that there is funnel asym-
+metry among the studies. Egger’s regression test fur-
+ther supported that there is an asymmetry,b 5 1.99,
+t(37) 5 6.57, p , .001. We corrected the meta-
+analysis using the trim-and-fill method (Duval &
+Tweedie, 2000), due to the asymmetry of the studies.
+The trim-and-fill method identified 16 studies that
+may have inflated the effect size, and the trim-and-
+fill-corrected analysis revealed a lower overall effect
+size,g 5 .32 [0.13, 0.52],t 5 3.35,p , .01 [PI52 0.99
+to 1.63]. It is therefore likely that the overall reported
+effect size (g 5 .59) is somewhat overestimated due to
+TABLE 2
+Results of the Principal Meta-Analyses
+Descriptive Random effect Heterogeneity
+kn g Lower Upper p Q I2 (%) T2
+Full sample 39 2,528 .59 0.45 0.74 , .001 87.26 /C3/C3/C355.5 0.14 [0.02, 0.47]
+Source of outcome
+Self-reported outcomes 27 1,516 .62 0.46 0.78 , .001 61.02 /C3/C3/C357.4 0.10 [0.01, 0.20]
+Observed outcomes 8 387 .29 0.15 0.43 .002 4.25 0.0 0.01 [0.00, 0.05]
+Objective outcomes 8 331 .89 0.25 1.53 .015 15.65 /C3 61.7 0.37 [0.01, 2.55]
+Nature of outcome
+Well-being 15 788 .61 0.37 0.86 , .001 61.90 /C3/C3/C377.4 0.15 [0.02, 0.44]
+Professional skills/performance 13 533 .67 0.33 1.02 .001 27.66 /C3/C3 56.6 0.24 [0.01, 0.81]
+Goal effectiveness 10 563 .82 0.46 1.19 , .001 21.64 /C3 58.4 0.16 [0.01, 0.70]
+Preparedness 9 510 .42 0.15 0.70 .007 15.61 /C3 49 0.11 [0.00, 0.70]
+Participants
+Leaders 7 343 .54 20.01 1.09 .049 14.76 /C3 66.1 0.19 [0.01, 1.71]
+Employees 11 580 .67 0.32 1.02 .002 26.64 /C3/C3 62.5 0.24 [0.02, 0.99]
+Students 13 716 .56 0.34 0.78 , .001 14.98 19.9 0.08 [0.00, 0.27]
+General adults 5 245 .84 0.26 1.42 .015 9.42 57.5 0.11 [0.00, 1.38]
+Type of coach
+Certified coaches 15 1,011 .62 0.40 0.83 , .001 31.16 /C3/C3 55.1 0.10 [0.01, 0.31]
+Professionally trained coaches 8 373 .88 0.32 1.45 .008 13.07 46.4 0.27 [0.00, 1.70]
+Student-coaches 4 158 .51 20.06 1.09 .062 1.49 0.0 0.2 [0.00, 2.52]
+Notes: Table shows number of samplesk, total sample sizen, effect sizes Hedges’g, 95% confidence intervals forg; and heterogeneity
+statistics in terms of Q,I2, and Tau squared (T2), with its 95% confidence intervals.
+14 Academy of Management Learning & Education Month
+<<<PAGE=15>>>
+publication biases, like the presence of publication
+bias in psychotherapy (Cuijpers et al., 2020).
+DISCUSSION
+We believe that this meta-analysis can give us con-
+fidence regarding the effectiveness of coaching pro-
+grams. We have found convincing indications for
+moderate effectiveness, with best estimateg 5 .59
+and 95% PI [20.07 to 1.26] (taking the four articles
+that report on coaching by managers or instructors
+out of the sample). This estimate is just below what
+is usually found for psychotherapy, with latest esti-
+mates ofg being around .73 (see, e.g., Cuijpers et al.,
+2020) while our PI is narrower than the ones found
+in psychotherapy. A lower effect size for coaching
+can be expected from the fact that psychotherapy
+has higher problem pressure, tends to have more
+structure around the sessions with more leverage
+(power) residing in psychotherapists, and a higher
+frequency and therefore intensity. Given that an
+effect size of 0.5 is large enough to be seen by the
+naked eye, such as the difference in height between
+14- and 18-year-old children (Cohen, 1988), this is a
+sizeable effect indeed.
+It is important to realize that there is a high variabil-
+ity in the sample and that most of the demonstrated
+effectiveness relies on self-reported outcomes by the
+coachees, which are notoriously biased toward false
+positives (Grover & Furnham, 2016). Nevertheless,
+when we tested other outcome measures, we still
+found significantly positive effect sizes (see Table 2).
+Thus, when understanding that the effect of coaching
+can easily be seen by the“naked eye,” it can be
+pointed out that this is not just the eye of the coachees
+themselves. Coaching outcomes are still significant
+but somewhat less visible to direct reports, peers, and
+line managers (“observed variables”).
+This meta-analysis has not just shown a clear PI for
+effectiveness of workplace coaching based on RCT
+studies, it has also identified a number of significant
+moderators of this effectiveness, in terms of types
+of coaches, coachees, and outcomes (see Figure 1).
+Finally, we confirm the helpfulness of our coregula-
+tion model, which is, at the same time, gaining traction
+in process studies in the helping professions, which
+can fill in further gaps, studying moment-by-moment
+changes during the sessions (e.g., Ianiro et al., 2015,
+and Erd€os & Ramseyer, 2021). We will now look at the
+conceptual and practical inferences that we believe
+can be made on the basis of the meta-analysis.
+Methodological and Conceptual Contributions
+Making use of a coregulation model of coaching
+effectiveness (Erd€os & Ramseyer, 2021; Watson &
+Wiseman, 2021) has helped to bring clarity to our
+findings. We hypothesized that coregulation based
+on mutual leverage, trust, and motivation between
+coach and coachee would be the key predictor of
+coaching effectiveness. This model successfully pre-
+dicted five disparate significant relationships in this
+study (Hypotheses 2b– 4b), and is therefore a promis-
+ing perspective on the effectiveness of coaching rela-
+tionships. Coregulation may also explain our finding
+that the population effect sizeg in coaching RCTs is
+lower than what has been found recently in psycho-
+therapy (Cuijpers et al., 2020), because therapy does
+enjoy more leverage in terms of therapist credibility,
+frequency of sessions, and problem pressure.
+We find positive effect sizes for many different
+measures of outcome, which confirms the idea that
+coaching is an effective intervention on a wide
+FIGURE 5
+Contour-Enhanced Funnel Plot (Coaching Effect)
+p < .05
+p < .01
+0.0
+0.5
+1.0
+Standard Error
+1.5
+–0.5 0.0 0.5 1.0 1.5
+Standardized Mean Difference
+The funnel plot illustrates the standardized mean difference
+using Hedges’g by the standard error of the effect size. The shaded
+areas show studies with significant effect sizes (p , .01 andp ,
+.05, separately). Authors of the studies near thep 5 .05 threshold
+might have calculated the effect size differently leading to signifi-
+cant results. One indicator of publication bias is a negative rela-
+tionship between standard error and effect size (Kepes, Banks,
+McDaniel, & Whetzel, 2012), which appears to be the case and
+supports the indication of publication bias.
+2023 De Haan and Nilsson 15
+<<<PAGE=16>>>
+variety of impacts. This matches the fact that, in
+practice, coaching works with highly tailored (con-
+tracted) coaching objectives, ranging from personal
+well-being and work efficiencies through to organi-
+zational outputs. We believe that our high effect
+sizes for objective outcome variables (namely,g 5
+.89; see Table 2) were skewed by a single study
+by Taie (2011), which had a large sample and made
+use of internal coaches who were also line managers.
+In any case, the difference between objective, self-
+scored, and observed outcomes was not significant.
+Directions for Future Research
+We think it is possible to make further predictions
+with the coregulation model and to further strengthen
+it by looking at how it predicts a variety of settings,
+impacts, and results of coaching. It seems that, across
+a wide variety of geographies, industries, and profes-
+sions, coach and coachee will manage to adapt to the
+circumstances of the work, the objectives they agree,
+and the permitted length of the assignment to opti-
+mize their interactions. In this process, coach and coa-
+chee implicitly respond and subtly negotiate“good
+enough” terms for outcomes, optimizing outcomes
+even in the face of limitations such as a low number of
+sessions or lack of coaching or leadership experience,
+such as with student coachees and student coaches.
+The PI is clearly influenced by the nature of the
+coaching and becomes narrower if coaching by line
+managers is taken out. We would suggest that future
+meta-analysis studies exclude coaching by managers
+and that they study more dimensions of coaching by
+qualified coaches and student coaches, such as mod-
+eration by the nature of training or approach of the
+coaches; age and years-of-experience of the coaches;
+the quality of the relationship between coachee and
+coach; and methodological variables, such as quality
+of randomization.
+In future meta-analytic research, we believe it is
+important to test the coregulation model and to base
+further and perhaps more subtle predictions on it—
+for example, the differential impact of coaching with
+managerial levelof the coachee, or withl e v e lo fc r e d -
+ibilityof the coach. Some quasi-experimental studies
+have already been done in these areas and they sup-
+port our model (see, e.g., Agarwal, Angst, & Magni,
+2009, for managerial level, and Bozer et al., 2014, for
+coach credibility), but there are no RCTs as far as we
+can find. We also need more studies that link lever-
+age to intrinsic motivation and empowerment of the
+coachee, which is a factor that may go a long way in
+explaining our differential results for male and
+female coachees. Another aspect worth testing is that
+our findings and model seem to support the hypothe-
+sis that more challenging coaches are effective for
+senior leaders, as they can themselves be challenging
+and powerful, and may therefore need more leverage
+for the coaching relationship to work well.
+Contributions to Practice and
+Coach Development
+This meta-analysis has brought significant support
+for the effectiveness of coaching as a tailored form
+of personal and organizational development for
+leaders and others in organizations. It supports a
+long-standing debate that management learning and
+organizational development should be more tailor-
+made, customized, and flexible in the current VUCA
+world (LeBlanc, 2018).
+We found some confirmations of unique findings
+in the literature, such as that the number of sessions
+does not matter much (see also Anthony et al., 2013).
+The findings of the meta-regressions suggest that
+the gender distribution of the samples significantly
+impacts the effect, although this may be skewed by
+one large study that had only female coachees (De
+Haan et al., 2019). The effect of gender was small but
+significant. It is worth studying more, particularly
+when considered from the emancipatory and intrin-
+sically motivational aspects of leadership coaching.
+Coaching studies undertaken with a single gender
+may be skewed, so we need more within-sample
+comparisons.
+Regarding the noneffect of numbers of sessions, it
+seems that coachees and coaches coregulate to maxi-
+mize their take-up of coaching for at least the range of
+sessions between four and eight, so that they adjust
+the total number of sessions to what they need, or else
+make sure that they achieve what they can in the num-
+ber of sessions provided, no matter the precise number
+of sessions, over a wide range (see Stiles et al., 2015,
+for an extensive discussion of this coregulation
+phenomenon in psychotherapy). The earlier meta-
+analyses by Theeboom et al. (2014) and Sonesh et al.
+(2015) also found that effect sizes were hardly influ-
+enced by the number of sessions. This means we
+should be careful not to think about the number of ses-
+s i o n sa st h e“dosage” of coaching; for example, even
+in shorter contracts with fewer sessions, a high effect
+size can be reached. Our finding also does not pre-
+clude higher effects in individual contracts when they
+a r ee x t e n d e dt om o r es e s s i o n s( s o m e t h i n gt h a th a s
+indeed been found; see De Haan, Molyn, & Nilsson,
+2020): coachees can adjust again to take something
+16 Academy of Management Learning & Education Month
+<<<PAGE=17>>>
+more out of every additional session. In this regard,
+it may be relevant that we find that the number of
+sessions is a significant moderator when measured
+purely on self-reported variables.
+A strong message comes out of this meta-analysis to
+practicing coaches and developers of coaches. It is
+that working on the alliance, trust, and mutual influ-
+ence pays off in terms of coaching effectiveness. So,
+anything that can be done to strengthen the cocreated
+relationship should be worthwhile, such as careful
+contracting and working flexibly with a variety of
+requested outcomes, agreeing on client-initiated goals
+and tasks (Gessnitzer & Kauffeld, 2015), and provid-
+ing however many sessions the client can agree to.
+Provided outcomes and session numbers are carefully
+contracted, there seems to be a“sweet spot” in the
+range between four and eight sessions wherein coach-
+ing programs could make savings with limited detri-
+mental results in terms of effectiveness. We also
+believe that coach behaviors such as dominant-
+friendliness (Ianiro et al., 2013) and perceived empa-
+thy can further strengthen this alliance. All these
+aspects can be the focus of coach training and devel-
+opment as well as supervision.
+REFERENCES
+Agarwal, R., Angst, C. M., & Magni, M. 2009. The perfor-
+mance effects of coaching: A multilevel analysis
+using hierarchical linear modeling. International
+Journal of Human Resource Management , 20:
+2110–2134.
+A l a m e d d i n e ,M .B . ,E n g l e s b e ,M .J . ,&W a i t s ,S .A .2 0 1 8 .
+A video-based coaching intervention to improve sur-
+gical skill in fourth-year medical students.Journal of
+Surgical Education,7 5 :1 4 7 5–1479.
+Allan, J., Leeson, P., De Fruyt, F., & Martin, S. 2018. Appli-
+cation of a 10-week coaching program designed to
+facilitate volitional personality change: Overall effects
+on personality and the impact of targeting.Interna-
+tional Journal of Evidence Based Coaching and
+Mentoring,1 6 :8 0–94.
+Amorose, A. J., & Horn, T. S. 2000. Intrinsic motivation:
+Relationships with collegiate athletes’gender, scholar-
+ship status, and perceptions of their coaches’behavior.
+Journal of Sport & Exercise Psychology, 22: 63–84.
+Anthony, A., Gimbert, B., & Fultz, D. 2013. The effect of
+e-coaching attendance on alternatively certified tea-
+chers’ sense of self-efficacy.Journal of Technology
+and Teacher Education,2 1 :2 7 7–299.
+Athanasopoulou, A., & Dopson, S. 2018. A systematic
+review of executive coaching outcomes: Is it the jour-
+ney or the destination that matters the most?Leader-
+ship Quarterly, 29: 70–88.
+Bax, L. 2016.MIX 2.0: Professional software for meta-
+analysis in Excel(Version 2.0.1.5). Retrieved from
+https://www.meta-analysis-made-easy.com
+Bonrath, E. M., Dedy, N. J., Gordon, L. E., & Grantcharov,
+T. P. 2015. Comprehensive surgical coaching enhances
+surgical skill in the operating room.Annals of Sur-
+gery,2 6 2 :2 0 5–212.
+Borenstein, M. 2019. Heterogeneity in meta-analysis. In
+H .C o o p e r ,L .V .H e d g e s ,&J .C .V a l e n t i n e( E d s . ) ,The
+handbook of research synthesis and meta-analysis,
+(3rd edn): 453–470. New York, NY: Russell Sage
+Foundation.
+Borenstein, M., Hedges, L. V., Higgins, J. P. T., & Rothstein,
+H. R. 2009.Introduction to meta-analysis.N e wY o r k ,
+NY: Wiley.
+Borenstein, M., Hedges, L. V., Higgins, J. P. T., & Rothstein,
+H. R. 2010. A basic introduction to fixed-effect and
+random-effects models for meta-analysis.Research
+Synthesis Methods,1 :9 7–111.
+Borenstein, M., & Higgins, J. P. 2013. Meta-analysis and
+subgroups.Prevention Science, 14: 134–143.
+Boyce, L. A., Jackson, R. J., & Neal, L. J. 2010. Building suc-
+cessful leadership coaching relationships: Examining
+impact of matching criteria in a leadership coaching
+program. Journal of Management Development,2 9 :
+914
+–931.
+Bozer, G., Baek-Kyoo, J., & Santora, J. C. 2015. Executive
+coaching: Does coach-coachee matching based on sim-
+ilarity really matter?Consulting Psychology Journal,
+67: 218–233.
+Bozer, G., Sarros, J. C., & Santora, J. C. 2013. The role of coa-
+chee characteristics in executive coaching for effective
+sustainability.Journal of Management Development,
+32: 277–294.
+Bozer, G., Sarros, J. C., & Santora, J. C. 2014. Academic
+background and credibility in executive coaching
+effectiveness.Personnel Review, 43: 881–897.
+Burt, D., & Talati, Z. 2017. The unsolved value of executive
+coaching: A meta-analysis of outcomes using rando-
+mised control trial studies.International Journal of
+Evidence Based Coaching and Mentoring ,1 5 :
+17–24.
+Cohen, J. 1988.Statistical power analysis for the beha-
+vioural sciences. Hillsdale, NJ: Erlbaum.
+Cuijpers, P., Karyotaki, E., De Wit, L., & Ebert, D. D. 2020.
+The effects of fifteen evidence-supported therapies for
+adult depression: a meta-analytic review.Psychother-
+apy Research, 30: 279–293.
+De Haan, E. 2008.Relational coaching: Journeys towards
+mastering one-to-one learning. Chichester, U.K.:
+Wiley.
+De Haan, E. 2021.What works in executive coaching:
+Understanding outcomes through quantitative
+2023 De Haan and Nilsson 17
+<<<PAGE=18>>>
+research and practice-based evidence. New York,
+NY: Routledge.
+De Haan, E., Grant, A., Burger, Y., & Eriksson, P.-O. 2016.
+A large-scale study of executive coaching outcome:
+The relative contributions of working relationship,
+personality match, and self-efficacy.Consulting Psy-
+chology Journal, 68: 189–207.
+De Haan, E., Gray, D. E., & Bonneywell, S. 2019. Executive
+coaching outcome research in a field setting: A near-
+randomized controlled trial study in a global health-
+care corporation.Academy of Management Learning
+& Education, 18: 1–25.
+De Haan, E., Molyn, J., & Nilsson, V. O. 2020. New findings
+on the effectiveness of the coaching relationship:
+Time to think differently about active ingredients?
+Consulting Psychology Journal,7 2 :1 5 5–167.
+Deviney, D. E. 1994.The effect of coaching using multi-
+ple rater feedback to change supervisor behavior
+(Doctoral dissertation, Nova University). Available
+from ProQuest dissertations and theses database.
+(UMI No. 9413262)
+D u i j t s ,S .F .A . ,K a n t ,I . ,V a nd e nB r a n d t ,P .A . ,&S w a e n ,
+G. M. H. 2008. Effectiveness of a preventive coaching
+intervention for employees at risk for sickness absence
+due to psychosocial health complaints: Results of a
+randomized controlled trial.Journal of Occupational
+and Environmental Medicine, 50: 765–776.
+Duval, S., & Tweedie, R. 2000. Trim and fill: A simple
+funnel-plot-based method of testing and adjusting for
+publication bias in meta-analysis. Biometrics,5 6 :
+455–463.
+Dyrbye, L. N., Shanafelt, T. D., Gill, P. R., Satele, D. V., &
+West, C. P. 2019. Effect of a professional coaching
+intervention on the well-being and distress of physi-
+cians: A pilot randomized clinical trial.JAMA Inter-
+nal Medicine,1 7 9 :1 4 0 6–1414.
+Egan, T., & Song, Z. 2005. A longitudinal quasi-
+experiment on the impact of executive coaching.
+Paper presented at the 20th annual conference of the
+Society for Industrial and Organizational Psychology,
+Los Angeles, CA.
+Ellis, P. D. 2010.The essential guide to effect sizes: Sta-
+tistical power, meta-analysis, and the interpretation
+of research results. Cambridge, U.K.: Cambridge Uni-
+versity Press.
+Ely, K., Boyce, L. A., Nelson, J. K., Zaccaro, S. J., Hernez-
+Broome, G., & Whyman, W. 2010. Evaluating leader-
+ship coaching: A review and integrated framework.
+Leadership Quarterly, 21: 585–599.
+Erd€os, T., & Ramseyer, F. T. 2021. Change process in
+coaching: Interplay of nonverbal synchrony, work-
+ing alliance, self-regulation, and goal attainment.
+Frontiers in Psychology,1 2 .d o i :10.3389/fpsyg.
+2021.580351
+Finn, F. A. 2007.Leadership development through execu-
+tive coaching: The effects on leaders’ psychological
+states and transformational leadership behaviour
+[Unpublished doctoral dissertation]. Queensland Uni-
+versity of Technology, Brisbane.
+Finn, F. A., Mason, C. M., & Bradley, L. M. 2007.Doing
+well with executive coaching: Psychological and
+behavioural impacts. Paper presented at the Acad-
+emy of Management annual meeting proceedings,
+Philadelphia, PA.
+Fontes, A., & Dello Russo, S. 2020. An experimental field
+study on the effects of coaching: The mediating role
+of psychological capital. Applied Psychology
+,7 0 :
+459–488.
+Gessnitzer, S., & Kauffeld, S. 2015. The working alliance in
+coaching: Why behaviour is the key to success.Jour-
+nal of Applied Behavioral Science, 51: 177–197.
+Goff, P., Goldring, E., Guthrie, J., & Bickman, L. 2014.
+Changing principals’leadership through feedback and
+coaching. Journal of Educational Administration,
+52: 682–704.
+Grant, A. M. 2001.Towards a psychology of coaching:
+The impact of coaching on metacognition, mental
+health and goal attainment(Doctoral dissertation,
+Macquarie University). Retrieved fromhttps://files.
+eric.ed.gov/fulltext/ED478147.pdf
+Grant, A. M. 2012. An integrated model of goal-focused
+coaching: An evidence-based framework for teaching
+and practice. International Coaching Psychology
+Review,7 :1 4 6–165.
+Grant, A. M. 2014. Autonomy support, relationship satis-
+faction and goal focus in the coach–coachee relation-
+ship: which best predicts coaching success?Coaching,
+7: 18–38.
+Grant, A. M., Curtayne, L., & Burton, G. 2009. Executive
+coaching enhances goal attainment, resilience and
+workplace well-being: A randomized controlled
+study.Journal of Positive Psychology,4 :3 9 6–407.
+Grant, A. M., Green, L. S., & Rynsaardt, J. 2010. Develop-
+mental coaching for high school teachers: Executive
+coaching goes to school.Consulting Psychology Jour-
+nal, 62: 151–168.
+Gray, D. E., De Haan, E., & Bonneywell, S. 2019. Coaching
+the “ideal worker”: Female leaders and the gendered
+self in a global corporation. European Journal of
+Training and Development,4 3 :6 6 1–681.
+Green, L. S., Grant, A. M., & Rynsaardt, J. 2007. Evidence-
+based life coaching for senior high school students:
+Building hardiness and hope.International Coaching
+Psychology Review,2 :2 4–32.
+Green, L. S., Oades, L. G., & Grant, A. M. 2006. Cognitive-
+behavioural, solution-focused life coaching: Enhanc-
+ing goal striving, well-being, and hope.Journal of
+Positive Psychology,1 :1 4 2–149.
+18 Academy of Management Learning & Education Month
+<<<PAGE=19>>>
+Grover, S., & Furnham, A. 2016. Coaching as a develop-
+mental intervention in organizations: A systematic
+review of its effectiveness and the mechanisms under-
+lying it. PLoS One,1 1 .d o i :10.1371/journal.pone.
+0159137
+Hartung, J., & Knapp, G. 2001. A refined method for the
+meta-analysis of controlled clinical trials with binary
+outcome.Statistics in Medicine,2 0 :3 8 7 5–3889.
+Higgins, J., & Thompson, S. G. 2002. Quantifying heteroge-
+neity in a meta-analysis.Statistics in Medicine,2 1 :
+1539–1558.
+Hoven, H., Ford, R., Willmot, A., Hagan, S., & Siegrist, J.
+2014. Job coaching and success in gaining and sustain-
+ing employment among homeless people.Research
+on Social Work Practice, 26: 668–674.
+Howlett, M. A., McWilliams, M. A., Rademacher, K.,
+O’Neill, J. C., Maitland, T. L., Abels, K., Demetriou, C.,
+& Panter, A. T. 2021. Investigating the effects of aca-
+demic coaching on college students’ metacognition.
+Innovative Higher Education, 46: 189–204.
+Ianiro, P. M., & Kauffeld, S. 2014. Take care what you bring
+with you: How coaches’ mood and interpersonal
+behaviour affect coaching success.Consulting Psy-
+chology Journal, 66: 231–257.
+Ianiro, P. M., Lehmann-Willenbrock, N., & Kauffeld, S.
+2015. Coaches and clients in action: A sequential anal-
+ysis of interpersonal coach and client behaviour.Jour-
+nal of Business and Psychology, 30: 435–456.
+Ianiro, P. M., Schermuly, C. C., & Kauffeld, S. 2013. Why
+interpersonal dominance and affiliation matter: An
+interaction analysis of the coach-client relationship.
+Coaching,6 :2 5–46.
+IntHout, J., Ioannidis, J., & Borm, G. F. 2014. The
+Hartung–Knapp–Sidik–Jonkman method for random
+effects meta-analysis is straightforward and consider-
+ably outperforms the standard DerSimonian–Laird
+method. BMC Medical Research Methodology,1 4 .
+doi: 10.1186/1471-2288-14-25
+Jones, R. J., Woods, S. A., & Guillaume, Y. 2015. The effec-
+tiveness of workplace coaching: A meta-analysis of
+learning and performance outcomes from coaching.
+Journal of Occupational and Organizational Psy-
+chology, 89: 249–277.
+Junker, S., P€ommer, M., & Traut-Mattausch, E. 2021. The
+impact of cognitive-behavioural stress management
+coaching on changes in cognitive appraisal and the
+stress response: A field experiment.Coaching,1 4 :
+184–201.
+Kepes, S., Banks, G. C., McDaniel, M., & Whetzel, D. L.
+2012. Publication bias in the organizational sciences.
+Organizational Research Methods, 15: 624–662.
+Kim, S., & Kuo, M. 2015. Examining the relationships
+among coaching, trustworthiness, and role behaviors:
+A social exchange perspective.Journal of Applied
+Behavioral Science, 51: 152–176.
+Kochanowski, S., Seifert, C. F., & Yukl, G. 2010. Using
+executive coaching to enhance the effects of beha-
+vioural feedback to managers.Journal of Leadership
+& Organizational Studies, 17: 363–369.
+Koole, S. L., & Tschacher, W. 2016. Synchrony in psycho-
+therapy: A review and an integrative framework for
+the therapeutic alliance.Frontiers in Psychology,7 .
+doi: 10.3389/fpsyg.2016.00862
+LeBlanc, P. J. 2018. Higher education in a VUCA world.
+Change: The Magazine of Higher Learning,5 0 :
+23–26.
+Liljenstrand, A. M., & Nebeker, D. M. 2008. Coaching ser-
+vices: A look at coaches, clients, and practices.Con-
+sulting Psychology Journal,6 0 :5 7–77.
+Losch, S., Traut-Mattausch, E., M€uhlberger, M. D., & Jonas,
+E. 2016. Comparing the effectiveness of individual
+coaching, self-coaching, and group training: How
+leadership makes the difference.Frontiers in Psychol-
+ogy,7 .d o i :10.3389/fpsyg.2016.00629
+McGonagle, A. K., Beatty, J. E., & Joffe, R. 2014. Coaching
+for workers with chronic illness: Evaluating an inter-
+vention.Journal of Occupational Health Psychology,
+19: 385–398.
+McGonagle, A. K., Schwab, L., Yahanda, N., Duskey, H.,
+Gertz, N., Prior, L., Roy, M., & Kriegel, G. 2020. Coaching
+for primary care physician well-being: A randomized
+trial and follow-up analysis.Journal of Occupational
+Health Psychology,2 5 :2 9 7–314.
+Miller, W. R., Yahne, C. E., Moyers, T. B., Martinez, J., & Pir-
+ritano, M. 2004. A randomized trial of methods to help
+clinicians learn motivational interviewing.Journal of
+Consulting and Clinical Psychology, 72: 1050–1062.
+Morris, S. B. 2008. Estimating effect sizes from pretest–
+posttest–control group designs. Organizational
+Research Methods,1 1 :3 6 4–386.
+Niglio de Figueiredo, M., Krippeit, L., Ihorst, G., Sattel, H.,
+Bylund, C. L., Joos, A., Bengel, J., Lahmann, C.,
+Fritzsche, K., & Wuensch, A. 2018. ComOn-Coaching:
+The effect of a varied number of coaching sessions on
+transfer into clinical practice following communica-
+tion skills training in oncology— results of a random-
+ized controlled trial. PLoS One,1 3 .d o i :10.1371/
+journal.pone.0205315
+Passmore, J., & Rahman, H. 2012. Coaching as a learning
+methodology: A mixed methods study in driver
+development— a randomized controlled trial and the-
+matic analysis.
+International Coaching Psychology
+Review,7 :1 6 6–184.
+Passmore, J., & Velez, M. J. 2012. Coaching fleet drivers: A
+randomized controlled trial (RCT) of short coaching’
+interventions to improve driver safety in fleet drivers.
+Coaching Psychologist,8 :2 0–26.
+2023 De Haan and Nilsson 19
+<<<PAGE=20>>>
+Poepsel, M. 2011. The impact of an online evidence-
+based coaching program on goal striving, subjective
+well-being, and level of hope(Doctoral dissertation,
+Capella University). Available from ProQuest disserta-
+tions and theses database. (UMI No. 3456769)
+Poluka, L. A., & Kaifi, B. A. 2015. Performance coaching
+within the telecommunications industry.Journal of
+Applied Management and Entrepreneurship,2 0 :
+49–65.
+Ramseyer, F., & Tschacher, W. 2011. Nonverbal synchrony
+in psychotherapy: Coordinated body movement
+reflects relationship quality and outcome.Journal of
+Consulting and Clinical Psychology, 79: 284–295.
+Sbarra, D. A., & Hazan, C. 2008. Coregulation, dysregula-
+tion, self-regulation: An integrative analysis and
+empirical agenda for understanding adult attachment,
+separation, loss, and recovery.Personality and Social
+Psychology Review,1 2 :1 4 1–167.
+Schwarzer, G. 2007. Meta: An R package for meta-analysis.
+RN e w s,7 :4 0–45.
+Sidik, K., & Jonkman, J. N. 2002. A simple confidence
+interval for meta-analysis.Statistics in Medicine,2 1 :
+3153–3159.
+Singh, P., Aggarwal, R., Tahir, M., Pucher, P. H., & Darzi,
+A. 2015. A randomized controlled study to evaluate
+the role of video-based coaching in training laparo-
+scopic skills.Annals of Surgery,2 6 1 :8 6 2–869.
+Sonesh, S. C., Coultas, C. W., Lacerenza, C. N., Marlow,
+S. L., Benishek, L. E., & Salas, E. 2015. The power of
+coaching: A meta-analytic investigation.Coaching,8 :
+73–95.
+Spence, G. B., & Grant, A. M. 2007. Professional and peer
+life coaching and the enhancement of goal striving
+and well-being: An exploratory study.Journal of Posi-
+tive Psychology,2 :1 8 5–194.
+Stelter, R., Nielsen, G., & Wikman, J. M. 2011. Narrative-
+collaborative group coaching develops social capital–a
+randomised control trial and further implications of
+the social impact of the intervention.Coaching,4 :
+123–137.
+Stiles, W. B., Barkham, M., & Wheeler, S. 2015. Duration
+of psychological therapy: Relation to recovery and
+improvement rates in UK routine practice.British
+Journal of Psychiatry,2 0 7 :1 1 5–122.
+S t i l e s ,W .B . ,H o n o s - W e b b ,L . ,&S u r k o ,M .1 9 9 8 .R e s p o n -
+siveness in psychotherapy.Clinical Psychology: Sci-
+ence and Practice,5 :4 3 9–458.
+Stoeger, H., Balestrini, D. P., & Ziegler, A. 2021. Key issues
+in professionalizing mentoring practices.Annals of
+the New York Academy of Sciences, 1483: 5–18.
+Sue-Chan, C., & Latham, G. P. 2004. The relative effective-
+ness of external, peer and self-coaches.Applied Psy-
+chology
+, 53: 260–278.
+Taie, E. S. 2011. Coaching as an approach to enhance per-
+formance. Journal for Quality and Participation,3 4 :
+34–38.
+T a y l o r ,L .M .1 9 9 7 .The relation between resilience,
+coaching, coping skills training, and perceived
+stress during a career threatening milestone(Doc-
+toral dissertation, Georgia State University). DAI-B
+58/05, p. 2738, Nov. 1997.
+Tee, D., Shearer, D., & Roderique-Davies, G. 2017. The cli-
+ent as active ingredient: “Core self-evaluations” as
+predictors of coaching outcome variance. Interna-
+tional Coaching Psychology Review, 12: 125–132.
+Telle, N. T., Moock, J., Heuchert, S., Schulte, V., Rossler,
+W., & Kawohl, W. 2016. Job maintenance through sup-
+ported employment PLUS: A randomized controlled
+trial. Frontiers in Public Health,4 :1 9 4 .
+T h e e b o o m ,T . ,B e e r s m a ,B . ,&v a nV i a n e n ,A .E .M .2 0 1 4 .
+Does coaching work? A meta-analysis on the effects of
+coaching on individual level outcomes in an organiza-
+tional context.Journal of Positive Psychology,9 :1–18.
+Toegel, G., & Nicholson, N. 2005. Multisource feedback,
+coaching, and leadership development: personality and
+homophily effects. Academy of Management Pro-
+ceedings, 2005. doi:10.5465/ambpp.2005.18779257
+Ungerer, C., Heinzelmann, N., Baltes, G. H., & K€onig, M.
+2019. The effect of business coaching on NTBF sur-
+vival: Findings and lessons learned from a random-
+ized controlled trial. In 2019 IEEE international
+conference on engineering, technology and innovation
+(ICE/ITMC):1 –10. doi:10.1109/ICE.2019.8792604
+Vecchione, M., Alessandri, G., & Marsicano, G. 2014. Aca-
+demic motivation predicts educational attainment:
+Does gender make a difference?Learning and Indi-
+vidual Differences, 32: 124–131.
+Viechtbauer, W. 2010. Conducting meta-analyses in R
+with the Metafor package.Journal of Statistical Soft-
+ware,3 6 :1–48.
+Viering, S., J€ager, M., B€artsch, B., Nordt, C., R€ossler, W.,
+Warnke, I., & Kawohl, W. 2015. Supported employment
+for the reintegration of disability pensioners with men-
+tal illnesses: A randomized controlled trial.Frontiers
+in Public Health,3 .d o i :10.3389/fpubh.2015.00237
+W a s y l y s h y n ,K .M .2 0 2 2 .T h e“art” of executive coaching
+at the top: Using clients’self-imagery as a tool for high
+impact.Consulting Psychology Journal
+, 74: 1–18.
+W a t s o n ,J .C . ,&W i s e m a n ,H .E .2 0 2 1 .The responsive
+psychotherapist: Attuning to clients in the
+moment. Washington, DC: American Psychological
+Association.
+Wieder, G., & Wiltshire, T. J. 2020. Investigating coregulation
+of emotional arousal during exposure-based CBT using
+vocal encoding and actor–partner interdependence
+models. Journal of Counseling Psychology , 67:
+337–348.
+20 Academy of Management Learning & Education Month
+<<<PAGE=21>>>
+Williams, J. S., & Lowman, R. L. 2018. The efficacy of exec-
+utive coaching: An empirical investigation of two
+approaches using random assignment and a
+switching-replications design.Consulting Psychology
+Journal, 70: 227–249.
+Yip, J., Trainor, L. L., Black, H., Soto-Torres, L., & Reich-
+ard, R. J. 2020. Coaching new leaders: A relational pro-
+cess of integrating multiple identities.Academy of
+Management Learning & Education, 19: 503–520.
+Zanchetta, M., Junker, S., Wolf, A. M., & Traut-Mattausch,
+E. 2020. “Overcoming the fear that haunts your
+success”: The effectiveness of interventions for reduc-
+ing the impostor phenomenon.Frontiers in Psychol-
+ogy,1 1 .d o i :10.3389/fpsyg.2020.00405
+Zimmermann, L. C., & Antoni, C. H. 2020. Activating cli-
+ents’ resources influences coaching satisfaction via
+occupational self-efficacy and satisfaction of needs.
+Zeitschrift f€ur Arbeits- und Organisationspsycholo-
+gie, 64: 149–169.
+Erik de Haan(erik.dehaan@ashridge.org.uk) is the director
+of the Ashridge Centre for Coaching, Hult International
+Business School, and professor of organization development
+and coaching at VU University Amsterdam. He has an MSc in
+theoretical physics, an MA in psychodynamic psychotherapy,
+and a PhD in psychophysics, and specializes in team
+coaching and one-to-one coaching for executives.
+Viktor O. Nilsson (viktor.nilsson@ashridge.hult.edu) is
+an adjunct at Hult International Business School and a
+research data manager for administrative data in the
+Centre for Experimental Research on Fairness, Inequality
+and Rationality at the Norwegian School of Economics.
+He completed his MSc in quantitative research methods
+at University of Strathclyde, Glasgow.
+2023 De Haan and Nilsson 21

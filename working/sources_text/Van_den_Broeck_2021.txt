@@ -1,0 +1,2711 @@
+<<<PAGE=1>>>
+Article
+Beyond intrinsic and extrinsic
+motivation: A meta-analysis on
+self-determination theory’s
+multidimensional
+conceptualization of work
+motivation
+Anja Van den Broeck
+KU Leuven, Belgium; North West University, South Africa
+Joshua L. Howard
+Monash University, Australia
+Yves Van Vaerenbergh
+KU Leuven, Belgium
+Hannes Leroy
+Erasmus University, Netherlands
+Maryl`ene Gagn´e
+Curtin University, Australia
+Abstract
+This meta-analysis aims to shed light on the added value of the complex multidimensional view on
+motivation of Self-determination theory (SDT). We assess the unique and incremental validity of
+each of SDT’s types of motivation in predicting organizational behavior, and examine SDT’s core
+proposition that increasing self-determined types of motivation should have increasingly positive
+outcomes. Meta-analytic findings (124 samples) support SDT, but also adds precision to its pre-
+dictions: Intrinsic motivation is the most important type of motivation for employee well-being,
+attitudes and behavior, yet identified regulation is more powerful in predicting performance and
+Paper received 2 December 2020. Received revised March 10, 2021
+Corresponding author:
+Anja Van den Broeck, Department of Work and Organization Studies, KU Leuven, 3000 Leuven, Belgium.
+Email: anja.vandenbroeck@kuleuven.be
+Organizational Psychology Review
+2021, Vol. 11(3) 240–273
+ª The Author(s) 2021
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/20413866211006173
+journals.sagepub.com/home/opr
+Organizational
+Psychology
+Review
+<<<PAGE=2>>>
+organizational citizenship behavior. Furthermore, introjection has both positive and negative
+consequences, while external regulation has limited associations with employee behavior and has
+well-being costs. Amotivation only has negative consequences. We address conceptual and
+methodological implications arising from this research and exemplify how these results may inform
+and clarify lingering issues in the literature on employee motivation.
+Keywords
+extrinsic motivation, intrinsic motivation, self-determination theory, well-being, performance,
+meta-analysis, motivation
+Employee motivation is defined as the force
+that drives the direction, intensity, and persis-
+tence of employee behavior (Pinder, 2008). It is
+an important determinant of job performance,
+on par with employees’ personal abilities (Van
+Iddekinge et al., 2014), and has been considered
+a contributing factor to employee well-being
+(e.g., Demerouti et al., 2001). It may therefore
+be no surprise that employee motivation is seen
+as one of the most enduring and compelling
+topics in work and organizational psychology
+(Kanfer et al., 2017).
+Motivation has been approached from mul-
+tiple different perspectives. The old saying “Find
+a job you enjoy, and you will never have to work
+a day in your life” advocates for the value of
+intrinsic motivation (i.e., doing an activity out of
+inherent interest or pleasure) relative to extrinsic
+motivation (i.e., engaging in an activity to
+achieve a separable outcome; Ryan & Deci,
+2017). Extending this dichotomy, in addition to
+amotivation (i.e., a lack of motivation) and
+intrinsic motivation, Self-Determination Theory
+(SDT; Deci & Ryan, 1985) posits that people
+may have several different and unique extrinsic
+reasons to invest their time and energy in partic-
+ular behaviors (Deci & Ryan, 2000). These rea-
+sons are referred to as: external (i.e., being
+pressured by others), introjected (i.e., putting
+pressure on oneself through ego-involvement),
+identified (i.e., doing an activity because one
+finds it meaningful), and integrated regulations
+(i.e., engaging in an activity because this is fully
+aligned with one’s values and sense of self).
+Research on these various types of motivation
+in the context of work has grown exponentially
+and has been frequently cited (e.g., Gagn´ e&
+Deci [2005] is cited over 2000 times), and their
+popularity in management books reflects their
+resonance within practice (e.g., Fowler, 2014;
+Pink, 2009). Given the growing importance of
+these types of motivation for research and prac-
+tice, the first aim of this meta-analysis is to take
+stock: we provide a comprehensive overview of
+what we know about the outcomes associated
+with these different types of motivation, and sub-
+sequently identify the gaps and limitations
+within this body of research in order to guide
+future research.
+Second, and perhaps most importantly, we
+also aim to assess the degree to which it is
+valuable and necessary to differentiate between
+each of SDT’s different types of motivation.
+According to SDT, each of these motivation
+types can be ordered along a continuum of self-
+determination, ranging from more controlled to
+more autonomous or volitional types of moti-
+vation. Yet despite this predictable linear order,
+each is also expected to have different implica-
+tions for employee outcomes (Deci & Ryan,
+2000). Although the underlying structure and
+nature of the different types of motivation have
+been carefully conceptualized, their incremental
+and unique contribution to core organizational
+behavior outcomes are not well understood. At
+the empirical level, this is mainly due to the
+Van den Broeck et al. 241
+<<<PAGE=3>>>
+dominance of scoring methods that combine
+some of the motivation types (e.g. into a relative
+autonomy index or into the overarching factors
+of autonomous and controlled motivation;
+Howard et al., 2020), and multicollinearity
+issues caused by the highly correlated nature of
+these motives (Howard et al., 2017). Moreover,
+the theoretical proposition regarding how these
+motivation types should relate to specific facets
+of employee well-being and performance
+remains rather broad. For example, SDT-
+scholars argue that “when people’s goal-
+directed behavior is autonomous rather than
+controlled, the correlates and consequences are
+more positive” (Deci & Ryan, 2000, p. 243; see
+also Deci et al., 2017). This however raises the
+question of whether each type of motivation
+yields unique relations with outcomes. For
+example, if there is linear dependence between
+regulation types—that is, if intrinsic motivation
+always produces better employee outcomes than
+identified regulation, and identified regulation is
+always better than introjected regulation—a
+more simplified motivational perspective may
+be warranted. While some authors have theo-
+rized that each regulation type produces better
+outcomes in certain circumstances and for dif-
+ferent outcomes (Gagn´e & Deci, 2005; Koestner
+& Losier, 2002), strong evidence remains scat-
+tered and relatively scarce. Empirical evidence
+for the theorized differential associations with
+outcomes, and for explaining incremental var-
+iance in outcomes, is necessary in order to sup-
+port (or refute) the theoretical claims within
+SDT.
+To test the validity and unique contribution
+of SDT’s multidimensional view to our under-
+standing of work motivation and work out-
+comes, we conducted a meta-analysis aiming to
+examine how each of SDT’s types of motiva-
+tion relates to a broad array of outcomes. We
+used relative weights analyses to assess the
+incremental validity of the different types of
+work motivation in predicting employee out-
+comes, and summarized their specific relations
+with various aspects of employee well-being,
+attitudes, and behaviors. Furthermore, we
+examined the potential boundary conditions of
+these relations through both contextual (e.g.
+cultural contexts & job type) and methodological
+(scales used and publication bias) moderators.
+From these results, we address several theoretical
+and methodological issues within the SDT liter-
+ature and take steps to integrate SDT with
+neighboring motivation theories.
+In providing more detailed and nuanced
+information on SDT’s different types of moti-
+vation, and their consequences, this study con-
+tributes to our understanding of employee
+motivation over and above recent qualitative
+reviews of work motivation (Kanfer & Chen,
+2016; Kanfer et al., 2017). It goes beyond a
+meta-analysis shedding light on the importance
+of one’s level of motivation (defined uni-
+dimensionally) for individual performance (Van
+Iddekinge et al., 2014). Our study goes further
+than meta-analyses on intrinsic and extrinsic
+motivation (or proxies, such as the presence of
+incentives), which have only focused on per-
+formance outcomes (Byron & Khazanchi, 2012;
+Cerasoli et al., 2014). Moreover, by providing
+meta-analytic evidence for the relative impor-
+tance of SDT’s different types of motivation in
+predicting many organizationally relevant out-
+comes, we extend previous meta-analytic work
+that was limited to examining: a) the interrela-
+tions among the different types of motivation in
+and of themselves (Howard et al., 2017); b)
+leader autonomy support as a specific antecedent
+of these types of motivation (Slemp et al., 2018);
+c) the relations of the different types of work
+motivation with the basic psychological needs at
+work (Van den Broeck et al., 2016); d) the
+relations between specific health-related moti-
+vation and health-related outcomes (e.g. smok-
+ing cessation, healthy eating & mental health;
+Ng et al., 2012); and e) the associations of
+autonomous and controlled motivation on well-
+being and autonomy support in specific popu-
+lations, such as teachers (Slemp et al., 2020). In
+the following we elaborate on SDT and the
+specific research questions of this meta-analysis.
+242 Organizational Psychology Review 11(3)
+<<<PAGE=4>>>
+Self-determination theory’s
+different types of motivation
+Self-determination theory (SDT) is a broad
+theory of human motivation that has been ap-
+plied to various life domains including sports,
+education, and organizational psychology. It
+originated from the work of Deci (1971) which
+built upon the distinction between intrinsic
+motivation (i.e., doing the activity because of
+the intrinsic interest derived from it) and ex-
+trinsic motivation (i.e., doing an activity to
+obtain an external outcome; Ryan & Deci,
+2017). These ideas were developed further to
+propose that people have qualitatively different
+reasons to engage in extrinsically motivated
+behavior (Deci & Ryan, 1985).
+To date, SDT arguably presents one of the
+most comprehensive perspectives on the com-
+plexities of human motivation. First, as depic-
+ted in Figure 1, SDT acknowledges that people
+may experience a lack of motivation, otherwise
+known as being “a-motivated” (Deci & Ryan,
+2000). When amotivated, employees lack the
+intention to engage in a behavior as they do not
+see any reasons to do so. They may not value
+the activity, feel capable of engaging or sus-
+taining the particular behavior, or perceive a
+contingency between their actions and the out-
+comes they desire, thereby resulting in very
+little desire to exert effort (e.g., Green-Demers
+et al., 2008).
+Furthermore, SDT differentiates between
+qualitatively different types of extrinsic moti-
+vation that fall along a continuum of self-
+determination (Deci & Ryan, 2000). First,
+external regulationis a non-self-determined type
+of extrinsic motivation and relates to the classic
+“carrot and stick” approach. Employees are
+externally regulated when they do something
+solely to obtain rewards or avoid punishments
+from others such as managers, colleagues, or
+clients. These external contingencies can be
+material (e.g., obtaining a bonus or avoiding
+being fired) or social in nature (e.g., when one
+seeks approval or avoids being criticized by
+others; Gagn´e et al., 2015). Externally regulated
+tenure-track professors, for example, may put a
+lot of effort into their job because they want to be
+tenured.
+Second, introjected regulation is a parti-
+ally internalized form of extrinsic motivation
+and, hence, is still relatively low on self-
+determination. It is evident when people pur-
+sue an activity out of ego-involvement or
+contingent self-esteem such as when rewarding
+Figure 1.Different types of motivation. Note: Integration is put in grey as together with previous evidence,
+our results show there is little added value in considering this type of motivation.
+Van den Broeck et al. 243
+<<<PAGE=5>>>
+or punishing oneself through self-related emo-
+tions, that is, when one aims to approach posi-
+tive feelings such as pride, and aim to avoid
+negative ones such as guilt or shame, often
+using self-controlling language such as
+“I should do X.” Scholars experiencing intro-
+jected regulation may, for example, attempt to
+publish more for perceived reputational gains,
+or remain silent in seminars to avoid losing face
+in front of their colleagues. Like in the case of
+external regulation, introjected regulation is
+characterized by feelings of being controlled
+and pressured, albeit by internal rather than
+external forces (Deci & Ryan, 2000). Conse-
+quently, external and introjected regulations are
+regarded as controlled forms of motivation and
+are often combined into one factor.
+Third, in the case ofidentified regulation,t h e
+reasons for engaging in the behavior are more
+internalized and are thus more self-determined
+(Deci & Ryan, 2000). Identified regulation
+reflects engaging in activities because of per-
+ceived personal meaningfulness and importance.
+Academics identifying with the importance of
+student learning may, for example, be motivated
+to provide extra help for students who are
+struggling to foster such learning.
+Finally, in the case of integrated regulation,
+the reason underlying the behavior is not only
+completely internalized and self-determined, but
+also fully integrated within one’s value system.
+Integrated reasons for engaging in an activity are
+seen as an inherent and coherent part of one’s
+identity or true sense of self (Deci & Ryan,
+2000). When driven by integrated regulation,
+people do not only find the behavior valuable,
+they enact the behavior simply because it reflects
+who they are. For example, academics may
+study how to best design online classes, because
+applying evidence-based procedures has become
+a critical part of their professional identity,
+which they endeavor to enact across situations
+and time. Notably, identified and integrated
+regulations are still considered extrinsic forms of
+motivation as they are instrumental in reaching
+an outcome separate from the activity itself—
+however, they are most often considered as
+autonomous due to their volitional nature, just
+like intrinsic motivation.
+Qualitatively or quantitatively
+different constructs
+Although SDT explicitly details the conceptual
+differences between the various types of moti-
+vation, in terms of the source and quality of
+motivation, there is an ongoing debate con-
+cerning whether SDT’s types of motivation
+should be considered: a) qualitatively differ-
+ent constructs; or b) quantitatively different
+manifestations of the underlying construct
+of self-determinati on, ranging from non-
+self-determined (i.e., a-motivation) to fully
+self-determined motivation (i.e., intrinsic moti-
+vation). If the types of motivation are qualita-
+tively different, they should factor into separate
+constructs and relate differentially to various
+outcomes. If they only differ in terms of the
+quantity of self-determined motivation, it
+would be possible and adequate to represent all
+types by using a single factor predicting all of
+the variance in outcomes (Chemolli & Gagn´ e,
+2014), thus questioning the validity of the
+complex multidimensional view of SDT.
+Both perspectives have received some degree
+of empirical support through factor analysis and
+examination of the inter-correlations between
+the different types of motivation. On the one
+hand, Gagn´e et al. (2015) differentiated the
+various types of motivation into separate con-
+structs based on confirmatory factor analysis
+using data from 3435 employees across several
+languages (e.g., French, English, German). On
+the other hand, using multidimensional scaling
+based on meta-analytic correlations, Howard
+et al. (2017) concluded that “people experience
+these motivational regulations as differing in
+degree of self-determination” (p. 1357), due to
+the fact that adjacent types of motivation (e.g.,
+external and introjected regulation) correlated
+more strongly than non-adjacent types (e.g.,
+external and identified regulation). Most
+244 Organizational Psychology Review 11(3)
+<<<PAGE=6>>>
+recently, Howard et al. (2018) integrated both
+perspectives. Based on bifactor ESEM, they
+concluded that SDT’s types of motivation rep-
+resent quantitatively different levels of self-
+determination, captured in a general factor; yet
+they also have unique qualitative motivational
+characteristics that allow them to explain var-
+iance in basic need satisfaction and commitment
+over and above this general factor.
+One exception is integrated regulation. This
+type of regulation could not be distinguished
+from identified and intrinsic regulation in con-
+firmatory factor analysis (Gagn´ee ta l . ,2 0 1 5 ) ,
+and its meta-analytic correlations with identified
+and intrinsic regulation were untenably high
+(Howard et al., 2017). Questions have therefore
+been raised about the distinctiveness of this type
+of motivation, which may explain why inte-
+grated regulation has not been included in most
+validated scales (except for Tremblay et al.,
+2009) and, consequently, why it has been often
+excluded from research on work motivation.
+Associations with outcomes
+Despite their clear conceptual differentiation,
+whether the different types of motivation also
+hold discriminant and incremental validity in
+empirically predicting important workplace out-
+comes remains unknown. SDT proposes that
+with increasingly autonomous forms of moti-
+vation (i.e., from amotivation to external to
+intrinsic motivation), employees should in-
+creasingly show “optimal functioning” (Deci &
+Ryan, 2000), which is defined as the “mani-
+festation of intra- and interpersonal growth
+and development in terms of employee well-
+being (e.g., positive emotions, vitality), atti-
+tudes (e.g., job satisfaction, organizational
+commitment), and behavior (e.g., performance,
+proactivity, and collaborative behaviors)” (Van
+den Broeck et al., 2019, p. 30). However, this
+general statement leaves us to question whether
+each of the different types of motivation has
+unique relations with such outcomes. Therefore,
+to further study the discriminant validity of
+SDT’s types of motivation, and hence examine
+the added value of differentiating between them,
+we aim to answer the following research ques-
+tion through this meta-analysis:
+Research Question 1: Do the types of moti-
+vation correlate differentially, and in a non-
+linear fashion, with outcomes, therefore
+explaining incremental variance in outcomes?
+Studying the discriminant and incremental
+validity of the various types of motivation also
+allows for a more fine-grained analysis of how
+exactly the different types of motivation relate
+to various outcomes. The general statement that
+increasingly autonomous forms of motivation
+(i.e., from external to intrinsic) should lead to
+more positive outcomes (Gagn´ e et al., 2015)
+leaves at least three questions around how the
+different types of motivation should be related
+to these outcomes.
+First, the contribution of extrinsic autono-
+mous types of motivation, relative to intrinsic
+motivation, remains unclear. Based on their
+conceptualization, we identified three different
+perspectives on their relative contribution in
+explaining employee well-being and behavior.
+First, given that intrinsic motivation is consid-
+ered the “prototype of autonomous motivation”
+(Ryan & Deci, 2017, p. 197), it may be posited
+that SDT considers intrinsic motivation as
+the most valuable type of motivation to drive
+employee outcomes (Sheldon et al., 2003).
+Secondly, and alternatively, as intrinsic moti-
+vation does not have “greater value or greater
+autonomy” than integrated regulation (Ryan &
+Deci, 2017, p. 198), both may be similar in
+nature, and should therefore have similar rela-
+tions with employee optimal functioning.
+Finally, in specifying several autonomous types
+of extrinsic motivation, SDT implies that each
+type should be beneficial in at least some cir-
+cumstances and for some outcomes. While
+intrinsic motivation directs employees to do
+what they themselves find interesting in the
+moment, identified and integrated types of
+Van den Broeck et al. 245
+<<<PAGE=7>>>
+regulation should help employees sustain
+efforts toward personally meaningful goals
+(Gagn´e & Deci, 2005; Ryan & Deci, 2017). In
+line with this reasoning, identified regulation is
+sometimes shown to relate more strongly to
+outcomes such as proficient task performance,
+job effort, and health behaviors such as smok-
+ing abstinence than intrinsic motivation
+(Koestner & Losier, 2002; Ng et al., 2012)—
+suggesting that the effect of the motivational
+type depends on the outcome of interest.
+Research Question 2: Do identified, inte-
+grated, and intrinsic regulation relate differ-
+entially to outcomes?
+Second, SDT’s general proposition raises
+the question of whether the two forms of con-
+trolled motivation (i.e., external and introjected
+motivation): a) impair employee functioning
+(i.e., negatively relate to well-being, adaptive
+attitudes, and performa nce), b) are unrelated
+to these outcomes (i.e., are not important moti-
+vational processes), or c) are less positively
+related to these outcomes compared to autono-
+mous types of motivation. The lack of theore-
+tical specification o n how external and
+introjected motivation relate to outcomes has
+led scholars to pose diverging hypotheses about
+these relations (e.g., Gagn´ e et al., 2015; Van
+den Broeck et al., 2011). The literature demon-
+strates mixed empirical results; even when the
+same scale is used to assess the types of moti-
+vation, external regulation has frequently failed
+to relate to employee functioning, but also
+sometimes seems to mildly improve it (Gagn´ e
+et al., 2015). Introjected regulation has been
+shown to relate both positively and negatively
+to aspects of well-being such as burnout (van
+Beek et al., 2011, 2012). As such, it remains
+unclear how each of these regulations relate to
+outcomes, and the degree to which they are
+empirically distinguishable (or not). Therefore,
+we posit the following research question:
+Research Question 3: Do external and intro-
+jected types of motivation relate differentially
+to employee well-being, attitudes, and beha-
+vior; and are these results indicative of these
+types of motivation being detrimental,
+unrelated, or beneficial to employee
+functioning?
+Finally, while it is posited that autonomous
+types of motivation lead to more beneficial out-
+comes than controlled types of motivation, the
+implications of amotivation are unclear. Is hav-
+ing controlled types of motivation more detri-
+mental for employee functioning than having
+no motivation at all? Or does having at least
+some motivation yield better consequences than
+being amotivated. Theoretically, this has led to
+debates about whether the quality of motivation
+is more important than the quantity (Van den
+Broeck et al., 2013); and questions about
+whether the use of incentives, which are
+assumed to increase levels of external regulation
+(Gerhart & Fang, 2015), may foster well-being
+and performance when employees are amoti-
+vated. To shed light on this issue, we examine
+the following research question:
+Research Question 4 : Does amotivation
+relate more negatively to employee well-
+being, attitudes, and behavior than external
+regulation?
+Contextual moderators
+Finally, we performed moderation analyses to
+explore whether contextual factors (i.e., national
+culture and blue versus white collar) and me-
+thodological factors (i.e., differences between
+measurement scales and publication status) in-
+fluence the relations between the types of
+motivation and employee outcomes.
+In terms of contextual factors, we first ex-
+amine whether culture may affect the associa-
+tions between SDT’s types of motivation and
+employee well-being, attitudes, and behavior.
+Because of its emphasis on autonomy, SDT has
+frequently been criticized to be less applicable to
+people who may attach less value to autonomy
+246 Organizational Psychology Review 11(3)
+<<<PAGE=8>>>
+(Iyengar & Lepper, 1999)—such as is the case in
+collectivistic (i.e., Eastern) rather than indivi-
+dualistic (i.e., Western) cultures, and among blue
+versus white collar workers. In collectivistic
+cultures, for example, following externally
+imposed group norms is socially encouraged
+and people are highly motivated to avoid guilt
+and shame (Buchtel et al., 2018). External and
+introjected regulations may naturally fit these
+cultures, and following the person-environment
+fit literature (Kristof-Brown et al., 2005), more
+controlled types of motivation may therefore be
+related to better outcomes in collectivistic
+(compared to individualistic) cultures. Similarly,
+while blue-collar workers attach high impor-
+tance to pay and job security, white collar
+workers put greater emphasis on developing
+themselves and being autonomous (De Witte &
+Van den Broeck, 2011). As such, the latter group
+may benefit more from more autonomous types
+of motivation, compared to the former. These
+assumptions stand in strong contrast to SDT’s
+claim of being universal (Deci & Ryan, 2000),
+and research supporting SDT’s propositions in
+collective cultures (Chirkov et al., 2003; Slemp
+et al., 2018; Yu et al., 2018) and among blue-
+collar workers (Ilardi et al., 1993). Given these
+conflicting perspectives, it is imperative to meta-
+analytically test whether culture and job type
+moderate the relations between the types of
+motivation and their correlates.
+Second, we also examine whether the results
+depend on methodological features such as
+publication status (published versus unpub-
+lished) and the specific operationalizations of
+the types of motivation. As the review process
+tends to be biased toward publishing significant
+results (Rosenthal, 1979), scholars may be
+tempted to include or exclude hypotheses and
+analyses based on whether or not they are
+supported, which may lead to the under-
+reporting of empirical evidence that does not
+align with presumed theory and stronger sup-
+port for a theory than is warranted based on
+empirical results (Rubin, 2017). Only including
+published studies in a meta-analysis may
+overestimate the true effect sizes by no less than
+12% on average (McAuley et al., 2000). Given
+this, we deemed it necessary to examine
+whether publication bias moderates the rela-
+tions of the different types of motivation with
+outcome variables.
+Finally, we examine whether apparent dif-
+ferences in the operationalization of types of
+motivation alter their correlations with out-
+comes. Much in line with the initial focus on
+tangible outcomes (Deci & Ryan, 2000), almost
+all available measures of external regulation
+focus on one’s orientation to acquire money and
+earn an income (e.g., “it allows me to earn
+money,” “I’m paid to do it”; Fernet et al., 2008;
+Tremblay et al., 2009). Recently however,
+Gagn´e et al., (2015) explicitly differentiated
+between external regulation for material (e.g.,
+financial rewards, job security) and social
+reasons (e.g., to get approval or respect from
+others). While these material and social ex-
+ternal reasons resulted in separate factors,
+Gagn´e et al. (2015) did not examine their dif-
+ferential effects. Yet, some research seems to
+suggest that the implications of external material
+and social motivation may diverge. For ex-
+ample, compared to external social motivation,
+being externally regulated for material reasons
+has been found to relate more strongly to job
+satisfaction (Smokrovic´ et al., 2019) but less
+strongly to burnout (T´oth-Kir´aly et al., 2020).
+Also, in his initial research on SDT, Deci found
+that material rewards had more detrimental
+effects than feedback, the latter of which is
+more social in nature (Deci, 1971; Deci et al.,
+1999). To examine whether the outcomes of
+material and social external regulation differ
+systematically, we examine, based on all avail-
+able evidence, whether the nature of the external
+regulation scale (i.e., material versus social)
+moderates the relations of external motiva-
+tion with employee well-being, attitudes, and
+performance.
+Introjected regulation has also been oper-
+ationalized in different ways. Some scales pri-
+marily include items that reflect employees’
+Van den Broeck et al. 247
+<<<PAGE=9>>>
+motivation to avoid negative feelings (e.g.,
+feeling unworthy, ashamed, guilty) that put a
+threat to one’s self-esteem (e.g., Fernet et al.,
+2008). Others adopt a more balanced approach,
+including alsoapproach-orienteditems referring
+to positive feelings (e.g. self-worth, pride) that
+may boost one’s self esteem (e.g., Gagn´ee ta l . ,
+2010, 2015). Yet each of these scales are con-
+sidered to indicate the same SDT construct of
+introjected regulation. SDT scholars thus routi-
+nely ignore the well-established differential
+effects of approach and avoidance motivation
+(Carver, 2006; Higgins, 2002), and initial studies
+suggesting that approach-oriented introjection
+may be less harmful than avoidance-oriented
+introjection (Assor et al., 2009). To see
+whether more nuanced measurement of intro-
+jected regulation is needed, this meta-analysis
+systematically compares introjection scales that
+rely only (Fernet et al., 2008) or heavily
+(Tremblay et al., 2009) on avoidance items
+compared to those that cover both approach and
+avoidance introjected regulation (Fernet, 2011;
+Gagn´e et al., 2010, 2015).
+Finally, because integrated and identified re-
+gulations are hard to empirically differentiate
+(Howard et al., 2017), most scales do not have
+a separate subscale for integrated regulation.
+However, careful reading of the literature re-
+vealed that the identified regulation scale of
+Gagn´e et al. (2015) may include items that go
+above and beyond finding work as merely
+meaningful, and may draw upon elements of
+integrated regulation (i.e., putting effort in this
+jobs aligns with my personal values/has personal
+significance to me). To further assess the
+importance of separating the construct of inte-
+grated regulation, we therefore ran a moderation
+analysis comparing this scale reflecting identi-
+fied and integrated regulation (i.e., Gagn´ee ta l . ,
+2015) with all other scales purely referring to
+identified regulation.
+In summary, to examine the degree to which
+our findings on the relationships between SDT’s
+types of motivation and employee outcomes are
+generalizable and robust, we sought to answer
+the following research question:
+Research Question 5 : Are the relations
+between the types of motivation and their
+outcomes generalizable across cultures, job
+types, published versus unpublished studies,
+and measures?
+Method
+We conducted a meta-analysis of the relations
+between SDT’s types of motivation and their
+conceptual outcomes that have been examined in
+the literature. Before examining the strength and
+direction of these relations for each motivation
+type, we studied their relative importance in
+explaining employee outcomes using relative
+weights analysis (RWA). RWA is a procedure
+commonly employed in organizational psy-
+chology to determine the unique and relative
+contribution of multiple correlated predict-
+ors, thereby addressing the problem of multi-
+collinearity and hence unstable beta coefficients
+in regression analyses (Tonidandel & LeBreton,
+2015). Multicollinearity is often encountered
+when using SDT-based motivation scales
+(Howard et al., 2017), which has forced most
+researchers to use aggregated scores (e.g., con-
+trolled and autonomous motivation or the rela-
+tive autonomy index; Howard et al., 2020). Such
+scores however prevent examination of the pre-
+cise relationships between each type of motiva-
+tion and the outcomes, and potentially lead to
+information loss and reduced variance accounted
+for in published research. Using RWA in this
+meta-analysis allowed us to look at the relative
+importance of each motivation type in predicting
+work-related outcomes and to determine if the
+multidimensional conceptualization of work
+motivation offered by SDT adds valuable
+information about work motivation.
+Inclusion criteria
+We included empirical studies if they a) pre-
+sented primary quantitative research; b)
+248 Organizational Psychology Review 11(3)
+<<<PAGE=10>>>
+referred to one of the major validated SDT
+scales specific to the work domain (i.e., Blais
+et al., 1993; Fernet, 2011; Fernet et al., 2008;
+Gagn´e et al., 2010, 2015; Tremblay et al., 2009)
+or adaptations thereof; c) provided correlations
+between at least one regulation and one work-
+related outcome (well-being, attitudes, and
+behavior); and d) examined adult participants in
+an organizational setting. This resulted in the
+exclusion of studies including unemployed
+people, volunteers, students, and athletes, as
+well as experimental, laboratory, and interven-
+tion studies.
+Literature search
+First, we searched for all articles validating a
+work motivation scale in the realm of SDT as
+mentioned above, and all studies citing these
+works (years 1989–Oct 2020). Second, the
+databases of Web of Science, Google Scholar,
+EBSCO and PsycINFO were searched indepen-
+dently by the authors using the following search
+terms: “external”, “introjected”, “identified”,
+“integrated”, “intrinsic”, “motivation”, and “þ
+self determin*,” which were paired with
+“employ*” or “work*.” Additionally, we sear-
+ched using scale names as keywords (e.g.,
+Multidimensional Work Motivation Scale,
+MWMS). All duplicates were removed and ex-
+clusion criteria were applied. Of the remaining
+articles, 92 did not provide correlation tables or
+other pertinent information (e.g., only aggregate
+motivation scores were reported). Authors were
+contacted to obtain missing information and
+simultaneously asked for other unpublished data.
+Accordingly, 90 authors were contacted with a
+14% response rate. These authors provided an
+additional 21 samples. In total, our search
+resulted in 104 articles and manuscripts con-
+taining 124 samples (72 published, 32 unpub-
+lished samples) that met our inclusion criteria.
+The overview of the search process (Figure S1),
+references, and final dataset are available in
+supplementary materials.
+Coding
+The first two authors and four research assistants
+(with expertise in organizational psychology)
+entered all potentially relevant information into a
+spreadsheet. These variables included the scale
+used, the nationality and sector of the sample, as
+well as outcomes of motivation. Correlation
+coefficients were collected as effect sizes of
+primary interest. Intercoder agreement rates
+were high (Cohen’s K ¼ .94; McHugh, 2012),
+and disagreements were all resolved through
+reexamination of articles. Correlations between
+regulations and covariates that did not occur at
+least twice and that could not be meaningfully
+integrated with similar variables were removed.
+Meta-analytic procedures
+We conducted this meta-analysis following the
+Hunter-Schmidt model (Schmidt & Hunter,
+2015), with random-effects models applied
+throughout. This method assumes that between-
+study variance can be attributed to either study
+artifacts or moderating effects. It is strongly
+recommended over the alternative fixed-effects
+model which assumes that between-study var-
+iance is solely due to sampling error and does
+not allow for moderating factors—an untenable
+assumption in all but a few instances.
+For each relation between a type of motiva-
+tion and an expected outcome, corrections for
+reliability were made before weighting correla-
+tions according to sample size (Schmidt &
+Hunter, 2015). When alpha coefficients were not
+obtainable, mean reliability scores were imputed
+for the scale. The standard deviation and stan-
+dard error of the corrected correlations were
+calculated (Schmidt & Hunter, 2015). Based
+upon the estimated standard error, 95 % confi-
+dence intervals (CI) were calculated around the
+corrected correlation coefficients, with CIs in-
+dicating a significant effect when zero is not
+included within the CIs. Examination of 95 %
+CIs were used to indicate the extent to which the
+relations of the various types of motivation with
+Van den Broeck et al. 249
+<<<PAGE=11>>>
+outcomes are significantly different or not. In
+accordance with Cumming and Finch (2005),
+non-overlapping CIs indicated differences bet-
+ween values at a probability approximately equal
+to < .01, and CIs which overlapped less than 50%
+were considered indicative of differences in
+values of approximatelyp < .05. The 80% cred-
+ibility intervals (CV) and the percentage of the
+proportion of variance explained by sampling
+and measurement error (the “75 % rule”) were
+used to assess the homogeneity of the effect size
+distribution (Schmidt & Hunter, 2015). We used
+two different metrics to assess publication bias:
+Egger’s regression intercept (z) test (Egger et al.,
+1997) and Begg and Mazumdar’s (1994) rank
+correlation (t) test. As recommended by Van
+Aert et al. (2019), we only calculated these sta-
+tistics when 10 effect sizes were available in
+order to achieve sufficient statistical power.
+To assess the incremental validity of the types
+of motivation, relative weights analysis (RWA)
+was conducted in the R software package
+following procedures from Tonidandel and
+LeBreton (2015). Analyses were based on the
+corrected meta-analytic correlations among the
+types of motivation derived in this study (see
+Table S2 in supplementary materials). Each
+model consisted of motivation types predicting a
+single outcome variable, with this process
+repeated for each available outcome. Results of
+these analyses produce relative weights repre-
+senting the variance in an outcome accounted for
+by the predictor, as well as rescaled relative
+weights, which presents the information as a
+percentage of R2.
+Subgroup analyses were performed to
+examine whether contextual and methodological
+moderators would influence the results. Fol-
+lowing Aguinis et al.’s (2008) recommendations,
+we used Hunter and Schmidt’s (2004) proce-
+dures for a subgroup analysis with categorical
+variables. Even though we are aware that sub-
+group analysis is suboptimal to meta-regressions
+(Geyskens et al., 2009), this analysis was chosen
+because of the (at times) limited number of
+effect sizes per relationship.
+Results
+The relative importance of the motivation
+types
+To examine whether the types of motivation
+correlated differentially and in a non-linear
+fashion with employee outcomes, and therefore
+explain incremental variance in these outcomes
+(RQ1), we first provide an overview of the
+associations between SDT’s motivation types
+and broad categories of desirable (e.g., perfor-
+mance) and undesirables outcomes (e.g., dis-
+tress). Overall, results outlined in Figure 2 and
+Table S3, show that increasingly autonomous
+types of motivation related increasingly posi-
+tively with desirable and increasingly negatively
+with undesirable outcomes. In general, intrinsic
+motivation related more strongly with the out-
+comes compared to identified regulation. The
+CIs of these relations did not overlap, providing
+first evidence for the discriminant validity of the
+types of motivation. Integrated regulation was an
+e x c e p t i o ni nt h i sr e g a r da si t sr e l a t i o n so v e r -
+lapped significantly with those of identified and
+intrinsic motivation (Cumming & Finch, 2005).
+These results should however be interpreted with
+caution due to the limited number of observa-
+tions containing integrated regulation and the
+very large CIs resulting from this. External and
+introjected regulations were positively related to
+both desirable and undesirable outcomes, yet
+effect sizes were generally very small. Amoti-
+vation related more strongly to the outcomes
+than external regulation.
+Second, we performed RWA to examine the
+incremental validity of SDT’s types of motiva-
+tion. Integrated regulation was omitted from this
+analysis due to the paucity of available effect
+sizes. As presented in Table 1, the results indi-
+cated that, in general, the other motivation types
+each made unique contributions in accounting
+for the outcomes. The total explained variance in
+each outcome ranged from 1 % (i.e., absentee-
+ism) to 40% (i.e., engagement), and the different
+types of motivation accounted for about 30% or
+250 Organizational Psychology Review 11(3)
+<<<PAGE=12>>>
+more of the variance in the well-being outcomes
+(except for distress) and CWB. Intrinsic moti-
+vation was the most important motivation factor
+as evidenced by its disproportionately high
+relative weights and accounting for over 46.23%
+of the motivational effects on outcomes. It
+-0.60
+-0.40
+-0.20
+0.00
+0.20
+0.40
+0.60
+0.80
+Amo/g415va/g415on External Introjected Iden/g415ﬁed Integrated Intrinsic
+Desirable Undesirable
+Figure 2.Summary of results regarding the relationships of the types of motivation on outcomes.Note.
+Desirable outcomes include affective commitment, normative commitment, engagement, job satisfaction,
+OCB, performance, & proactivity. Undesirable outcomes include absenteeism, burnout, continuance com-
+mitment, distress, turnover intention.
+Table 1.Relative weights analysis of the different types of motivation predicting outcomes.
+Outcomes R 2
+Amotivation External Introjected Identified Intrinsic
+RW % RW % RW % RW % RW %
+Distress .10 .01 11.88 .00 4.82 .01 12.65 .04 35.60 .04 35.05
+Burnout .27 .10 33.96 .00 .56 .02 5.82 .02 8.85 .14 50.82
+Engagement .40 .03 6.29 .00 .14 .01 2.11 .12 28.75 .25 62.71
+Job Satisfaction .39 .07 17.73 .00 .42 .01 2.54 .10 24.96 .21 54.34
+Affective Com. .33 .02 4.51 .00 .72 .03 8.33 .09 27.80 .20 58.64
+Normative Com. .33 .00 .38 .01 3.43 .13 38.29 .05 15.54 .14 42.36
+Continuance Com. .05 .00 7.84 .04 76.78 .00 8.62 .00 4.87 .00 1.88
+Turnover Intention .12 .01 4.08 .01 4.99 .00 2.50 .04 34.96 .07 53.47
+Performance .25 .06 22.80 .00 .84 .04 17.40 .09 35.30 .06 23.65
+Proactivity .27 .01 2.54 .03 11.38 .03 9.93 .06 21.27 .15 54.87
+OCB .19 — — .02 9.99 .06 33.91 .06 31.05 .05 25.04
+CWB .28 .04 14.47 .02 8.12 .03 10.90 .04 14.45 .15 52.06
+Absenteeism .01 — — .00 0.34 .00 2.36 .00 11.26 .01 86.04
+Average 11.50 9.43 11.95 22.67 46.23
+Note: RW: relative weight; %: rescaled relative weight (i.e., relative weight divided by full modelR2); Affective Com.:
+Affective commitment; Normative Com.: Normative commitment; Continuance Com.: Continuance Commitment;
+CWB: Counterproductive Work Behaviors.
+Van den Broeck et al. 251
+<<<PAGE=13>>>
+explained more than 50 % of the variance in
+burnout, engagement, job satisfaction, affective
+commitment, turnover intentions, proactivity,
+counterproductive work behavior (CWB) and
+absenteeism and was the strongest predictor for
+10 out of the 13 outcomes.
+Identified regulation was the second most
+important motivation type, explaining over
+22.67% of the variance in the outcomes. It was
+more important for performance than intrinsic
+motivation, predicted an equal amount of var-
+iance as intrinsic motivation in distress, and
+was, together with introjected regulation, the
+most important predictor of OCB. Introjected
+(11.95%) and amotivation (11.50 %) predicted
+about the same amount of additional variance
+in the outcomes. Introjected regulation was
+particularly important in predicting normative
+commitment, while amotivation accounted for
+considerable variance in burnout. External reg-
+ulation was the least important motivation type,
+explaining less than 10% of the variance in the
+outcomes. It was only of particular importance in
+explaining continuance commitment. Notably,
+except for external regulation, all types of
+motivation explained a substantial proportion of
+variance in performance, with identified regu-
+lation being the most important predictor.
+Specific relations between motivation types
+and outcomes
+We then examined the specific relations between
+each of SDT’s type of motivation and the spe-
+cific outcomes to answer RQ2 and RQ3. Table 2
+shows the meta-analytic calculations between
+the types of motivation and the four different
+well-being aspects we could examine given the
+available data (i.e., distress, burnout, engage-
+ment, and job satisfaction). Amotivation was
+clearly associated with decreased well-being: it
+related positively to burnout and negatively to
+work engagement and job satisfaction. External
+regulation was also associated with well-being
+costs, relating positively to both distress and
+burnout, but it was unrelated to the positive
+well-being constructs of engagement and job
+satisfaction. Introjected regulation, in contrast,
+seemed to have both negative and positive well-
+being implications: it was positively related to
+burnout and distress, as well as to engagement
+and job satisfaction. Identified regulation and
+intrinsic motivation were negatively associated
+with distress and burnout, and were positively
+associated with engagement and job satisfaction.
+Results for integrated regulation followed the
+same pattern.
+In terms of job attitudes, we calculated the
+meta-analytic correlations for turnover inten-
+tion and affective, normative, and continuance
+commitment (Meyer et al., 2004). As shown
+in Table 2, while amotivation was unrelated to
+normative commitment and turnover intentions,
+it was related negatively to affective commit-
+ment and positively to continuance commitment.
+External, introjected, and identified regulations
+were each positively associated with all types of
+commitment and negatively associated with
+turnover intentions. Integrated regulation and
+intrinsic motivation followed largely the same
+pattern, although intrinsic motivation was unre-
+lated to continuance commitment.
+As shown in Table 3, the results for work-
+place behaviors (i.e., performance, proactivity,
+organizational citizenship behavior [OCB],
+counterproductive work behavior [CWB], and
+absenteeism) seemed to deviate from the pattern
+observed for well-being and attitudes. Specifi-
+cally, although few correlations were available
+for amotivation, the results showed its detri-
+mental association with employee performance
+and proactivity and its positive relation with
+CWB. External regulation, in contrast, related
+positively to performance and proactivity, was
+negatively related to organizational citizenship
+behavior (OCB), and unrelated to the other
+performance outcomes. Introjected and Identi-
+fied regulations were both positively related to
+performance, proactivity, and OCB, but also
+unrelated to CWB and absenteeism. Integrated
+regulation was positively related to performance.
+Intrinsic motivation related positively to all
+252 Organizational Psychology Review 11(3)
+<<<PAGE=14>>>
+Table 2.Meta analytic correlations of the different types of motivation with well-being and attitudes.
+kN r r S.D. S.E. 95% CI 80% CV % acc Eggers’ z
+rank
+correlation
+test
+Amotivation Distress 5 1820 0.12 0.15 0.32 0.14 [ /C0 0.13; 0.43] [ /C0 0.17; 0.47] 4.1% — —
+Burnout 16 8266 0.34 0.44 0.21 0.05 [0.34; 0.54] [0.21; 0.67] 3.9% /C0 1.83 /C0 .53**
+Engagement 12 6532 /C0 0.22 /C0 0.27 0.14 0.04 [ /C0 0.34; /C0 0.19] [ /C0 0.4; /C0 0.13] 12.3% /C0 1.60 /C0 .33
+Job satisfaction 18 11202 /C0 0.25 /C0 0.32 0.11 0.03 [ /C0 0.37; /C0 0.27] [ /C0 0.45; /C0 0.19] 11% .05 .17
+Affective com. 14 10277 /C0 0.12 /C0 0.17 0.28 0.07 [ /C0 0.31; /C0 0.02] [ /C0 0.42; 0.09] 3.1% .32 .13
+Normative com. 4 5432 /C0 0.02 /C0 0.03 0.06 0.03 [ /C0 0.08; 0.03] [ /C0 0.06; 0] 54.6% — —
+Continuance com. 5 5635 0.07 0.1 0.05 0.02 [0.06; 0.15] [0.06; 0.15] 45.2% — —
+Turnover intention 9 9799 0.07 0.1 0.22 0.07 [ /C0 0.05; 0.24] [ /C0 0.11; 0.3] 3.5% — —
+External Distress 40 20746 0.07 0.09 0.12 0.02 [0.05; 0.12] [ /C0 0.02; 0.2] 20.1% .99 .12
+Burnout 50 26679 0.07 0.08 0.18 0.03 [0.03; 0.13] [ /C0 0.11; 0.28] 7.5% /C0 .33 /C0 .32***
+Engagement 51 24809 0.01 0.01 0.14 0.02 [ /C0 0.03; 0.05] [ /C0 0.13; 0.15] 14.7% /C0 .80 .07
+Job satisfaction 54 28594 0.02 0.03 0.19 0.03 [ /C0 0.02; 0.09] [ /C0 0.15; 0.22] 7.9% /C0 .40 .20*
+Affective com. 45 23796 0.04 0.06 0.18 0.03 [0.01; 0.11] [ /C0 0.11; 0.23] 10.1% .68 .09
+Normative com. 8 6542 0.1 0.15 0.13 0.05 [0.06; 0.24] [0.02; 0.27] 10.8% — —
+Continuance com. 13 8127 0.22 0.33 0.12 0.03 [0.26; 0.39] [0.17; 0.48] 7.9% 1.00 .14
+Turnover intention 18 16184 /C0 0.06 /C0 0.08 0.13 0.03 [ /C0 0.14; /C0 0.02] [ /C0 0.18; 0.03] 14.4% 1.66 0.01
+Introjected Distress 38 20603 0.05 0.06 0.14 0.02 [0.02; 0.1] [ /C0 0.07; 0.19] 15.4% /C0 .17 /C0 .07
+Burnout 57 30625 0.07 0.08 0.18 0.02 [0.03; 0.13] [ /C0 0.1; 0.26] 8.5% /C0 2.60** /C0 .19*
+Engagement 47 25852 0.15 0.18 0.13 0.02 [0.14; 0.21] [0.04; 0.32] 12.5% /C0 .92 /C0 .06
+Job satisfaction 54 28216 0.14 0.17 0.19 0.03 [0.12; 0.22] [ /C0 0.02; 0.36] 7.6% /C0 .50 .08
+Affective com. 42 21208 0.21 0.26 0.22 0.03 [0.19; 0.33] [0.03; 0.49] 5.3% /C0 .74 .08
+Normative com. 10 7352 0.36 0.45 0.07 0.02 [0.41; 0.50] [0.31; 0.6] 6.4% 1.12 .20
+Continuance com. 12 7776 0.11 0.14 0.16 0.05 [0.05; 0.24] [0.02; 0.27] 14% .32 .17
+Turnover intention 23 20002 /C0 0.08 /C0 0.1 0.14 0.03 [ /C0 0.16; /C0 0.05] [ /C0 0.24; 0.03] 9.3% /C0 .06 /C0 .08
+(continued)
+253
+<<<PAGE=15>>>
+Table 2.(continued)
+kN r r S.D. S.E. 95% CI 80% CV % acc Eggers’ z
+rank
+correlation
+test
+Identified Distress 39 17907 /C0 0.2 /C0 0.23 0.18 0.03 [ /C0 0.29; /C0 0.18] [ /C0 0.42; /C0 0.04] 8% 1.54 .06
+Burnout 56 26730 /C0 0.21 /C0 0.25 0.17 0.02 [ /C0 0.29; /C0 0.2] [ /C0 0.42; /C0 0.08] 9.3% .28 .03
+Engagement 49 26633 0.49 0.57 0.1 0.01 [0.54; 0.59] [0.42; 0.71] 6.2% /C0 1.33 /C0 .13
+Job satisfaction 51 23451 0.38 0.47 0.18 0.02 [0.43; 0.52] [0.26; 0.69] 4.3% 2.18* /C0 .07
+Affective com. 41 22840 0.37 0.46 0.12 0.02 [0.43; 0.5] [0.3; 0.62] 6.9% /C0 1.31 /C0 .07
+Normative com. 8 6804 0.3 0.38 0.13 0.05 [0.29; 0.47] [0.27; 0.5] 9.4% — —
+Continuance com. 9 7047 0.07 0.09 0.11 0.04 [0.02; 0.17] [0; 0.19] 19% — —
+Turnover intention 11 10762 /C0 0.24 /C0 0.29 0.18 0.06 [ /C0 0.4; /C0 0.18] [ /C0 0.48; /C0 0.1] 3.7% .40 .02
+Integrated Distress 5 7758 /C0 0.14 /C0 0.16 0.28 0.12 [ /C0 0.41; 0.08] [ /C0 0.45; 0.12] 1.2% — —
+Burnout 4 7581 /C0 0.18 /C0 0.22 0.03 0.01 [ /C0 0.24; /C0 0.19] [ /C0 0.26; /C0 0.18] 31% — —
+Engagement 2 3788 0.33 0.4 0.22 0.15 [0.1; 0.69] [0.23; 0.56] 2.1% — —
+Job satisfaction 11 6859 0.3 0.35 0.1 0.03 [0.3; 0.41] [0.24; 0.47] 14% 1.01 .11
+Affective com. 4 2728 0.4 0.47 0.12 0.06 [0.35; 0.6] [0.36; 0.58] 10.5% — —
+Continuance com. 2 433 0.37 0.52 0.21 0.15 [0.23; 0.8] [0.26; 0.77] 5.9% — —
+Turnover intention 5 4737 /C0 0.14 /C0 0.18 0.1 0.04 [ /C0 0.26; /C0 0.09] [ /C0 0.27; /C0 0.08] 15.6% — —
+Intrinsic Distress 47 25114 /C0 0.21 /C0 0.24 0.21 0.03 [ /C0 0.3; /C0 0.18] [ /C0 0.48; 0] 4.5% 1.22 .12
+Burnout 62 33980 /C0 0.34 /C0 0.4 0.21 0.03 [ /C0 0.45; /C0 0.35] [ /C0 0.63; /C0 0.17] 3.8% .80 .12
+Engagement 62 30311 0.61 0.67 0.19 0.02 [0.62; 0.72] [0.43; 0.91] 1.7% /C0 3.17** /C0 .35***
+Job satisfaction 60 32734 0.48 0.57 0.2 0.03 [0.52; 0.62] [0.33; 0.81] 2.3% /C0 1.40 /C0 .20*
+Affective com. 48 25748 0.44 0.55 0.14 0.02 [0.5; 0.59] [0.37; 0.72] 4.6% /C0 1.80 /C0 .13
+Normative com. 9 7455 0.37 0.47 0.11 0.04 [0.39; 0.54] [0.3; 0.63] 4.2% — —
+Continuance com. 11 7857 0.04 0.05 0.12 0.04 [ /C0 0.02; 0.13] [ /C0 0.04; 0.14] 22% .32 .11
+Turnover intention 24 20426 /C0 0.28 /C0 0.32 0.25 0.05 [ /C0 0.42; /C0 0.22] [ /C0 0.6; /C0 0.05] 2% .35 .09
+Note: k: number of effect sizes;N: total subject number; r: average correlation coefficient;r: correlation corrected for unreliability and weighted by sample; SD: Standard
+deviation, SE: Standard error; CI: Confidence intervals, CV: Credibility intervals; % acc: percent of variance attributable to sampling error; Com.: Commitment. Table only
+includes relations for which more than one correlation could be found.
+254
+<<<PAGE=16>>>
+Table 3.Meta analytic correlations of the different types of motivation with behaviors.
+kN r r S.D. S.E. 95% CI 80% CV % acc Eggers’ z
+rank
+correlation
+test
+Amotivation Performance 10 9531 /C0 0.2 /C0 0.28 0.06 0.02 [ /C0 0.32; /C0 0.24] [ /C0 0.39; /C0 0.17] 10.4% /C0 .15 /C0 .11
+Proactivity 2 444 /C0 0.1 /C0 0.11 0.01 0.01 [ /C0 0.13; /C0 0.09] [ /C0 0.19; /C0 0.03] 1819.9% — —
+CWB 2 332 0.18 0.21 0.07 0.05 [0.11; 0.31] [0.17; 0.25] 123.5% — —
+External Performance 29 17335 0.03 0.04 0.11 0.02 [0; 0.08] [ /C0 0.06; 0.13] 22.8% /C0 .46 .03
+Proactivity 18 6759 0.15 0.2 0.3 0.07 [0.06; 0.34] [ /C0 0.05; 0.45] 6.2% /C0 1.66 .11
+OCB 10 9939 /C0 0.05 /C0 0.07 0.06 0.02 [ /C0 0.11; /C0 0.03] [ /C0 0.12; /C0 0.03] 47.1% .96 .07
+CWB 5 1088 0.12 0.14 0.17 0.07 [ /C0 0.01; 0.28] [ /C0 0.02; 0.29] 23.4% — —
+Absenteeism 18 7556 .00 .00 0.07 0.02 [ /C0 0.04; 0.03] [ /C0 0.05; 0.04] 64.7% /C0 .76 /C0 .06
+Introjected Performance 25 16628 0.22 0.28 0.17 0.03 [0.22; 0.35] [0.13; 0.44] 8% /C0 .80 .03
+Proactivity 11 4712 0.22 0.27 0.16 0.05 [0.17; 0.37] [0.1; 0.44] 10% /C0 .06 /C0 .16
+OCB 8 9414 0.24 0.29 0.21 0.07 [0.15; 0.44] [0.1; 0.49] 3% — —
+CWB 2 332 /C0 0.12 /C0 0.14 0.15 0.11 [ /C0 0.35; 0.07] [ /C0 0.26; /C0 0.02] 39.7% — —
+Absenteeism 18 7556 0 0 0.07 0.02 [ /C0 0.03; 0.03] [ /C0 0.05; 0.05] 64.2% /C0 .67 /C0 .09
+Identified Performance 27 17163 0.35 0.43 0.16 0.03 [0.37; 0.49] [0.24; 0.61] 4.7% /C0 1.78 /C0 .11
+Proactivity 15 5187 0.33 0.38 0.18 0.05 [0.29; 0.48] [0.18; 0.59] 7.8% /C0 1.07 /C0 .20
+OCB 8 9414 0.29 0.34 0.27 0.1 [0.16; 0.53] [0.08; 0.61] 1.5% — —
+CWB 4 687 /C0 0.02 /C0 0.04 0.41 0.2 [ /C0 0.44; 0.36] [ /C0 0.43; 0.35] 6% — —
+Absenteeism 18 7556 /C0 0.02 /C0 0.02 0.07 0.02 [ /C0 0.05; 0.01] [ /C0 0.07; 0.03] 62.9% /C0 .88 /C0 .12
+Integrated Performance 4 1128 0.26 0.31 0.04 0.02 [0.27; 0.35] [0.27; 0.34] 77.2% — —
+Intrinsic Performance 43 21200 0.3 0.36 0.2 0.03 [0.3; 0.42] [0.15; 0.56] 5.7% /C0 2.44* /C0 .21*
+Proactivity 26 9491 0.39 0.47 0.21 0.04 [0.39; 0.55] [0.27; 0.66] 6.9% /C0 3.29*** /C0 .29*
+OCB 16 12259 0.26 0.31 0.29 0.07 [0.17; 0.45] [0; 0.62] 1.8% .03 /C0 .24
+CWB 5 1337 /C0 0.3 /C0 0.36 0.14 0.06 [ /C0 0.48; /C0 0.24] [ /C0 0.51; /C0 0.21] 17.3% — —
+Absenteeism 18 7556 /C0 0.07 /C0 0.07 0.06 0.02 [ /C0 0.1; /C0 0.04] [ /C0 0.12; /C0 0.02] 60.5% /C0 .12 /C0 .05
+Note: k: number of effect sizes;N: total subject number; r: average correlation coefficient;r: correlation corrected for unreliability and weighted by sample; SD: Standard
+deviation, SE: Standard error; CI: Confidence intervals, CV: Credibility intervals; % acc: percent of variance attributable to sampling error; Com.: Commitment. Table only
+includes relations for which more than one correlation could be found.
+255
+<<<PAGE=17>>>
+constructive behaviors and was the only type of
+motivation that significantly related (negatively)
+to absenteeism.
+We then examined if CIs overlapped to
+determine whether regulations were associated
+differentially with outcomes (Cumming &
+Finch, 2005). Focusing on adjacent types of
+motivation, amotivation and external regula-
+tion were similar in only 2 out of 11 comparisons
+(pertaining to distress and CWB). External and
+introjected regulations were similar in 5 out
+of 13 comparisons (the n egative well-being
+indicators [distress and burnout], turnover, pro-
+activity, and absenteeism). Introjected and id-
+entified regulations overlapped on 6 out of
+13 comparisons, including normative and con-
+tinuance commitment, and all types of behavior
+except for performance (i.e. proactivity, OCB,
+CWB, and absenteeism). Finally, identified and
+intrinsic motivation overlapped in 8 out of 13
+comparisons. Exceptions were burnout, engage-
+ment, job satisfaction, affective commitment,
+and absenteeism. This indicates that there is
+some overlap in the consequences of these types
+of motivation for employee optimal functioning.
+The results for integrated regulation overlapped
+with either those of identification or intrinsic
+motivation in 6 out of 8 comparisons (job sa-
+tisfaction and continuance commitment were
+exceptions herein), suggesting the nomological
+networks between these variables are nearly
+identical.
+Moderation analyses
+As shown in Tables 2 and 3, for most relation-
+ships, sampling and measurement error account
+for less than 75 % o ft h eo b s e r v e dv a r i a n c e
+(Schmidt & Hunter, 2015). Only for a few rela-
+tions, which were typically based on few obser-
+vations, was this threshold exceeded, suggesting
+that sampling and measurement error could
+account for differences in the magnitude of these
+few correlations. The credibility intervals were
+generally large, including zero in 34 % of the
+cases. Hence, moderator analyses are necessary
+to explain this observed variance and to examine
+the generalizability of our results (i.e., RQ 5).
+This was done for all relations for which enough
+effect sizes were available. For amotivation this
+was generally not the case. The full results are
+available in the supplementary materials S4 to
+S10 and summarized in Tables 4 and 5.
+In examining whether the relations between
+the motivation types and outcomes varied
+depending on cultural context (i.e., “Western”
+cultural contexts such as Canada vs. “Eastern”
+cultural contexts such as China), only 7 out of 47
+correlations (15%) testing for different results
+did not overlap: Introjected regulation related
+more strongly to burnout, yet less strongly to job
+satisfaction and affective commitment in West-
+ern compared to Eastern countries. Intrinsic
+motivation also related more strongly to burn-
+out, engagement, job satisfaction and affective
+commitment in the West than in the East.
+The results comparing blue versus white
+collar workers showed significant differences
+between both groups in 10 out of 44 comparisons
+(23%). They all pointed at a stronger relation
+between motivation and employee well-being,
+attitudes, and performance for blue collar work-
+ers compared to white collar workers; external
+regulation related more strongly to engagement,
+and all types of motivation—except for external
+regulation—related more strongly to job satis-
+faction. Introjected regulation was more indica-
+tive of affective commitment, while intrinsic
+motivation associated more strongly with nor-
+mative commitment. Both introjected regulation
+and intrinsic motivation related more strongly to
+turnover intentions and performance.
+No systematic pattern was present regarding
+the effects of publication status. In only 12 out
+of 47 cases (25%) were differences were found
+between published and unpublished data. In
+nine cases the published data presented stronger
+effect sizes, while in the other three cases the
+effects in the unpublished data were stronger.
+To gain further insight into whether publica-
+tion bias was an issue in our data, we supple-
+ment this moderation analysis with Egger’s
+256 Organizational Psychology Review 11(3)
+<<<PAGE=18>>>
+regression test and the rank-correlation test.
+These tests further indicated that overall, the
+reported results did not seem affected by pub-
+lication bias. However, for burnout, smaller
+correlations tended to be reported less often,
+which was also the case for studies examining
+the associations between intrinsic motivation
+and engagement, performance, and proactivity.
+Finally, we examined whether the various
+operationalizations of SDT’s types of motiva-
+tion, as reflected in the different measurement
+scales, could explain differences in the strength
+of the relationships between these types of
+motivation and employee outcomes (Table 5 and
+S7–10). Concerning external regulation, mate-
+rial external regulation related more strongly
+than social external regulation to turnover
+intention, but no differences were found for
+burnout, engagement, performance, and OCB.
+For introjected regulation, the results indicate
+that measures that only tap into avoiding nega-
+tive emotions associate more strongly with
+burnout, compared to measures including some
+approach items or a balanced mix of avoidance
+and approach items. This result was not repli-
+cated with regards to distress, which was the
+only other outcome on which the three types of
+measures for introjected regulation could be
+compared. No further differences were found in
+the strength of the relations between the unba-
+lanced and balanced scales tapping into intro-
+jected regulation and job satisfaction, affective
+commitment, or turnover intentions. Slight dif-
+ferences in the operationalization of identified
+regulation led to very few differences in the
+relationships: Identified measures excluding
+integrated regulation items associated more
+strongly with distress and job satisfaction; but no
+differences were found for burnout, engagement,
+affective or continuance commitment, turnover
+intentions, performance, proactivity, or OCB.
+Discussion
+Motivation is a critical issue for employees and
+employers alike (Kanfer & Chen, 2016). Self-
+Table 4.Subgroup analyses testing moderation of various sample characteristics.
+Western vs. Eastern Blue vs. White Collar Published vs. Unpublished
+Covariates Amotivation External Introjected Identified Intrinsic Amotivation External Introjected Identified Intrinsic Amotivation External Introjected Identified Intrinsic
+Distress ¼ ¼ ¼¼ ¼ ¼ ¼¼ << > ¼
+Burnout ¼¼ > ¼ > ¼¼ ¼ ¼ ¼¼ ¼ <
+Engagement ¼¼ ¼ ¼ >> ¼¼ ¼ ¼ ¼¼ ¼
+Job Satisfaction ¼¼ < ¼ > ¼ >> > ¼ < ¼¼ <
+Affective Com. ¼¼ < ¼ > ¼¼ > ¼¼ > ¼¼ > ¼
+Normative Com. ¼¼¼ ¼ ¼ > ¼¼ ¼ ¼
+Continuance Com. ¼¼¼ ¼ ¼ ¼ < ¼¼ ¼
+Turnover Intention ¼¼ ¼ ¼ ¼ ¼ > ¼ > ¼¼ ¼ ¼
+Performance ¼¼ ¼ ¼ ¼ ¼¼ > ¼ > ¼ < ¼¼
+Proactivity ¼ ¼ ¼¼ ¼¼ ¼ ¼ ¼¼
+CWB ¼ ¼
+OCB ¼¼ ¼ ¼ ¼ < ¼ <
+Absenteism ¼¼ ¼ ¼
+Note. < indicates e.g. significantly lower effect sizes for published data compared to unpublished; > represents greater effect sizes e.g. for publishedcompared to
+unpublished; ¼ represents non-significant differences usingp ¼ .05 as a cut-off. More detailed results are available in the supplementary materials Tables S4–6.
+Van den Broeck et al. 257
+<<<PAGE=19>>>
+determination theory (SDT; Deci & Ryan,
+2000) has provided a nuanced view on this
+topic, suggesting that one should not only take
+into account how much employees are moti-
+vated (i.e., amotivation versus motivation), or
+whether they are intrinsically or extrinsically
+motivated, but also which types of extrinsic
+motivation they hold (i.e., external, introjected,
+identified or integrated regulation).
+SDT has become increasingly popular in
+organizational psychology, and it is therefore
+time to take stock of the associations between
+SDT’s different types of work motivation and
+important outcomes in the organizational liter-
+ature (i.e., employee well-being, attitudes, and
+performance). This helps us to understand the
+strengths and limitations of the current body of
+research, and to identify avenues for future
+research. By obtaining all relevant data, this
+meta-analysis allows us to shed light on some
+fundamental issues that remain unclear within
+existing SDT research: whether (i.e., RQ1) and
+how (i.e., RQ2–4) each of the SDT types of
+motivation is uniquely influential in predicting
+a broad range of employee outcomes, and to
+what extent these results are generalizable (i.e.,
+RQ5). In doing so, this meta-analysis provides a
+more precise picture of the value and necessity
+of SDT’s nuanced view of the nature and con-
+sequences of employee motivation.
+Answers to our research questions
+Research question 1: Relative contribution of the
+types of motivation.All in all, our meta-analysis
+provides support for the discriminant and
+incremental validity of SDT’s different types of
+motivation in explaining variance in employee
+outcomes that we consider to be crucial in the
+field of organizational psychology. Our results
+indicate that the correlations of SDT’s types of
+motivation, ordered along the continuum of
+self-determination, show a linear trend with
+employee outcomes. While several relations
+between the motivation types and employee
+outcomes overlapped, RWA revealed that every
+type of motivation (including amotivation)
+holds incremental validity in predicting
+employee well-being, attitudes, and behavior.
+These findings align with previous research
+that has examined the structure of SDT’s types
+of motivation (Howard et al., 2017, 2018). Using
+Table 5.Subgroup analyses testing moderation of various operationalizations of the types of motivation.
+Covariates
+Material vs.
+Social
+External
+Reguation
+Only avoidance vs.
+unbalanced avoidance
+introjected regulation
+Only avoidance vs.
+balanced avoidance/
+approach introjected
+regulation
+Unbalanced vs.
+balanced avoidance/
+approach introjected
+regulation
+Indentified
+measures without
+vs. with integration
+items
+Distress ¼¼ ¼ >
+Burnout ¼ >> ¼¼
+Engagement ¼ ¼
+Job Satisfaction ¼ >
+Affective Com. ¼¼
+Normative Com.
+Continuance Com. ¼
+Turnover Intention > ¼¼
+Performance ¼ ¼
+Proactivity ¼
+CWB
+OCB ¼ ¼
+Absenteeism
+Note. > represents greater effect sizes for e.g. material vs. social external regulation scales;¼ represents non-significant
+differences usingp ¼ .05 as a cut-off. More detailed results are available in the supplementary materials Tables S7–10.
+258 Organizational Psychology Review 11(3)
+<<<PAGE=20>>>
+meta-analytic multidimensional scaling and bi-
+factor analysis, respectively, these studies
+showed that each of the types of motivation can
+be ordered along a continuum of self-
+determination (Howard et al., 2017), reflected
+by their loadings on a general factor representing
+the degree of self-determination in each item
+(Howard et al., 2018). This “truncus communis”
+likely accounts for most of the linear trend in our
+data and the overlapping confidence intervals. In
+addition to this general factor, SDT’s types of
+motivation have been shown to possess unique
+properties, which are reflected in their specific
+factors. These factors likely play a strong role in
+the unique and incremental effects of the types
+of motivation on employee outcomes, as evi-
+denced in our RWA.
+Integrated regulation is an exception in this
+regard: the limited results pertaining to this type
+of motivation indicate that its correlations are
+almost identical to those of identified regulation
+or intrinsic motivation, meaning that it adds little
+incremental explanatory value beyond that of the
+other motivation types. Despite being clearly
+differentiated at the conceptual level, the mea-
+surement of integrated regulation has challenged
+SDT researchers for a long time. Even the first
+scale to assess SDT’s different types of regula-
+tions (i.e., Ryan & Connell, 1989, tapping into
+academic motivation) did not include a scale for
+integrated regulation, which could be attributed
+to the fact that children may not be mature
+enough to have integrated extrinsic regulations
+in a coherent sense of self (Howard et al., 2017).
+The survey of Ryan and Connell (1989) served
+as an example for many subsequent scales to
+assess SDT’s types of motivation in different life
+domains. Despite considerable efforts, many
+other authors also failed to include integrated
+regulation in these scales, as such items could
+not be differentiated from items of identification
+or intrinsic motivation through of factor analysis
+(see e.g. Gagn´e et al., 2015, and Pelletier et al.,
+1995, in the work and sports domain, respec-
+tively). Moreover, meta-analytic findings indi-
+cated that the integrated regulation scales that
+were developed (e.g. Tremblay et al., 2009) were
+highly related to identification and intrinsic
+motivation and that the relations of these inte-
+grated regulation scales with the other types of
+motivation overlapped considerably with those
+of identification and intrinsic motivation
+(Howard et al., 2017).
+Our meta-analysis expands these findings on
+integrated motivation. It shows that integrated
+regulation is hardly examined within the context
+of work, which is consistent with other meta-
+analyses in the academic setting (Slemp et al.,
+2020) and the health context (Ng et al., 2012).
+Our results add to this body of research in
+revealing that the associations between inte-
+grated regulation and employee well-being,
+attitudes, and performance almost always over-
+lap with the associations of identified and
+intrinsic motivation. Further, when no overlap
+was found, contrary to expectations, integrated
+regulation (or scales mixing items for identified
+and integrated regulation) did not show the
+stronger relations with the outcomes than
+(purely) identified regulation.
+We therefore see little compelling evidence
+to focus on integrated regulation in future
+questionnaire research in the context of work.
+This is not to say, however, that integrated reg-
+ulations should be omitted from SDT theory.
+The lack of differentiation between integrated,
+identified, and intrinsic motivation in ques-
+tionnaire research may simply be due to the fact
+that people may describe themselves as being
+more consistent across time and situations than
+they truly are (Sadler & Woody, 2003). This
+consistency bias may then cause individuals to
+say that they consistently engage in particular
+behavior because they have integrated this rea-
+son (e.g., it has become a fundamental part of
+who they really are; Tremblay et al., 2009),
+while actually they may only merely identify
+with the value of the particular behavior (e.g.,
+because it allows them to attain work objectives
+that they consider important; Fernet et al., 2008),
+yet the behavior may not be displayed across
+time and settings. Hence, because people like to
+Van den Broeck et al. 259
+<<<PAGE=21>>>
+see themselves as more consistent than they
+really are, people may confuse valuing some-
+thing as a lower order goal with striving for a
+higher level, well-integrated goal that defines
+one’s identity and drives consistent behavior
+(Kruglanski et al., 2002). Future research
+avoiding, or accounting for, this consistency bias
+(e.g. through observations or interviews) may be
+better suited for examining whether integrated
+regulation has discriminant validity vis a vis
+SDT’s other types of motivation.
+Research questions 2–5: Specific associations for
+the types of motivation.With respect to the spe-
+cific impact of the autonomous types of moti-
+vation (i.e., research questions 2), the results
+support the highly beneficial nature of intrinsic
+motivation in the workplace: intrinsic motiva-
+tion explained the most variance in almost all
+outcomes (except continuance commitment and
+OCB), and was the sole predictor of absentee-
+ism, albeit with a small impact. Overall, these
+results suggest that making work inherently
+enjoyable and interesting pays off.
+Comparing these results with those of iden-
+tified regulation, which represents an autono-
+mous type of extrinsic motivation, we see some
+overlapping results. However, RWA suggests
+that intrinsic motivation and identified regula-
+tion yield differential and incremental effects:
+while intrinsic motivation associates more
+strongly with well-being than identified regula-
+tion, the opposite is true for employee behavior
+(i.e., performance and OCB). This supports the
+idea that engaging in a particular behavior
+because one considers it meaningful or valuable
+(e.g., because it corresponds to one’s values,
+motives or goals; Sheldon, 2011; Sheldon &
+Schu¨ler, 2011) may be more important for con-
+tinuous effort investment, goal directed beha-
+vior, or “going the extra mile,” than engaging in
+a behavior because it is inherently enjoyable—
+especially when work tasks become more
+tedious or stressful. This idea has already been
+voiced by some SDT-scholars (Gagn´e & Deci,
+2005), and adds nuance to previous meta-
+analytic findings that have highlighted the
+importance of intrinsic motivation for high
+quality performance (Cerasoli et al., 2014). That
+is, the current meta-analytical results indicate
+that some types of extrinsic motivation (i.e.,
+identified regulation) may sometimes lead to
+higher levels of performance, extra-role beha-
+vior, or helping behavior than intrinsic motiva-
+tion. We encourage further research examining
+the differential impact of identified regulation
+and intrinsic motivation on the quantity, quality,
+and duration of (ideally objectively-rated) per-
+formance to further support this claim. All in all,
+our findings indicate that work does not need to
+be “all play” for employees to feel well and
+perform well, as long as they find their work
+meaningful.
+Our results also help uncover the complex
+nature of controlled motivation. Specifically, our
+results highlight that the question of whether
+controlled forms of motivation are detrimental,
+unrelated, or less positively related to employee
+outcomes (i.e., RQ3), should be answered in a
+nuanced way, taking into account the particular
+outcome and the type of controlled motivation
+under study. First, our meta-analysis highlights
+the Janus face of introjected regulation: enga-
+ging in a particular behavior to boost one’s self
+esteem was positively related to both ill-being
+(e.g., distress) and well-being (e.g., engage-
+ment). It also related to all forms of commit-
+ment, though most strongly to normative
+commitment (see also Meyer et al., 2004), and
+was a relatively strong predictor of performance
+and OCB. This indicates that introjected people
+may perform well by pressuring themselves or
+striving to feel better about themselves, but with
+some well-being price to pay. In general, these
+results were found across operationalizations of
+introjected regulation that focused solely on
+avoiding negative emotions such as guilt or
+shame (i.e., avoidance-based operationalisation),
+and also operationalisations that also incorpo-
+rated at least some measurement of striving for
+positive emotions such as pride (i.e., inclusion of
+approach-based operationalisations).
+260 Organizational Psychology Review 11(3)
+<<<PAGE=22>>>
+Second, the current results also show that
+expecting rewards (e.g., praise, bonus) or aim-
+ing to avoid of punishments (e.g., criticism,
+being fired) may not be the best types of
+motivation: they may be stressful; will mostly
+lead to continuance commitment, which is the
+form of commitment associated with the worst
+performance and well-being outcomes (Meyer
+et al., 2004); offer quite limited contributions to
+employee performance; and inhibit OCB. These
+results resemble previous meta-analytic find-
+ings in the health context (Ng et al., 2012), but
+add the perspective of RWA, highlighting the
+small relative impact of external regulation in
+explaining these outcomes. Notably, whether
+one is driven by material (e.g., money) or social
+(e.g., social pressure) external reasons did not
+make a difference in terms of employee well-
+being or behavior, except that being driven by
+external material reasons may lead to increased
+odds of turnover. All in all, the results showed
+that external regulation should therefore not be
+the only, or even the most important, form of
+extrinsic work motivation to rely on in the work
+domain.
+Pertaining to research question 4, the results
+indicated that amotivation proved particularly
+helpful in understanding burnout and was
+associated strongly (and negatively) with per-
+formance. The current meta-analytic results
+therefore indicate that having no motivation
+(i.e., low quantity of motivation) may be more
+detrimental than external regulation (i.e., low
+quality of motivation).
+The moderation analysis (i.e., research ques-
+tion 5) showed that relationships between moti-
+vation types and employee outcomes are
+generally generalizable across contexts in terms
+of cultures and job types. With some exceptions,
+the results did not seem to be systematically
+affected by publication bias or the particular
+operationalizations of the types of motivation.
+This attests to the universality of SDT and the
+reliability of our results. However, given the
+limited number of studies able to be included
+in the moderation analysis, we nonetheless
+encourage future research incorporating con-
+textual and methodological variables to further
+explain the variability in our results and inves-
+tigate the generalizability of our conclusions.
+In sum, our results show that SDT’s types of
+motivation can have different implications for
+employee well-being, attitudes and perform-
+ance. However, the relationships were a bit
+more complex than can be summarized by
+SDT’s higher-level proposition that increasingly
+autonomous forms of motivation (i.e., from
+amotivation to external, introjected, and identi-
+fied regulation, to intrinsic motivation) should
+associate increasingly (positively) with em-
+ployee optimal functioning (Deci & Ryan,
+2000). Specifically, identified regulation may
+sometimes associate with more beneficial (per-
+formance related) outcomes than intrinsic moti-
+vation; introjected regulation may associate with
+both positive and detrimental outcomes; while
+external regulation, and particularly amotiva-
+tion, likely have negative implications. Despite
+these nuances, the results support the validity
+and usefulness of SDT’s multidimensional view
+on motivation as a comprehensive framework to
+understand the complex phenomenon of moti-
+vation. Most importantly, these results indicate
+that not only the quantity, but also the nuanced
+differences in the quality of motivation matters.
+As such, SDT goes above and beyond most
+motivational theories, which do not take into
+account the nature or quality of motivation, and
+instead focus solely on how much one is moti-
+vated (Kanfer & Chen, 2016; Kanfer et al.,
+2017)—of which Goal Setting Theory is a prime
+example, yet has nonetheless dominated the lit-
+erature on employee motivation and practice
+(Locke & Latham, 2019).
+Implications for theory and practice
+Modeling of the different types of motivation.Our
+results attest to the discriminant validity of the
+various types of motivation and provide further
+evidence of their specific implications for
+employee outcomes. These results thus have
+Van den Broeck et al. 261
+<<<PAGE=23>>>
+clear implications for how the types of motiva-
+tion should be modeled in future research. First,
+as mentioned above, we argue that questionnaire
+studies may leave out integrated regulation until
+we find better ways to capture it. Second, our
+results indicate that, unfortunately, relatively
+few studies have paid attention to amotivation.
+Some scholars have posited that people would
+have at least some kind of motivation to do their
+job, making the study of amotivation irrelevant
+(Gagn´e et al., 2015). Yet, recent person-centered
+studies estimate that about 10 to 25% of workers
+are predominantly amotivated (Howard et al.,
+2016). The current meta-analytic results further
+attest to the importance of amotivation by
+showing its incremental value for understanding
+employee outcomes. We therefore contend that
+SDT scholars should not only focus on the
+motivational types (i.e., quality of motivation),
+but also on the amount of motivation (i.e.,
+quantity of motivation)—and, importantly,
+include amotivation alongside SDT’s different
+types of motivation in order to fully understand
+employees’ motivation in the workplace.
+Most importantly, the results highlight that
+there are clear advantages in considering the
+motivational regulations separately rather than
+in composites (e.g., a relative autonomy index,
+or autonomous versus controlled motivation).
+These results align with the conclusions of
+Howard et al. (2020), providing additional
+meta-analytic insights demonstrating that con-
+sidering the regulations separately may not only
+lead to more explained variance, it also allows
+for a more nuanced understanding of the
+implications of motivation on employee func-
+tioning, thus offering more nuanced guidelines
+for interventions.
+First and foremost, it is not advisable to group
+external and introjected regulations together to
+form a construct of controlled motivation, as the
+use of such a composite score masks their dif-
+ferential effects. Non-significant results of
+controlled motivation may be driven by the non-
+significant population correlations of external
+regulation with the various aspects of employee
+well-being, attitudes and behavior; and it may
+also mask the more nuanced and complex find-
+ings of introjected regulation.
+Grouping identified and intrinsic motivation
+into the composite of autonomous motivation
+may be less problematic, as both relate to out-
+comes in the same direction. However, such an
+approach would miss out on the difference in the
+strength of the relations of these two types of
+motivation with employee well-being and
+behavior (e.g., Koestner & Losier, 2002), and
+further prevent research verifying the effects of
+targeted interventions on each type of motiva-
+tion. Future research therefore needs to consider
+the role of each type of motivation. While this
+can be achieved through the use of highly
+complex bi-factor models (Howard et al., 2020),
+this meta-analysis also points to the viability of
+using relative weights analysis as a way to cir-
+cumvent potential issues of multicollinearity
+when bi-factor modeling is not feasible. We do
+not recommend the use of regression analysis as
+the current meta-analytic correlations (available
+upon request) highlighted that multicollinearity
+would lead to unreliable regression coefficients
+when the different types of motivation are
+included simultaneously, leading to suppression
+effects and Heywood cases.
+Contributions to the motivation literature. This
+meta-analysis also amplifies SDT’s contribution
+to the wider literature on (employee) motivation.
+First, the results regarding the associations with
+intrinsic and identified motivation make clear
+there is not necessarily a tradeoff between
+motivating employees to perform well and/or
+sustaining their health-related well-being, as
+suggested by the HR-literature (Van De Voorde
+et al., 2012); enhancing both types of employee
+autonomous motivation is likely to lead to both
+outcomes. SDT’s types of motivation may also
+help explain why focusing on HR-practices that
+increase external regulation (e.g., performance-
+contingent pay; Gagn´ e & Forest, 2008) or
+introjected regulation (e.g. employee of the
+month programs; Johnson & Dickinson, 2010)
+262 Organizational Psychology Review 11(3)
+<<<PAGE=24>>>
+may have no or limited effects on performance
+and raise well-being issues.
+Second, the importance of identified regula-
+tion for employee outcomes is in line with, and
+contributes to the reviving of, research on the
+meaning of work (Allan et al., 2019; Rosso et al.,
+2010). We complement this line of work,
+showing that meaningful work may not only
+relate to well-being (Allan et al., 2019), but
+also—and particularly—contributes to predict-
+ing performance. Moreover, SDT may help to
+solve some issues regarding the conceptualiza-
+tion of “meaning.” When people identify with
+extrinsic reasons to engage in a particular
+behavior, they bring together bothinter-personal
+and intra-personalexperiences into one coherent
+sense of self—and meaning can therefore be
+derived from both other and self-oriented
+experiences (Bailey et al., 2019). SDT further
+specifies identified regulation as an autonomous
+extrinsic type of motivation, which helps us to
+understand why employees may find meaning in
+work because it serves another end (i.e., extrinsic
+motivation), yet experience this type of moti-
+vation as internal (Hackman & Oldham, 1976).
+Our findings indicate that theories that use the
+intrinsic/extrinsic dichotomy are too simplistic
+to capture this important nuance. This shows
+how SDT may help to understand and reconcile
+issues or inconsistencies regarding facets of
+motivation in the broader literature on organi-
+zational psychology.
+The results pertaining to introjected regula-
+tion point at the importance of specifying moti-
+vational constructs. We see at least four reasons
+why introjected regulation has these mixed cor-
+relates. First, introjected regulation includes both
+a focus on avoiding emotions that pose a threat
+to one’s self esteem (e.g., guilt, shame) and
+striving for positive emotions that may boost
+one’s self-esteem (e.g., pride). Our moderation
+analysis could not find any differences in the
+strength of the relations of introjected regulation
+operationalized in different ways—except for
+burnout, which was more strongly associated
+with scales tapping into avoiding negative
+emotions than with an (un)balanced mix of
+approach and avoidance items. However, a true
+comparison with solely approach oriented
+introjected regulation could not be made, as no
+such scales are available within organizational
+psychology. We would encourage future
+research to look further into this issue and inte-
+grate approach/avoidance theories (e.g., Carver,
+2006; Higgins, 2002; Kuhl, 2000) with SDT.
+Such research could allow us to see whether
+initial findings showing that avoidance intro-
+jected regulation is more detrimental than a
+focus on approach introjected regulation (Assor
+et al., 2009) can be replicated and generalized
+across contexts.
+Second, even when focusing on either
+approach or avoidance, measures for introjected
+regulation can be criticized for including an
+amalgam of negative (e.g., guilt and shame) and
+positive (e.g., pride) emotions. Yet, each of
+these emotions represent qualitatively different
+constructs, with external shame and hubristic
+pride for example being more negatively re-
+lated to outcomes than internal shame and au-
+thentic pride (Kim et al., 2011; Tracy & Robins,
+2007). Third, moderating variables may alter
+the implications of these discrete emotions.
+Shame may for example lead employees to
+engage in either OCB or CBW, depending on
+the reparability and injustice of the situation
+(Daniels & Robinson, 2019). Apart from these
+self-relevant emotions, the focus on maintain-
+ing or improving one’s self-esteem included in
+introjected regulation (Leary, 2007) may be a
+fourth aspect, adding ambivalence to intro-
+jected regulation, as a f ocus on self-esteem
+may only lead to negative consequences if it
+pertains to contingent self-esteem (Ferris et al.,
+2009). Future research could further investigate
+whether, and under what circumstances, the
+various aspects inherent in introjected regula-
+tion may associate differently with employee
+outcomes.
+Notably, some SDT-scholars argue that the
+heterogeneity inherent in introjected regulation
+represents the “partially internalized” nature of
+Van den Broeck et al. 263
+<<<PAGE=25>>>
+this type of motivation (Deci & Ryan, 2000).
+Introjected regulation is neither clearly con-
+trolled, nor clearly autonomous, but rather falls
+somewhere in between—and therefore will, by
+definition, result in a mix of desirable and
+undesirable outcomes. Our results pointing at
+the Janus-face of introjected regulation are in
+line with this perspective and expand previous
+results demonstrating that introjected regula-
+tion is equidistant between external and iden-
+tified regulation (Howard et al., 2017), with
+moderately positive factor loadings on a gen-
+eral factor of self-determination (Howard et al.,
+2018). In any case, our results overall indicate
+that managers should withhold from fostering
+employee motivation through introjected regu-
+lation, and focus instead on increasing autono-
+mous types of motivation instead.
+Finally, our results for external regulation
+stand in sharp contrast with studies of extrinsic
+motivation and monetary incentives (Cerasoli
+et al., 2014), and the ubiquitous use of man-
+agement methods that coerce employees into
+behaving in certain ways through the use of
+reinforcements, monitoring, and sanctions. For
+example, the literature within HRM strongly
+supports the effectiveness of monetary-based
+incentives (Shaw & Gupta, 2015), and the
+prevalence of individual reward schemes in
+contemporary organizations likewise assume a
+positive effect on employee outcomes. The lit-
+erature from SDT summarized here provides
+critical nuances to these strongly held beliefs.
+First, our findings indicate that external regu-
+lation, which likely results from striving for
+rewards and avoiding punishments, is far less
+strongly related to performance than the other
+types of motivation. This may be explained by
+previous meta-analytic findings that incentives
+are more strongly related to how much one
+performs (i.e., how much output one generates),
+and less predictive of performance quality (i.e.,
+creativity, quality of the output; Cerasoli et al.,
+2014). Although the current results did not
+allow us to differentiate between these types of
+performance, delivering high quality
+performance is increasingly important in the
+context of work (Carpini et al., 2017). This then
+brings into question the value of motivating
+employees externally. Second, and perhaps
+most notably, HRM and management studies
+typically examine turnover and performance of
+employees following incentivization interven-
+tions, but rarely do they consider the well-being
+implications (Jiang et al., 2015; Shaw & Gupta,
+2015). We show that external regulation is
+likely to have a negative impact on employee
+well-being. Such an effect may well lead to
+further problems over time, including perfor-
+mance issues and turnover, and as such may not
+be as beneficial as is believed. We argue that
+much progress can be made through better
+integration of these literatures, building upon
+the current findings to inform future research.
+Limitations and suggestions for future
+research
+This meta-analysis has some limitations, which
+may also inspire future research to advance the
+study of employee motivation through SDT’s
+multidimensional perspective. First, the quality
+of this meta-analyses is of course based on the
+quality of the primary studies. As the majority
+of research included in this meta-analysis relied
+on cross-sectional correlational survey designs,
+shared method variance and self-report bias
+may have obscured our results (Podsakoff et al.,
+2003). There is a clear need for longitudinal and
+quasi-experimental research that would meet
+more causality criteria so we can improve our
+understanding of how the various types of work
+motivation influence work-related outcomes.
+Second, parts of the literature on SDT’s
+multidimensional view on motivation include
+very few studies. This limited the sample size on
+which some of the effect sizes were based (e.g.,
+relations with CWB, the relations of amotiva-
+tion, moderation analysis) and forced us to
+aggregate several constructs into a broader
+category (e.g., CWB includes withdrawal as well
+as interpersonal deviance) to have sufficient
+264 Organizational Psychology Review 11(3)
+<<<PAGE=26>>>
+sample numbers to run analyses. This may have
+influenced the precision of some of our esti-
+mates. The limited number of available corre-
+lations also prevented us from modeling the
+structural relations among our variables and
+testing research questions pertaining to, for
+example, the relative importance of motivation
+types for various aspects of performance,
+including the quantity and quality of work.
+Answering such questions would be informative
+in understanding the extent to which results
+differ for hedonic (e.g., happiness) versus
+eudemonic (e.g., mindfulness) well-being (Ryan
+et al., 2008).
+The results of our meta-analysis clearly
+demonstrate SDT’s focus on positive outcomes,
+much in line with the 20-year-old criticism that
+SDT does not account for the “dark side” of
+human functioning (Pyszczynski et al., 2000).
+Although scholars have since broadened their
+scope and started to include ill-being (e.g.,
+distress), this criticism is still very applicable to
+the behavioral outcomes studied to date. Future
+research could include more negative beha-
+viors, such as antisocial behaviors (e.g., devi-
+ance, sabotage, theft, cheating; e.g., Tremblay
+et al., 2009) as this would increase our
+understanding of whether externally regulated
+people just “don’t contribute” in organiza-
+tions, as our current results suggest, or whether
+they actively cause trouble (e.g., conflict, cheat-
+ing, etc.).
+We also encourage future research to dis-
+entangle the finding that all types of motiva-
+tion (except external) were important for
+performance. Relations between the types of
+motivation and performance may not be
+straightforward, and might depend on abilities
+(Van Iddekinge et al., 2014), task character-
+istics, and types of performance (Byron &
+Khazanchi, 2012; Cerasoli et al., 2014). Con-
+sequently, it may be that external regulation is
+particularly relevant for task performance on
+simple/boring tasks, while identified regula-
+tion may be more relevant for complex tasks
+that require extended effort, and intrinsic
+motivation more relevant for interesting or
+creative tasks. This would nuance earlier
+findings focusing on performance quantity and
+quality in the context of work (Cerasoli et al.,
+2014) and shed light on which of the types of
+motivation are likely to predict diverse per-
+formance criteria such as proficiency, crea-
+tivity, being a good team player, and adapting
+to rapid changes.
+We would also encourage scholars to move
+beyond the study of SDT’s types of motiva-
+tion in and of itself, and in relation to other
+OB-related constructs, and integrate other mo-
+tivational theories. Previous research in the
+domain of work, for example, have endeavored
+to marry the different types of motivation with
+goal achievement theory. On the one hand, such
+studies show that autonomous motivation is
+related to mastery-approach goals; while con-
+trolled motivation and amotivation relates to
+mastery-avoidance goals and both performance-
+approach and -avoidance goals (Vanthournout
+et al., 2015). On the other hand, intrinsic moti-
+vation and mastery-approach goals also predict
+outcomes such as work effort (Dysvik &
+Kuvaas, 2013). We welcome future research that
+sheds more light on the temporal and synergistic
+effects of SDT’s and other types of motivation in
+order to facilitate a more integrated literature on
+work motivation.
+Relatedly, such studies could also make use
+of profile analysis to see which types of moti-
+vation naturally co-occur with SDT’s types of
+motivation. Previous studies have differentiated
+employees based on profiles characterized by
+different levels of the types of motivation (e.g.,
+Howard et al., 2016; Van den Broeck et al.,
+2013). Whereas these studies adopt a person-
+oriented perspective, our meta-analysis is
+among the first to meta-analytically examine
+the nomological network of each of the various
+types of motivation from a variable centered
+perspective. Our results may therefore help
+profile studies further interpret their results and
+inform the literature about the added value of
+both approaches. Moreover, to shed further
+Van den Broeck et al. 265
+<<<PAGE=27>>>
+light on the specific nature of the types of
+motivation, future research may examine more
+closely the implications of holding various
+types of motivation at the same time by looking
+at their interactions. Previous research indicates
+that the specific combination of high autono-
+mous and low controlled motivation is associ-
+ated with high levels of performance; while a
+combination of low autonomous and high
+controlled motivation is associated most
+strongly with distress (Grant et al., 2011;
+Strauss et al., 2017). As our results provided
+evidence for differential effects among the
+autonomous as well as the controlled motiva-
+tion types, a nuanced perspective examining the
+implications of interactions between the types
+of motivation may provide additional insights.
+Practical implications
+The results of this meta-analysis show that
+when organizations want to achieve employee
+well-being, positive attitudes, and performance,
+they should shy away from trying to motivate
+employees to work through incentives and
+sanctions; external regulation was shown to be
+the least potent form of motivation to regulate
+performance, and was also associated with high
+well-being costs. Instead, organizations should
+nurture intrinsic motivation, perhaps through
+motivating, job design (Van den Broeck et al.,
+2016), or autonomy support from colleagues
+(Jungert et al., 2018) or supervisors (Slemp
+et al., 2018), as intrinsic motivation is most
+strongly associated with employee optimal
+functioning. However, organizations are not
+limited to solely promoting intrinsic motiva-
+tion. Though intrinsic motivation is the best
+predictor for most outcomes, when it comes to
+work performance and OCB, identified regu-
+lation is potentially more important. This means
+that organizations should not only think about
+how to make jobs more fun and interesting, but
+should also concentrate on creating meaning
+by, for example, increasing the perceived
+impact of one’s work on beneficiaries (Grant,
+2012). Leaders can also articulate a compelling
+vision that speaks to the values of their
+employees, which is the hallmark of transfor-
+mational and charismatic leadership research
+(Bass & Avolio, 1995). All in all, our results
+highlight the importance of differentiating
+between the various types of motivation, above
+a n db e y o n dt h e i rg e n e r a ld e g r e eo fs e l f -
+determination or categorization into autono-
+mous and controlled motivation. Organizations
+can therefore strategically decide which type of
+motivation they want to foster in order to
+achieve the outcomes they value the most.
+Conclusion
+Self-determination theory has become a popular
+theory within organizational psychology (see
+also Deci et al., 2017; Van den Broeck et al.,
+2016). Taking stock of this growing body of
+literature, this meta-analysis revealed that dif-
+ferentiating between each of the various types of
+motivation is valuable for understanding
+employee well-being, attitudes, and behavior.
+The available empirical evidence also provided
+additional detail to SDT’s overall theoretical
+statement that the correlates of the different
+types of motivation become more and more
+positive as autonomy increases (Deci & Ryan,
+2000). It seems that, in some cases, identified
+regulation may be more important than intrinsic
+motivation. Introjected regulation is an ambiva-
+lent type of motivation, while external regulation
+has small positive associations with performance
+and negative relations with well-being. Our
+results show that amotivation should be consid-
+ered too in SDT research, particularly because it
+is strongly associated with distress and low
+performance. Given the promising results
+regarding the incremental and discriminant
+validity of SDT’s various types of motivation,
+we encourage scholars to further invest in
+examining their differential effects in more
+detail. Such endeavors should, however, make
+use of more nuanced analysis such as RWA, and
+rely on more ambitious research methods so that
+266 Organizational Psychology Review 11(3)
+<<<PAGE=28>>>
+firmer conclusions can be drawn on the impor-
+tance of the quality of employee motivation.
+Acknowledgements
+We would like to dedicate this manuscript to Willy
+Lens and thank Filip Germeys, Joseph Carpini, and
+Richard Ryan for their comments on a previous ver-
+sion of this manuscript.
+Funding
+The author(s) disclosed receipt of the following
+financial support for the research, authorship, and/
+or publication of this article: This research was
+funded by grant support from KU Leuven (VKH-
+C9278-StG/14/035) and FWO (V402915N and
+V404216N).
+ORCID iD
+Anja Van den Broeck https://orcid.org/0000-
+0002-5896-9506
+Supplemental material
+Supplemental material for this article is available
+online.
+References
+Aguinis, H., Sturman, M. C., & Pierce, C. A. (2008).
+Comparison of three meta-analytic procedures for
+estimating moderating effects of categorical vari-
+ables. Organizational Research Methods, 11(1),
+9–34. https://doi.org/10.1177/10944281062
+92896
+Allan, B. A., Batz-Barbarich, C., Sterling, H. M., &
+Tay, L. (2019). Outcomes of meaningful work: A
+meta-analysis. Journal of Management Studies,
+56(3), 500–528. https://doi.org/10.1111/joms.
+12406
+Assor, A., Vansteenkiste, M., & Kaplan, A. (2009).
+Identified versus introjected approach and
+introjected avoidance m otivations in school
+and in sports: The limited benefits of self-worth
+strivings. Journal of Educational Psychology ,
+101(2), 482–497.
+Bailey, C., Yeoman, R., Madden, A., Thompson, M.,
+& Kerridge, G. (2019). A review of the empirical
+literature on meaningful work: Progress and
+research agenda. Human Resource Development
+Review, 18(1), 83–113.
+B a s s ,B .M . ,&A v o l i o ,B .J .( 1 9 9 5 ) .Multifactor
+leadership questionnaire: Leader form, rater
+form, and scoring key for MLQ (Form 5x-Short).
+Mind Garden.
+Begg, C. B., & Mazumdar, M. (1994). Operating
+characteristics of a rank correlation test for pub-
+lication bias. Biometrics, 1088–1101.
+Blais, M. R., Lachance, L., Vallerand, R. J., Briere, N.
+M., & Riddle, A. S. (1993). The work motivation
+inventory. Revue Quebecoise de Psychologie.
+Buchtel, E. E., Ng, L. C. Y., Norenzayan, A., Heine,
+S. J., Biesanz, J. C., Chen, S. X., Bond, M. H.,
+Peng, Q., & Su, Y. (2018). A sense of obligation:
+Cultural differences in the experience of obliga-
+tion. Personality and Social Psychology Bulletin,
+44(11), 1545–1566. https://doi.org/10.1177/
+0146167218769610
+Byron, K., & Khazanchi, S. (2012). Rewards and
+creative performance: A meta-analytic test of the-
+oretically derived hypotheses. Psychological Bul-
+letin, 138(4), 809–830. https://doi.org/10.1037/
+a0027652
+Carpini, J. A., Parker, S. K., & Griffin, M. A. (2017).
+A look back and a leap forward: A review and
+synthesis of the individual work performance lit-
+erature. Academy of Management Annals, 11(2),
+825–885. https://doi.org/10.5465/annals.2015.
+0151
+Carver, C. S. (2006). Approach, avoidance, and the
+self-regulation of affect and action. Motivation
+and Emotion, 30(2), 105–110.
+Cerasoli, C. P., Nicklin, J. M., & Ford, M. T. (2014).
+Intrinsic motivation and extrinsic incentives
+jointly predict performance: A 40-year meta-
+analysis. Psychological Bulletin, 140 (4),
+980–1008. https://doi.org/10.1037/a0035661
+Chemolli, E., & Gagn´e, M. (2014). Evidence against
+the continuum structure underlying motivation
+measures derived from self-determination theory.
+Psychological Assessment, 26(2), 575–585.
+https://doi.org/10.1037/a0036212
+Chirkov, V., Ryan, R. M., Kim, Y., & Kaplan, U.
+(2003). Differentiating autonomy from individu-
+alism and independence : A self-determination
+Van den Broeck et al. 267
+<<<PAGE=29>>>
+theory perspective on internalization of cultural
+orientations and well-being. Journal of Personal-
+ity and Social Psychology, 84(1), 97–110.
+Cumming, G., & Finch, S. (2005). Inference by eye
+confidence intervals and how to read pictures of
+data. American Psychologist, 60(2), 170–180.
+Daniels, M. A., & Robinson, S. L. (2019). The shame
+of it all: A review of shame in organizational life.
+Journal of Management , 45(6), 2448–2473.
+https://doi.org/10.1177/0149206318817604
+De Witte, H., & Van den Broeck, A. (2011). Arbeid
+in het nieuwe millenium: Van verplichting tot
+ontplooiing? In K. Abts, K. Dobbelaere, & L.
+Voy´e (Eds.), Nieuwe tijden, nieuwe mensen. Bel-
+gen over arbeid, gezin, ethiek, religie en politiek
+(pp. 71–104). Lannoo. ISBN: 9789020996739.
+Open Access.
+Deci, E. L. (1971). Effects of externally mediated
+rewards on intrinsic motivation. Journal of Per-
+sonality and Social Psychology, 18(1), 105–115.
+https://doi.org/10.1037/h0030644
+Deci, E. L., Koestner, R., & Ryan, R. M. (1999). A
+meta-analytic review of experiments examining
+the effects of extrinsic rewards on intrinsic moti-
+vation. Psychological Bulletin, 125(6), 627–668.
+https://doi.org/10.1037/0033-2909.125.6.627
+Deci, E. L., Olafsen, A. H., & Ryan, R. M. (2017).
+Self-determination theory in work organizations:
+The state of a science. Annual Review of Organi-
+zational Psychology and Organizational Beha-
+vior, 4, 19–43.
+Deci, E. L., & Ryan, R. M. (1985). The general caus-
+ality orientations scale: Self-determination in per-
+sonality. Journal of Research in Personality ,
+19(2), 109–134. https://doi.org/10.1016/0092-
+6566(85)90023-6
+Deci, E. L., & Ryan, R. M. (2000). The “what” and
+“why” of goal pursuits: Human needs and the
+self-determination of be havior. Psychological
+Inquiry, 11(4), 227–268. https://doi.org/10.1207/
+S15327965PLI1104_01
+Demerouti, E., Bakker, A. B., Nachreiner, F., &
+Schaufeli, W. B. (2001). The job demands-
+resources model of burnout. Journal of Applied
+Psychology, 86(3), 499–512. https://doi.org/10.
+1108/02683940710733115
+Dysvik, A., & Kuvaas, B. (2013). Intrinsic and
+extrinsic motivation as predictors of work effort:
+The moderating role of achievement goals. Brit-
+ish Journal of Social Psychology,52(3), 412–430.
+https://doi.org/10.1111/j.2044-8309.2011.02090.x
+Egger, M., Smith, G., Schneider, M., & Minder, C.
+(1997). Bias in meta-analysis detected by a sim-
+ple, graphical test. BMJ: British Medical Journal,
+315(7109), 629–634.
+Fernet, C. (2011). Development and validation of the
+work role motivation scale for school principals
+(WRMS-SP). Educational Administration Quar-
+terly, 47(2), 307–331. https://doi.org/10.1177/
+0013161X10385108
+Fernet, C., Senecal, C., Guay, F., Marsh, H., & Dow-
+son, M. (2008). The work tasks motivation scale
+for teachers (WTMST). Journal of Career Assess-
+ment, 16(2), 256–279. https://d oi.org/10.1177/
+1069072707305764
+Ferris, D. L., Brown, D. J., Lian, H., & Keeping, L.
+M. (2009). When does self-esteem relate to devi-
+ant behavior? The role of contingencies of self-
+worth. Journal of Applied Psychology, 94(5),
+1345–1353. https://doi.org/10.1037/a0016115
+Fowler, S. (2014). Why motivating people doesn’t
+work ... and what does: the new science of lead-
+ing, energizing, and engaging(Vol. 36, No. 12).
+Berrett-Koehler Publishers.
+Gagn´e, M., & Deci, E. L. (2005). Self-determination
+theory and work motivation. Journal of Organiza-
+tional Behavior, 26(4), 331–362. https://doi.org/
+10.1002/job.322
+Gagn´e, M., & Forest, J. (2008). The study of com-
+pensation systems through the lens of self-
+determination theory: Reconciling 35 years of
+debate. Canadian Psychology/Psychologie Cana-
+dienne, 49(3), 225–232. https://doi.org/10.1037/
+a0012757
+Gagn´e ,M . ,F o r e s t ,J . ,G i l b e r t ,M . - H . ,A u b ´e, C.,
+Morin, E., & Malorni, A. (2010). The motivation
+at work scale: Validation evidence in two lan-
+guages. Educational and Psychological Measure-
+ment, 70(4), 628–646. https://doi.org/10.1177/
+0013164409355698
+Gagn´e, M., Forest, J., Vansteenkiste, M., Crevier-
+Braud, L., van den Broeck, A., Aspeli, A. K.,
+268 Organizational Psychology Review 11(3)
+<<<PAGE=30>>>
+Bellerose, J., Benabou, C., Chemolli, E., Gu¨ntert,
+S. T., Halvari, H., Indiyastuti, D. L., Johnson, P. A.,
+Molstad, M. H., Naudin, M., Ndao, A., Olafsen, A.
+H., Roussel, P., Wang, Z., & Westbye, C. (2015).
+The multidimensional work motivation scale:
+Validation evidence in seven languages and nine
+countries. European Journal of Work and Organi-
+zational Psychology, 24(2), 1–19. https://doi.org/
+10.1080/1359432X.2013.877892
+Gerhart, B., & Fang, M. (2015). Pay, intrinsic moti-
+vation, extrinsic motivation, performance, and
+creativity in the workplace: Revisiting long-held
+beliefs. Annual Review of Organizational Psy-
+chology and Organizational Behavior , 2(1),
+489–521. https://doi.org/10.1146/annurev-orgp
+sych-032414-111418
+Geyskens, I., Krishnan, R., Steenkamp, J.-B. E. M.,
+& Cunha, P. V. (2009). A review and evaluation
+of meta-analysis practices in management
+research. Journal of Management , 35(2),
+393–419. https://doi.org /10.1177/01492063083
+28501
+Grant, A. M. (2012). Leading with meaning: Bene-
+ficiary contact, prosocial impact, and the perfor-
+mance effects of transf ormational leadership.
+Academy of Management Journal , 55(2),
+458–476. https://doi.org/10.5465/amj.2010.0588
+Grant, A. M., Nurmohamed, S., Ashford, S. J., &
+Dekas, K. (2011). The performance implications
+of ambivalent initiative: The interplay of autono-
+mous and controlled motivations. Organizational
+Behavior and Human Decision Processes ,
+116 (2), 241–251. https://doi.org/10.1016/j.
+obhdp.2011.03.004
+Green-Demers, I., Legault, L., Pelletier, D., & Pelle-
+tier, L. G. (2008). Factorial invariance of the Aca-
+demic Amotivation Inv entory (AAI) across
+gender and grade in a sample of Canadian high
+school students. Educational and Psychological
+Measurement, 68, 862–880.
+Hackman, J. R., & Oldham, G. R. (1976). Motivation
+through the design of work: Test of a theory.
+Organizational Behavior and Human Perfor-
+mance, 16, 250–279.
+Higgins, E. T. (2002). How self-regulation creates
+distinct values: The case of promotion and
+prevention decision making. Journal of Con-
+sumer Psychology, 12(3), 177–191. https://doi.
+org/10.1207/153276602760335031
+Howard, J. L., Gagn´e, M., & Bureau, J. S. (2017).
+Testing a continuum structure of self-determined
+motivation: A meta-analysis. Psychological Bul-
+letin, 143(12), 1346–1377. https://doi.org/10.103
+7/bul0000125
+H o w a r d ,J .L . ,G a g n ´e ,M . ,M o r i n ,A .J .S .S . ,&
+Forest, J. (2018). Using bifactor exploratory
+structural equation modeling to test for a conti-
+nuum structure of motivation. Journal of Man-
+agement, 44(7), 2638–2664. https://doi.org/10.
+1177/0149206316645653
+Howard, J. L., Gagn´e, M., Morin, A. J. S., & Van den
+Broeck, A. (2016). Motivation profiles at work: A
+self-determination theory approach. Journal of
+Vocational Behavior, 95–96, 74–89. https://doi.
+org/10.1016/j.jvb.2016.07.004
+Howard, J. L., Gagn´e, M., & Morin, A. J. S (2020).
+Putting the pieces together: Reviewing the struc-
+tural conceptualization of motivation within
+SDT. Motivation and Emotion , 44, 846–861.
+https://doi.org/10.1007/s11031-020-09838-2
+Hunter, J. E., & Schmidt, F. L. (2004). Methods of
+meta-analysis: Correc ting error and bias in
+research findings(2nd ed.). Sage Publications.
+Ilardi, B. C., Leone, D., Kasser, T., & Ryan, R. M.
+(1993). Employee and supervisor ratings of moti-
+vation: Main effects and discrepancies associated
+with job satisfaction and adjustment in a factory
+setting. Journal of Applied Social Psychology,
+23(21), 1789–1805.
+Iyengar, S. S., & Lepper, M. R. (1999). Rethinking
+the value of choice: A cultural perspective on
+intrinsic motivation. Journal of Personality and
+Social Psychology, 76(3), 349–366.
+Jiang, K., Hu, J., Liu, S., & Lepak, D. P. (2015).
+Understanding employees’ perceptions of human
+resource practices: Effects of demographic dis-
+similarity to managers and coworkers. Human
+Resource Management , 56(1), 69–91. https://
+doi.org/10.1002/hrm.21771
+Johnson, D. A., & Dickinson, A. M. (2010).
+Employee-of-the-month programs: Do they really
+work? Journal of Organizational Behavior
+Van den Broeck et al. 269
+<<<PAGE=31>>>
+Management, 30(4), 308–324. https://doi.org/10.
+1080/01608061.2010.520144
+Jungert, T., Van den Broeck, A., Schreurs, B., &
+Osterman, U. (2018). How colleagues can support
+each other’s needs and motivation: An interven-
+tion on employee work motivation. Applied Psy-
+chology , 67(1), 3–29. https://doi.org/10.1111/
+apps.12110
+Kanfer, R., & Chen, G. (2016). Motivation in orga-
+nizational behavior: History, advances and pros-
+pects. Organizational Behavior and Human
+Decision Processes, 136, 6–19. https://doi.org/
+10.1016/j.obhdp.2016.06.002
+Kanfer, R., Frese, M., & Johnson, R. E. (2017). Moti-
+vation related to work: A century of progress
+journal of applied psychology.Journal of Applied
+Psychology, 102(3), 338–355. https://doi.org/10.
+1037/apl0000133
+Kim, S., Thibodeau, R., & Jorgensen, R. S. (2011).
+Shame, guilt, and depressive symptoms: A meta-
+analytic review. Psychological Bulletin, 137(1),
+68–96. https://doi.org/10.1037/a0021466
+Koestner, R., & Losier, G. F. (2002). Distinguishing
+three ways of being highly motivated: A closer
+look at introjection, identification, and intrinsic
+motivation. In E. L. Deci & R. M. Ryan (Eds.),
+Handbook of self-determination research.U n i -
+versity of Rochester Press, 101–121.
+Kristof-Brown, A. L., Zimmerman, R. D., & John-
+son, E. C. (2005). Consequences of individuals’
+fit at work: A meta-analysis of person-job,
+person-organization, person-group, and person-
+supervisor fit. Personnel Psychology , 58(2),
+281–342. https://doi.org/10.1111/j.1744-6570.
+2005.00672.x
+Kruglanski, A., Shah, J. Y., Fishbach, A., Friedman,
+R., Chun, W. Y., & Sleeth-Keppler, D. (2002). A
+theory of goal systems.Advances in Experimental
+Social Psychology, 34, 331–378. https://doi.org/
+10.2307/2092805
+Kuhl, J. (2000). A functional-design approach to
+motivation and self-regulation: The dynamics of
+personality systems interactions. In M. Boekaerts,
+P. R. Pintrich, & M. Zeidner (Eds.), Handbook of
+self-regulation (pp. 111–169). Academic Press.
+Leary, M. R. (2007). Motivational and emotional
+aspects of the self. Annual Review of Psychology,
+58(1), 317–344. https://doi.org/10.1146/annurev.
+psych.58.110405.085658
+Locke, E. A., & Latham, G. P. (2019). The develop-
+ment of goal setting theory: A half century retro-
+spective. Motivation Science , 5(2), 93–105.
+https://doi.org/10.1037/mot0000127
+McAuley, L., Pham, B., Tugwell, P., & Moher, D.
+(2000). Does the inclusion of grey literature influ-
+ence estimates of intervention effectiveness
+reported in meta-analyses? Lancet, 356(9237),
+1228–1231. https://doi.org/10.1016/S0140-673
+6(00)02786-0
+McHugh, M. L. (2012). Interrater reliability: The
+kappa statistic. Biochemia Medica , 276–282.
+https://doi.org/10.11613/BM.2012.031
+Meyer, J. P., Becker, T. E., & Vandenberghe, C.
+(2004). Employee commitment and motivation:
+A conceptual analysis and integrative model.
+Journal of Applied Psychology, 89(6), 991–1007.
+Ng, J. Y. Y., Ntoumanis, N., Thogersen-Ntoumani, C.,
+Deci, E. L., Ryan, R. M., Duda, J. L., & Williams,
+G. C. (2012). Self-determination theory applied to
+health contexts: A meta-analysis. Perspectives on
+Psychological Science, 7(4), 325–340. https://doi.
+org/10.1177/1745691612447309
+Pelletier, L. G., Tuson, K. M., Fortier, M. S., Valler-
+and, R. J., Bri´ere, N. M., & Blais, M. R. (1995).
+Toward a new measure of intrinsic motivation,
+extrinsic motivation, and amotivation in sports:
+The sport motivation scale (SMS). Journal of
+Sport and Exercise Psychology , 17(1), 35–53.
+https://doi.org/10.1123/jsep.17.1.35
+Pinder, C. (2008). Work motivation in organizational
+behavior (2nd ed.). Psychology press.
+Pink, D. H. (2009). Drive: The surprising truth about
+what motivates us. Riverhead Books.
+Podsakoff, P., MacKenzie, S., Lee, J., & Podsakoff,
+N. (2003). Common method biases in behavioral
+research: A critical review of the literature and
+recommended remedies. Journal of Applied Psy-
+chology, 88(5), 879–903.
+Pyszczynski, T., Greenberg, J., & Solomon, S.
+(2000). Toward a dialectical analysis of growth
+270 Organizational Psychology Review 11(3)
+<<<PAGE=32>>>
+and defensive motives. Psychological Inquiry ,
+11(4), 301–305.
+Rosenthal, R. (1979). The file drawer problem and
+tolerance for null results. Psychological Bulletin,
+86(3), 638–641. https://doi.org/10.1037/0033-
+2909.86.3.638
+Rosso, B. D., Dekas, K. H., & Wrzesniewski, A.
+(2010). On the meaning of work: A theoretical
+integration and review. Research in Organiza-
+tional Behavior, 30, 91–127. https://doi.org/10.
+1016/j.riob.2010.09.001
+Rubin, M. (2017). When does HARKing hurt? Iden-
+tifying when different types of undisclosed post
+hoc hypothesizing harm s cientific progress.
+Review of General Psychology, 21(4), 308–320.
+https://doi.org/10.1037/gpr0000128
+Ryan, R. M., & Connell, J. P. (1989). Perceived locus
+of causality and internalization: Examining
+reasons for acting in two domains. Journal of
+Personality and Social Psychology , 57(5),
+749–761. http://www.ncbi.nlm.nih.gov/pubmed/
+2810024
+Ryan, R. M., & Deci, E. L. (2017).Self-determination
+theory: Basic psychological needs in motivation,
+development, and wellness.G u i l f o r dP r e s s .
+Ryan, R. M., Huta, V., & Deci, E. L. (2008). Living
+well: A self-determination theory perspective on
+eudaimonia. Journal of Happiness Studies, 9(1),
+139–170. https://doi.org/10.1007/s10902-006-
+9023-4
+Sadler, P., & Woody, E. (2003). Is who you are
+who you’re talking to? Interpersonal style and
+complementarity in mixed-sex interactions.
+Journal of Personality and Social Psychology,
+84(1), 80–96. https://doi.org/10.1037/0022-3
+514.84.1.80
+Schmidt, F. L., & Hunter, J. E. (2015). Methods of
+meta-analysis: Correc ting error and bias in
+research findings. SAGE.
+Shaw, J. D., & Gupta, N. (2015). Let the evidence
+speak again! Financial incentives are more effec-
+tive than we thought. Human Resource Manage-
+ment Journal, 25(3), 281–293. https://doi.org/10.
+1111/1748-8583.12080
+Sheldon, K. M. (2011). Integrating behavioral-
+motive and experiential-requirement perspectives
+on psychological needs: A two process model.
+Psychological Review, 118(4), 552–569. https://
+doi.org/10.1037/a0024758
+Sheldon, K. M., & Schu¨ler, J. (2011). Wanting, hav-
+ing, and needing: Integrating motive disposition
+theory and self-determination theory. Journal of
+Personality and Social Psychology , 101 (5),
+1106–1123. https://doi.org/10.1037/a0024952
+Sheldon, K. M., Turban, D. B., Brown, K. G., Bar-
+rick, M. R., & Judge, T. A. (2003). Applying self-
+determination theory to organizational research.
+In J. J. Martocchio & G. R. Ferris, Research in
+Personnel and Human Resources Management
+(Vol. 22, pp. 357–393). Emerald Group Publish-
+ing Limited. https://doi.o rg/10.1016/S0742-73
+01(03)22008-9
+Slemp, G. R., Field, J. G., & Cho, A. S. H. (2020). A
+meta-analysis of autonomous and controlled
+forms of teacher motivation. Journal of Voca-
+tional Behavior , 121(October 2019), 103459.
+https://doi.org/10.1016/j.jvb.2020.103459
+Slemp, G. R., Kern, M. L., Patrick, K. J., & Ryan, R.
+M. (2018). Leader autonomy support in the work-
+place: A meta-analytic review. Motivation and
+Emotion , 42(5), 706–724. https://doi.org/10.
+1007/s11031-018-9698-y
+Smokrovic´, E., ˇZvanut, M. F., Bajan, A., Radic´, R.,
+& ˇZvanut, B. (2019). The effect of job satisfac-
+tion, absenteeism, and personal motivation on job
+quitting: A survey of Croatian nurses. Journal of
+East European Management Studies , 24(3),
+398–422. https://doi.org/10.5771/0949-6181-
+2019-3-398
+S t r a u s s ,K . ,P a r k e r ,S .K . ,&S h e a ,D .O .( 2 0 1 7 ) .
+When does proactivity have a cost? Motivation
+at work moderates the effects of proactive work
+behavior on employee job strain. Journal of
+Vocational Behavior , 100, 15–26. https://doi.
+org/10.1016/j.jvb.2017.02.001
+Tonidandel, S., & LeBreton, J. M. (2015). RWA
+web: A free, comprehensive, web-based, and
+user-friendly tool for relative weight analyses.
+Journal of Business and Psychology , 30(2),
+207–216. https://doi.org/10.1007/s10869-014-93
+51-z
+Van den Broeck et al. 271
+<<<PAGE=33>>>
+T´oth-Kir´aly, I., Morin, A. J. S., B }othe, B., Rig´o, A.,
+& Orosz, G. (2020). Toward an improved under-
+standing of work motivation profiles. Applied
+Psychology, 0(0), 1–32. https://doi.org/10.1111/
+apps.12256
+Tracy, J. L., & Robins, R. W. (2007). Emerging
+insights into the nature and function of pride.
+Current Directions in Psychological Science ,
+16(3), 147–150. https://doi.org/10.1111/j.1467-
+8721.2007.00493.x
+Tremblay, M. A., Blanchard, C. M., Taylor, S., Pel-
+letier, L. G., & Villeneuve, M. (2009). Work
+extrinsic and intrinsic motivation scale: Its value
+for organizational psychology research. Cana-
+dian Journal of Behavioural Science , 41(4),
+213–226. https://doi.org/10.1037/a0015167
+V a nA e r t ,R . ,W i c h e r t s ,J . ,V a nA s s e n ,M . ,&
+Macleod, M. (2019). Publication bias examined
+in meta-analyses from psychology and medicine:
+A meta-meta-analysis. Plos One, 14(4), 0215052.
+van Beek, I., Hu, Q., Schaufeli, W. B., Taris, T. W., &
+Schreurs, B. H. J. (2012). For fun, love, or money:
+What drives workaholic, engaged, and burned-out
+employees at work?Applied Psychology: An Inter-
+national Review, 61(1), 30–55. https://doi.org/10.
+1111/j.1464-0597.2011.00454.x
+van Beek, I., Taris, T. W., & Schaufeli, W. B. (2011).
+Workaholic and work engaged employees: Dead
+ringers or worlds apart? Journal of Occupational
+Health Psychology, 16(4), 468–482. https://doi.
+org/10.1037/a0024392
+Van De Voorde, K., Paauwe, J., & Van Veldhoven,
+M. (2012). Employee well-being and the HRM-
+organizational performance relationship: A review
+of quantitative studies. International Journal of
+Management Reviews, 14(4), 391–407. https://
+doi.org/10.1111/j.1468-2370.2011.00322.x
+Van den Broeck, A., Carpini, J., & Diefendorff, J.
+(2019). Work motivation: Where do the dif-
+ferent perspectives lead us. In R. Ryan (Ed.),
+The Oxford handbook of human motivation .
+John Wiley & Sons.
+Van den Broeck, A., Ferris, D. L., Chang, C.-H., &
+Rosen, C. C. (2016). A review of self-determination
+theory’s basic psychological needs at work.Journal
+of Management, 42(5), 1195–1229. https://doi.org/
+10.1177/0149206316632058
+Van den Broeck, A., Lens, W., De Witte, H., & Van
+Coillie, H. (2013). Unraveling the importance
+of the quantity and the quality of workers’
+motivation for well-bein g: A person-centered
+perspective. Journal of Vocational Behavior ,
+82(1), 69–78. https://doi.org/10.1016/j.jvb.2012.
+11.005
+Van den Broeck, A., Schreurs, B., De Witte, H.,
+Vansteenkiste, M., Germeys, F., & Schaufeli,
+W. (2011). Understanding workaholics’ motiva-
+tions: A self-determination perspective. Applied
+Psychology: An International Review , 60(4),
+600–621. https://doi.org/10.1111/j.1464-0597.
+2011.00449.x
+Van Iddekinge, C. H., Aguinis, H., Mackey, J. D., &
+Deortentiis, P. S. (2014). A meta-analysis of
+the relative and interactive effects of ability
+and motivation on performance. Journal of
+Management , 44(1), 249–279. file:///C:/Users/
+Anthony/Zotero/storage/8BTHMBGT/01492063
+17702220.html
+Vanthournout, G., Kyndt, E., Gijbels, D., & Van den
+Bossche, P. (2015). Understanding the direct and
+indirect relations between motivation to partici-
+pate, goal orientation and the use of self-
+regulation strategies during a formal training.
+Zeitschrift Fu¨r Erziehungswissenschaft , 18(S1),
+89–106. https://doi.or g/10.1007/s11618-014-
+0601-7
+Yu, S., Levesque-Bristol, C., & , & Maeda, Y.
+(2018). General need for autonomy and subjec-
+tive well-being: A meta-analysis of studies in the
+US and East Asia. Journal of Happiness Studies,
+19(6), 1863–1882. https://doi.org/10.1007/
+s10902-017-9898-2
+Author biographies
+Anja Van den Broeckis an associate professor
+of work and organization studies at KU Leuven,
+Belgium. Her research goal is to examine how,
+and under which circumstances individuals
+may thrive at work. In her research, she
+272 Organizational Psychology Review 11(3)
+<<<PAGE=34>>>
+unravels the interplay between job design,
+well-being and motivation.
+Joshua L. Howardis an assistant professor at
+the Monash Business School, Department of
+Management, Monash University. His main
+research goal centers around understanding
+work motivation and he wants to innovate this
+field through conducting meta-analyses and
+using advanced psychometrics.
+Yves Van Vaerenberghis an associate profes-
+sor of marketing at the department of market-
+ing, KU Leuven in Belgium. His research
+interests include mainly service issues, such
+as service failures, service recovery, service
+innovations, and meta-analysis. He published
+in Journal of the Academy of Marketing Sci-
+ence, Journal of Service Research ,a m o n g
+others.
+Hannes Leroyis an Associate Professor at Rot-
+terdam School of Management, Erasmus Uni-
+versity. His research interests include the study
+of authenticity and its value to organizations,
+especially its leadership implications. He holds
+a PhD from the University of Leuven in
+Belgium.
+Maryl`ene Gagn´e (PhD University of Roche-
+ster) is Professor of Organizational Behavior
+at the Future of Work Institute, Curtin Univer-
+sity in Perth Australia. Her research examines
+how job design, management, and compensa-
+tion affect people’s motivational orientations
+toward their work. She also examines the con-
+sequences of these orientations for individual
+and organizational performance and for indi-
+vidual mental health.
+Van den Broeck et al. 273

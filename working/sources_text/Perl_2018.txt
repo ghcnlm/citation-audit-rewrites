@@ -1,0 +1,1006 @@
+<<<PAGE=1>>>
+Vol.:(0123456789)
+Policy Sciences (2018) 51:581–600
+https://doi.org/10.1007/s11077-018-9334-4
+1 3
+DISCUSSION AND COMMENTARY
+Policy‑making and truthiness: Can existing policy models 
+cope with politicized evidence and willful ignorance 
+in a “post‑fact” world?
+Anthony Perl1 · Michael Howlett2 · M. Ramesh3
+Published online: 18 September 2018 
+© Springer Science+Business Media, LLC, part of Springer Nature 2018
+Abstract
+From “alternative facts” to “fake news,” in recent years the influence of misinformation 
+on political life has become amplified in unprecedented ways through electronic commu -
+nications and social media. While misinformation and spin are age-old tactics in policy 
+making, and poor information and poorly informed opinion a constant challenge for policy 
+analysts, both the volume of erroneous evidence and the difficulties encountered in dif -
+ferentiating subjectively constructed opinion from objectively verified policy inputs have 
+increased significantly. The resulting amalgamation of unsubstantiated and verifiable data 
+and well and poorly informed opinion raises many questions for a policy science which 
+emerged in an earlier, less problematic era. This article examines these developments and 
+their provenance and asks whether, and how, existing policy making models and practices 
+developed and advocated during an earlier era of a sharper duality between fact and fiction 
+have grappled with the new world of “truthiness,” and whether these models require seri -
+ous revision in light of the impact of social media and other forces affecting contemporary 
+policy discourses and processes.
+Keywords False news · Alternative facts · Truthiness · Policy theory · Advocacy coalition 
+framework · Multiple streams framework · Policy analysis · Policy science
+Introduction: fake news, alternate facts and the assumptions 
+of the policy sciences
+It has been an unquestioned axiom over the history of the policy sciences that the purpose 
+of policy studies and analyses is to improve policy-making by developing policy options 
+based on the articulation of realistic solutions to carefully defined problems (Lasswell 
+ * Michael Howlett 
+ howlett@sfu.ca
+1 Urban Studies and Department of Political Science, Simon Fraser University, Vancouver, BC, 
+Canada
+2 Department of Political Science, Simon Fraser University, Vancouver, BC, Canada
+3 Lee Kuan Yew School of Public Policy, National University of Singapore, Singapore, Singapore
+<<<PAGE=2>>>
+582 Policy Sciences (2018) 51:581–600
+1 3
+1970, 1971). While a perfect match is not always possible and governments can and do 
+often under- or over-react to problems and issues which may be better or less well-defined 
+(Maor 2012, 2014, 2015), the predominant idea motivating the policy sciences is that some 
+efforts at calibrating government efforts and problem severity should be the aim of pol-
+icy analysis and that a better policy is one which embodies this balance. This view has a 
+long history in the policy sciences, going back to the pragmatics of Harold Lasswell in his 
+early work on the subject (Lasswell and Lerner 1951) and has been reiterated most recently 
+in the manifestation of much the same worldview in the many writings of the evidence-
+based and evidence-informed policy movements (Bhatta 2002; Packwood 2002; Sanderson 
+2002).
+In recent years, however, a concern has arisen that this link between the meta-rationale 
+for policy analysis and the actual workings of the policy process may have been disrupted, 
+if not severed, by the well-publicized growth of disinformation campaigns, “alternate” 
+alternative facts and the willful desire of many politicians and members of the public to 
+avoid recognizing and engaging with real and emerging problems such as climate change 
+(Kakutani 2018; McIntyre 2018; Kavanaugh and Rich 2018; Stoker 2018; Southwell et al 
+2018). Policy analysis and policy-making, it could be argued, have been impaired by this 
+descent from the realm of truth and knowledge into, and beyond, what the satirist Ste-
+phen Colbert derisively termed the growth of “truthiness,” that is opinion-driven selective 
+provision of information or, worse, reliance upon intentionally false data and the alternate 
+realities of conspiracy theory-driven worldviews and judgments (Dossey 2014; Proctor and 
+Schiebinger 2008; Warnier 2013).
+While conflict, misinformation and spin have been perennial tactics in policy making, 
+the increase in recent years of both the volume of erroneous evidence and the increasing 
+challenge of differentiating subjectively constructed phenomena from objectively verified 
+policy inputs have increasingly raised such fears (Macafee 2013; Hong and Nadler 2016). 
+The explosive growth and pervasive rise of social media and internet journalism as key 
+sources of information in many countries, in particular, have been singled out has as force 
+multipliers for these phenomena, often augmenting them in a malicious compilation of 
+deliberate misinformation, lies and misdirection (Theocharis and van Deth 2018; Green-
+wood et  al. 2016). In a dangerous brew the endogenous propagation of alternative facts 
+can overlap with, and often amplify, the effect of exogenous campaigns to manufacture 
+misinformation, paradoxically increasing the confidence of the uninformed in the accuracy 
+of their views (Benegal 2018; Johnson and Kaye 2016; Kruger and Dunning 1999; Motta 
+et al. 2018).
+As Vosoughi et al. (2018: 1146) have noted, “Foundational theories of decision-mak -
+ing, cooperation, communication, and markets all view some conceptualization of truth or 
+accuracy as central to the functioning of nearly every human endeavor.” Hence successful 
+efforts to erode the distinction between reality and imagined truth, it is alleged, threaten the 
+continued viability of the evidence-based policy making paradigm of the policy sciences, 
+potentially undermining the principles of policy studies laboriously built up over the past 
+75 years (McIntyre 2018; Kakutani 2018; Mintrom 2007; Carlsson 2017).
+This article examines these such developments and asks whether, and how, existing pol-
+icy frameworks have been able to grapple with the new world of false news and alternate 
+facts. It discusses the epistemological bases of the policy sciences and the role of social 
+media and other internet-based sources in affecting the kinds and types of knowledge uti-
+lized in political discourses and policy processes. It examines the conceptual implications 
+and growing influence on policy-making of inaccurate, and often camouflaged, “evidence” 
+on three commonly cited and deployed frameworks of policy-making—the policy cycle
+<<<PAGE=3>>>
+583Policy Sciences (2018) 51:581–600 
+1 3
+model, the advocacy coalition framework (ACF) and the multiple streams framework 
+(MSF).
+Ultimately, it is argued that while popular and media portrayals of policy-making and 
+policy analysis as purely technical exercises in scientific rationality may be difficult to rec-
+oncile with the new reality of false or evidence-free impaired policy making, the “stand-
+ard” policy analytical frameworks found in the policy sciences prove to be quite robust in 
+the face of these new circumstances. The models used in the discipline are very capable of 
+identifying the key features of policy processes in the era of truthiness and the nature of the 
+challenges policy-makers face in creating solutions to address policy problems in a world 
+filled with post-factual inputs and influences and even suggest some strategies that can be 
+used to mitigate their impact.
+The epistemologies of the policy sciences: reason, (willful) ignorance 
+and malice in public policy‑making
+Concern about a future in which policy is pursued with disregard for facts has been voiced 
+by many prominent public figures. In an address to the 2018 graduating class at Rice Uni-
+versity, for example, former New York City Mayor Michael Bloomberg stated:
+Today, those in politics routinely dismiss any inconvenient information, no matter 
+how factual, as fake – and they routinely say things that are demonstrably false. … 
+many of those at the highest levels of power see the plain truth as a threat. They fear 
+it. They deny it. And they attack it …. The trend toward elected officials propagating 
+alternate realities – or winking at those who do – is one of the most serious dangers 
+facing democracies. Free societies depend on citizens who recognize that deceit in 
+government isn’t something to shrug your shoulders at. (Bloomberg 2018)
+Of course, the general problem of false, biased or misleading information entering into 
+political discussions and policy deliberations is not new and the policy sciences have 
+always recognized both the limits or bounds of knowledge in policy-making (Simon 1967, 
+1978; Jones 2002) and the socially constructed nature of policy problems, solutions and 
+targets (Schneider and Ingram 1993, 2005; Foucault 1979; Lemke 2000). Both of these 
+components of policy-making and their impact on policy work and analysis have been a 
+steady subject of debate and interest in the field for decades (Fischer 1987; Fischer and 
+Forrester 1993). While new developments thus may challenge relatively naive or popu-
+lar beliefs in the objectivity of evidence and technocratic views of the objective nature of 
+policy analysis and policy-making uninformed by these internal debates, it is unclear if, 
+and how, these developments affect the models and frameworks with which well-informed 
+members of the policy sciences community actually work.
+With respect to the role of knowledge or the epistemologies of policy-making and policy 
+analysis, policy scientists have always viewed themselves as following a mode of “speak -
+ing truth to power” (Wildavsky 1979); that is, assembling and presenting verifiable facts 
+and evidence about what works and what does not to policy-makers. Indeed, for decades, 
+using this rationalist and instrumental theory of knowledge (Tribe 1972; Goodin 1980; 
+Hawkesworth 1992), generations of policy scholars have advanced, applied, and refined 
+models that interpret the policy making process based on the principle assumption that all
+<<<PAGE=4>>>
+584 Policy Sciences (2018) 51:581–600
+1 3
+policy participants are usually both willing and able to distinguish fact from fiction, even if 
+conflicts over meaning and strategy may be endemic to the politics of policy-making.
+Epistemologically speaking, the underlying theory of knowledge behind the mainstream 
+policy sciences, existing as a pre-supposition for analysis and deliberation, has always been 
+a “realist” one; that is, a stance toward the world in which it is assumed that “evidence” 
+objectively exists and can be marshalled by careful study and analysis to address specific 
+kinds of policy problems but always with the recognition both of the limits of cognition, 
+or the “boundedness” of rationality, and of the perpetual desire of self-interested parties to 
+hijack, distort or otherwise re-orient public processes toward their ends and goals (Jones 
+2002; Habermas 1974).
+In the words of uncertainty theorists, the former concern, relating to the difficulties of 
+predicting accurately all possible courses of action and their implications, has led policy 
+scientists to deal with a second epistemological concern—ignorance—which is thought 
+to be a major source of policy failure even when polices are well intentioned (Bovens and 
+t’Hart 1996; Howlett 2012). Of course the policy sciences are well prepared to deal with 
+such a lack of knowledge as long as it represents a deficiency in existing knowledge that 
+can be ameliorated by careful knowledge transmission and persistent education activities. 
+In fact some scholars have characterized the work of policy analysis as a whole in precisely 
+these terms, that is, as involving principally the effort to generate and disseminate as much 
+policy relevant knowledge as possible, ensuring decisions are taken which are fully cog-
+nizant of all “known–knowns” (Hawkesworth 1992; Chow and Sarin 2002; Logan 2009), 
+reducing the number of “unknown–knowns” while dealing with the risk and uncertainty 
+caused by the presence of both “known” and “unknown” unknowns (Morgan and Henrion 
+1990; Manski 2013).
+This epistemological stance serves not only as a call for more analysis but also as a 
+caveat against hubris or the prudent acknowledgment of the probable existence of igno-
+rance and gaps in policy knowledge (Gross 2010; Curzon and Kontoleon 2016). That is, 
+the recognition of the boundedness of knowledge is seen not as an excuse not to undertake 
+abandon good faith efforts at empirical description and analysis of the social world and the 
+impact of specific kinds of government interventions within it, but rather as a warning to 
+all parties of the imperfect nature of knowledge, the difficulties involved in predicting the 
+future, and the need to hedge reason against uncertainty and act in a prudential or precau-
+tionary fashion (Dunn 1991; Van der Sluijs 2005).
+Although studied much less frequently, the policy sciences also recognize the possibil-
+ity of a third, more Machiavellian, stance toward, and practice of, the generation and use of 
+policy knowledge, in which a much more malicious intent informs policy deliberations and 
+actions and the concern for “speaking truth” remains a distant second to “winning” pol-
+icy battles (Goodin 1980; Riker 1986; Schultz 2017). It is well recognized, of course, that 
+policy actors sometimes do spin and misinform policy making by introducing inaccurate 
+information into policy debates and deliberations, either intentionally or out of ignorance, 
+sometimes in a major, concerted way as occurred in the 1960s and 1970s around tobacco 
+control and more recently around global warming (Oreskes and Conway 2011).
+Whether such actions are seen to be taken for the personal enrichment of proponents 
+or for evil purposes such as the elimination, oppression or exploitation of rival groups or 
+ethnicities, malice in this sense is a rival epistemological stance to the policy analytical 
+orthodoxy in which instrumental reason is still present in policy-making but is exercised 
+in the individual or group interest rather than for the public good. As highlighted by many 
+studies of corruption and clientelism in government decision-making, for example (Scott 
+1969; Treisman 2007), this stance toward knowledge is an alternative to prudential reason
+<<<PAGE=5>>>
+585Policy Sciences (2018) 51:581–600 
+1 3
+which utilizes certain types of evidence and facts while ignoring others in promoting and 
+disseminating self-interested policy alternatives. In such efforts, lies and mis-statements 
+and appeals to emotional and cultural stereotypes and attribution of false motives to rivals 
+and targets are quite common (Goodin 1980; Maor 2015) and the existence of this way of 
+thinking about, and “doing,” policy is no surprise to the policy science community which, 
+again, sees its role as actively discouraging or, at least, harnessing such efforts to the pro-
+duction of public value (Moore 1994; Schultze 1977).
+Like ignorance, the malicious use of knowledge to manipulate policy processes is 
+also anathema to traditional policy science, not only on moral grounds, since it typically 
+replaces the public interest with the private as the chief criterion for policy adoption, but 
+also on epistemological ones as it undermines the ability of analysts to accurately describe 
+and convey an objective appraisal of costs and benefits to policy-makers in that common 
+interest. But in the policy analysis community, it is again considered to be precisely the 
+role of policy scientists and analysts to reveal these malicious lapses and re-orient policy-
+making back toward a more evidentiary, rational, base. That is, while it is acknowledged 
+that disinterested truth may not always prevail in policy deliberations, and it is well rec-
+ognized that in the final analysis the political merits of strategies often outweigh technical 
+considerations, it is expected that outright falsehoods and misleading statements—such as 
+“birtherism” or the propagation of the false claim that US President Barack Obama was 
+born in Kenya and not Hawaii in order to undermine his legitimacy and that of the Demo-
+cratic Party to which he belonged (Richey 2017)—will be called out by policy analysts 
+and ultimately eliminated from deliberations by prudent decision-makers concerned about 
+policy efficiency and effectiveness (Dunn 1988; Webber 1992).
+In other words, whether a decision taken upon reviewing analytical outputs turns out 
+to maximize public welfare or not, facts are expected to stand apart from falsehoods dur -
+ing the formulation of policy options and deliberation on implementation strategies and 
+choices. And policy scientists have long advocated enhanced accountability, transparency 
+and surveillance, for example, in order to minimize the occurrence of malicious practices 
+and restrict discussion to more disinterested sources of knowledge and opinion (Galanter 
+1980). Elite displeasure with overt manipulation of populations and governments in self-
+interested directions has also served to check many of its excesses. These efforts, for exam-
+ple, have been greatly aided by the press and other traditional media who found that expos-
+ing malicious misinformation offers a ripe source for news, scandal, readers and viewers.
+Eliminating ignorance and discouraging maliciousness have thus not surprisingly been 
+two pillars of the policy sciences which have accompanied its realist orientation toward 
+the provision and deployment of knowledge in the policy process. While some uncertainty 
+and ignorance is thought to be unavoidable—such as imperfect knowledge of future con-
+ditions and impacts which constitutes an unavoidable upward bound on analysis (Simon 
+1978; Howlett and Nair 2017)—in general, many policy scientists until recently were con-
+tent that their efforts toward the advocacy of prudence, transparency and education with 
+the expectation that the quality of evidence and debate forward in policy-making would 
+improve as a result and lead, in turn, to improved policy-making and policy outcomes. The 
+emergence of claims of false news and alternative facts cited above, however, has brought 
+to the forefront a fourth epistemological position or stance toward knowledge which policy 
+scientists and analysis had largely discounted in the past, that is, the significance of willful 
+ignorance in which facts and evidence which contradict or undermine strongly held opin-
+ions and beliefs are denied, obstinately contested or simply ignored.
+Willful ignorance, the study of which Proctor and Schiebinger (2008) have termed 
+the subject of the new field of “agnotology,” has always existed in the form of wishful
+<<<PAGE=6>>>
+586 Policy Sciences (2018) 51:581–600
+1 3
+thinking, problem denial and the refusal to recognize facts on the ground which violate 
+strongly held religious or ideological beliefs—from the anti-Copernican views of the eight-
+eenth and nineteenth century Catholic Church to the beliefs of regime apologists in the 
+merits and progress made by the Chinese Great Leap Forward. But it is also the hallmark 
+epistemological characteristic of the era of truthiness, one in which false facts, claims of 
+fake news and, in general, a lack of knowledge and expertise is upheld for self-interested 
+personal, economic or partisan purposes (Croissant 2014). This is the sphere of the con-
+spiracy theories and problem denialism that have been a feature of recent political dis-
+courses and electoral politics in many countries. Contemporary examples range from the 
+promotion of entire worlds of alternate facts and realities—found in concerns about “deep 
+states” and various racist and other kinds of conspiracies (“Pizzagate,” “I am Q,” “Black 
+Helicopters” and the like) (Oliver and Wood 2014; Pasek et al. 2015), to the denial of a gun 
+problem in the USA, the unsubstantiated fiscal and economic dividends predicted by UK 
+Brexiteers, or the befuddled obtuseness of climate change deniers contradicting the weight 
+of the scientific evidence marshalled against them (Björnberg et al. 2017; Del Vicario et al. 
+2017; Oliver and Wood 2014).
+These four epistemological stances and their problematic aspects are set out in Table  1 
+along with the practices and techniques typically espoused by the policy science commu-
+nity for dealing with their challenges.
+This fourth stance toward policy knowledge and evidence is particularly significant in 
+that it undermines the rationality assumption of policy studies and promotes the acceptance 
+and adoption of strategies and programs based on misleading evidence or unsubstantiated 
+uninformed opinion, and is also easily subjected to malicious manipulation (Newman et al. 
+2012). While it has been present in earlier eras in regimes which, for example, centered 
+policy-making on the prejudiced beliefs of members of the public about ethnic groups or 
+the stereotypical treatment of minorities and others, in general the worst aspects of this 
+epistemology, such as hate-speech and slander, were suppressed or circumscribed by either 
+law or convention or both (Herz and Molnar 2012). As discussed below, however, it is 
+precisely this kind of speech which has recently moved out of the far fringes of political 
+Table 1  Epistemological stances of policy actors with associated policy problems and solutions
+Extent of knowledge of policy problems and solutions
+High Low
+Nature of 
+knowledge 
+utilization
+For the public good Instrumental rationality/reason
+ Policy problem: boundedness, uncer-
+tainty
+Solutions: more and better analysis, 
+prudence
+Ignorance
+ Policy problem: high 
+propensity for avoid-
+able policy failure, 
+blame
+ Solutions; Enhanced 
+Education, Better 
+Knowledge Dissemi-
+nation & Transmission
+For particular gain Maliciousness
+ Policy problem: high private value, 
+low or negative public value
+Solution: transparency and account-
+ability; legal proscription
+Willful ignorance
+ Policy problem: high 
+propensity for avoid-
+able policy failure
+ Solution: suppression, 
+legal proscription
+<<<PAGE=7>>>
+587Policy Sciences (2018) 51:581–600 
+1 3
+debate and tabloid-level publicity and literally been given a space and amplified voice 
+by the opening up social media and non-traditional news outlets from Reddit to Breitbart 
+(Bogers and Wernersen 2014). The decline of traditional media gatekeepers, allowing such 
+views to evade legal and conventional limits on speech have created a new challenge for 
+orthodox policy scientists for which they were largely unprepared (Jones and Lidsky 2016; 
+Wallace 2018).
+Dealing with enhanced levels of (willful) ignorance and maliciousness: 
+how social/internet media in the post‑factual era steer policy making 
+onto a treacherous path
+When it comes to explaining the ebb and flow of factual and evidentiary influences on 
+policy over the past half century and more, there is ample evidence that facts have been 
+a politicized input for quite some time. The complexity, permeability and interaction of 
+public problems are such that in many jurisdictions policy making has been perpetually 
+contested and fights between different characterization of facts or their mis-representation 
+have been commonplace. However, while much of this activity historically has involved the 
+malicious partisan (re)interpretation of facts, as policy programs have also become more 
+complex the level of ignorance concerning how such programs operate and what is their 
+actual intent has also increased. Technologies from the internet to cryptocurrency enable 
+key policy actors to bypass government organizations, regulations and programs in imagin-
+ing and creating policy alternatives, highlighting the ignorance of not just the public but 
+also many policy-makers with these new technologies.
+This has introduced a sizeable gap between expert and public discourses, with experts 
+discredited and publics empowered by the growth of complexity and ignorance. Jasanoff  
+and Simmet, for example, now differentiate between empirical knowledge which is gener -
+ated by following the scientific method and “public facts” which are the product of a com-
+petition between knowledge and values in the public arena. They assert that “… debates 
+about public facts have always also been debates about social meanings, rooted in realities 
+that are subjectively experienced as all-encompassing and complete, even when they are 
+partial and contingent.” (Jasanoff and Simmet 2017: 752). Cairney (2016: 42) similarly 
+captures the fluctuating relationship between beliefs, evidence and policy when he writes 
+that: “In the real world, evidence is contested, the policy process contains a large number 
+of influential actors, scientific evidence is one of many sources of information, and policy-
+makers base their decisions on a mixture of emotions, knowledge and shortcuts to gather 
+relevant evidence.”
+Under these circumstances, the potential for evidence to be undermined by misinfor -
+mation grows. In a situation of maliciously driven or tinged policy making characterized 
+by willful ignorance, as Daviter (2017: 17) reminds us, gathering and assessing evidence 
+becomes another component of the struggle over policy options, leaving policy analysis 
+increasingly indistinguishable from politics and open to malicious manipulation. In such 
+an extreme post-positivist policymaking space, “policy conflicts rooted in multiple and 
+incompatible problem perceptions cannot be settled by recourse to evidentiary analysis….”
+In such a context, as Berling and Bueger (2017: 333) point out, “… while there might 
+be a singular truth in the non-political sphere, in the realm of politics truth remains in the 
+plural, and tends to be connected to opinion.” Hence, for example, researchers examining
+<<<PAGE=8>>>
+588 Policy Sciences (2018) 51:581–600
+1 3
+political conflict in energy policy have noted that knowledge of resource limitations and 
+limits mobilizes resistance against rational analysis, so much so that “… assumptions and 
+values can play a combative, corrosive role in the generation of objective energy analysis, 
+and in how energy decision-makers operate in practice” (Sovacool and Brown 2015: 38).
+Critics are right to suggest that policy making has thus been steered onto a treacher -
+ous path substituting denial for skepticism, autodidacticism for education and emotion for 
+rationality as the lenses through which actors view policy inputs and evidence (Stevens 
+et al. 2018). In the contemporary era “stories” which link, for example, the slaughter of 
+young children in Sandy Hook with claims about the complicity of the US Government 
+involvement in the 9–11 attacks (Berkowitz and Liu 2016), combine maliciousness and 
+ignorance in a unique way (Johnson and Kaye 2013).
+Role of social/internet media as a force multiplier: promoting views of all kinds 
+and undermining expertise
+While there is a clearly focused set of concerns about the problematic effects on policy-
+making posed by the post-factual turn in policy discourse, the causes behind the dimin-
+ishing influence of “objective” evidence are harder to pinpoint. Increased complexity is 
+certainly an issue, but a heterogeneous array of sources and motivations have been identi-
+fied in the popular press and in academic studies as disrupting the historical role played by 
+knowledge and evidence in both policy-making and policy analysis (Bail et al. 2018).
+The origins of manufactured misunderstanding are both endogenous and exogenous to 
+the political system. Among the exogenous influences that work to separate evidence from 
+reality, much has been made of government-backed initiatives to destabilize politics and 
+generate controversy across borders such has occurred in recent years in several elections 
+in Europe and Asia. Such international misinformation campaigns are increasingly propa-
+gated and were particularly pronounced in the run up to major political milestones such 
+as the 2016 US Presidential election and the UK referendum on Brexit (Vasu et al. 2018; 
+Morgan 2018). But they have also been documented as extensions of, or compliments to, 
+military and paramilitary conflict, as was the case with the Russian campaign to annex 
+Crimea and disrupt political functioning in the Ukraine (Mejian and Vokuev 2017: 1028), 
+and these and similar campaigns continue apace in new elections and jurisdictions, from 
+India to Africa.
+Similarly, but more endogenously, professionals who rely on scientific knowledge when 
+making life or death decisions, such as physicians and emergency service professionals, for 
+example, have been quick to voice their alarm at the pitfalls of post-factual policy making 
+encountered through the proliferation of conspiracy theories and mis-stated or misleading, 
+if not outright false, claims around topics such as vaccines and gun violence among others. 
+Identifying the major risks to public health posed to the public from confusion caused by 
+the introduction of alternative facts about vaccinations and climate change, for example, 
+has been widely denounced by experts in these fields.
+The role of social/internet media in both these processes is very clear. In many cases the 
+endogenous influences cited above, for example, are comingled in Twitter and Facebook 
+campaigns with an exogenous flow of alternative facts that originate from outside a polity 
+and are transmitted and amplified by these media.
+Some of the problems with social/internet media propagation of false views and 
+accounts are anthropological. In one of the most extensive analyses to date of how news 
+spread online, Vosoughi et al. (2018) found that false news spread farther and faster across
+<<<PAGE=9>>>
+589Policy Sciences (2018) 51:581–600 
+1 3
+social media than accurate information because individuals were more likely to propa-
+gate misinformation than they were to pass along authentic accounts of social and politi-
+cal events because it is “good gossip.” Furthermore, false news was likely to spread more 
+widely over social media. While “… the truth rarely diffused to more than 1000 people 
+[while] the top 1% of false news cascades routinely diffused to between 1000 and 100,000 
+people (Vosoughi et al. 2018: 1148). Ultimately, as Jasanoff and Simmet (2017: 755) point 
+out, the forum provided by social media sites allows a proliferation of unsubstantiated and 
+uniformed opinion and commentary. “As much as enlightened moderns may deplore the 
+pluralization of language, knowledge or perception on the internet, the digital medium 
+teems with people every bit as intent on communicating their versions of the truth as 
+Oxford Dons or Washington economists.”
+However, while false knowledge is widely distributed, it is important to note that the 
+capacity to reshape or undermine reality is also highly concentrated and thus subject to 
+malicious manipulation. The information resources deployed through social networks turn 
+out to be even more unequally distributed than the material resources used to analyze and 
+organize knowledge through traditional means of research and dissemination. Syuntyu-
+renko (2015: 207), for example, found that “Social activity and mass relaying of memes 
+are usually initiated from a limited number of centers: 2% of Twitter users generate 60% of 
+all of the content that is distributed online and 5% of all users create 75% of the content.” 
+Not surprisingly, Vosoughi et al. 2018: 1147, for example, report that “… data also show 
+clear increases in the total number of false political rumors during the 2012 and 2016 U.S. 
+Presidential elections and a spike in rumors that contained partially true and partially false 
+information during the Russian annexation of Crimea….” when state and partisan actors 
+flooded websites with false information for propaganda, monetary and partisan purposes.
+Scholars are thus correct in warning that emergent practices of manufacturing facts and 
+evidence serve not only to diminish policy making capacity, but also erode politics by hav-
+ing policy reinforce undemocratic interest articulation and repress representative modes 
+of problem solving (Esberg and Mummolo 2017). In the new social media/internet real-
+ity, “evidence” that does not align with the beliefs of powerful actors and pre-established 
+beliefs and attitudes is rejected, marginalized, and often replaced in public discourse by 
+elaborately crafted falsehoods promoting alternate and evidentiarily unsustainable views 
+and positions (McKee and Stuckley 2017: 669).
+How well do existing models of policy‑making deal with this new social 
+media/internet mediated reality?
+When governments make public policy, they embark on a political journey that begs to be 
+explored. Understanding how and why policy outputs have emerged, and what their result-
+ing political impacts might be, can enable scholars and citizens alike to find meaning in 
+the policy process. Interpreting the interactions of analysis, authority, and organization 
+can help to both explain what has occurred, and also understand what has not happened. 
+This is true both in contexts where traditional forms of evidence prevail and in the era of 
+alternative facts. Among the puzzles to be solved in either case are: Why are decisions 
+taken at a particular time, but avoided at other apparently opportune moments? How do 
+policy decisions interact with one another? Do cumulative acts of policy making yield rec-
+ognizable patterns, or does policy content just amount to a random or quasi-random col-
+lection of prior outputs? And, regardless of the existence of patterns based on accumulated
+<<<PAGE=10>>>
+590 Policy Sciences (2018) 51:581–600
+1 3
+experience, where should attention focus when analyzing a new, or amended, public policy 
+and the initiative behind it?
+There have been many approaches and structures put forward to help interpret the over -
+whelming amount of information that is often available about a policy’s history, its func-
+tion, and its impacts. Over time, researchers in the policy sciences have created many and 
+varied conceptual constructs, models and framework that seek to aid understanding about 
+how policy making occurs. Levels of analysis have included individual decision-making 
+behavior, group action, institutional structures, or historical patterns and legacies (Howl-
+ett et al. 2009). Do the current models found in policy studies cope well with the vulner -
+abilities created by post-factual influences on policy, especially the growth of willful igno-
+rance? If not, is an evolution of the “core” models and theories needed?
+Here we gauge the resilience of three well-established conceptual frameworks when 
+interpreting policy deliberations characterized by a disparate subjectivity among factual 
+claims. We focus on three widely applied conceptualizations that were created to advance 
+understanding about policy making during the twentieth century. These include the policy 
+cycle model, the advocacy coalition framework, and the multiple streams framework and 
+intended to illustrate how such frameworks help, or not, in analyzing and evaluating the 
+politics and policy of truthiness. We consider the effect on the interpretive efficacy of each 
+when the boundary between facts and values is blurred or abandoned in a post-fact world 
+where discourse, identity, and normative beliefs are intermingled with, and often indistin-
+guishable from, factual evidence.
+The policy cycle model
+In several ways, the policy cycle model offers the most open ended and supple framework 
+among the intellectual constructs developed to interpret what goes on in the policy making 
+process. It was inspired by a direct connection to the practice of making policy and sought 
+to build understanding by examining the functions pursued to solve public problems. By 
+subdividing the study of policy into consideration of what occurred during seven discrete, 
+but related, functions, Lasswell (1956, 1971) pioneered the approach of examining what 
+actors do along the pathway of policy development. Lasswell’s model was informed by his 
+own experience working for the American government during the mid-twentieth century, 
+when ambitious measures were initiated, and coordinated, across many sectors and disci-
+plines to win the Second World War, and then prevail during the Cold War.
+Refinement and elaboration of Lasswell’s stages into an iterative dynamic of policy con-
+struction, and at times deconstruction, yielded a five or six stage policy cycle model which 
+sought to capture feedback effects and inter-dependence among the various policy making 
+functions including how policy learning occurs through evaluation and adjustment of exist-
+ing processes in light of past and present experiences (Brewer 1974; Anderson 1975; Jones 
+1984).
+Within the universe of conceptual tools for examining empirical policy analysis, the 
+policy cycle model stands out as the longest serving heuristic for illuminating how political 
+actors, ideas about problems and potential solutions, and the structural influence of institu-
+tions interact to influence policy making and policy-making dynamics (Capano 2012). The 
+policy cycle model endures, offering guidance for those seeking to understand the interplay 
+of policy subsystem participants through their initiative at particular points of action to 
+solve public problems. The consideration of policy actors’ function during agenda setting,
+<<<PAGE=11>>>
+591Policy Sciences (2018) 51:581–600 
+1 3
+formulation, decision-making, implementation, and evaluation remains widely studied 
+today (Howlett et al. 2009).
+But can such resilience exhibit over the decades when evidence-based policy analysis 
+was the norm carry forward into a process that is increasingly influenced by falsehoods 
+presented as alternative facts? Future performance of the policy cycle model could depend 
+on its ability to distinguish and examine the distribution and utilization of alternative facts 
+across the various functions of policy deliberation.
+The policy cycle model’s articulation of distinctive functions in policy making offers 
+the opportunity to identify where and how disinformation and manipulation of evidence 
+could influence analysis, or corrupt authority, during the course of policy deliberations. 
+In general, the cycle model can be seen to adapt all too well to a post-factual universe but 
+without a critical edge. That is, it embodies no defense of truth and allows a ready accom-
+modation of misinformation and an embrace of truthiness.
+This is because the cycle model is agnostic on type of knowledge/arguments deployed 
+and the epistemological stances of policy actors. If falsehoods posing as alternative facts 
+are introduced into policy deliberations through a particular focus of communication or 
+coordination, the policy cycle model is well suited to capture this empirical reality.
+Misinformation from any source, be it malicious selective interpretations of data or the 
+results of conspiracy theories, for example, will be seen to influence the focus of a policy 
+cycle when the bogus evidence becomes concentrated within the deliberations of one or 
+two policy making stages, such as when fake news is targeted to generate a shift in the 
+policy agenda, or biased evaluative methods are applied to discredit the performance of 
+an existing policy. The resulting contrast between political dynamics in the stages where 
+post-factual influences are directly focused, and the stages where more traditional policy 
+deliberations remain the norm help to highlight the alternative factual manipulations of 
+policy making, but also advance understanding about how elements of a policy subsystem 
+respond and might (or might not) resist the influence of such “facts.” The political competi-
+tion for legitimacy and credibility could occur in multiple stages of policy making, where 
+actors and interests expose and rebut alternative facts that were introduced into delibera-
+tions at another stage of the cycle.
+Where the policy cycle model might be vulnerable to either overlooking or uncriti-
+cally normalizing the influence of alternative facts would be when falsehoods are widely 
+accepted and distributed across several, or most of, the stages of the policy cycle. In this 
+case, the more even diffusion of influence by alternative facts would appear more innocu-
+ous as an influence on policy deliberation. Importantly, cumulative and systemic effects of 
+such influence would not, in themselves, stand out in the development of policy advice, but 
+the idea that learning and evaluative feedback would normally improve policy-making and 
+its calibrations is lost.
+The advocacy coalition framework
+A second commonly used framework of the policy process is the Advocacy Coalition 
+Framework (ACF) developed by Sabatier (1993) and his colleagues. At the ACF’s heart are 
+sets of policy actors drawn together into “… advocacy coalitions composed of people from 
+various organizations who share a set of normative and causal beliefs and who often act in 
+concert.” (Sabatier 1988: 133) Actors’ core beliefs are the glue that binds the ACF’s unit 
+of analysis together. These beliefs at the center of each coalition include both normative 
+values about the way the world should be, and axiomatic understandings of how policy can
+<<<PAGE=12>>>
+592 Policy Sciences (2018) 51:581–600
+1 3
+and does function in support of such a worldview. These principles motivate policy actors 
+to cooperate with likeminded counterparts in formulating policy options that advance their 
+preferred outcomes, and to learn from both advocacy and research efforts about how to 
+expand the likelihood of those outcomes over time. That learning function is where the 
+effects of post-factual policy influence could change the ways in which advocacy coalitions 
+pursue their goals, both in competition with other coalitions and in relation to the govern-
+mental structures surrounding them.
+The ACF distinguishes between three cognitive strata that are nested inside each advo-
+cacy coalition. Each coalition can be characterized by: first, its particular configuration of 
+deep core beliefs, which are normative, next its near-core beliefs about appropriate and 
+effective policy making, which connect policy preferences to the deep core beliefs, and 
+finally by its secondary beliefs which form the practical understanding of what works to 
+translate the near-core beliefs about policy into practice.
+The ACF presumes that coalition members will maintain their core beliefs, even in the 
+face of evidence that might call these beliefs into question. Near-core policy beliefs are 
+less absolute, and evidence either that programs which have been advocated by a coalition 
+are not delivering desired outcomes to support the normative worldview, or that program 
+outputs advocated by a rival coalition are effective, are likely to prompt policy learning 
+that adapts new means to serve core values. And secondary beliefs about how to frame and 
+communicate policy options with the wider policy community to gain broad based support 
+are quite supple and subject to pragmatic adjustment.
+Since the advocacy coalition framework (ACF) is based on beliefs and not facts it also 
+survives well in a truthiness era. Its focus was never on truth per se but on what beliefs 
+exist and who holds them. That is, the ACF melds the influence of beliefs, values, and 
+bounded rationality into an analytical structure for interpreting the ways in which policy 
+subsystems design, debate, and deliver policy options.
+These principal conceptual attributes of the ACF, however, suggest that inputs from a 
+post-factual policy world would yield a different impact pattern than would appear in the 
+policy cycle model. The durability of core beliefs that draw coalition members together 
+suggests their resilience in the face of alternative facts and misinformation. Indeed, a 
+stream of disruptive information could work to reinforce solidarity within established coa-
+litions as their members are motivated to redouble their efforts to organize and advocate 
+for preferred policy options in the face of perceived efforts to challenge or intimidate the 
+policy subsystem. Another attribute of resilience emerges through the adaptation of a coa-
+lition’s secondary beliefs. Coalitions can be quite pragmatic in letting their ends justify 
+the means of advocacy, and if manufactured misinformation is seen to become sufficiently 
+influential in a subsystem, then “fighting fire with fire” could lead a coalition to generate its 
+own alternative facts and pursue its own forms of post-factual discourse. Such escalation of 
+misinformation could contribute to the dynamic of propagating fake news and false infor -
+mation analyzed by Vosoughi et al. (2018) discussed above.
+Thus, the ACF offers a useful lens for seeking to understand the impact of truthiness on 
+policy-making; that is, when and how exogenous post-factual misinformation can become 
+endogenized within a policy subsystem.
+The multiple streams framework
+Kingdon (1984) developed the multiple streams framework (MSF) through inductive anal-
+ysis of policy agenda setting in the US Congress. He was particularly attentive to the role
+<<<PAGE=13>>>
+593Policy Sciences (2018) 51:581–600 
+1 3
+of policy entrepreneurs, both inside government and beyond it in the policy subsystem, in 
+creating the political conditions that could justify or compel public officials to focus their 
+limited resources (particularly time) on a particular problem. But rather than assuming that 
+some combination of persuasive skills, reputation, and material resources, would be the 
+major influence on a policy entrepreneur’s leverage over agenda setting, Kingdon looked 
+to a somewhat arbitrary, or at least less predictable opportunity window, or confluence of 
+exogenous and endogenous inputs that influenced governance. Problems, policy, and poli-
+tics fill three streams that configure Kingdon’s framework, and successful policy entrepre-
+neurs are those adept at leveraging their interaction to advance the priority of a particular 
+policy problem.
+Each stream contains components of policy deliberations that originate independently 
+from one another, but which can combine to transform policymaking at particular junc-
+tures. Within the problem stream, one finds the ideas and information that can focus public 
+attention on and characterize a specific problem as being worthy of government’s attention. 
+The policy stream contains the expertise of specialists, scientists, and pundits who pre-
+sent remedies and recommendations for addressing one or more public problems. And the 
+political stream carries within it the claims of, and expectations about, governing authority 
+that are generated by public opinion, the party organizations, and interest group efforts to 
+gain or retain power in government. When these streams converge, the resulting accumula-
+tion of ideas, interests, and information can either open or close a “policy window” which 
+moves problems onto or off of the formal agenda, and thus influences whether government 
+will attend to them in policymaking.
+Since the 1980s, Kingdon’s Multiple Streams Framework has been applied very widely 
+and used in interpreting policy deliberations that extend well beyond the agenda set-
+ting stage. The limitations of trying to explain the full extent of policy making dynamics 
+through interaction of the MSF’s three streams have prompted theory elaboration through 
+a model that expands upon Kingdon’s problem, policy and politics streams to account for 
+the distinctive inputs arising from analytical processes and government program delivery 
+that follow agenda setting (Howlett et al. 2016). These channels of influence over policy 
+deliberation are conceived as threads, rather than streams, to allow for the inter-weaving of 
+these conceptual elements. Among the additions to Kingdon, the process thread contains 
+the institutional and organizational structures that are established to analyze policy options 
+and formulate a preferred strategy for government’s decision-making. And the program 
+thread comprises policy outputs that create new effects on politics, as well as influencing 
+participants’ perception of problems.
+Whether the focus remains with Kingdon’s “classic” three stream MSF conceptualiza-
+tion, or is expanded to consideration of a greater number, the influence of post-factual pol-
+icy inputs would initially appear similar. On the one hand, the effect of alternative facts 
+intended to misinform and misdirect policy-makers to doing something new would be con-
+strained in the same fashion as all other policies, by the unpredictable confluence of prob-
+lems, policy and politics. Thus, for example, a policy initiative based on false evidence 
+may be held up by an institution like the courts which retains a more traditional view of 
+the subject. But on the other hand, adding alternative facts into one or more streams could 
+disrupt their interaction and thus inhibit or promote the critical junctures needed to place 
+issues on the policy agenda.
+To borrow a metaphor that inspired one of the MSF’s conceptual predecessors, the 
+Garbage Can Model (Cohen et  al. 1972), the “organized anarchy” that often character -
+izes policy deliberation contexts is seen as a challenge to navigate let alone manipulate 
+toward a particular policy option through the strategic introduction of (mis)information.
+<<<PAGE=14>>>
+594 Policy Sciences (2018) 51:581–600
+1 3
+This is because the uncertain timing of the interactions between problem, policy and poli-
+tics streams would increase the complexity of introducing independent, but complimentary, 
+information of any kind into each stream in ways that could be counted on to open or close 
+a policy window or enhance or diminish entrepreneurial activity. Introducing alternative 
+facts into only one stream, however, would be more likely to disrupt their interaction and 
+reduce the chances of a coherent connection between the contents of streams, thus frustrat-
+ing the opening of a policy window. This is evident, for example, when populist mischarac-
+terization of immigrant populations fails to lead to their internment or expulsion, or even to 
+moves to diminish their number.
+Thus, the MSF also does well in a truthiness era as the garbage can is simply bigger in a 
+truthiness world than in one in which willful and other types of ignorance, and malicious-
+ness, are reduced.
+Conclusion: doing quite well, all things considered
+There continues to be a growing disquiet among both scholars and practitioners that recent 
+developments in the “co-creation” of public facts may have breached an established norm 
+of democracy and that the ongoing transgression of evidence and expertise threatens the 
+governmental institutions that undergird both democratic politics and successful policy-
+making in the public interest (Kim et  al. 2018). Undermining the public acceptance of 
+expertise and the willingness to defer to facts and evidence, for example, is a critical ele-
+ment of many populist regimes and policy negating efforts such as climate change denial 
+or immigrant scapegoating (Lewandowsky et  al. 2015). While some institutions are less 
+vulnerable to these false claims than others, even the courts which are still focused on evi-
+dence have been subject to malicious challenges to knowledge in the post-fact era (Ley 
+2018).
+These challenges are often thought to be devastating for the evidence-based policy 
+movement, for example, and have led to questions about whether or not it can survive this 
+challenge as it did earlier threats such as the faith-based vs reality-based attacks of the 
+Bush Jr. era (Hula et  al. 2007; Kissane 2007). At the individual level, the credibility of 
+professional analysts who incorporate influential, but unsubstantiated, alternative facts 
+into policy assessments and recommendations can be compromised. Such analytical mal-
+practice can spread among policy professionals who adopt or reproduce misinformation, 
+whether intentionally or otherwise. And once the incorporation of erroneous evidence into 
+policy deliberations reaches a critical mass, then the integrity of policy making institu-
+tions can be diminished. As the practical capability to advance policy based on evidence 
+declines among both the individual and institutional dimensions of the subsystem, there is 
+a concern that the scholarly fallout from anomalous policy making routines and procedures 
+on the utility of existing models and frameworks is likely to follow.
+The results of the comparisons of existing mainstream policy theories presented above, 
+however, reveals a different story. As summarized in Table 2, all three models highlight the 
+very problematic aspects of epistemological stances based on willful ignorance and mal-
+ice for policy-making and the likely impact of enhanced levels of such self-interested and 
+self-absorbed attitudes toward knowledge on policy development processes. The increase 
+in willful ignorance linked to social media and internet-based circulation of previously 
+suppressed ideas is shown by each model to convolute and multiply the number of agenda 
+items with which policy-makers must deal, make it harder for them to control their agendas
+<<<PAGE=15>>>
+595Policy Sciences (2018) 51:581–600 
+1 3
+and contributes to increased polarization between advocacy coalitions, making it harder to 
+learn from experiences and adapt to environmental changes. And it enhances the anarchic 
+nature of policy-making, making the matching of problems and solutions more problematic 
+and prone to capriciousness than need be the case, thus undermining the ability of the sys-
+tem to resolve issues.
+Existing policy frameworks thus continue to remain very useful in a post-fact era and 
+require little to no change in order to generate concrete expectations about future policy-
+making behavior and outcomes. Overall, the models offer particular, but congruent, pre-
+dictions of a lack of learning, an embrace of placebos and empty symbols, policy churn, 
+loss of direction, and a record of failed policies in a post-fact world—all of which have 
+been clearly manifested in the context of the two best exemplars of truthiness-inspired 
+policy deliberations to date: the many activities of the Trump administration in the 
+USA, and the British-EU negotiations over Brexit (Del Vicario et al. 2017).
+Equally importantly, the policy sciences also continue to suggest several ways in 
+which ignorance and maliciousness can be curbed in the effort to re-orient policy-mak -
+ing toward a more traditional rationality and purpose. As discussed above, ignorance 
+can be re-oriented toward reason through education and the provision and transmission 
+of knowledge and, as government reform efforts throughout the ages have shown, malice 
+can also be eliminated through the illumination of corrupt practices and the enhance-
+ment of various mechanisms of accountability and transparency from open contracting 
+to freedom of information legislation.
+In the case of willful ignorance, it should also be noted that discouragement of the 
+dissemination of false views has historically also been very significant and has taken 
+many forms, from state censorship and common or civil law slander and libel prohibi-
+tions, to voluntary film and television regulation and self-censorship on the part of the 
+media and the motion picture industries, among others. The more insidious effects of 
+social media and various websites in creating and promoting fake news and otherwise 
+enhancing and promoting willful ignorance can also be addressed in this way. While 
+government regulation remains embryonic, some aspects of this problem are being 
+addressed by self-regulation of social media companies like Facebook, Twitter and Ins-
+tagram in removing millions of false accounts and altering their advertising algorithms 
+to remove the incentive and suppress the capacity of actors to promote false information 
+or promote willful ignorance for monetary, partisan or other reasons.
+While there will always be die-hard flat-earthers and alien conspiracy theorists 
+among us, more critical reflection on the part of more open-minded individuals may 
+relegate them once again back to the fringes of political and policy debate. Naming and 
+Table 2  Summary table of framework accommodation of truthiness
+Model Prescriptive aim Post-fact results
+Policy cycle Learning and trial and error solutions 
+approximation
+Increased noise, loss of agenda control, stum-
+bling from crisis to crisis, improper evalua-
+tion, no learning, overloaded agendas
+ACF Learning and persuasion around core 
+and secondary beliefs
+Polarization and churn, amplification of misin-
+formation efforts
+MSF Matching of problems and solutions in 
+contingent fashion
+Mismatching of tools and problems, failure of 
+steering through opening of policy windows, 
+anarchistic processes and outcomes
+<<<PAGE=16>>>
+596 Policy Sciences (2018) 51:581–600
+1 3
+shaming can also play an important role here in promoting citizen-driven suppression of 
+wild speculation and a disregard of evidence. Past examples of the academic disrepute 
+created by incorporating bogus evidence into previously legitimate analytical structures 
+can be found in the reaction to twentieth century biological research conducted under 
+the aegis of Soviet Communism, for example. The opprobrium attached to research that 
+adopted Lysenko’s now discredited evidence of genetic inheritance from acquired char -
+acteristics led to quite a large body of analytical output being delegitimated as pseudo-
+science (Gordin 2012).
+Although there may be a time lag, academic capability and credibility in assessing such 
+deliberative degeneration can also help erode truthiness, if scholars persist in revealing the 
+material effects influenced by misinformation in policymaking and individuals are subse-
+quently more careful and skeptical about the veracity of what they read or view online. 
+Policy scientists and scholars have a responsibility to explain and help society and policy-
+makers understand policymaking in an era of truthiness and how they can deal with the 
+growth, especially, of willful ignorance and obliviousness. This is at least as pressing as in 
+the health sphere, where internet-inspired proliferation of self-help and conspiracy theo-
+ries around health issues has led practitioners such as Dr. Lisa Rosenbaum (2017: 1609), 
+for example, to urge physicians to speak out about the continued value of evidence-based 
+health policy in a fashion inconceivable only a few years ago, in order to ensure that “… 
+scientists are not alone in their determination to make the truth believable again.”
+References
+Anderson, J. E. (1975). Public policy making. New York: Prager.
+Bail, C. A., Argyle, L. P., Brown, T. W., Bumpus, J. P., Chen, H., Fallin Hunzaker, M. B., et al. (2018). 
+Exposure to opposing views on social media can increase political polarization. Proceedings of the 
+National Academy of Sciences, 115(37), 9216–9221. https ://doi.org/10.1073/pnas.18048 40115 .
+Benegal, S. (2018). Overconfidence and the discounting of expertise: A commentary. Social Science & 
+Medicine, 213, 95–97. https ://doi.org/10.1016/j.socsc imed.2018.07.039.
+Berkowitz, D., & Liu, Z. M. (2016). Media errors and the ‘nutty professor’: Riding the journalistic bounda-
+ries of the Sandy Hook shootings. Journalism, 17(2), 155–172. https ://doi.org/10.1177/14648 84914 
+55226 6.
+Berling, T. V., & Bueger, C. (2017). Expertise in the age of post-factual politics: An outline of reflexive 
+strategies. Geoforum, 84, 332–341.
+Bhatta, G. (2002). Evidence-based analysis and the work of policy shops. Australian Journal of Public 
+Administration, 61(3), 98–105.
+Björnberg, K. E., Karlsson, M., Gilek, M., & Hansson, S. O. (2017). Climate and environmental science 
+denial: A review of the scientific literature published in 1990–2015. Journal of Cleaner Production. 
+https ://doi.org/10.1016/j.jclep ro.2017.08.066.
+Bloomberg, M. (2018). Commencement speech of Michael Bloomberg, May 12. Downloaded from https ://
+www.mikeb loomb erg.com/news/mike-bloom berg-deliv ers-2018-comme nceme nt-addre ss-rice-unive 
+rsity / Accessed 18 May 2018.
+Bogers, T., & Wernersen, R. (2014). How ‘social’ are social news sites? Exploring the motivations 
+for using Reddit.Com. IConference 2014 Proceedings, March 1, 2014, pp. 329–344. https ://doi.
+org/10.9776/14108 .
+Bovens, M., & t’Hart, P. (1996). Understanding policy fiascoes. New Brunswick, NJ: Transaction Press.
+Brewer, G. (1974). The policy sciences emerge; To nurture and structure a discipline. Policy Sciences, 5, 
+239–244.
+Cairney, P. (2016). The politics of evidence-based policy making. London: Palgrave Macmillan.
+Capano, G. (2012). Policy dynamics and change: The never-ending puzzle. In E. Araral, S. Fritzen, M. 
+Howlett, M. Ramesh, & X. Wu (Eds.), Routledge handbook of public policy (pp. 451–472). New 
+York: Routledge.
+<<<PAGE=17>>>
+597Policy Sciences (2018) 51:581–600 
+1 3
+Carlsson, L. (2017). Policy science at an impasse: A matter of conceptual stretching? Politics & Policy, 
+45(2), 148–168. https ://doi.org/10.1111/polp.12196 .
+Chow, C. C., & Sarin, R. K. (2002). Known, unknown, and unknowable uncertainties. Theory and Decision, 
+52(2), 127–138. https ://doi.org/10.1023/A:10155 44715 608.
+Cohen, M., March, J., & Olsen, J. (1972). A garbage can model of organizational choice. Administrative Sci-
+ence Quarterly, 17, 1–25.
+Croissant, J. L. (2014). Agnotology: Ignorance and absence or towards a sociology of things that aren’t 
+there. Social Epistemology, 28(1), 4–25. https ://doi.org/10.1080/02691 728.2013.86288 0
+Curzon, H. F., & Kontoleon, A. (2016). From ignorance to evidence? The use of programme evaluation 
+in conservation: Evidence from a Delphi survey of conservation experts. Journal of Environmental 
+Management, 180, 466–475. https ://doi.org/10.1016/j.jenvm an.2016.05.062.
+Daviter, F. (2017). Policy analysis in the face of complexity: What kind of knowledge to tackle wicked prob-
+lems? Public Policy and Administration. https ://doi.org/10.1177/09520 76717 73332 5.
+Del Vicario, M., Zollo, F., Caldarelli, G., Scala, A., & Quattrociocchi, W. (2017). Mapping social dynam-
+ics on Facebook: The Brexit debate. Social Networks, 50, 6–16. https ://doi.org/10.1016/j.socne 
+t.2017.02.002.
+der Sluijs, V. (2005). Jeroen. “Uncertainty as a Monster in the Science-Policy Interface: Four Coping Strate-
+gies”. Water Science and Technology: A Journal of the International Association on Water. Pollution 
+Research, 52(6), 87–92.
+Dossey, L. (2014). Agnotology: On the varieties of ignorance, criminal negligence, and crimes against 
+humanity. EXPLORE: The Journal of Science and Healing, 10(6), 331–344. https ://doi.org/10.1016/j.
+explo re.2014.08.011.
+Dunn, W. N. (1988). Methods of the second type: Coping with the wilderness of conventional policy analy-
+sis. Policy Studies Review, 7(4), 720–737.
+Dunn, W. N. (1991). Assessing the impact of policy analysis: The functions of usable ignorance. Knowledge 
+and Policy, 4, 36–55. https ://doi.org/10.1007/BF026 92780 .
+Esberg, J., & Mummolo, M. (2018). Explaining misperceptions of crime. SSRN Scholarly Paper. Rochester, 
+NY: Social Science Research Network. https ://paper s.ssrn.com/abstr act=32083 03
+Fischer, F. (Ed.). (1987). Confronting values in policy analysis: The politics of criteria. Beverly Hills, CA: 
+Sage.
+Fischer, F., & Forester, J. (Eds.). (1993). The argumentative turn in policy analysis and planning. Durham: 
+Duke University Press.
+Foucault, M. (1979). On governmentality. Ideology and Consciousness, 6, 5–21.
+Galanter, M. (1980). Legality and its discontents: A preliminary assessment of current theories of legaliza-
+tion and delegalization. In E. Blankenburg, E. Klausa, & H. Rottleuthner (Eds.), Alternative Rechts-
+foren Und Alternativen Zum Recht (pp. 11–26). Bonn: Westdeutscher Verlag.
+Goodin, R. E. (1980). Manipulatory politics. New Haven: Yale University Press.
+Gordin, M. D. (2012). How lysenkoism became pseudoscience: Dobzhansky to velikovsky. Journal of the 
+History of Biology, 45, 443–468.
+Greenwood, M. M., Sorenson, M. E., & Warner, B. R. (2016). Ferguson on Facebook: Political persuasion 
+in a new era of media effects. Computers in Human Behavior, 57, 1–10. https ://doi.org/10.1016/j.
+chb.2015.12.003.
+Gross, M. (2010). Ignorance and surprise: Science, society, and ecological design. Cambridge: MIT Press.
+Habermas, J. (1974). Knowledge and human interests. Boston: Beacon Press.
+Hawkesworth, M. (1992). Epistemology and policy analysis. In W. Dunn & R. M. Kelly (Eds.), Advances in 
+policy studies (pp. 291–329). New Brunswick: Transaction Press.
+Herz, M., & Molnar, P. (Eds.). (2012). The content and context of hate speech: Rethinking regulation and 
+responses. Cambridge; New York: Cambridge University Press.
+Hong, S., & Nadler, D. (2016). The unheavenly chorus: Political voices of organized interests on social 
+media. Policy & Internet, 8(1), 91–106. https ://doi.org/10.1002/poi3.110.
+Howlett, M. (2012). The lessons of failure: Learning and blame avoidance in public policy-making. Interna-
+tional Political Science Review, 33(5), 539–555. https ://doi.org/10.1177/01925 12112 45360 3.
+Howlett, M., McConnell, A., & Perl, A. (2016). Weaving the fabric of public policies: Comparing and inte-
+grating contemporary frameworks for the study of policy processes. Journal of Comparative Policy 
+Analysis, 18(3), 273–289.
+Howlett, M., & Nair, S. (2017). The central conundrums of policy formulation: Ill-structured problems and 
+uncertainty. In M. Howlett and I. Mukherjee (Eds.), Handbook of policy formulation.
+Howlett, M., Ramesh, M., & Perl, A. (2009). Studying public policy: Policy cycles & policy subsystems (3rd 
+ed.). Don Mills, ON: Oxford University Press.
+<<<PAGE=18>>>
+598 Policy Sciences (2018) 51:581–600
+1 3
+Hula, R., Jackson-Elmoore, C., & Reese, L. (2007). Mixing God’s work and the public business: A frame-
+work for the analysis of faith-based service delivery. Review of Policy Research, 24(1), 67–89.
+Jasanoff, S., & Simmet, H. R. (2017). No funeral bells: Public reason in a post-truth age. Social Studies of 
+Science, 47(5), 751–770.
+Johnson, T. J., & Kaye, B. K. (2013). The dark side of the boon? Credibility, selective exposure and the 
+proliferation of online sources of political information. Computers in Human Behavior, 29(4), 1862–
+1871. https ://doi.org/10.1016/j.chb.2013.02.011.
+Johnson, T. J., & Kaye, B. K. (2016). Some like it lots: The influence of interactivity and reliance on cred-
+ibility. Computers in Human Behavior, 61, 136–145. https ://doi.org/10.1016/j.chb.2016.03.012.
+Jones, C. O. (1984). An introduction to the study of public policy. Monterrey, CA: Brooks/Cole.
+Jones, B. D. (2002). Bounded rationality and public policy: Herbert A. Simon and the decisional foundation 
+of collective choice. Policy Sciences, 35, 269–284.
+Jones, R. A., & Lidsky, L. B. (2016). Of reasonable readers and unreasonable speakers: Libel law in a net-
+worked world. SSRN Scholarly Paper. Rochester, NY: Social Science Research Network, February 8, 
+2016. https ://paper s.ssrn.com/abstr act=27296 25.
+Kakutani, M. (2018). The death of truth: Notes on falsehood in the age of Trump. New York: Tim Duggan 
+Books.
+Kavanagh, J., & Rich, M. D. (2018). Truth decay: An initial exploration of the diminishing role of facts and 
+analysis in American public life. Santa Monica, CA: RAND Corporation.
+Kim, Y. M., Hsu, J., Neiman, D., Kou, C., Bankston, L., Kim, S. Y., et al. (2018). The stealth media? Groups 
+and targets behind divisive issue campaigns on Facebook. Political Communication. https ://doi.
+org/10.1080/10584 609.2018.14764 25.
+Kingdon, J. W. (1984). Agendas, alternatives and public policies. Boston: Little, Brown.
+Kissane, R. J. (2007). How do faith-based organizations compare to secular providers? Nonprofit directors’ 
+and poor women’s assessments of FBOs. Journal of Poverty, 11(4), 91–115.
+Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one’s own 
+incompetence lead to inflated self-assessments. Journal of Personality and Social Psychology, 77(6), 
+1121–1134. https ://doi.org/10.1037/0022-3514.77.6.1121.
+Lasswell, H. D. (1956). The decision process: Seven categories of functional analysis. College Park, 
+MD: University of Maryland.
+Lasswell, H. D. (1970). The emerging conception of the policy sciences. Policy Sciences, 1, 3–14.
+Lasswell, H. D. (1971). A pre-view of policy sciences. New York: Elsevier.
+Lasswell, H. D., & Lerner, D. (1951). The policy orientation. In H. D. Lasswell (Ed.), The policy sci-
+ences: Recent developments in scope and method (pp. 3–15). Stanford: Stanford University Press.
+Lemke, T (2000). Foucault, governmentality, and critique.
+Lewandowsky, S., Oreskes, N., Risbey, J. S., Newell, B. R., & Smithson, M. (2015). Seepage: Climate 
+change denial and its effect on the scientific community. Global Environmental Change, 33, 1–13. 
+https ://doi.org/10.1016/j.gloen  vcha.2015.02.013.
+Ley, A. J. (2018). Mobilizing doubt: The legal mobilization of climate denialist groups. Law & Policy. 
+Accessed 18 May 2018. https ://doi.org/10.1111/lapo.12103 .
+Logan, D. C. (2009). Known knowns, known unknowns, unknown unknowns and the propagation of 
+scientific enquiry. Journal of Experimental Botany, 60(3), 712–714. https ://doi.org/10.1093/jxb/
+erp04 3.
+Macafee, T. (2013). Some of these things are not like the others: Examining motivations and political 
+predispositions among political Facebook activity. Computers in Human Behavior, 29(6), 2766–
+2775. https ://doi.org/10.1016/j.chb.2013.07.019.
+Manski, C. F. (2013). Public policy in an uncertain world: Analysis and decisions. Cambridge: Harvard 
+University Press.
+Maor, M. (2012). Policy overreaction. Journal of Public Policy, 32(03), 231–259. https ://doi.
+org/10.1017/S0143 814X1 20001 3X.
+Maor, M. (2014). Policy persistence, risk estimation and policy underreaction. Policy Sciences, 47(4), 
+425–443. https ://doi.org/10.1007/s1107 7-014-9203-8.
+Maor, M. (2015). Emotion-driven negative policy bubbles. Policy Sciences, 49(2), 191–210. https ://doi.
+org/10.1007/s1107 7-015-9228-7.
+McIntyre, L. (2018). Post-truth. Cambridge, MA: MIT Press.
+Mejias, U. A., & Vokuev, N. (2017). Disinformation and the media: The case of Russia and the Ukraine. 
+Media, Culture and Society, 39(7), 1027–1042.
+Mintrom, M. (2007). The policy analysis movement. In L. Dobuzinskis, M. Howlett, & D. Laycock (Eds.), 
+Policy analysis in Canada: The state of the art (pp. 71–84). Toronto: University of Toronto Press.
+<<<PAGE=19>>>
+599Policy Sciences (2018) 51:581–600 
+1 3
+Moore, M. H. (1994). Public value as the focus of strategy. Australian Journal of Public Administration,  
+53(3), 296–303.
+Morgan, S. (2018). Fake news, disinformation, manipulation and online tactics to undermine democracy. 
+Journal of Cyber Policy, 3(1), 39–43.
+Morgan, M. G., & Henrion, M. (1990). Uncertainty: A guide to dealing with uncertainty in quantitative 
+risk and policy analysis. Cambridge: Cambridge University Press.
+Motta, M., Callaghan, T., & Sylvester, S. (2018). Knowing less but presuming more: Dunning–Kruger 
+effects and the endorsement of anti-vaccine policy attitudes. Social Science and Medicine, 211, 
+274–281. https ://doi.org/10.1016/j.socsc imed.2018.06.032.
+Newman, E. J., Garry, M., Bernstein, D. M., Kantner, J., & Lindsay, D. S. (2012). Nonprobative photo-
+graphs (or words) inflate truthiness. Psychonomic Bulletin & Review, 19(5), 969–974. https ://doi.
+org/10.3758/s1342 3-012-0292-0
+Oliver, J. E., & Wood, T. J. (2014). Conspiracy theories and the paranoid style(s) of mass opinion. Amer -
+ican Journal of Political Science. https ://doi.org/10.1111/ajps.12084 .
+Oreskes, N., & Conway, E. M. (2011). Merchants of doubt: How a handful of scientists obscured the truth 
+on issues from tobacco smoke to global warming (Export ed.). New York, NY: Bloomsbury Press.
+Packwood, A. (2002). Evidence-based policy: Rhetoric and reality. Social Policy & Society, 1(3), 267–272.
+Pasek, J., Stark, T. H., Krosnick, J. A., & Tompson, T. (2015). What motivates a conspiracy theory? 
+Birther beliefs, partisanship, liberal-conservative ideology, and anti-black attitudes. Electoral 
+Studies, 40, 482–489. https ://doi.org/10.1016/j.elect stud.2014.09.009.
+Proctor, R., & Schiebinger, L. (Eds.). (2008). Agnotology: The making and unmaking of ignorance. Stan-
+ford, CA: Stanford University Press.
+Richey, S. (2017). A birther and a truther: The influence of the authoritarian personality on conspiracy 
+beliefs. Politics & Policy, 45(3), 465–485. https ://doi.org/10.1111/polp.12206 .
+Riker, W. H. (1986). The art of political manipulation. New Haven: Yale University Press.
+Rosenbaum, L. (2017). Resisting the suppression of science. The New England Journal of Medicine,  
+356(17), 1607–1609.
+Sabatier, P. A. (1988). An advocacy coalition framework of policy change and the role of policy-oriented 
+learning therein. Policy Sciences, 21, 129–168.
+Sabatier, P. A. (1993). Policy change over a decade or more. In P. A. Sabatier & H. C. Jenkins-Smith (Eds.), 
+Policy change and learning: An advocacy coalition approach (pp. 13–39). Westview: Boulder.
+Sanderson, I. (2002). Making sense of ‘what works’: Evidence based policymaking as instrumental rational-
+ity? Public Policy and Administration, 17(3), 61–75.
+Schneider, A., & Ingram, H. (1993). Social construction of target populations: Implications for politics and 
+policy. American Political Science Review, 87(2), 334–347.
+Schneider, A. L., & Ingram, H. M. (Eds.). (2005). Deserving and entitled: Social constructions and public 
+policy. SUNY Series in Public Policy. Albany: State University of New York.
+Schultz, D. (2017). Alternative facts and public affairs. Journal of Public Affairs Education, 23(3), 775–778.
+Schultze, C. L. (1977). The public use of private interests. Washington: Brookings Institute.
+Scott, J. C. (1969). The analysis of corruption in developing nations. Comparative Studies in Society and 
+History, 11(03), 315–341. https ://doi.org/10.1017/S0010 41750 00053 63.
+Simon, H. (1967). The logic of heuristic decision making. In N. Rescher (Ed.), The logic of decision and 
+action (pp. 1–35). Pittsburgh: University of Pittsburgh Press.
+Simon, H. A. (1978). Rationality as process and as product of thought. The American Economic Review, 
+68(2), 1–16.
+Southwell, B. G., Thorson, E. A., & Sheble, L. (Eds.). (2018). Misinformation and Mass Audiences. Austin: 
+University of Texas Press.
+Sovacool, B. K., & Brown, M. A. (2015). Deconstructing facts and frames in energy research: Maxims for 
+evaluating contentious problems. Energy Policy, 86, 36–42.
+Stevens, T. M., Aarts, N., Termeer, C. J. A. M., & Dewulf, A. (2018). Social media hypes about agro-food 
+issues: Activism, scandals and conflicts. Food Policy. https ://doi.org/10.1016/j.foodp ol.2018.04.009.
+Stoker, G. (2018). Can the governance paradigm survive the rise of populism? Policy & Politics. https ://doi.
+org/10.1332/03055 7318X 15333 03303 0897.
+Syuntyurenko, O. V. (2015). Network technologies for information warfare and manipulation of public opin-
+ion. Scientific and Technical Information Processing, 42(4), 205–210.
+Theocharis, Y., & van Deth, J. W. (2018). The continuous expansion of citizen participation: A new taxon-
+omy. European Political Science Review, 10(1), 139–163. https ://doi.org/10.1017/S1755 77391 60002 
+30.
+Treisman, D. (2007). What have we learned about the causes of corruption from ten years of cross-national 
+empirical research? Annual Review of Political Science, 10, 211–244.
+<<<PAGE=20>>>
+600 Policy Sciences (2018) 51:581–600
+1 3
+Tribe, L. H. (1972). Policy science: Analysis or ideology? Philosophy & Public Affairs, 2(1), 66–110.
+Vasu, N., Ang, B., Teo, T.-A., Jayakumar, S., Faizal, M., & Ahuja, J. (2018). Fake news: National security 
+in the post-truth era. In Policy Report. Singapore: Nanyang Technological University. January 2018. 
+Available at https ://www.rsis.edu.sg/wp-conte nt/uploa ds/2018/01/PR180 313_Fake-News_WEB.pdf. 
+Accessed 3 June 2018.
+Vosoughi, S., Roy, D., & Aral, S. (2018). The spread of true and false news online. Science, 359, 1146–1151.
+Wallace, J. (2018). Modelling contemporary gatekeeping. Digital Journalism, 6(3), 274–293. https ://doi.
+org/10.1080/21670 811.2017.13436 48.
+Warnier, J.-P. (2013). On agnotology as built-in ignorance. Africa Spectrum, 48(1), 113–116.
+Webber, D. J. (1992). The distribution and use of policy knowledge in the policy process. In W. N. Dunn & 
+R. M. Kelly (Eds.), Advances in policy studies since 1950 (pp. 383–418). New Brunswick, NJ: Trans-
+action Publishers.
+Wildavsky, A. B. (1979). Speaking truth to power: The art and craft of policy analysis. Boston: 
+Little-Brown.

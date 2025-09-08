@@ -1,0 +1,1983 @@
+<<<PAGE=1>>>
+Intangible Capital
+IC, 2024 – 20(1): 60-88 – Online ISSN: 1697-9818 – Print ISSN: 2014-3214
+https://doi.org/10.3926/ic.2389
+Determinants of  innovative behavior from the perspective 
+of  individual factors: A conceptual framework
+Yesica Corzo-Morales* 
+ , Orlando E. Contreras-Pacheco 
+Universidad Industrial de Santander (Colombia)
+*Corresponding author: yesica2208427@correo.uis.edu.co, 
+ocontrer@uis.edu.co 
+Received June, 2023
+Accepted November, 2023
+Abstract
+Purpose: This  study  outlines  the  structured  dimensions  of  innovative  work  behavior  (IWB).  It
+interprets and associates the underlying characteristics found in the existing literature to develop a
+conceptual framework, which provides a comprehensive overview of  IWB from the perspective of
+individual factors. This study also identifies the cognitive and behavioral determinants of  individual
+innovative  behavior  and  the  most  related  management  theories.  Furthermore,  it  investigates  the
+quantitative modeling methods used to explore this phenomenon and recommends practical managerial
+applications to promote employees’ innovative behavior. 
+Design/methodology/approach: The  conceptual framework was developed through a systematic
+literature review, following three fundamental stages: 1) planning, 2) development, and 3) synthesis of
+the review. We retrieved 637 documents, spanning a 5-year time frame, from both Scopus and Web of
+Science  academic  information  indexing  and  retrieval  systems.  Subsequently,  seven  inclusion  and
+exclusion criteria were applied to determine the eligibility of  the studies, incorporating the guidelines
+from the PRISMA statement. The final sample consisted of  49 scientific articles that answered five
+guiding questions, leading to the integration of  the framework.
+Findings: This study examines the dimensions of  IWB—that is, the generation, introduction, and
+realization of  ideas—by analyzing the fundamental properties mentioned by the authors of  the selected
+documentary  sample.  It  further  identifies  48  determinants  of  IWB,  categorized  under  three
+organizational management theories: personality traits, self-determination, and social exchange theories.
+This study also analyzes the applied quantitative research methods, business sectors, and countries
+investigated, identifying the most commonly used methods and most frequently investigated sectors and
+countries. Additionally, it highlights the current research agenda for promoting IWB as an enabler of
+competitive organizational development. Finally, we present a conceptual framework that provides a
+theoretical structure for understanding individual IWB. 
+Practical implications: We clarify the current research landscape of  IWB in an organizational context.
+We also help identify the level of  academic interest in this subject for future studies. Furthermore, we
+compile valuable recommendations for business managers aiming to enhance the competencies of  their
+workforce in managing innovative processes.
+Originality/value: We introduce a new conceptual framework for IWB that considers its primary
+strategic purposes. Therefore, this study is a reference point for future empirical innovation management
+studies. It provides a classification of  individual-level determinants with a cognitive and behavioral
+focus,  incorporating  constructs  such  as  spirituality,  altruism,  ethical  and  empathic  behaviors,  and
+resilience.
+-60-
+<<<PAGE=2>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Keywords:  Innovative work behavior, Individual innovation, Determinants of  innovative behavior, Innovation, 
+Conceptual framework, Literature review.
+Jel Codes: M12, M19
+To cite this article: 
+Corzo-Morales, Y ., & Contreras-Pacheco, O.E. (2024). Determinants of innovative behavior from the perspective 
+of individual factors: A conceptual framework. Intangible Capital, 20(1), 60-88. https://doi.org/10.3926/ic.2389 
+1. Introduction
+Thriving  in  the  ever-evolving  business  landscape  demands  that  organizations  boldly  embrace  innovation,
+relentlessly reinvent themselves, and navigate the complexities of  a digitally interconnected world to secure a
+lasting competitive edge (Nöhammer & Stichlberger, 2019). From this perspective, the relevant literature has
+demonstrated  that  innovation  at  work  is  a  key  factor  in  organizational  performance  and  effectiveness
+(Colombelli, Haned & Le Bas, 2013; Wang, Gao & Panaccio, 2021). Innovations in products, services, and
+business  and  industrial  concepts  allow  organizations  to  differentiate  themselves  from  their  competitors
+(Almulhim, 2020). Furthermore, process and organizational innovations increase operational efficiency, reduce
+costs, and enhance profitability (Alnajjar & Hashim, 2020; Thornhill, 2006). To obtain these benefits, it is
+essential to leverage the innovative potential of  teams and individuals within organizations (Agarwal, 2014; Chen
+& Huang, 2009; Migdadi, 2022).
+However, despite the growing awareness of  the importance of  this phenomenon, most research has focused on
+traditional approaches, overlooking a crucial aspect: the individual is a fundamental driver of  innovation in the
+workplace (Lee, Pak, Kim & Li, 2019; Mariz-Perez, Teijeiro-Alvarez & Garcìa-Alvarez, 2012; Tajeddini & Martin,
+2020). This study delves into the underexplored territory of  the individual factors that drive Innovative Work
+Behavior (IWB) and presents a conceptual framework that aims to highlight this critical dimension.
+Individual-level IWB is represented by  an employee’s intention to introduce or apply new ideas, products,
+processes, and procedures to their work roles (Yuan & Woodman, 2010). It is also framed as critical thinking,
+which enables the recognition of  potential problems and the exploration of  opportunities and solutions to create
+value  (Alessa  & Durugbo, 2021). According  to the  literature, research  into the  determinants of  IWB  has
+explored three types of  factors: (a) individual factors including attitudes and cognitive abilities; (b) job-related
+factors  that  encompass  job  characteristics,  such  as  job  complexity;  and  (c)  contextual  factors,  such  as
+organizational climate (Hammond, Neff, Farr, Schwall & Zhao, 2011).
+Several literature reviews have focused on the individual-, contextual-, and organizational-level determinants
+of  IWB (Anderson, Potočnik & Zhou, 2014; Crossan & Apaydin, 2010). Recommendations have also been
+made in research on individual innovation based on teamwork (Hülsheger, Anderson & Salgado, 2009). Prior
+systematic reviews have addressed the impact of  learning behaviors in work teams on innovative behavior,
+arguing that learning and innovation are mutually dependent (Widmann, Messmann & Mulder, 2016). The link
+between human resource practices and employee IWB has also been investigated (Bos-Nehles, Renkema &
+Janssen,  2017).  Pérez-Peñalver,  Aznar-Mas  and Montero-Fleta  (2018)  evaluated  individual  innovation
+performance  in  organizations  by  presenting  an  innovation  model  that  integrates  idea  generation  and
+implementation with creativity, critical thinking, initiative, teamwork, and networking. Alessa and Durugbo
+(2021) provided an overview of  existing knowledge on management concepts and contributions to IWB
+research from 2000 to 2019.
+Despite the continuous evolution of  the literature on factors affecting innovative work behavior, there is a need
+to expand, analyze, consolidate, and integrate the results of  previous research focusing on the determinants
+influencing employees’ IWB (Alessa & Durugbo, 2021; Anser, Yousaf, Yasir, Sharif, Nasir, Rasheed et al., 2022;
+Bos-Nehles & Veenendaal, 2017). This review adds value and originality by providing a theoretical framework
+-61-
+<<<PAGE=3>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+that enhances the understanding of  the concepts, dimensions, properties, and determinants associated with
+individual-level IWB, analyzing research from 2017 to 2022. To fulfill this objective, a systematic literature review
+serves  as  the  primary  input  of  this  study.  Through  this  approach,  the  research  offers  several  theoretical
+contributions and clarifies five specific research questions.
+Q1. What are the key concepts of  IWB, its dimensions, and properties?
+Q2. What individual-level determinants have the greatest influence on employees’ IWB?
+Q3. What are the main economic sectors addressed by this research topic?
+Q4. What are the most commonly used quantitative modeling techniques for the study of  IWB?
+Q5. What research gaps are evident in the literature on employee IWB, based on individual factors?
+The  conceptual framework is presented by  analyzing and synthesizing different theoretical approaches in
+management, empirical research, and practical applications. This research not only fills an evident gap in the
+existing literature, but also provides organizations with an evidence-based roadmap to foster innovation in
+their workforce. In the competitive landscape of  business, where innovation is a key differentiating element,
+such studies are perceived as useful and necessary for the advancement and survival of  organizations and
+institutions.
+The remainder of  this manuscript is structured as follows: Section two describes the methodology. Section three
+synthesizes the results and classifies the general concepts of  IWB, followed by analysis. Section four presents the
+conceptual framework of  the study. Section five discusses the findings. Finally, conclusions are presented in
+section six.
+2. Methodology
+Constructing a conceptual framework  involves creating a structure of  complex relationships that encompass
+concepts, theories, practices, and criteria for a specific topic (Díaz, Demissew, Carabias, Joly, Lonsdale, Ash et al.,
+2015). This approach allows for a clear and concise interpretation through the systematic review approach
+proposed by Tranfield,  Denyer and Smart  (2003). Following Moher, Liberati, Tetzlaff, Altman, Altman, Antes
+et al. (2009), this systematic review provides a comprehensive literature overview. It establishes connections
+among existing knowledge through a comprehensive strategy that enables the identification, evaluation, and
+synthesis of  reliable information. Additionally, the recognition that a systematic literature review can contribute
+to framework development is widely acknowledged, as evidenced by its application in numerous studies (Alessa
+& Durugbo, 2021; Crossan & Apaydin, 2010).
+Subsequently, adopting a conceptual framework in this study provides a structure for organizing the literature
+related to IWB from the perspective of  individual factors. This framework not only facilitates understanding of
+the dimensions of  IWB but also allows the identification and association of  underlying properties in the existing
+literature, thereby contributing to the consolidation of  a global view of  this phenomenon and the coherent
+integration of  related management theories. Ultimately, this theoretical approach not only helps fill a gap in
+existing research, but also has practical applications, offering organizations a valuable reference framework for
+understanding and promoting the innovative behavior of  employees more effectively.  The systematic review
+approach of  Tranfield et al. (2003) consists of  three stages: 1). Planning - establishing the objective and search
+strategy; 2) review development - describing how data are identified, selected, and evaluated using the PRISMA
+flowchart to represent the number of  reviewed studies; and 3) synthesis and analysis of  information. In this final
+stage, the bibliometric analysis process is a preliminary step in the development of  the guiding questions used to
+examine the profile and research structure (i.e., distribution, knowledge areas, main sources of  publication,
+frequent words, and co-citation network of  authors) of  the sample obtained on the study topic (Kostoff,
+Tshiteya, Pfeil, Humenik & Karypis, 2005).
+In  addition,  the  content  analysis  process  addresses  the  five  guiding  questions.  These  include  the  theories,
+concepts, properties, determinants, methods, countries, and sectors studied in previous research on IWB. The
+result  is  the  integration  of  a  conceptual  framework  that  simplifies  the  complex  innovation  interactions
+experienced by employees in their work environment.
+-62-
+<<<PAGE=4>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+2.1. Stage 1: Planning
+The objective of  the first stage was to evaluate the research profiles of  the selected studies. This stage included
+analyzing publication  trends,  author  productivity,  geographic  scope,  predominant research  designs, and the
+quantitative techniques used. Additionally, a search strategy and protocol were developed to identify relevant
+databases and key terms for the search equation to find matches in article titles, abstracts, and content, along
+with the inclusion and exclusion criteria for selecting the study sample. Following similar guidelines to literature
+reviews focused on innovation management and current selection time frames (Betancur,  Pardo del Val &
+Martínez-Pérez, 2022; Idris & Durmuşoğlu, 2021), the systematic literature review was conducted for academic
+products found between January 1, 2017, and September 9, 2021. Details of  the strategies used are presented in
+Table 1.
+Strategy Description
+Search Engine
+The study utilized academic information indexing and retrieval systems Scopus and Web of  Science 
+(WoS). This decision was based on criteria of  availability, information accessibility, precise filtering, 
+and being renowned references for academic quality, indexing peer-reviewed publications across 
+multiple domains and research topics (Wilt & Fink, 2007).
+Key Terms
+A preliminary retrospective search defined logical operators and tested various keywords by iterating 
+alternative equations. The best results were obtained with an equation focused on the terms: 
+“Individual Predictors of  Innovative Behavior” OR “Determinants of  Innovative Behavior” OR 
+“Innovative work behavior”.
+Inclusion criteria
+• Publications between 2017 and 2021.
+• Document type: Scientific articles published in peer-reviewed journals.
+• Language: English.
+• Study design: Quantitative empirical studies.
+• Results demonstrating the influence of  individual factors on innovative behavior.
+Exclusion criteria
+• Document type: Proceedings, book chapters, books, or other.
+• Study design: Qualitative studies.
+• Studies not presenting empirical research on individual innovative behavior
+Table 1. Development of  the search strategy
+2.2. Stage 2: Review Development
+During this stage, the PRISMA flowchart, a tool that facilitates the organized graphical representation of  a
+process in four phases (identification, screening, eligibility, and final inclusion of  the selected sample), was
+employed (Moher et al., 2009). In the identification phase, 552 and 157 studies were collected from Scopus and
+WoS, respectively, resulting in 709 documents. Upon review, 72 duplicates were removed, resulting in a final
+selection of  637 studies from the period between 2017 and September 9, 2021.
+Following the guidelines of  Botha and Steyn (2020), the inclusion and exclusion criteria based on the period,
+publication  in  English,  and  type  of  document  (scientific  article)  were  applied  in  the  screening  phase.
+Consequently, the number of  documents was reduced to 473. In the eligibility phase, a joint review of  the
+remaining 379 documents was conducted by evaluating the titles, abstracts, and objectives of  each article to
+ensure correspondence with the established quality protocol. We verified that there were no discrepancies in the
+selection of  impact or experimental studies that included questionnaires on IWB. This joint review identified 85
+relevant studies and excluded 294.
+Finally, the document sample was organized and stored using the Mendeley reference manager in the inclusion
+phase. At this stage, an individual content analysis of  the selected studies was conducted, resulting in the
+exclusion of  36 articles that were not closely related. This process yielded a final sample of  49 documents.
+Figure 1 illustrates this process.
+2.3. Stage 3: Information Analysis
+The selected document sample was processed through bibliometric analysis using the Bibliometrix package in
+RStudio and Scopus software, as described in the results section. This analysis allows for the assessment of  the
+impact of  scientific activity  in specific  periods (Arbeláez & Onrubia, 2014). Subsequently,  an analysis was
+-63-
+<<<PAGE=5>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+conducted by thoroughly reading the 49 selected articles, individually identifying and classifying information
+corresponding to the five guiding questions. The following section presents the results of  the bibliometric and
+content analyses.
+Studies in Scopus (n=552) Studies in WOS (n=157) 
+Records after deleting duplicates (n=637) 
+Selected records (n=473) 
+Excluded Articles (n=164)
+Inclusion criteria: time period, document
+type and English language
+Record selected for detailed evaluation (n=85)
+Excluded Items(n=294)
+Not ideal subject matter after evaluating
+the document.
+Included studies that meet all criteria and 
+provide information
+(n=49)
+Excluded Articles with Motives (n=36)
+They do not measure specific variables at
+the level of individual factors.
+IN CLUDED ELIGIBILITY SCREEN IN G IDEN TIFICACIÓN Total Items (n=709)
+Total records screened (n=379) Excluded Articles (n=94)
+Exclusion criteria: qualitative study
+method.
+Figure 1. Study selection flowchart, according to PRISMA guidelines (Moher et al., 2009)
+3. Results
+In this section, we present the bibliometric analysis. It includes the distribution of  the selected IWB sample by
+year, the study areas of  greatest interest, the main research sources, associated terms, researchers, and the
+co-citation network. Subsequently, answers to the five guiding questions are presented (AR1, AR2, AR3, AR4,
+and AR5), shedding light on the theoretical framework of  IWB.
+3.1. Bibliometric Analysis of  Information
+The results of  the bibliometric analysis suggest significant growth in research on IWB during the analyzed
+production period (see Figure 2). This trend supports claims from previous studies, highlighting a marked
+research interest and active agenda, with opportunities to continue exploring how IWB emerges from individual
+factors (Alessa & Durugbo, 2021; Bos-Nehles & Veenendaal, 2017).
+Note: Data consulted with a cut-off  date of  September 9, 2021
+Figure 2. Distribution of  annual production (Scopus, 2021)
+-64-
+<<<PAGE=6>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+The  identified  areas  of  study  with  the  highest  interest  in  this  topic  include  Management,  Business,  and
+Accounting (n = 29), Social Sciences (n = 16), and Psychology (n = 7). This observation reinforces the existing
+research interconnection between analyzing phenomena related to organizational behavior and business contexts
+linked to information technologies, as suggested by Nöhammer and Stichlberger (2019).
+0 10 20 30 40 50 60
+innovative work behavior
+innovative behavior
+innovation
+knowledge sharing
+creativity
+creative self-efficacy
+work engagement
+employees
+psychological empowerment
+motivation
+workplace
+curiosity
+self-determination theory
+job satisfaction
+organizational behavior
+emotional intelligence
+Frequency
+Words
+Keywords by Author
+Figure 3. Frequency of  keywords indexed by author (Bibliometrix)
+Regarding the main publication sources, the leading journal in terms of  the number of  publications was the
+European Journal of  Management (EJM)  (n =  6) from the Academy of  Business & Economics, followed by the
+International Journal of  Innovation Management (n = 4) from the International Society for Professional Innovation
+Management (ISPIM), which is a globally renowned entity in this research field. Additionally, the most frequently
+used keywords per author were identified to understand the intellectual structure better (see Figure 3).
+Regarding the leading researchers in IWB research during the evaluation period, prominent figures included
+Professor Bilar Afsar, PhD. in Leadership and Innovation Management (Asian Institute of  Technology, Bangkok,
+Thailand)  (n =  4) and Professor Yousaf  Zahid, PhD. in Management Sciences (Hazara University, Pakistan)
+(n = 3). The  authors’ co-citation networks were also analyzed to gain a more comprehensive view of  the
+sample’s  structure  and  knowledge  connections.  This  network  was  generated  from  the  data  processed  in
+Bibliometrix using bibliographic coupling and the number of  shared references between two documents to
+measure similarity. The greater the overlap in bibliographies, the stronger the connection. The node size reflects
+the author’s impact, and the link thickness represents the co-citation relationships. Figure 4 presents a co-citation
+network illustrating the intellectual structure.
+In general, the network consists of  five groups differentiated by color, although collaborative work is reflected
+among them. The purple group includes 11 authors, highlighting Scott and Bruce’s (1994) dominant position and
+its  focus  on  integrating  research  streams  into  the  antecedents  of  innovation  and  developing  a  model  of
+individual innovative behavior. The blue group comprises 13 authors, led by Yuan and Woodman (2010), whose
+research focuses on IWB. The orange group features positions equivalent to those of  the 11 authors, and
+Amabile (1988) is a prominent figure exploring creativity and innovation management in depth. The green group
+connects ten authors with Hammond (2011) and De Jong and Den-Hartog (2010) in key roles. Finally, the red
+group includes four authors.
+-65-
+<<<PAGE=7>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Figure 4. Co-citation network intellectual structure (Bibliometrix)
+3.2. Guiding Questions Results
+This  section  introduces  the  key  concepts  of  individual-level  IWB,  as  presented  by  various  authors.  The
+dimensions of  IWB are identified and related, along with the properties discussed in the selected literature.
+Following  a  sequential  perspective  to  develop  the  corresponding  conceptual  framework,  each  article  is
+categorized into a distinct group during the systematic review process. This allows the determinants of  IWB to
+be  grouped  according  to  three  theoretical  approaches  (personality  traits  and  individual  attributes,
+self-determination, and social exchange).
+Furthermore, we present the analysis results regarding the quantitative techniques used, the countries studied,
+and the economic sectors addressed. Finally, we identify gaps that suggest future research directions in this field.
+Thus, the study answers the guiding questions (AQ1, AQ2, AQ3, AQ4, and AQ5), allowing for the construction
+of  the corresponding framework.
+AQ1. What are the key concepts of  innovative behavior, its dimensions, and its properties?
+a) Key concepts about employee IWB:
+Academic  literature  has explored the  characteristics  and indicators of  innovative  people  in the  workplace,
+focusing on individual-level IWB (Scott & Bruce, 1994; Yuan & Woodman, 2010). During the analysis process,
+-66-
+<<<PAGE=8>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+the key IWB concepts proposed by the sample authors (eight documents) were identified and labeled based on
+their research (see Table 2). Additionally, three fundamental concepts were incorporated (Kanter, 1988; Scott &
+Bruce, 1994; West & Farr, 1989) and are present in many of  the 49 selected studies. It is important to highlight
+that not all the studies had the main objective of  establishing a specific definition of  IWB.
+Research on individual-level innovative behavior has demonstrated continual growth. Specific interpretations
+range from employees generating ideas outside the traditional context (Kanter, 1988) to complex processes
+culminating in the commercialization of  real products or services (Bos-Nehles et al., 2017; Janssen, 2000; Scott
+& Bruce, 1994). In this context, this study conceptualizes IWB as complex employee attitudes and behavior,
+involving a multistage process including generating, creating, developing, applying, promoting, and launching
+novel ideas. This is to achieve internal and external benefits for the organization, thus ensuring competitive
+advantage.
+Definition Author and year
+A complex and non-routine behavior in which employees defend their new ideas 
+while avoiding traditional thinking.
+Kanter, 1988
+The sum of  individual actions for the creation, introduction, and intentional 
+application of  new ideas, which could benefit performance within a work role, group, 
+or organization.
+West & Farr, 1989
+The generation, promotion, and realization of  ideas. Scott & Bruce, 1994
+A series of  individual behaviors and actions aimed at the generation and introduction 
+of  a new idea that is important and useful, intending to enhance organizational 
+performance through its development and implementation.
+De Jong & Den Hartog, 2010 
+It refers to intentional behavior to generate, process, and develop new ideas in a 
+complex and iterative process.
+Ummi, Razali, Zuraini, Amlus, & 
+Razak, 2019 
+It is multi-stage behavior that attempts to improve processes, products, or procedures 
+and ultimately culminates in implementing a new idea in a work role, group, or 
+organization.
+Saether, 2019
+It is related to proactivity in generating, searching, communicating, and implementing 
+novel ideas.
+Bin & Kassim, 2019
+The generation, exploration, defense, and application of  ideas and opportunities that 
+lead to novel products.
+Asurakkody & Kim, 2020
+It is the ability to work actively to generate ideas, produce new products, and find new
+markets and processes.
+Linh, Tran, Doan, Van Nguyen, 
+2020
+It is the generation, production, processing, and application of  new ideas to improve 
+efficiency and organizational processes.
+Abukhait, Bani-Melhem & Mohd-
+Shamsudin, 2020
+All individual actions aimed at generating, introducing, and applying novel ideas are 
+beneficial at any organizational level.
+Hosseini & Haghighi, 2021
+Table 2. Grouping of  concepts on individual innovative work behavior
+b) Dimensions and identification of  properties:
+The  literature  on  IWB  has  identified  this  concept  as  a  multidimensional  global  construct  that  captures
+employee performance and behavior to contribute to the innovation process (De Jong & Den Hartog, 2010).
+Although some authors have suggested that IWB consists of  only two dimensions (Yuan & Woodman, 2010),
+the majority conceptualize it as encompassing three dimensions: idea generation, introduction, and realization
+(Scott & Bruce, 1994). In this study, the authors who expressed their positions regarding the theoretical
+dimensions of  IWB are labeled. However, only 22% of  the documents analyzed provided interpretations
+regarding IWB dimensions.
+The  first  stage  corresponds  to idea  generation,  where  employees identify  problems and opportunities and
+develop novel and useful ideas to address everyday challenges at work, thus optimizing the existing capabilities of
+the organization (Hosseini & Haghighi, 2021; Linh et al., 2020). The second stage involves the introduction or
+promotion of  the ideas. It addresses employees’ ability to establish connections with individuals who can provide
+the necessary support to launch ideas (Ummi et al., 2019). The third stage is idea realization, which refers to
+-67-
+<<<PAGE=9>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+producing products or services that can be implemented and utilized within a work role, group, or organization.
+The view of  IWB dimensions is based on the concept described by Scott and Bruce (1994), as this perspective
+provides a more complete and broader approach to understanding individual innovation.
+Accordingly,  we  categorized  the  descriptive  properties  associated  with  the  generation,  promotion,  and
+realization  of  ideas.  Descriptive  properties  are  the  different  elements  that  influence  and  qualitatively
+characterize a profile, group, community, object, or process subjected to analysis to deepen and provide a
+greater understanding of  the phenomenon under study (Hernández, Fernández & Baptista, 2014). In the first
+review, all observable data that presented similarities were grouped according to the conceptual descriptions
+proposed by the authors of  the selected sample. Items that showed similar behaviors were included only once.
+However, the authors who supported these properties at the process level were related. Table 3 shows the
+classification of  the properties of  the idea generation dimension, as argued by the authors, corresponding to
+22% of  the selected sample.
+Regarding the introduction of  ideas, only 24% of  the authors addressed the properties described in Table 4.
+Generation of  Ideas Dimension
+Properties Fountain
+Creative ideas that vary daily are presented and influenced by personal and 
+situational factors.
+Helmy, Adawiyah & Setyawati, 2020; 
+Kustanto, Hamidah, Eliyana, Santri-
+Mumpuni & Gunawan, 2020; Laguna, 
+Mielniczuk & Gorgievski, 2021; Liu, Xu & 
+Zhang, 2020; Obeidat, 2021
+Critical thinking is introduced to develop “outside the box” ideas that go 
+beyond expectations.
+Derin, Toker & Gorener, 2021; Kustanto et 
+al., 2020
+A complex and proactive behavior is presented to generate practical, 
+realistic, and feasible ideas.
+Afsar, Al-Ghazali, Cheema & Javed, 2020; 
+Hafeez, Panatik, Rahman, Rajab, Abu-Bakar
+& Norazman, 2019
+Internal and external knowledge is recombined in new patterns. Işık, Aydın, Dogru, Rehman, Alvarado, 
+Ahmad et al., 2021
+It incorporates searching for existing information, technologies, or materials 
+to develop and generate new approaches, methods, and work techniques.
+Bibi & Afsar, 2020; Bin-Saeed, Afsar, 
+Shahjehan & Imad-Shah, 2019
+Table 3. Properties of  the idea generation dimension
+Introduction of  Ideas Dimension
+Properties Fountain
+Interactions between colleagues and supervisors facilitate information and 
+support the management of  new ideas.
+Afsar et al., 2020; Arsawan, Rajiani, Wirga &
+Suryantini, 2020; Clarke & Higgs, 2020; 
+Derin et al., 2021
+Common expectations, knowledge, experience, and timely information 
+about the new idea or problem solution are shared with stakeholders.
+Bin & Kassim, 2019; Helmy et al., 2020; Işık
+et al., 2021; Kustanto et al., 2020; Wang et 
+al., 2021
+The advantages and disadvantages of  creative solutions to problems 
+involving substantial deviations are evaluated.
+Abukhait et al., 2020; Ren, Zhang & Wei, 
+2021
+Strategic alliances and financial support are identified to consolidate the idea 
+and benefit the team and organization.
+Liu et al., 2020
+Agreements are developed, and appropriate stakeholders with the power to 
+make decisions are recognized.
+Abdullah, Ahmad, Ahmad, Mohd Khatijah, 
+Fazida et al., 2019
+Table 4. Properties of  the idea introduction dimension
+Regarding the realization of  ideas, only 6% clarified and described its characteristics, as shown in Table 5.
+-68-
+<<<PAGE=10>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Realization of  Ideas Dimension
+Properties Fountain
+It occurs through cooperation and the contribution of  employees’ resources, 
+knowledge, and skills.
+Kmieciak, 2020
+A proactive behavior is developed, focusing on enthusiasm, consistency, and 
+persistence in applying the idea.
+Alnajjar & Hashim, 2020
+An action-based approach is used to develop goals, gather information, plan, 
+and execute ideas.
+Hafeez et al., 2019
+Table 5. Properties of  the idea realization dimension
+AQ2. What are the individual-level determinants that have the greatest influence on employees’ IWB? 
+Toward a classification of  determinants influencing employees’ IWB and its practical implications
+This study reviews the spectrum of  theoretical lenses used (highly cited articles) during the content analysis
+process. In this process, each article was labeled under three categories related to management theories addressed
+by the authors of  the sample. The first category was associated with personality traits and individual attributes,
+accounting for 39% of  the selected articles, equivalent to 19 studies. The second category, concerning self-
+determination theory, comprised 31% of  the documentary sample, equivalent to 15 studies. The third category,
+at 26% (13 studies), was related to knowledge management and social exchange theories. The remaining 2%
+included two studies corresponding to theory categories one and three. The influential determinants of  IWB that
+were positively evaluated in these studies were then classified. Similarly, the most relevant practical implications
+presented by the authors to strengthen and develop employees’ competencies and skills were included. It is
+important to note that some studies are simultaneously related to two theories. The groupings are presented
+below, and the findings are summarized in Tables 6, 7, and 8.
+Category 1. Theory of  Personality Traits and Individual Attributes
+Personality trait theory suggests that certain specific traits and attributes influence how a person chooses, adapts
+to, and shapes their surrounding environment (Tett & Burnett, 2003). Trait theory has demonstrated how and
+why employees vary in their ability to generate innovative behaviors at work (Afsar et al., 2020; Hammond et al.,
+2011; Mustafa, Coetzer, Ramos & Fuhrer, 2021; Woods, Mustafa, Anderson & Sayer, 2018).
+The studies reviewed in this work explored the effects of  personality (Ummi et al., 2019), emotional intelligence
+(Hafeez et al., 2019; Malik, 2021), altruism (Alnajjar & Hashim, 2020), positive affect (Laguna et al., 2021); work
+commitment and cultural Intelligence (Afsar et al., 2020; Hosseini & Haghighi, 2021); awareness and openness to
+experience (Abdullah et al., 2019; Mustafa et al., 2021; Sabahattin, 2020); multiple personality traits (Stock, Groß
+& Xin, 2019); adaptability, work curiosity, and resilience.
+Determinants Description Strategies
+Author 
+and year
+Personality Traits 
+(PT), 
+Conscientiousness 
+(CO), Openness to 
+Experience (OE), Job
+Satisfaction (JS).
+JS (internal state expressed by the affective 
+and/or cognitive evaluation of  work 
+experience) was positively related to the 
+generation, introduction, and realization of  
+ideas. OE (the level of  individuals’ curiosity, 
+imagination, and openness to new ideas) and
+CO (associated with superior task 
+performance - conscientious employees tend
+to be hardworking, persistent, and 
+goal-oriented by nature) moderated the 
+relationships between JS and IWB.
+Managers and owners of  small
+and medium-sized businesses 
+in the manufacturing sector 
+might consider using 
+personality tests during the 
+hiring phase. Doing so can be 
+beneficial in identifying and 
+selecting employees who are 
+likely to demonstrate a 
+propensity to engage in 
+innovative behaviors. Likewise,
+to take advantage of  
+employees’ strengths, assigning
+them roles/tasks that best suit 
+their personality characteristics
+is recommended.
+Mustafa et al., 2021
+The Big Five PT 
+(5-T), JS, 
+Organizational 
+Citizenship Behavior 
+(OCB).
+OCB (beneficial and favorable attitudes of  
+employees) plays a mediating role in the 
+relationship between the 5-PT (OE, CO, 
+extraversion, agreeableness, neuroticism) 
+and JS, directly affecting IWB.
+Sabahattin, 2020
+-69-
+<<<PAGE=11>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Determinants Description Strategies
+Author 
+and year
+OE. The authors stated that OE is a significant 
+determinant of  IWB, as it accounts for 
+employees’ intelligence and high curiosity in 
+a wide range of  creative areas and levels of  
+analysis.
+Managers in the banking sector
+are recommended to submit 
+candidates to work personality 
+adjustment tests during the 
+recruitment and selection 
+process to identify appropriate 
+profiles for organizational 
+innovation.
+Abdullah et al., 
+2019
+Personality. Personality (external and internal aspects of  
+an individual’s character) positively affects 
+individual IWB.
+The employer must promote 
+the training and development 
+of  skills that strengthen 
+employees’ personality and 
+improve the organizational 
+culture.
+Ummi et al., 2019
+Hyper-core 
+Self-Evaluations 
+(Hyper-CSE)
+Hyper-CSE (a multifaceted personality trait 
+that subsumes the notions of  locus of  
+control, self-esteem, and self-efficacy) 
+positively affects innovative thinking in 
+senior executives.
+Those responsible for 
+recruiting professionals for 
+management-level positions 
+must implement tests 
+evaluating personality and 
+performance aspects.
+Stock et al., 2019
+Political Skills (PS),
+Self-Efficacy (SE).
+PS (skills that an individual uses to observe 
+and interpret the actions of  the social 
+environment and propose influential 
+strategies) is positively associated with IWB 
+through SE in the breadth of  the role (the 
+perceived ability of  an employee to carry out
+a broader work task proactively).
+Developing programs for 
+public sector employees that 
+increase PS through practical 
+workshops is recommended.
+Clarke & Higgs, 
+2020
+Knowledge 
+Self-Efficacy (KSE),
+Altruism.
+Personal factors such as KSE (an 
+individual’s judgment of  his or her ability to 
+organize and execute successful 
+performance in everyday tasks) and altruism 
+(voluntary behavior that seeks to increase 
+the well-being of  others) positively impact 
+thinking innovatively.
+Managers are recommended to
+provide beneficial feedback to 
+improve employees’ knowledge
+and SE.
+Nguyen, Nguyen, 
+Do & Nguyen, 
+2019; Phung, 
+Hawryszkiewycz, 
+Chandran & Ha, 
+2019b*
+Work Commitment 
+(WC)
+WC is defined as the ability of  a person to 
+become aware of  and invest all their skills in
+a work role. The authors mention that WC 
+drives innovation and positively influences 
+creativity.
+To promote WC, it is 
+important to provide 
+employees with an 
+environment that encourages 
+continuous learning through 
+teamwork and participatory 
+and shared decision-making; 
+this, in turn, can drive 
+organizational innovation.
+Hosseini & 
+Haghighi, 2021; 
+Koroglu & Ozmen, 
+2021
+WC, Employee Voice
+(EV).
+EV has a positive effect on IWB in the 
+pharmaceutical sector. The WC of  the 
+employees has a mediating role between 
+them.
+Sifatu, Sjahruddin, 
+Fajriah, Dwijendra 
+& Santoso, 2020
+JS, WC. Both JS and WC positively effect IWB. Arsawan et al., 
+2020*
+Flow, Employee 
+Silence (ES).
+The highest levels of  innovative behavior 
+occur when the flow level (the mental state 
+in which employees enjoy doing their 
+motivated work with an optimal level of  
+performance and maximum utilization of  
+skills) is high and the silence level of  the 
+employees are low, allowing them to 
+exchange ideas and obtain the necessary 
+support and resources.
+Managers must establish an 
+organizational, supportive, 
+independent, and ethical 
+climate and design job 
+descriptions in ways that 
+encourage employees’ intrinsic 
+motivations. Companies can 
+also overcome ES by 
+countering an unfavorable 
+reward system, role stress, and 
+job insecurity.
+Maqbool, Černe & 
+Bortoluzzi, 2019
+-70-
+<<<PAGE=12>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Determinants Description Strategies
+Author 
+and year
+Behavioral Courage 
+(BC).
+BC, understood as the attitude of  courage 
+and disposition of  character to achieve 
+objectives in the face of  external or internal 
+opposition, was positively associated with 
+IWB.
+The authors recommend that 
+hospitality industry managers 
+cultivate WRC among their 
+staff  by welcoming questions, 
+discussion, and knowledge 
+sharing. They also propose 
+implementing training 
+programs focusing on the 
+development of  ER.
+Bibi & Afsar, 2020
+Career Adaptability 
+(CA), Work Related 
+Curiosity (WRC), 
+Employee Resilience 
+(ER).
+CA is how a person views their ability to 
+cope with and capitalize on change in new 
+job responsibilities. WRC is a personality 
+construct defined as the desire to seek 
+knowledge. ER is understood as a set of  
+individual skills that allow employees to act 
+in times of  uncertainty and adapt quickly to 
+changes. These personality constructs are 
+significant in the promotion and realization 
+of  innovative ideas.
+Abukhait et al., 
+2020
+Emotional 
+Intelligence (EI).
+EI is defined as the ability to use one’s own 
+emotions and those of  others to develop 
+relationships. This study demonstrated that 
+EI positively impacts employees’ IWB, 
+enhancing the ability to generate ideas and 
+solve problems.
+Organizations can promote the
+level of  EI in employees 
+through training programs on 
+emotion management.
+Malik, 2021
+Emotional 
+Intelligence (EI),
+Ambidextrous 
+Leadership (AL).
+EI (the ability to understand one’s and 
+other’s emotions) mediates the relationship 
+between AL behavior (the ability to 
+encourage exploratory and exploitative 
+behaviors in subordinates by increasing the 
+generation of  ideas and problem 
+recognition) and the IWB.
+Authors recommend that 
+human resources directors 
+promote leadership practices 
+and implement exercises to 
+control employees’ emotions 
+through training.
+Hafeez et al., 2019
+Altruism, 
+Transformational 
+Leadership (LT).
+The authors identified the mediating role of  
+altruism in the relationship between TL 
+(social process based on mutual trust between
+leaders and their followers) and IWB.
+Alnajjar & Hashim, 
+2020
+Ethical Behaviors 
+(EB).
+EB (individual attitudes in line with acting 
+correctly according to the ethical duties, 
+policies, rules, and norms of  organizations) 
+significantly affect IWB.
+The authors suggest constantly
+encouraging EB of  public 
+sector employees, promoting 
+teamwork, and fostering a 
+friendly environment.
+Khorakian, 
+Mohammadi-
+Shahroodi, Jahangir 
+& Nikkhah-
+Farkhani, 2019)
+Cultural Intelligence 
+(CUI), Work 
+Engagement (WE), 
+and Interpersonal 
+Trust (IC).
+CUI (an employee’s ability to function and 
+manage effectively in culturally diverse 
+situations and environments) can 
+significantly impact employees’ innovative 
+work. Furthermore, WE (a situation in 
+which employees find work meaningful) and
+IT (the extent to which a person trusts and 
+is willing to act on the words, actions, and 
+decisions of  another) partially mediate the 
+effect of  CUI on IWB.
+In multinational organizations, 
+human resources departments 
+can design training programs 
+to promote cultural awareness 
+through didactic and 
+experiential exercises to deeply
+understand other cultures 
+directly related to the 
+company’s stakeholders.
+Afsar et al., 2020
+Positive Affect (PA). PA refers to consciously accessible feelings 
+(emotions and moods) that are unstable and 
+depend on events and situations in the work 
+context. Enthusiasm and comfort, as high 
+arousal effects, can endow a person with 
+vigor, allowing engagement in work tasks 
+and stimulating creativity to implement new 
+ideas.
+Learning to regulate work-
+related effects and building 
+good social relationships may 
+be a goal for instructors, 
+coaches, and counselors 
+working with small business 
+owners and managers.
+Laguna et al., 2021
+Note: (*) signifies determinants associated with the theory of  social exchange presented in Group 3.
+Table 6. Determinants and strategies associated with the theory of  personality traits and individual attributes.
+-71-
+<<<PAGE=13>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+These  studies  demonstrate  the  positive  impact  and  connections  of  traits  and  abilities  that  increase  work
+productivity and drive innovation in organizations (Ummi et al., 2019). Table 6 describes the determinants of
+IWB associated with this theory and presents some of  the main strategies proposed by the authors of  the
+selected subsample.
+Category 2. Self-Determination Theory
+Deci and Ryan’s (2000) self-determination theory is a motivational framework in which individuals have an innate
+desire for personal growth and initiative. The authors maintain that understanding human motivation requires
+consideration of  the natural psychological needs for competence, autonomy, and relatedness (Deci & Ryan,
+2000). Consequently, different researchers have studied parallel psychological processes such as harmonious
+passion (Jan & Zainal, 2020), creative self-efficacy (Jan, Zainal & Lata, 2021), the paradox mentality (Liu et al.,
+2020),  autonomy  (Saether,  2019),  and  motivation.  Several  authors,  such  as  Wang  et  al. (2021),  argue  that
+employees  who  experience  high  motivation  have  a  high  sense  of  agency  and  congruence  between  their
+work-related activities and their own identity and interests in working by choice. However, according to Ren et al.
+(2021), external factors such as financial stress can affect an employee’s autonomous motivation that generates
+innovative behavior. Saether (2019) and Bawuro, Shamsuddin, Wahab and Usman (2019) allude to the fact that
+work-style and the synchronicity that an employee may have with their work activities generate motivation to
+execute their work, thereby increasing the generation of  ideas. Bin and Kassim (2019) mentioned that the
+creative process generated in a motivated employee requires intellectual stimuli that strengthen the individual’s
+rationality to find novel solutions to problems.
+In recent research, person-organization fit has been tested as a trigger for autonomous work motivation, which
+generates greater innovative behavior (Bawuro et al., 2019; Saether, 2019). From another perspective, some
+authors emphasize the variables that strengthen the effects of  an employee’s motivation to remain involved in
+creative  and  innovative  work  processes.  Specifically,  psychological  empowerment  and  its  dimensions  are
+discussed: meaning, competence, self-determination, impact (Bin & Kassim, 2019), and leadership attitudes that
+influence  and  motivate  others  toward  innovative  behavior  (Kustanto  et  al.,  2020).  Table  7  describes  the
+determinants of  this theory and the strategies proposed by the authors of  the subsample.
+Determinants Description Strategies
+Author 
+and year
+Autonomous 
+Motivation (AM)
+The authors mention that autonomous 
+motivation (when people who engage in a 
+work activity have a full sense of  
+disposition) has a positive relationship 
+with IWB.
+Better salary guarantees can 
+help improve employees’ AM 
+and improve job performance 
+significantly.
+Ren et al., 2021 
+Autonomous 
+Motivation (AM)
+Autonomy (A), 
+Competence (COM), 
+and Relationship (R).
+The satisfaction of  the basic psychological
+needs of  autonomy, competence, and 
+relatedness (the nutrients essential for 
+individual growth, integrity, and well-
+being) was positively associated with 
+employees’ IWB through AM.
+Implementing management 
+processes and practices that 
+support leadership, autonomy, 
+and flexible work processes 
+can facilitate innovative 
+performance outcomes at both
+the individual and 
+organizational levels.
+Wang et al., 2021
+Person Organization Fit
+(POF),
+Autonomous 
+Motivation (AM).
+Employees with higher levels of  POF 
+(refers to the correspondence between a 
+person’s characteristics and their 
+environment) have higher levels of  AM. 
+Autonomously motivated employees 
+engage in IWB more frequently. 
+Autonomous forms of  motivation 
+mediate the relationship of  person-
+environment fit with IWB.
+Managers can consider the fit 
+between R&D employees’ 
+values and the organization 
+during the hiring process and 
+throughout their tenure with 
+the company.
+Saether, 2019
+-72-
+<<<PAGE=14>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Determinants Description Strategies
+Author 
+and year
+Autonomy. There is a positive relationship between 
+employee autonomy and IWB. The 
+authors argue that more motivated 
+employees may feel more committed to 
+their organizations, showing a greater 
+willingness to exhibit innovative behavior 
+at work.
+Authors suggest implementing 
+special training programs for 
+managers that promote 
+attitudes such as WC and 
+autonomy.
+Obeidat, 2021; 
+Siregar, Sujana, 
+Pranowo & 
+Supriadi, 2021; 
+Swaroop & Dixit, 
+2018
+Intrinsic Motivation 
+(IM), Meaningful Work 
+(MW).
+Meaningful work (a subjective 
+experience of  ‘meaning’ resulting from 
+the ‘fit’ between the person and the job)
+mediates the relationship between 
+intrinsic motivation (the extent to which
+an individual experiences pleasure and 
+interest in performing a work task 
+without being controlled by external 
+contingencies, such as rewards and 
+punishments) and the IWB.
+For the educational sector, 
+authors recommend, 
+formulating policies for 
+creating jobs that allow a high 
+degree of  labor autonomy. 
+This practice can promote IM 
+and a sense of  meaning at 
+work, increasing innovative 
+behavior.
+Bawuro et al., 2019
+Intellectual stimulation 
+(IS), Intrinsic 
+motivation (IM).
+Intellectual stimulation (the leader’s ability 
+to promote intelligence, careful problem-
+solving, and rationality) and IM are 
+significant determinants of  IWB.
+Providing a trusting and open 
+work environment to share 
+knowledge and continually 
+develop organizational 
+strategies to reinforce 
+employee IM can lead to 
+greater IWB.
+Bin & Kassim, 2019
+Harmonious Passion 
+(HAP).
+Harmonious passion (a type of  passion 
+for an activity in harmony with other 
+aspects of  life, resulting from the 
+autonomous internalization of  a favorite 
+activity into one’s identity) influences 
+IWB.
+Authors recommend designing
+and implementing discussion 
+and training programs that 
+engage employees in their 
+roles.
+Jan & Zainal, 2020
+Paradox mentality 
+(PM).
+Adopting a paradox mindset (a mental 
+attitude in which actors recognize and 
+accept the persistent inconsistencies of  
+contradictory forces) satisfies the basic 
+psychological needs of  employees, 
+promoting their IWB.
+Organizations can reinforce 
+employee awareness of  
+applying paradoxical 
+frameworks through 
+experiential learning activities 
+and applied training.
+Liu et al., 2020
+Spirituality (S), Person 
+Organization Fit 
+(POF), Psychological 
+Empowerment (PE).
+Workplace spirituality (an employee’s 
+attempt to find meaning and purpose in 
+their work and strengthen their 
+interconnectedness) and POF (general 
+match of  an individual’s values with the 
+overall values of  an organization) 
+positively influenced IWB. There is also a 
+substantial effect of  S on psychological 
+empowerment. When S is promoted, 
+employees feel empowered and show 
+autonomy and competence in their 
+efforts, resulting in IWB.
+The authors recommend 
+hospitality managers create 
+forums for open discussion 
+about spirituality, values, and 
+employee rights and integrate 
+organizational and personal 
+goals to increase idea 
+generation.
+Likewise, different workshops
+on incorporating spirituality in
+the workplace should be 
+conducted, allowing a healthy 
+culture to promote 
+innovation.
+Afsar & Badir, 2017
+Creative self-efficacy 
+(CSE)
+Servant leadership (SL).
+Creative self-efficacy (confidence to 
+achieve novel proposed results) 
+significantly mediates the relationship 
+between servant leadership (attitude to 
+help and encourage others) and IWB.
+To improve CSE and IWB in 
+managers in the hotel industry, 
+it is recommended that 
+activities that contribute to the 
+development of  SL qualities be
+implemented.
+Jan et al., 2021
+-73-
+<<<PAGE=15>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Determinants Description Strategies
+Author 
+and year
+Transformatio-nal 
+Leadership (TL), 
+Intrinsic Motivation 
+(IM), Creative Process 
+Engagement (CPE), 
+Roles of  Psychological 
+Empowerment (RPE).
+Transformational leadership has a stronger 
+positive relationship with IWB when 
+employees have high levels of  intrinsic 
+motivation and psychological 
+empowerment (four types of  feelings: 
+meaning, competence, self-determination, 
+and impact). Furthermore, the study 
+proved that creative process engagement 
+(employee participation in creativity 
+processes) mediates the effect of  these 
+relationships.
+The authors recommend the 
+implementation of  flexible and
+participatory management 
+systems where employees feel 
+safe and are not afraid to share
+the work lessons learned.
+Bin-Saeed et al., 
+2019
+Transformatio-nal 
+Leadership (TL), 
+Psychological 
+Empowerment (PE).
+When the PE is positive, TL (leadership’s 
+ability to influence and motivate 
+subordinates to meet the goals and 
+interests of  the organization beyond 
+expectations) occurs, affecting the IWB. 
+This phenomenon occurs when 
+employees feel safe and perceive their 
+work as meaningful.
+Implementing practices for 
+developing cognitive skills at 
+the professional level and 
+incentives for good work 
+performance can increase 
+innovative work behaviors.
+Helmy, Rabiatul & 
+Banani, 2019; 
+Kustanto et al., 
+2020
+Table 7. Determinants and strategies associated with the self-determination theory.
+Category 3. Social Exchange Theory
+Social  exchange  theory  is  widely  used  in  organizational  research  to  understand  employee  behavior  in  the
+workplace (Cropanzano, Anthony, Daniels & Hall, 2017). This theory postulates that knowledge occurs in a
+social framework with dynamic and reciprocal relationships between the individual, environment, and behavior
+(Almulhim, 2020). Social exchange refers to transactions or relationships between two or more parties (e.g.,
+employees, supervisors, or managers) that involve the process of  exchanging mutual resources (e.g., experiences
+and  knowledge)  (Kim  &  Park,  2017).  Some  scholars  have  used  this  theory  to  explain  knowledge-sharing
+behavior,  highlighting  its  significance  as  influenced  by  personal  attitudes  and  motivations,  necessitating
+substantial social interaction (Işık et al., 2021), functional flexibility mechanisms (Yasir, Majid, Yousaf, Nassani &
+Haffar, 2021), economic reward systems (Anser, Yousaf, Khan & Usman, 2020), and knowledge management
+(Aldabbas, Pinnington & Lahrech, 2021). This assertion is due to the influence of  knowledge exchange on
+innovative behavior (Asurakkody & Kim, 2020; Derin et al., 2021; Nguyen et al., 2019). Table 8 describes the
+determinants of  this theory and strategies proposed by the authors of  the subsample (See Table 8).
+Determinants Description Strategies
+Author 
+and year
+Knowledge Sharing 
+(KS)
+Innovative Work 
+Behavior (IWB).
+Knowledge sharing (attitude of
+sharing and receiving 
+information or experiences) is 
+an important determinant of  
+IWB.
+The use of  information and 
+communication technologies 
+significantly influences the 
+processes of  knowledge 
+donation and collection. 
+Employees’ willingness to 
+donate and collect knowledge 
+allows them to improve IWB.
+The authors recommend designing systems 
+that allow employees to record the knowledge 
+obtained to formulate strategies that improve 
+processes and efficiency in developing new 
+employees’ tasks. The authors also mention 
+that implementing training sessions that 
+promote psychological empowerment will 
+lead to a higher level of  KS and, in turn, will 
+allow increasing innovative behavior among 
+employees. Likewise, they propose 
+encouraging employees to generate new ideas 
+and share knowledge related to their 
+management challenges through suggestion 
+boxes, virtual platforms, software systems, and
+social networks, among others, which allow 
+for the resolution of  problems and the 
+creation of  worth.
+Almulhim, 2020; 
+Arsawan et al., 
+2020; Asurakkody 
+& Kim, 2020; Bin 
+& Kassim, 2019; 
+Helmy et al., 2019; 
+Işık et al., 2021; Jan
+et al., 2021; Kim &
+Park, 2017; 
+Kmieciak, 2020; 
+Linh et al., 2020; 
+Phung, 
+Hawryszkiewycz &
+Chandran, 2019a*
+-74-
+<<<PAGE=16>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Determinants Description Strategies
+Author 
+and year
+Knowledge Sharing 
+(KS),
+Ethical Climate (EC).
+The ethical climate (comprising
+perceptions of  selfishness, 
+benevolence, and principles for
+ethically correct behavior) 
+mediates the positive 
+relationship between KS and 
+IWB.
+Authors suggest organizations invest in 
+sustainable systems for the IWB and develop
+management procedures that encourage 
+benevolent behavior based on principles and 
+low levels of  selfishness.
+Derin et al., 2021
+Knowledge Sharing 
+(KS), Workplace 
+Friendship (WF).
+Workplace friendship (a 
+non-exclusive relationship at 
+work involving mutual trust, 
+commitment, liking, and shared
+interests and values) influences 
+IWB through knowledge 
+gathering.
+Authors recommend that hotel industry 
+managers implement social activities that 
+improve collective intelligence by 
+strengthening interpersonal trust and 
+emotional connection between workers.
+Helmy et al., 2020
+Knowledge Sharing 
+(KS),
+Functional Flexibility 
+(FF).
+Knowledge sharing and 
+functional flexibility (individual
+ability to perform multiple 
+tasks in various jobs) 
+significantly affect workers’ 
+innovative behavior.
+Authors suggest that managers incorporate 
+performance-based learning and 
+development practices. They also suggest the
+design of  flexible work models that 
+encourage employee participation.
+Anser et al., 2020, 
+2022
+Knowledge Sharing 
+(KS),
+Psychological 
+Empowerment (PE).
+The authors proved that KS 
+(proactive and responsive 
+knowledge-sharing behavior) 
+leads to IWB. However, this 
+relationship is mediated by PE 
+(motivational exercise that aims
+to improve employee 
+performance by involving them
+in decision-making processes. ).
+Authors suggest that companies provide 
+employees with necessary training, resources,
+and tools, including access to information 
+such as organizational plans, policies, 
+financial positions, and objectives. These 
+forms of  structural empowerment give 
+employees meaning in what they do in their 
+work role in addition to supporting their 
+IWB competencies.
+Aldabbas et al., 
+2021
+Note: (*) signifies determinants related to the theories presented in group 1.
+Table 8. Determinants and strategies associated with the theory of  knowledge management and social sharing.
+AQ3. Countries and economic sectors where this research topic have been addressed.
+Regarding the geographical scope of  the research on individual-level innovative behavior in the selected sample,
+there is a notable prevalence in Asian countries, such as China (n = 6), Pakistan  (n = 6), and Malaysia  (n = 4).
+The participation of  European countries, such as Spain, Italy, and Switzerland, also stands out, followed by
+North America. However, there is little research on the impact of  IWB in the context of  developing countries,
+specifically in Latin America.
+Figure 5. Economic sectors of  study addressed in IWB research
+-75-
+<<<PAGE=17>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Figure  5  shows  that  the  economic  sectors  most  addressed  were  the  information  and  communications
+technologies  sector,  corresponding  to  32%  of  the  documentary  sample,  followed  by  the  industrial  sector,
+corresponding to 27%, linking manufacturing, metallurgical, robotics, automotive, pharmaceutical companies,
+among others.
+AQ4. Quantitative Research Methods
+In the analysis of  the selected sample, it was evident that the quantitative method most used by academics to
+study individual constructs that influence innovative behavior is Structural Equation Modeling (SEM), which
+is  consistent  with  the  objective  of  this  multivariate  technique,  which  tests  causal  relationships  between
+observable and latent variables (Hair, Hult, Ringle & Sarstedt, 2017). The authors argued that modeling using
+the Partial Least Squares (PLS-SEM) technique allows for effectively handling small sample sizes and complex
+models. Regarding study design, cross-sectional research dominates (Helmy et al., 2019; Koroglu & Ozmen,
+2021;  Wang  et  al.,  2021),  employing  probabilistic  sample  types  such  as  simple  random,  stratified,  and
+non-probabilistic samples chosen for convenience and intention. Likewise, it was found that self-administered
+questionnaires–online and in-person–were the measurement instrument most commonly used by the authors.
+Table 9 details the techniques, methods, and sample sizes selected by the authors.
+n
+Author and
+Year
+Quantitative Technique Sampling Method
+Size
+Multigroup Confirmatory 
+Factor Analysis
+Confirmatory factor 
+analysis (CFA)
+Exploratory Factor Analysis
+(EFA)
+Hierarchical Regression 
+Analysis
+Multilevel Analysis
+Stepwise Multiple 
+Regression
+Linear Regression Analysis
+Partial Least Squares 
+(PLS-SEM)
+Structural equation 
+modeling (AMOS)
+Stratified Sampling
+Convenience Sampling
+Intentional Sampling
+Judgment Sampling
+Saturation Sampling
+Simple Random Sampling
+Probability Sampling
+1 Laguna et al., 
+2021
+ ✓ ✓ ✓ 796
+2 Ren et al., 2021 ✓ ✓ 245
+3 Işık et al., 2021 ✓ ✓ 360
+4 Wang et al., 
+2021
+✓ ✓ ✓ 284
+5 Siregar et al., 
+2021
+✓ ✓ 209
+6 Aldabbas et al., 
+2021
+✓ ✓ ✓ ✓ 340
+7 Yasir et al., 
+2021
+✓ ✓ ✓ 769
+8 Koroglu & 
+Ozmen, 2021 ✓ ✓ ✓ 416
+9 Jan et al., 2021 ✓ ✓ ✓ 257
+10 Mustafa et al., 
+2021
+✓ ✓ 125
+11 Malik, 2021 ✓ ✓ 171
+12 Derin et al., 
+2021
+✓ ✓ ✓ 400
+13 Hosseini & 
+Haghighi, 2021
+✓ ✓ 232
+14 Obeidat, 2021 ✓ ✓ 150
+15 Abukhait et al., 
+2020
+✓ ✓ 313
+-76-
+<<<PAGE=18>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+n
+Author and
+Year
+Quantitative Technique Sampling Method
+Size
+Multigroup Confirmatory 
+Factor Analysis
+Confirmatory factor 
+analysis (CFA)
+Exploratory Factor Analysis
+(EFA)
+Hierarchical Regression 
+Analysis
+Multilevel Analysis
+Stepwise Multiple 
+Regression
+Linear Regression Analysis
+Partial Least Squares 
+(PLS-SEM)
+Structural equation 
+modeling (AMOS)
+Stratified Sampling
+Convenience Sampling
+Intentional Sampling
+Judgment Sampling
+Saturation Sampling
+Simple Random Sampling
+Probability Sampling
+16 Kustanto et al., 
+2020
+✓ ✓ 53
+17 Liu et al., 2020 ✓ ✓ ✓ 459
+18 Clarke & Higgs,
+2020
+✓ ✓ 249
+19 Helmy et al., 
+2020
+✓ ✓ 163
+20 Sifatu et al., 
+2020
+✓ ✓ ✓ 306
+21 Sabahattin, 
+2020
+✓ ✓ ✓ 150
+22 Jan & Zainal, 
+2020
+✓ ✓ 257
+23 Alnajjar & 
+Hashim, 2020
+✓ ✓ ✓ 298
+24 Bantha & 
+Nayak, 2020
+✓ ✓ 340
+25 Anser, M. K et 
+al., 2022
+✓ ✓ 751
+26 Kmieciak, 2020 ✓ ✓ 252
+27 Almulhim, 
+2020
+✓ ✓ 324
+28 Arsawan et al., 
+2020
+✓ ✓ ✓ 311
+29 Afsar et al., 
+2020
+✓ ✓ 381
+30 Anser et al., 
+2020
+✓ ✓ ✓ 825
+31 Bibi & Afsar, 
+2020
+✓ ✓ 273
+32 Asurakkody & 
+Kim, 2020
+✓ ✓ 159
+33 Linh et al., 
+2020
+✓ ✓ ✓ 396
+34 Bin & Kassim, 
+2019
+✓ ✓ 148
+35 Saether, 2019 ✓ ✓ ✓ 235
+36 Saraih, Wei, 
+Razali, Zuraini, 
+Amlus & Abd-
+Razak, 2019
+✓ ✓ 189
+37 Hafeez et al., 
+2019
+✓ ✓ 130
+-77-
+<<<PAGE=19>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+n
+Author and
+Year
+Quantitative Technique Sampling Method
+Size
+Multigroup Confirmatory 
+Factor Analysis
+Confirmatory factor 
+analysis (CFA)
+Exploratory Factor Analysis
+(EFA)
+Hierarchical Regression 
+Analysis
+Multilevel Analysis
+Stepwise Multiple 
+Regression
+Linear Regression Analysis
+Partial Least Squares 
+(PLS-SEM)
+Structural equation 
+modeling (AMOS)
+Stratified Sampling
+Convenience Sampling
+Intentional Sampling
+Judgment Sampling
+Saturation Sampling
+Simple Random Sampling
+Probability Sampling
+38 Bawuro et al., 
+2019
+✓ ✓ 309
+39 Khorakian et 
+al., 2019
+✓ ✓ ✓ 266
+40 Maqbool et al., 
+2019
+✓ ✓ 608
+41 Abdullah et al., 
+2019 
+✓ ✓ 397
+42 Helmy et al., 
+2019
+✓ ✓ 360
+43 Phung et al., 
+2019a
+✓ ✓ 236
+44 Nguyen et al., 
+2019
+✓ ✓ 396
+45 Bin-Saeed et al.,
+2019
+✓ ✓ 347
+46 Stock et al., 
+2019
+✓ ✓ 861
+47 Swaroop & 
+Dixit, 2018
+✓ ✓ 267
+48 Afsar & Badir, 
+2017
+✓ ✓ 493
+49 Kim & Park, 
+2017
+✓ ✓ 400
+Total 2 9 5 7 2 1 9 17 14 1 25 19 1 1 1 1
+Table 9. Methods and techniques in the study of  individual-level Innovative Work Behavior (IWB).
+AQ5. Identifying gaps for future research on employees’ innovative behavior based on individual factors.
+This section highlights the gaps revealed by the sample authors as opportunities for future research. Future
+studies could investigate the different multifaceted perspectives of  personality and their relationship with IWB
+according to different working conditions (Bibi & Afsar, 2020; Laguna et al., 2021; Sabahattin, 2020). Abdullah et
+al. (2019) pointed out that it is important to analyze the link between personality and individual innovation from
+a religious point of  view. There is also discussion about replicating the relationship between altruism and IWB in
+sectors other than commercial operations (Alnajjar & Hashim, 2020). Hafeez. et al. (2019) and Malik (2021)
+indicated that although there is a link between emotional intelligence and IWB in high-tech, knowledge-intensive
+organizations, they should be explored in other business contexts and cultures.
+Research is then directed toward emphasizing the impact of  cognitive, motivational, and behavioral components
+on individual performance and innovation. For example, Phung et al. (2019) considered it pertinent to investigate
+the differences between the roles or disciplines of  personnel (e.g., division, department, and organizational
+leaders, or personnel from social and technical areas) and their innovative behaviors. Other authors, such as
+Stock et al. (2019), note a gap in the literature, suggesting a need to examine whether individual upper-echelon
+characteristics (i.e., selfishness, overconfidence, and hyper-CSE) have varying effects on IWB dimensions, such as
+idea generation or implementation.
+-78-
+<<<PAGE=20>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Some authors believe that because of  the cross-sectional self-reported data in their studies, it is essential to replicate
+the research using other methods and longitudinal data. This reduces the potential for bias by using different
+sources for predictor and criterion variables (Saether, 2019). Kim and Park (2017) suggested employing stratified
+(for example, gender, age, industry, or work area) and random sampling methods. This would facilitate more precise
+results and increase the generalizability of  findings related to the study of  attitudes and personal characteristics (e.g.,
+ethical leadership, compassion, empathic attitudes, and knowledge-sharing behaviors) as determinants of  IWB.
+Similarly,  Almulhim  (2020)  added  that  various  social  variables  can  affect  the  relationship  between  IWB,
+knowledge sharing, and moderating variables such as personal growth, workload, and emotional exhaustion.
+Therefore, in future studies, models could be implemented that involve  variables related to the moods of
+employees that allow the design of  new work styles. Additionally, some academics have proposed analyses of  the
+influence  of  the  workplace  (hybrid  or  remote  work)  on  IWB  performance  at  both  the  individual  and
+organizational levels (Arsawan et al., 2020; Kim & Park, 2017; Linh et al., 2020; Nguyen et al., 2019; Phung et al.,
+2019a).  From  this  perspective,  creative  work  environments  and  methodologies  can  be  examined  in  more
+exploratory studies on autonomy, resilience, empathy, transfer, and knowledge exchange in IWB.
+Within the IWB workspace, constant motivation exists to replicate current research models in various settings
+(e.g., European and American countries), as well as exploring the similarities and differences that may exist
+between the results of  these studies in different business contexts. This work suggests studying knowledge
+exchange in two ways: donation and collection of  knowledge. In addition, researchers could focus their studies
+on deepening vertical knowledge sharing between hierarchical organizational levels.
+4. Theoretical Framework
+A theoretical framework is defined as a description of  key components and their relationships within a field of
+knowledge (Díaz et al., 2015). In this context, the framework was developed through a systematic literature
+review, analyzing information sequentially by addressing the five guiding questions of  the study . We began with
+the concept ualization of  IWB based on its dimensions.  Some authors argue that IWB is a two-dimensional
+process related to the phases of  the innovation process (De Jong & Den Hartog, 20 10; Yuan & Woodman,
+2010). However,  Scott  and  Bruce  (1994)  advocated  for  a  three-dimensional  view,  involving  generation,
+introduction,  and realization of  ideas. This approach  has generated great relevance  and impact in current
+research (Aldabbas et al., 2021; Işık et al., 2021; Koroglu & Ozmen, 2021; Laguna et al., 2021) and is used as a
+model for the development of  this framework.
+In  this  context,  a  three-dimensional  employee  innovation  process  is  presented,  along  with  its  associated
+properties. Next, the three theoretical lines outlined by the authors of  the selected literature were connected,
+acting as a guide for understanding, describing, and explaining the causal relationships between the constructs
+that  impact  IWB.  Using  the  theories  of  personality  traits,  individual  attributes,  social  exchange,  and
+self-determination,  the  determinants  of  IWB  were  grouped  and  consolidated.  Subsequently,  quantitative
+methods aimed at investigating phenomena such as the development of  individual innovation were explored,
+given that these methods contribute to reducing subjectivity and bias in interpreting the results.
+During the analysis, we identified that the authors widely employed SEM, arguing that this technique offers a
+deeper understanding when modeling latent variables. Finally,  the managerial contributions of  the  selected
+studies were compiled to enrich the employee innovation process.
+The conceptual framework in Figure 6 comprises four panels that respond to the guiding questions. The panel
+corresponding to AQ1, “Dimensions of  IWB”, is organized as a process, leading to the properties of  the
+generation,  introduction,  and  realization  of  ideas.  On  the  left  side,  the  panel  corresponding  to  AQ4,
+“Quantitative Techniques”, brings together the most frequently used methodologies to guide the investigation of
+the relationships and antecedents of  IWB. The central panel AQ2, “Theories”, shows the themes that support
+the investigation of  the determinants identified in the literature review. Finally, the lower panel, corresponding to
+AQ5, highlights the managerial implications proposed by the authors of  the sample. The four panels are linked
+by  thick  numerical  arrows  (1),  (2),  and  (3),  indicating  the  order  and  influential  sequence  suggested  for
+understanding IWB.
+-79-
+<<<PAGE=21>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Promotion for the generation
+of ideas through ICTs.
+Continuous and team learning
+environment.
+Personality and performance
+tests.
+Training programs to strengthen
+cognitive skills.
+AQ5. MANAGERIAL IMPLICATIONS
+• Critical thinking
+• Proactive behavior
+• Combination of  knowledge
+• Interaction between colleagues
+• Evaluation advantages and disadvantages
+• Identification of alliances of interested
+parties
+• Resources-skills cooperation
+• Persistence in the process
+• Action-based approach
+AQ1. DIMENSIONS OF INN OVATIVE WORK BEHAVIOR
+Generation of  ideas Introduction of  ideas Realization of  ideas
+AQ4. Quantitative techniques
+AFC – AFE
+SEM PLS
+SEM - AMOS
+Linear regression
+Hierarchical Regression
+Theory Personality Traits Self-determination Theory Social Sharing theory
+Conscientiousnes
+Opennes to experience
+Personality
+Hyper CSE
+Política Skill
+Self-efficacy Altruism
+Commitment
+Trust
+Flow
+Emotional Intelligence
+Behavioural Courage
+Resilience
+Adaptability Curiosity
+Motivation
+Person Organization Fit
+Competence
+Relationship
+Harmonious Passion
+Intellectual Stimulation
+Autonomy
+Paradox Mentaly
+Psychological Empowerment
+Spirituality
+Leadership
+Workplace Friendship
+Knowledge Sharing
+Functional Flexibility
+AQ2. Determinantes
+Properties
+1
+2
+3
+Figure 6. Individual-level IWB integrative framework
+5. Discussion
+This study developed a conceptual framework that consolidates various elements of  IWB among employees,
+starting  with  the  proposed  dimensional  significance  to  address  this  phenomenon.  While  there  is  no  clear
+consensus on the dimensions of  individual innovative behavior, they predominantly emerge as the generation,
+introduction, and realization of  ideas (Koroglu  & Ozmen, 2021; Scott & Bruce, 1994). These dimensions
+encompass the capacity to transform creative thoughts into brilliant products or services that attract consumer
+attention, are useful, and penetrate the market (Hafeez et al., 2019; Malik, 2021).
+The literature posits that generating ideas is typical of  critical thinking and creative behavior (Pérez-Peñalver et
+al., 2018) . However, combining knowledge and social interaction is essential to consolidate this dimension of
+IWB, considering the inherently social nature of  human beings (Derin et al., 2021; Helmy et al., 2020). The
+second dimension includes the interactions between colleagues and stakeholders, which allow the sharing of
+experiences learned in the workplace and the emergence of  novel ideas (Aldabbas et al., 2021; Asurakkody &
+Kim, 2020; Phung et al., 2019 b). The third dimension, the realization of  ideas, is considered a decisive step in
+the development of  agreements, identification of  strategic alliances, and evaluation of  ideas (Aldabbas et al.,
+2021;  Wang  et  al.,  2021).  However,  in  addition  to  the  creative  component,  factors  such  as  persistence,
+competence, and action-based approaches, which are fundamental to successful innovation processes, are
+required.
+This  conceptual  framework  organizes  research  on  individual-level  innovative  behavior  by  grouping  and
+classifying  the  determinants  into  three  theoretical  bases:  personality  trait  theory  (personal  attributes),
+self-determination theory  (employees’ ability  to make  decisions and adjust to the  organization),  and social
+exchange theory (employees’ ability to socialize with coworkers). These determinants are fundamental to a
+person’s job performance in generating, introducing, and carrying out an idea until it becomes a commercial
+transaction. Emotional intelligence and friendships in the workplace can influence how one person differs from
+another in terms of  overcoming challenges and finding alternatives to creative processes.
+Employee attitudes, such as empathy and altruism, have gained greater importance in recent studies (Alnajjar &
+Hashim, 2020). Organizations seek to strengthen strategies that allow knowledge interaction between giving and
+-80-
+<<<PAGE=22>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+receiving. This interaction leads to the generation of  ideas from employees through understanding and the ability
+to  communicate  with  and  understand  others.  Other  determinants  such  as  flow  (Maqbool  et  al.,  2019),
+harmonious passion (Jan & Zainal, 2020), and resilience (Abukhait et al., 2020) are also prominently featured in
+research because of  the adaptive competencies that companies increasingly require in dynamic environments.
+Although creative self-efficacy has been determined (Jan et al., 2021), meaningful work and knowledge sharing
+(Arsawan et al., 2020), as attitudes that affect IWB, must be encouraged, and organizations must support these
+behaviors in their workforce to guarantee the innovation process. Academics have consistently emphasized
+practical implications based on training to strengthen skills, implementing flexible work programs, fair salary
+treatment, and an ethical work environment.
+Regarding quantitative methods for measuring the determinants of  IWB, the authors mostly used SEM using the
+PLS-SEM technique (Helmy et al., 2020; Işık et al., 2021; Kustanto et al., 2020; Malik, 2021; Obeidat, 2021),
+arguing that it does not require assumptions about the multivariate normality of  the data and efficiently works
+with complex models with small sample sizes. Nevertheless, some authors consider it important to use large
+sample sizes to avoid biased results (Almulhim, 2020; Arsawan et al., 2020) , which aligns with Hair’s (2017)
+recommendation about sample sizes for PLS-SEM.
+This study has some limitations that must be acknowledged. The selection of  academic products was limited to a
+specific time range and filtering conditions, potentially excluding relevant work beyond these parameters and
+overlooking recent developments in the field of  IWB. Furthermore, the cultural and economic diversity of  the
+contexts  studied  limits  the  generalizability  of  the  results  to  other  environments.  The  complexity  of  the
+interactions among the identified factors is also a limitation. Furthermore, the preference for quantitative rather
+than qualitative approaches may have influenced the perspectives presented in this study.
+The  field  of  IWB  presents  itself  as  a  constantly  evolving  research  area  with  numerous  promising  future
+directions. Given that IWB is influenced by significant cultural and economic differences, in line with what was
+proposed by authors such as Afsar et al. (2020), it is essential to recognize the need for additional research that
+explores its applicability in various work environments. Furthermore, appealing to the replication proposed by
+Anser et al. (2020, 2022), future research should focus on innovative behavior in virtual and remote work
+contexts,  considering  the  impact  of  personality  traits,  information  and  communication  technologies,  and
+applications of  artificial intelligence and automation on employees’ creativity. Finally, it would be pertinent to
+direct  this  research  toward  exploring  diversity  and  inclusion  in  the  workplace,  innovative  leadership,  and
+organizational climates. Together, these various lines of  research hold promise in advancing the understanding
+and promotion of  IWB in the constantly changing and developing world of  work.
+6. Conclusions
+The  data  obtained  in  this  study  provide  a  comprehensive  perspective  of  the  research  agenda  concerning
+individual-level IWB, presented through a conceptual framework. First, the concept of  IWB is depicted as a
+complex  and  multidimensional  attitude  that  drives  the  process  of  materializing  innovative  ideas,  ensuring
+competitive advantage at the organizational level. Additionally, the dimensions of  IWB—namely idea generation,
+introduction, and execution—are outlined, along with their distinctive characteristics.
+Second, 48 determinants of  innovative behavior studied by the selected authors were identified, related to
+management theories, such as personality traits, self-determination, and social interaction. These theories are
+linked to the study of  individuals, exploring how and why their capabilities, motivational aspirations, skills, and
+work behaviors may vary.
+Third, the geographical scope of  the selected sample was examined, evidencing a marked prevalence in the Asian
+continent, with greater research interest in the information and communications technology sector. However,
+research opportunities have opened up on the American continent with a focus on emerging countries.
+Fourth,  the  PLS-SEM  technique  has  emerged  as  the  most  prevalent  quantitative  method.  Likewise,
+cross-sectional studies and the utilization of  questionnaires, both online and physical, stand out as commonly
+employed practices among academics for data collection. However, there is a notable gap calling for longitudinal
+research and studies into probabilistic aspects within this domain.
+-81-
+<<<PAGE=23>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Fifth, the practical implications derived from the selected studies are summarized at the managerial level. While
+these implications are not explicitly generalizable, they express ideas with potential business applications to
+encourage  individual-level  innovative  behaviors  in  the  work  environment.  These  include  the  creation  of
+continuous learning environments; the implementation of  training programs focused on strengthening cognitive
+skills and emotional management; the promotion of  leadership practices, teamwork, and social interaction; and
+the establishment of  labor guarantees and systems for the collection of  ideas and the dissemination of  lessons
+learned.
+Finally, we acknowledge the limitations and present potential avenues for future research. First, it is important
+to mention that the heterogeneity of  the business sectors studied does not allow generalization of  the results
+or  the  practices  recommended  by  the  sampled  authors.  Additionally,  the  preference  for  studies  with
+cross-sectional self-report measures limits the causality of  the IWB determinants. Future research should
+focus  on  longitudinal  data  to  establish  the  directionality  and  causal  order  of  the  different  relationships
+proposed for studying these constructs. On the other hand, the need for greater exploration of  the factors
+related  to  employees’  emotional  intelligence  and  their  influence  on  the  generation,  introduction,  and
+materialization of  innovative ideas that translate into concrete products should be emphasized. In addition to
+the above, in line with some of  the analyzed authors’ suggestions, we propose involving various variables in
+IWB research, such as knowledge exchange (Aldabbas et al., 2021), personality (Sabahattin, 2020), as well as
+transactional  leadership  and  cultural  intelligence  (Işık  et  al.,  2021),  among  other  cognitive  determinants.
+Finally, guiding research efforts toward diversity and inclusion in the workplace and studies in teleworking,
+remote, virtual, and home-work contexts, would be valuable. These investigations can consider the impact of
+personality traits, information, and communication technologies on employee creativity. Collectively, these
+suggestions  offer  promising  avenues  for  advancing  the  understanding  and  promotion  of  IWB  in  the
+constantly evolving landscape of  work.
+Declaration of  Conflicting Interests 
+The  authors  declared  no  potential  conflicts  of  interest  with  respect  to  the  research,  authorship,  and/or
+publication of  this article. 
+Funding 
+The authors received no financial support for the research, authorship, and/or publication of  this article.
+References
+Abdullah, H., Ahmad, A., Ahmad, M., Mohd, M., Khatijah, O., Fazida, K. et al. (2019). How does employees’ big
+five personality traits explain innovative work behavior? An original needs theory approach from McClelland 
+and Maqasid Al Sharia. International Journal of  Innovation, Creativity and Change, 7(7), 212-227.
+Abukhait, R., Bani-Melhem, S., & Mohd-Shamsudin, F. (2020). Do employee resilience, focus on opportunity, 
+and work-related curiosity predict innovative work behaviour? the mediating role of  career adaptability. 
+International Journal of  Innovation Management, 24(7), 1-30. https://doi.org/10.1142/S136391962050070X 
+Afsar, B., Al-Ghazali, B.M., Cheema, S., & Javed, F. (2020). Cultural intelligence and innovative work behavior: 
+the role of  work engagement and interpersonal trust. European Journal of  Innovation Management, 24(4), 
+1082-1109. https://doi.org/10.1108/EJIM-01-2020-0008 
+Afsar, B., & Badir, Y . (2017). Workplace spirituality, perceived organizational support and innovative work 
+behavior: The mediating effects of  person-organization fit. Journal of  Workplace Learning, 29(2), 95-109. 
+https://doi.org/10.1108/JWL-11-2015-0086 
+Agarwal, U.A. (2014). Linking justice, trust and innovative work behaviour to work engagement. Personnel Review, 
+43(1), 41-73. https://doi.org/10.1108/PR-02-2012-0019 
+Aldabbas, H., Pinnington, A., & Lahrech, A. (2021). The mediating role of  psychological empowerment in the 
+relationship between knowledge sharing and innovative work behaviour. International Journal of  Innovation 
+Management, 25(2). https://doi.org/10.1142/S1363919621500146 
+-82-
+<<<PAGE=24>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Alessa, H.S., & Durugbo, C.M. (2021). Systematic review of  innovative work behavior concepts and 
+contributions. Management Review Quarterly. https://doi.org/10.1007/s11301-021-00224-x 
+Almulhim, A.F. (2020). Linking knowledge sharing to innovative work behaviour: The role of  psychological 
+empowerment. Journal of  Asian Finance, Economics and Business, 7(9), 549-560. 
+https://doi.org/10.13106/JAFEB.2020.VOL7.NO9.549 
+Alnajjar, M., & Hashim, J. (2020). Innovative work behaviour induced by transformational leadership through 
+altruism. International Journal of  Work Innovation, 2(4), 257-283. https://doi.org/10.1504/IJWI.2020.10034083 
+Amabile, T. (1988). A model of  creativity and innovation in organizations. Research in Organizational Behavior, 10, 
+123-167. Available at: https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/
+Amabile_A_Model_of_CreativityOrg.Beh_v10_pp123-167.pdf 
+Anderson, N., Potočnik, K., & Zhou, J. (2014). Innovation and Creativity in Organizations: A State of  the 
+Science Review, Prospective Commentary, and Guiding Framework. Journal of  Management, 40(5), 1297-1333. 
+https://doi.org/10.1177/0149206314527128 
+Anser, M., Yousaf, Z., Yasir, M., Sharif, M., Nasir, M., Rasheed, M. et al. (2022). How to unleash innovative work 
+behavior of  SMEs’ workers through knowledge sharing? Accessing functional flexibility as a mediator. 
+European Journal of  Innovation Management, 25(1), 233-248. https://doi.org/10.1108/EJIM-11-2019-0332 
+Anser, M., Yousaf, Z., Khan, A., & Usman, M. (2020). Towards innovative work behavior through knowledge 
+management infrastructure capabilities: Mediating role of  functional flexibility and knowledge sharing. 
+European Journal of  Innovation Management, 24(2), 461-480. https://doi.org/10.1108/EJIM-09-2019-0250 
+Arbeláez, M.C., & Onrubia, J. (2014). Análisis bibliométrico y de contenido. Dos metodologías complementarias 
+para el análisis de la revista colombiana Educación y Cultura. Revista de Investigaciones UCM, 14(23), 14-31. 
+Available at: https://bit.ly/31A2xbH 
+Arsawan, I.W .E., Rajiani, I., Wirga, I., & Suryantini, N. (2020). Harnessing knowledge sharing practice to enhance
+innovative work behavior: The paradox of  social exchange theory. Polish Journal of  Management Studies, 21(2), 
+60-73. https://doi.org/10.17512/pjms.2020.21.2.05 
+Asurakkody, T., & Kim, S. (2020). Effects of  knowledge sharing behavior on innovative work behavior among 
+nursing Students: Mediating role of  Self- leadership. International Journal of  Africa Nursing Sciences, 12. 
+https://doi.org/10.1016/j.ijans.2020.100190 
+Bantha, T., & Nayak, U. (2020). The relation of  workplace spirituality with employees’ innovative work 
+behaviour: the mediating role of  psychological empowerment. Journal of  Indian Business Research, 13(2), 
+223-235. https://doi.org/10.1108/JIBR-03-2020-0067 
+Bawuro, F.A., Shamsuddin, A., Wahab, E., & Usman, H. (2019). Mediating Role of  Meaningful Work in the 
+Relationship between Intrinsic Motivation and Innovative Work Behaviour. International Journal of  Scientific & 
+Technology Research, 8(09). Available at: https://www.ijstr.org 
+Betancur, R.R., Pardo del Val, M., & Martínez-Pérez, J.F. (2022). Strategic orientation to educational innovation: 
+A systematic review and conceptual model. Intangible Capital, 18(3), 442-468. https://doi.org/10.3926/ic.1686 
+Bibi, A., & Afsar, B. (2020). Behavioural courage and its effect on innovative work behaviour of  public sector 
+employees: the role of  managerial position and gender. En International Journal of  Public Sector Performance 
+Management, 6(1). https://doi.org/10.1504/IJPSPM.2020.105092 
+Bin, S.M., & Kassim, E.S. (2019). Factors of  innovative behavior in Malaysia. Academy of  Strategic Management 
+Journal, 18(6), 1-5. Abailable at: https://www.researchgate.net/publication/350106400 
+Bin-Saeed, B., Afsar, B., Shahjehan, A., & Imad-Shah, S. (2019). Does transformational leadership foster 
+innovative work behavior? The roles of  psychological empowerment, intrinsic motivation, and creative 
+process engagement. Economic Research-Ekonomska Istrazivanja, 32(1), 254-281. 
+https://doi.org/10.1080/1331677X.2018.1556108 
+-83-
+<<<PAGE=25>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Bos-Nehles, A., Renkema, M., & Janssen, M. (2017). HRM and innovative work behaviour: a systematic literature
+review. En Personnel Review, 46(7), 1228-1253. Emerald Group Publishing Ltd. 
+https://doi.org/10.1108/PR-09-2016-0257 
+Bos-Nehles, A., & Veenendaal, A. (2017). Perceptions of  HR practices and innovative work behavior: the 
+moderating effect of  an innovative climate. International Journal of  Human Resource Management, 30(18), 
+2661-2683. https://doi.org/10.1080/09585192.2017.1380680 
+Botha, L., & Steyn, R. (2020). Psychological contract breach and innovative work behaviour: Systematic literature
+review. Southern African Journal of  Entrepreneurship and Small Business Management, 12(1), 2522-7343. 
+https://doi.org/10.4102/SAJESBM.V12I1.333 
+Chen, C.J., & Huang, J.W . (2009). Strategic human resource practices and innovation performance - The 
+mediating role of  knowledge management capacity. Journal of  Business Research, 62(1), 104-114. https://doi.org/
+10.1016/j.jbusres.2007.11.016 
+Clarke, N., & Higgs, M. (2020). Political Skill and Role Overload as Antecedents of  Innovative Work Behavior in 
+the Public Sector. Public Personnel Management, 49(3), 444-469. https://doi.org/10.1177/0091026019863450 
+Colombelli, A., Haned, N., & Le Bas, C. (2013). On firm growth and innovation: Some new empirical 
+perspectives using French CIS (1992-2004). Structural Change and Economic Dynamics, 26, 14-26. 
+https://doi.org/10.1016/j.strueco.2013.03.002 
+Cropanzano, R., Anthony, E.L., Daniels, S.R., & Hall, A.V . (2017). Social exchange theory: A critical review with 
+theoretical remedies. Academy of  Management Annals, 11(1), 479-516. https://doi.org/10.5465/annals.2015.0099 
+Crossan, M.M., & Apaydin, M. (2010). A multi-dimensional framework of  organizational innovation: A 
+systematic review of  the literature. Journal of  Management Studies, 47(6), 1154-1191. 
+https://doi.org/10.1111/j.1467-6486.2009.00880.x 
+De Jong, J., & Den-Hartog, D. (2010). Measuring innovative work behaviour. Creativity and Innovation Management, 
+19(1), 23-36. https://doi.org/10.1111/j.1467-8691.2010.00547.x 
+Deci, E.L., & Ryan, R.M. (2000). The “What” and “Why” of  Goal Pursuits : Human Needs and the 
+Self-Determination of  Behavior. Psychological Inquiry, 11(4), 37-41. 
+https://doi.org/10.1207/S15327965PLI1104_01 
+Derin, O.B., Toker, K., & Gorener, A. (2021). The Relationship between Knowledge Sharing and Innovative 
+Work Behaviour: The Mediating Role of  Ethical Climate. Knowledge Management Research and Practice, 00(00), 
+1-14. https://doi.org/10.1080/14778238.2020.1860666 
+Díaz, S., Demissew, S., Carabias, J., Joly, C., Lonsdale, M., Ash, N. et al. (2015). The IPBES Conceptual 
+Framework - connecting nature and people. Current Opinion in Environmental Sustainability, 14, 1-16. 
+https://doi.org/10.1016/j.cosust.2014.11.002 
+Hafeez, M., Panatik, S.A., Rahman, A.A.A., Rajab, A., Abu-Bakar, S., & Norazman, I. (2019). Ambidextrous 
+leadership and innovative work behavior: Mediating role of  emotional intelligence. International Journal of  
+Recent Technology and Engineering, 8(2S9), 906-910. https://doi.org/10.35940/ijrte.B1186.0982S919 
+Hair, J.F., Hult, T.M., Ringle, C., & Sarstedt, M. (2017). A Primer on Partial Least Squares Structural Equation Modeling
+(PLS-SEM) (2nd ed.). SAGE Publications Inc. Available at: https://us.sagepub.com/en-us/nam/a-primer-on-
+partial-least-squares-structural-equation-modeling-pls-sem/book244583 
+Hammond, M.M., Neff, N.L., Farr, J.L., Schwall, A.R., & Zhao, X. (2011). Predictors of  Individual-Level 
+Innovation at Work: A Meta-Analysis. Psychology of  Aesthetics, Creativity, and the Arts, 5(1), 90-105. 
+https://doi.org/10.1037/a0018556 
+Helmy, I., Adawiyah, W .R., & Setyawati, H.A. (2020). Fostering Frontline Employees’ Innovative Service 
+Behavior: The Role of  Workplace Friendship and Knowledge Sharing Process. Organizacija, 53(3), 185-197. 
+https://doi.org/10.2478/orga-2020-0012 
+-84-
+<<<PAGE=26>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Helmy, I., Rabiatul, A., & Banani, A. (2019). Linking Psychological Empowerment, Knowledge Sharing, and 
+Employees’ Innovative Behavior in Indonesian SMEs. The Journal of  Behavioral Science Psychologic, 14(2), 66-79.
+Hernández, R., Fernández, C., & Baptista, M. (2014). Metodología de la Investigación (sexta edic). 
+McGraw-Hill/Interamericana Editores, S.A.
+Hosseini, S., & Haghighi, R. (2021). Towards teacher innovative work behavior: A conceptual model. Cogent 
+Education, 8(1). https://doi.org/10.1080/2331186X.2020.1869364 
+Hülsheger, U.R., Anderson, N., & Salgado, J.F. (2009). Team-Level Predictors of  Innovation at Work: A 
+Comprehensive Meta-Analysis Spanning Three Decades of  Research. Journal of  Applied Psychology, 94(5), 
+1128-1145. https://doi.org/10.1037/a0015978 
+Idris, M.C., & Durmuşoğlu, A. (2021). Innovation management systems and standards: A systematic literature 
+review and guidance for future research. Sustainability (Switzerland), 13(15). https://doi.org/10.3390/su13158151 
+Işık, C., Aydın, E., Dogru, T., Rehman, A., Alvarado, R., Ahmad, M. et al. (2021). The nexus between team 
+culture, innovative work behaviour and tacit knowledge sharing: Theory and evidence. Sustainability 
+(Switzerland), 13(8). https://doi.org/10.3390/su13084333 
+Jan, G., & Zainal, S.R.M. (2020). Linking cooperative psychological climate, harmonious passion, and servicing 
+empowerment with innovative work behaviour. Asian Academy of  Management Journal, 25(2), 189-213. 
+https://doi.org/10.21315/aamj2020.25.2.8 
+Jan, G., Zainal, S.R.M., & Lata, L. (2021). Enhancing innovative work behaviour: the role of  servant leadership 
+and creative self-efficacy. On the Horizon, 29(2), 33-51. https://doi.org/10.1108/OTH-12-2020-0044 
+Janssen, O. (2000). Job demands, perceptions of  effort-reward fairness and innovative work behaviour. Journal of  
+Occupational and Organizational Psychology, 73(3), 287-302. https://doi.org/10.1348/096317900167038 
+Kanter, R.M. (1988). When a Thousand Flowers Bloom: Structural, Collective, and Social Conditions for Innovation in 
+Organizations. Research in Organizational Behavior.
+Khorakian, A., Mohammadi-Shahroodi, H., Jahangir, M., & Nikkhah-Farkhani, Z. (2019). Innovative Work 
+Behavior in Public Organizations: The Roles of  Ethical and Knowledge Sharing Behaviors. Creativity Research 
+Journal, 31(2), 164-173. https://doi.org/10.1080/10400419.2019.1607444 
+Kim, W ., & Park, J. (2017). Examining structural relationships between work engagement, organizational 
+procedural justice, knowledge sharing, and innovative work behavior for sustainable organizations. 
+Sustainability (Switzerland), 9(2). https://doi.org/10.3390/su9020205 
+Kmieciak, R. (2020). Trust, knowledge sharing, and innovative work behavior: empirical evidence from Poland. 
+European Journal of  Innovation Management. https://doi.org/10.1108/EJIM-04-2020-0134 
+Koroglu, Ş., & Ozmen, O. (2021). The mediating effect of  work engagement on innovative work behavior and 
+the role of  psychological well-being in the job demands-resources (JD-R) model. Asia-Pacific Journal of  Business
+Administration. https://doi.org/10.1108/APJBA-09-2020-0326 
+Kostoff, R.N., Tshiteya, R., Pfeil, K.M., Humenik, J.A., & Karypis, G. (2005). Power source roadmaps using 
+bibliometrics and database tomography. Energy, 30(5), 709-730. https://doi.org/10.1016/j.energy.2004.04.058 
+Kustanto, H., Hamidah, Eliyana, A., Santri-Mumpuni, J.H., & Gunawan, D.R. (2020). The Moderation Role of  
+Psychological Empowerment on Innovative Work Behaviour. Systematic Reviews in Pharmacy, 11(8).
+Laguna, M., Mielniczuk, E., & Gorgievski, M.J. (2021). Business Owner-Employees Contagion of  Work-Related 
+Affect and Employees’ Innovative Behavior in Small Firms. Applied Psychology, 70(4), 1543-1571. 
+https://doi.org/10.1111/apps.12288 
+Lee, H.W ., Pak, J., Kim, S., & Li, L.Z. (2019). Effects of  Human Resource Management Systems on Employee 
+Proactivity and Group Innovation. Journal of  Management, 45(2), 819-846. 
+https://doi.org/10.1177/0149206316680029 
+-85-
+<<<PAGE=27>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Linh, T.P ., Tran, N.M., Doan, X.H., & Van Nguyen, H. (2020). The impact of  knowledge sharing on innovative 
+work behavior of  Vietnam telecommunications enterprises employees. Management Science Letters, 10(1), 53-62. 
+https://doi.org/10.5267/j.msl.2019.8.016 
+Liu, Y ., Xu, S., & Zhang, B. (2020). Thriving at Work: How a Paradox Mindset Influences Innovative Work 
+Behavior. Journal of  Applied Behavioral Science, 56(3), 347-366. https://doi.org/10.1177/0021886319888267 
+Malik, S. (2021). Emotional intelligence and innovative work behaviour in knowledge-intensive organizations: 
+how tacit knowledge sharing acts as a mediator? VINE Journal of  Information and Knowledge Management Systems, 
+52(5), 650-669. https://doi.org/10.1108/VJIKMS-09-2020-0158 
+Maqbool, S., Černe, M., & Bortoluzzi, G. (2019). Micro-foundations of  innovation: Employee silence, perceived 
+time pressure, flow and innovative work behaviour. European Journal of  Innovation Management, 22(1), 125-145. 
+https://doi.org/10.1108/EJIM-01-2018-0013 
+Mariz-Perez, R.M., Teijeiro-Alvarez, M.M., & Garcìa-Alvarez, M.T. (2012). The relevance of  human capital as a 
+driver for innovation. Cuadernos de Economia (Spain), 35(98), 68-76. https://doi.org/10.1016/S0210-0266(12)70024-9 
+Migdadi, M.M. (2022). Knowledge management processes, innovation capability and organizational performance.
+International Journal of  Productivity and Performance Management, 71(1), 182-210. 
+https://doi.org/10.1108/IJPPM-04-2020-0154 
+Moher, D., Liberati, A., Tetzlaff, J., Altman, D.G., Altman, D., Antes, G. et al. (2009). Preferred reporting items 
+for systematic reviews and meta-analyses: The PRISMA statement. En PLoS Medicine, 6(7). 
+https://doi.org/10.1371/journal.pmed.1000097 
+Mustafa, M., Coetzer, A., Ramos, H.M., & Fuhrer, J. (2021). Exploring the effects of  small- and medium-sized 
+enterprise employees’ job satisfaction on their innovative work behaviours: the moderating effects of  
+personality. Journal of  Organizational Effectiveness, 8(2), 228-250. https://doi.org/10.1108/JOEPP-07-2020-0133 
+Nguyen, T.P .L., Nguyen, K.N., Do, T.D., & Nguyen, T.T.M. (2019). Knowledge sharing and innovative work 
+behavior: The case of  Vietnam. Uncertain Supply Chain Management, 7(4), 619-634. 
+https://doi.org/10.5267/j.uscm.2019.5.001 
+Nöhammer, E., & Stichlberger, S. (2019). Digitalization, innovative work behavior and extended availability. 
+Journal of  Business Economics, 89(8-9), 1191-1214. https://doi.org/10.1007/s11573-019-00953-2 
+Obeidat, S.M. (2021). Do high-performance work practices induce innovative work behaviour? the case of  the 
+Qatari banking sector. International Journal of  Innovation Management, 25(1). 
+https://doi.org/10.1142/S1363919621500031 
+Pérez-Peñalver, M.J., Aznar-Mas, L.E., & Montero-Fleta, B. (2018). Identification and classification of  
+behavioural indicators to assess innovation competence. Journal of  Industrial Engineering and Management, 11(1), 
+87-115. https://doi.org/10.3926/jiem.2552 
+Phung, V .D., Hawryszkiewycz, I., & Chandran, D. (2019a). How knowledge sharing leads to innovative work 
+behaviour: A moderating role of  transformational leadership. Journal of  Systems and Information Technology, 21(3),
+277-303. https://doi.org/10.1108/JSIT-11-2018-0148 
+Phung, V .D., Hawryszkiewycz, I., Chandran, D., & Ha, B.M. (2019b). Promoting knowledge sharing amongst 
+academics: A case study from Vietnam. Journal of  Information and Knowledge Management. https://doi.org/10.1142/
+S0219649219500321 
+Ren, F., Zhang, Q., & Wei, X. (2021). Work Autonomous and Controlled Motivation on Chinese Employees’ 
+Work Performance and Innovative Work Behaviour: The Moderating Role of  Financial Stress. Frontiers in 
+Psychology, 12. https://doi.org/10.3389/fpsyg.2021.676063 
+Sabahattin, E. (2020). The Personality Traits in the Defense Industry: The Mediating Role of  Organizational 
+Citizenship Behavior. SAGE Open, 10(4). https://doi.org/10.1177/2158244020982289 
+-86-
+<<<PAGE=28>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Saether, E.A. (2019). Motivational antecedents to high-tech R&D employees’ innovative work behavior: Self-
+determined motivation, person-organization fit, organization support of  creativity, and pay justice. Journal of  
+High Technology Management Research, 30(2). https://doi.org/10.1016/j.hitech.2019.100350 
+Saraih, U., Wei, O.C., Razali, R., Zuraini, Z.A.A., Amlus, M., & Abd-Razak, N.A. (2019). Factors affecting 
+innovative work behavior: A case of  manufacturing company in Malaysia. International Journal of  Advanced 
+Science and Technology, 28(8), 645-652. Available at: https://www.scopus.com/inward/record.uri?eid=2-s2.0-
+85081190308&partnerID=40&md5=1bf84f780db48f61b9af6e09a56b93c2 
+Scott, S.G., & Bruce, R.A. (1994). Determinants of  innovative behavior: a path model of  individual innovation in
+the workplace. Academy of  Management Journal, 37(03), 580-607. https://doi.org/10.5860/choice.32-1325 
+Sifatu, W .O., Sjahruddin, H., Fajriah, Y ., Dwijendra, N.K.A., & Santoso, A. (2020). Innovative work behaviors in 
+pharmacies of  Indonesia: Role of  employee voice, generational diversity management and employee 
+engagement. Systematic Reviews in Pharmacy, 11(2), 725-734. https://doi.org/10.31838/srp.2020.2.105 
+Siregar, Z.M.E., Sujana, F.R., Pranowo, A.S., & Supriadi, Y .N. (2021). Job autonomy and innovative work 
+behavior of  marketing employees in the automotive industry in Indonesia: The mediating role of  
+organizational commitment. Quality - Access to Success, 22(180), 97-102. Available at: 
+https://www.researchgate.net/publication/350954013 
+Stock, R., Groß, M., & Xin, K.R. (2019). Will Self-Love Take a Fall? Effects of  Top Executives’ Positive 
+Self-Regard on Firm Innovativeness. Journal of  Product Innovation Management, 36(1), 41-65. 
+https://doi.org/10.1111/jpim.12443 
+Swaroop, P ., & Dixit, V . (2018). Employee engagement, work autonomy and innovative work behaviour: An 
+empirical study. International Journal of  Innovation, Creativity and Change, 4(2), 158-176. Available at: 
+http://www.ijicc.net 
+Tajeddini, K., & Martin, E. (2020). The importance of  human-related factors on service innovation and 
+performance. International Journal of  Hospitality Management, 85, 102431. 
+https://doi.org/10.1016/j.ijhm.2019.102431 
+Tett, R.P ., & Burnett, D.D. (2003). A personality trait-based interactionist model of  job performance. Journal of  
+Applied Psychology, 88(3), 500-517. https://doi.org/10.1037/0021-9010.88.3.500 
+Thornhill, S. (2006). Knowledge, innovation and firm performance in high- and low-technology regimes. Journal 
+of  Business Venturing, 21(5), 687-703. https://doi.org/10.1016/j.jbusvent.2005.06.001 
+Tranfield, D., Denyer, D., & Smart, P . (2003). Towards a Methodology for Developing Evidence-Informed 
+Management Knowledge by Means of  Systematic Review. British Journal of  Management, 14(3), 207-222. 
+https://doi.org/10.1111/1467-8551.00375 
+Ummi, N., Razali, R., Zuraini, A., Amlus, H., & Razak, N. (2019). Factors Affecting Innovative Work Behavior: 
+A Case of  Manufacturing Company in Malaysia. International Journal of  Advanced Science and Technology, 28(8), 
+645-652. Available at: https://www.researchgate.net/publication/336799657 
+Wang, Z., Gao, M., & Panaccio, A. (2021). A Self-Determination Approach to Understanding Individual Values 
+as an Interaction Condition on Employees’ Innovative Work Behavior in the High-Tech Industry. Journal of  
+Creative Behavior, 55(1), 183-198. https://doi.org/10.1002/jocb.444 
+West, M.A., & Farr, J.L. (1989). Innovation at work: Psychological perspectives. American Psychological Association. -
+Available at: https://psycnet.apa.org/record/1989-31447-001 
+Widmann, A., Messmann, G., & Mulder, R.H. (2016). The Impact of  Team Learning Behaviors on Team 
+Innovative Work Behavior: A Systematic Review. Human Resource Development Review, 15(4), 429-458. 
+https://doi.org/10.1177/1534484316673713 
+Wilt, T.J., & Fink, H.A. (2007). Systematic reviews and meta-analyses. En Clinical Research Methods for Surgeons, 
+20(1), 311-325. https://doi.org/PMCID: PMC3024725 
+-87-
+<<<PAGE=29>>>
+Intangible Capital – https://doi.org/10.3926/ic.2389
+Woods, S.A., Mustafa, M.J., Anderson, N., & Sayer, B. (2018). Innovative work behavior and personality traits: 
+Examining the moderating effects of  organizational tenure. Journal of  Managerial Psychology, 33(1), 29-42. 
+https://doi.org/10.1108/JMP-01-2017-0016 
+Yasir, M., Majid, A., Yousaf, Z., Nassani, A.A., & Haffar, M. (2021). An integrative framework of  innovative 
+work behavior for employees in SMEs linking knowledge sharing, functional flexibility and psychological 
+empowerment. European Journal of  Innovation Management. https://doi.org/10.1108/EJIM-02-2021-0091 
+Yuan, F., & Woodman, R.W . (2010). Innovative behavior in the workplace: The role of  performance and image 
+outcome expectations. Academy of  Management Journal, 53(2), 323-342. 
+https://doi.org/10.5465/amj.2010.49388995 
+Intangible Capital, 2024 (www.intangiblecapital.org)
+Article’s contents are provided on an Attribution-Non Commercial 4.0 Creative commons International License. Readers are
+allowed to copy, distribute and communicate article’s contents, provided the author’s and Intangible Capital’s names are
+included. It must not be used for commercial purposes. To see the complete license contents, please visit
+https://creativecommons.org/licenses/by-nc/4.0/.
+-88-

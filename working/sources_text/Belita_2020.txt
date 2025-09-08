@@ -1,0 +1,2721 @@
+<<<PAGE=1>>>
+RESEARCH ARTICLE Open Access
+Measures of evidence-informed decision-
+making competence attributes: a
+psychometric systematic review
+Emily Belita 1* , Janet E. Squires 2, Jennifer Yost 3, Rebecca Ganann 4, Trish Burnett 1 and Maureen Dobbins 1
+Abstract
+Background: The current state of evidence regarding measures that assess evidence-informed decision-making
+(EIDM) competence attributes (i.e., knowledge, skills, attitudes/beliefs, behaviours) among nurses is unknown. This
+systematic review provides a narrative synthesis of the psychometric properties and general characteristics of EIDM
+competence attribute measures in nursing.
+Methods: The search strategy included online databases, hand searches, grey literature, and content experts. To
+align with the Cochrane Handbook of Systematic Reviews, psychometric outcome data (i.e., acceptability, reliability,
+validity) were extracted in duplicate, while all remaining data (i.e., study and measure characteristics) were extracted
+by one team member and checked by a second member for accuracy. Acceptability data was defined as measure
+completion time and overall rate of missing data. The Standards for Educational and Psychological Testing was
+used as the guiding framework to define reliability, and validity evidence, identified as a unified concept comprised
+of four validity sources: content, response process, internal structure and relationships to other variables. A narrative
+synthesis of measure and study characteristics, and psychometric outcomes is presented across measures and
+settings.
+Results: A total of 5883 citations were screened with 103 studies and 35 unique measures included in the review.
+Measures were used or tested in acute care ( n = 31 measures), public health ( n = 4 measures), home health (n = 4
+measures), and long-term care ( n = 1 measure). Half of the measures assessed a single competence attribute ( n = 19;
+54.3%). Three measures (9%) assessed four competence attributes of knowledge, skills, attitudes/beliefs and
+behaviours. Regarding acceptability, overall missing data ranged from 1.6 – 25.6% across 11 measures and
+completion times ranged from 5 to 25 min (n = 4 measures). Internal consistency reliability was commonly reported
+(21 measures), with Cronbach ’s alphas ranging from 0.45 – 0.98. Two measures reported four sources of validity
+evidence, and over half (n = 19; 54%) reported one source of validity evidence.
+(Continued on next page)
+© The Author(s). 2020 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+* Correspondence: belitae@mcmaster.ca
+1McMaster University, School of Nursing, McMaster Innovation Park (MIP), 175
+Longwood Road South, Suite 210a, Hamilton, ON L8P 0A1, Canada
+Full list of author information is available at the end of the article
+Belita et al. BMC Nursing           (2020) 19:44 
+https://doi.org/10.1186/s12912-020-00436-8
+<<<PAGE=2>>>
+(Continued from previous page)
+Conclusions: This review highlights a gap in the testing and use of competence attribute measures related to
+evidence-informed decision making in community-based and long-term care settings. Further development of
+measures is needed conceptually and psychometrically, as most measures assess only a single competence
+attribute, and lack assessment and evidence of reliability and sources of established validity evidence.
+Registration: PROSPERO #CRD42018088754.
+Keywords: Evidence-informed decision-making, Nursing, Evidence-based practice, Psychometrics, Competence
+assessment
+Background
+Nurses play an important role in ensuring optimal health
+outcomes by engaging in evidence-informed decision
+making (EIDM). EIDM, used synonymously with the
+term evidence-based practice (EBP) [ 1] involves “the
+conscientious, explicit, and judicious use of current best
+evidence in making decisions about the care of individ-
+ual patients ” [2] (p. 71). The use of the word ‘informed’
+in EIDM denotes that research alone is insufficient for
+clinical decision making and cannot take precedence
+over other factors [ 3]. Evidence in this regard then, is
+defined as credible knowledge from different sources in-
+cluding research, professional/clinical experience, patient
+experiences/preferences, and local data and information
+[4, 5]. There are numerous examples of improved pa-
+tient outcomes following implementation of best prac-
+tice guidelines such as reductions in length of hospital
+stay [ 6] and adverse patient events related to falls and
+pressure ulcers in long-term care settings [ 7].
+Despite knowledge of such benefits, competency gaps
+and low implementation rates in EIDM persist among
+nurses across diverse practice settings [ 8– 10]. A barrier
+to EIDM implementation has been the lack of clarity
+and understanding about what nurses should be ac-
+countable for with respect to EIDM as well as how it
+can be best measured [ 11, 12]. As such, considerable ef-
+fort has occurred in the development of EIDM compe-
+tence measures as a strategy to support EIDM
+implementation in nursing practice [ 12].
+EIDM competence attributes of knowledge, skills, atti-
+tudes/beliefs, and behaviours have been well defined in
+the literature. EIDM knowledge is an understanding of
+the primary concepts and principles of EIDM and hier-
+archy of evidence [ 13– 17]. Skills in EIDM refer to the
+application of knowledge required to complete EIDM
+tasks (e.g., developing a comprehensive strategy to
+search for research evidence) [ 13– 17]. Attitudes and be-
+liefs related to EIDM include perceptions, beliefs, and
+values ascribed to EIDM (e.g., belief that EIDM improves
+patient outcomes) [ 13, 15]. EIDM behaviours are defined
+by the performance of EIDM steps in real-life clinical
+practice (e.g., identifying a clinical problem to be ad-
+dressed) [ 13, 15, 17].
+Multiple uses for measures assessing EIDM compe-
+tence attributes in nursing practice and research exist.
+Such measures can be integrated into performance ap-
+praisals [ 18] to monitor progressive changes in overall
+EIDM competence or specific domains. At an
+organizational level, EIDM competence standards can
+support human resource management by establishing
+clear EIDM role expectations for prospective, newly
+hired, or employed nurses [ 18, 19]. With respect to
+nursing research, there has been great attention afforded
+to the development and testing of different interventions
+to increase EIDM knowledge, attitudes, skills, and be-
+haviours among nurses [ 20– 22]. The use of EIDM com-
+petence instruments that produce valid and reliable
+scores can help to ascertain effective interventions in de-
+veloping EIDM competence areas.
+Previous systematic reviews have focused on EIDM
+competence attribute measures used among allied health
+care professionals [ 13, 16, 23] as well as nurses and mid-
+wives [ 14]. However, several limitations exist among
+these reviews. A conceptual limitation is that many re-
+views included research utilization measures despite
+stating a focus on EIDM [ 13, 14, 23]. Research
+utilization, while considered a component of EIDM, is
+conceptually distinct from it. Research utilization in-
+cludes the use of scientific research evidence in health
+care practice [ 24]. While, EIDM encompasses the appli-
+cation of multiple forms of evidence such as clinical ex-
+perience, patient preferences, and local context or
+setting [ 5]. Conceptual clarity is of critical importance in
+a psychometric systematic review, as it can impact find-
+ings of reported validity evidence. Reviews by Glegg and
+Holsti [ 16] and Leung et al. [ 14] were also limited in
+focus, as they included measures that assessed only a
+few, but not all four of the attributes that comprise com-
+petence, potentially resulting in the exclusion of existing
+EIDM measures. Methodologically, across all reviews,
+psychometric assessment was limited as validity evidence
+was either not assessed [ 16] or assessed only by review-
+ing data that was formally reported as content, con-
+struct, or criterion validity [ 13, 14, 23], neglecting other
+critical data that could support validity evidence of a
+measure. As well, none of the reviews reported on or
+Belita et al. BMC Nursing           (2020) 19:44 Page 2 of 28
+<<<PAGE=3>>>
+extracted data on specific practice settings. This is an
+essential component of psychometric assessment, as
+Streiner et al. [ 25] identify that reliability and validity
+are contingent not solely on scale properties, but on
+the sample with whom and specific situation in which
+measures are tested. Consideration of setting is im-
+portant when determining the applicability of a meas-
+u r ef o ras p e c i f i cp o p u l a t i o nd u et od i f f e r e n c e si n
+role and environment. Despite these existing reviews,
+most importantly, none of them focused only on
+nurses. A systematic review unique to nursing is im-
+perative given the diversity of needs, reception to, and
+expectations of EIDM across health care professional
+groups [ 16]. These differences may be reflected across
+measures to assess discipline specific EIDM
+competence.
+The current review aimed to address limitations of
+existing reviews by: including measures that address a
+holistic conceptualization of EIDM which includes the
+use of multiple forms of evidence in nursing practice; fo-
+cusing on the four EIDM competence attributes of
+knowledge, skills, attitudes and behaviours; utilizing a
+modern understanding of validity evidence in which
+sources based on test content, response process, internal
+structure, and relations to other variables were assessed
+according to the Standards for Educational and Psycho-
+logical Testing [ 26]; extracting data on and presenting
+findings within the context of practice setting; and tar-
+geting the unique population of nurses.
+The objectives of this systematic review were to: 1)
+identify existing measures of EIDM competence attri-
+butes of knowledge, skills, attitudes/beliefs, and/or be-
+haviours used among nurses in any healthcare setting;
+and 2) determine the psychometric properties of test
+scores for these existing measures.
+Methods
+The protocol for this systematic review was registered
+(PROSPERO #CRD42018088754), was published [ 27]a
+priori, and followed the Preferred Reporting Items for Sys-
+tematic Reviews and Meta-Analyses (PRISMA) guideline.
+Search strategy
+A comprehensive search stra tegy consisting of online
+databases, hand searches, grey literature, and content
+experts, was developed in consultation with a Health
+Sciences Librarian. Searches were limited from 1990
+until December 2017, as the term evidence-based
+medicine was first introduced and defined in 1990
+[28]. Search strategy sources are summarized in Table
+1. A detailed search strategy is provided in Additional
+file 1.
+Inclusion and exclusion criteria
+S t u d i e sw e r ei n c l u d e di ft h e ym e tt h ef o l l o w i n gc r i -
+teria: study sample consists of all nurses or a portion
+of nurses; conducted in any healthcare setting; re-
+ported findings from the u se or psychometric testing
+of measures that assesses EIDM knowledge, skills, at-
+titudes/values, and/or behaviours; quantitative or
+mixed-method design; and English language. Studies
+were excluded if the sample consisted of solely other
+healthcare professionals or nursing undergraduate
+students, or in which data specific to nurses was not
+reported separately. As well, studies testing or using
+measures assessing research utilization were excluded
+[5, 24].
+Study selection
+Titles and abstracts of initial references and full-text re-
+cords were screened independently by two team mem-
+bers (EB and TB) for inclusion/exclusion. All
+disagreements were able to be resolved by consensus be-
+tween those whom extracted the data.
+Table 1 Search strategy
+Electronic databases (inception until December, 6, 2017)
+ Cumulative Index to Nursing and Allied Health Literature (CINAHL)
+ EMBASE
+ Education Resources Information Centre (ERIC)
+ Health and Psychological Instruments (HaPI)
+ MathSciNet
+ Ovid Medline
+Other sources:
+ Hand searches of included studies
+ Hand searches of relevant journals including Implementation Science
+and Worldviews on Evidence Based Nursing
+ Grey Literature Report ( http://greylit.org/)
+ Canadian Health Research Collection
+ Nursing association resource portals
+o Canadian Nurses Association ( https://www.cna-aiic.ca/en)
+o Community Health Nurses of Canada ( https://www.chnc.ca/)
+o American Nurses Association ( https://www.nursingworld.org/)
+ Four content experts with high frequency citations related to EIDM
+assessment
+ Relevant conference proceedings:
+o Annual Conference on the Science of Dissemination and
+Implementation in Health ( https://cancercontrol.cancer.gov/IS/training-
+education/index.html#conference)
+o National Community Health Nursing Conference – Community
+Health Nurses of Canada ( https://www.chnc.ca/en/conferences)
+o Knowledge Translation Canada Annual Scientific Meeting
+Belita et al. BMC Nursing           (2020) 19:44 Page 3 of 28
+<<<PAGE=4>>>
+Data extraction
+Data extraction was piloted using a standard form com-
+pleted independently by two team members (EB and
+TB) on five randomly selected references. Data extracted
+pertaining to study and measure characteristics included:
+study design, sample size, professional designation of
+sample, healthcare setting, study country, funding, name
+of measure, format, purpose of measure, item develop-
+ment process, number of items, theoretical framework
+used, conceptual definition of competence established,
+EIDM attributes measured, EIDM domains/steps cov-
+ered, and marking key or scale for self-report measures.
+Data extraction on these characteristics was performed
+by one team member (EB) and checked for accuracy by
+a second team member (TB/TD).
+Data extraction of primary outcomes included psy-
+chometric outcomes of acceptability, reliability, and
+validity evidence. Data extracted relating to accept-
+ability consisted of completion time and missing data
+reported for each measure. Missing data were ex-
+tracted from reports of incomplete surveys or calcu-
+lated based on the number of complete surveys
+included in the analysis. Reliability data extracted for
+scores of measures related to internal consistency,
+inter-rater, and test-re-test reliability coefficients.
+Sources of validity evidence were extracted following
+guidelines from the Standards for Educational and
+Psychological Testing [ 26]. Data were extracted on
+four sources of validity evidence: test content; re-
+sponse process, internal st ructure, and relationships
+to other variables. Test content refers to the relation-
+ship between the content of the items and the con-
+struct under measure, which includes analyzing the
+adequacy and relevance of items [ 26]. Validity evi-
+dence of response process involves understanding the
+thought processes participants use when responding
+to items and their consistency with the construct of
+focus [ 26]. Internal structure is defined as the degree
+to which test items are related to one another and
+coincide with the construct for which test scores are
+being interpreted [ 26]. The last source of validity evi-
+dence, relations to other variables, is the relationship
+of test scores to other external variables, from which
+it can be determined the degree to which these rela-
+tionships align with the construct under measure [ 26].
+To determine if study findings supported validity
+evidence based on relationships to other variables, a
+review of the literature was conducted and guiding
+tables on variable relation ships were established (see
+Additional file 2). Data on psychometric outcomes
+were extracted by two independent reviewers (EB
+and TB/TD). All disagreements were able to be re-
+solved by consensus between those whom extracted
+the data. Measures were grouped according to the
+number of sources of validity evidence that were re-
+ported in the study(ies) associated with each meas-
+ure. In the event that multiple studies were reported
+for a measure, group classification was determined
+based on the number of sources indicated by 50% or
+more of the associated studies [ 29].
+Quality assessment was not conducted due to limita-
+tions across varying and inconsistent criteria for apprais-
+ing studies involving psychometric measures [ 27]. Instead,
+aligning with previous reviews [ 17, 29], a thorough assess-
+ment of reliability and validity evidence for scores of mea-
+sures was conducted to align with the Standards for
+Educational and Psychological Testing [ 26].
+Data synthesis
+A narrative synthesis of results is presented. Study statis-
+tics as they relate to setting and population are summa-
+rized. Measures are also categorized according to the
+number of EIDM attributes addressed. Acceptability de-
+fined as completion time and overall missing data are
+summarized across measures and settings. Reliability data
+is summarized for each measure across settings. Similar to
+previous psychometric systematic reviews [ 17, 29], mea-
+sures are categorized into distinct groups based on the
+number of validity evidence sources reported for each
+measure (e.g., Group 1 = 4 sources of validity evidence).
+This aligns with the Standards for Psychological and Edu-
+cational Testing [ 26] which identifies that the strength of
+a validity argument for scores on a measure is cumulative
+and contingent on the number of validity evidence sources
+established. As psychometric properties are based on the
+context in which a measure is used or tested, healthcare
+settings are integrated into the presentation of results.
+Results
+Review statistics
+In total, 5883 references were screened for eligibility at
+the title and abstract level. Of the 336 screened at full-
+text, 109 articles were included in the final review. Six
+pairs of articles ( n = 12) were linked (i.e., associated with
+the same parent study) and the remainder of the articles
+were unique studies. Therefore, the review included 103
+studies (see Additional file 3) and 35 unique measures
+(see Fig. 1 for PRISMA details).
+Study characteristics
+Of the 103 studies, over half were conducted in the
+United States ( n = 57; 55.3%). Twenty studies were con-
+ducted in Europe (57.1%), with 19 (54.3%) taking place
+in Asia. Two studies were conducted each in Africa,
+Australia, Canada, and one in New Zealand. Publication
+years spanned 2004 – 2017. One additional measure was
+identified after contacting content experts; its associated
+study was published in 2018.
+Belita et al. BMC Nursing           (2020) 19:44 Page 4 of 28
+<<<PAGE=5>>>
+Settings
+The 35 included measures were used or tested most often
+in acute care ( n = 31 measures) followed by primary care
+(n = 9 measures). Measures were used less often in public
+health ( n = 4 measures), home health (n = 4 measures),
+and long-term care ( n = 1 measure). An overview of mea-
+sures with identified settings is presented in Table 2.
+Population
+Measures were primarily use d or tested among registered
+nurses ( n = 26 measures; 74.3%), followed by advanced
+practice nurses ( n = 7 measures; 20%), and licensed/regis-
+tered practical nurses (n = 4 measures; 11.4%). A licensure
+group for 13 of the measures (37.1%) was not specified.
+Fig. 1 PRISMA details
+Belita et al. BMC Nursing           (2020) 19:44 Page 5 of 28
+<<<PAGE=6>>>
+Table 2 Description of EIDM competence attributes measures across setting, population (35 measures)
+Name of measure
+(n = # of studies)
+[related citations]
+Purpose of measure and description Setting Population EIDM Competence Attributes
+Primary
+care
+Acute
+care
+Public
+health
+Home
+health
+Long-
+term
+Other Not
+reported
+RNs APNs RPNs/
+LPNs
+Does
+not
+specify
+Knowledge Skills Attitudes/
+Belief
+Behaviours
+FOUR EIDM COMPETENCE ATTRIBUTES MEASURED (n = 3)
+Evidence-Based
+Practice
+Questionnaire
+(EBPQ)
+(n = 36 studies)
+[30– 66]
+A 24-item self-report measure that as-
+sesses knowledge, practice, and attitudes
+toward evidence-based practice (EBP).
+Knowledge/skills (14 items) are assessed
+collectively using a 7-point scale (1 = poor
+to 7 = best). Practice is assessed with six
+items with a scale to determine the fre-
+quency with which that item has been
+completed over the past year on a 7-point
+scale ranging from never to frequently. At-
+titudes are assessed using four items also
+on a 7-point scale with higher scores indi-
+cating more positive attitudes towards
+EBP.
+√ √ √√√ √ √√ √ √ √ √
+School Nursing
+Evidence-Based
+Practice Ques-
+tionnaire (SN-
+EBP)
+(n = 1 study)
+[67]
+A measure with the most applicable
+categories: EBP (21 items rated from 1 =
+strongly disagree to 5 = strongly agree);
+Computer use (7 items rated from 1 =
+avoid all together to 4 = skillfull);
+Information sources (10 items rated from
+1 = never to 4 = all the time)
+√√ √ √ √ √
+Self-developed
+measure by Chiu
+et al. (2010)
+(n = 1 study)
+[68]
+A self-report measure to assess EBP beliefs,
+attitudes, knowledge, skills, behaviours and
+barriers. Respondents rate agreement on a
+5-point Likert scale (from strongly agree to
+strongly disagree). EBP behaviours is de-
+fined by identifying the frequency of ac-
+cess to online databases.
+√√ √ √ √ √
+THREE EIDM COMPETENCE ATTRIBUTES MEASURED (n = 7)
+Johns Hopkins
+Nursing EBP
+Assessment
+Survey
+(n = 1 study)
+[69]
+An online self-report survey in which re-
+spondents were asked to rate their confi-
+dence in ability to achieve specific EBP
+competencies on a 6-point scale ranging
+from 1 = completed disagree to 6 = com-
+pletely agree (I feel confident I can … ).
+√√ √ √ √
+Persian
+translated EBP
+measure
+(n = 1 study)
+[70]
+A four-part self-report measure combining
+items from various existing measures to
+assess EBP knowledge, attitudes, and
+practice.
+√√ √ √ √
+Self-developed
+measure by Yip
+Measure consisting of three sections with
+most applicable: beliefs and attitudes (5
+√√ √ √ √
+Belita et al. BMC Nursing           (2020) 19:44 Page 6 of 28
+<<<PAGE=7>>>
+Table 2 Description of EIDM competence attributes measures across setting, population (35 measures) (Continued)
+Name of measure
+(n = # of studies)
+[related citations]
+Purpose of measure and description Setting Population EIDM Competence Attributes
+Primary
+care
+Acute
+care
+Public
+health
+Home
+health
+Long-
+term
+Other Not
+reported
+RNs APNs RPNs/
+LPNs
+Does
+not
+specify
+Knowledge Skills Attitudes/
+Belief
+Behaviours
+et al.
+(n = 1 study)
+[71]
+items) rated on a Likert scale with highest
+score of 5 = strongly agree and knowledge
+and skills (9 items) rated on Likert scale
+with highest score of 5 = excellent.
+Self-developed
+measure by
+Chew et al.
+(n = 1 study)
+[72]
+Self-report measure that assesses EBP
+attitude and knowledge (5 items) and
+resource utilization when searching for
+EBP (3 items).
+√√ √ √ √
+Self-developed
+EBP measure by
+Melnyk et al.
+(2004)
+(n = 1 study)
+[73]
+Self-report measure with the most
+applicable domains: Seven items
+measuring knowledge, beliefs, extent of
+EBP on a scale from 0 (nothing, not at all)
+to 100 (expert, all); Nine dichotomous
+items about EBP implementation (e.g. Do
+you currently use Cochrane Database of
+Systematic Reviews)
+√√ √ √ √
+Modified
+Evidence-Based
+Nursing Educa-
+tion Question-
+naire (EBEQ)
+(n = 1 study)
+[74]
+A 45-item self-report measure focused on
+assessing beliefs, knowledge, and self-
+perceived ability in EBP implementation
+divided into five domains: 1) knowledge 2)
+finding and reviewing evidence, 3) clinical
+practices, 4) change in clinical strategies/
+practices, and 5) finding and judging evi-
+dence. Response scale is a 5-point Likert
+scale ranging from strongly agree to
+strongly disagree. Higher scores are associ-
+ated with positive beliefs, greater know-
+ledge and self-perceived ability for EBP
+implementation.
+√√ √ √ √ √
+Quick EBP VIK
+(Values,
+Implementation,
+Knowledge)
+Survey
+(n = 2 studies)
+[75, 76]
+A 25-item self-report survey that assesses
+values, implementation and knowledge of
+EBP. Values (8 items) are assessed using a
+5-point scale from 1 = strongly disagree to
+5 = strongly agree. Implementation (8
+items) is assessed by indicating the fre-
+quency with which an EBP activity has
+been performed on a 5-point scale in the
+last 12 months (1 = none; 2 = 1 or 2 times;
+3=3 – 5 times; 4 = 6 – 10 times; 5 = more
+than 10 times). Knowledge (9 items) is
+assessed on a 5-point scale for each item
+ranging from 1 = not at all knowledgeable;
+2 = minimally knowledgeable; 3 =
+knowledgeable; 4 = very knowledgeable;
+√√ √ √ √ √ √
+Belita et al. BMC Nursing           (2020) 19:44 Page 7 of 28
+<<<PAGE=8>>>
+Table 2 Description of EIDM competence attributes measures across setting, population (35 measures) (Continued)
+Name of measure
+(n = # of studies)
+[related citations]
+Purpose of measure and description Setting Population EIDM Competence Attributes
+Primary
+care
+Acute
+care
+Public
+health
+Home
+health
+Long-
+term
+Other Not
+reported
+RNs APNs RPNs/
+LPNs
+Does
+not
+specify
+Knowledge Skills Attitudes/
+Belief
+Behaviours
+5 = extremely knowledgeable/expert.
+TWO EIDM COMPETENCE ATTRIBUTES MEASURED (n = 6)
+Self-developed
+measure by
+Barako et al.
+(n = 1 study)
+[77]
+Self-report measure that assesses
+numerous domains but most applicable
+are attitudes toward EBP (7 items) and EBP
+application (1 item) with a dichotomous
+response of either ‘fully practice ’ or ‘don’t
+fully practice ’.
+√√ √ √
+EBP measure
+developed by
+Majid et al. [78]
+(n = 2 studies)
+[35, 79]
+A self-report measure that assesses atti-
+tude towards EBP, skills in performing EBP
+activities, training needs, and supporting
+factors and barriers in EBP implementation.
+Most applicable is attitudes (5-items) mea-
+sured on a 5-point scale from strongly dis-
+agree to strongly agree. EBP skills are
+assessed (9 items) using a 5-point scale
+ranging from 1 = poor to 5 = excellent.
+√√ √ √ √
+Modified
+Stevens EBP
+Readiness
+Inventory (ERI)
+(Finnish ERI)
+(n = 1 study)
+[80]
+A 25-item measure divided into two sec-
+tions: 1) Consists of 20 EBP competencies
+which respondents rate their confidence
+in their ability to perform the competency
+(scored on a 6-point Likert scale ranging
+from 1 = very little confidence to 6 = a
+great deal of confidence in employing
+EBP); and 2) 15 multiple choice item to as-
+sess knowledge about major concepts in
+EBP. These are scored based on number of
+correct questions ranging from 0 to 15.
+√√ √ √
+Self-developed
+measure by
+Gerrish et al.
+(n = 1 study)
+[81]
+A self-report measure. Many areas covered
+but most applicable: understanding of EBP
+(respondents provide open-text descrip-
+tion of EBP understanding), 11-items for
+self-assessment of EBP knowledge and
+skills (rated on a 5-point ordinal scale
+(complete beginner to expert).
+√√ √ √ √
+Knowledge and
+Skills in
+Evidence-Based
+Nursing (KS-EBN)
+(n = 1 study)
+[82]
+A 10-item short answer, multiple choice,
+and ranking measure to assess EBP nursing
+knowledge and skills. Each question is
+awarded a specific point score. Range of
+scores are from 0 to 12.
+√√ √ √
+Adapted Fresno
+Test
+A measure used to assess EBP knowledge
+and skills using three different pediatric
+√√ √ √
+Belita et al. BMC Nursing           (2020) 19:44 Page 8 of 28
+<<<PAGE=9>>>
+Table 2 Description of EIDM competence attributes measures across setting, population (35 measures) (Continued)
+Name of measure
+(n = # of studies)
+[related citations]
+Purpose of measure and description Setting Population EIDM Competence Attributes
+Primary
+care
+Acute
+care
+Public
+health
+Home
+health
+Long-
+term
+Other Not
+reported
+RNs APNs RPNs/
+LPNs
+Does
+not
+specify
+Knowledge Skills Attitudes/
+Belief
+Behaviours
+(n = 1 study)
+[83]
+nursing case scenarios. The questions
+relate to the case scenario and consist of
+both open-ended and close-ended ques-
+tions. Questions are scored on a scale from
+0 to 212 with higher scores indicating
+greater EBP knowledge and skill.
+ONE EIDM COMPETENCE ATTRIBUTE MEASURED (n = 19)
+Evidence-based
+Practice
+Implementation
+Scale
+(n = 35 studies)
+[50, 59, 63, 84– 119]
+An 18-item self-report measure that as-
+sesses the extent of EBP implementation.
+Response scale is on a 5-point frequency
+scale. Respondents identify the frequency
+(in past 8 weeks) with which they have
+performed that item. Scale ranges from
+0 = 0 times to 4 = more than 8 times. Total
+score ranges from 0 to 72.
+√√ √ √ √ √ √ √ √ √ √
+Self-developed
+measure by
+Bostrom et al.
+(n = 1 study)
+[120]
+Six item measure that assesses the extent
+to which nurses practice EBP. Nurses
+respond to each item by answering the
+question: “To what extent do you perform
+the following tasks in your work as a
+nurse?” Each item is rated on a 4-point
+scale (1 = to a very low extent, 2 = to a
+low extent, 3 = to a high extent, 4 = to a
+very high extent).
+√√ √ √
+Self-developed
+measure by Kim
+et al.
+(1 study)
+[48]
+Self-report 7-item measure that assesses
+perceived ability to follow EBP steps. Re-
+sponses are rated on a 5-point Likert scale
+based on Benner ’s model (1 = novice, 2 =
+advanced beginner, 3 = competent, 4 =
+proficient, 5 = expert).
+√√ √
+Evidence-Based
+Practice
+Confidence Scale
+(EPIC)
+(n = 1 study)
+[31, 32]
+An 11-item self-report measure in which
+respondents rate the confidence in their
+ability to perform specific EBP activities/
+steps using an 11-point scale ranging from
+0 to 100.
+√√ √
+EBP Competency
+Tool *identified
+from content
+expert
+(n = 1 study)
+[10]
+A self-report measure of 24 EBP compe-
+tencies (items). Response scale consists of
+participants rating competency level on a
+4-point Likert scale: 1 (not at all compe-
+tent), 2 (need improvement), 3 (compe-
+tent), and 4 (highly competent). Possible
+scores range from 0 to 96.
+√√ √ √ √
+Belita et al. BMC Nursing           (2020) 19:44 Page 9 of 28
+<<<PAGE=10>>>
+Table 2 Description of EIDM competence attributes measures across setting, population (35 measures) (Continued)
+Name of measure
+(n = # of studies)
+[related citations]
+Purpose of measure and description Setting Population EIDM Competence Attributes
+Primary
+care
+Acute
+care
+Public
+health
+Home
+health
+Long-
+term
+Other Not
+reported
+RNs APNs RPNs/
+LPNs
+Does
+not
+specify
+Knowledge Skills Attitudes/
+Belief
+Behaviours
+Self-developed
+measure by
+Gerrish et al.
+(n = 1 study)
+[121]
+A self-report measure with four sections.
+The most applicable section is the self-
+assessment of nurses ’ skills related to find-
+ing, reviewing, and using different evi-
+dence sources (6 items). These are ranked
+on a 5-point scale from 1 = complete be-
+ginner to 5 = expert.
+√√ √
+Developing
+Evidence-based
+practice
+questionnaire
+(n = 6 studies)
+[8, 122– 126]
+A self-report measure aimed to identify
+factors that influence the development of
+EBP. Forty-nine items are divided into five
+sections. Most applicable section is: self-
+assessment of skills in finding and review-
+ing evidence (eight items) which are
+scored on a 5-point scale from 1 =
+complete beginner to 5 = expert.
+√√ √ √ √ √ √ √ √
+Information
+literacy tool
+(n = 1 study)
+[59]
+Nine questions to assess information
+searching ability.
+√√ √
+Evidence-based
+Practice Beliefs
+Scale
+(n = 42 studies)
+[50, 59, 63, 83– 119,
+127– 133]
+A 16-item self-report measure that as-
+sesses beliefs about the value of EBP and
+ability in implementing it. Response scale
+is a 5-point Likert scale to rate agreement
+level (1 = strongly disagree to 5 = strongly
+agree). Total scores can range between 16
+and 80.
+√√ √ √ √ √ √ √ √ √ √
+Modified Korean
+Evidence-Based
+Medicine
+questionnaire
+(n = 1 study)
+[134]
+A 23 item self-report measure that assesses
+participants’ perceptions (13 items), atti-
+tudes (9 items) and utilization intention (1
+item) of evidence-based nursing (EBN).
+Participants respond on a 4-point Likert
+scale for perceptions and attitudes and a
+3-point Likert scale for intention to use
+EBN to indicate their agreement with the
+statement ( ‘strongly disagree ’ to ‘strongly
+agree’).
+√√ √
+Evidence-Based
+Practice
+Attitudes Scale
+(EBPAS)
+(n = 1 study)
+[31, 32]
+An 18-item self-report scale to determine
+attitudes toward adopting EBP. Response
+for each item indicate agreement level
+and include: 0 = not at all; 1 = to a slight
+extent; 2 = to a moderate extent; 3 = to a
+great extent; 4 = to a very great extent.
+√√ √
+Attitudes to
+Evidence-Based
+A self-report survey (originally 26-items),
+with 17 items used to assess attitudes/
+√√ √
+Belita et al. BMC Nursing           (2020) 19:44 Page 10 of 28
+<<<PAGE=11>>>
+Table 2 Description of EIDM competence attributes measures across setting, population (35 measures) (Continued)
+Name of measure
+(n = # of studies)
+[related citations]
+Purpose of measure and description Setting Population EIDM Competence Attributes
+Primary
+care
+Acute
+care
+Public
+health
+Home
+health
+Long-
+term
+Other Not
+reported
+RNs APNs RPNs/
+LPNs
+Does
+not
+specify
+Knowledge Skills Attitudes/
+Belief
+Behaviours
+Practice
+Questionnaire
+(n = 1 study) [ 33]
+barriers toward EBP rated on a 5-point
+Likert scale.
+Evidence-Based
+Nursing Attitude
+Questionnaire
+(EBNAQ)
+(n = 2 studies)
+[135, 136]
+A 15-item self-report measure that as-
+sesses attitudes towards evidence-based
+nursing (EBN) as it relates to the benefits
+of EBN, behaviours/intentions in participat-
+ing in EBN, and importance level ascribed
+to EBN. Response scale rates the level of
+agreement with each item on a 5-point
+Likert scale ranging from 1 = strongly dis-
+agree to 5 = strongly agree.
+√√ √ √ √
+Nurses’ Attitudes
+Toward EBP
+Scale (NATES)
+(n = 1 study)
+[137]
+An 11-item self-report measure used to as-
+sess EBP attitudes and beliefs. Response
+scale is a 5-point Likert scale to assess
+agreement (1 = strongly disagree to 5 =
+strongly agree). Score ranges from 5 to 55
+with higher scores indicating more posi-
+tive attitudes related to EBP.
+√√ √
+Single item
+measure for EBP
+knowledge by
+Skela-Savic et al.
+(n = 1 study) [ 109]
+One self-report item in which respondents
+are asked to rate their EBP knowledge on
+a 5-point scale from 1 = insufficient to 5 =
+excellent.
+√√ √
+Perceived EBP
+Knowledge
+Measure
+(1 study)
+[137]
+A 3-item measure that assesses a nurse ’s
+perception of having enough knowledge,
+skills, and access to resources to engage in
+EBP. Each item is scored on an agreement
+scale (strongly disagree = 1 to strongly
+agree = 5). Total scores range from 3 to 15
+with higher scores denoting increased per-
+ception of EBP knowledge.
+√√ √
+Evidence-Based
+Practice
+Knowledge
+Assessment in
+Nursing (EKAN)
+(n = 1 study) [ 45]
+A 20-item multiple choice measure that
+assesses EBP knowledge. Total number
+correct is scored out of 20.
+√√ √
+Knowledge
+Assessment Test
+(KAT)
+(1 study) [ 66]
+Objective measure assessing EBP
+knowledge.
+√√ √
+Core Knowledge A 12-item multiple choice question test to √√ √
+Belita et al. BMC Nursing           (2020) 19:44 Page 11 of 28
+<<<PAGE=12>>>
+Table 2 Description of EIDM competence attributes measures across setting, population (35 measures) (Continued)
+Name of measure
+(n = # of studies)
+[related citations]
+Purpose of measure and description Setting Population EIDM Competence Attributes
+Primary
+care
+Acute
+care
+Public
+health
+Home
+health
+Long-
+term
+Other Not
+reported
+RNs APNs RPNs/
+LPNs
+Does
+not
+specify
+Knowledge Skills Attitudes/
+Belief
+Behaviours
+Questionnaire
+(1 study) [ 62]
+measure EBP knowledge.
+Total # of
+Measures
+9 31 4 4 1 4 5 26 7 4 13 19 15 17 13
+Note: In some cases, measures cross multiple settings, populations, and attributes, therefore, total number of measures will not add to 35
+RN: Registered Nurse
+APN: Advanced Practice Nurse (e.g., Nurse Practitioner)
+RPN: Registered Practice Nurse
+LPN: Licensed Practical Nurse
+Belita et al. BMC Nursing           (2020) 19:44 Page 12 of 28
+<<<PAGE=13>>>
+Associated population groups are presented for each meas-
+ure in Table 2.
+EIDM competence attributes addressed
+Measures addressed a variety of EIDM competence attri-
+butes (see Table 2). Only three measures (8.6%) assessed
+all four EIDM competence attributes of knowledge,
+skills, attitudes/beliefs, and behaviours. These included
+the Evidence-Based Practice Questionnaire (EBPQ) [ 30],
+the School Nursing Evidence-based Practice Question-
+naire [ 67] and a self-developed measure by Chiu et al.
+[68]. Seven measures (20%) assessed three of the four
+EIDM competence attributes, with differing foci [ 69– 75].
+These measures all assessed knowledge, but varied on
+assessment of attitudes/beliefs, skills, and behaviours. Six
+measures (17%) addressed two EIDM competence attri-
+butes [ 77, 78, 80– 83]. Over half of the total measures
+(n = 19; 54.3%) assessed only a single EIDM attribute.
+Among these single attribute measures, attitudes/beliefs
+were assessed the most ( n = 6 measures) [ 31– 33, 84,
+134– 137]. Overall, knowledge was the attribute ad-
+dressed by most measures (n = 19), followed closely by
+attitudes/beliefs ( n = 17 measures), skills ( n = 15 mea-
+sures), and behaviours ( n = 13 measures; see Table 2).
+Psychometric outcomes
+Acceptability
+Missing data Overall, missing data related to percentage
+of incomplete surveys were reported for 10 measures
+(28.6%). The range of missing data was 1.6% (EBP Beliefs
+Scale) - 25.6% (EBPQ) and differed across health care
+settings. Missing data across seven measures yielded per-
+centages below excessive missing data limits of > 10%
+[138]. Reported missing data is summarized in Table 3.
+Completion time Data for completion time were ex-
+tracted where times were explicitly stated or calculated
+Table 3 Acceptability findings: Missing data and completion time [related citations]
+Measure Setting
+Acute care Primary
+care
+Public
+health
+Home
+health
+Long-term
+care
+Not
+specified
+PROPORTION OF MISSING DATA ( n = 10 measures)
+EBP Beliefs Scale 10 – 15.9%
+[85, 98, 103]
+Not
+reported
+1.6%
+[88]
+Not
+reported
+N/A 12.8%
+[131]
+EBP Implementation Scale 10 – 25.6%
+[85, 98, 103]
+Not
+reported
+6.3%
+[88]
+Not
+reported
+N/A Not
+reported
+Evidence-based Practice Questionnaire
+(EBPQ)
+4.9– 25%
+[31, 40, 45,
+47]
+1.8– 23%
+[53, 55]
+N/A N/A 23%
+[53]
+Not
+reported
+Evidence-Based Nursing Attitude Questionnaire 7.8%
+[136]
+Not
+reported
+N/A Not
+reported
+N/A Not
+reported
+Evidence-Based Practice Attitudes Scale (EBPAS) 11.8%
+[31]
+N/A N/A N/A N/A N/A
+Evidence-Based Practice Confidence Scale (EPIC) 11.8%
+[31]
+N/A N/A N/A N/A N/A
+Quick EBP VIK (Values, Implementation, Knowledge) Survey 5.6%
+[76]
+N/A N/A N/A N/A N/A
+Knowledge and Skills in Evidence-Based Nursing (KS-EBN) 17.2%
+[82]
+N/A N/A N/A N/A N/A
+Evidence-Based Practice Knowledge
+Assessment in Nursing (EKAN)
+4.9%
+[45]
+N/A N/A N/A N/A N/A
+School Nursing Evidence-Based Practice Questionnaire (SN-
+EBP)
+N/A N/A 5.2%
+[67]
+N/A N/A N/A
+COMPLETION TIME (n = 4 measures)
+EBP Beliefs Scale ~ 5 min
+[85]
+Not
+reported
+Not
+reported
+Not
+reported
+N/A ~ 7 min
+[84]
+EBP Implementation Scale ~ 6 min
+[85]
+Not
+reported
+Not
+reported
+Not
+reported
+N/A ~ 8 min
+[84]
+Evidence-based Practice Questionnaire
+(EBPQ)
+20– 25 min
+[34]
+Not
+reported
+N/A N/A Not reported N/A
+Knowledge and Skills in Evidence-Based Nursing (KS-EBN) 10 – 15 min
+[82]
+N/A N/A N/A N/A N/A
+Belita et al. BMC Nursing           (2020) 19:44 Page 13 of 28
+<<<PAGE=14>>>
+using time to complete each item if a combined time
+was reported to complete multiple measures in a study.
+Completion time was reported for four measures, ran-
+ging from 5 (EBP Beliefs Scale) - 25 (EBPQ) minutes
+[34, 82, 84, 85]. A summary of reported completion time
+is provided in Table 3.
+Reliability
+Across measures and studies reporting reliability evi-
+dence, internal consistency was the most commonly
+assessed. Inter-rater and test-re-test reliability were also
+reported, although, for only one measure each.
+Internal consistency Reliability of scores, reported as
+Cronbach’s alpha ( α), was reported for 21 measures
+(60%). Cronbach ’s alpha values ranged widely across set-
+tings of: Acute care (0.45 – 0.99); primary care (0.57 –
+0.98); public health (0.79 – 0.91); home health (0.63 –
+0.87); and long-term care (0.79 – 0.96). Cronbach ’s alphas
+are presented for individual measures and settings in
+Table 4.
+Out of the 21 measures for which internal consistency
+was reported, seven measures had multiple study find-
+ings reported across unique practice settings. Reported
+Cronbach’s alphas were varied across and within settings
+for the same measure as evident by wide alpha ranges
+(see Table 4). Among these findings, two measures
+assessing EIDM attitudes with the lowest reported al-
+phas were the Evidence-based Nursing Attitude Ques-
+tionnaire (0.45) and the EBPQ (0.63 for attitude
+subscale) in acute care settings. The Modified Evidence-
+based Nursing Education Questionnaire also had a low
+alpha reported (0.57) in both acute and primary care set-
+tings. Regarding high range values, the EBPQ had the
+highest overall reported alpha (0.99) also in an acute
+care setting.
+All 21 measures met a minimum of Cronbach ’s alpha
+≥0.80 [ 139] in at least one study instance (see Table 4).
+Inter-rater and test-retest reliability Test-retest reli-
+ability was assessed in only one measure, the Quick EBP
+Values, Implementation, Knowledge Survey [ 75]. Aver-
+age item level test-retest coefficients ranged from below
+marginal to acceptable [ 140] at 0.51 – 0.70 [ 75].
+Inter-rater reliability was reported for scores on the
+Knowledge and Skills in Evidence-Based Nursing meas-
+ure [ 82]. Intraclass correlations were reported for three
+sections of this measure and exceeded a guideline of
+≥0.80 [ 140].
+Sources of validity evidence
+Group 1: measures reporting four sources of validity
+evidence Two of the 35 measures (5.7%) used/tested
+across three studies, were assigned to Group 1 [ 67, 135,
+136] (see Table 5). Common across these two measures
+was the use of exploratory factor analysis to assess in-
+ternal structure. Pertaining to validity based on relation-
+ships with other variables, this differed between the two
+measures. For the School Nursing Evidence Based Prac-
+tice Questionnaire, the use of correlation and regression
+analyses supported validity evidence with significant as-
+sociations between use of EBP and demographic vari-
+ables (e.g., education; see Additional file 4). For the
+Evidence-Based Nursing Attitude Questionnaire, correl-
+ation and t-test analyses were used to establish relation-
+ships between EBP attitudes and variables related to EBP
+knowledge, EBP training, and education level (see Add-
+itional file 4). The measures also varied with respect to
+setting with the former being tested in a public health
+setting and the latter in acute care, primary care, and
+home healthcare settings.
+Group 2: measures with three sources of validity
+evidence Five measures (14%) used/tested across seven
+studies, were categorized in group 2 [ 35, 71, 75, 76, 79,
+82, 137] (see Table 6). Common across all these mea-
+sures was the report of validity evidence related to con-
+tent and relationships to other variables. Similar to
+group 1, the strength of variable relationships differed,
+with varied use of correlational, t-test, ANOVA, and re-
+gression analyses to report significant relationships be-
+tween EBP competence attributes (i.e., knowledge,
+implementation, skills, attitudes) and demographic,
+organizational variables or education interventions (see
+Additional file 4). Internal structure validity evidence via
+exploratory factor analysis was reported for three mea-
+sures [ 71, 75, 76, 137], while response process validity
+evidence was reported for two measures [ 35, 82]. All
+measures were tested or used in acute care.
+Group 3: measures with two sources of validity
+evidence Six measures (17%) were categorized in group
+3[ 10, 69, 70, 73, 80, 120] (see Table 7). Content validity
+evidence was commonly reported across all six measures
+using an expert group. Validity evidence based on rela-
+tionships to other variables was reported for five of the
+six measures with correlational and ANOVA analyses
+used most often ( n = 3 measures). Once again, regarding
+this source of validity evidence, significant relationships
+were demonstrated between EBP knowledge, attitudes,
+skills, and individual characteristics or organizational
+factors (see Additional file 4). Acute care was the most
+common healthcare setting ( n = 5 measures).
+Group 4: measures with one source of validity
+evidence Over half of the measures were categorized in
+group 4 ( n = 19; 54%; see Table 8). For all these
+Belita et al. BMC Nursing           (2020) 19:44 Page 14 of 28
+<<<PAGE=15>>>
+Table 4 Reported Cronbach ’s alphas for measures ( n = 21) across settings [related citations]
+Measure Acute care Primary
+care
+Public
+health
+Home
+health
+Long-
+term
+care
+Not
+specified
+Measures assessing four EIDM competence attributes
+School Nursing Evidence-Based
+Practice Questionnaire
+N/A N/A α = 0.85–
+0.88
+1 study
+[67]
+N/A N/A N/A
+EBPQ α = 0.63– 0.99
+28 studies
+[30, 32, 34– 41, 43, 45– 54, 56, 58– 60, 62, 64, 65]
+α = 0.694–
+0.98
+5 studies
+[38, 50,
+53, 55, 57]
+N/A N/A α =
+0.79–
+0.96
+1 study
+[53]
+α =
+0.74–
+0.98
+2
+studies
+[30, 38]
+Measures assessing three EIDM competence attributes
+Quick EBP Values, Implementation,
+Knowledge Survey (VIK)
+α = 0.66– 0.96
+2 studies [ 75, 76]
+N/A N/A N/A N/A N/A
+Persian translated EBP measure α = 0.89– 0.93
+1 study [ 70]
+N/A N/A N/A N/A N/A
+Modified Evidence-Based Nursing
+Education Questionnaire (EBEQ)
+α = 0.57– 0.91
+1 study [ 74]
+α = 0.57–
+0.91
+1 study
+[74]
+N/A N/A N/A N/A
+Self-developed measure by Yip
+et al.
+α = 0.69– 0.90
+1 study [ 71]
+N/A N/A N/A N/A N/A
+Measures assessing two EIDM competence attributes
+EBP measure developed by Majid
+et al. [ 78]
+α = 0.71– 0.94
+2 studies [ 35, 79]
+N/A N/A N/A N/A N/A
+Knowledge and Skills in Evidence-
+Based Nursing
+α = 0.96
+1 study [ 82]
+N/A N/A N/A N/A N/A
+Modified Stevens EBP Readiness
+Inventory (ERI) (Finnish ERI)
+α = 0.98
+1 study [ 80]
+N/A N/A N/A N/A N/A
+Measures assessing one EIDM competence attribute
+EBP Beliefs Scale α = 0.776– 0.95
+27 studies
+[50, 59, 85– 87, 92, 93, 95– 97, 100, 102, 103, 105– 107, 109,
+110, 112, 113, 115– 119, 127, 128, 130– 132]
+α = 0.88–
+0.92
+2 studies
+[50, 106]
+Not
+reported
+Not
+reported
+N/A α = 0.90
+1 study
+[84]
+EBP Implementation Scale α = 0.85– 0.969
+21 studies
+[50, 59, 85, 86, 92, 93, 95– 97, 100, 102, 103, 105– 107, 109,
+110, 112, 113, 116– 119]
+α = 0.88–
+0.96
+2 studies
+[50, 106]
+Not
+reported
+Not
+reported
+N/A α = 0.96
+1 study
+[84]
+DEBPQ α = 0.77– 0.913
+3 studies
+[122, 123, 126]
+α = 0.83–
+0.914
+3 studies
+[122, 124,
+125]
+α =
+0.788–
+0.913
+3 studies
+[8, 122,
+125]
+α =
+0.865
+1 study
+[8]
+N/A N/A
+Evidence-based Nursing Attitude
+Questionnaire
+α = 0.45– 0.82
+1 study [ 136]
+α = 0.63–
+0.86
+1 study
+[135]
+N/A α =
+0.63–
+0.86
+1 study
+[135]
+N/A N/A
+EBP Attitudes Scale α = 0.771– 0.794
+1 study [ 32]
+N/A N/A N/A N/A N/A
+EBP Confidence Scale α = 0.897– 0.912
+1 study [ 32]
+N/A N/A N/A N/A N/A
+EBP Competency Scale α = 0.98
+1 study [ 10]
+N/A N/A N/A N/A N/A
+Belita et al. BMC Nursing           (2020) 19:44 Page 15 of 28
+<<<PAGE=16>>>
+measures, except one [ 122], validity evidence based on
+relationships to other variables was reported. With re-
+spect to strength of these variable relationships, t-test
+(n = 12 measures), correlational ( n = 11 measures), and
+ANOVA ( n = 8 measures) analyses were primarily con-
+ducted. Regression analyses were used less commonly
+(n = 6 measures). Similarly, as in previous groups, signifi-
+cant relationships between EIDM competence attributes
+and demographic, organizational factors, and interven-
+tions were established (see Additional file 4).
+Group 5: measures with no sources of validity
+evidence No sources of validity evidence were found for
+three measures [ 68, 72, 121].
+See Additional file 4 for detailed information on valid-
+ity evidence sources for each measure with supporting
+evidence.
+Validity evidence and settings
+Most of the measures ( n = 29; 83%) reported validity evi-
+dence in the context of acute care settings. For nine
+measures, validity evidence was reported across multiple
+settings. For three of these measures (EBP Implementa-
+tion Scale, EBP-Beliefs Scale, EBPQ), multiple sources of
+validity (> 1) were more often reported in acute care set-
+tings compared to other practice settings where only
+one source of validity evidence was commonly found. In
+contrast, one measure (Evidence-based Nursing Attitude
+Questionnaire) had four sources of validity evidence
+established in primary and home care settings but not in
+acute care. While, the same number of validity sources
+were established for five additional measures (Develop-
+ing Evidence-based Practice Questionnaire, modified
+Evidence-based Nursing Education Questionnaire, two
+unnamed self-developed measures, EBP Competency
+Tool) across varied healthcare settings.
+Discussion
+This review furthers our understanding about measures
+assessing EIDM competence attributes in nursing prac-
+tice. Findings highlight limitations in the existing litera-
+ture with respect to use or testing of measures across
+practice settings, the diversity in EIDM competence at-
+tributes addressed, and variability in the process and
+outcomes of psychometric assessment of existing
+measures.
+Settings
+This review contributes new insight about settings in
+which EIDM measures have been used or tested that
+previous systematic reviews have not addressed. This re-
+view reveals a concentration on use or testing of EIDM
+measures in acute care ( n = 31 measures; 89%) compared
+to other healthcare contexts (primary care, home health,
+public health, long-term care). This imbalance was also
+observed in an integrative review of 37 studies exploring
+Table 4 Reported Cronbach ’s alphas for measures ( n = 21) across settings [related citations] (Continued)
+Measure Acute care Primary
+care
+Public
+health
+Home
+health
+Long-
+term
+care
+Not
+specified
+Attitudes to Evidence-Based Prac-
+tice Questionnaire
+α = 0.973
+1 study [ 33]
+N/A N/A N/A N/A N/A
+Modified Korean Evidence-Based
+Medicine Questionnaire
+α = 0.85
+1 study [ 134]
+N/A N/A N/A N/A N/A
+Information literacy tool α = 0.93
+1 study [ 59]
+N/A N/A N/A N/A N/A
+Perceived EBP Knowledge
+Measure
+α = 0.80
+1 study [ 137]
+N/A N/A N/A N/A N/A
+Self-developed measure by
+Bostrom et al.
+α = 0.90
+1 study [ 120]
+α = 0.90
+1 study
+[120]
+N/A N/A N/A N/A
+Table 5 Group 1: Measures with four sources of validity evidence ( n =2 )
+Measure Study Setting/
+Licensure
+Group
+Source of Validity Evidence
+Content Response
+process
+Internal
+structure
+Relationships to
+variables
+School nursing evidence-based practice
+questionnaire
+[67] Public health/
+RNs
+√√ √ √
+Evidence-Based Nursing Attitude Questionnaire
+(EBNAQ)
+[135] Home health/
+RNs
+√√ √ √
+[136] Acute/RNs √
+Belita et al. BMC Nursing           (2020) 19:44 Page 16 of 28
+<<<PAGE=17>>>
+the knowledge, skills, attitudes and capabilities of nurses
+in EIDM [ 9] where the majority of studies ( n = 27) were
+conducted in hospitals, with fewer conducted in primary,
+community, and home healthcare, and none in long-
+term care. While there is a large body of evidence to
+support understanding of the psychometric rigor of
+EIDM measures in acute care, more attention and in-
+vestment is required for this type of understanding in
+community-based and long-term care contexts. Given
+current trends and priorities in healthcare such as the
+reorientation toward home care [ 141], attention toward
+disease prevention and management, and health promo-
+tion [ 142], and a large aging population with growing
+projections of residence in long-term care facilities
+[143], it is of great importance to assess EIDM compe-
+tence across all nursing practice settings to ensure effi-
+cient, safe, and patient-centred care.
+EIDM competence attributes addressed
+This review also adds to the current literature on nurs-
+ing EIDM competence measures using a broader
+conceptualization of competence. That is, the measures
+reviewed focus on four competence attributes of
+knowledge, skills, attitudes/beliefs, and behaviours. In
+comparison, Leung et al. [ 14] assess measures focused
+on three attributes; knowledge, attitudes and skills. In
+our current review, three measures [ 30, 67, 68] ad-
+dressed all four EIDM attributes (e.g., knowledge, skills,
+attitudes/beliefs, behaviours). Measures that address all
+four attributes are of critical importance given the inex-
+tricable link between knowledge, skills, attitudes and be-
+haviours to comprise professional competence [ 144–
+146]. Professional competence cannot sufficiently de-
+velop if each attribute was to support it independently
+[147]. Knowledge without skill, or the ability to use
+knowledge, renders knowledge useless [ 148]. Similarly,
+performing a skill without understanding the reasoning
+behind it contributes to unsafe and incompetent practice
+[148, 149]. And lastly, possessing knowledge and skill
+without the experience of their application in the real
+world is insufficient to qualify as competent [ 150].
+However, despite these measures addressing all four
+competence attributes, based.
+on their response scales used, they do not conceptually
+reflect an assessment of competence, defined as quality
+of ability or performance to an expected standard [ 150],
+Table 6 Group 2: Measures with three sources of validity evidence (n = 5)
+Measure Study Setting/Licensure Group Source of Validity Evidence
+Content Response
+process
+Internal
+structure
+Relationships to
+variables
+Self-developed measure by Yip et al. [71] Acute/RNs √√ √
+Quick Values, Implementation, Knowledge
+Survey
+[75] Acute/APNs, “nurses in any
+role”
+√√ √
+[76] Acute/RNs √√
+EBP measure developed by Majid et al. [79] Acute/not specified √√
+[35] Acute/RNs √√ √
+Knowledge and Skills in Evidence-Based
+Nursing
+[82] Acute/not specified √√ √
+Perceived EBP Knowledge Measure [137] Acute/RNs √√ √
+Table 7 Group 3: Measure with two sources of validity evidence ( n =6 )
+Measure Study Setting/Licensure Group Source of Validity Evidence
+Content Response
+process
+Internal
+structure
+Relationships to
+variables
+Modified Stevens EBP Readiness
+Inventory
+[80] Acute/RNs √√
+Johns Hopkins Nursing EBP Assessment
+Survey
+[69] Acute /RNs √√
+Persian translated EBP measure [70] Acute/RNs √√
+Self-developed EBP measure by Melnyk
+et al.
+[73] Not specified √√
+Self-developed measure by Bostrom
+et al.
+[120] Acute/RNs √√
+EBP Competency Tool [10] Acute, not specified/RNs,
+APNs
+√√
+Belita et al. BMC Nursing           (2020) 19:44 Page 17 of 28
+<<<PAGE=18>>>
+Table 8 Group 4: Measures with one source of validity evidence ( n = 19)
+Measure Study Setting/Licensure Group Source of Validity Evidence
+Content Response
+process
+Internal
+structure
+Relationships to
+variables
+EBP Implementation Scale
+(35 studies)
+[92,
+93]
+Acute/RNs √√
+[84] Not specified/Not specified √√ √
+[115] Acute/Not specified √
+[104] Acute/RNs √
+[105] Acute/RNs No supporting validity evidence
+[101] Home health/RNs √
+[86] Acute /RNs No supporting validity evidence
+[85] Acute/RNs √
+[102] Acute/RNs √
+[107] Acute/RNs √
+[106] Acute, primary, not specified/
+Not specified
+√
+[117] Acute/RNs √√ √ √
+[90] Acute, primary, not specified/
+Not specified
+√
+[96] Acute/RNs √
+[98] Acute/RNs, LPNs, APNs √
+[112] Acute/RNs √
+[91] Acute/RNs √
+[87] Acute/RNs, APNs √
+[113] Acute/RNs √
+[59] Acute/RNs √
+[99,
+100]
+Acute/RNs, APNs √
+[109,
+110]
+Acute/RNs, not specified √√
+[118] Acute/RNs √
+[119] Acute/RNs √
+[97] Acute/Not specified √
+[89,
+108]
+Acute/RNs √
+[88] Public health/RNs, LPNs √
+[116] Acute/RNs √
+[95] Acute/RNs √
+[94] Acute/RNs √
+[111] Acute/RNs √
+[50] Acute/RNs, LPNs √
+[63] Acute/RNs √
+[103] Acute/RNs √
+[114] Not specified/Not specified √
+EBP Beliefs Scale
+(42 studies)
+[92,
+93]
+Acute/RNs √√
+[84] Not specified/Not specified √√ √
+[115] Acute/Not specified √
+Belita et al. BMC Nursing           (2020) 19:44 Page 18 of 28
+<<<PAGE=19>>>
+Table 8 Group 4: Measures with one source of validity evidence ( n = 19) (Continued)
+Measure Study Setting/Licensure Group Source of Validity Evidence
+Content Response
+process
+Internal
+structure
+Relationships to
+variables
+[104] Acute/RNs √
+[105] Acute/RNs No supporting validity evidence
+[101] Home health/RNs √
+[128] Acute/Not specified √
+[106] Acute, primary, not specified/
+Not specified
+√√
+[130,
+131]
+Acute/RNs √√ √ √
+[117] Acute/RNs √√ √ √
+[86] Acute/RNs √
+[85] Acute/RNs √
+[102] Acute/RNs √
+[107] Acute/RNs √
+[90] Acute, not specified/Not
+specified
+No supporting validity evidence
+[96] Acute/RNs √
+[127] Acute/RNs No supporting validity evidence
+[112] Acute/RNs √
+[98] Not specified/RNs, APNs, LPNs √
+[132] Acute/RNs √
+[83] Acute/RNs √
+[91] Acute/RNs √
+[87] Acute/RNs, APNs √
+[133] Not specified/RNs, APNs √
+[113] Acute/RNs √
+[59] Acute/RNs √
+[99,
+100]
+Acute/RNs, APNs √
+[109,
+110]
+Acute/RNs, not specified √√
+[118] Acute/RNs √
+[119] Acute/RNs √
+[97] Acute/Not specified √
+[89,
+108]
+Acute/RNs √
+[88] Public health/RNs, LPNs √
+[129] Acute/RNs No supporting validity evidence
+[50] Acute/RNs, LPNs √
+[116] Acute/RNs √
+[95] Acute/RNs √
+[94] Acute/RNs No supporting validity evidence
+[111] Acute/RNs √
+[63] Acute/RNs √
+[103] Acute/RNs √
+[114] Not specified/not specified √
+Belita et al. BMC Nursing           (2020) 19:44 Page 19 of 28
+<<<PAGE=20>>>
+Table 8 Group 4: Measures with one source of validity evidence ( n = 19) (Continued)
+Measure Study Setting/Licensure Group Source of Validity Evidence
+Content Response
+process
+Internal
+structure
+Relationships to
+variables
+Evidence-Based Practice Questionnaire
+(36 studies)
+[30] Acute, not specified/ not
+specified
+√√ √ √
+[49] Acute/RNs √
+[41] Acute/Not specified √
+[40] Acute/RNs √
+[55] Primary/RNs √
+[44] Primary/Not specified √
+[33] Acute/Not specified √
+[64] Acute/RNs √
+[62] Acute/RNs √
+[48] Acute/RNs √
+[57] Primary/RNs √√
+[53] Acute, primary, long-term care/
+RNs
+√
+[58] Acute/Not specified √√
+[39] Acute/RNs √
+[60] Acute/RNs √√ √
+[42] Acute/RNs √
+[43] Acute/RNs No supporting validity evidence
+[34] Acute/RNs √√
+[66] Not specified/Not specified No supporting validity evidence
+[38] Acute, primary, not specified/
+Not specified
+No supporting validity evidence
+[35] Acute/RNs √√
+[52] Acute/Not specified √
+[47] Acute/Not specified √√
+[54] Acute/Not specified √
+[56] Acute/RNs √√
+[65] Acute/RNs √
+[31,
+32]
+Acute/RNs √
+[37] Acute/Not specified √
+[59] Acute/RNs √
+[50] Acute, primary/RNs, LPNs √
+[45] Acute/RNs √
+[61] Acute/RNs No supporting validity evidence
+[46] Acute/RNs √
+[51] Acute/RNs No supporting validity evidence
+[36] Acute/RNs √
+[63] Acute/RNs √
+DEBPQ
+(6 studies)
+[122] Acute, primary, public health/
+Not specified
+√√ √
+[123] Acute/RNs No supporting validity evidence
+[124] Primary/RNs, LPNs/RPNs √
+Belita et al. BMC Nursing           (2020) 19:44 Page 20 of 28
+<<<PAGE=21>>>
+but rather, focus on mere completion or frequency
+of completing tasks. Quality versus frequency of be-
+haviours are distinct concepts and have been mea-
+sured separately in nursi ng performance studies [ 19,
+151]. The provision of a high standard of patient
+care includes nursing competence assessment, which
+is a critical component of quality improvement pro-
+cesses, workforce development and management [ 19,
+152]. This conceptual limitation of existing EIDM
+measures highlights a need for a measure that aligns
+with the conceptual understanding of competence as
+an interrelation between knowledge, skills, attitudes/
+beliefs, behaviours [ 144] and quality of ability [ 150].
+Psychometric outcomes
+Acceptability
+Despite acceptability, measured as amount of missing
+data and completion times, being identified as a critical
+aspect of psychometric assessment [ 153], discussion of
+acceptability among included primary studies was lack-
+ing compared to an emphasis on reliability or validity. In
+this review, only 10 measures (28.6%) reported missing
+data. In addition, only four measures (11%) reported
+completion times. This limited discussion of acceptabil-
+ity is reinforced by findings from a systematic review of
+research utilization measures by Squires et al. [ 29]i n
+which no studies reported acceptability data. As well, ac-
+ceptability was not mentioned or discussed in systematic
+Table 8 Group 4: Measures with one source of validity evidence ( n = 19) (Continued)
+Measure Study Setting/Licensure Group Source of Validity Evidence
+Content Response
+process
+Internal
+structure
+Relationships to
+variables
+[8] Public health, home health/Not
+specified
+No supporting validity evidence
+[125] Primary, public health, home
+health/RNs, APNs
+√
+[126] Acute/RNs √
+Modified Evidence-Based Nursing Education
+Questionnaire (1 study)
+[74] Acute, primary/APNs √
+Self-developed measure by Barako et al. (1
+study)
+[77] Acute/Not specified √
+Self-developed measure by Gerrish et al. (1
+study)
+[81] Acute, primary/APNs √
+Adapted Fresno Test
+(1 study)
+[83] Acute/RNs √
+Self-developed measure by Kim et al.
+(1 study)
+[48] Acute/RNs √
+EBP confidence scale
+(1 study)
+[31,
+32]
+Acute/RNs √
+Information literacy tool
+(1 study)
+[59] Acute/RNs √
+Modified Korean EBM questionnaire
+(1 study)
+[134] Acute/RNs √
+EBP Attitudes Scale
+(1 study)
+[31,
+32]
+Acute/RNs √
+Attitudes to Evidence-Based Practice
+Questionnaire
+(1 study)
+[33] Acute/Not specified √
+Nurses’ Attitudes Toward EBP Scale
+(1 study)
+[137] Acute/RNs √
+Single item measure for EBP knowledge
+(1 study)
+[109] Acute/RNs √
+EBP Knowledge Assessment in Nursing
+(1 study)
+[45] Acute/RNs √
+Knowledge Assessment Test
+(1 study)
+[66] Not specified/Not specified √
+Core Knowledge Questionnaire
+(1 study)
+[62] Acute/RNs √
+Belita et al. BMC Nursing           (2020) 19:44 Page 21 of 28
+<<<PAGE=22>>>
+reviews of EIDM measures for nurses, midwives [ 14],
+medical practitioners [ 17] and allied health professionals
+[23]. Discussions about acceptability have typically been
+explored in the context of patient-reported outcome
+measures [ 153]. These discussions also hold relevance
+for measures with healthcare professionals as end users
+[154, 155]. Time and ease of completing a measure are
+important considerations for nurses or managers who
+work in fast-paced clinical settings, which can influence
+their decision to integrate these measures into their
+practice.
+Reliability
+Findings from the current review determine gaps in reli-
+ability testing of measures in addition to variable find-
+ings across EIDM measures and healthcare contexts.
+Internal consistency reported as Cronbach ’s alpha was
+the most commonly assessed type of reliability in this re-
+view. This appears to be a trend similarly found among
+EIDM related psychometric reviews [ 14, 23]. Cronbach ’s
+alpha is a commonly used statistic in psychometric re-
+search perhaps due to its ease of calculation as it can be
+computed with a one-time administration [ 156]. While
+Nunnally [ 157] identifies that the “coefficient alpha pro-
+vides a good estimate of reliability in most cases ” (p.
+211), there are important considerations with its use.
+One consideration is that interpretation of Cronbach ’s
+alpha requires an understanding that it must be re-
+evaluated in each new setting or population a measure is
+used in [ 158]. In the current review, many of the studies
+associated with frequently used measures (EBP-Imple-
+mentation Scale, EBP Beliefs Scale) did not re-evaluate
+internal consistency when using the measure in a new or
+different setting from where it was originally tested. This
+was evident from unreported data in multiple studies as-
+sociated with the same measure but taking place across
+various healthcare settings. Other reviews have reported
+similar findings, whereby measures have not been re-
+assessed in new contexts, and have reported either no
+data or only original internal consistency findings [ 13,
+16]. The importance of re-assessing and interpreting this
+reliability statistic in new contexts is further underscored
+by current review findings in which Cronbach ’s alphas
+varied widely across unique practice settings for the
+same measure.
+Moreover, there were heterogenous findings among
+studies taking place in the same type of setting for the
+same measure. Within each setting, there were instances
+in which the same measure would result in varying
+Cronbach’s alphas with range values falling both below
+and above minimum guidelines of ≥0.80 [ 139]. For ex-
+ample, Mooney [ 86] reported a Cronbach ’s alpha of
+0.776 for the EBP Beliefs Scale when used in an acute
+care setting, while Underhill et al. [ 87] reported α = 0.95
+with the same measure also used in acute care practice.
+Variability in internal consistency findings has been re-
+ported in other systematic reviews as well [ 16, 23], per-
+haps due to the use of measures in diverse populations,
+settings, and countries. This further indicates the effect
+of nuanced populations within similar practice settings
+on internal consistency findings.
+In addition, lower alphas were typically reported for
+EIDM attitude scales, such as for the self-developed
+measure by Yip et al. [ 71]( α = 0.69), the EBNAQ [ 135,
+136]( α = 0.45) and the EBPQ ( α = 0.63) [ 30]. A possible
+explanation of these low alphas may be related to the
+low number of items on an EIDM attitude subscale
+compared to other EIDM competence attributes. As
+Streiner [ 25] indicates, the length of a scale highly im-
+pacts internal consistency, and as such, reliability could
+plausibly be improved through the addition of conceptu-
+ally robust items. Further to this, in a literature review of
+the uses of the EBPQ [ 159], authors note that low alpha
+scores for the attitude subscale were consistently re-
+ported, due to repeated item deletions or modifications,
+calling for further refinement of EIDM attitudes items.
+Overall, there was a lack of reliability assessment as
+40% of measures did not report reliability. This occurred
+for both newly developed and established measures. The
+lack of reliability testing has also been identified in exist-
+ing reviews assessing EIDM measures among allied
+healthcare professionals [ 13, 16, 23] as early as 2010.
+The ongoing lack of attention to reliability assessment
+highlights a need for more rigorous and standardized re-
+liability testing not only in the original development of
+measures but also in its subsequent use in different
+healthcare environments.
+Validity
+Findings pertaining to validity evidence when compared
+to existing literature show both alignment and contrast
+with respect to how validity evidence was assessed, and
+the number and type of validity sources established
+across measures.
+As noted, psychometric assessment of the current re-
+view was based on the contemporary understanding that
+the strength of a validity argument is dependent on the
+accumulation of different validity evidence sources [ 26].
+In this review, only one source of validity evidence was
+reported for over half of the measures ( n = 19; 54%).
+Very few measures were reported with four ( n = 2 mea-
+sures) or three ( n = 5 measures) validity evidence sources
+established. Employing a similar approach to validity evi-
+dence assessment, Squires et al. [ 29] reported similar
+findings in their review of research utilization measures:
+the majority of measures were categorized under level
+three of their hierarchy (i.e., one source of validity evi-
+dence); no measures were reported as having all four
+Belita et al. BMC Nursing           (2020) 19:44 Page 22 of 28
+<<<PAGE=23>>>
+sources of validity evidence; and six measures were asso-
+ciated with three sources of validity evidence.
+Since existing reviews did not present validity evidence
+in the context of practice settings, this presents chal-
+lenges with comparison of results. However, this review
+presents some insight on contextualizing validity evi-
+dence. In the current review, much of the validity evi-
+dence was presented in the context of an acute care
+setting, and in particular, for three measures most widely
+used (EBP Implementation Scale, EBP Beliefs Scale,
+EBPQ), more sources of validity evidence were estab-
+lished by the original developers in acute care practice.
+Similar to reliability findings, this brings to light a crit-
+ical gap in nursing research with respect to the use of
+measures after their original development, and lack of
+validity evidence assessment in different settings and
+populations. This demonstrates a call to action for nurs-
+ing researchers that a consistent level of rigor must be
+applied to comprehensively re-assess sources of validity
+evidence for a measure when using it in a new practice
+setting. This strengthens a cumulative body of validity
+evidence to support continued use of a measure in var-
+ied nursing contexts.
+Compared to the current review, previous EIDM psy-
+chometric systematic reviews [ 13, 14, 16] included trad-
+itional assessments of content, criterion, and construct
+validity and demonstrated variable findings. Buchanan
+et al. [ 13] reported no findings related to validity for 18
+measures and failure to re-test validity by authors when
+original measures were used in a new study setting.
+Glegg and Holsti [ 16] only provided a description of val-
+idity data and did not perform an assessment through
+scoring or ranking of this evidence. While, Leung et al.
+[14] used their self-developed Psychometric Grading
+Framework [ 160] to assess validity of instruments in
+their review. These authors determined that most of the
+studies reported measures as having ‘weak’ or ‘very weak ’
+validity according to their matrix scoring, with only
+three studies reporting the tested measures as having ad-
+equate validity [ 14].
+Included studies in this review also limited validity as-
+sessment to sources based on test content and relation-
+ships to other variables, focusing on construct validity.
+This appears to be a consistent theme reported across
+existing reviews as well [ 14, 23]. A new contribution
+from this review is an in-depth understanding about the
+strength of validity evidence based on relationships to
+other variables. Data extracted on the statistical analyses
+associated with this source of validity evidence showed
+relationships established primarily through correlational,
+t-test or ANOVA analyses. In less instances, regression
+analyses were used to demonstrate strong relationships,
+highlighting a need in psychometric evaluation of tools
+to validate more robust relationships between variables.
+Findings from the current review and existing litera-
+ture highlight limitations in assessing validity evidence
+and the psychometric rigor of existing EIDM measures.
+Variability in testing and results of validity evidence cre-
+ates challenges and confusion for end users in research
+or nursing practice who look to this body of literature to
+determine appropriate and robust EIDM measures.
+Scholarly support for the use of a comprehensive and
+contemporary approach in psychometric development of
+tools can help to standardize assessments and produce
+findings representative of a unified understanding of val-
+idity evidence.
+Considerations for tool selection in nursing practice or
+research
+This systematic review can serve as a helpful resource
+for nursing administrators, frontline staff, or researchers
+who are interested in using a measure to assess a specific
+EIDM competence attribute. In selecting measures for
+nursing practice or research, the specific population and
+setting in which measures have been previously used or
+tested, in addition to specific EIDM competence attri-
+butes they address, all serve as important considerations.
+As well, looking to the acceptability of measures, taking
+into account tool completion time given demands of
+busy clinical environments and if high rates of missing
+data > 10% are present [ 138], are also critical factors to
+consider for decision-making. Acceptable reliability of a
+measure should also be given weight in tool selection
+(α ≥ 0.80) [ 139], in addition to determining how compre-
+hensively all four sources of validity evidence (content,
+internal structure, response process, relationships to
+other variables) have been established for a given meas-
+ure [ 26].
+Limitations
+A limitation of this review relates to the absence of qual-
+ity assessments of included primary studies. Given that
+traditional quality assessment was not conducted, this
+may influence the confidence in study findings and thus
+results are to be interpreted with caution. However,
+among tools previously used to assess quality of psycho-
+metric studies, several limitations exist [ 27]. These in-
+clude the development of quality assessment tools for
+use only with patient reported outcome measures [ 14],
+using a lowest score ranking method providing an imbal-
+ance in the overall quality score [ 161], and a lack of val-
+idity and reliability testing [ 27]. Most importantly,
+existing quality assessment tools employ a traditional ap-
+proach of assessing construct, content, and criterion val-
+idity, rather than a contemporary perspective of viewing
+validity evidence as a unified concept [ 26], as used to
+guide the current review. Given this, to align with other
+reviews using a similar contemporary approach [ 17, 29]
+Belita et al. BMC Nursing           (2020) 19:44 Page 23 of 28
+<<<PAGE=24>>>
+assessment was focused on the categorization of mea-
+sures according to the number of sources of validity evi-
+dence established for scores in related studies. A second
+limitation pertains to the exclusion of non-English litera-
+ture as there were 14 articles identified from full-text
+screening requiring translation for seven languages,
+which were excluded from the review. Given the large
+number of studies included in the final review, it is un-
+likely that the small number of non-English studies
+would have a critical impact on results. A third limita-
+tion is that with the use of a classification system for
+assessing validity evidence, the number of studies for a
+particular measure could influence the strength of the
+validity argument [ 29]. A measure which has one or a
+small number of studies may appear to have strong val-
+idity evidence [ 29] as compared to those measures with
+more cited studies. Implications of this are most relevant
+for more established measures, in that more sources of
+validity evidence may have in fact been established, but
+only in a small amount of studies, which may not be
+reflected in its final categorization. However, the advan-
+tage of using this synthesis process is that it highlights
+the types of validity evidence that require further testing
+for a particular measure [ 29].
+Conclusions
+There is a diverse collection of measures that assess
+EIDM competence attributes of knowledge, skills, atti-
+tudes/beliefs, and/or behaviours in nurses. Among these
+measures is a concentration on the assessment of single
+EIDM competence attributes. Review findings deter-
+mined that three measures addressed all four EIDM at-
+tributes, although with some conceptual limitations,
+highlighting a need for a tool that comprehensively as-
+sesses EIDM competence. More rigorous and consistent
+psychometric testing is also needed for EIDM measures
+overall, but particularly in community-based and long-
+term care settings in which the data is limited. A con-
+temporary approach to psychometric assessment of
+EIDM measures in the future may also provide more ro-
+bust and comprehensive evidence of their psychometric
+rigor.
+Supplementary information
+Supplementary information accompanies this paper at https://doi.org/10.
+1186/s12912-020-00436-8.
+Additional file 1. Electronic database search strategy Identifies key
+words used for each primary database searched.
+Additional file 2. Theoretical and empirical literature to guide data
+analysis of sources of validity evidence Tables used to determine
+supporting validity evidence for data extracted.
+Additional file 3. Included studies Description of included studies.
+Additional file 4. Sources of validity evidence for each measure
+Identifies supporting data for each source of validity evidence
+established.
+Abbreviations
+EIDM: Evidence-informed decision-making; EBP: Evidence-based practice;
+EBPQ: Evidence-based practice questionnaire
+Acknowledgements
+The authors gratefully acknowledge the support of: Ms. Laura Banfield
+(Health Sciences Librarian) with the development of the search strategy; Ms.
+Donna Fitzpatrick-Lewis (Research Co-ordinator) and Ms. Sharon Peck-Reid
+(Research Assistant) from McMaster Evidence Review and Synthesis Team for
+their support with reference management and preparing for data synthesis;
+and Ms. Tiffany Dang (TD) for support with data extraction. The abstract for
+this manuscript was presented at the 10th Knowledge Translation Canada
+Annual Scientific Meeting [ 162].
+Authors’ contributions
+EB, JY, JES, RG, MD contributed to the design of the systematic review. EB
+and TB conducted reference screening. EB and TB conducted data
+extraction. EB drafted initial manuscript. All authors reviewed and provided
+feedback on manuscript drafts. All authors have read and approved the
+manuscript.
+Funding
+The study itself did not receive any specific formal funding.
+Availability of data and materials
+The data included in this review was retrieved from published studies and
+also through supplementary documents provided by study authors upon
+request as necessary.
+Ethics approval and consent to participate
+Not applicable.
+Consent for publication
+Not applicable.
+Competing interests
+JY is an independent contractor with the American College of Physicians.
+The other authors declare that they have no competing interests.
+Author details
+1McMaster University, School of Nursing, McMaster Innovation Park (MIP), 175
+Longwood Road South, Suite 210a, Hamilton, ON L8P 0A1, Canada.
+2University of Ottawa/Université d ’Ottawa, School of Nursing/École des
+sciences infirmières, Room RGN 3038, Guindon Hall, 451 Smyth Road,
+Ottawa, ON, Canada. 3Villanova University, M. Louise Fitzpatrick College of
+Nursing, Driscoll Hall, Room 330, 800 Lancaster Avenue, Villanova, PA 19085,
+USA. 4McMaster University, School of Nursing, 1280 Main St. W., HSC 3N25F,
+Hamilton, ON, Canada.
+Received: 30 October 2019 Accepted: 19 May 2020
+References
+1. Canadian Foundation for Healthcare Improvement. 2017 [Available from:
+http://www.cfhi-fcass.ca/WhatWeDo/a-z-topics/evidence-informed-decision-
+making.
+2. Sackett DL, Rosenberg WM, Gray JA, Haynes RB, Richardson WS. Evidence
+based medicine: what it is and what it isn't. BMJ. 1996;312(7023):71 – 2.
+3. Culyer AJ, Lomas J. Deliberative processes and evidence-informed decision-
+making in health care: do they work and how might we know? Evidence
+Policy. 2006;2(3):357 – 71.
+4. Rycroft-Malone J. The PARIHS framework--a framework for guiding the
+implementation of evidence-based practice. J Nurs Care Qual. 2004;19(4):
+297– 304.
+5. Rycroft-Malone J, Seers K, Titchen A, Harvey G, Kitson A, McCormack B. What
+counts as evidence in evidence-based practice? J Adv Nurs. 2004;47(1):81 – 90.
+Belita et al. BMC Nursing           (2020) 19:44 Page 24 of 28
+<<<PAGE=25>>>
+6. Diehl H, Graverholt B, Espehaug B, Lund H. Implementing guidelines in
+nursing homes: a systematic review. BMC Health Serv Res. 2016;16(298):12.
+7. Wu Y, Brettle A, Zhou C, Ou J, Wang Y, Wang S. Do educational
+interventions aimed at nurses to support the implementation of evidence-
+based practice improve patient outcomes? A systematic review. Nurse Educ
+Today. 2018;70:109 – 14.
+8. Gerrish K, Cooke J. Factors influencing evidence-based practice among
+community nurses. J Community Nurs. 2013;27(4):98 – 101.
+9. Saunders H, Vehviläinen-Julkunen K. The state of readiness for evidence-
+based practice among nurses: an integrative review. Int J Nurs Stud. 2016;
+56:128– 40.
+10. Melnyk BM, Gallagher-Ford L, Zellefrow C, Tucker S, Thomas B, Sinnott LT,
+et al. The first U.S. study on nurses ’ evidence-based practice competencies
+indicates major deficits that threaten healthcare quality, safety, and patient
+outcomes. Worldviews Evid Based Nurs. 2018;15(1):16 – 25.
+11. Melnyk BM, Gallagher-Ford L, Long LE, Fineout-Overholt E. The
+establishment of evidence-based practice competencies for practicing
+registered nurses and advanced practice nurses in real-world clinical
+settings: proficiencies to improve healthcare quality, reliability, patient
+outcomes, and costs. Worldviews Evid Based Nurs. 2014;11(1):5 – 15.
+12. Saunders H, Vehviläinen-Julkunen K. Key considerations for selecting
+instruments when evaluating healthcare professionals ’ evidence-based
+practice competencies: a discussion paper 在评估医疗保健专业人员的循
+证实践能力时选择工具的关键考虑因素:讨论文件. J Adv Nurs. 2018;
+74(10):2301– 11.
+13. Buchanan H, Siegfried N, Jelsma J. Survey instruments for knowledge, skills,
+attitudes and behaviour related to evidence-based practice in occupational
+therapy: a systematic review. Occup Ther Int. 2016;23(2):59 – 90.
+14. Leung K, Trevena L, Waters D. Systematic review of instruments for
+measuring nurses' knowledge, skills and attitudes for evidence-based
+practice. J Adv Nurs. 2014;70(10):2181 – 95.
+15. Tilson JK, Kaplan SL, Harris JL, Hutchinson A, Ilic D, Niederman R, et al. Sicily
+statement on classification and development of evidence-based practice
+learning assessment tools. BMC Med Educ. 2011;11:78.
+16. Glegg SMN, Holsti L. Measures of knowledge and skills for evidence-based
+practice: a systematic review. Can J Occup Ther. 2010;77(4):219 – 32.
+17. Shaneyfelt T, Baum KD, Bell D, Feldstein D, Houston TK, Kaatz S, et al.
+Instruments for evaluating education in evidence-based practice: a
+systematic review. JAMA. 2006;296(9):1116 – 27.
+18. Melnyk BM. Breaking down silos and making use of the evidence-based
+practice competencies in healthcare and academic programs: an urgent call
+to action. Worldviews Evid Based Nurs. 2018;15(1):3 – 4.
+19. Meretoja R, Isoaho H, Leino-Kilpi H. Nurse competence scale: development
+and psychometric testing. J Adv Nurs. 2004;47(2):124 – 33.
+20. Haggman-Laitila A, Mattila L-R, Melender H-L. Educational interventions on
+evidence-based nursing in clinical practice: a systematic review with
+qualitative analysis. Nurse Educ Today. 2016;43:50 – 9.
+21. Hines S, Ramsbotham J, Coyer F. The effectiveness of interventions for
+improving the research literacy of nurses: a systematic review. Worldviews
+Evid Based Nurs. 2015;12(5):265 – 72.
+22. Middlebrooks R Jr, Carter-Templeton H, Mund AR. Effect of evidence-based
+practice programs on individual barriers of workforce nurses: an integrative
+review. J Contin Educ Nurs. 2016;47(9):398 – 406.
+23. Fernandez-Dominguez JC, Sese-Abad A, Morales-Asencio JM, Oliva-Pascual-
+Vaca A, Salinas-Bueno I, de Pedro-Gomez JE. Validity and reliability of
+instruments aimed at measuring evidence-based practice in physical
+therapy: a systematic review of the literature. J Eval Clin Pract. 2014;20(6):
+767– 78.
+24. Estabrooks CA. Will evidence-based nursing practice make practice perfect?
+Can J Nurs Res. 1998;30(4):273 – 94.
+25. Streiner D, Norman G, Cairney J. Health measurement scales: a practical
+guide to their development and use. 5th ed. Oxford: Oxford University
+Press; 2015.
+26. American Educational Research Association. American Psychological
+Association, National Council on measurement in education. The standards
+for educational and psychological testing. Washington, D.C: American
+Educational Research Association; 2014.
+27. Belita E, Yost J, Squires JE, Ganann R, Burnett T, Dobbins M. Measures
+assessing attributes of evidence-informed decision-making (EIDM)
+competence among nurses: a systematic review protocol. Syst Rev. 2018;
+7(181):8.
+28. Guyatt GH. Evidence-based medicine. Ann Intern Med. 1991;114(SUPPL. 2):
+A-16.
+29. Squires JE, Estabrooks CA, O'Rourke HM, Gustavsson P, Newburn-Cook CV,
+Wallin L. A systematic review of the psychometric properties of self-report
+research utilization measures used in healthcare. Implement Sci. 2011;6:83.
+30. Upton D, Upton P. Development of an evidence-based practice
+questionnaire for nurses. J Adv Nurs. 2006;53(4):454 – 8.
+31. Duffy JR, Culp S, Yarberry C, Stroupe L, Sand-Jecklin K, Sparks CA. Nurses'
+research capacity and use of evidence in acute care: baseline findings from
+a partnership study. J Nurs Adm. 2015;45(3):158 – 64.
+32. Duffy JR, Culp S, Sand-Jecklin K, Stroupe L, Lucke-Wold N. Nurses' research
+capacity, use of evidence, and research productivity in acute care: year 1
+findings from a partnership study. J Nurs Adm. 2016;46(1):12 – 7.
+33. Linton MJ, Prasun MA. Evidence-based practice: collaboration between
+education and nursing management. J Nurs Manag. 2013;21(1):5 – 16.
+34. Fehr ST. Examining the relationship between nursing informatics
+competency and evidence-based practice competency among acute care
+nurses: George Mason University; 2014.
+35. Adamu A, Naidoo JR. Exploring the perceptions of registered nurses
+towards evidence-based practice in a selected general hospital in Nigeria.
+Afr J Nurs Midwifery. 2015;17(1):33 – 46.
+36. AbuRuz ME, Hayeah HA, Al-Dweik G, Al-Akash H. Knowledge, attitudes, and
+practice about evidence-based practice: a Jordanian study. Health Sci J.
+2017;11(2):1– 8.
+37. Agnew D. A survey of nurses' knowledge, attitude and skills with evidence-
+based practice in the practice setting. Nurs Res. 2016;65(2):E100-E.
+38. Allen N, Lubejko BG, Thompson J, Turner BS. Evaluation of a web course to
+increase evidence-based practice knowledge among nurses. Clin J Oncol
+Nurs. 2015;19(5):623 – 7.
+39. Ammouri AA, Raddaha AA, Dsouza P, Geethakrishnan R, Noronha JA,
+Obeidat AA, et al. Evidence-based practice: knowledge, attitudes, practice
+and perceived barriers among nurses in Oman. Sultan Qaboos Univ Med J.
+2014;14(4):e537– 45.
+40. Brown CE, Ecoff L, Kim SC, Wickline MA, Rose B, Klimpel K, et al. Multi-
+institutional study of barriers to research utilisation and evidence-based
+practice among hospital nurses. J Clin Nurs. 2010;19(13 – 14):1944– 51.
+41. Brown CE, Wickline MA, Ecoff L, Glaser D. Nursing practice, knowledge,
+attitudes and perceived barriers to evidence-based practice at an academic
+medical center. J Adv Nurs. 2009;65(2):371 – 81.
+42. Carlone JB, Igbirieh O. Measuring attitudes and knowledge of evidence-
+based practice in the qatar nursing workforce: a quantitative cross-sectional
+analysis of barriers to empowerment. Avicenna. 2014;2014 (1) (no
+pagination)(5).
+43. Duff J, Butler M, Davies M, Williams R, Carlile J. Perioperative nurses'
+knowledge, practice, attitude, and perceived barriers to evidence use: a
+multisite, cross-sectional survey. ACORN J Perioperative Nurs Australia. 2014;
+27(4):28– 35.
+44. Gonzalez-Torrente S, Pericas-Beltran J, Bennasar-Veny M, Adrover-Barcelo R,
+Morales-Asencio J, De Pedro-Gomez J. Perception of evidence-based
+practice and the professional environment of primary health care nurses in
+the Spanish context: a cross-sectional study. BMC Health Serv Res. 2012;12:
+227.
+45. Hagedorn Wonder A, McNelis AM, Spurlock DJ, Ironside PM, Lancaster S,
+Davis CR, et al. Comparison of Nurses' self-reported and objectively
+measured evidence-based practice knowledge. J Contin Educ Nurs. 2017;
+48(2):65– 70.
+46. Hasheesh MOA, AbuRuz ME. Knowledge, attitude and practice of nurses
+towards evidence-based practice at Al-Medina. KSA Jordan Med J. 2017;
+51(2):47– 56.
+47. Hwang JI, Park HA. Relationships between evidence-based practice, quality
+improvement and clinical error experience of nurses in Korean hospitals. J
+Nurs Manag. 2015;23(5):651 – 60.
+48. Kim SC, Brown CE, Ecoff L, Davidson JE, Gallo A-M, Klimpel K, et al. Regional
+evidence-based practice fellowship program: impact on evidence-based
+practice implementation and barriers. Clin Nurs Res. 2013;22(1):51 – 69.
+49. Koehn ML, Lehman K. Nurses' perceptions of evidence-based nursing
+practice. J Adv Nurs. 2008;62(2):209 – 15.
+50. Lovelace R, Noonen M, Bena JF, Tang AS, Angie M, Cwynar R, et al. Value of,
+attitudes toward, and implementation of evidence-based practices based
+on use of self-study learning modules. J Contin Educ Nurs. 2017;48(5):209 –
+16.
+Belita et al. BMC Nursing           (2020) 19:44 Page 25 of 28
+<<<PAGE=26>>>
+51. Moore L. Effectiveness of an online educational module in improving
+evidence-based practice skills of practicing registered nurses. Worldviews
+Evid Based Nurs. 2017;14(5):358 – 66.
+52. Pereira RP, Guerra AC, Cardoso MJ, dos Santos AT, de FM, Carneiro AC.
+Validation of the Portuguese version of the evidence-based practice
+questionnaire. Rev Lat Am Enfermagem 2015;23(2):345 – 351.
+53. Perez-Campos M, Sanchez-Garcia I, Pancorbo-Hidalgo P. Knowledge,
+attitude and use of evidence-based practice among nurses active on the
+internet. Investig Educ Enferm. 2014;32(3):451 – 60.
+54. Phillips C. Relationships between duration of practice, educational level, and
+perception of barriers to implement evidence-based practice among critical
+care nurses. Int J Evid Based Healthc. 2015;13(4):224 – 32.
+55. Prior P, Wilkinson J, Neville S. Practice nurse use of evidence in clinical
+practice: a descriptive survey. Nurs Prax NZ. 2010;26(2):14 – 25.
+56. Ramos-Morcillo A, Fernandez-Salazar S, Ruzafa-Martinez M, Del-Pino-Casado
+R. Effectiveness of a brief, basic evidence-based practice course for clinical
+nurses. Worldviews Evid Based Nurs. 2015;12(4):199 – 207.
+57. Sese-Abad A, De Pedro-Gomez J, Bennasar-Veny M, Sastre P, Fernandez-
+Dominguez J, Morales-Asencio J. A multisample model validation of the
+evidence-based practice questionnaire. Res Nurs Health. 2014;37(5):437 – 46.
+58. Shafiei E, Baratimarnani A, Goharinezhad S, Kalhor R, Azmal M. Nurses'
+perceptions of evidence-based practice: a quantitative study at a teaching
+hospital in Iran. Med J Islam Repub Iran. 2014;28:135.
+59. Sim JY, Jang KS, Kim NY. Effects of education programs on evidence-based
+practice implementation for clinical nurses. J Contin Educ Nurs. 2016;47(8):
+363– 71.
+60. Son YJ, Song Y, Park SY, Kim JI. A psychometric evaluation of the Korean
+version of the evidence-based practice questionnaire for nurses. Contemp
+Nurse. 2014;49:4 – 14.
+61. Stavor DC, Zedreck-Gonzalez J, Hoffmann RL. Improving the use of
+evidence-based practice and research utilization through the identification
+of barriers to implementation in a critical access hospital. J Nurs Adm. 2017;
+47(1):56– 61.
+62. Toole BM, Stichler JF, Ecoff L, Kath L. Promoting nurses' knowledge in
+evidence-based practice: do educational methods matter? J Nurses Prof
+Dev. 2013;29(4):173 – 81.
+63. Wan LPA. Educational intervention effects on nurses' perceived ability to
+implement evidence-based practice. Ann Arbor: University of Phoenix; 2017.
+64. White-Williams C, Patrician P, Fazeli P, Degges MA, Graham S, Andison M,
+et al. Use, knowledge, and attitudes toward evidence-based practice among
+nursing staff. J Contin Educ Nurs. 2013;44(6):246 – 54 quiz 55-6.
+65. Williamson KM, Almaskari M, Lester Z, Maguire D. Utilization of evidence-
+based practice knowledge, attitude, and skill of clinical nurses in the
+planning of professional development programming. J Nurses Prof Dev.
+2015;31(2):73– 80.
+66. Xie HT, Zhou ZY, Xu CQ, Ong S, Govindasamy A. Nurses' attitudes towards
+research and evidence-based practice. Ann Acad Med Singapore. 2015;44:
+S240.
+67. Adams SL. Understanding the variables that influence translation of
+evidence-based practice into school nursing: University of Iowa; 2007.
+68. Chiu YW, Weng YH, Lo HL, Shih YH, Hsu CC, Kuo KN. Impact of a
+nationwide outreach program on the diffusion of evidence-based practice
+in Taiwan. International J Qual Health Care. 2010;22(5):430 – 6.
+69. Bissett KM, Cvach M, White KM. Improving competence and confidence
+with evidence-based practice among nurses: outcomes of a quality
+improvement project. J Nurses Prof Dev. 2016;32(5):248 – 55.
+70. Seyyedrasooli A, Zamanzadeh V, Valizadeh L, Tadaion F. Individual potentials
+related to evidence-based nursing among nurses in teaching hospitals
+affiliated to Tabriz University of Medical Sciences, Tabriz. Iran J Caring Sci.
+2012;1(2):93– 9.
+71. Yip WK, Mordiffi SZ, Majid MS, Ang EKN. Nurses' perspective towards
+evidence-based practice: a descriptive study. Ann Acad Med Singapore.
+2010;39:S372.
+72. Chew ML, Sim KH, Sim YF, Yan CC. Attitudes, skills and knowledge of
+primary healthcare nurses on the use of evidence-based nursing (EBN) and
+barriers influencing the use of EBN in the primary healthcare setting. Ann
+Acad Med Singapore. 2015;1:S503.
+73. Melnyk BM, Fineout-Overholt E, Fischbeck Feinstein N, Li H, Small L, Wilcox
+L, et al. Nurses' perceived knowledge, beliefs, skills, and needs regarding
+evidence-based practice: implications for accelerating the paradigm shift.
+Worldviews Evid Based Nurs. 2004;1(3):185 – 93.
+74. Hellier S, Cline T. Factors that affect nurse practitioners' implementation of
+evidence-based practice. J Am Assoc Nurse Pract. 2016;28(11):612 – 21.
+75. Connor L, Paul F, McCabe M, Ziniel S. Measuring Nurses' value,
+implementation, and knowledge of evidence-based practice: further
+psychometric testing of the quick-EBP-VIK survey. Worldviews Evid Based
+Nurs. 2017;14(1):10 – 21.
+76. Connor L. Pediatric nurses' knowledge, values, and implementation of
+evidence-based practice and use of two patient safety goals. Ann Arbor:
+University of Massachusetts Boston; 2017.
+77. Barako TD, Chege M, Wakasiaka S, Omondi L. Factors influencing application
+of evidence-based practice among nurses. Afr J Midwifery Women's Health.
+2012;6(2):71– 7.
+78. Majid MS, Foo S, Luyt B, Zhang X, Theng Y, Chang Y, et al. Adopting
+evidence-based practice in clinical decision making:nurses ’ perceptions,
+knowledge, and barriers. J Med Libr Assoc. 2011;99(3):8.
+79. Farokhzadian J, Khajouei R, Ahmadian L. Evaluating factors associated with
+implementing evidence-based practice in nursing. J Eval Clin Pract. 2015;
+21(6):1107– 13.
+80. Saunders H, Stevens KR, Vehvilainen-Julkunen K. Nurses' readiness for
+evidence-based practice at Finnish university hospitals: a national survey. J
+Adv Nurs. 2016;72(8):1863 – 74.
+81. Gerrish K, Guillaume L, Kirshbaum M, McDonnell A, Tod A, Nolan M. Factors
+influencing the contribution of advanced practice nurses to promoting
+evidence-based practice among front-line nurses: findings from a cross-
+sectional survey. J Adv Nurs. 2011;67(5):1079 – 90.
+82. Gu MO, Ha Y, Kim J. Development and validation of an instrument to assess
+knowledge and skills of evidence-based nursing. J Clin Nurs. 2015;24(9 – 10):
+1380– 93.
+83. Laibhen-Parkes N. Web-based evidence based practice educational
+intervention to improve EBP competence among BSN-prepared pediatric
+bedside nurses: a mixed methods pilot study: Mercer University; 2014.
+84. Melnyk BM, Fineout-Overholt E, Mays MZ. The evidence-based practice
+beliefs and implementation scales: psychometric properties of two new
+instruments. Worldviews Evid Based Nurs. 2008;5(4):208 – 16.
+85. Gallagher-Ford L. The influence of nurse leaders and nurse educators on
+registered nurses' evidence-based practice: Widener University school of
+nursing; 2012.
+86. Mooney S. The effect of education on evidence-based practice and Nurses'
+beliefs/attitudes toward and intent to use evidence-based practice:
+Gardner-Webb University; 2012.
+87. Underhill M, Roper K, Siefert ML, Boucher J, Berry D. Evidence-based
+practice beliefs and implementation before and after an initiative to
+promote evidence-based nursing in an ambulatory oncology setting.
+Worldviews Evid Based Nurs. 2015;12(2):70 – 8.
+88. Baxley M. School nurse's implementation of evidence-based practice: a
+mixed method study. Ann Arbor: University of Phoenix; 2016.
+89. Bovino LR, Aquila A, Feinn R. Evidence-based nursing practice in a
+contemporary acute care hospital setting. Nurs Res. 2016;65(2):E50-E.
+90. Dropkin MJ. Review of "the state of evidence-based practice in US nurses".
+ORL Head Neck Nurs. 2013;31(2):14 – 6.
+91. Eaton LH, Meins AR, Mitchell PH, Voss J, Doorenbos AZ. NIHMS676110;
+evidence-based practice beliefs and behaviors of nurses providing cancer
+pain management: a mixed-methods approach. Oncol Nurs Forum. 2015;
+42(2):165– 73.
+92. Estrada N. Exploring perceptions of a learning organization by RNs and
+relationship to EBP beliefs and implementation in the acute care setting.
+Worldviews Evid Based Nurs. 2009;6(4):200 – 9.
+93. Estrada NA. Learning organizations and evidence-based practice by RNs:
+University of Arizona; 2007.
+94. Friesen MA, Brady JM, Milligan R, Christensen P. Findings from a pilot study:
+bringing evidence-based practice to the bedside. Worldviews Evid Based
+Nurs. 2017;14(1):22 – 34.
+95. Harper MG, Gallagher-Ford L, Warren JI, Troseth M, Sinnott LT, Thomas BK.
+Evidence-based practice and U.S. healthcare outcomes: findings from a
+National Survey with Nursing Professional Development Practitioners. J
+Nurses Prof Dev. 2017;33(4):170 – 9.
+96. Hauck S, Winsett RP, Kuric J. Leadership facilitation strategies to establish
+evidence-based practice in an acute care hospital. J Adv Nurs. 2013;69(3):
+664– 74.
+97. Kang Y, Yang IS. Evidence-based nursing practice and its correlates among
+Korean nurses. Appl Nurs Res. 2016;31:46 – 51.
+Belita et al. BMC Nursing           (2020) 19:44 Page 26 of 28
+<<<PAGE=27>>>
+98. Kaplan L, Zeller E, Damitio D, Culbert S, Bayley KB. Improving the culture of
+evidence-based practice at a Magnet hospital. J Nurs Professional Dev. 2014;
+30(6):274– 80; quiz E1 – 2.
+99. Kim SC, Ecoff L, Brown CE, Gallo AM, Stichler JF, Davidson JE. Benefits of a
+regional evidence-based practice fellowship program: a test of the ARCC
+model. Worldviews Evid Based Nurs. 2017;14(2):90 – 8.
+100. Kim SC, Stichler JF, Ecoff L, Brown CE, Gallo AM, Davidson JE. Predictors of
+evidence-based practice implementation, job satisfaction, and group
+cohesion among regional fellowship program participants. Worldviews Evid
+Based Nurs. 2016;13(5):340 – 8.
+101. Levin RF, Fineout-Overholt E, Melnyk BM, Barnes M, Vetter MJ. Fostering
+evidence-based practice to improve nurse and cost outcomes in a community
+health setting: a pilot test of the advancing research and clinical practice
+through close collaboration model. Nurs Adm Q. 2011;35(1):21 – 33.
+102. Lynch SH. Nurses' beliefs about and use of evidence-based practice:
+University of Connecticut; 2012.
+103. Macyk I. Staff nurse engagement, decisional involvement, staff nurse
+participation in shared governance councils and the relationship to evidence
+based practice belief and implementation. Ann Arbor: Adelphi University; 2017.
+104. Mariano KG, Caley LM, Eschberger L, Woloszyn A, Volker P, Leonard MS,
+et al. Building evidence-based practice with staff nurses through mentoring.
+J Neonatal Nurs. 2009;15(3):81 – 7.
+105. Melnyk BM, Bullock T, McGrath J, Jacobson D, Kelly S, Baba L. Translating the
+evidence-based NICU COPE program for parents of premature infants into
+clinical practice: impact on nurses' evidence-based practice and lessons
+learned. J Perinat Neonatal Nurs. 2010;24(1):74 – 80.
+106. Melnyk BM, Fineout-Overholt E, Gallagher-Ford L, Kaplan L. The state of
+evidence-based practice in US nurses: critical implications for nurse leaders
+and educators. J Nurs Adm. 2012;42(9):410 – 7.
+107. Pryse YM. Using evidence based practice: the relationship between work
+environment, nursing leadership, and nurses at the bedside: Indiana
+University; 2012.
+108. Rose Bovino L, Aquila AM, Bartos S, McCurry T, Cunningham CE, Lane T,
+et al. A cross-sectional study on evidence-based nursing practice in the
+contemporary hospital setting: implications for nurses in professional
+development. J Nurses Prof Dev. 2017;33(2):64 – 9.
+109. Skela-Savic B, Hvalic-Touzery S, Pesjak K. Professional values and
+competencies as explanatory factors for the use of evidence-based practice
+in nursing. J Adv Nurs. 2017;73(8):1910 – 23.
+110. Skela-Savic B, Pesjak K, Lobe B. Evidence-based practice among nurses in
+Slovenian hospitals: a national survey. Int Nurs Rev. 2016;63(1):122 – 31.
+111. Son Chae K, Stichler JF, Ecoff L, Gallo A-M, Davidson JE. Six-month follow-up
+of a regional evidence-based practice fellowship program. J Nurs Adm.
+2017;47(4):238– 43.
+112. Stokke K, Olsen NR, Espehaug B, Nortvedt MW. Evidence based practice
+beliefs and implementation among nurses: a cross-sectional study. BMC
+Nurs. 2014;13(1):8.
+113. Sweetapple C. Change adoption willingness: development of a measure of
+willingness to adopt evidence-based practice in registered nurses. Ann
+Arbor: Hofstra University; 2015.
+114. Temple B, Sawatzky-Dickson D, Pereira A, Martin D, McMillan D, Cepanec D,
+et al. Improving Nurses' beliefs and use of evidence in their practice,
+Nursing Education and Health Care Organizations. Quebec City: Knowledge
+Translation (KT) Canada Annual Scientific Meeting; 2014.
+115. Varnell G, Haas B, Duke G, Hudson K. Effect of an educational intervention
+on attitudes toward and implementation of evidence-based practice.
+Worldviews Evid Based Nurs. 2008;5(4):172 – 81.
+116. Verloo H, Desmedt M, Morin D. Beliefs and implementation of evidence-
+based practice among nurses and allied healthcare providers in the Valais
+hospital. Switzerland J Eval Clin Pract. 2017;23(1):139 – 48.
+117. Wang SC, Lee LL, Wang WH, Sung HC, Chang HK, Hsu MY, et al.
+Psychometric testing of the Chinese evidence-based practice scales. J Adv
+Nurs. 2012;68(11):2570 – 7.
+118. Warren JI, McLaughlin M, Bardsley J, Eich J, Esche CA, Kropkowski L, et al.
+The strengths and challenges of implementing EBP in healthcare systems.
+Worldviews Evid Based Nurs. 2016;13(1):15 – 24.
+119. Warren JI, Montgomery KL, Friedmann E. Three-year pre-post analysis of EBP
+integration in a magnet-designated community hospital. Worldviews Evid
+Based Nurs. 2016;13(1):50 – 8.
+120. Bostrom AM, Rudman A, Ehrenberg A, Gustavsson JP, Wallin L. Factors
+associated with evidence-based practice among registered nurses in
+Sweden: a national cross-sectional study. BMC Health Serv Res. 2013;13:165.
+121. Gerrish K, Clayton J. Promoting evidence-based practice: an organizational
+approach. J Nurs Manag. 2004;12(2):114 – 23.
+122. Gerrish K, Ashworth P, Lacey A, Bailey J, Cooke J, Kendall S, et al. Factors
+influencing the development of evidence-based practice: a research tool. J
+Adv Nurs. 2007;57(3):328 – 38.
+123. Gerrish K, Ashworth P, Lacey A, Bailey J. Developing evidence-based
+practice: experiences of senior and junior clinical nurses. J Adv Nurs. 2008;
+62(1):62– 73.
+124. Mills J, Field J, Cant R. The place of knowledge and evidence in the context
+of Australian general practice nursing. Worldviews Evid Based Nurs. 2009;
+6(4):219– 28.
+125. Baird LM, Miller T. Factors influencing evidence-based practice for
+community nurses. Br J Community Nurs. 2015;20(5):233 – 42.
+126. Shin JI, Lee E. The influence of social capital on nurse-perceived evidence-
+based practice implementation in South Korea. J Nurs Scholarsh. 2017;49(3):
+267– 76.
+127. Cato DL. The relationship between a nurse residency program and
+evidence-based practice knowledge of the incumbent nurse across a
+multihospital system: a quantitative correlational design: Capella University;
+2013.
+128. Hagler D, Mays MZ, Stillwell SB, Kastenbaum B, Brooks R, Fineout-Overholt E,
+et al. Preparing clinical preceptors to support nursing students in evidence-
+based practice. J Contin Educ Nurs. 2012;43(11):502 – 8.
+129. Smith-Keys S. Education and mentoring of staff nurses in evidence based
+practice. Ann Arbor: Walden University; 2016.
+130. Thorsteinsson HS. Translation and validation of two evidence-based nursing
+practice instruments. Int Nurs Rev. 2012;59(2):259 – 65.
+131. Thorsteinsson HS. Icelandic nurses' beliefs, skills, and resources associated
+with evidence-based practice and related factors: a national survey.
+Worldviews Evid Based Nurs. 2013;10(2):116 – 26.
+132. Thorsteinsson HS, Sveinsdottir H. Readiness for and predictors of evidence-
+based practice of acute-care nurses: a cross-sectional postal survey. Scand J
+Caring Sci. 2014;28(3):572 – 81.
+133. Hain D, Haras M. Continuing nursing education. Changing nephrology
+Nurses' beliefs about the value of evidence-based practice and their ability
+to implement in clinical practice. Nephrol Nurs J. 2015;42(6):563 – 7.
+134. Park JW, Ahn JA, Park MM. Factors influencing evidence-based nursing
+utilization intention in Korean practice nurses. Int J Nurs Pract. 2015;21(6):
+868– 75.
+135. Ruzafa-Martinez M, Lopez-Iborra L, Madrigal-Torres M. Attitude towards
+evidence-based nursing questionnaire: development and psychometric
+testing in Spanish community nurses. J Eval Clin Pract. 2011;17(4):664 – 70.
+136. Almaskari M. Omani staff nurses' and nurse leaders' attitudes toward and
+perceptions of barriers and facilitators to the implementation of evidence-
+based practice. Ann Arbor: Widener University; 2017.
+137. Thiel L, Ghosh Y. Determining registered nurses' readiness for evidence-
+based practice. Worldviews Evid Based Nurs. 2008;5(4):182 – 92.
+138. Squires JE, Hutchinson AM, Bostrom AM, Deis K, Norton PG, Cummings GG,
+et al. A data quality control program for computer-assisted personal
+interviews. Nurs Res Pract. 2012;2012:303816.
+139. Nunnally JC. Psychometric theory. 2nd ed. New York, NY: McGraw-Hill; 1978.
+140. Streiner DL. A checklist for evaluating the usefulness of rating scales. Can J
+Psychiatr Rev Can Psychiatr. 1993;38(2):140 – 8.
+141. Optimizing the Role of Nursing in Home Health. Ottawa, ON: Canadian
+Nurses Association; 2013. https://cna-aiic.ca/~/media/cna/page-content/pdf-
+en/optimizing_the_role_of_nursing_in_home_health_e.pdf?la=en.
+142. Martin-Misener R, Bryant-Lukosius D. Optimizing the role of nurses in
+primary Care in Canada Final Report. Ottawa: Canadian Nurses Association;
+2014.
+143. Gibbard R. Sizing up the challenge. Meeting the demand for Long-term
+Care in Canada. Ottawa: conference Board of Canada; 2017. Contract No:
+Report.
+144. Cheetham G, Chivers G. The reflective (and competent) practitioner: a
+model of professional competence which seeks to harmonise the reflective
+practitioner and competence-based approaches. J Eur Ind Train. 1998;22(7):
+267– 76.
+Belita et al. BMC Nursing           (2020) 19:44 Page 27 of 28
+<<<PAGE=28>>>
+145. Cowan D, Norman I, Coopamah V. Competence in nursing practice: a
+controversial concept - a focused review of literature. Accid Emerg Nurs.
+2007;15:20– 6.
+146. Gonczi A. Competency based assessment in the professions in Australia.
+Assessment Educ Principles Policy Practice. 1994;1(1):27 – 44.
+147. Baartman L, Bastiaens T, Kirschner P, van der Vleuten C. Evaluating
+assessment quality in competence-based education: a qualitative
+comparison of two frameworks. Educ Res Rev. 2007;2:114 – 29.
+148. Eraut M. Developing professional knowledge and competence. Washington,
+D.C.: Falmer Press; 1994.
+149. Hand H. Promoting effective teaching and learning in the clinical setting.
+Nurs Stand. 2006;20(39):55 – 63.
+150. Eraut M. Concepts of competence. J Interprof Care. 1998;12(2):127 – 39.
+151. Meretoja R, Numminen O, Isoaho H, Leino-Kilpi H. Nurse competence
+between three generational nurse cohorts: a cross-sectional study. Int J
+Nurs Pract. 2015;21:350 – 8.
+152. Numminen O, Meretoja R, Isoaho H, Leino-Kilpi H. Professional competence
+of practising nurses. J Clin Nurs. 2013;22:1411 – 23.
+153. Fitzpatrick R, Davey C, Buxton M, Jones D. Evaluating patient-based
+outcome measures for use in clinical trials. United Kingdom, Europe: NHS
+R&D HTA Programme; 2007.
+154. Bing-Jonsson P, Hofoss D, Kirkevold M, Bjørk IT, Foss C. Nursing older
+people-competence evaluation tool: development and psychometric
+evaluation. J Nurs Meas. 2015;23(1):127 – 53.
+155. Kalisch BJ, Lee H, Salas E. The development and testing of the nursing
+teamwork survey. Nurs Res. 2010;59(1):42 – 50.
+156. Devon HA, Block ME, MoyleWright P, Ernst DM, Hayden SJ, Lazzara DJ, et al.
+A psychometric toolbox for testing validity and reliability. J Nurs Scholarsh.
+2007;39(2):155– 64.
+157. Nunnally JC. Psychometric theory. New York: McGraw-Hill; 1967.
+158. Streiner D. Starting at the beginning: an introduction to coefficient alpha
+and internal consistency. J Pers Assess. 2003;80(1):99 – 103.
+159. Upton D, Upton P, Scurlock-Evans L. The reach, transferability, and impact of
+the evidence-based practice questionnaire: a methodological and narrative
+literature review. Worldviews Evid Based Nurs. 2014;11(1):46 – 54.
+160. Leung K, Trevena L, Waters D. Development of an appraisal tool to evaluate
+strength of an instrument or outcome measure. Nurse Res. 2012;20(2):13 – 9.
+161. McKenna H, Treanor C, O'Reilly D, Donnelly M. Evaluation of the
+psychometric properties of self-reported measures of alcohol consumption:
+a COSMIN systematic review. Subst Abuse Treat Prev Policy. 2018;13(1):1 – 19.
+162. Belita, E, Yost J, Squires JE, Ganann R, Dobbins M. Measures assessing
+attributes of evidence informed decision-making competence among
+nurses: A psychometric systematic review. 10 th Knowledge Translation (KT)
+Canada Annual Scientific Meeting; 2019; Winnipeg, MB, Canada.
+Publisher’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Belita et al. BMC Nursing           (2020) 19:44 Page 28 of 28

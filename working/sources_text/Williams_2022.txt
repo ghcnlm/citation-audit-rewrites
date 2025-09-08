@@ -1,0 +1,620 @@
+<<<PAGE=1>>>
+Research Report
+ImprovingNoncognitive
+ConstructsforCareer
+ReadinessandSuccess:A
+TheoryofChangefor
+Postsecondary,Workplace,
+andResearchApplications
+ETSRR–22-04
+KevinM.Williams
+MichelleP.Martin-Raugh
+JenniferE.Lentini
+December2022
+<<<PAGE=2>>>
+ETS Research Report Series
+EIGNOR EXECUTIVE EDITOR
+LauraHamilton
+A s socia t eV icePr es iden t
+ASSOCIATE EDITORS
+BeataBeigmanKlebanov
+SeniorResearchScientist
+BrentBridgeman
+Distinguished PresidentialAppointee
+Heather Buzick
+SeniorResearchScientist
+Tim Davey
+ResearchDirector
+John Davis
+ResearchScientist
+Marna Golub-Smith
+Consultant
+PriyaKannan
+ResearchScientist
+SooyeonKim
+PrincipalPsychometrician
+Jamie Mikeska
+SeniorResearchScientist
+GautamPuhan
+Psychometrics Director
+JonathanSchmidgall
+ResearchScientist
+Jesse Sparks
+ResearchScientist
+MichaelWalker
+Distinguished PresidentialAppointee
+KlausZechner
+SeniorResearchScientist
+PRODUCTION EDITORS
+KimFryer
+Manager,EditingServices
+AyleenGontz
+Senior Editor
+Sinceits1947founding,ETShasconductedanddisseminatedscientificresearchtosupportitsproductsandservices,and
+to advance the measurement and education fields. In keeping with these goals, ETS is committed to making its research
+freely available to the professional community and to the general public. Published accounts of ETS research, including
+papers in the ETS Research Report series, undergo a formal peer-review process by ETS staff to ensure that they meet
+establishedscientificandprofessionalstandards.AllsuchETS-conductedpeerreviewsareinadditiontoanyreviewsthat
+outsideorganizationsmayprovideaspartoftheirownpublicationprocesses.Peerreviewnotwithstanding,thepositions
+expressed in the ETS Research Report series and other published accounts of ETS research are those of the authors and
+notnecessarilythoseoftheOfficersandTrusteesofEducationalTestingService.
+TheDanielEignorEditorshipisnamedinhonorofDr.DanielR.Eignor,whofrom2001until2011servedtheResearchand
+DevelopmentdivisionasEditorfortheETSResearchReportseries.TheEignorEditorshiphasbeencreatedtorecognize
+thepivotalleadershiprolethatDr.EignorplayedintheresearchpublicationprocessatETS.
+ 23308516, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ets2.12346 by Capes, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=3>>>
+ETS Research Report Series ISSN 2330-8516
+RESEARCH REPORT
+Improving Noncognitive Constructs for Career Readiness
+and Success: A Theory of Change for Postsecondary,
+Workplace, and Research Applications
+Kevin M. Williams, Michelle P . Martin-Raugh, & Jennifer E. Lentini
+ETS , Princeton, NJ
+Researchers and practitioners in postsecondary and workplace settings recognize the value of noncognitive constructs in predict-
+ing academic and vocational success but also perceive that many students or employees are lacking in these areas. In turn, there is
+increasedinterestininterventionsdesignedtoenhancetheseconstructs.Weprovideanempiricallyinformedtheoryofchange(ToC)
+thatdescribestheinputs,mechanisms,andoutputsofnoncognitiveconstructinterventions(NCIs).Thecomponentsthatinformthis
+ToC include specific relevant constructs that are amenable to intervention, intervention content and mechanisms of change, method-
+ologicalconsiderations,moderatorsofprogramefficacy,recommendationsforevaluatingNCIs,andsuggestedoutcomes.Inturn,NCIs
+shouldprovidebenefitstoindividuals,institutions,andsocietyatlargeandalsoadvanceourscientificunderstandingofthisimportant
+phenomenon.
+Keywords Noncongnitiveconstructs;academicsuccess;vocationalsuccess;training
+doi:10.1002/ets2.12346
+Preparingindividualstosuccessfullyentertheworkforceandtomaintaineffectiveperformanceuponentryarefundamen-
+taldutiesofeducationalandorganizationalinstitutions.NearlyhalfofalljobsintheUnitedStatesrequiresomeamountof
+postsecondaryeducation,andvirtuallyallremainingjobsrequirerelevantworkexperience, on-the-jobtraining,orboth
+(BureauofLaborStatistics, 2018,Table1.7).However,employersconsistentlyregardrecentgraduatesasdeficientinvari-
+ouscareerreadinesscompetencies(NationalAssociationofCollegesandEmployers[NACE], 2018).IntheU nitedStates
+alone, organizations spend approximately 171 billion dollars annually on employee learning and development interven-
+tions (Green & McGill,2011). The positive impact of successful training programs may be felt not only at the individual
+andorganizationallevel,butitmayeveninfluenceeconomicgrowthatthenationallevel(Aguinis&Kraiger, 2009).These
+trends highlight continuing opportunities for both higher education and workplace institutions to improve the efficacy
+andefficiencyofcareerreadinesstraining.
+Interestingly, and perhaps unsurprisingly, the majority of competencies that employers find lacking in job candidates
+are those that are usually not an explicit focus of postsecondary courses. For instance, employers typically rate compe-
+tencies such as social skills, teamwork/collaboration, professionalism/work ethic, leadership, and global/multicultural
+fluency as at least somewhat essential for the workplace (e.g., Capelli,2012;N A C E ,2018;S c h a n z e n b a c he ta l . ,2016)
+but also underdeveloped in recent college graduates (NACE,2018). One commonality shared across these competen-
+cies is that they can be characterized as noncognitive constructs. These constructs are distinct from other individual
+differences (i.e., technical knowledge or skills, physical abilities, job experience) and cognitive constructs (i.e., problem
+solving,literacy,andtraditionaldefinitionsofintelligence).Noncognitiveconstructs—oftenreferredtoas“softskills”or
+“21st century skills” (e.g., Heckman & Kautz,2012)—have been described as “demonstrable personality, motivational,
+attitudinal, self-regulatory, and learning approach constructs for which there are differences among people, which stan-
+dardizedtestsofcognitiveabilityarenotprimarilydesignedtomeasure,andthebehavioralexpressionofwhichisconsid-
+ereduseful”(Kliegeretal., 2015,p .3;seealsoDuckw o rth&Y eag er ,2015;K a u tzetal .,2014;K yllo nen,2012).Additional
+examples of noncognitive constructs include personality traits, socioemotional skills, communication skills, motivation,
+self-efficacy,andinterests,amongothers.Supportfortheseconstructs’occupationalrelevancegoesbeyondemployersur-
+veys,asvariousmeta-analysesandreviewshavecorroboratedtheirpredictivevalidityinworkplacesettings(e.g.,Barrick
+Correspondingauthor: K. Williams, E-mail: kmwilliams@ets.org
+ETS Research Report No. RR-22-04. © 2022 Educational Testing Service 1
+ 23308516, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ets2.12346 by Capes, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=4>>>
+K. M. Williamsetal . Improving Noncognitive Constructs for Career Readiness and Success
+etal., 2002;Barrick&Mount, 1991;Judge&Bono, 2001;Robertsetal., 2007;Schmidt&Hunter, 1998;Spectoretal., 2006;
+Van Iddekinge etal.,2011,2012). Moreover, these studies often suggest that noncognitiveskills predict job performance
+independentlyofcognitiveconstructs(e.g.,provideincrementalvalidity;Schmidt&Hunter, 1998)andtoasimilarmag-
+nitude(e.g.,Robertsetal., 2007).
+Improving Noncognitive Constructs Through Intervention: A Theory of Change
+Giventherelevanceofnoncognitiveconstructstotheworkplace,itisimportanttounderstandhowtheycanbeenhanced.
+Oneoftheappealingfeaturesofnoncognitiveconstructsisthattheymaybeasmalleableascognitiveskills,ifnotmoreso
+(Aguinis & Kraiger,2009;B o y a t z i s ,2008;H e c k m a n ,2000;H e c k m a n&K a u t z ,2012). Indeed, several meta-analyses and
+reviewshavedemonstratedthatvariousnoncognitiveconstructsmaybealteredtovaryingdegreesthroughintervention
+(e.g., Arthur Jr. etal.,2003; Barth & Lannen,2011;B e z r u k o v ae ta l . ,2016; Bowen & Neill,2013;D e l i s ee ta l . ,2010;L a c -
+erenza etal.,2017;L i p s e y&W i l s o n ,1993; Salas etal.,2008). A recent review by Martin-Raugh etal.(2020)s y n t h e s i z e d
+39meta-analysesandsystematicreviewsonthemalleabilityofthreebroadcategoriesofnoncognitiveskills,drawingupon
+a diverse set of disciplines including industrial/organizational (I/O) psychology, educational psychology, and medicine,
+amongothers.W ewillbeusingthefindingsfromMartin-Raughetal.( 2020)todevelopatheoryofchange(T oC)toinform
+empirically supported, actionable recommendations for delivering and evaluating noncognitive construct interventions
+(NCIs)inhighereducation,occupational,andresearchsettings.
+TheconceptofToCsdatebacktoatleastthe1970s(e.g.,Weiss, 1972)andareusedtoarticulatetheinputs,mechanisms,
+and outcomes of change efforts. Put differently, ToCs describe what is being changed, why or how it changes, and the
+impactofthesechanges.ToCsarosearoundasimilarperiodastherelatedconceptoftheoriesofaction(ToAs;e.g.,Argyris
+&Schon, 1974;Wholey, 1979),which“constituteaframeworkthatindividualsusetoguide,interpret,orjustify”coursesof
+action(Malenetal., 2002,p.113).ToCsandToAseachillustratealogicalsequenceofstepsinserviceofspecificoutcomes,
+thoughT oCstendtoemphasizemechanismsofchangewhereasT oAsaremoreconcernedwithimplementationordelivery
+(George,2019).TheToAversusToCcomparisonissimilartoWeiss’s( 1997)distinctionbetweenimplementationtheory
+and program theory, respectfully. In other words, a ToA may be viewed as a specific application of a ToC. In the context
+ofnoncognitiveinterventions,aToCmaydescribechangesattheconstructlevel(teamwork)whereasaToAwouldfocus
+on a particular intervention (crew resource management training; e.g., Salas et al.,2001).
+ToCsincorporatetheconceptofalogicmodel(e.g.,McLaughlin&Jordan, 1999),whichisagraphicalcause-and-effect
+depictiondescribingparticularconstructchanges.Byincludingandelaboratinguponthesedepictions,ToCsmaybeused
+in program evaluation as an accessible method for describing the intended results of change efforts (e.g., McLaughlin &
+Jordan,1999).AlthoughthereissomestylisticvariationinToCgraphicaldepictions,theygenerallyincludethreeprimary
+elements:First,theToCliststheinputsortargetsoftheinterventionprogram.Second,theToCdescribestheprocessesthat
+motivateandexplainlongitudinalchanges,whichmayalsobedescribedasthemechanismsofaction.Finally,theeffects
+of these actions or mechanisms are described with intermediate and ultimate effects sometimes categorized separately.
+The causal pathways between these elements are also included in the ToC figure. An additional element—unintended
+consequences(seeGeisinger, 2010
+)—isalsooccasionallydiscussedwithinToCs.
+ToCs’statusasanessentialfoundationalcomponentofplanning,implementing,andevaluatinglongitudinalinterven-
+tions(e.g.,Ployhart&Vandenberg, 2010;seereviewbyMsila&Setlhako , 2013)isrepresentedintheirapplicationacross
+a diverse set of high-stakes initiatives, including urban education reform (Connell & Klem,2000), complex psycholog-
+ical and medical interventions (De Silva etal.,2014), and development finance (Jackson,2013). Similarly, a recent ToA
+example was provided by Bennett(2010), who illustrated a specific application of formative and summative assessment
+forimprovingK–12studentlearning.TheseexamplesillustratethatbothToCsandToAsmayserveasimportantresearch
+bases for informing intervention development, including situations where evaluation results are unavailable (Leusner &
+Lyon,2008).
+Our ToC—NCI ToC(Figure1)—illustrates the inputs, mechanisms, and intended outcomes of NCIs as informedby
+Martin-Raughet al. (2020).Noncognitiveconstructsrelevanttoacademicandworkplacesuccessmaybealteredthrough
+specificinterventions(Path1)ormoregeneralmechanismsofchange(Path2).Thesegeneralmechanismsmaybepresent
+inspecificexistinginterventionsandmayalsoinformthedevelopmentofnewtrainingprograms(Path3).Whenimple-
+mented properly, the positive causal impact of these interventions should manifest in various outcomes (Path 4). The
+remainderofthisarticlewilldetailtheNCIToCelements.
+2 ETS Research Report No. RR-22-04. © 2022 Educational Testing Service
+ 23308516, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ets2.12346 by Capes, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=5>>>
+K. M. Williamsetal . Improving Noncognitive Constructs for Career Readiness and Success
+Figure 1 Noncognitive construct intervention theory of change (NCI ToC).Note.L i s to fr e l e v a n tn o n c o g n i t i v ec o n s t r u c t si sb a s e d
+onMartin-Raughetal.( 2020)andisnotintendedtobeexhaustive.
+Relevant Noncognitive Constructs
+The noncognitive constructs targeted by academic or workplace interventions are a key concern. These constructs are
+typicallyidentifiedbyreviewingthecharacteristicsthatorganizationsvalueintheiremployees,predictjobperformance,
+and may be perceived as deficient in typical employee candidate pools (NACE,2018). As such, a primary goal of the
+Martin-Raugh et al. (2020) literature review was to locate relevant constructs whose malleability was supported by sub-
+stantial empirical evidence. Martin-Raugh etal. identified three broad categories for which some degree of longitudinal
+change was corroborated in the form of meta-analyses or systematic reviews: personality, social skills (communication
+skills,interpersonalskills,leadership,teamwork,cross-culturalskills),andadditionalnoncognitiveconstructs(attitudes,
+self-concept,emotion,motivation).
+Inreviewingthisevidence,acriticaldistinctionmustfirstbemaderegardingchangesduetoeffortfulinterventionver-
+s u sn a t u r a l l yo c c u r r i n gc h a n g e so b s e rv e di nt h ea b s e n c eo fi n t e rv e n t i o n .A l t h o u g hi tm a yb et e m p t i n gt ov i e wn a t u r a l l y
+occurring changes as evidence that these constructs are amenable to effortful change, we would argue against this con-
+clusion. Instead, just one alternativeexplanation is that it is equally plausible—if not moreso—that naturallyoccurring
+changesrepresentanopposingforcethatinterventionprogramsmustovercome.Similarly,conflatingnaturalandeffort-
+ful change may unfairly discourage efforts to deliberately improve constructs that are highly stable over the natural life
+course.Furthermore,itispossiblethatproposedmechanismsofnaturalchange(e.g.,genetics,significantortraumaticlife
+experiences; see Roberts etal.,2006) cannot be translated into workplace interventions, which are the focus of our NCI
+ToC. Therefore, we assert that the most valuable conclusion to be drawn from evidence of naturally occurring change is
+in emphasizing that studies of effortful change should employ an experimental design. That is, the inclusion of a control
+group in which the intervention is not applied is imperative in distinguishing intervention effects from natural longi-
+tudinal trajectories. This strategy should facilitate research that supports causal inference for deliberate interventions. It
+shouldalsobenotedthatwemaintainthisassertionregardlessofwhethernaturallyoccurringchangesarisefromfactors
+that are biological, environmental, or some combination. Researchers may, however, be interested in noting any signif-
+icant life events that may have coincidentally occurred during training in order to control for these variables. In turn,
+in informing academic and workplace interventions, as well as areas where further research is needed, the NCI ToC’s
+programcomponentsfocusontheresearchevidenceinvolvingeffortfulchange.
+Ba s e do nt h eM a rt i n - Ra u g he ta l .(2020) review, the strongest empirical support for effortful malleability was located
+for social skills, teamwork, attitudes, and emotion with effect sizes typically in the moderate range. Mixed or limited
+ETS Research Report No. RR-22-04. © 2022 Educational Testing Service 3
+ 23308516, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ets2.12346 by Capes, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=6>>>
+K. M. Williamsetal . Improving Noncognitive Constructs for Career Readiness and Success
+support was reported for cross-cultural skills, self-concept, motivation, communication skills, leadership, integrity, and
+some personality constructs (e.g., resilience). It should also be noted that within these constructs, there is some varia-
+tionregardingspecificsubsetsofconstructs.Forinstance,attitudesthataremorestronglyheldbyanindividualaremore
+resistant to change. Similarly, when discussing emotion malleability, there is some debate regarding whether negative or
+positive affect is easier to manipulate, though there is evidence that guilt is easier to induce than other emotions (e.g.,
+fear, worry, anxiety). There was no evidence located for vocational interests, emotional intelligence, or personality con-
+s t r u c t ss u c ha st h eB i gF i v e( s e eM c C r a e&C o s t aJ r . ,2008) or Dark Triad (narcissism, Machiavellianism, psychopathy;
+Paulhus & Williams,2002). However, these findings largely reflect a lack of research rather than conclusive evidence of
+construct immutability. Therefore, future efficacy studies and eventually meta-analytic research on these constructs, if
+feasible,wouldbeinvaluable.Wealsonotethatmalleabilityevidencemayexistinprimarystudiesoroutsideacademicor
+occupationalsettings,butwasbeyondthescopeofMartin-Raughetal.( 2020).
+Agents of Change
+Once workplace-relevant noncognitive constructs have been identified for intervention, a logical next step is to identify
+specific programs whose efficacy is empirically supported (Figure1, Path 1). Martin-Raugh et al. (2020)n o t e dt h a t
+programssuchasteamtraining,smallgrouptraining,crewresourcemanagementtraining,interpersonalskillstraining,
+and leadership training demonstrated efficacy in improving various social skills. Attitudes related to several forms of
+counterproductiveworkbehavior(CWB)suchassexualassault,substanceabuse,andracialprejudicemaybeaddressed
+through programs such as diversity training, education programs, and integrity or ethics courses. Additional support
+waslocatedforprogramsinvolvingworkplacecoaching,emotionregulation,andempathytraininginimprovingvarious
+noncognitiveconstructs.
+Although these reviews and meta-analyses were illuminating, they often grouped interventions into broad categories
+(Martin-Raughetal., 2020).Therefore,althoughtrainingefficacywasnottypicallyevaluatedatthelevelofspecificinter-
+ventionprograms,someresearchexaminedthestrategiesemployedbyinterventionprograms(Figure 1,Path2).Inturn,
+thevalueinherentinunderstandingthesestrategiesliesnotonlyinimplyingthecausalmechanismsofspecificinterven-
+tions, but in informing the development of new programs as well (Figure1, Path 3). As previously mentioned, because
+thesemechanismsareintendedtoexplaineffortfulchange,proposedagentsofnaturallyoccurringchange(e.g.,genetics,
+lifeevents)arenotconsidered.Instead,onecommonalityacrossmanyofthemosteffectiveNCIsisthattheyseektopro-
+ducechangethroughpracticeorexperientiallearningandassociatedfeedbackwithexamplesincludingcommunication
+skills(e.g., Barth&Lannen, 2011),attitudes(e.g.,Bezrukovaetal., 2016),self-concept(e.g.,Bowen&Neill, 2013), emo-
+tion(e.g.,TedingvanBerkhout&Malouff, 2016),andintegrity(Schlaeflietal., 1985).Variousotherspecificexampleswere
+alsonoted;forexample,someeffectiveemotionregulationcoursesoperatedbyheighteningriskappraisalassociatedwith
+problematicworkplacebehaviors.Specifically,theseprogramstendtobemoreeffectivewhenriskperceptions(i.e.,beliefs
+about personal vulnerability to harm) and perceived severity (i.e., beliefs about the seriousness of the hazard’s negative
+consequences)areincreased.Alternatively,integritycoursesdemonstratedefficacywhenincorporatingpersonalitydevel-
+opmenttheoriesanddilemmadiscussion.Constructssuchasleadershiparedevelopedwithmethodsintendedtoincrease
+knowledge, self-awareness, and interpersonal skills (e.g., Lacerenza etal.,2017). Resilience-building programs adopt an
+entirely different approach: They are designed to improve individuals’ psychosocial resources such as self-efficacy and
+optimism,whichserveasprotectivefactorsagainststressors(seeVanhoveetal., 2016).Forotherconstructs,themecha-
+nismsofchangearelessclear;forinstance,Kleinetal.( 2009)notedthatalthoughteamworkinterventionstypicallytarget
+problem-solving, interpersonal relations, and goal-setting, “no one is quite sure how and why these interventions work”
+(p.182).Overall,thesemechanismssuggestvariousstrategiesforsuccessfullystimulatingnoncognitiveconstructchange,
+alongwithavenuesforfutureresearchandnewNCIdevelopment.
+Impact
+Improvements in Noncognitive Construct Scores
+Assuming appropriate implementation, NCIs’ impact may be observed in myriad outcomes (Figure1,P a t h4 ) .D i r e c t
+changesinnoncognitiveconstructscoresmaybethemostsignificantoutcomeofNCIefforts.Thisisparticularlytruefrom
+4 ETS Research Report No. RR-22-04. © 2022 Educational Testing Service
+ 23308516, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ets2.12346 by Capes, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=7>>>
+K. M. Williamsetal . Improving Noncognitive Constructs for Career Readiness and Success
+atheoreticalorresearchperspectivewheresuchresultsmaydescribethegeneralmalleabilityofnoncognitiveconstructs.A
+constructs’amenabilityorresistancetoeffortfulchangemaybeconsideredoneofitsfundamentaldefinitionalcharacteris-
+tics.Overall,acommonthemeacrossNCIsisthattheyaregenerallyeffectiveinimprovingnoncognitiveconstructscores
+(Martin-Raughetal., 2020;seealsotheRelevantNoncognitiveConstructssection).Importantly,thesechangeshavebeen
+observed via self-report, other-report, or performance-based assessments (Martin-Raugh etal.,2020). However, these
+changes are typically short-term as few studies included in meta-analyses and reviews evaluate long-term changes. Of
+those that do, changes sustained over longer periods are rare (Martin-Raugh etal.,2020). Comparisons among various
+assessment options are also relatively understudied. As an example, Martin-Raugh etal.(2020)n o t e dc o n fl i c t i n gr e s u l t s
+fortheuseofself-orother-reportsversusbehavioralobservations,withtheformersupportedforsomeconstructs(com-
+municationskills)andnodifferencesobservedinothers(teamwork).Theseresultssuggestthatalthoughmuchisknown
+aboutthemalleabilityofnoncognitiveconstructs,somecriticalresearchavenueshaveyettobeexploredsufficiently.
+Alternative OutcomeM e asurement
+Conversely, NCI evaluators may be interested in outcomes beyond direct changes in the noncognitive construct. It is
+possible that direct changes in the construct do not guarantee changes in other related outcomes. In turn, the NCI eval-
+uation must be designed in a manner that will accommodate these outcomes. Although not always described as such,
+many of the outcomes used in noncognitive construct change research align with those described by Kirkpatrick (e.g.,
+1996). Kirkpatrick’s model is widely used in organizational settings and describes four levels of program evaluation
+metrics—reaction,learning,behavior,and results—that progressfromshort-termto long-term.
+The first level—reaction—assess trainees’ level of satisfaction with the intervention. In NCI research, this outcome
+is operationalized in a similar fashion across workplace and higher education settings and is sometimes referred to as
+affective outcomes (see Martin-Raugh etal.,2020). Aside from participants’ evaluations of the intervention, these out-
+comesmaycaptureparticipants’attitudesrelatedtothenoncognitiveconstructofinterest(cross-culturalskills,leadership,
+teamwork,motivation).Positivereactionsaretypicallydesired,butcriticalresponsesmayalsobeinformative.Reactions
+outcomes are commonly used in NCI evaluations due to their ease of assessment. However, in evaluating an interven-
+tion’s efficacy, participant reactions are among the most criticized outcome measures given their limited associations
+with other, more valuable outcomes (Martin-Raugh et al.,2020). Alternatively, reactions outcomes may be more infor-
+mative if separated into affective and utility subcategories, with the former describing participants’ enjoyment of the
+interventionwhereasthelattercapturesperceptionsofusefulnessandtransferabilitytotheworkplace(Alligeretal., 1997).
+Ultimately, reactions to training may be most instructive in modifying interventions to increase participant enjoyment
+a n dp e r c e i v e dr e l e v a n c e .P a r t i c i p a n tf e e d b a c km a ya l s ob ec r i t i c a li ni d e n t i f y i n ga n da d d r e s s i n gp o t e n t i a lu s a b i l i t ya n d
+accessibility issues. In turn, these alterations may be beneficial in encouraging new employees or students to participate
+andinimprovinginterventionefficacy. Practicallyspeaking, an interventioncannotbeevaluatedif itistoounappealing
+torecruitparticipants.
+Thesecondoutcome—learning—referstopre–postchangesinrelevantconstructsassociatedwithtraining.Theafore-
+mentioned direct changes in noncognitive construct scores represent a clear parallel between NCI outcomes and Kirk-
+patrick’s(1996)learningoutcome.Forsomenoncognitiveconstructs(p ersonality,cross-culturalskills,leadership,team-
+work, attitudes, emotion, motivation), direct changes in these assessments are occasionally augmented with additional
+outcomes such as construct-relevant self-efficacy or knowledge (Martin-Raugh etal.,2020). In the case of knowledge,
+these outcomes are sometimes described as cognitive outcomes in the NCI literature. There is some evidence (e.g., atti-
+t u d ec h a n g er e s e a r c h )t h a tk n o w l e d g eo u t c o m e sa r em o r ea m e n a b l et oc h a n g et h a no t h e ro u t c o m et y p e s ,b u tf u r t h e r
+investigationiswarranted.
+Kirkpatrick’s(1996) third and fourth outcomes—behavior and results—represent changes in on-the-job behavior
+(alsoreferredtoastransferoftraining)andvariousobjectiveperformanceoutcomessuchasproductivityorerrors,respec-
+tively. Although NCI research typically does not distinguish between these two groups of outcomes in the same way as
+traditionalworkplaceinterventionresearchers,obviousdifferencesbetween workplaceandpostsecondarysettingsexist.
+Theseoutcomesalsodifferfromperformance-basedassessmentsofnoncognitiveconstructs,whichmayinvolveresponses
+tohypotheticalorsimulatedsituations.Intheworkplace,NCIbehaviorandresultsoutcomeexamplesincluderatingsfrom
+clients/customersorpatientsorfromobjectivedatasuchasproductivity.Financialoutcomespermitorganizationstocal-
+culate the return on investment from NCI efforts (e.g., Cascio & Boudreau,2008). Some outcomes and their associated
+ETS Research Report No. RR-22-04. © 2022 Educational Testing Service 5
+ 23308516, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ets2.12346 by Capes, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=8>>>
+K. M. Williamsetal . Improving Noncognitive Constructs for Career Readiness and Success
+interventions are of varying importance across industries. Communication skills, unsurprisingly, are often emphasized
+inindustriesoroccupationssuchashealthcare,sales,customerservice,orotherpositionsthatinvolvecriticalteamwork
+contextssuchasaviationcrews(seeMartin-Raughetal., 2020).Alternatively,postsecondaryoutcomesincludeacademic
+performance such as course grades and degree attainment. Retention and graduation provide an example of short-term
+versus long-term impact: The former is typically defined as continued enrollment 1year after entering college, whereas
+the latter is assessed several years later depending on the type of degree, program, or institution (e.g., 2-year vs. 4-year
+degrees; see McFarland etal.,2017). When the assessment of behavioral outcomes is not feasible, behavioral intentions
+ar eoccasionallymeasur edinstead.
+Despite differences in the specific performance-based outcomes across workplace and postsecondary settings, it is
+possible that these outcomes differ in context only. These similarities suggest common noncognitive antecedents, which
+may be targeted through comparable interventions. For instance, NCIs designed to improve interpersonal skills should
+cause more frequent and effective social interactions in both workplace and postsecondary settings. Similarly, parallels
+may be drawn between CWB and academic misconduct, suggesting that interventions addressing constructs such as
+ethics or the Dark Triad may be equally relevant across contexts. Therefore, many of the causal mechanisms underlying
+successfulinterventionsmaybesimilaracrosssettings,differingprimarilyinappropriatelycontextualizedpresentations.
+In practice, similar to learning outcomes, behavior and results impact may be assessed through various methods,
+includingself-reports,observerratings,orobjectivemeasures(e.g.,salesfigures;seeMartin-Raughetal., 2020).Overall,
+these outcomes have been applied in research involving a diverse set of noncognitive constructs, including personal-
+ity,communicationskills,cross-culturalskills,leadership,attitudes,emotion,motivation,andteamwork(Martin-Raugh
+etal., 2020).However,althoughbehaviorandresultsoutcomesmaybeofmostvaluetovariousstakeholders,therearealso
+somechallengesingatheringthesedata.Collectingthesetypesofoutcomesmaybelesspracticalthanreactionsorlearning
+outcomes.Furthermore,asoutcomesbecomemoredistal,theyarelikelymoresusceptibletoinfluencesbeyondtheNCI.
+Itshouldalsobeemphasizedthatdespiteitspopularityinindustrial/organizationalpsychology,theKirkpatrick( 1996)
+framework is not without criticisms (e.g., Bates,2004;G i a n g r e c oe ta l . ,2010; Holton III & Naquin,2004), which have
+led some researchers to propose alternative evaluation approaches (e.g., Alliger et al.,1997;B e e r ,1990;B r i n k e r h o ff&
+Dressler,2015; Holton III & Naquin,2004). For example, Brinkerhoff and Dressler(2015) state that the Kirkpatrick
+model—among other criticisms—does not sufficiently describe why or how training efforts are (or are not) effective. In
+response,theauthorsproposeamodelthatpotentiallyaddressestheseconcerns,presentedinaformatsimilartoaToC.
+F urtherr esear chinwhichtheseal terna tivesar ea ppliedinNCI swouldbebeneficial.
+Quantifying Impact
+After selecting appropriate evaluation outcomes, metrics for quantifying noncognitive construct change or intervention
+efficacymustbeconsidered.Naturally,theseconsiderationsarecodependentwiththestatisticalmethodologyselectedfor
+evaluatingchange.NCIefficacyresearchtendstoemphasizeeffectsizesratherthanstatisticalsignificance(Martin-Raugh
+etal., 2020). Effect size calculation is not only necessary for the meta-analytic combination of primary studies, but also
+provides established interpretation guidelines (e.g., Cohen,1988) and avoids many of the problematic issues inherent in
+statistical significance testing (e.g., Kline,2013). As such, although the criterion for appraising a NCI as “successful” is
+largely arbitrary, most meta-analytic estimates report moderate effect sizes (e.g.,d≈0.50–0.79 in a desirable direction;
+Martin-Raugh et al.,2020). A small effect size (d≈0.20–0.49 in a desirable direction) would appear to be a reasonable
+minimum requirement. Of note, these guidelines utilize Cohen’s(1988) largely theoretical interpretation benchmarks;
+conversely,alternativedata-drivenguidelinesforeffectsizeinterpretationmayalsobeconsidered(e.g.,Boscoetal., 2015;
+Gignac&Szodorai, 2016;Patersonetal., 2015).Regardless,describingtheprecisionoftheseestimatesthroughconfidence
+intervalsisalsostraightforward.
+Intermediate Versus Ultimate Impact
+UnlikethegraphicaldepictionsofotherToCs,intermediateandultimateoutcomesintheNCI ToCarecombinedintoa
+single category. This description largely reflects the notion that most intermediate and ultimate outcomes differ only by
+t h et e m p o r a lp e r i o di nw h i c ht h e ya r ea s s e s s e d( i . e . ,q u a n t i t a t i v e l ya so p p o s e dt oq u a l i t a t i v e l y ) .Th es p e c i fi ct i m ep e r i o d
+distinguishingshort-termversuslong-termimpactislargelyarbitrary,asmanydefinitionshavebeenobservedinthelit-
+erature (Martin-Raugh et al.,2020). NCI setting may influence this decision: studies tracking noncognitive change over
+6 ETS Research Report No. RR-22-04. © 2022 Educational Testing Service
+ 23308516, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ets2.12346 by Capes, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=9>>>
+K. M. Williamsetal . Improving Noncognitive Constructs for Career Readiness and Success
+severalyearsappeartobemorecommoninresearchcontexts,whereaspostsecondaryandworkplaceinstitutionsarelikely
+less willing or able to monitor progress over such long durations in operational applications. Instead, given that organi-
+zationsoftenconductperformanceevaluationsannually,1yearmayrepresentapracticaldemarcationpoint.Regardless,
+assessing ultimateimpactis particularlyimportantfor NCIs as noncognitiveconstructchange can be a slow process and
+short-term changes that do not persist could justify retraining efforts. Another practical consideration is that the risk of
+NCIparticipantattritionincreasesovertime,whichdisproportionatelythreatensassessmentofultimateimpactandmust
+befactoredintoinitialsamplesizes.However,itmayalsobebeneficialtoconsiderparticipantattritiontobeanoutcome
+measure itself, as it may reflect poor academic or workplace performance (i.e., dropout or termination, respectively) or
+deficits in specific noncognitive constructs such as persistence or motivation. Martin-Raugh et al.’s(2020)r e v i e wn o t e d
+thatstudiesexaminingthelong-termeffectsofNCIsarefewandtendtogeneratemixedresults(e.g.,teamwork,attitudes),
+suggestingfurtherresearchisneeded.
+Beyondtemporaldistinctions,itispossiblethatthedynamicbetweenintermediateandultimateimpactincludescausal
+linksorotherdependencies.Forexample, short-termdirectchangesinnoncognitiveconstructmayexplainlongerterm
+behavioral changes. Alternatively, intermediate and ultimate impact may occur in stages, in that short-term changes are
+prerequisitesforlong-termeffects.Usinglongitudinaldata,statisticaltechniquessuchasmediationanalysisthroughstruc-
+turalequationmodelingmaybeusedtoevaluatethesepossibilities(e.g.,Cole&Maxwell, 2003).
+Unintended Consequences
+The impact component of the NCI ToC describes positive outcomes of effective NCIs. Conversely, unintended con-
+s e q u e n c e sa r eu n d e s i r a b l eo u t c o m e st h a tm a ya r i s ef r o mt h eN C I so ra c t i o nm e c h a n i s m s .T oc l a r i f y ,t h e s ep o t e n t i a l
+consequencesareobservedwhentheNCIsareexecutedasoutli ned.Thatis,unintendedconsequencesarenottheresultof
+interventionsconductedina mannercontraindicatedby theNCI ToCrecommendations.Forinstance,itispossible that
+moderatoreffectsmaycauselearnerswhoalreadyscorehighlyontargetedconstructs(e.g.,conscientiousness)tobenefit
+more than individuals with low scores—a phenomenon known as the Matthew effect (Merton,1968). Thus, NCIs may
+eventuallywidenthenoncognitiveconstructgapbetweenhigherandlowerskilledindividuals.However,wewouldargue
+thatthiswideningwouldlikelyonlyoccurifmoderatingvariablessuchaspreinterventionlevelsofrelevantnoncognitive
+constructs are not considered during intervention planning and implementation. For example, training for individuals
+weakerintargetconstructscouldbedeliveredinagreaterfrequencyandduration(i.e.,dosage).Inotherwords,thisout-
+come should only occur if the NCI ToC recommendations are not abided, suggesting that this issue does not qualify as
+anunintendedconsequence.
+Conversely, one troublesome unintended consequence of NCIs is that they may encourage participants to exaggerate
+orfabricateassessmentresponsesorbehaviorinamannerthatwouldsuggestnoncognitiveimprovementthatdidnotin
+factoccur.Thispossibilitylikelyincreasesifparticipantsa reincentivizedtodemonstratesuchimprovement.Thisissueis
+similartothosediscussedinvarioussummativeassessmentcontextssuchascollegeadmissions,workplaceselection,or
+professionalaccreditation(e.g.,Birkelandetal., 2006).Inotherwords,socialdesirability,impressionmanagement,coach-
+ing, or other influences may threaten the integrity of formative assessment results. Thus, improvements in noncognitive
+constructscoresmaynotreflectactualimprovementsintheconstructofinterest.Inresearchcontexts,theanalogousand
+equallyseriousconsequencewouldinvolvefalsificationofempiricaldatasupportingtheeffectivenessofNCIs.Thesecon-
+cerns highlight the importance of further research and development into methods for deterring and detecting response
+manipulation, as well as assessment approaches that are less susceptible to faking, such as performance-based measures
+asopposedtoself-reportmeasures.
+A second unintended consequence of NCIs is that some participants may use their improved noncognitive profi-
+ciencies for destructive purposes. For instance, some individuals may use newfound interpersonal skills to unethically
+manipulate customers, clients, or coworkers. A similar concern had been raised in the context of psychopathy interven-
+tions in forensic settings, for instance (Rice etal.,1992). Although these concerns have been subsequently discredited
+(e.g., D’Silva etal.,2004), less is known about this topic in postsecondary and workplace contexts. Similarly, there is
+precedence that interventions may have a counterproductive impact on certain noncognitive constructs; for example,
+diversitytrainingprogramsoccasionallyreinforcesomeparticipants’stereotypicalattitudestowardspecificracialgroups
+(see Bezrukova etal.,2016). These concerns highlight the need to identify participant characteristics—such as the Dark
+T r i a d ,l o wi n t e g r i t y ,o rp o o re t h i c s—t h a tm a yi n t e r a c tw i t hN C I si nd a m a g i n gw a y s .F u r t h e rr e s e a r c hi nt h e s ea r e a s ,a s
+ETS Research Report No. RR-22-04. © 2022 Educational Testing Service 7
+ 23308516, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ets2.12346 by Capes, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=10>>>
+K. M. Williamsetal . Improving Noncognitive Constructs for Career Readiness and Success
+well as integrating measures to screen for these characteristics prior to NCI implementation, should aid in mitigating
+theseconsequences.
+Discussion
+Postsecondary and workplace interventions aimed at improving noncognitive constructs complement those targeting
+moretraditionalareassuchasknowledge,technicalskills,orcognitiveconstructs.TheNCIToCisintendedtoprovidea
+research basisfor planningandevaluatingtheseinterventions.TheNCI ToCmay be considered a“livingdocument,” in
+th a tth er es ul tsfr o mr e leva n tr esea r c ha n dfie lds t udiess h o uldp r o video p po rt uni tiest ot es ta n dpos si b l yr eviseth eT oC.
+Thus,severalfuturedirectionsforbothresearchandpracticeareavailable.
+Future Research: Understudied Constructs
+Despitetheirestablishedconceptualorempiricallinkstoworkplacebehavior,Martin-Raughetal.( 2020)notedresearch
+gaps involving the malleability of several noncognitive constructs. For example, there appears to be little to no research
+involving the effortful malleability of personality constructs such as the Big Five and the Dark Triad. Some research
+has examined these constructs’ longitudinal trajectories in the context of naturalistic changes (e.g., Roberts etal.,2006)
+or clinical intervention (e.g., Roberts etal.,2017); we have discussed their inappropriateness for informing academic
+o rw o r k p l a c ei n t e r v e n t i o n s .Th e s ed e g r e et ow h i c ht h e s ec o n s t r u c t sm a yb ei m p r o v e dt h r o u g hw o r k p l a c e - r e l e v a n t
+interventions is amenable to empirical investigation. Consequently, research disseminations may be considered another
+example ofanimpactoutcome.
+Translating the NCI ToC into ToAs
+A primary distinction between ToCs and ToAs—or program theories and implementation theories, respectively
+(Weiss,1997) —involves their level of specificity. The NCI ToC’s description of general mechanisms of noncognitive
+constructchangemaybeusedtoinformToAsforindividualinterventionprogramsinacademicandworkplacesettings.
+In turn, the focus of ToAs shifts to implementationconcerns such as construct measurement, trainingprogram delivery
+methods, intervention duration and intensity (i.e., “dosage”), and moderators of training efficacy. Intervention setting
+represents another central topic: Although these strategies are intended to improve workplace-relevant noncognitive
+constructs, the interventions themselves may be conducted in academic or workplace contexts. We briefly discussed
+strategies for quantifying change (i.e., statistical methodology), though these may also differ according to the construct
+of interest and the specific intervention. Therefore, these may be elaborated within a ToA. ToAs may also be more
+appropriateforinvestigatingcausallinksbetweenintermediateandultimateimpactspecifictoaparticularintervention.
+Implementation theories may also describe unintended consequences at a more detailed level, thus informing specific
+approachesforminimizingandaddressing such concerns.Overall,resultsfromresearchinvolvingtheseToAsmayhave
+areciprocaleffectininformingpotentialmodificationstoNCIToC.
+Concluding Comments
+As employers and researchers increasingly recognize noncognitive constructs’ value in predicting workplace perfor-
+mance,effortstoimprovetheseconstructsbecomemoresignificant.Morebroadly,theseeffortssignalashiftfromsimple
+predictivevalidityresearchtowardinterventionefficacystudies.Inturn,thepracticalvalueofspecificworkplace-relevant
+noncognitive constructs may be situated on a spectrum from selection applications (less malleable) to training and
+developmentsettings(moremalleable).Ineithercase,apremiumisplacedonthecollectionoflongitudinaldata.Within
+noncognitive constructs, this research should allow stakeholders to differentiate between less effective intervention
+strategies and more successful programs. Although some unintended NCI outcomes are of obvious concern, they are
+largely speculative, and methods for minimizing and detecting these outcomes are provided. Furthermore, the intended
+consequences appear to be far more numerous, including the positive development of various noncognitive constructs
+and improvement in occupational performance. In turn, NCIs should have a positive impact not only on individuals’
+psychological attributes and socioeconomic mobility, but also for the advancement of science and for society as a whole
+(Aguinis&Kraiger, 2009).
+8 ETS Research Report No. RR-22-04. © 2022 Educational Testing Service
+ 23308516, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ets2.12346 by Capes, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=11>>>
+K. M. Williamsetal . Improving Noncognitive Constructs for Career Readiness and Success
+References
+Aguinis, H., & Kraiger, K. (2009). Benefits of training and development for individuals and teams, organizations, and society.Annual
+ReviewofPsychology ,60,451–474.https://doi.org/10.1146/annurev.psych.60.110707.163505
+Alliger,G.M.,Tannenbaum,S.I.,Bennett,W.,Jr.,Traver,H.,&Shotland,A.(1997).Ameta-analysisoftherelationsoftrainingcriteria.
+PersonnelPsychology,50(2),341–358.https://doi.org/10.1111/j.1744-6570.1997.tb00911.x
+Argyris,C.,&Schon,D.A.(1974). Theory in practice:Increasingprofessional effectiveness.J ossey-Bass.
+Arthur, W., Jr., Bennett, W., Jr., Edens, P. S., & Bell, S. T. (2003). Effectiveness of training in organizations: A meta-analysis of design
+and evaluation features.Journal of Applied Psychology,88,234–245.https://doi.org/10.1037/0021-9010.88.2.234
+Barrick,M.R.,&Mount,M.K.(1991).TheBigFivepersonalitydimensionsandjobperformance:Ameta-analysis. PersonnelPsychology,
+44,1–26.https://doi.org/10.1111/j.1744-6570.1991.tb00688.x
+Barrick, M. R., Stewart, G. L., & Piotrowski, M. (2002). Personality and job performance: Test of the mediating effects of motivation
+among sales representatives.Journal of Applied Psychology,87,43–51.https://doi.org/10.1037/0021-9010.87.1.43
+Barth, J., & Lannen, P. (2011). Efficacy of communication skills training courses in oncology: A systematic review and meta-analysis.
+Annals of Oncology,22(5),1030–1040.https://doi.org/10.1093/annonc/mdq441
+Bates, R. (2004). A critical analysis of evaluation practice: The Kirkpatrick model and the principle of beneficence.Evaluation and
+Program Planning,27(3),341–347.https://doi.org/10.1016/j.evalprogplan.2004.04.011
+Beer, V. (1990). Surveymania in HRD program evaluation.Performance Improvement Quarterly,3(3), 2–11. https://doi.org/10.1111/j
+.1937-8327.1990.tb00463.x
+Bennett,R.E.(2010).Cognitivelybasedassessmentof,for,andaslearning(CBAL):Apreliminarytheoryofactionforsummativeand
+formativeassessment. Measurement,8(2–3),70–91.https://doi.org/10.1080/15366367.2010.508686
+Bezrukova, K., Spell, C. S., Perry, J. L., & Jehn, K. A. (2016). A meta-analytical integration of over 40years of research on diversity
+trainingevaluation. PsychologicalBulletin,142(11),1227–1274.https://doi.org/10.1037/bul0000067
+Birkeland,S.A.,Manson,T.M.,Kisamore,J.L.,Brannick,M.T.,&Smith,M.A.(2006).Ameta-analyticinvestigationofjobapplicant
+faking on personality measures.International Journal of Selection and Assessment, 14(4), 317–335. https://doi.org/10.1111/j.1468-
+2389.2006.00354.x
+Bosco,F.A.,Aguinis,H.,Singh,K.,Field,J.G.,&Pierce,C.A.(2015).Correlationaleffectsizebenchmarks. JournalofAppliedPsychol-
+ogy,100(2),431–449.https://doi.org/10.1037/a0038047
+Bowen,D.J.,&Neill,J.T.(2013).Ameta-analysisofadventuretherapyoutcomesandmoderators. OpenPsychologyJournal ,6,28–53.
+https://doi.org/10.2174/1874350120130802001
+Boyatzis, R. (2008). Competencies in the 21st century.Journal of Management Development, 27(1), 5–12. https://doi.org/10.1108/
+02621710810840730
+Brinkerhoff,R.O.,&Dressler,D.(2015).Usingevaluationtobuildorganizationalperformanceandlearningcapability:Astrategyand
+amethod. PerformanceImprovement,54(7),37–44.https://doi.org/10.1002/pfi.21497
+BureauofLaborStatistics.(2018).Employmentprojections.https://www.bls.gov/emp/tables.htm
+Capelli,P.(2012). Whygoodpeoplecan’tgetjobs:Theskillsgapandwhatcompaniescandoaboutit .W harto nDigi talPr ess.
+Cascio,W.F.,&Boudreau,J.W.(2008). Investinginpeople:Financialimpactofhumanresourceinitiatives .FTPr ess.
+Cohen,J.(1988). Statisticalpoweranalysisforthebehavioralsciences (2nded.).Erlbaum.
+Cole, D. A., & Maxwell, S. E. (2003). Testing mediation models with longitudinal data: Questions and tips in the use of structural
+equationmodeling. Journal of Abnormal Psychology,112(4),558–577.https://doi.org/10.1037/0021-843X.112.4.558
+Connell,J.P.,&Klem,A.M.(2000).You canget therefromhere:Usingatheoryofchange approach toplanurbaneducation reform.
+Journal of Educational and Psychological Consultation,11,93–120.
+DeSilva,M.J.,Breuer,E.,Lee,L.,Asher,L.,Chowdhary,N.,Lund,C.,&Patel,V.(2014).Theoryofchange:Atheory-drivenapproachto
+enhance the Medical Research Council’s framework for complex interventions.Trials, 15, 267. https://doi.org/10.1186/1745-6215-
+15-267
+Delise,L.A.,Gorman,C.A.,Brooks,A.M.,Rentsch,J.R.,&Steele-Johnson,D.(2010).Theeffectsofteamtrainingonteamoutcomes:
+Ameta-analysis. PerformanceImprovementQuarterly ,22,53–80.https://doi.org/10.1002/piq.20068
+D’Silva, K., Duggan, C., & McCarthy, L. (2004). Does treatment really make psychopaths worse? A review of the evidence.Journal of
+Personality Disorders,18(2),163–177.https://doi.org/10.1521/pedi.18.2.163.32775
+Duckworth,A.L.,&Yeager,D.S.(2015).Assessingpersonalqualitiesotherthancognitiveabilityforeducationalpurposes. Educational
+Researcher,44(4),237–251.https://doi.org/10.3102/0013189X15584327
+Geisinger,K.F.(2010).Consequencesandvalidity:Anuneasyrelationship. NCMENewsletter,18,7–8.
+George, R. (2019). What is a theory of action? TetraTech International Development. https://intdev.tetratechasiapacific.com/what-is-
+a-theory-of-action/
+ETS Research Report No. RR-22-04. © 2022 Educational Testing Service 9
+ 23308516, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ets2.12346 by Capes, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=12>>>
+K. M. Williamsetal . Improving Noncognitive Constructs for Career Readiness and Success
+Giangreco, A., Carugati, A., & Sebastiano, A. (2010). Are we doing the right thing? Food for thought on training evaluation and its
+context.Personnel Review,39(2),162–177.https://doi.org/10.1108/00483481011017390
+Gignac,G.E.,&Szodorai,E.T.(2016).Effectsizeguidelinesforindividualdifferencesresearchers. PersonalityandIndividualDifferences,
+102,74–78.https://doi.org/10.1016/j.paid.2016.06.069
+Green,M.,&McGill,E.(2011). State of the industry.AmericanSocietyforTrainingandDevelopment.
+Heckman,J.J.(2000).Policiestofosterhumancapital. Research in Economics,54(1),3–56.https://doi.org/10.1006/reec.1999.0225
+Heckman, J. J., & Kautz, T. (2012). Hard evidence on soft skills.Labour Economics, 19(4), 451–464. https://doi.org/10.1016/j.labeco
+.2012.05.014
+Holton, E. F., III, & Naquin, S. S. (2004). New metrics for employee development.Performance Improvement Quarterly,17(1), 56–80.
+https://doi.org/10.1111/j.1937-8327.2004.tb00302.x
+Jackson, E. T. (2013). Interrogating the theory of change: Evaluating impact investing where it matters most.Journal of Sustainable
+Finance&Investment ,3(2),95–110.https://doi.org/10.1080/20430795.2013.776257
+Judge, T. A., & Bono, J. E. (2001). Relationship of core self-evaluations traits – Self-esteem, generalized self-efficacy, locus of control,
+and emotional stability – With job satisfaction and job performance: A meta-analysis.Journal of Applied Psychology,86(1), 80–92.
+https://doi.org/10.1037/0021-9010.86.1.80
+Kautz,T.,Heckman,J.J.,Diris,R.,TerWeel,B.,&Borghans,L.(2014). Fosteringandmeasuringskills:Improvingcognitiveandnoncog-
+nitiveskillstopromotelifetimesuccess (NBERWorkingPaperNo.20749).NationalBureauofEconomicResearch.https://doi.org/10
+.3386/w20749
+Kirkpatrick,D.L.(1996).Greatideasrevisited:Techniquesforevaluatingtrainingprograms – RevisitingKirkpatrick’sfourlevelmodel.
+Training and Development,50,54–59.
+Klein,C.,DiazGranados,D.,Salas,E.,Le,H.,Burke,C.S.,Lyons,R.,&Goodwin,G.F.(2009).Doesteambuildingwork? SmallGroup
+Research,40(2),181–222.https://doi.org/10.1177/1046496408328821
+Klieger, D., Ezzo, C., Bochenek, J., & Cline, F. (2015, April).The predictive validity of non-cognitive skills for graduate and professional
+studentsuccess:Someinitialfindings [Paperpresentation].ValidityandFairnessIssuesinAssessingHigherEducationStudentsSym-
+posium,AnnualMeetingoftheAmericanEducationalResearchAssociation,Chicago,IL,UnitedStates.
+Kline,R.B.(2013). Beyondsignificancetesting:Statisticsreforminthebehavioralsciences (2nded.).AmericanPsychologicalAssociation.
+https://doi.org/10.1037/14136-000
+Kyllonen, P. C. (2012, May).Measurement of 21st century skills within the Common Core State Standards[Paper presentation]. The
+InvitationalResearchSymposiumonTechnologyEnh ancedAssessments,Princeton,NJ,UnitedStates.
+Lacerenza,C.N.,Reyes,D.L.,Marlow,S.L.,Joseph,D.L.,&Salas,E.(2017).Leadershiptrainingdesign,delivery,andimplementation:
+Ameta-analysis. Journal of Applied Psychology,102(12),1686–1718.https://doi.org/10.1037/apl0000241
+Leusner,D.,&Lyon,C.(2008). Providing a research basis for ETS products(ETSResearchMemorandumRM-08-01).ETS.
+Lipsey, M. W., & Wilson, D. B. (1993). The efficacy of psychological, educational, and behavioral treatment.American Psychologist,
+48(12),1181–1209.
+Malen, B., Croninger, R., Muncey, D., & Redmond-Jones, D. (2002). Reconstituting schools: “Testing” the “theory of change”.Educa-
+tional Evaluation and Policy Analysis,24,113–132.https://doi.org/10.3102/01623737024002113
+Martin-Raugh,M.P.,Williams,K.M.,&Lentini,J.E.(2020). The malleability of workplace-relevant noncognitive constructs: Empirical
+evidencefrom 39meta-analysesandreviews (ResearchReportNo.RR-20-23).ETS.https://doi.org/10.1002/ets2.12306
+McCrae, R. R., & Costa, P. T., Jr. (2008). Empirical and theoretical status of the Five-Factor Model of personality traits. In G. Boyle,
+G. Matthews, & D. Saklofske (Eds.),Sage handbook of personality theory and assessment(Vol.1, pp. 273–294). Sage Publications.
+https://doi.org/10.4135/9781849200462.n13
+McFarland,J.,Hussar,B.,deBrey,C.,Snyder,T.,Wang,X.,Wilkinson-Flicker,S.,Gebrekristos,S.,Zhang,J.,Rathbun,A.,Barmer,A.,
+Bullock Mann, F., & Hinz, S. (2017).The condition of education 2017(NCES 2017-144). National Center for Education Statistics.
+https://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2017144
+McLaughlin,J.A.,&Jordan,G.B.(1999).Logicmodels:Atoolfortellingyourprogram’sperformancestory. Evaluation and Program
+Planning,22(1),65–72.https://doi.org/10.1016/S0149-7189(98)00042-1
+Merton,R.K.(1968).TheMattheweffectinscience. Science,159(3810),56–63.
+Msila, V., & Setlhako, A. (2013). Evaluation of programs: Reading Carol H. Weiss.Universal Journal of Education Research, 1(4),
+323–327.https://doi.org/10.13189/ujer.2013.010408
+NationalAssociationofCollegesandEmployers.(2018).Joboutlook2019.
+Paterson, T. A., Harms, P. D., Steel, P., & Credé, M. (2015). An assessment of the magnitude of effect sizes: Evidence from
+30years of meta-analysis in management. Journal of Leadership & Organizational Studies, 23(1), 66–81. https://doi.org/10
+.1177/1548051815614321
+Paulhus, D. L., & Williams, K. M. (2002). The Dark Triad of personality: Narcissism, Machiavellianism, and psychopathy.Journal of
+ResearchinPersonality ,36(6),556–563.https://doi.org/10.1016/S0092-6566(02)00505-6
+10 ETS Research Report No. RR-22-04. © 2022 Educational Testing Service
+ 23308516, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ets2.12346 by Capes, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=13>>>
+K. M. Williamsetal . Improving Noncognitive Constructs for Career Readiness and Success
+Ployhart,R.E.,&Vandenberg,R.J.(2010).Longitudinalresearch:Thetheory,design,andanalysisofchange. Journal of Management,
+36(1),94–120.https://doi.org/10.1177/0149206309352110
+Rice, M. E., Harris, G. T., & Cormier, C. A. (1992). An evaluation of maximum-security therapeutic community for psychopaths and
+othermentallydisorderedoffenders. LawandHumanBehavior ,16(4),399–412.https://doi.org/10.1007/BF02352266
+Roberts, B. W., Kuncel, N. R., Shiner, R., Caspi, A., & Goldberg, L. R. (2007). The power of personality: The comparative validity of
+personality traits, socioeconomic status, and cognitive ability for predicting important life outcomes.Perspectives on Psychological
+Science,2(4),313–345.https://doi.org/10.1111/j.1745-6916.2007.00047.x
+Roberts, B. W., Luo, J., Briley, D. A., Chow, P. I., Su, R., & Hill, P. L. (2017). A systematic review of personality trait change through
+intervention.PsychologicalBulletin,143(2),117–141.
+Roberts, B. W., Walton, K. E., & Viechtbauer, W. (2006). Patterns of mean-level change in personality traits across the life course: A
+meta-analysisoflongitudinalstudies. PsychologicalBulletin,132(1),1–25.https://doi.org/10.1037/0033-2909.132.1.1
+Salas,E.,Burke,S.,Bowers,C.A.,&Wilson,K.A.(2001).Teamtrainingintheskies:Doescrewresourcemanagement(CRM)training
+work?Human Factors,43(4),641–674.https://doi.org/10.1518/001872001775870386
+Salas,E.,DiazGranados,D.,Weaver,S.J.,&King,H.(2008).Doesteamtrainingwork?Principlesforhealthcare. AcademicEmergency
+Medicine,15(11),1002–1009.https://doi.org/10.1111/j.1553-2712.2008.00254.x
+Schanzenbach, D. W., Nunn, R., Bauer, L., Mumford, M., & Breitweiser, A. (2016).Seven facts on noncognitive skills from education to
+thelabor market.Brookings.
+Schlaefli,A.,Rest,J.R.,&Thoma,S.J.(1985).Doesmoraleducationimprovemoraljudgment?Ameta-analysisofinterventionstudies
+usingtheDefiningIssuesTest. ReviewofEducationalResearch ,55(3),319–352.https://doi.org/10.3102/00346543055003319
+Schmidt, F. L., & Hunter, J. E. (1998). The validity and utility of selection methods in personnel psychology: Practical and theoretical
+implicationsof85yearsofresearchfindings. PsychologicalBulletin,124(2),262–274.https://doi.org/10.1037/0033-2909.124.2.262
+Spector,P.E.,Fox,S.,&Domagalski,T.(2006).Emotions,violence,andcounterproductiveworkbehavior.InE.K.Kelloway,J.Barling,
+&J .J .H urr ell,J r .(Eds.),Handbook ofworkplace violence(pp.29–46).Sage.https://doi.org/10.4135/9781412976947.n3
+Teding van Berkhout, E., & Malouff, J. M. (2016). The efficacy of empathy training: A meta-analysis of randomized controlled trials.
+Journal of Counseling Psychology,63(1),32–41.https://doi.org/10.1037/cou0000093
+Van Iddekinge, C. H., Roth, P. L., Putka, D. J., & Lanivich, S. E. (2011). Are you interested? A meta-analysis of relations between
+vocational interests and employee performance and turnover.Journal of Applied Psychology, 96(6), 1167–1194. https://doi.org/10
+.1037/a0024343
+Van Iddekinge, C. H., Roth, P. L., Raymark, P. H., & Odle-Dusseau, H. N. (2012). The criterion-related validity of integrity tests: An
+updatedmeta-analysis. Journal of Applied Psychology,97(3),499–530.https://doi.org/10.1037/a0021196
+Vanhove,A.J.,Herian,M.N.,Perez,A.L.U.,Harms,P.D.,&Lester,P.B.(2016).Canresiliencebedevelopedatwork?Ameta-analytic
+review of resilience-building programme effectiveness.Journal of Occupational and Organizational Psychology, 89(2), 278–307.
+https://doi.org/10.1111/joop.12123
+Weiss,C.H.(1972). Evaluationresearch:Methodsofassessingprogrameffectiveness .Prentice-Hall.
+Weiss, C. H. (1997). Theory-based evaluation: Past, present, and future.New Directions for Evaluation, 76, 68–81. https://doi.org/10
+.1002/ev.1086
+Wholey,J.S.(1979). Evaluation: Promise and performance.Urban Institute.
+Suggested citation:
+Williams,K.M.,Martin-Raugh,M.P.,&Lentini,J.E.(2022). Improvingnoncognitiveconstructsforcareerreadinessandsuccess:Atheory
+ofchangeforpostsecondary,workplace,andresearchapplications (ResearchReportNo.RR-22-04).ETS.https://doi.org/10.1002/ets2
+.12346
+Action Editor:John Sabatini and Sooyeon Kim
+Reviewers: Caroline Wylie and Jonathan Schmidgall
+ETS and the ETS logo are registered trademarks of Educational Testing Service (ETS). All other trademarks are property of their
+respective owners.
+Find other ETS-published reports by searching the ETS ReSEARCHER database at http://search.ets.org/researcher/
+ETS Research Report No. RR-22-04. © 2022 Educational Testing Service 11
+ 23308516, 2022, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ets2.12346 by Capes, Wiley Online Library on [03/09/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

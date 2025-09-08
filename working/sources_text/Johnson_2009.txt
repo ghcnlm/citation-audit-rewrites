@@ -1,0 +1,2050 @@
+<<<PAGE=1>>>
+Research on Evaluation Use
+A Review of the Empirical Literature
+From 1986 to 2005
+Kelli Johnson
+Lija O. Greenseid
+Stacie A. Toal
+Jean A. King
+Frances Lawrenz
+University of Minnesota
+Boris Volkov
+University of North Dakota
+This paper reviews empirical research on the use of evaluation from 1986 to 2005 using Cousins
+and Leithwood’s 1986 framework for categorizing empirical studies of evaluation use conducted
+since that time. The literature review located 41 empirical studies of evaluation use conducted
+between 1986 and 2005 that met minimum quality standards. The Cousins and Leithwood
+framework allowed a comparison over time. After initially grouping these studies according
+to Cousins and Leithwood’s two categories and twelve characteristics, one additional
+category and one new characteristic were added to their framework. The new category is
+stakeholder involvement, and the new characteristic is evaluator competence (under the
+category of evaluation implementation). Findings point to the importance of stakeholder
+involvement in facilitating evaluation use and suggest that engagement, interaction, and
+communication between evaluation clients and evaluators is critical to the meaningful use of
+evaluations.
+Keywords: evaluation use; evaluation influence; stakeholder involvement; literature review;
+research on evaluation
+I
+n recent years, scholars have advanced calls for research on program evaluation and
+especially on the impact of evaluations (e.g., Henry & Mark, 2003b; Scriven, 2007). As
+Henry and Mark state, there is ‘‘a serious shortage of rigorous, systematic evidence that can
+guide evaluation or that evaluators can use for self-reflection or for improving their next
+evaluation’’ (2003b, p. 69). A time-honored method for providing guidance entails synthesiz-
+ing existing research to identify what is known about evaluations and what remains to be
+investigated. This is the approach taken in the current review of evaluation use, one of the few
+Authors’ Note:This material is based on work supported by the National Science Foundation under Grant No. REC
+0438545. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the
+authors and do not necessarily reflect the views of the National Science Foundation. The authors gratefully
+acknowledge Stuart Appelbaum for his contributions to this article. Correspondence concerning this article should
+be addressed to Kelli Johnson, University of Minnesota, 2221 University Avenue SE, Suite 345, Minneapolis, MN
+55414; phone:þ1 (612) 624-1457; e-mail: johns706@umn.edu.
+American Journal of
+Evaluation
+Volume 30 Number 3
+September 2009 377-410
+# 2009 American Evaluation
+Association
+10.1177/1098214009341660
+http://aje.sagepub.com
+hosted at
+http://online.sagepub.com
+377
+<<<PAGE=2>>>
+topics in evaluation on which numerous empirical studies exist. Christie (2007, p. 8) notes,
+‘‘Evaluation utilization is arguably the most researched area of evaluation and it also receives
+substantial attention in the theoretical literature.’’ We define evaluation use or utilization—
+evaluation scholars use the terms interchangeably—as the application of evaluation processes,
+products, or findings to produce an effect.
+Since the 1970s, naming the types of evaluation use has been the subject of continuing dis-
+cussion. In reviewing this discussion to date, Alkin and Taut (2003) label two distinct aspects
+of use: process use and use of evaluation findings. Process use is the newer concept, defined by
+Patton (1997, p. 90) as ‘‘individual changes in thinking and behavior and program or organiza-
+tional changes in procedures and culture that occur among those involved in evaluation as
+a result of the learning that occurs during the evaluation process.’’ The use of findings is
+traditionally divided into three types: instrumental, conceptual, or symbolic (King & Pechman,
+1984; Leviton & Hughes, 1981). Instrumental use refers to instances where someone has used
+evaluation knowledge directly. Conceptual use refers to cases when no direct action has been
+taken but where people’s understanding has been affected. Symbolic use refers to examples
+when a person uses the mere existence of the evaluation, rather than any aspect of its results,
+to persuade or to convince.
+Moving beyond the first quarter century of use research, the new millennium has witnessed
+theoretical activity that has reconceptualized the field’s understanding of its impact. Scholars
+now view evaluations as having intangible influence on individuals, programs, and commu-
+nities. Focusing solely on the direct use of either evaluation results or processes has not
+adequately captured broader level influences (Alkin & Taut, 2003; Henry & Mark, 2003a,
+2003b; Kirkhart, 2000; Mark & Henry, 2004). What has potentially emerged from this activity
+is a more nuanced understanding of evaluation’s consequences using evaluation influence as a
+unifying construct. Kirkhart’s ‘‘integrated theory’’ defines influence as ‘‘the capacity or power
+of persons or things to produce effects on others by intangible or indirect means’’ (2000, p. 7).
+Kirkhart envisions three dimensions of evaluation influence, represented as a cube-like figure:
+source (evaluation process or results), intention (intended or unintended), and time (immedi-
+ate, end-of-cycle, long-term).
+Mark and Henry (Henry & Mark, 2003a, 2003b; Mark & Henry, 2004; Mark, Henry, &
+Julnes, 1999) have also pushed for broadening the way evaluators conceptualize the conse-
+quences of their work. They argue that the goal of evaluation is social betterment and suggest
+the need to identify the mechanisms through which evaluations lead to this ultimate goal along
+differing paths of influence and at different levels (i.e., individual, interpersonal, and collec-
+tive). Mark and Henry map out a logic model for evaluation, focusing on evaluation conse-
+quences related to the improvement of social conditions. Just as program theory connects
+program activities with outcomes while also explaining the processes through which the
+outcomes are achieved, program theory of evaluation by Mark and Henry identifies evaluation
+as an intervention with social betterment as its ultimate outcome. They label traditional notions
+of instrumental, conceptual, and persuasive use more specifically as, for example, skill acqui-
+sition, persuasion, or standard setting. These, then, would be the mechanisms through which
+social betterment can be achieved.
+Building on these ideas, Alkin and Taut (2003) carefully distinguish between evaluation
+use and influence. To them, evaluation use ‘‘refers to the way in which an evaluation and
+information from the evaluation impacts the program that isbeing evaluated’’ (Alkin &
+Taut, 2003, p. 1). In their view, evaluators are aware of these evaluation impacts, both
+intended and unintended. By contrast, ‘‘the concept of influence adds to the concept of use
+in instances in which an evaluation hasunaware/unintended impacts’’ (p. 9, emphasis in
+original).
+378 American Journal of Evaluation / September 2009
+<<<PAGE=3>>>
+Structuring the Present Review
+In structuring this literature review, we considered several options. Cousins (2003) draws a
+logic model for program evaluation that builds on the knowledge utilization literature, but its
+focus on participatory evaluation made it inappropriate for a review of evaluation use research.
+Cousins, Goh, Clark, and Lee (2004) present a comprehensive framework of evaluative
+inquiry as an organizational learning system, but, again, it includes many concepts other than
+evaluation use.
+Given the emergence of influence as a construct, another possibility was to apply the new
+concept to analyze the existing literature. This proved impractical for three reasons. First,
+some of the research we reviewed was conducted before Kirkhart’s (2000) work was pub-
+lished. Second, given the newness of the term, there was little empirical research on influence,
+although we did include it in our searches. Indeed, even studies conducted in the 5 years since
+the term emerged (2000–2005) did not necessarily examine evaluation influence; moreover,
+examining use through the lens of influence was not necessarily helpful because influence
+is indirect and we were examining direct use. Third, and perhaps most important, the concept
+of influence presented in Henry and Mark (2003a, 2003b) and Mark and Henry (2004) was not
+defined, and the discussion of pathways, processes, and mechanisms did not provide sufficient
+clarity to structure the review (Nunneley, 2008; Weiss, Murphy-Graham, & Birkeland, 2005).
+We decided, therefore, to use the seminal study that Cousins and Leithwood conducted in
+1986—one of the most ambitious and rigorous reviews of empirical research on evaluation use
+ever conducted—as the underlying structure for this review, as well as more recent work by
+Shulha and Cousins (1997). Although Cousins’ own conceptualizations of the topic have
+evolved since this point, the taxonomy of evaluation use presented in the 1986 model was the
+most comprehensive, well defined, and concrete.
+Cousins and Leithwood Framework
+Cousins and Leithwood (1986) identified 65 empirical studies of evaluation use conducted
+between 1971 and 1985 through computerized searches of keywords including ‘‘evaluation
+utilization,’’ ‘‘data use,’’ ‘‘decision making,’’ and ‘‘knowledge utilization.’’ They supplemen-
+ted this process with manual searches of relevant journals and other literature reviews. After
+establishing their sample, Cousins and Leithwood coded each study according to its orienta-
+tion toward dependent variables (i.e., the type of use examined: use as decision making, use
+as education, use as the processing of information, or ‘‘potential’’ use) and its orientation
+toward independent variables.
+The aspects of evaluation use examined in the 65 empirical studies were clustered into two
+categories of factors related to evaluation use: (a) characteristics of evaluation implementa-
+tion, and (b) characteristics of the decision or policy setting. Each of these categories contained
+six characteristics. The six evaluation implementation characteristics were (a) evaluation
+quality, (b) credibility, (c) relevance, (d) communication quality, (e) findings, and (f) timeli-
+ness. The six decision- or policy-setting characteristics were (a) information needs, (b) decision
+characteristics, (c) political climate, (d) competing information, (e) personal characteristics,
+and (f) commitment or receptiveness to evaluation. Using a ‘‘prevalence of relationship’’
+index, Cousins and Leithwood (1986) identified evaluation quality as the most important char-
+acteristic, followed by decision characteristics, receptiveness to evaluation, findings, and
+relevance.
+Johnson et al. / Research on Evaluation Use 379
+<<<PAGE=4>>>
+Shulha and Cousins (1997) described developments that had occurred since the review by
+Cousins and Leithwood, including the following:
+The rise of considerations of context as critical to understanding and explaining use; identification
+of process use as a significant consequence of evaluation activity; expansion of conceptions of use
+from the individual to the organization level; and diversification of the role of the evaluator to
+facilitator, planner and educator/trainer (p. 195).
+The present review incorporates these developments as well.
+Importantly, these two major reviews of the use literature (Cousins & Leithwood, 1986;
+Shulha & Cousins, 1997) differ in that the first considered only empirical research whereas
+the more recent included theoretical or reflective case narratives in addition to empirical stud-
+ies. Yet, many potentially instructive studies were excluded from the 1997 review, either
+because they were conducted as doctoral dissertations or because they were not published
+in journals. Neither review took into account the quality of the evidence gathered in the indi-
+vidual studies when synthesizing the results. Consequently, the findings from studies in which
+there could be serious methodological flaws potentially were presented alongside higher qual-
+ity, rigorously conducted studies. To rectify these concerns, the current review included
+empirical studies of evaluation use; examined journal articles, dissertations, reports, and book
+chapters; and screened each study according to a predetermined set of criteria related to meth-
+odological quality. In this review, we employ the term ‘‘use’’ rather than ‘‘influence,’’
+although we view use broadly. We attempt to identify it as ‘‘process use’’ or ‘‘use of findings’’
+and classify it as instrumental, conceptual, or symbolic.
+Method
+The research team collected relevant publications by conducting electronic searches for the
+terms ‘‘evaluation utilization,’’ ‘‘evaluation use,’’ and ‘‘evaluation influence’’ in PsycINFO,
+Education Resources Information Center (ERIC), Education (Sage), Social Services Abstracts,
+Sociological Abstracts, and Digital Dissertations in keywords, titles, descriptors, and abstracts.
+Additionally, the team consulted other published literature reviews, including Hofstetter and
+Alkin (2003). Finally, the team conducted a manual review (looking for relevant research
+based on titles) of the following evaluation-related journals:American Journal of Evaluation,
+Canadian Journal of Program Evaluation, Evaluation, Evaluation Practice, Evaluation
+and Program Planning, Evaluation Review, New Directions for Evaluation, and Studies in
+Educational Evaluation. The searches examined only the literature written in English,
+although the authors did not exclude research conducted outside the United States.
+The searches returned over 600 journal articles, reports, and book chapters and 48 disserta-
+tions. After scanning publication titles and abstracts, the team eliminated clearly irrelevant
+publications. Then, the team closely reviewed 321 abstracts to assess whether the publication
+met the following criteria: (a) an empirical research study (to be considered an empirical study
+the article had to present information about the data collection methods used to inform the
+claims made); (b) a focus on program or policy evaluation or needs assessment (not personnel
+evaluation, accountability/student assessment studies, data-driven decision making, etc.); (c) a
+published journal article, book, publicly accessible evaluation report, or dissertation (not a
+conference presentation or other nonpublished work); (d) the inclusion of evaluation use or
+influence as at least one of the variables under study; and (e) a publication date between
+January 1, 1986 and December 31, 2005.
+380 American Journal of Evaluation / September 2009
+<<<PAGE=5>>>
+After the abstract review, the team identified 98 publications that warranted a full-text
+review; these were subsequently screened again on all five criteria. This process yielded 47
+articles that initially comprised the basis for this analysis. At least two trained screeners cate-
+gorized and critiqued each study using a standardized review form developed and refined with
+the input of several evaluation experts.
+The rating form contained questions about each study’s methodology, choice of theory,
+operationalization of dependent variable (measures of use), and independent variables (char-
+acteristics affecting use). In addition, as noted, a quality rating was assigned to each study. The
+quality rating was based on criteria adapted from Guarino, Santiban˜ez, Daley, and Brewer
+(2004) and Guba and Lincoln (1989). It considered aspects such as the clarity of the problem
+statement, soundness of research design, strength of the link between evidence presented and
+conclusions, and the extent to which bias was addressed. The team also assessed the sample
+size and selection, measurement of variables, and statistical interpretation of the quantitative
+studies, as well as the methodological appropriateness, transparency, descriptive richness, and
+statement of researcher biases of the qualitative studies.
+The reviewers independently assigned quality ratings across five levels: poor, adequate-low,
+adequate-solid, adequate-high, and excellent. If the screeners did not agree on any particular
+aspect of the review, the article was brought to a team meeting during which it was discussed
+and consensus among the six researchers was reached regarding the rating. Although this
+consensus-driven process for reviewing and assigning quality ratings was time-consuming, the
+resulting judgments represent the agreement of two professors of evaluation and then four
+evaluation doctoral students. We believe our process was both representative and fair.
+On completion of this in-depth screening process, 41 of 47 studies (87.2%) were found to be
+adequate or above. Six of the studies (12.8%) were rated as poor and eliminated from our sam-
+ple. These ‘‘poor’’ studies suffered from a cursory description of the methods, weak sampling
+or data analysis methods, poor measurements of use (e.g., not providing definitions of use and/
+or using only one question as a measure of use), poorly supported generalizations, and/or
+inadequate attention to likely researcher biases. The 41 studies that exceeded the minimum
+quality criteria were used in the analyses presented below and are described in detail in the
+Appendix. Six of these studies were published outside the United States.
+Findings
+Findings from the 41 studies are presented following the framework of 2 categories—
+evaluation implementation and decision or policy setting—and 12 characteristics by Cousins
+and Leithwood (1986). These two categories were helpful for organizing the majority of the
+studies found in this recent literature. Nearly half of the articles (20 of 41) looked at the eva-
+luation implementation category, and an equal number (20 of 41) examined the decision- or
+policy-setting category. The characteristics under each of these categories were all examined
+in at least one article, with the most prevalent characteristic, communication quality, of
+Cousins and Leithwood appearing in 11.
+However, as suggested by Shulha and Cousins (1997), changes in the conceptualizations
+about use have occurred, so new characteristics might be expected to emerge. In fact, 25 of
+the 41 studies in this review examined elements that were not covered by the 1986 framework.
+Consequently, we added one characteristic—evaluator competence—to the evaluation
+implementation category. In addition, we created an entirely new category—stakeholder
+involvement—to accommodate the categorization of the 25 studies that examined aspects
+of evaluation use that were not represented in the original Cousins and Leithwood framework.
+Johnson et al. / Research on Evaluation Use 381
+<<<PAGE=6>>>
+Evaluator competence. This is a new characteristic under evaluation implementation that
+has emerged since the development of the Cousins and Leithwood framework. Of the 41 stud-
+ies in this review, six addressed the characteristics of evaluators, suggesting that evaluation
+professionals play an important role in conducting evaluations that get used, albeit for different
+reasons. Although the characteristic of credibility by Cousins and Leithwood gave some con-
+sideration to the evaluator’s title or reputation, the definition did not extend to the influential
+nature of the evaluator’s personal competence or leadership as a means of affecting the level of
+evaluation use. Moreover, whereas the credibility characteristic addresses what the evaluator
+does (e.g., methods selected, criteria used), the new evaluator competence characteristic
+focuses more on who the evaluator is.
+Stakeholder involvement.This is a new category that has been added to the original Cousins
+and Leithwood framework to account for more recent research. The addition of this category
+reflects the increased research focused on participatory evaluation approaches, stakeholder or
+decision-maker participation, and/or stakeholder or decision-maker involvement since 1985.
+Under the rubric of stakeholder involvement, we have identified nine characteristics. Eight
+of them mirror those identified by Cousins and Leithwood but with the addition of involve-
+ment to each. The original framework included research on the impact of direct decision-
+maker involvement on use under commitment or receptiveness to evaluation. However, in the
+current review, over half (23 of 41) of the studies addressed involvement, and the bulk of these
+suggested that it was related to other category characteristics in their relationship with use.
+Using the resulting modified Cousins and Leithwood framework, we classified the 41 stud-
+ies of evaluation use from 1986 to 2005 according to 3 categories and 22 specific character-
+istics. The most frequently studied characteristics were ‘‘involvement and commitment/
+receptiveness to evaluation’’ (14 studies), followed by communication quality (11 studies) and
+personal characteristics of users (9 studies). The least frequently studied characteristics were
+‘‘involvement and information needs’’ and ‘‘involvement and decision characteristics,’’ each
+appearing in a single study. About 40% of the studies (16 of 41) examined only a single char-
+acteristic, with half of that group (8 of 16) studying a characteristic under the stakeholder
+involvement category. The remainder of the studies examined multiple characteristics, ranging
+from two to nine characteristics per study.
+Table 1 defines each category, presents its related characteristics, and lists the studies that
+examined each. Because the variables described in the studies did not always allow for obvious
+categorization into the framework, this represents the authors’ best effort at accurately inter-
+preting and deciding where the studies fit. The Appendix provides a summary of each study’s
+focus, types of use, sample, categories, and findings. In terms of the types of evaluation use,
+the information presented in the Appendix shows that the clear majority of the studies focused
+on use of findings rather than process use. Only three studies examined process use, perhaps
+because the concept of explicit process use is fairly recent. Within the use of findings, instru-
+mental use was studied more frequently than conceptual use, which was typically linked to
+instrumental use when researchers asked respondents whether actions were likely to be taken.
+There were only a few studies that examined symbolic use.
+Discussion
+The purpose of this study was to review empirical research on evaluation use for the 25-year
+period between 1986 and 2005. Basing the review on the framework of Cousins and
+Leithwood allowed a comparison over time, and including other types of research (e.g.,
+382 American Journal of Evaluation / September 2009
+<<<PAGE=7>>>
+Table 1
+Studies Examining Use by Category and Characteristics of Variables
+Category Characteristic Description of Characteristic # of Studies Relationship to Evaluation Use Articles that Studied Characteristic
+Evaluation
+implementation
+Communication
+quality
+Clarity and frequency of reporting
+results, evaluator advocacy for
+results, breadth of dissemination.
+Also includes the type of recom-
+mendations in the report and the
+process of communication
+between evaluators and clients
+11 Frequently among the most
+important elements related to
+evaluation use. Detailed,
+actionable, evidence-based
+recommendations increased
+use. By contrast, two studies
+found no relationship with use
+Bober and Bartlett (2004)
+Boyer and Langbein (1991)
+Chin (2003)
+Eisendrath (1988)
+Johnston (1986)
+Malen, Murphy, and Geary (1988)
+Marra (2003)
+Marsh and Glassick (1988)
+Rockwell, Dickey, and Jasa (1990)
+Shea (1991)
+Sleezer (1987)
+Timeliness Timing of the evaluation in larger
+context; timeliness of reporting
+when evaluation is completed;
+timing of dissemination to decision
+makers
+7 Most found positive relationship
+between timing and evaluation
+use. One study found that
+timeliness was not important in
+determining use
+Bamberger (2004)
+Barrios (1986)
+Bober and Bartlett (2004)
+Boyer and Langbein (1991)
+Eisendrath (1988)
+Rockwell et al. (1990)
+Shea (1991)
+Evaluator
+competencea
+Personal characteristics of the eva-
+luator outside the evaluation pro-
+cess, level of cultural competence,
+leadership style of evaluator
+6 Most studies suggest that evalua-
+tor competence is important to
+evaluation use
+Barrios (1986)
+Boyer and Langbein (1991)
+Callahan, Tomlinson, Hunsaker,
+Bland, and Moon (1995)
+Cousins (1996)
+Greene (1987)
+Shea (1991)
+Evaluation quality Characteristics of the evaluation
+process, sophistication of methods,
+rigor, type of evaluation model
+6 Some studies found a link
+between quality and use,
+although less important than
+recommendations and commu-
+nication. One study did not
+find relationship between
+quality and use
+Bamberger (2004)
+Bober and Bartlett (2004)
+Johnston (1986)
+Rockwell et al. (1990)
+Shea (1991)
+Potts (1998)
+(continued)
+Johnson et al. / Research on Evaluation Use 383
+383
+<<<PAGE=8>>>
+Table 1.(continued)
+Category Characteristic Description of Characteristic # of Studies Relationship to Evaluation Use Articles that Studied Characteristic
+Findings Nature of findings (e.g., positive or
+negative), extent of congruence
+with audience expectations, value
+of findings for decision making
+6 Mixed conclusions. In two stud-
+ies findings were important to
+use, though less so than com-
+munication, timeliness, and
+evaluation quality
+Barrios (1986)
+Bober and Bartlett (2004)
+Boyer and Langbein (1991)
+Johnson (1993)
+Malen et al. (1988)
+Weiss, Murphy-Graham, and
+Birkeland (2005)
+Relevance Extent to which the information pro-
+vided in the evaluation is relevant
+to the decision maker, and the
+organizational location of the
+evaluator
+6 Mixed conclusions. Two studies
+did not find relevance to be
+important to use, but two
+studies found stronger rela-
+tionships between information
+relevance and use
+Barrios (1986)
+Bober and Bartlett (2004)
+Boyer and Langbein (1991)
+Cousins (1995)
+Greene (1987)
+Shea (1991)
+Credibility The objectivity, believability, and
+appropriateness of the evaluation
+process and/or of the activities of
+the evaluator
+4 Split findings. Two studies found
+strong relationship with eva-
+luation use; two studies found
+no such relationship
+Barrios (1986)
+Bober and Bartlett (2004)
+Boyer and Langbein (1991)
+Johnson (1993)
+Decision or policy
+setting
+Personal
+characteristics
+Characteristics of the evaluation user,
+for example, organizational role of
+decision maker, information pro-
+cessing style, social characteris-
+tics, and so on
+9 Differences in users’ learning
+styles, job positions, adminis-
+trative level, and experience
+level influence the use of
+evaluations
+Bober and Bartlett (2004)
+Boyer and Langbein (1991)
+Carpinello (1989)
+Combs (1999)
+Crotti (1993)
+Earl (1995)
+Hopstock, Young, and Zehler (1993)
+Marra (2003)
+Santhiveeran (1995)
+Commitment and/
+or receptiveness
+to evaluation
+User attitudes toward the evaluation
+and commitment to conducting
+evaluation; the extent to which the
+organization is resistant to evalua-
+tion; the open-mindedness of eva-
+luation stakeholders
+8 Some studies found that commit-
+ment, active organizing efforts,
+and supportive backers
+increased use. One study found
+that attitude toward evaluation
+did not affect use
+Boyer and Langbein (1991)
+Crotti (1993)
+Johnson (1993)
+Malen et al. (1988)
+Marra (2003)
+McCormick (1997)
+Rinne (1994)
+Santhiveeran (1995)
+(continued)
+384 American Journal of Evaluation / September 2009
+384
+<<<PAGE=9>>>
+Political climate The political orientation of the people
+who commissioned the evaluation,
+the extent to which decision maker
+is dependent on external sponsors,
+internal rivalries, budget fights,
+and power struggles
+6 Generally, attending to political
+climate was found to increase
+use
+Eisendrath (1988)
+Haddock (1998)
+Johnston (1986)
+Malen et al. (1988)
+Santhiveeran (1995)
+Weiss et al. (2005)
+Decision
+characteristics
+The significance of the decision or
+evaluation problem, the type of
+decision to be made, the novelty of
+the program area
+5 Each of the five studies reported
+connections between decision
+characteristics and evaluation
+use
+Barrios (1986)
+Brown-McGowan (1992)
+Eisendrath (1988)
+Malen et al. (1988)
+Newman, Brown, and Rivers (1987)
+Competing
+information
+Information related to the subject of
+the evaluation and available to
+stakeholders from outside the eva-
+luation process, that is, through
+personal observation, that com-
+petes with evaluation data
+3 Contradictory findings. One
+study found that a large amount
+of competing information did
+not affect instrumental use,
+whereas another found that
+high-level policy officials used
+the evaluation results only
+when they were supported by
+other sources of information
+Eisendrath (1988)
+Johnson (1993)
+Weiss et al. (2005)
+Information needs
+of the evalua-
+tion audiences
+Information needs of the evaluation
+audience, the types of information,
+the number of audiences with dif-
+fering information needs, time
+pressure, and perceived need for
+evaluation
+2 Both studies found that attending
+to the audience’s information
+needs positively influenced the
+use of evaluation results
+Hopstock et al. (1993)
+Rinne (1994)
+(continued)
+Johnson et al. / Research on Evaluation Use 385
+385
+<<<PAGE=10>>>
+Table 1.(continued)
+Category Characteristic Description of Characteristic # of Studies Relationship to Evaluation Use Articles that Studied Characteristic
+Stakeholder
+involvement
+Involvement with
+commitment or
+receptiveness to
+evaluation
+Involving evaluation stakeholders
+creates a commitment or recep-
+tiveness to evaluation
+14 For the most part, commitment
+that was strengthened by
+involvement in the evaluation
+was found to positively influ-
+ence evaluation use. In one
+study, the involvement of a
+committed executive officer
+was essential to the imple-
+mentation of evaluation
+findings
+Altschuld, Yoon, and Cullen (1993)
+Ayers (1987)
+Barrios (1986)
+Brown-McGowan (1992)
+Callahan et al. (1995)
+Earl (1995)
+Eisendrath (1988)
+Greene (1987)
+Greene (1988)
+Haddock (1998)
+Lafleur (1995)
+Lee and Cousins (1995)
+Rockwell et al. (1990)
+Shea (1991)
+Involvement with
+communication
+quality
+Stakeholder involvement promotes
+improved communication
+5 All five studies identified ways in
+which stakeholder involvement
+led to greater use
+Bamberger (2004)
+Cousins (1995)
+Forss, Cracknell, and Samset (1994)
+Greene (1988)
+Lafleur (1995)
+Direct stakeholder
+involvement
+The direct relationship between
+involvement and evaluation use
+4 All studies reported involve-
+ment’s positive influence on
+various types of use
+Cai (1996)
+Preskill and Caracelli (1997)
+Sperlazza (1995)
+Turnbull (1999)
+Involvement with
+credibility
+Stakeholder involvement led to
+increased credibility of the eva-
+luation process and/or the
+evaluator
+4 Three of the four studies observed
+a strong relationship with use
+Cousins (1995)
+Greene (1987)
+Lafleur (1995)
+Shea (1991)
+Involvement with
+findings
+Involving evaluation stakeholders in
+knowing and understanding the
+evaluation findings
+4 Three studies emphasized that
+involvement related to the
+findings was important to eva-
+luation use
+Cousins (1995)
+Greene (1987)
+Lafleur (1995)
+Shea (1991)
+(continued)
+386 American Journal of Evaluation / September 2009
+386
+<<<PAGE=11>>>
+Involvement with
+relevance
+Stakeholder participation to integrate
+important organizational concerns
+into the evaluation design
+4 For the most part, increased con-
+tact with stakeholders fostered
+increased relevance that
+resulted in increased evalua-
+tion use
+Cousins (1995)
+Greene (1987)
+Lafleur (1995)
+Shea (1991)
+Involvement with
+personal
+characteristics
+Involvement of evaluation stake-
+holders at different organizational
+levels
+2 Findings of one study suggest that
+involvement of managers
+affects use more extensively
+than involving other staff
+Cousins (1995)
+McCormick (1997)
+Involvement with
+decision
+characteristics
+Involving of a range of stakeholders
+in different settings depending on
+the characteristics of the decision
+that needs to be made
+1 This study found a positive rela-
+tionship between evaluation
+use and involvement by indi-
+viduals in nontraditional
+bureaucracies where decision
+making involves input from
+people at all levels in the
+organization
+Johnson (1993)
+Involvement with
+information
+needs
+The involvement of stakeholders
+facilitated the introduction of their
+information needs
+1 Involved stakeholders’ desire for
+information and the timeliness
+of the evaluation fostered
+information ownership, which
+was positively related to use
+Rockwell et al. (1990)
+a Evaluator competence was not a category in the Cousins and Leithwood framework, but authors propose it as a new characteristic in the evaluation implementation category.
+Johnson et al. / Research on Evaluation Use 387
+387
+<<<PAGE=12>>>
+dissertations) broadened its scope. This literature review located 41 empirical studies of
+evaluation use conducted between 1986 and 2005 that met minimum quality standards.
+Most of the studies (38 of 41) examined the use of findings rather than process use; only
+three studies examined process use. The lack of attention to process use in the articles included
+in this review might have resulted from the fact that the concept of explicit process use is fairly
+recent, and the field is still more focused on outcomes and results. Alternatively, it might be
+that empirical studies are more likely to focus on the use of results because measuring process
+use is less well defined. Finally, the limited attention to process use might have resulted from
+our search strategy, which excluded evaluation capacity building studies, many of which mea-
+sured organizational learning through the evaluation process. These studies are not included in
+this review but are synthesized in a publication by Cousins et al. (2004). After the findings
+were categorized according to the Cousins and Leithwood framework, one additional category
+(stakeholder involvement) and one new characteristic (evaluator competence) emerged. These
+additions align with the comments of Shulha and Cousins (1997) made more than 10 years ago
+about changes in the field, especially the diversification of the evaluator’s role.
+The stakeholder involvement category reflects the expansion of participatory evaluation
+methods. The framework of Cousins and Leithwood included stakeholder involvement under
+the ‘‘commitment and/or receptiveness to evaluation’’ characteristic within the decision- and
+policy-setting category. This was sufficient in the mid-1980s because only 10% of the studies
+in their review included involvement, and these were all related to the effects of involvement
+on stakeholders’ commitment or receptiveness to evaluation. In addition, four of the studies in
+the current review directly examined the relationship between stakeholder involvement and
+evaluation. This dynamic was not present in any of the studies examined by Cousins and Leith-
+wood. The emergence of this new category suggests that evaluators may want to focus on
+involving stakeholders as a way to enhance evaluation use. The addition of the evaluator com-
+petence characteristic indicates a growing acknowledgment of the importance of the compe-
+tence of individual evaluators, both professionally and culturally—and the value of these
+characteristics in efforts to increase evaluation use.
+Some studies—Shea (1991), Bober and Bartlett (2004), Boyer and Langbein (1991), and
+Malen, Murphy, and Geary (1988)—examined multiple characteristics. It seemed possible that
+these studies might help us think about evaluation influence by identifying important variables
+in a sequence suggestive of a pathway, at least at the individual level. This effort failed because
+the studies examined variables related to use, not pathways leading to it. Identifying pathways
+was a creative activity rather than a way to summarize the research. As Weiss et al. (2005)
+found when they sought influence pathways after the fact in their drug abuse resistance edu-
+cation (DARE) study, ‘‘We became bogged down in unique tangles of strings [of pathways]
+... . We are on less sure ground trying to reconstruct individual and interpersonal processes
+that were reported to us some 2 to 8 years after the events.’’ In other words, the existing empiri-
+cal research on evaluation use has identified a collection of important variables, but research
+on influence pathways will necessitate a different strategy. In settings that have specific out-
+come variables and sufficient interval data on other variables, path analysis might be one
+potential method. Future research might focus on developing quantitative outcome and process
+measures that could then be used to gather enough data to conduct path analyses and determine
+models displaying the relationships among the process measures and the outcomes.
+It is impossible, finally, to answer the question of which characteristics are most related to
+increasing the use of evaluations in a straightforward manner. A meta-analysis of the studies is not
+possible because the studies do not operationalize or measure the variables in the same manner.
+Cousins and Leithwood compensated for this problem by creating a quantitative index that
+weighed the number of positive, negative, and nonsignificant findings for each characteristic to
+create a ‘‘prevalence of relationship’’ index. Based on this index, they concluded that evaluation
+388 American Journal of Evaluation / September 2009
+<<<PAGE=13>>>
+quality and decision characteristics were most highly related to use, followed by evaluation find-
+ings, users’ commitment or receptiveness to evaluation, and evaluation relevance.
+This index provides a means of comparing findings across a variety of studies. Unfortu-
+nately, drawing conclusions about which characteristics are related to use remains problematic
+because this type of meta-synthesis is highly affected by the components that researchers
+chose to include, and it may not include what is actually occurring. In addition, the publication
+process may exclude studies with inconclusive or negative findings. Instead, the current study
+discusses those elements that appear to be most ‘‘empirically supported’’—meaning those ele-
+ments that are both highly studied and supported by strong evidence of a positive relationship
+to evaluation use. Reframing the conversation to discuss ‘‘empirically supported’’ character-
+istics also allows the suggestion of evidence-based practices that evaluators can employ to
+increase the use of their evaluations.
+Framed with these cautions in mind, we identified the following empirically supported fac-
+tors that promote the use of evaluation. Findings highlight the importance of stakeholder invol-
+vement in facilitating evaluation use. In several studies, involvement was found to facilitate an
+evaluation process that, in turn, improved the evaluation implementation characteristics. In
+other studies, stakeholder involvement supported decision making or policy setting that fos-
+tered greater capacity for using evaluation information. Stated differently, stakeholder invol-
+vement is a mechanism that facilitates those aspects of an evaluation’s process or setting that
+lead to greater use. More than just involvement by stakeholders or decision makers alone, how-
+ever, the findings from this literature review suggest that engagement, interaction, and com-
+munication between evaluation clients and evaluators is key to maximizing the use of the
+evaluation in the long run.
+Limitations
+Features of the research method used in this study, particularly the choice to limit the
+review to empirical studies of evaluation use conducted between 1986 and 2005, precluded
+consideration of any theoretical articles on evaluation produced during that time period. This
+fact is not intended to detract from the positive contributions to the understanding of evalua-
+tion use made by the authors of these articles. In addition, the research design included a deci-
+sion to limit the search terms to ‘‘evaluation utilization,’’ ‘‘evaluation use,’’ and ‘‘evaluation
+influence.’’ This decision resulted in the exclusion of ‘‘evaluation capacity building’’ studies
+that examined organizational learning through the evaluation process—one form of use—but
+did not include the keywords ‘‘use’’ or ‘‘utilization.’’ Finally, the sample sizes of some of the
+studies included in this review are rather small. Of the 41 studies included in the review,
+approximately 65% (19 of 41) have sample sizes of 12 or fewer. The remaining studies ranged
+in sample size from 26 to 540.
+Conclusion
+In summary, the findings from this literature review support Cousins’ (2003) conceptual
+framework that outlines dimensions of ‘‘evaluation context’’ (similar to evaluation implemen-
+tation characteristics) and ‘‘decision/policy setting.’’ Additionally, the findings support the addi-
+tion of one new category—stakeholder involvement—and one new characteristic—evaluator
+competence (under the category of evaluation implementation). Findings point to the importance
+of stakeholder involvement in facilitating evaluation use and suggest that engagement, interac-
+tion, and communication between evaluation clients and evaluators is critical to the meaningful
+use of evaluations.
+Johnson et al. / Research on Evaluation Use 389
+<<<PAGE=14>>>
+Appendix
+Summary of Empirical Studies of Evaluation Use and Influence (1986–2005)
+Study
+Type of Use
+Focus of Study Sample Category of Use Key Findings
+Findings Use Process Use
+Instrument
+Conceptual
+Symbolic
+Altschuld
+et al.
+(1993)
+pp Relationship between attitudes
+toward needs assessment, invol-
+vement in process, background
+characteristics, and reporting
+characteristics and the conceptual
+and instrumental utilization of
+needs assessment conclusions
+Higher education administrators
+(n ¼ 62)
+Decision or policy setting; sta-
+keholder involvement
+Use of needs assessments were
+influenced by college adminis-
+trators’ attitudes and levels of
+involvement. The administrators’
+background/training and charac-
+teristics of the needs assessment
+reports were not found to be
+related to use
+Ayers (1987) pp Relationship between use of a
+‘‘stakeholder collaborative’’ eva-
+luation approach and instrumen-
+tal and conceptual use
+Guam public school district (n ¼ 1) Decision or policy setting; sta-
+keholder involvement
+Ayers interviewed four of the sta-
+keholders who participated in all
+phases of the evaluation, as well
+as two major users of the eva-
+luation, to solicit perceptions of
+the process and of subsequent
+use. Participants reported posi-
+tive attitudes toward the process,
+but direct use of the report was
+low. However, although use, as
+measured by implementation of
+recommendations, was low, the
+findings triggered planning dis-
+cussions and negotiations
+between union and agency
+administration
+(continued)
+390 American Journal of Evaluation / September 2009
+390
+<<<PAGE=15>>>
+Bamberger
+(2004)
+pp Characteristics of highly cost-
+effective evaluations of interna-
+tional development projects
+Development project evaluations
+(n ¼ 8)
+Evaluation implementation;
+decision or policy setting;
+stakeholder involvement
+Identified five factors that increased
+the impact of an evaluation: (a) a
+conducive policy environment—
+evaluation addresses current
+concerns and there is a commit-
+ment by decision makers to use
+results; (b) timing of evaluation—
+evaluation launched when there
+are clearly defined information
+needs; (c) role of evaluation—
+evaluator must understand eva-
+luation is one source of data
+within a decision-making con-
+text; (d) building a relationship
+with the client and effectively
+communicating findings; and (e)
+evaluation conducted by either
+the evaluation unit of the man-
+aging or funding agency or by
+outside agency, or jointly, as the
+context dictates
+Barrios
+(1986)
+ppp Relationship between technical and
+organizational variables and
+instrumental, conceptual, and
+persuasive use of evaluation
+information
+State-level social service agency
+(n ¼ 1)
+Evaluation implementation;
+decision or policy setting;
+stakeholder involvement
+Recommendations requiring policy
+changes or interprogram or
+interagency action were more
+influential in terms of the deci-
+sions to implement them in
+comparison with recommenda-
+tions that suggested only action
+by program managers. The fol-
+lowing variables are also related
+to utilization: user involvement in
+the formulation of the study and
+evaluator credibility in terms of
+program knowledge
+(continued)
+Johnson et al. / Research on Evaluation Use 391
+391
+<<<PAGE=16>>>
+Bober and
+Bartlett
+(2004)
+pp Evaluation implementation factors
+and decision and policy setting
+factors affecting the use of train-
+ing evaluation results at corporate
+universities
+Corporate universities (n ¼ 4) Evaluation implementation;
+decision or policy setting
+Corporate university managers used
+evaluation findings in a variety of
+ways with instrumental uses
+dominating. Evaluation imple-
+mentation factors were more
+important than decision- or
+policy-setting factors in impact-
+ing use. The most highly ranked
+factor was communication qual-
+ity. Use of multiple methods of
+reporting data was effective for
+increasing use
+Boyer and
+Langbein
+(1991)
+p Factors related to the use of health-
+related evaluation research
+results by members of congress
+and congressional staffers
+Congressional health and health-
+related staff members (n ¼ 100)
+Evaluation implementation;
+decision or policy setting;
+evaluator competence
+Congressional members and staffers
+believed evaluation reports to be
+relevant, timely, clear, methodo-
+logically rigorous, and produced
+by reputable practitioners. The
+relative importance of factors
+affecting use varied depending on
+what type of report (General
+Accounting Office [GAO] vs.
+non-GAO) and user (member of
+congress vs. staffer). Overall,
+timeliness of GAO reports was the
+strongest factor, with credibility
+of methodology, and clarity of
+reporting also being important.
+Presence of an advocate or
+absence of a detractor of the eva-
+luator also played a role in use
+Brown-
+McGowan
+(1992)
+p Effect of knowledge use system
+(KUS) on use of evaluation find-
+ings; relationship between eva-
+luation process, significance of
+the decision, perceived impacts
+of the decision, and preferences
+toward evaluation outcomes and
+utilization of evaluation results
+Senior higher education adminis-
+trators (n ¼ 8)
+Decision or policy setting;
+stakeholder involvement
+Decision makers reported some
+increase in their participation and
+interest in the evaluation process
+because of using the KUS. The
+utilization of evaluation findings
+was improved. The evaluation
+quality and utilization of results
+were also enhanced by decision
+makers’ personal stakes in the
+evaluation
+(continued)
+392 American Journal of Evaluation / September 2009
+392
+<<<PAGE=17>>>
+Cai (1996) ppp Relationship between teachers’
+perceptions of their involvement
+in program evaluation and
+reported levels of instrumental,
+conceptual, and symbolic use
+New York state K-12 public school
+teachers (n ¼ 207)
+Stakeholder involvement Current opportunity for involve-
+ment is related to willingness to
+participate in future implementa-
+tion. Level and phase of invol-
+vement in evaluation is related to
+perceived benefits to individual
+and to organization. The benefits
+of such involvement include:
+enhanced utilization and willing-
+ness to be involved in future
+evaluations, increased knowledge
+and skills related to evaluation,
+and improved communication
+process within organizations
+Callahan
+et al.
+(1995)
+p Factors and practices related to
+evaluation utilization in gifted
+education programs; examination
+of exemplary and nonexemplary
+evaluations and extent of imple-
+mentation of evaluation
+recommendations
+Evaluation reports from district
+gifted education programs (n ¼
+12)
+Decision or policy setting;
+evaluator competence;
+stakeholder involvement
+All 12 districts used evaluation
+information to enact some change
+in gifted education programming.
+The ‘‘will and skill’’ of key per-
+sonnel to evaluate affected the use
+of the evaluation results. Key
+conditions affecting use: (a)
+district-wide evaluation policy; (b)
+written plans on how to implement
+findings; (c) multiple stakeholders
+were consistently involved in
+planning, monitoring, and review-
+i n ge v a l u a t i o np r o c e s sa n df i n d -
+ings; (d) stakeholders played role
+of advocating for program change
+based on findings; and (e) key
+personnel were aware of relation-
+ship between gifted ed, evaluation,
+and political processes
+(continued)
+Johnson et al. / Research on Evaluation Use 393
+393
+<<<PAGE=18>>>
+Carpinello
+(1989)
+pp Examines the effect of the power
+base of the evaluator (legitimate,
+referent, or expert), perceptions
+of decision-making conse-
+quences, and evaluation user
+experiences on evaluation use in
+terms of agreement with recom-
+mendations, perceptions of eva-
+luation credibility, needs for
+information, and instrumental
+decisions
+Gerontology nurses from New York
+(n ¼ 282)
+Decision or policy setting Consequence, power, and experi-
+ence were found to affect how
+evaluation information is used
+and processed by nurse decision
+makers. Experienced decision
+makers indicated a need for
+information when influenced by
+economic consequences and
+referent power bases, whereas
+less experienced decision makers
+were affected by affective con-
+sequences and expert power
+bases
+Chin (2003) pp Impact of using cartoons and poetry
+in evaluation reports on prompt
+discussion of findings and
+increased understanding of
+results by evaluation stakeholders
+School district evaluation stake-
+holders (n ¼ 26)
+Evaluation implementation Although cartoons and poetry were
+well received by evaluation sta-
+keholders, evaluators were not as
+supportive of their inclusion. The
+poetry and cartoons conveyed an
+emotional and/or visual repre-
+sentation of findings; however,
+this did not increase discussion of
+the findings among stakeholders
+nor did it ensure that report
+readers clearly perceived the
+author’s intended messages
+Combs
+(1999)
+ppp Relationship between preexisting
+positive attitudes toward inclu-
+sive education and the persua-
+siveness of program evaluation
+findings as measured by Russon
+and Koehly (1995) persuasion
+scale
+General and special education ele-
+mentary teachers in North Caro-
+lina (n ¼ 76)
+Decision or policy setting Although the study found that
+teachers’ attitudes toward inclu-
+sion were predictive of the per-
+suasiveness of the summary
+evaluation report, conclusions
+from the study are limited by the
+peculiarities of the data
+(untreated outliers in the data set)
+(continued)
+394 American Journal of Evaluation / September 2009
+394
+<<<PAGE=19>>>
+Cousins
+(1995)
+pp Examination of the impact of parti-
+cipatory approaches used in one
+marginally successful and one
+highly successful educational
+evaluation
+Canadian education field centers
+(n ¼ 2)
+Evaluation implementation;
+stakeholder involvement
+The participatory process enhanced
+credibility of the report and made
+the findings more relevant, which
+in turn increased the reported
+usefulness of the evaluation
+Cousins
+(1996)
+p Effects of researcher involvement
+levels on extent and type of rec-
+ommendation implementation
+Canadian school districts (n ¼ 3) Evaluator competence Despite the varying levels of
+researcher involvement, docu-
+mented use was relatively stable.
+Use appeared to be more affected
+by time pressures and adminis-
+trative support than by level of
+researcher involvement. In the
+lowest involvement case, poten-
+tial for use was higher than actual
+use, given the timeframe of the
+evaluation
+Crotti (1993) ppp Use of process and end products of
+Pennsylvania’s long-range plans,
+as perceived by school adminis-
+trators; relationship between
+human and context characteris-
+tics and perceptions of usefulness
+Pennsylvania school districts
+(n ¼ 11)
+Decision or policy setting Different administrative levels
+emphasized different forms of
+evaluation use. Local constraints
+had minimal influence on the
+evaluation utilization process.
+The active organizing efforts of
+school administrators reportedly
+promoted long-range plan utili-
+zation. Factor clusters compris-
+ing human and evaluation
+variables received higher overall
+importance than context
+variables
+(continued)
+Johnson et al. / Research on Evaluation Use 395
+395
+<<<PAGE=20>>>
+Earl (1995) pp Examination of the impact of two
+participatory evaluations on the
+increased understanding, com-
+mitment, and utilization of the
+evaluation by the evaluator and
+clients
+Schools in a Canadian school dis-
+trict (n ¼ 93)
+Decision or policy setting;
+stakeholder involvement
+Two participatory evaluations
+focused on school improvement
+in a large suburban school dis-
+trict. Participants could have
+been involved on three levels.
+The least involved teams were
+interviewed for the evaluation.
+The moderately involved teams
+had members who served as
+interviewers. The most involved
+teams planned the interview pro-
+cess and protocols. Teams that
+were the least involved (inter-
+viewees) were slightly less likely
+than the moderately or most
+involved team members to report
+positive feelings about the pro-
+cess. Overall, high use and
+potential for use was found for all
+groups
+Eisendrath
+(1988)
+pp Relationship between internal and
+external administrative factors
+and direct implementation and
+perceptions of usefulness
+Governmental agencies in
+Rajasthan State, India (n ¼ 16)
+Evaluation implementation;
+decision or policy setting;
+stakeholder involvement
+Policy makers often rejected rec-
+ommendations of evaluations
+because they were not politically,
+technically, or financially viable.
+High levels of use were related to
+the involvement of high-level
+executives in the review of find-
+ings, formulation, and follow-up
+of recommendations for action.
+Both formal and informal
+administrative arrangements
+were important for evaluation
+use. The level of use was posi-
+tively associated with the sal-
+ience of a program for top level
+policy makers. By and large,
+high-level policy makers consid-
+ered the evaluation findings
+credible only if they are sup-
+ported by other sources of
+information
+(continued)
+396 American Journal of Evaluation / September 2009
+396
+<<<PAGE=21>>>
+Forss et al.
+(1994)
+pp Explore role of evaluator in orga-
+nizational learning; relationship
+between quality of report and
+evaluation attitudes with cogni-
+tive and instrumental utilization
+Norwegian Aid Administration
+Agency (n ¼ 1)
+Evaluation implementation;
+stakeholder involvement
+Although aid administrators read
+the vast majority of the evalua-
+tions that are relevant to their
+positions, the majority only learn
+a little from the reports. Suc-
+cessful learning occurs through
+two processes: learning through
+involvement and learning
+through communication. Involv-
+ing administrators in the conduct
+of evaluations and improving
+communication of evaluation
+information will maximize orga-
+nizational learning through
+evaluations
+Greene
+(1987)
+pp Examines relationship between type
+and meaningfulness of stake-
+holder participation and use
+Human service agencies (n ¼ 2) Evaluation implementation;
+evaluator competence; stake-
+holder involvement
+Two participatory evaluations in
+local human service agencies
+encouraged stakeholder partici-
+pation in planning the evaluation.
+Stakeholders reported both con-
+ceptual and instrumental use of
+the evaluation. In addition, sta-
+keholders also found symbolic
+ways in which the process was
+useful
+(continued)
+Johnson et al. / Research on Evaluation Use 397
+397
+<<<PAGE=22>>>
+Greene
+(1988)
+ppp Investigate the relationship between
+communication of results (pro-
+cess, content, and participation as
+shared decision making) and uti-
+lization (conceptual, instrumen-
+tal, and symbolic)
+Human service agencies (n ¼ 2) Evaluation implementation;
+decision or policy setting;
+stakeholder involvement
+Stakeholder team members reported
+occurrence of instrumental, con-
+ceptual, and symbolic uses aris-
+ing from both the evaluation
+process and results. The follow-
+ing characteristics of the evalua-
+tion reporting process were
+believed to have facilitated use,
+the process was: ongoing and
+iterative; included both written
+reports and stakeholder group
+discussions; presented the results
+comprehensively and in a variety
+of formats; was open and plura-
+listic; and was tailored to the
+audiences. Additionally, stake-
+holders were actively engaged in
+the evaluation and communica-
+tion of results, and the evaluator
+functioned as an advocate for use
+during and after the evaluation
+was conducted
+Haddock
+(1998)
+p Relationship between legislative
+evaluation characteristics (com-
+mittee type, type of follow-up,
+mandated use, relationship with
+budgetary committees, and ‘‘fire-
+alarm vs. police-patrol’’–type
+evaluations) and instrumental use
+State legislative program evaluation
+offices (n ¼ 28)
+Decision or policy setting;
+stakeholder involvement
+Utilization differences apparently
+exist between the federal and
+state levels. Evaluation offices in
+states with policies and proce-
+dures mandating recommenda-
+tion are slightly more likely to
+have higher implementation rates
+than are offices in states with no
+such policies.Participation of the
+budget committee in the selection
+of topics for program evaluations
+does not necessarily increase the
+probability of evaluation use in
+the budget decision-making
+process
+(continued)
+398 American Journal of Evaluation / September 2009
+398
+<<<PAGE=23>>>
+Hopstock
+et al.
+(1993)
+p Perceived usefulness of evaluation
+findings of Title VII bilingual
+education programs
+Title VII-funded education pro-
+grams (n ¼ 18)
+Decision or policy setting Few Title VII evaluation reports
+were federally used for the fol-
+lowing reasons. The purposes and
+audiences for Title VII evalua-
+tions, as well as the evaluation
+needs of the U.S. Department of
+Education and of local Title VII
+were not clearly described by the
+U.S. Department of Education.
+Because of their lack of formal
+training in evaluation and statis-
+tics and because of the large
+number of projects for which they
+are responsible, the Office of
+Bilingual Education and Minority
+Languages Affairs Project Offi-
+cers were not able to perform
+overall program analyses or to
+provide detailed feedback to
+projects about their evaluations
+Johnson
+(1993)
+pp Create and test a theoretical process
+model related to use; relationship
+between levels of participation,
+competing information, truth and
+utility tests, and interests and
+ideology and expected level of
+utilization
+Evaluation users and producers
+affiliated with the Georgia Inno-
+vation Program (n ¼ 75)
+Evaluation implementation;
+decision or policy setting;
+stakeholder involvement
+Participation in evaluation was most
+likely in organic organizations,
+composed of change-oriented
+individuals, with a person-
+focused evaluator. Instrumental
+utilization was considered most
+likely in situations characterized
+by high participation, affirmative
+truth, and utility testing, and
+when interests and ideology were
+supported. Competing informa-
+tion was not found to be related to
+instrumental utilization
+(continued)
+Johnson et al. / Research on Evaluation Use 399
+399
+<<<PAGE=24>>>
+Johnston
+(1986)
+pp Examined relationships between
+type of evaluation recommenda-
+tions and acceptance/use or like-
+lihood of implementation of
+recommendations
+GAO reports (n ¼ 176) Evaluation implementation;
+decision or policy setting
+Acceptance of GAO recommenda-
+tion is high. Factors associated
+with the high acceptance rate
+includes that the recommenda-
+tions are generally of the low-
+level behavioral compliance–
+type and the status of the GAO as
+a formal, federally mandated
+outside evaluation organization.
+Additionally, the methodological
+quality of the studies contributes
+to their utilization
+Lafleur
+(1995)
+pp Retrospective examination of one
+school district’s participatory
+program evaluation approach and
+the utilization of evaluation
+results
+Canadian school district (n ¼ 1) Evaluation implementation;
+decision or policy setting;
+stakeholder involvement
+Being involved in the evaluation
+resulted in the primary users
+feeling more empowered and
+having improved evaluation
+skills. Quicker turnaround time
+on results would improve use.
+Also important is a supportive
+organizational culture and
+ongoing, high-quality
+communication
+Lee and Cou-
+sins (1995)
+pp Examined the effects of involve-
+ment in a participatory evaluation
+on implementing externally
+funded, school-directed change
+including the impact of the eva-
+luation on the evaluation
+consultant
+Canadian schools (n ¼ 4) Decision or policy setting;
+stakeholder involvement
+A foundation provided access to an
+evaluation consultant to four
+schools who had received a
+program-development grant. Each
+school was at a different stage in
+the evaluation but none had yet
+produced any reports. Stakeholder
+participation allowed for greater
+understanding about evaluation.
+Evaluations were still in the early
+stages, so no reports of use, but
+eagerness and enthusiasm about
+use was noted
+(continued)
+400 American Journal of Evaluation / September 2009
+400
+<<<PAGE=25>>>
+Malen, Mur-
+phy, and
+Geary
+(1988)
+pp Analysis of the effect of a specific
+program evaluation with a
+‘‘political’’ evaluation report and
+unique decision context and the
+extent of acceptance of data/rec-
+ommendations and impact of the
+report
+Utah state legislature, interviews
+with 21 individuals (n ¼ 1/21)
+Evaluation implementation;
+decision or policy setting
+Characteristics of the evaluation
+and context interacted to make
+the evaluation information a
+‘‘significant threat,’’ a threat to
+pervasive ideologies, political
+alignments, reform commit-
+ments, and education appropria-
+tions. The evaluation exposed
+divides in a fragile coalition and
+threatened connections in the
+legislature
+Marra (2003) pppp Use of evaluation for improving
+public organizations’ perfor-
+mance through better design of
+governance structures and more
+entrepreneurial managerial
+efforts
+World Bank evaluation studies
+(n ¼ 4)
+Evaluation implementation;
+decision or policy setting
+Five key issues were identified as
+affecting use: (a) Governance
+structures affect the potential for
+evaluation to play as a check and
+balance within the organization
+and enforce results accountabil-
+ity. (b) The high-profile political
+role of the evaluation department
+helps evaluation to be accepted
+and valued for strategic planning
+at the apex of the organization.
+(c) Managers discount evaluation
+for their own work and ascribe
+higher salience for their subordi-
+nates. (d) Most interviewees
+endorse the symbolic role of
+evaluation to legitimize a posi-
+tion or decision. (e) Actionable
+and evidence-based recommen-
+dations were likely to be taken
+into account
+(continued)
+Johnson et al. / Research on Evaluation Use 401
+401
+<<<PAGE=26>>>
+Marsh and
+Glassick
+(1988)
+p Effect of types of evaluation rec-
+ommendations (subject, audi-
+ence, specificity, and depth) and
+implementation of recommenda-
+tions by schools
+Evaluations conducted by
+evaluation branch of large metro
+school district (n ¼ 4)
+Evaluation implementation;
+stakeholder involvement
+School administrators used recom-
+mendation more when they were
+detailed and arose from verbal
+discussions between the stake-
+holders and evaluators. Recom-
+mendations about early phases of
+a project were more likely to be
+used if they focused on instruc-
+tional change; recommendations
+from later phases were more
+likely to be used if they focused
+on administrative problems. Ver-
+bal interaction between the eva-
+luator and program staff
+enhanced the understanding,
+acceptance, and utilization of the
+recommendations
+McCormick
+(1997)
+ppp Relationship between users’ com-
+mitment to the program, invol-
+vement with the program,
+attitude toward evaluation,
+organizational position, and type
+of organization and reported
+conceptual, processing, persua-
+sive, and instrumental uses
+Potential evaluation users of the
+program evaluation division of a
+state legislative auditor and a
+social service research organiza-
+tion (n ¼ 89)
+Decision or policy setting;
+stakeholder sinvolvement
+Conceptual use exceeded all other
+types of use, and processing use
+exceeded persuasive or instru-
+mental use. Involvement in eva-
+luation was highly related to all
+types of use, especially ‘‘pro-
+cessing use.’’ Public/government
+and private nonprofit organiza-
+tions utilized evaluation infor-
+mation equally. Managers were
+more active than legislators in
+terms of processing use. Attitude
+toward evaluation had little
+influence on evaluation use
+(continued)
+402 American Journal of Evaluation / September 2009
+402
+<<<PAGE=27>>>
+Newman
+et al.
+(1987)
+pp Effect of conflict, importance, set-
+ting, and superintendent support
+on decision making as measured
+by Decision-Making Information
+Needs Scale (Newman, Brown,
+Rivers, & Glock, 1983)
+School board members (n ¼ 361) Decision or policy setting Evaluation use is influenced by the
+perceived importance and setting
+of the program. When making a
+decision about a program of high
+importance, board members
+required more time, more infor-
+mation, and more contacts with a
+consultant. Program setting had
+the greatest strength of associa-
+tion. Program conflict influenced
+information needs. When the
+program was of high conflict (and
+no knowledge or superintendent
+attitude was given), board mem-
+bers wanted more time, more
+information, more personal con-
+tacts, and contacts with consul-
+tants compared to low conflict
+settings
+Potts (1998) pp Relationship between evaluation
+method (quantitative, qualitative,
+or mixed) and conceptual and
+instrumental use
+Ten administrators from student
+service programs at a large state
+university (n ¼ 10)
+Evaluation implementation University administrators felt that
+the findings from mixed-method
+reports produced greater knowl-
+edge gain, were more credible,
+and were more useful than single-
+method quantitative or qualita-
+tive studies
+Preskill and
+Caracelli
+(1997)
+ppp Evaluators’ beliefs on evaluation
+use, including the implications of
+stakeholder involvement on use
+American Evaluation Association
+(AEA) evaluation used by Topi-
+cal Interest Group (TIG) mem-
+bers (n ¼ 282)
+Stakeholder involvement Survey of evaluators’ perceptions of
+evaluation use.Identified seven
+most important strategies to
+influence use: planning for use at
+beginning of evaluation, identi-
+fying and prioritizing intended
+users and uses, designing
+evaluation with limited
+resources, planning for commu-
+nicating with stakeholders
+throughout. Found that definition
+of use has expanded from tradi-
+tional to include process use and
+organizational learning concepts
+(continued)
+Johnson et al. / Research on Evaluation Use 403
+403
+<<<PAGE=28>>>
+Rinne (1994) ppp Relationship among the perceived
+purpose of evaluation (program
+improvement, judge merit/worth,
+knowledge generation) and the
+utilization of evaluation results
+taking into account anxiety level
+of potential end users of
+evaluation
+Health care educators who teach
+health promotion and prevention
+programs (n ¼ 540)
+Decision or policy setting The study found the importance of
+external purposes for conducting
+evaluation as compared to inter-
+nal purposes. External purposes
+predicted positive maintenance
+and negative change. Both inter-
+nal and external purposes pre-
+dicted conceptual use. With the
+exception of no use, all constructs
+of use were predicted by one or
+more of the anxiety constructs.
+When controlling for anxiety, no
+considerable increase in predict-
+ability was found for the associ-
+ation between purpose and use
+Rockwell
+et al.
+(1990)
+pp Examined the impact of attending to
+Patton’s (1997) utilization-
+focused evaluation ‘‘personal
+factors’’ on evaluation uses
+One team of four extension staff
+who were intended evaluation
+users (n ¼ 1/4)
+Evaluation implementation;
+decision or policy setting;
+stakeholder involvement
+Six factors were identified as
+encouraging evaluation use after
+attending to the personal factor in
+the planning of the evaluation: (a)
+the intended user’s information
+needs; (b) the timeliness of the
+study; (c) the intended user’s
+ownership of the information that
+was fostered by their involve-
+ment; (d) interaction among
+intended users and the evaluator;
+(e) the evaluation’s methodolo-
+gical appropriateness and quality;
+and (e) discussion of the results in
+steering committee meetings
+(continued)
+404 American Journal of Evaluation / September 2009
+404
+<<<PAGE=29>>>
+Santhiveeran
+(1995)
+p Impact of evaluation type, internal
+factors, and external factors on
+five domains of use measured by
+Kirkhart and Glasser (1991) Use
+Scale
+Mental health executive directors
+and program administrators
+(n ¼ 180)
+Decision or policy setting The key factors found affecting the
+use of evaluation data were the
+proportion of the budget allo-
+cated for evaluations, the avail-
+ability of an evaluation director,
+and the proportion of funding
+from state and local sources.
+Personal characteristics (gender,
+age, and ethnicity) and job-
+related characteristics (time spent
+in personnel management, super-
+vision, and program develop-
+ment) were found to be potential
+predictors of evaluation utiliza-
+tion. The attitudes of the indi-
+vidual respondents toward
+evaluation were not related to
+evaluation utilization
+Shea (1991) ppp Relationship between evaluation
+process, evaluator characteristics,
+and the decision context and
+conceptual, instrumental, and
+symbolic use measured by items
+from Johnson (1980) and Week
+(1979)
+Canadian Evaluation Society
+members (n ¼ 332)
+Evaluation implementation;
+decision or policy setting;
+evaluator competence;
+stakeholder involvement
+Canadian evaluators reported high
+levels of use (91–99%) of the last
+evaluation. Most of the uses were
+conceptual, followed by instru-
+mental and persuasive uses.
+Complex relationships existed
+between three categories of
+independent variables (process,
+evaluator, and context) and use.
+All three categories of factors had
+some relationship with instru-
+mental and conceptual use. Per-
+suasive use was only associated
+with one process and two eva-
+luator variables. The number of
+contact hours spent in any of the
+following activities was signifi-
+cantly associated with instru-
+mental use: planning,
+implementation, and
+dissemination
+(continued)
+Johnson et al. / Research on Evaluation Use 405
+405
+<<<PAGE=30>>>
+Sleezer
+(1987)
+p Effect of types of evaluation reports
+(informational, examinational, or
+analytical) on level of financial
+support and logic of budget
+decision making
+Decision makers in manufacturing
+organizations responsible for
+financial resource allocation for
+training (n ¼ 40)
+Evaluation implementation Evaluation reports had a very low
+level of influence over decisions
+about funding training programs.
+Only 50% of the respondents
+even looked at the report prior to
+making a decision and those who
+read the report did not use it, did
+not believe it, or related it to a
+previous program only. No rela-
+tionship was found between type
+of report and its use
+Sperlazza
+(1995)
+pp Describe the impact of participation
+of a team of evaluation profes-
+sionals on their professional
+development and use of results
+An evaluation team, four members
+(n ¼ 1/4)
+Stakeholder involvement Participatory evaluation was seen as
+advantageous and participation
+was related to increased use.
+Advantages of the approach
+included the team getting to
+know their colleagues and gain
+understanding of their program,
+valuing staff involvement in
+decision making, and building a
+sense of ownership of their
+program
+Turnbull
+(1999)
+pp Test causal relationships in pro-
+posed model between participa-
+tory evaluation characteristics
+and use of evaluation information
+Teachers from British Columbia
+school accreditation program
+(n ¼ 315)
+Stakeholder involvement High levels of influence were
+related to high levels of partici-
+pation efficacy. There was a
+positive relationship between
+participation efficacy and instru-
+mental and symbolic use, sug-
+gesting that participation efficacy
+is a mediating factor linking
+action theory (participation) and
+conceptual theory (use)
+(continued)
+406 American Journal of Evaluation / September 2009
+406
+<<<PAGE=31>>>
+Weiss et al.
+(2005)
+pp Examination of the use and influ-
+ence of DARE program evalua-
+tions; application of Mark and
+Henry’s (2004) mechanisms of
+evaluation influence
+Law enforcement officials and
+school district administrators
+from 16 communities with and
+without DARE evaluations
+(n ¼ 128)
+Evaluation implementation;
+decision or policy setting
+DARE evaluations were used in a
+variety of ways: politically to
+persuade others, instrumentally
+to make decisions about future
+programming, and conceptually
+in terms of a raising the con-
+sciousness of stakeholders. A
+new type of use was identified,
+‘‘imposed use’’ in which districts
+were forced to replace the pro-
+gram with one on a government
+approved list. The pathways to
+which influence was achieved
+were tangled, complex, and dif-
+ficult to discern retrospectively.
+Motivational factors played a
+part; incentives pushed districts
+to apply evaluation results.
+Additionally, the urge to act
+rationally influenced behavioral
+use of the results
+Johnson et al. / Research on Evaluation Use 407
+407
+<<<PAGE=32>>>
+References
+Alkin, M.C., & Taut, S.M. (2003). Unbundling evaluation use.Studies in Educational Evaluation, 29,1-12.
+Altschuld, J. W., Yoon, J. S., & Cullen, C. (1993). The utilization of needs assessment results.Evaluation and
+Program Planning, 16, 279-285.
+Ayers, T. D. (1987). Stakeholders as partners in evaluation: A stakeholder-collaborative approach.Evaluation and
+Program Planning, 10, 263-271.
+Bamberger, M. (2004).Influential evaluations: Evaluations that improved performance and impacts of development
+programs. Washington, DC: Operations Evaluation Department, The World Bank.
+Barrios, N. B. (1986). Utilization of evaluation information: A case study approach investigating factors related to
+evaluation utilization in a large state agency.Dissertation Abstracts International: Section A: The Humanities and
+Social Sciences, 47, 1704 (UMI 8616880).
+Bober, C. E., & Bartlett, K. R. (2004). The utilization of training program evaluation in corporate universities.Human
+Resource Development Quarterly, 15, 363-383.
+Boyer, J. F., & Langbein, L. I. (1991). Factors influencing the use of health evaluation research in Congress.
+Evaluation Review, 18, 507-532.
+Brown-McGowan, S. (1992). Effects of decision maker and context variables on evaluation utilization.Dissertation
+Abstracts International: Section A: The Humanities and Social Sciences, 53, 2261 (UMI 9226505).
+Cai, M. (1996). An empirical examination of participatory evaluation: Teachers’ perceptions of their involvement and
+evaluation use. Dissertation Abstracts International: Section A: The Humanities and Social Sciences, 57, 1921
+(UMI 9629749).
+Callahan, C. M., Tomlinson, C. A., Hunsaker, S. L., Bland, L. C., & Moon, T. (1995).Instruments and evaluation
+designs used in gifted programs. The National Research Center on the Gifted and Talented, The University of
+Virginia. Research Report: RM-95132.
+Carpinello, S. E. (1989). The effect of power, consequence, and experience on nurse decision-makers’ utilization of
+evaluation information. State University of New York at Albany.Dissertation Abstracts International: Section B:
+The Sciences & Engineering, 50, 3395.
+Chin, M. C. (2003). An investigation into the impact of using poetry and cartoons as alternative representational forms
+in evaluation reporting.Dissertation Abstracts International: Section A: The Humanities and Social Sciences, 64,
+394 (UMI 3081434).
+Christie, C. A. (2007). Reported influence of evaluation data on decision makers’ actions: An empirical examination.
+American Journal of Evaluation, 28, 8-25.
+Combs, W. L. A. (1999). The predictive validity of teachers’ attitudes towards inclusive education on the conceptual
+use of program evaluation information.Dissertation Abstracts International: Section A: The Humanities and
+Social Sciences, 60, 3208 (UMI 9946401).
+Cousins, J. B. (1995). Assessing program needs using participatory evaluation: A comparison of high and marginal
+success cases. In J. B. Cousins & L. M. Earl (Eds.),Participatory evaluation in education: Studies in evaluation
+use and organizational learning(pp. 55-71). London: Routledge.
+Cousins, J. B. (1996). Consequences of researcher involvement in participatory evaluation.Studies in Educational
+Evaluation, 22, 3-27.
+Cousins, J.B. (2003). Utilization effects of participatory evaluation. In T. Kelleghan, & D. L. Stufflebeam (Eds.),
+International handbook of educational evaluation(pp. 245-265). Great Britain: Kluwer Academic Publishers.
+Cousins, J. B., Goh, S. C., Clark, S., & Lee, L. E. (2004). Integrating evaluative inquiry into the organizational culture:
+A review and synthesis of the knowledge base.Canadian Journal of Program Evaluation, 19, 99-141.
+Cousins, J. B., & Leithwood, K. A. (1986). Current empirical research on evaluation utilization. Review of
+Educational Research, 56, 331-364.
+Crotti, J. G. (1993). Evaluation utilization: A study of administrators’ perceptions of the uses of the long-range plan
+evaluation process in Pennsylvania.Dissertation Abstracts International: Section A: The Humanities and Social
+Sciences, 54, 4315 (UMI 9414267).
+Earl, L. M. (1995). District-wide evaluation of school improvement: A system partners approach. In J. B. Cousins & L.
+M. Earl (Eds.), Participatory evaluation in education: Studies in evaluation use and organizational learning
+(pp. 21-32), London: Routledge.
+Eisendrath, A. (1988). The use of development project evaluation information: A study of state agencies in India.
+Dissertation Abstracts International: Section A: The Humanities and Social Sciences, 49, 1572 (UMI 8810460).
+Forss, K., Cracknell, B., & Samset, K. (1994). Can evaluation help an organization to learn?Evaluation Review, 18,
+574-591.
+Greene, J. C. (1987). Stakeholder participation in evaluation design: Is it worth the effort?Evaluation and Program
+Planning, 10, 379-394.
+408 American Journal of Evaluation / September 2009
+<<<PAGE=33>>>
+Greene, J. C. (1988). Communication of results and utilization in participatory program evaluation.Evaluation and
+Program Planning, 11, 341-351.
+Guarino, C., Santiban˜ez, L., Daley, G., & Brewer, D. (2004, May).A review of the research literature on teacher
+recruitment and retention. Technical report TR-164-EDU. Santa Monica, CA: RAND.
+Guba, E. G., & Lincoln, Y. S. (1989).Fourth generation evaluation.Newbury Park, CA: Sage.
+Haddock, R. E. (1998). State legislative program evaluation: An assessment of recent claims of direct utilization in the
+states. Dissertation Abstracts International: Section A: The Humanities and Social Sciences, 60, 881 (UMI
+9921400).
+Henry, G. T., & Mark, M. M. (2003a). Beyond use: Understanding evaluation’s influence on attitudes and actions.
+American Journal of Evaluation, 24, 293-314.
+Henry, G. T., & Mark, M. M. (2003b). Toward an agenda for research on evaluation.New Directions for Evaluation,
+97, 69-80.
+Hofstetter, C. H., & Alkin, M. C. (2003). Evaluation use revisited. In T. Kelleghan & D. L. Stufflebeam (Eds.),
+International handbook of educational evaluation(pp. 197-222). Great Britain: Kluwer Academic Publishers.
+Hopstock, P., Young, M., & Zehler, A. (1993).Serving different masters: Title VII evaluation practice and policy.
+Vol. I – Final report.Arlington, VA: Development Associates IncReport: ED/OPP93-32.
+Johnson, K.W. (1980). Academia and practice.Knowledge: Creation, Diffusion, Utilization, 2,237-261.
+Johnson, R. B. (1993). An exploratory conjoint measurement study of selected variables related to innovative
+educational evaluation participation and instrumental utilization.Dissertation Abstracts International: Section A:
+The Humanities and Social Sciences, 55, 64 (UMI 9416264).
+Johnston, W. P., Jr. (1986). A study of the acceptance of management performance evaluation recommendations by
+federal agencies: Lessons from GAO reports issued in FY 1983.Dissertation Abstracts International: Section A:
+The Humanities and Social Sciences, 48, 2157 (UMI 8725055).
+King, J.A. & Pechman, E.M. (1984). Pinning a wave to the shore: Conceptualizing evaluation use in school systems.
+Educational Evaluation and Policy Analysis, 6,241-451.
+Kirkhart, K. E. (2000). Reconceptualizing evaluation use: An integrated theory of influence.New Directions for
+Evaluation, 88, 5-23.
+Kirkhart, K.E., Morgan, R.O., & Sincavage, J. (1991). Assessing evaluation performance and use: Test-Retest.
+Evaluation Review, 15(4), 482-502.
+Lafleur, C. (1995). A participatory approach to district-level program evaluation: The dynamics of internal evaluation.
+In J. B. Cousins & L. M. Earl (Eds.),Participatory evaluation in education: Studies in evaluation use and
+organizational learning(pp. 33-54). London: Falmer.
+Lee, L. E., & Cousins, J. B. (1995). Participation in evaluation of funded school improvement: Effects and supporting
+conditions. In J. B. Cousins & L. M. Earl (Eds.),Participatory evaluation in education: Studies in evaluation use
+and organizational learning(pp. 72-85). London: Routledge.
+Leviton, L.C., & Hughes, E.F.X. (1981). Research on the utilization of evaluations: A review and synthesis.Evalua-
+tion Review, 5,525-549.
+Malen, B., Murphy, M. J., & Geary, S. (1988). The role of evaluation information in legislative decision making:
+A case study of a loose cannon on deck.Theory into Practice, 27, 111-125.
+Mark, M.M., Henry, G.T., & Julnes, G. (2000). Evaluation: An integrated framework for understanding, guiding, and
+improving policies and programs. San Francisco: Jossey-Bass, Inc.
+Mark, M. M., & Henry, G. T. (2004). The mechanisms and outcomes of evaluation influence.Evaluation, 10, 35-57.
+Marra, M. (2003). Dynamics of evaluation use as organizational knowledge: The case of the World Bank.Dissertation
+Abstracts International: Section A: The Humanities and Social Sciences, 64, 1070 (UMI 3085545).
+Marsh, D. D., & Glassick, J. M. (1988). Knowledge utilization in evaluation efforts: The role of recommendations.
+Knowledge, 9, 323-341.
+McCormick, E. R. (1997). Factors influencing the use of evaluation results.Dissertation Abstracts International:
+Section A: The Humanities and Social Sciences, 58, 4187 (UMI 9815051).
+Newman, D., Brown, R., Rivers, L., & Glock, R. (1983). School boards’ and administrators’ use of evaluation
+information: Influencing factors.Evaluation Review, 7(1), 110-125.
+Newman, D. L., Brown, R. D., & Rivers, L. (1987). Factors influencing the decision-making process: An examination
+of the effect of contextual variables.Studies in Educational Evaluation, 13, 199-209.
+Nunneley, R. D. (2008).The danger of theorizing under the influence: An analysis of the arguments in Henry and
+Mark (2003) and Mark and Henry (2004). Unpublished manuscript. Minneapolis, MN: University of Minnesota.
+Patton, M. Q. (1997).Utilization-focused evaluation.Thousand Oaks, CA: Sage.
+Potts, S. A. K. (1998). Impact of mixed method designs on knowledge gain, credibility, and utility of program
+evaluation findings. Dissertation Abstracts International: Section A: The Humanities and Social Sciences, 59,
+1942 (UMI 9837695).
+Johnson et al. / Research on Evaluation Use 409
+<<<PAGE=34>>>
+Preskill, H., & Caracelli, V. (1997). Current and developing conceptions of use: Evaluation use TIG survey results.
+Evaluation Practice, 18, 209-225.
+Rinne, C. (1994). The impact of anxiety as a mediating variable on health educators’ utilization of evaluation results.
+Dissertation Abstracts International: Section B: The Sciences & Engineering, 54, 3554.
+Rockwell, S. K., Dickey, E. C., & Jasa, P. J. (1990). The personal factor in evaluation use: A case study of a steering
+committee’s use of a conservation tillage survey.Evaluation and Program Planning, 13, 389-394.
+Russon, C., & Koehly, L. (1995). Construction of a scale to measure the persuasive impact of qualitative and quanti-
+tative evaluation reports.Evaluation and Program Planning, 18(2), 165-177.
+Santhiveeran, J. (1995). Factors influencing the utilization of evaluation findings in mental health centers: A national
+survey. Dissertation Abstracts International: Section A: The Humanities and Social Sciences, 56 , 3311
+(UMI 9539597).
+Scriven, M. (2007). Activist evaluation.Journal of MultiDisciplinary Evaluation, 4(7), i-ii.
+Shea, M. P. (1991). Program evaluation utilization in Canada and its relationship to evaluation process, evaluator and
+decision context variables. University of Windsor (Canada).Dissertation Abstracts International: Section B: The
+Sciences & Engineering, 53, 597.
+Shulha, L. M., & Cousins, J. B. (1997). Evaluation use: Theory, research, and practice since 1986.Evaluation
+Practice, 18, 195-208.
+Sleezer, C. M. (1987).The relationship between types of evaluation reports and support for the training function by
+corporate managers. Project number twenty-one. Department of Vocational and Technical Education, University
+of Minnesota.
+Sperlazza, J. (1995). Involving school professionals in program evaluation in an urban school district.Dissertation
+Abstracts International: Section A: The Humanities and Social Sciences, 56, 3406 (UMI 9601924).
+Turnbull, B. (1999). The mediating effect of participation efficacy on evaluation use.Evaluation and Program
+Planning, 22, 131-140.
+Weeks, E.C. (1979). The managerial use of evaluation findings. In H.C. Schulberg & J.M. Jerrell (Eds.), The evaluator
+and management (pp. 137-156). Beverly Hills, CA: Sage.
+Weiss, C. H., Murphy-Graham, E., & Birkeland, S. (2005). An alternate route to policy influence: How evaluations
+affect DARE.American Journal of Evaluation, 26, 12-30.
+410 American Journal of Evaluation / September 2009

@@ -1,0 +1,1114 @@
+<<<PAGE=1>>>
+REVIEW
+Simulation-Based Education of Health Workers in Low- and
+Middle-Income Countries: A Systematic Review
+Samuel J.A. Robinson,a,b,c Angus M.A. Ritchie,a,b,c Maurizio Pacilli,a,b,c Debra Nestel,a,d Elizabeth McLeod,e
+Ramesh Mark Natarajaa,b,c
+Key Findings
+n Simulation-based education (SBE) has been
+successfully applied to improve outcomes in a
+variety of contexts across low- and middle-income
+countries (LMICs), with most studies demonstrating
+at least a partial improvement in outcomes.
+n Simulation modalities are most commonly low-
+technology modalities, including mannequins and
+scenario-based simulation.
+n Learning methods are often reported insufficiently
+to judge against reporting standards which have
+been predominantly developed in high-income
+countries.
+Key Implications
+n Further research is needed in LMICs and into
+specific SBE modalities.
+n Improved reporting of SBE is needed, which may
+require greater representation and consultation of
+LMICs in the development of a future global
+consensus on reporting.
+ABSTRACT
+Introduction: Simulation-based education (SBE) is increasingly used
+to improve clinician competency and patient care and has been
+identified as a priority by the World Health Organization for
+low- and middle-income countries (LMICs). The primary aim of
+this review was to investigate the global distribution and effec-
+tiveness of SBE for health workers in LMICs. The secondary aim
+was to determine the learning focus, simulation modalities, and
+additional evaluation conducted in included studies.
+Methods: A systematic review was conducted following the Preferred
+Reporting Items for Systematic Reviews and Meta Analysis guidelines,
+searching Ovid (Medline, Embase, and Emcare) and the Cochrane
+Library from January 1, 2002, to March 14, 2022. Primary re-
+search studies reporting evaluation at Level 4 of The Kirkpatrick
+model were included. Studies on simulation-based assessment and
+validation were excluded. Quality and risk-of-bias assessments
+were conducted using appropriate tools. Narrative synthesis and
+descriptive statistics were used to present the results.
+Results: A total of 97 studies were included. Of these, 54 were in
+sub-Saharan Africa (56%). Forty-seven studies focused on neona-
+tology (48%), 29 on obstetrics (30%), and 16 on acute care (16%).
+Forty-nine used mannequins (51%), 46 used scenario-based simu-
+lation (47%), and 21 used synthetic part-task trainers (22%), with
+some studies using more than 1 modality. Sixty studies focused on
+educational programs (62%), while 37 used SBE as an adjunct to
+broader interventions and quality improvement initiatives (38%).
+Most studies that assessed for statistical significance demonstrated
+at least partial improvement in Level 4 outcomes (75%, n¼81).
+Conclusion: SBE has been widely applied to improve outcomes in
+a variety of contexts across LMICs. Modalities of simulation are
+typically low-technology versions. However, there is a lack of stan-
+dardized reporting of educational activities, particularly relating to
+essential features of SBE. Further research is required to determine
+which approaches are effective in specific contexts.
+INTRODUCTION
+T
+he World Health Organization (WHO) predicts a
+global shortfall of 10 million health workers by
+2030, with low- and middle-income countries (LMICs)
+most affected.1 Underinvestment in training and a mis-
+match between workforce strategy and health needs are
+contributing to this shortage. Consequently, numerous
+strategies have been developed to improve training and
+retention of health workers. Simulation-based educa-
+tion (SBE) is an approach identified as a priority by the
+WHO and other stakeholders.
+2–4
+a Department of Paediatrics, Monash University, Melbourne, Victoria, Australia.
+b Department of Surgery, Monash University, Melbourne, Victoria, Australia.
+c Department of Paediatric Surgery and Monash Children’s Simulation, Monash
+Children’s Hospital, Melbourne, Victoria, Australia.
+d Department of Surgery (Austin Precinct), University of Melbourne, Melbourne,
+Victoria, Australia.
+e Department of Paediatric and Neonatal Surgery, Royal Children’s Hospital,
+Melbourne, Victoria, Australia.
+Correspondence to Ramesh Nataraja (ram.nataraja@monash.edu).
+Global Health: Science and Practice 2024 | Volume 12 | Number 6 1
+<<<PAGE=2>>>
+In 2004, Gaba defined simulation as a technique
+“used to replace or amplify real experiences with
+guided experiences that evoke or replicate substan-
+tial aspects of the real world in a fully interactive
+manner.”
+5 Increasing awareness of medical errors
+has catalyzed interest in simulation as an educa-
+tional method to improve clinician competency
+and patient safety.
+6 Subsequently, there has been
+an increase in the published literature focusing on
+SBE and an expansion of relevant professional
+bodies.7,8 Numerous studies support the use of SBE
+to improve knowledge, confidence, and skills.9,10
+Additional benefits for low-resource settings include
+training entry-level health workers and traditional
+providers.
+11 Importantly, simulation technology
+and educational efficacy should not be conflated,
+as research suggests that low-technology simula-
+tion can be equally effective as high-technology
+simulation.
+12–14
+High-income countries continue to be the pre-
+dominant source of publications and SBE guide-
+lines.
+7,15,16 In contrast, little is known about the
+landscape of SBE across LMICs. It has been sug-
+gested that LMIC settings may benefit from SBE,
+particularly in the context of relatively high rates
+of adverse events resulting from unsafe experiences
+in the hospital setting.
+17,18 Despite this, there is an
+indication that SBE is underused in LMICs.18 As c o p -
+ing review by Puri et al. identified 203 studies report-
+ing simulation initiatives in LMICs.
+18 Of these, only
+85 used simulation in training. The most reported
+educational modality was low-technology manne-
+quins. There is also limited information available re-
+garding how SBE programs are evaluated in LMICs.
+A more comprehensive understanding of how SBE
+has been used in LMICs may serve as useful infor-
+mation for educators and researchers looking to im-
+plement this approach.
+The primary aim of this review was to investigate
+the global distribution and effectiveness of SBE for
+health workers in LMICs, specifically those initia-
+tives that evaluate program outcomes. The sec-
+ondary aim was to determine the learning focus,
+simulation modalities, and additional evaluation
+in each included study.
+METHODS
+Three authors (SR, AR, and RN) completed this
+review following the Preferred Reporting Items
+for Systematic Reviews and Meta Analysis guide-
+lines.
+19 They were additionally informed by the
+guidelines for Synthesis Without Meta-analysis.20
+The systematic review was registered on Prospero
+(CRD42022354079).
+Eligibility Criteria
+Primary research studies that trained health workers
+or health students in LMICs and were published
+in English between January 1, 2002, and March
+14, 2022, were included. Reviewers were guided
+by Gaba’s definition of simulation and the Healthcare
+Simulation Dictionary.
+5,21 The World Bank’sL M I C
+classification and the WHO health worker classi-
+fication were also used.
+22,23 Studies were re-
+quired to quantitatively evaluate at Level 4 of the
+Kirkpatrick model.
+Studies using simulation exclusively for assess-
+ment (without an associated educational initiative)
+were excluded. These were distinguished from pro-
+grams that incorporated measurements of student
+performance as an evaluation of a learning pro-
+gram.
+24 It should be noted that while both assess-
+ment and evaluation appear similar, they serve
+different purposes and have different implications
+for learners.
+24 Learner assessment using simula-
+tion has the potential to create an environment of
+performance anxiety, which may conflict with the
+important principle of psychological safety in SBE.
+It is for these reasons we separated SBE from
+simulation-based assessment. In practice, the bal-
+ance between education and assessment needs to
+be managed carefully. Additional exclusion criteria
+are listed inTable 1.
+The Kirkpatrick model is a widely applied evalua-
+tion framework and includes 4 levels: reaction, learn-
+ing, behavior, and results (Table 2).
+25 Evaluation of
+results (Level 4) has been identified as a priority for
+SBE research moving forward.26 However, it remains
+difficult to evaluate to this level.25,27,28 Importantly,
+successful evaluation at Level 4 is not causally re-
+lated to other levels, and each level should be con-
+sidered individually.
+29,30 The model’s focus on
+summative evaluation is another concern, which
+potentially neglects investigations of how changes
+occur.29,31 However, it has been recommended
+by the WHO, with return on investment included
+as a fifth level.
+32,33
+For this review, we required that Level 4 evalua-
+tions were clearly linked to patient outcomes rather
+than being inferred from context. As an example,
+our research laboratory conducted a study using
+simulation training for air enema in pediatric intus-
+susception.
+34 The length of patient hospital stay was
+a Level 4 outcome for this study, which was subse-
+quently included. The reduction in the operative
+r a t ec o u l da l s ob ec o n s i d e r e daL e v e l4o u t c o m e ,
+but this requires additional clinical knowledge re-
+garding the relative advantages of nonoperative
+approaches. Given it was not feasible for reviewers
+to have expert knowledge of all the disciplines
+Little is known
+about the
+landscape of SBE
+across LMICs.
+Systematic Review of Simulation-Based Education in Low- and Middle-Income Countries www.ghspjournal.org
+Global Health: Science and Practice 2024 | Volume 12 | Number 6 2
+<<<PAGE=3>>>
+included in the review, evaluations that changed a
+treatment approach but did not have a direct link to
+patient outcomes were excluded.
+Information Sources and Search Strategy
+Four databases were searched based on consulta-
+tion with 2 qualified librarians and used keywords
+and MeSH terms, including all LMIC names
+(Supplement 1). The reference management pro-
+grams used were Endnote and Covidence (Veritas
+Health Innovation, Melbourne, Australia).
+Selection Process
+SR and AR independently screened study titles
+and abstracts. Conflicts were resolved through dis-
+cussion and consultation with RN. Except for the
+deduplication process of Endnote and Covidence,
+no automation tools were used.
+Data Collection Process
+Data relating to the Kirkpatrick model and simula-
+tion modalities were extracted independently by
+SR and AR using Covidence. The remaining data
+were extracted by SR, with ongoing consultation
+of AR and RN.
+Data Items
+Data extracted included study settings, educational
+focus, learner populations, simulation modalities,
+and Kirkpatrick Level 4 outcome measures, as well
+as which additional Kirkpatrick levels were evalu-
+ated. To avoid skewing data, results of multiple
+studies of identical programs were aggregated.
+Included simulation modalities were guided by an
+established simulation dictionary (Table 3).
+21,35,36
+Missing or unclear data were recorded as such.
+Outcomes were judged by SR as to whether
+they achieved statistically significant improvement
+to the Level 4 outcome measure. Partial improve-
+ment was defined as an improvement in some mea-
+sures, settings, or time points. It should be noted that
+partial improvement is not necessarily inferior to
+complete improvement, as studies observing partial
+improvement may have included more outcome
+measures. A single standardized metric for outcomes
+was unsuitable due to study heterogeneity. Missing
+or unclear data were noted as unspecified.
+Quality Assessment and Risk of Bias
+Given the variation in study designs, several quality
+assessment and risk-of-bias tools were used: the
+TABLE 1.Exclusion Criteria for a Systematic Review of Simulation-Based Education in Low- and Middle-Income
+Countries
+General exclusions /C15 Full-text unavailable in English
+/C15 Outside publication date limits
+/C15 Conference abstract
+/C15 Full-text unavailable
+/C15 Review article
+/C15 Educational methods or learning population unclear or poorly defined
+/C15 Program duplicate
+Setting exclusions /C15 High-income country
+/C15 Non-health care setting
+/C15 Non-human participants
+Intervention exclusions /C15 No educational intervention
+/C15 Educational intervention without live, clinically relevant simulation-based education
+/C15 Simulation without an educational component
+/C15 Validation of simulator outside of a learning program
+/C15 Non-interventional radiology and pathology skills (e.g., interpretation of investigations)
+/C15 Training in basic sciences, including anatomy
+/C15 Training in epidemiology, public health, or policy, including tabletop exercises
+Evaluation exclusions /C15 Absence of evaluation or assessment of outcomes or results
+/C15 Unable to demonstrate Kirkpatrick’s Level 4
+Systematic Review of Simulation-Based Education in Low- and Middle-Income Countries www.ghspjournal.org
+Global Health: Science and Practice 2024 | Volume 12 | Number 6 3
+<<<PAGE=4>>>
+National Institutes of Health before-after (pre-post)
+quality assessment tool, the Risk of Bias in Non-
+randomized Studies of Interventions, the Risk of
+Bias 2 tool for cluster-randomized trials, and the
+Risk of Bias 2 tool for randomized trials.
+Synthesis Methods
+Descriptive statistics and narrative synthesis were
+used due to study heterogeneity.37 Studies were
+divided into educational programs, which focus
+exclusively on training, and broader interventions
+using SBE, which usually included additional
+quality improvement strategies beyond education.
+Within these categories, they were further separated
+into standardized programs, which involve standard-
+ized curricula previously used in different settings,
+and independent programs, which are implemented
+in a single context or study. For example, Helping
+Babies Breathe (HBB) is a program initially designed
+by the American Academy of Pediatrics but has since
+been applied in many settings, so it was classified as a
+standardized program.
+38 Conversely, any study us-
+ing a novel simulator or simulation program would
+be classified as an independent program.
+Other characteristics were tabulated and graphed
+using GraphPad Prism version 10 (GraphPad
+Software Inc., MA, USA) and Microsoft Excel
+version 16 (Microsoft Corporation, WA, USA).
+RESULTS
+Study Selection
+The initial search yielded 27,738 records. After re-
+moving duplicates and screening, 97 studies were
+included (Figure 1). Included studies are listed in
+Supplement 2.
+Quality Assessment and Risk of Bias in
+Studies
+Studies assessed using the National Institutes of
+Health tool included 29 good quality, 35 fair
+quality, and 12 poor quality articles. Of those assessed
+using risk-of-bias tools, 8 studies were at low risk of
+bias and 13 at moderate risk (or“some concerns”).
+Study Characteristics
+Geographic Distribution
+Studies across 50 LMICs were included, with
+54 representing sub-Saharan Africa (56%) and
+15 representing South Asia (15%) (Figure 2).
+Sixty-seven studies included middle-income coun-
+tries (69%), 23 included low-income countries
+(24%), and 7 included a combination (7%).
+Learning Focus and Populations
+The most common educational focus was neona-
+tology (48%) or obstetrics (30%) (Table 4). There
+were 41 studies training doctors (42%) and 34
+training nurses (35%). However, 35 studies also
+included at least 1 unspecified health worker pop-
+ulation (36%).
+Simulation Modalities
+SBE modalities are listed inTable 5.
+Kirkpatrick Levels
+In addition to Kirkpatrick Level 4, 82 evaluated
+additional program outcomes (85%). Most com-
+monly, this was Level 3 (behavior), which was eval-
+uated by 80 studies (82%). Nine studies evaluated
+all levels (9%).
+Simulation-Based Education Programs
+Simulation has been used in numerous education-
+al programs across LMICs, with 60 relevant studies
+identified (62%).
+Standardized
+Standardized education programs using simulation
+were described in 36 studies (37%), with 27 including
+TABLE 2. Levels of the Kirkpatrick Model and Applications to Simulation-Based Education25
+Kirkpatrick Level And Description Example
+Level 1–Reaction: How participants react to the program Learner satisfaction with a laparoscopic surgery training program measured
+by Likert scales
+Level 2–Learning: Changes in attitudes, knowledge, and/or skill An increase in learner’s knowledge regarding laparoscopic surgery following
+a training program
+Level 3–Behavior: Changes in behavior Increased use of laparoscopic surgery by learners following a training
+program
+Level 4–Results: Changes in final results/outcomes Reduced length of stay for patients following a laparoscopic surgery training
+program for learners
+Sixty studies
+reported on
+simulation being
+used in
+educational
+programs across
+LMICs.
+Systematic Review of Simulation-Based Education in Low- and Middle-Income Countries www.ghspjournal.org
+Global Health: Science and Practice 2024 | Volume 12 | Number 6 4
+<<<PAGE=5>>>
+a neonatology focus and 13 with an obstetric focus
+(some were focused on both areas). The most fre-
+quently reported was Helping Babies Breathe (HBB),
+which incorporates low-technology mannequins
+and scenario-based simulation to teach neonatal
+resuscitation.
+39,40 HBB has been studied across sub-
+Saharan Africa, South Asia, and Central America.40–45
+The program had success in 8 Tanzanian facilities,
+resulting in a 42% reduction in neonatal mortality.41
+However, Arlington et al. demonstrated skill decay
+4–6m o n t h sa f t e rH B Bt r a i n i n g .46 This influenced
+other HBB initiatives to incorporate maintenance
+training.42 A robust evaluation at Haydom Lutheran
+Hospital, Tanzania, where HBB training was main-
+tained with frequent refresher sessions, demonstrated
+ongoing improvements in mortality over 5 years after
+implementation.
+47
+To expand the use of HBB, some programs use
+“train the trainer” (TTT) approaches.40,48 This is a
+training cascade where skills and knowledge are
+transferred to trainees, who then teach others.49
+Goudar et al. successfully initiated the TTT model
+for HBB in India, resulting in 599 trained birth
+attendants.40 Ultimately, stillbirth reduced from
+3% to 2.3% (P¼.035).
+PRONTO, another standardized simulation
+course, has minimal didactic content and incorpo-
+rates hybrid simulation using“PartoPants” simula-
+tors to train interprofessional teams on providing
+optimal neonatal and obstetric care during birth.
+50–52
+Combined with volunteers or simulated patients,
+this simulates the birth process.51,52 PRONTO has
+been studied in Mexico, Guatemala, India, Ghana,
+Kenya, and Uganda.
+51–55 Walker et al. observed a
+statistically significant 40% lower neonatal mortality
+rate in Mexico 8 months after intervention.
+52
+Other programs incorporating simulations in
+LMICs include Practical Obstetric Multi-Professional
+Training,
+56,57 Advanced Life Support in Obstetrics,58
+and Advanced Trauma Life Support.59
+Independent
+Twenty-four studies described independent
+educational programs that included simulation
+(25%).
+TABLE 3. List of Simulation Modalities Adapted From the Health Care Simulation Dictionary21
+Simulation Modality Description
+Simulated/standardized patients/participants A person who has been coached to simulate an actual patient/
+participant
+Role-playa Assuming the part of another during simulation
+Scenario-based simulation A detailed description of a simulation exercise
+Mannequins Life-sized human-like simulators
+Synthetic part-task trainer Part-task trainer consisting of synthetic tissue. A part-task trainer
+describes a device designed to train just the key elements of the proce-
+dure or skill being learned
+Laparoscopic bench-trainer A box (or bench) model used to train laparoscopy
+35
+Animal-based part-task trainer Part-task trainer consisting of animal tissue
+Cadaveric part-task trainer Part-task trainer consisting of cadaveric tissue
+Extended reality Virtual, augmented or mixed reality
+36
+Virtual patients A computer program that simulates real-life clinical scenarios in which
+the learner acts as a health worker
+Computer or screen-based simulation Modelling of real-life processes with inputs and outputs exclusively
+confined to a computer. Subsets include extended reality and virtual
+patients
+Hybrid simulation Combining two or more simulation modalities
+Telesimulation Using the internet to link simulators between an instructor and trainee in
+different locations
+Distributed simulation Transportable, self-contained simulation sets
+In-situ simulation Simulation taking place in the real clinical setting
+a This review differentiated simulated/standardized participants and role-play by requiring that simulated/standardized participants be
+trained/actors.
+Systematic Review of Simulation-Based Education in Low- and Middle-Income Countries www.ghspjournal.org
+Global Health: Science and Practice 2024 | Volume 12 | Number 6 5
+<<<PAGE=6>>>
+Paludo et al. described training Brazilian doc-
+tors in laparoscopic partial nephrectomy for renal
+cancer.
+60 The simulation program incorporated
+244 hours of virtual reality laparoscopic simulation
+into the hospital curriculum over 4 years. Among
+the 124 surgical patients, those operated on by the
+simulation-trained group were significantly more
+likely to achieve the“trifecta” of no complications,
+negative surgical margins, and minimal decrease in
+renal function (P¼.007).
+60
+Dean et al. studied cataract surgery across 5
+sub-Saharan African countries.61 As a m p l eo f5 0
+trainee ophthalmologists received either a 5-day
+simulation program in addition to standard training
+or standard training exclusively. The program in-
+cluded surgery on synthetic eyes and described
+feedback, deliberate practice, and reflective learn-
+ing. Following completion, clinical outcomes and
+a validated competency assessment were compared
+between groups, and posterior capsule rupture rates
+were significantly lower among the simulation
+group (7.8% vs. 26.6%,P<.001). Competency as-
+sessment scores were significantly higher after
+3 months and 12 months (P<.001). It was not until
+the 15-month assessment that the difference in
+scores normalized.
+Simulation-Based Education Components of
+Other Interventions
+SBE has been successfully used to complement other
+quality-improvement strategies.53,62,63 Thirty-seven
+(38%) studies were included in this category.
+Interventions Including Standardized Simulation-
+Based Training
+Seventeen initiatives used SBE as a core compo-
+nent of their intervention (18%). The Emergency
+FIGURE 1. PRISMA Flowchart for a Systematic Review of Simulation-Based Education in Low- and Middle-
+Income Countries
+Seventeen
+initiatives used
+SBE as a core
+component of
+their intervention.
+Systematic Review of Simulation-Based Education in Low- and Middle-Income Countries www.ghspjournal.org
+Global Health: Science and Practice 2024 | Volume 12 | Number 6 6
+<<<PAGE=7>>>
+Triage Assessment and Treatment Course com-
+bined role-play with modular learning of guide-
+lines. Variations of this course have been applied
+in several settings.64–66 For example, Hands et al.
+implemented a 5-day program in Sierra Leone
+training nurses. Subsequently, pediatric mortality
+and treatment practices improved; however, statis-
+tical analysis was not conducted.
+64
+Other studies used previously described stan-
+dardized programs but packaged them alongside
+other initiatives. For example, Rule et al. studied
+HBB in Kenya but included policy revision and ad-
+ministrative changes relating to data collection.
+43
+After completion of the quality-improvement pro-
+gram, including training 96 providers in HBB, the
+rate of asphyxia-related mortality decreased by
+53% (P¼.01).
+A similar adaptation of PRONTO was reported
+by Walker et al. in Kenya and Uganda.
+53 The
+intervention package additionally included data-
+strengthening strategies, quality improvement colla-
+boratives, and a childbirth checklist. The study was a
+cluster-randomized trial, where facilities were pair-
+matched and assigned intervention or control. The
+findings demonstrated reduced neonatal mor-
+tality and stillbirth among the intervention facilities
+(15.3% vs. 23.3%,P<.0001).
+Interventions, including social media campaigns
+and workforce changes, have also been used along-
+side formalized simulation programs.
+54
+Interventions Including Independent
+Simulation-Based Training
+Broader interventions, including nonstandardized,
+independent SBE, were described in 20 studies
+(21%).
+One example by Gill et al. trained traditional
+birth attendants in Zambia.67 The program included
+teaching a resuscitation protocol using infant
+mannequins. The second major component of the
+intervention was the provision of antibiotics and fa-
+cilitated referral for possible sepsis. Traditional birth
+attendants received delivery kits for each birth, in-
+cluding resuscitation equipment, medications, and
+general materials. The program ultimately resulted
+in a significant reduction in neonatal mortality.
+Another program in Kazakhstan involved a
+variety of interventions, including patient regis-
+tries and clinician training to encourage patient
+self-management of chronic diseases.
+63 Role-
+playing was used to teach and encourage clinicians
+to engage in supportive dialogue with patients.
+Among other results, the program successfully
+improved the management of hypertension, with sig-
+nificant changes in the blood pressure of patients
+following the program. Specifically, the percentage of
+patients with blood pressures below 140/90mmHg
+increased from 24% to 56% (P<.001).
+Outcome Improvement
+Eighty-one studies tested for statistical signifi-
+cance (84%). Of this subset, 42 (52%) demonstrated
+FIGURE 2. Map of Low- and Middle-Income Countries Where Studies Have Evaluated Results of Simulation-
+Based Education
+Systematic Review of Simulation-Based Education in Low- and Middle-Income Countries www.ghspjournal.org
+Global Health: Science and Practice 2024 | Volume 12 | Number 6 7
+<<<PAGE=8>>>
+a partial improvement in outcomes and 19 (23%)
+demonstrated a complete improvement. Standard-
+ized programs were more likely to be associated
+with improvement in outcomes when compared
+to independent programs (78% vs. 71%). Seven
+studies provided information regarding cost of
+programs (7%) but did not report comparable
+measures.
+DISCUSSION
+This systematic review found that SBE has been
+successfully incorporated through standardized and
+independent programs in LMICs. Studies were most
+frequently in the fields of neonatology and obstetrics
+and in sub-Saharan Africa. We believe this is the first
+study to provide systematic and comprehensive in-
+sight into SBE use in LMICs. The findings support
+the potential for SBE to effectively train health
+workers in LMICs. Many studies demonstrated sig-
+nificant improvements in patient outcomes follow-
+ing programs.
+40,41,43,47,52,53,60,61,63,64,67 Innovative
+approaches, such as TTT, may be effective methods
+to further improve simulation capacity. The results
+of this review support using SBE to complement
+traditional educational approaches in LMICs.
+The significant representation of neonatology
+and obstetrics in this review may be due to their
+acute and interdisciplinary nature, which is parti-
+cularly suited to SBE.
+68 Funding is likely relevant,
+with child and maternal health being major recipi-
+ents of international financing.
+69 This finding differs
+from the review by Puri et al., where infectious dis-
+eases and reproductive health were the most
+common fields. This difference is likely explained
+by the inclusion of simulation-based assessment,
+which may be more suited to these topics.
+18 The
+significant representation of sub-Saharan Africa in
+our study is unsurprising given the region’sc o m p a -
+rably greater number of LMICs, though this differs
+again from the findings of the Puri study.
+22
+The most frequently reported modalities were
+mannequins, scenario-based simulation, and syn-
+thetic part-task trainers, likely due to their afford-
+ability and accessibility as lower-technology
+approaches. However, low-technology differs from
+low-efficacy, and low-technology approaches have
+been identified as a priority in resource-limited
+settings.
+12,18 The widespread application of lower-
+technology modalities suggests the educational val-
+ue of low-cost simulation is being realized. Puri et
+al. reported simulated patients as the most frequent
+modality in LMICs with a significant number of
+studies involving them as a method of quality as-
+sessment. When looking exclusively at SBE, they
+found mannequins to be most prevalent, which is
+consistent with our findings.
+The number of studies identified (n¼97) de-
+monstrates evaluation at Level 4 of the Kirkpatrick
+model has been achieved in many LMIC settings.
+However, only 9 studies evaluate all 4 levels, which
+is consistent with previous reviews of health care ed-
+ucation.
+28,70 Level 3 of the Kirkpatrick model, evalu-
+ation of behavior, was also evaluated in the majority
+of studies.
+When discussing SBE broadly, it is difficult to
+draw definitive conclusions about its efficacy in
+LMICs based on this review. This is due to the va-
+riety of contexts, simulation modalities, and out-
+come measures included. Consequently, many
+studies were judged as“partially” effective, an is-
+sue with systematic reviews that has long been
+recognized.
+71 Overlaid upon this is the issue of
+“causal attribution,” where it is difficult to deter-
+mine definitively that the program was responsi-
+ble for outcomes.25 Despite this, we found good
+evidence to suggest SBE can be used in LMICs,
+with statistically significant improvements evident
+after numerous initiatives.
+Evidence demonstrating the efficacy of stan-
+dardized programs can be more robust than inde-
+pendent programs as they have been studied in
+more contexts. In particular, the HBB program
+has been associated with significant reductions in
+stillbirth and neonatal mortality. The program
+also demonstrated the importance of skill mainte-
+nance for program efficacy, a finding consistent
+with previous studies.
+18,46,47,72
+Independent programs have proved that effec-
+tive SBE is also possible outside of standardized
+structures. Such programs have confirmed the
+TABLE 4. Learning Focus of Studies in a Systematic
+Review of Simulation-Based Education in Low- and
+Middle-Income Countries
+No. (%)
+(N597)
+Neonatology 47 (48)
+Obstetrics 29 (30)
+Acute/critical care 16 (16)
+Communication/leadership/team training 13 (13)
+Family planning 9 (9)
+Surgery 6 (6)
+Infectious diseases 3 (3)
+Other 4 (4)
+The findings of this
+review support the
+potential for SBE
+to effectively train
+health workers in
+LMICs.
+Systematic Review of Simulation-Based Education in Low- and Middle-Income Countries www.ghspjournal.org
+Global Health: Science and Practice 2024 | Volume 12 | Number 6 8
+<<<PAGE=9>>>
+value of integrating training into formalized insti-
+tutional structures or curricula.60 This is consistent
+with established simulation literature, which high-
+lights curriculum integration as critical.73 Despite
+the benefits of standardized courses, they may not
+be contextualized appropriately unless necessary
+modifications are adapted.
+74 Consideration of the
+educational context is vital to the success of SBE.73
+This review highlights that SBE is not limited
+to educational programs and is also used to intro-
+duce other initiatives, such as guidelines and proto-
+cols, or as an adjunct to additional interventions.64
+Despite successful applications, it remains dif-
+ficult to judge what makes an SBE program effec-
+tive in LMICs. This can be partially attributed to
+deficits in SBE reporting. Few studies report meth-
+ods in sufficient detail to facilitate comparison to
+reporting guidelines, which is unsurprising given
+both the recency of guideline development and
+their lack of emphasis on perspectives from
+LMICs.
+15,16 Nonetheless, there is typically mini-
+mal reporting of simulation design, prebriefing,
+and debriefing, and limited discussion of educational
+factors, such as deliberate practice and mastery learn-
+ing. Issues, including skill maintenance, feedback,
+and curriculum integration, are discussed sporadically
+but not to the extent where meaningful comparisons
+can be made. This is an issue for educators and
+researchers, given the importance of these factors
+for educational effectiveness. Ongoing simulation
+training is necessary to maintain skills. It has been
+suggested that reflective debriefing is the most
+important feature of SBE to facilitate learning.
+73
+While evidence suggests debriefing may occur dif-
+ferently across different societies and cultures,
+75 it
+remains important to understand how feedback is
+given to learners in any context. We also were un-
+able to extract meaningful data regarding other rel-
+evant features, including learner groups, facilitator
+training, and TTT approaches, despite their impor-
+tance.
+73 We recommend authors improve reporting
+of SBE initiatives to provide greater detail regarding
+their approach, which will improve transparency
+and replicability. This should include the above fea-
+tures of programs, as well as others such as program
+cost and duration. Such reporting would provide
+greater insights regarding the features of successful
+programs. In addition, it may help address miscon-
+ceptions around SBE, including the idea that it is
+prohibitively expensive for low-resource settings.
+We also recommend greater involvement of LMIC
+perspectives in the development of future guide-
+lines to ensure they are appropriate and consider
+all settings.
+Strengths and Limitations
+The strengths of the review include its comprehen-
+sive search strategy, the number of articles screened,
+and the focus and detail of data extraction. However,
+the topic required interpretation of definitions that
+are often contested in the simulation community,
+such as simulation modalities. For example, simula-
+tion scenarios can be described to varying degrees,
+so determining when studies qualify as scenario-
+based simulation was difficult. Similarly, determining
+when a program is describing team training was diffi-
+cult, so we relied upon this being explicitly articulated
+by the authors, and equivalent issues were encoun-
+tered when ascertaining evaluation levels. For exam-
+ple, when training communication skills for doctors
+providing contraception, determining what classifies
+as a Level 4 evaluation is debatable. It may be patient
+satisfaction, contraceptive uptake, pregnancy rates,
+or pregnancy-related complications. Judging the mo-
+dalities used in standardized courses was also difficult
+as some materials are not publicly available. In these
+situations, modalities were determined based on
+organizational websites, course resources, and pub-
+lished literature. To minimize any subjectivity, we
+relied upon the independent consensus of 2 investi-
+gators for study inclusion, judgment of Kirkpatrick
+TABLE 5. Frequency of Reported Modalities of
+Simulation-Based Education in Low- and Middle-
+Income Countries
+No. (%)
+(N597)
+Mannequina 49 (51)
+Scenario-based simulation 46 (47)
+Synthetic part-task trainer 21 (22)
+Role-play 20 (21)
+Unspecified 20 (21)
+Hybrid simulation 8 (8)
+In-situ simulation 7 (7)
+Animal-based part-task trainer 4 (4)
+Simulated/standardized patients/
+participants
+2 (2)
+Laparoscopic bench trainer 1 (1)
+Cadaveric part-task trainer 1 (1)
+Extended reality 1 (1)
+Telesimulation 1 (1)
+a Mannequins were typically low-technology versions.
+Systematic Review of Simulation-Based Education in Low- and Middle-Income Countries www.ghspjournal.org
+Global Health: Science and Practice 2024 | Volume 12 | Number 6 9
+<<<PAGE=10>>>
+levels, and simulation modalities, with a third in-
+vestigator resolving conflicts. The variability of pro-
+gram details reported, as previously discussed, also
+limited the conclusions that could be drawn.
+CONCLUSION
+Ultimately, SBE has been used successfully to train
+health workers in LMICs across numerous settings.
+However, there is a need for further research in
+low-income countries, and the evidence supporting
+some modalities is greater than others. Reporting
+varies significantly, with often insufficient informa-
+tion provided to judge against reporting standards.
+Furthermore, standards are based heavily on re-
+search from high-income countries and are rarely
+referenced in LMICs. This suggests a need to devel-
+op and adopt region-specific reporting standards or
+to include LMICs in the development of a future
+global consensus. This would ensure standards are
+appropriate for all settings and would potentially
+improve their use in LMICs.
+Acknowledgments: We would like to acknowledge the support and
+guidance provided by the Monash Health Library at Monash Medical
+Centre, Melbourne, Australia, as well as the Monash University library
+staff. This work was originally presented at the 2024 Pacific Association
+for Paediatric Surgeons Annual Meeting and the 2024 Royal
+Australasian College of Surgeons Annual Scientific Congress.
+Author contributions:Samuel J.A. Robinson: conceptualization, data
+curation, formal analysis, investigation, methodology, project
+administration, visualization, writing–original draft, writing–review and
+editing. Angus M.A. Ritchie: investigation, methodology, project
+administration, writing–review and editing. Maurizio Pacilli:
+investigation, methodology, project administration, supervision, writing–
+review and editing. Debra Nestel: investigation, project administration,
+supervision, writing–review and editing. Elizabeth McLeod:
+investigation, project administration, supervision, writing–review and
+editing. Ramesh Mark Nataraja: conceptualization, investigation,
+methodology, project administration, supervision, writing–review and
+editing. All authors reviewed and approved the final version of the article.
+Competing interests:None declared.
+REFERENCES
+1. Health workforce. World Health Organization. Accessed October
+16, 2024.https://www.who.int/health-topics/health-workforce#
+tab¼tab_1
+2. World Health Organization (WHO).Transforming and Scaling Up
+Health Professionals’ Education and Training. WHO; 2013.
+Accessed October 16, 2024.https://www.who.int/publications/i/
+item/transforming-and-scaling-up-health-professionals%E2%80%
+99-education-and-training
+3. Strategic planning to improve surgical, obstetric, anaesthesia, and
+trauma care in the Asia-Pacific Region. Program in Global Surgery
+and Social Change. Accessed October 16, 2024.https://www.
+pgssc.org/asia-pacific-conference
+4. Meara JG, Leather AJM, Hagander L, et al. Global Surgery 2030:
+evidence and solutions for achieving health, welfare, and economic
+development. Lancet. 2015;386(9993):569–624. CrossRef.
+Medline
+5. Gaba DM. The future vision of simulation in health care.Qual Saf
+Health Care.2004;13(Suppl 1):i2–i10. CrossRef. Medline
+6. Higham H, Baxendale B. To err is human: use of simulation to en-
+hance training and patient safety in anaesthesia.Br J Anaesth.
+2017;119(Suppl 1):i106–i114. CrossRef. Medline
+7. Wang Y, Li X, Liu Y, Shi B. Mapping the research hotspots and theme
+trends of simulation in nursing education: a bibliometric analysis
+from 2005 to 2019.Nurse Educ Today.2022;116:105426.
+CrossRef. Medline
+8. About SSH. Society for Simulation in Healthcare. Accessed October
+16, 2024.https://www.ssih.org/About-SSH
+9. Cook DA. How much evidence does it take? A cumulative meta-
+analysis of outcomes of simulation-based education.Med Educ.
+2014;48(8):750–760. CrossRef. Medline
+10. Cant RP, Cooper SJ. Simulation-based learning in nurse education:
+systematic review.J Adv Nurs.2010;66(1):3–15. CrossRef. Medline
+11. Andreatta P. Healthcare simulation in resource-limited regions and
+global health applications.Simul Healthc.2017;12(3):135–138.
+CrossRef. Medline
+12. Hamstra SJ, Brydges R, Hatala R, Zendejas B, Cook DA. Reconsidering
+fidelity in simulation-based training.Acad Med.2014;89(3):387–92.
+CrossRef
+13. Nimbalkar A, Patel D, Kungwani A, Phatak A, Vasa R, Nimbalkar S.
+Randomized control trial of high fidelity vs low fidelity simulation for
+training undergraduate students in neonatal resuscitation.BMC Res
+Notes. 2015;8:636. CrossRef. Medline
+14. Massoth C, Röder H, Ohlenburg H, et al. High-fidelity is not superior
+to low-fidelity simulation but leads to overconfidence in medical stu-
+dents. BMC Med Educ.2019;19(1):29. CrossRef. Medline
+15. Cheng A, Kessler D, Mackinnon R, et al. Reporting guidelines for
+health care simulation research: extensions to the CONSORT and
+STROBE statements.Adv Simul (Lond).2016;1:25. CrossRef.
+Medline
+16. INACSL Standards Committee. Onward and upward: introducing
+the healthcare simulation standards of Best PracticeTM. Clin Simul
+Nurs. 2021;58:1–4. CrossRef
+17. Jha AK, Larizgoitia I, Audera-Lopez C, Prasopa-Plaizier N, Waters
+H, Bates DW. The global burden of unsafe medical care: analytic
+modelling of observational studies.BMJ Qual Saf.2013;22
+(10):809–815. CrossRef. Medline
+18. Puri L, Das J, Pai M, et al. Enhancing quality of medical care in low
+income and middle income countries through simulation-based
+initiatives: recommendations of the Simnovate Global Health Domain
+Group. BMJ Simul Technol Enhanc Learn.2017;3(Suppl 1):S15–
+S22. CrossRef Medline
+19. Page MJ, McKenzie JE, Bossuyt PM, et al. The PRISMA 2020 state-
+ment: an updated guideline for reporting systematic reviews.BMJ.
+2021;372:n71. CrossRef. Medline
+20. Campbell M, McKenzie JE, Sowden A, et al. Synthesis without meta-
+analysis (SWiM) in systematic reviews: reporting guideline.BMJ.
+2020;368:l6890. CrossRef. Medline
+21. Lioce L, Lopreiato JO, Downing D, et al. Lioce L, ed.Healthcare
+Simulation Dictionary - Second Edition. 2.1 ed. Agency for
+Healthcare Research and Quality; 2020. Accessed October 16,
+2024. https://www.ssih.org/dictionary
+22. World Bank country and lending groups. The World Bank. 2022.
+Accessed October 16, 2024.https://datahelpdesk.worldbank.org/
+knowledgebase/articles/906519-world-bank-country-and-
+lending-groups
+23. World Health Organization (WHO).Classifying Health Workers:
+Mapping Occupations to the International Standard Classification.
+WHO; 2019. Accessed October 16, 2024.https://www.who.int/
+publications/m/item/classifying-health-workers
+Systematic Review of Simulation-Based Education in Low- and Middle-Income Countries www.ghspjournal.org
+Global Health: Science and Practice 2024 | Volume 12 | Number 6 10
+<<<PAGE=11>>>
+24. Goldie J. AMEE Education Guide no. 29: Evaluating educational
+programmes. Med Teach.2006;28(3):210–224. CrossRef. Medline
+25. Kirkpatrick D, Kirkpatrick J.Evaluating Training Programs: The Four
+Levels. Berrett-Koehler Publishers, Incorporated; 2006.
+26. McGaghie WC. Research opportunities in simulation-based medical
+education using deliberate practice.Acad Emerg Med.2008/11/
+01 2008;15(11):995–1001. CrossRef
+27. DeSilets LD. An update on Kirkpatrick’s model of evaluation: part
+two. J Contin Educ Nurs.2018;49(7):292–293. CrossRef. Medline
+28. Johnston S, Coyer FM, Nash R. Kirkpatrick’s evaluation of simulation
+and debriefing in health care education: a systematic review.J Nurs
+Educ. 2018;57(7):393–398. CrossRef. Medline
+29. Yardley S, Dornan T. Kirkpatrick’s levels and education‘evidence’.
+Med Educ.2012;46(1):97–106. CrossRef. Medline
+30. Reio TG, Rocco TS, Smith DH, Chang E. A critique of Kirkpatrick’s
+evaluation model.New Horiz Adult Educ Hum Resource Dev.
+2017;29(2):35–53. CrossRef
+31. Allen LM, Hay M, Palermo C. Evaluation in health professions
+education— Is measuring outcomes enough?Med Educ.2022;56
+(1):127–136. CrossRef. Medline
+32. World Health Organization (WHO).Evaluating Training in WHO.
+WHO; 2010. Accessed October 16, 2024.https://iris.who.int/
+handle/10665/70552
+33. Buzachero VV, Phillips J, Phillips PP, Phillips ZL. Healthcare perfor-
+mance improvement trends and issues. In: Buzachero VV, Phillips J,
+Phillips P, Phillips ZP, eds.Measuring ROI in Healthcare: Tools and
+Techniques to Measure the Impact and ROI in Healthcare
+Improvement Projects and Programs.McGraw-Hill Education; 2018.
+34. Nataraja RM, Ljuhar D, Pacilli M, et al. Long-term impact of a low-
+cost paediatric intussusception air enema reduction simulation-based
+education programme in a low-middle income country.World J
+Surg. 2022;46(2):310–321. CrossRef. Medline
+35. Scott DJ, Bergen PC, Rege RV, et al. Laparoscopic training on bench
+models: better and more cost effective than operating room experi-
+ence? J Am Coll Surg.2000;191(3):272–283. CrossRef. Medline
+36. Barteit S, Lanfermann L, Bärnighausen T, Neuhann F, Beiersmann C.
+Augmented, mixed, and virtual reality-based head-mounted devices
+for medical education: systematic review.JMIR Serious Games.
+2021;9(3):e29080.CrossRef. Medline
+37. Popay J, Roberts HM, Sowden AJ, et al.Guidance on the Conduct of
+Narrative Synthesis in Systematic Reviews. A Product From the ESRC
+Methods Programme.Lancaster University; 2006.CrossRef
+38. Niermeyer S, Little GA, Singhal N, Keenan WJ. A short history of
+Helping Babies Breathe: why and how, then and now.Pediatrics.
+2020;146(Suppl 2):S101–S111. CrossRef. Medline
+39. Helping Babies Breathe. American Academy of Pediatrics. Updated
+June 13, 2023. Accessed October 16, 2023.https://www.aap.
+org/en/aap-global/helping-babies-survive/our-programs/
+helping-babies-breathe/
+40. Goudar SS, Somannavar MS, Clark R, et al. Stillbirth and newborn
+mortality in India after helping babies breathe training.Pediatrics.
+2013;131(2):e344–e352. CrossRef. Medline
+41. Vossius C, Lotto E, Lyanga S, et al. Cost-effectiveness of the“helping
+babies breathe” program in a missionary hospital in rural Tanzania.
+PLoS One.2014;9(7):e102080.CrossRef. Medline
+42. Umunyana J, Sayinzoga F, Ricca J, et al. A practice improvement
+package at scale to improve management of birth asphyxia in
+Rwanda: a before-after mixed methods evaluation.BMC Pregnancy
+Childbirth. 2020;20(1):583.CrossRef. Medline
+43. Rule ARL, Maina E, Cheruiyot D, Mueri P, Simmons JM, Kamath-
+Rayne BD. Using quality improvement to decrease birth asphyxia
+rates after‘Helping Babies Breathe’ training in Kenya.Acta Paediatr.
+2017;106(10):1666–1673. CrossRef. Medline
+44. Kamath-Rayne BD, Josyula S, Rule ARL, Vasquez JC. Improvements
+in the delivery of resuscitation and newborn care after Helping
+Babies Breathe training.J Perinatol.2017;37(10):1153–1160.
+CrossRef. Medline
+45. Wrammert J, Kc A, Ewald U, Målqvist M. Improved postnatal care is
+needed to maintain gains in neonatal survival after the implementa-
+tion of the Helping Babies Breathe initiative.Acta Paediatr.
+2017;106(8):1280–1285. CrossRef. Medline
+46. Arlington L, Kairuki AK, Isangula KG, et al. Implementation of
+“Helping Babies Breathe”: a 3-Year experience in Tanzania.
+Pediatrics. 2017;139(5):e20162132.CrossRef. Medline
+47. Størdal K, Eilevstjønn J, Mduma E, et al. Increased perinatal survival
+and improved ventilation skills over a five-year period: an observa-
+tional study.PLoS One.2020;15(10):e0240520.CrossRef. Medline
+48. Bellad RM, Bang A, Carlo WA, et al. A pre-post study of a multi-
+country scale up of resuscitation training of facility birth attendants:
+does Helping Babies Breathe training save lives?BMC Pregnancy
+Childbirth. 2016;16(1):222.CrossRef. Medline
+49. Mormina M, Pinder S. A conceptual framework for training of trai-
+ners (ToT) interventions in global health.Global Health.2018;14
+(1):100. CrossRef. Medline
+50. About Us. PRONTO International. Accessed October 16, 2024.
+https://prontointernational.org/about-us/
+51. Afulani PA, Aborigo RA, Walker D, Moyer CA, Cohen S, Williams J.
+Can an integrated obstetric emergency simulation training improve
+respectful maternity care? Results from a pilot study in Ghana.Birth.
+2019;46(3):523–532. CrossRef. Medline
+52. Walker DM, Cohen SR, Fritz J, et al. Impact Evaluation of PRONTO
+Mexico. Simul Healthc.2016;11(1):1–9. CrossRef. Medline
+53. Walker D, Otieno P, Butrick E, et al. Effect of a quality improvement
+package for intrapartum and immediate newborn care on fresh still-
+birth and neonatal mortality among preterm and low-birthweight
+babies in Kenya and Uganda: a cluster-randomised facility-based
+trial. Lancet Glob Health.2020;8(8):e1061–e1070. CrossRef.
+Medline
+54. Walton A, Kestler E, Dettinger JC, Zelek S, Holme F, Walker D.
+Impact of a low-technology simulation-based obstetric and newborn
+care training scheme on non-emergency delivery practices in
+Guatemala. Int J Gynaecol Obstet.2016;132(3):359–364.
+CrossRef. Medline
+55. Joudeh A, Ghosh R, Spindler H, et al. Increases in diagnosis and
+management of obstetric and neonatal complications in district hos-
+pitals during a high intensity nurse-mentoring program in Bihar,
+India. PLoS One.2021;16(3):e0247260.CrossRef. Medline
+56. Egenberg S, Masenga G, Bru LE, et al. Impact of multi-professional,
+scenario-based training on postpartum hemorrhage in Tanzania: a
+quasi-experimental, pre- vs. post-intervention study.BMC Pregnancy
+Childbirth. 2017;17(1):287.CrossRef. Medline
+57. Crofts JF, Mukuli T, Murove BT, et al. Onsite training of doctors, mid-
+wives and nurses in obstetric emergencies, Zimbabwe.Bull World
+Health Organ.2015;93(5):347–351. CrossRef. Medline
+58. Dresang LT, González MMA, Beasley J, et al. The impact of
+Advanced Life Support in Obstetrics (ALSO) training in low-resource
+countries. Int J Gynaecol Obstet.2015;131(2):209–215. CrossRef.
+Medline
+59. Wang P, Li NP, Gu YF, et al. Comparison of severe trauma care effect
+before and after advanced trauma life support training.Chin J
+Traumatol. 2010;13(6):341–344. Medline
+60. Paludo AO, Knijnik P, Brum P, et al. Urology residents simulation
+training improves clinical outcomes in laparoscopic partial nephrec-
+tomy. J Surg Educ.2021;78(5):1725–1734. CrossRef. Medline
+61. Dean WH, Gichuhi S, Buchan JC, et al. Intense simulation-based
+surgical education for manual small-incision cataract surgery.JAMA
+Ophthalmol. 2021;139(1):9–15. CrossRef. Medline
+Systematic Review of Simulation-Based Education in Low- and Middle-Income Countries www.ghspjournal.org
+Global Health: Science and Practice 2024 | Volume 12 | Number 6 11
+<<<PAGE=12>>>
+62. Vukoja M, Dong Y, Adhikari NKJ, et al. Checklist for early recognition
+and treatment of acute illness and injury: an exploratory multicenter
+international quality-improvement study in the ICUs with variable
+resources.Crit Care Med.2021;49(6):e598–e612.CrossRef. Medline
+63. Chan BTB, Rauscher C, Issina AM, et al. A programme to improve
+quality of care for patients with chronic diseases, Kazakhstan.Bull
+World Health Organ.2020;98(3):161–169. CrossRef. Medline
+64. Hands S, Verriotis M, Mustapha A, Ragab H, Hands C. Nurse-led
+implementation of ETATþ is associated with reduced mortality in a
+children’s hospital in Freetown, Sierra Leone.Paediatr Int Child
+Health. 2020;40(3):186–193. CrossRef. Medline
+65. Molyneux E, Ahmad S, Robertson A. Improving triage and emergency
+care for children reduces inpatient mortality in a resource-constrained
+setting.Bull World Health Organ.2006;84(4):314–319.Medline
+66. Irimu GW, Gathara D, Zurovac D, et al. Performance of health
+workers in the management of seriously sick children at a Kenyan
+tertiary hospital: before and after a training intervention.PLoS One.
+2012;7(7):e39964.CrossRef. Medline
+67. Gill CJ, Phiri-Mazala G, Guerina NG, et al. Effect of training tradi-
+tional birth attendants on neonatal mortality (Lufwanyama Neonatal
+Survival Project): randomised controlled study.BMJ. 2011;342:
+d346. CrossRef. Medline
+68. Lateef F. Simulation-based learning: just like the real thing.J Emerg
+Trauma Shock.2010;3(4):348–352. CrossRef. Medline
+69. Health financing. Institute for Health Metrics and Evaluation.
+Accessed October 16, 2024.https://www.healthdata.org/
+research-analysis/health-policy-planning/health-financing
+70. Tian J, Atkinson NL, Portnoy B, Gold RS. A systematic review of
+evaluation in formal continuing medical education.J Contin Educ
+Health Prof.2007;27(1):16–27. CrossRef. Medline
+71. Rycroft-Malone J, McCormack B, Hutchinson AM, et al. Realist syn-
+thesis: illustrating the method for implementation research.
+Implement Sci.2012;7:33. CrossRef. Medline
+72. Versantvoort JMD, Kleinhout MY, Ockhuijsen HDL, Bloemenkamp K,
+de Vries WB, van den Hoogen A. Helping Babies Breathe and its
+effects on intrapartum-related stillbirths and neonatal mortality in
+low-resource settings: a systematic review.Arch Dis Child.2020;
+105(2):127–133. CrossRef. Medline
+73. McGaghie WC, Issenberg SB, Petrusa ER, Scalese RJ. A critical re-
+view of simulation-based medical education research: 2003–2009.
+Med Educ.2010;44(1):50–63. CrossRef. Medline
+74. Bates J, Schrewe B, Ellaway RH, Teunissen PW, Watling C.
+Embracing standardisation and contextualisation in medical educa-
+tion. Med Educ.2019;53(1):15–24. CrossRef. Medline
+75. Ulmer FF, Sharara-Chami R, Lakissian Z, Stocker M, Scott E,
+Dieckmann P. Cultural prototypes and differences in simulation
+debriefing. Simul Healthc.2018;13(4):239 –246. CrossRef.
+Medline
+Peer Reviewed
+Received: April 17, 2024;Accepted: October 13, 2024;First Published Online:November 7, 2024.
+Cite this article as: Robinson SJA, Ritchie AMA, Pacilli M, Nestel D, McLeod E, Nataraja RM. Simulation-based education of health workers in low- and
+middle-income countries: a systematic review.Glob Health Sci Pract. 2024;12(6):e2400187.https://doi.org/10.9745/GHSP-D-24-00187
+© Robinson et al. This is an open-access article distributed under the terms of the Creative Commons Attribution 4.0 International License (CC BY 4.0),
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly cited. To view a
+copy of the license, visithttps://creativecommons.org/licenses/by/4.0/. When linking to this article, please use the following permanent link:https://
+doi.org/10.9745/GHSP-D-24-00187
+Systematic Review of Simulation-Based Education in Low- and Middle-Income Countries www.ghspjournal.org
+Global Health: Science and Practice 2024 | Volume 12 | Number 6 12

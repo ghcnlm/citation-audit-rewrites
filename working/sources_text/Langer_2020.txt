@@ -1,0 +1,931 @@
+<<<PAGE=1>>>
+Summary
+This chapter presents an analytical framework for investigating the effectiveness 
+of interventions aiming to support the use of evidence in policy and practice (i.e. 
+evidence-informed decision making (EIDM)). The analytical framework draws 
+on two existing conceptual tools to research and understand EIDM: the Science 
+of Using Science framework (Langer et al., 2016a) and the Context Matters 
+framework (Weyrauch et al., 2016). It aims to present an inductive analytical tool 
+that can be adapted and applied by decision makers, researchers and knowledge 
+brokers to explore evidence use interventions at all stages of development – 
+from conceptualisation and planning to implementation to evaluation of inter-
+ventions. It does so by providing a structured approach to categorising evidence 
+use interventions through a mechanism typology, and to categorising evidence 
+use outcomes by applying a behaviour change lens. Contextual factors influenc-
+ing evidence use are structured and organised too. Practitioners of EIDM are 
+thus provided with a versatile conceptual device that can be applied in investi-
+gating different facets of the process of using evidence to inform decisions.
+Introduction
+This chapter introduces an inductive analytical framework for conceptualising 
+evidence use interventions and investigating their potential effects. The frame-
+work draws on existing conceptual tools for researching evidence-informed 
+decision making (EIDM) and is aimed at supporting decision makers, research-
+ers and knowledge brokers in exploring evidence use interventions. It does not 
+constitute a deductive or normative framework outlining what or how inter-
+ventions should lead to positive impacts on decision makers’ use of evidence. 
+The framework is intended as a versatile analytical device that can be adapted 
+and used as an iterative lens to support the conceptualisation, implementation 
+and evaluation of evidence use interventions.
+This analytical framework was used to guide the research for and analysis of 
+the case studies in this book. The insights and lessons emerging from the case 
+studies were used to further refine this framework, as discussed in 
+Chapter 13.
+This chapter starts by explaining why there is a need for a new analytical 
+framework to conceptualise evidence use interventions and their potential effects. 
+3 Using evidence in Africa
+A framework to assess what  
+works, how and why
+Laurenz Langer and V anesa Weyrauch1
+<<<PAGE=2>>>
+Using evidence in Africa 35
+It then discusses existing frameworks and analytical tools. The proposed analytical 
+framework is then presented and illustrated in detail. The chapter concludes with 
+thoughts on the potential application and limitations of the framework.
+How an analytical framework can support  
+EIDM research and practice
+There is now a considerable body of research evaluating the effectiveness of 
+strategies promoting EIDM/EBPM. Different types of evidence use strategies 
+have been evaluated, focusing, for example on the impact of individual evi -
+dence champions, communities of practice or structural changes in organi -
+sational management and supervision structures. This growing number of 
+evaluations covers multiple sectors such as health care, education, social work 
+and international development and includes different users of evidence at a 
+practice and policy level.
+The same trend can be observed at a research synthesis level with multiple 
+reviews attempting to bring together the results of these primary evaluations 
+to understand what works in supporting research use (e.g. 
+Moore et al., 2011). 
+However, individual reviews differ in their conclusions. For example, while 
+Y oost and colleagues’ (2015) meta-analysis found that a multifaceted interven-
+tion on nurses’ use of evidence (e.g. educational meetings and use of a mentor) 
+had no effect, Hines and peers’ (2015) systematic review identified interactive 
+or activity-based learning to be effective in supporting nurses’ evidence use. It 
+is thus a challenge to generalise the findings of these reviews of what works to 
+increase research use and to assess the patterns and directions of effects in the 
+body of evidence.
+In addition, it is challenging to compare and contrast different evidence use 
+interventions across contexts as there is no agreed-on typology to categorise such 
+interventions. For example, the intervention of using mentoring to support deci-
+sion makers’ use of evidence has been described as an intervention to support 
+relationship-building and social influence by some commentators (e.g. Jordaan 
+et al., 2018), whereas others see it primarily as a training approach (e.g. Y oost et al., 
+2015). Another difficulty is that interventions to support evidence use within 
+government are rarely reported and discussed within the wider academic debates 
+on EIDM. This fragmented state of conceptualisation of evidence use interven-
+tions challenges a transfer of knowledge across contexts. For example, decision 
+makers in one country might not be aware of similar EIDM interventions and 
+approaches in another country because they are reported and framed differently.
+This characteristic of a fragmented evidence base for what works to support 
+and institutionalise EIDM prevails in Africa too. As has happened internationally, 
+Africa has seen a range of different evidence use interventions covering a spectrum 
+of approaches. Examples are capacity-building programmes such as the Building 
+Capacity to Use Research Evidence Programme (BCURE), to rapid response 
+services such as pioneered by the Africa Centre for Rapid Evidence Synthesis, 
+to high-level inter-governmental partnerships such as the T wende Mbele initia-
+tive, and continental evidence networks such as the Africa Evidence Network.
+<<<PAGE=3>>>
+36 Laurenz Langer and V anesa Weyrauch
+A particular feature of these approaches is that a comparatively large number 
+of interventions and instruments are driven by African governments themselves. 
+This includes for example South Africa’s National Evaluation System (Goldman, 
+2014) and Kenya’s parliamentary evidence-based policy-making caucus.
+Many of these interventions in different countries hold large potential for 
+synergies and cross-learning, but the reality is that most EIDM interventions 
+and most cross-learning is confined to national, and often sectoral, silos (AEN, 
+2019). This situation is not confined to the African evidence ecosystem. We 
+therefore propose an analytical framework to explore evidence use interven -
+tions in Africa, in order to:
+1 Structure the available research and tacit knowledge on EIDM in a consist-
+ent manner;
+2 Identify patterns in this o verall evidence base;
+3 Support cross-learning and collaboration around synergies of different 
+interventions and approaches promoting evidence use.
+The analytical framework was tested and further refined through the research 
+and cross-learning presented within this book.
+Existing frameworks and analytical tools  
+for evidence use interventions
+In order to systematically report on and review the effectiveness of strategies for 
+evidence use, we require a detailed conceptual framework to categorise such inter-
+ventions. This framework needs to be applicable to a diverse range of contexts, 
+types of EIDM interventions and programmes so that it can guide their compara-
+tive analysis and investigation. At the highest level, there are three types of concep-
+tual frameworks and models in EIDM: 1) supply-side frameworks and models; 2) 
+demand-side frameworks and models, and 3) practice-informed frameworks and 
+theories of change. Each is briefly discussed in the following subsections.
+Supply-side framework and models
+The first coherent academic theories about the use and systematic contribution 
+of evidence to government policies can be traced back to the 1970s. Draw -
+ing on a decade of work on research use in the US government’s fight against 
+poverty, Carol Weiss developed a coherent theory of research use (Weiss, 1979). 
+Various research has since refined Weiss’s initial models, with the most important 
+advancements being the development of the two-communities theory of knowl-
+edge utilisation (Caplan, 1979
+), the supply-and-demand model (Landry et  al., 
+2001) and the producer-push and user-pull model ( Stone, 2002), all of which 
+are related. Essentially all three posit that researchers and policy makers are two 
+different professional ‘tribes’ with their own conventions, practices and thought-
+models. This leads to a disconnect which needs to be bridged through active 
+interventions, akin to learning each other’s languages. 
+Landry et al. (2001) adds
+<<<PAGE=4>>>
+Using evidence in Africa 37
+to this basic framework the notion of supplying research and demanding research 
+to open up the two-communities model to other groups such as civil society 
+organisations and practitioners who can either supply or demand research too.
+However, the idea that there are two distinct communities that need to be 
+bridged or in which evidence needs to be pushed from one side into action or 
+use on the other side seems a rather linear understanding of research use that 
+assumes a passive user ready to consume evidence. This leaves little room for 
+the co-construction and co-creation of knowledge (
+Stewart et al., 2017; Dayal, 
+2016) and gives a simplistic view of the realities facing policy makers and prac-
+titioners – the so-called demand side.
+Demand-side frameworks and models
+More recent reviews of models of evidence use criticise their strong emphasis on 
+the supply of evidence and abstract academic definitions of use (
+Newman et al., 
+2013; Langer et al., 2017). This has led to a more inclusive theory of evidence 
+use in which users can be co-producers of knowledge and evidence rather than 
+mere consumers (e.g. Oliver, 2012). Policy makers and practitioners are active pro-
+tagonists seeking evidence to inform their practice rather than passive recipients of 
+research, and in the process they create demand that drives evidence generation and 
+use. Stewart and peers (2017) argue that this shift in the conceptualisation of evi-
+dence use can be traced in a shift in language too. For example, while early concep-
+tions described evidence use as a linear process of academics producing and pushing 
+evidence to rational policy makers who merely take up this evidence, recent con-
+ceptions of evidence use describe an organic system spanning producers and users 
+of evidence, and intermediates, as well as a range of other factors.
+The terms ‘evidence system’ or ‘evidence ecosystem’ (Goldman, 2014; Stewart 
+et al., 2019) reflect well the shifting consensus relating to systemic models for evi-
+dence use. However, while individual attempts have been made to conceptualise 
+and visualise the essential elements of an evidence ecosystem and their interactions 
+(e.g. Shepherd, 2014; AEN, 2018), there is no agreed definition of what constitutes 
+an evidence ecosystem or how it can be developed and maintained. The monitor-
+ing and evaluation (M&E) sector in Africa has arguably moved the furthest ahead 
+within Africa, having established national evaluation systems driving both the sup-
+ply and demand for evidence. Countries such as South Africa, Uganda, Ghana, 
+Benin and Zimbabwe have made explicit attempts to build senior managers’ aware-
+ness of the importance of evidence, and so to stimulate demand. In addition, they 
+have been actively sharing lessons across these systems to work towards scaling and 
+institutionalisation across the continent (
+Goldman et al., 2018).
+This recent focus on the demand side of evidence use seems justified given the 
+relative paucity of work in EIDM explicitly focusing on decision makers (Langer 
+et al., 2016; Newman et al., 2013). In particular, in the context of a strong public 
+sector interest in understanding what works to make policy and practice pro -
+cesses more receptive to the use of evidence, it does not seem justified to apply 
+a rigid supply-side model to conceptualise evidence use ( Dayal, 2016; Langer 
+et al., 2017). There is now an increasing range of demand-side mechanisms and
+<<<PAGE=5>>>
+38 Laurenz Langer and V anesa Weyrauch
+activities proposed by public service sector organisations, such as capacity-building 
+for civil servants,2 evidence-informed guidelines3 and policy proposals requiring 
+an accompanying review of evidence. Further, research and practice relating to 
+these demand-side mechanisms is supported by a range of national governments, 
+which has led to a third theoretical frontier: developing empirical frameworks and 
+theories of change for the practice of evidence use.
+4
+Practice-informed frameworks and theories of change
+A last set of theories and models of EIDM does not so much aim to outline 
+overall meta-theories of how evidence can be used by policy makers. Rather, 
+a range of scholars has started to develop more micro-level theories of change 
+relating to how evidence can be used in particular contexts using different 
+interventions. Examples are the linkages and exchange model ( Lomas, 2000); 
+the context, evidence, and links model (Crewe and Y oung, 2002); the knowl-
+edge to action framework ( Graham and T etroe, 2009); and Parkhurst’s good 
+governance of evidence model (Parkhurst, 2017).
+The good governance of evidence model is of particular interest as it deep-
+dives into the institutional structures of evidence use. The model proposes a 
+more holistic understanding in which EIDM advocates strive for good govern-
+ance of evidence rather than ‘good’ use by individual decision makers.
+As part of a more empirically informed understanding of EIDM, scholars 
+have also attempted to better understand contextual variables such as barriers 
+to, and facilitators of, evidence use, either through individual case studies (e.g. 
+Uneke et al., 2011), primary research on decision makers’ perception of evi -
+dence and its use (e.g. Cronin and Sadan, 2015) or systematic reviews of such 
+factors (
+Oliver et al., 2014).
+This empirical work on barriers and facilitators is further complemented 
+by a rich body of knowledge on the role of context in influencing the use of 
+evidence (Cairney, 2016; Crewe and Y oung, 2002
+; Shaxson et al., 2015; Wey-
+rauch et al., 2016). Paul Cairney’s work in particular highlights the importance 
+of political factors in the use of evidence. In 2016, the learning from this work 
+on the role of context was formalised into the Context Matters framework 
+(
+Weyrauch et al., 2016), which unpacks the importance and nature of context 
+and its interaction with evidence use.
+This work on context does not focus directly on interventions to support 
+research use (which is within an organisation’s control), but rather on the fac-
+tors and variables that affect use. It asks which factors interventions need to 
+be sensitive to and work towards addressing. As a result, the work informs the 
+design of evidence use interventions and can be used to assess how an inter -
+vention interacts with different contexts that can affect the use of evidence. 
+However, it does not assess the effectiveness and causal impact of evidence use 
+interventions. This last contribution is provided by an existing body of work 
+focusing on assessing what works to support evidence use.
+As earlier mentioned, there have been a number of evaluations of the effec-
+tiveness of interventions aiming to support policy makers’ use of evidence.
+<<<PAGE=6>>>
+Using evidence in Africa 39
+Langer and colleagues’ (2016) systematic review of reviews identified 36 exist-
+ing reviews of primary evaluations of evidence use interventions, covering 129 
+primary evaluations. A key challenge in the synthesis of this large primary evi-
+dence base is to identify groups of homogenous interventions to understand 
+which of them work (or don’t work) to support evidence use, how and why. 
+A framework is required to group and categorise these interventions in order to 
+be able to aggregate their results and synthesise findings across contexts.
+A range of scholars has developed frameworks and typologies of evidence 
+use interventions, including Nutley et  al. (2007 ) and Gough et.al. (2011). 
+However, despite this range of existing typologies, there is no agreed over-
+arching theory of how to categorise evidence use interventions. Further, none 
+of the aforementioned work attempts to unpack the outcomes of research use. 
+This means there is an absence of conceptual work on how to categorise and 
+define different types and measures of evidence use. Aside from Carol Weiss’s 
+1979 definition of different types of use, Dobbins and colleagues’ (2009) 
+Global EIDM index and 3ie’s evidence use categorisation, little conceptual 
+guidance is available on how to consistently define and measure evidence use.
+In summary, there is a large body of conceptual and empirical research aim-
+ing to understand the practice of evidence use. This body of work has produced 
+a range of conceptual models and frameworks, but there is no agreed analyti -
+cal tool to assess evidence use interventions in practice. In order to guide the 
+assessment of different EIDM initiatives in a range of African countries, we 
+therefore set out to develop an analytical framework that is fit for purpose to 
+explore these initiatives.
+Developing an analytical framework for  
+comparative analysis
+T o develop our analytical framework, we adapt the framework for evidence use 
+interventions developed by Langer and colleagues (2016) and supplement this 
+with an analytical tool to understand contextual factors shaping the impact of 
+evidence use interventions (
+Weyrauch et al., 2016). More information on the 
+methodological development of Langer and colleagues’ (2016) and Weyrauch 
+et al.’s (2016) framework can be found in the respective publications.
+Applying an analytical lens for evidence use strategies  
+and outcomes: the Science of Using Science project
+Langer et al.’s (2016 ) framework was developed as part of the Science of 
+Using Science project,5 a systematic review of what works to support the use 
+of research evidence by decision makers. The framework consists of two core 
+components: (1) a mechanism typology to structure research use strategies and 
+activities and (2) a behaviour change typology to structure research use outcomes. 
+It thereby contributes a structured analytical lens for categorising and analysing 
+different applied activities to support the use of evidence and assessing whether 
+these have been effective in changing behaviour.
+<<<PAGE=7>>>
+40 Laurenz Langer and V anesa Weyrauch
+In order to group research use strategies and activities, (e.g. capacity-building 
+in evidence use, research communication, rapid response services), Langer and 
+colleagues focus on the underlying mechanisms of change of these activities. 
+Mechanisms of change are defined as the processes by which evidence use might 
+be achieved within a given strategy or activity. For example, a networking event 
+for decision makers and researchers might support research use by developing 
+trusted relationships and ongoing interaction and exchange between the two groups. 
+Relationships and interactions in this example would then be the underlying 
+mechanism of change of the activity of hosting a networking event.
+Langer et al. (2016) formulated a list of six mechanisms underlying research 
+use interventions, which is presented in Table 3.1.6 As introduced earlier, this 
+list builds on existing work by the authors, in particular Gough et  al. (2011). 
+Building on the first conceptual foundation and taxonomies for evidence use 
+interventions by 
+Walter et al. (2003) and Nutley et al. (2007), Gough et  al. 
+(2011) refined an initial concise list of mechanisms as part of the Evidence 
+Informed Policy in Education in Europe project. The Science of Using Science 
+project then further adapted and developed these mechanisms resulting in the 
+final six mechanisms.
+The six mechanisms are structured using a numerical list and abbreviation 
+(M1–M6) for the purpose of accessibility. This structure does not reflect a 
+T able 3.1 Evidence use mechanisms
+Mechanism Description Example of linked activity
+Awareness Building awareness of, and • Social marketing of the 
+(M1) positive attitudes towards, norm to use evidence
+EIDM. • Awareness-raising campaigns
+Agree Building mutual understanding • Co-production approaches 
+(M2) and agreement on policy- between researchers and 
+relevant questions and the government staff
+kind of evidence needed to • Steering committees
+answer them.
+Access Providing communication of, • Knowledge repositories
+(M3) and convenient access to, • Communication campaigns 
+evidence. and strategies
+Interact Interaction between decision • Knowledge brokers
+(M4) makers and researchers to • Networks and communities 
+build trusted relationships, of practice
+collaborate and gain exposure 
+to a different type of social 
+influence.
+Ability Supporting decision makers in • Capacity-building (e.g. 
+(M5) developing skills in accessing workshops and formal 
+and making sense of evidence. training courses)
+• Mentoring programmes
+Institutionalising / Influencing decision-making • Secondments
+formalising structures and processes. • Embedded support (e.g. 
+(M6) knowledge brokers)
+<<<PAGE=8>>>
+Using evidence in Africa 41
+hierarchical order of the mechanisms, and each mechanism is assumed to be 
+of equal importance in supporting decision makers’ use of research. For each 
+mechanism, illustrative examples of corresponding evidence use activities and 
+interventions are provided in the right-hand column.
+In order to structure evidence use outcomes, Langer and colleagues concep-
+tualised evidence use as a form of behaviour change, that is for decision makers 
+to increase their use of research evidence requires a change in their behaviour. 
+Examples of evidence use include decision makers introducing evidence during 
+policy debates, accessing and interpreting diagnostic evidence when develop -
+ing a policy proposal or integrating evaluation results into programme design. 
+Using this conceptualisation of evidence use as behaviour change, Langer et al. 
+adopt an existing framework for characterising and designing behaviour change 
+interventions developed by Michie et al. (2011).
+Based on a review of existing frameworks for conceptualising behaviour 
+change, Michie et al. (2011) propose a ‘behaviour system’, which assumes 
+behaviour change to result from the interplay of three essential conditions: 
+capability, opportunity, and motivation, which they termed the COM-B sys -
+tem. Behaviour change interventions work through changing one or more of 
+these conditions. Langer and colleagues follow this conceptualisation of behav-
+iour change in their framework for evidence use outcomes and retain Michie 
+et al.’s definition of capability, opportunity and motivation.
+Langer and colleagues’ final framework then merges their six mechanisms for 
+structuring evidence use interventions with the COM-B system for structuring 
+behaviour change outcomes (Figure 3.1). As Figure 3.1 indicates, all evidence 
+M2
+M3
+M4
+M5
+M1
+M6
+n o i s i c e d e s a e r c n i o t d e i l p p a s n o i t n e v r e t nI makers’
+use of evidence
+[All levels of intervention]
+Behaviour change: 
+Evidence use 
+Capability
+Motivation
+Opportunity
+-
+Figure 3.1 Science of Using Science conceptual framework
+Source: Langer et al. (2016).
+<<<PAGE=9>>>
+42 Laurenz Langer and V anesa Weyrauch
+use interventions are categorised according to the six mechanisms of change. It 
+is these mechanisms that are assumed to be the unit of analysis in applied strate-
+gies and activities to support decision makers’ use of evidence
+Each of the six mechanisms (M1–M6) then works through one or more of 
+the three COM-B components in order to effect decision makers’ behaviour 
+in relation to evidence use. This leaves the COM-B components to serve as 
+intermediate outcomes representing the capability, opportunity and motiva -
+tion to use evidence. The final outcome of evidence use is defined as a type of 
+behaviour change of decision makers. Behaviour change in terms of evidence 
+use may occur at different levels including individual behaviour, immediate 
+organisational context (e.g. where people work), broader organisational context 
+(e.g. local government) or wider national and international context.
+Developing an analytical lens for the context in which evidence use 
+activities are implemented: the Context Matters framework
+Evidence use activities are not implemented in a vacuum but are highly 
+dependent on the context of implementation. The role of context and how 
+it shapes the use of evidence has been discussed widely in the literature on 
+EIDM (e.g. 
+Nutley et al., 2007; Parkhurst, 2016; Cairney, 2016), but context is 
+often merely acknowledged as a large and general barrier or facilitator when 
+describing the effectiveness or ineffectiveness of an intervention. In order to 
+understand context in a more holistic and structured manner and to detect and 
+understand the best entry points to improve the use of knowledge in a public 
+agency, 
+Weyrauch et al. (2016) developed an interactive and participatory tool: 
+the Context Matters framework. This tool is a lens for understanding and acting 
+upon internal and external factors of the context that may influence the use of 
+evidence within an organisation.
+The framework focuses specifically on the production and use of research in 
+government institutions. Context in this tool refers to the specific environment 
+in which people try to get research evidence and knowledge into practice. In 
+its most simplistic form, the term includes the physical environment in which 
+practice takes place but also encompasses the relationships and processes that go 
+beyond this physical environment and enable change as a consequence. As with 
+Langer and colleagues’ framework for intervention and outcomes, the explicit 
+aim of the Context Matters framework is to structure and systematise different 
+patterns of how context influences evidence production and use in order to 
+gain a consistent analytical lens.
+Weyrauch’s framework comprises six facets or ‘dimensions’ of context that 
+systematically influence the use of evidence by decision makers, as presented in 
+Table
+ 3.2.7 These six dimensions fall into two categories: external and internal. 
+The first two external dimensions (in grey) are (1) the macro-context and (2) 
+intra-and inter-relationships with state and non-state agents. The four internal 
+dimensions are (3) culture; (4) organisational capacity; (5) management and 
+processes; and (6) core resources. Table
+ 3.2 provides an overview of the key 
+definitions of each of these six dimensions.
+<<<PAGE=10>>>
+Using evidence in Africa 43
+T able 3.2 Dimensions of context according to the Context Matters frame work
+Dimension of Description Sub-dimensions
+context
+1 Macro-context Overarching forces at the • Usual large factors acknowledged 
+national level that establish in literature (extent of political, 
+the ‘bigger picture’ in academic and media freedom, etc.)
+which policy is made and, • Popular pressure for change
+consequently, how research • Crises and transitions
+can or cannot inform it. • Degree of power distribution in the 
+This includes the political, political system
+economic, social and cultural • Prevailing policy narratives
+factors that surround the • Discretional decision making and 
+policy-making institution and corruption
+in which it is embedded. • Strategic planning culture
+• Consultation and participation in 
+policy processes
+• Knowledge regime
+2 Intra- and Refers to the relationships • Flow of information between 
+inter- between related government jurisdictions and levels
+institutional agencies. Inter-institutional • Capacity to use evidence among 
+linkages linkages refer to an different sections and departments
+agency’s interaction with • Support from governmental 
+other knowledge users agencies that produce data and 
+and producers (such as research
+universities, NGOs or think • Coordination among agencies
+tanks) which can affect or be • Policy domains
+affected by policy design and • Relationships with other state 
+implementation. agencies for policy design and 
+implementation
+• Existence and types of policy 
+forums and epistemic communities
+• Formal channels of interaction with 
+researchers and research institutions
+• Number and type of civil society 
+actors involved in decision 
+processes, and degree of vested 
+interests
+• Status of consensus on the policy 
+base
+3 Culture All organisations have a culture. • Values and beliefs
+This is a set of values and • Openness to change and innovation
+assumptions that are generally • Incentives
+accepted by those within the • Motivations
+organisation as ‘the norm’.
+4 Organisational An organisation’s ability to use its • Leadership
+capacity resources effectively to achieve • Senior management
+its aims – in this case, to design • Human resources
+and implement public policies. • Legal capacity
+It includes human resources 
+and the legal framework that 
+determines how resources can 
+or cannot be used.
+(Continued)
+<<<PAGE=11>>>
+44 Laurenz Langer and V anesa Weyrauch
+The links between these dimensions of context are various and changing. 
+For example, a restrictive macro-context will limit the room for change in most 
+of the internal context dimensions. However, Weyrauch and colleagues stress 
+that there are a number of sub-dimensions of the six main facets that can posi-
+tively shape the overall contextual environment. These sub-dimensions refer 
+to (1) leadership of EIDM by individual decision makers; (2) organisational 
+culture as a key determinant of effective management processes for EIDM; and 
+(3) staff incentives and motivation to use evidence.
+In sum, the Context Matters framework aims to help decision makers bet -
+ter assess the contexts in which they operate and, based on careful assessment, 
+detect where the potential for change may be greater and barriers more sig -
+nificant. It can thereby serve as an effective analytical lens to unpack already 
+implemented evidence use strategies as well as plan new ones in government 
+departments and provide a coherent structure to organise and describe how 
+context affected or may affect these activities.
+Developing a combined analytical framework: synergies between the 
+Science of Using Science and Context Matters
+In a last step, we merged the Science of Using Science’s framework for unpack-
+ing evidence use interventions and outcomes with the Context Matters frame-
+work to create a tool to explore variables affecting decision makers’ evidence 
+use. Figure 3.2 outlines the combined analytical framework.
+The combined analytical framework explores the evidence process from gen-
+eration through to potential development impact. Each section in the frame -
+work presents an independent element that can be unpacked in more detail. The 
+framework starts with the demand for evidence, which is assumed to be a key con-
+textual feature that affects the production of evidence, the applied evidence use 
+intervention, its underlying change mechanism, and the intermediate changes. 
+Dimension of Description Sub-dimensions
+context
+5 Management How an institution organises • Degree of systematic planning
+and processes its daily work to achieve • Existing formal processes to access 
+its mission and goals, from and use evidence in policy making
+planning to implementation • Positions, including division of 
+and evaluation. work and roles and responsibilities
+• Communications processes
+• Monitoring and evaluation
+6 Other Key resources that affect how • Budget committed to research
+resources an organisation systematically • T echnology
+gathers and uses evidence, • Existence of a knowledge 
+including its budget and infrastructure
+technology. • Time availability
+T able 3.2
+ (Continued)
+<<<PAGE=12>>>
+Using evidence in Africa 45
+EVIDENCE 
+GENERATION
+USE 
+INTERVENTION
+CHANGE
+MECHANISM
+INDIVIDUAL / 
+ORGANISA-
+TIONAL /
+SYSTEMS 
+CHANGE
+EVIDENCE USE DEVELOPMENT 
+IMPACT      
+CONTEXT
+External dimension: Macro-context; intra- 
+relationships with state/non-state agents 
+Internal dimension: culture; organizational 
+capacity; management; and core resources
+Constant feedback between each step on the framework 
+Demand for evidence
+- Instititutuonalised in 
+system eg NEP) 
+Examples of  
+dimensions to 
+consider:
+• Type of 
+evidence
+• Quality/rigour
+• Other e.g.
+timeliness
+Examples to 
+consider:
+• Capacity-
+  building 
+• Awareness 
+raising
+• Access
+• Champions/ 
+mentors
+• Org change
+M1 - Awareness
+M2 - Agree
+M3 - Access
+M4 - 
+Interact/trust
+M5 - Ability
+M6 - 
+Institutionalising/
+formalising
+• Motivation to 
+use evidence
+• Capability to 
+use evidence
+• Opportunity to 
+use evidence
+• Individual / 
+organisational/ 
+system 
+behaviour 
+change
+• Instrumental 
+• Conceptual
+• Symbolic
+• Process use
+• Policy 
+performance 
+and impact                   
+• Wider systems 
+change         
+Figure 3.2 Combined analytical framew ork
+Source: Langer et al. (2020).
+<<<PAGE=13>>>
+46 Laurenz Langer and V anesa Weyrauch
+The demand for evidence refers to decision makers’ and evidence users’ pull for 
+evidence. This user pull is deliberately the starting point of the framework and 
+reflects a more government-focused rather than researcher-focused application 
+of the framework. It suggests that efforts to increase the use of evidence ideally 
+start with an in-depth understanding of the demand for such evidence and its 
+existing use. The framework is thus firmly demand-led.
+The second section of the framework refers to the production or supply of 
+evidence (evidence generation). There is a range of factors to be considered when 
+assessing the nature of evidence generation. Three key aspects related to the sup-
+ply of evidence include quality, type and evidence claim. First, the quality of the 
+evidence is likely to strongly affect its use. We would caution against a narrow 
+interpretation of quality as methodological rigour and instead refer to quality and 
+relevance to a policy context (Parkhurst, 2016). Second, the type of evidence mat-
+ters; different types of evidence answer different questions and thus can inform 
+different policy decisions. Third, the specific evidence claim and the standard of 
+evidence needs to be assessed. Policy decisions should be informed by strong 
+bodies of evidence that support specific evidence claims and comply with explicit 
+standards of evidence set by decision-making bodies (Gough and White, 2018).
+The third section of the framework investigates evidence use interventions. This 
+refers to any programme, instrument, strategy or activity that is a deliberate and 
+tangible input to support the use of evidence. The term ‘intervention’ indi-
+cates that a deliberate and tangible effort is made to intervene in the status 
+quo in order to effect change in relation to evidence use. As outlined earlier, 
+there is a plethora of evidence use interventions, and the Science of Using Sci-
+ence review alone identified 121. The analytical framework only provides a few 
+selected examples of such interventions.
+Given the diversity and complexity of evidence use interventions, sec -
+tion 4 of the framework suggests that these work through six underlying 
+mechanisms of change (M1–M6). This assumes that one can understand a 
+given intervention through a change mechanism lens rather than investigat -
+ing the interventions as a whole. For example, an EIDM mentoring pro -
+gramme would be assessed by unpacking its relevant mechanisms of change, 
+which could include: ability (M5) as mentors might support a technical skill 
+such as critical appraisal capacity; interaction (M4) as mentors and mentees 
+assumingly connect and build a trusted relationship; and access (M3) as men -
+tors might support mentees in accessing academic databases or linking them 
+to sources of evidence. Most evidence use interventions are likely to employ a 
+range of mechanisms, and it is often the precise interplay of different mecha -
+nisms that unlocks change.
+Section 5 of the framework then moves from the intervention side to the 
+outcome side, that is the use of evidence by decision makers. It assumes that 
+intervention outcomes can be observed at an individual, organisational and sys-
+tems level. For instance, the mentoring example discussed could support either 
+an individual decision maker or the organisation that she works for, or both, 
+depending on the content of the mentoring as well as the seniority of the men-
+tee. This immediate or intermediate outcome of the evidence use intervention
+<<<PAGE=14>>>
+Using evidence in Africa 47
+can be broken down into supporting capability to use evidence, motivation to use 
+evidence, and opportunity to use evidence. T o illustrate these, examples of these 
+immediate outcomes are provided in Table 3.3.
+Keeping to the EIDM mentoring example, we would then investigate how 
+different mechanisms of change (e.g. ability, interact, access) have affected the 
+three intermediate outcomes of capability, motivation, and opportunity to use 
+evidence. For example, interaction with an EIDM mentor might motivate a 
+mentee to pursue evidence by decreasing the person’s isolation and provid -
+ing encouragement and support. Likewise, the mentoring might provide the 
+individual with technical EIDM skills, such as appraising a piece of evidence.
+Section 6 of the framework then explores whether these intermediate out -
+comes did translate into actual use of evidence. It is important to note that the 
+framework does not prescribe what constitutes a meaningful or ‘positive’ use 
+of evidence. For example the sought-after instrumental use of evidence that 
+directly leads to a more evidence-informed decision or action is but one (and 
+rare) form of use.
+In the last step (section  7), the framework encourages an investigation into 
+whether the actual use of evidence did translate into changes in policy performance 
+or wider systems change.8 There is no guarantee that an evidence-informed policy 
+or programme leads to better socio-economic outcomes or that an organi -
+sational structure receptive to the use of evidence leads to improved organi-
+sational performance. Similarly, some interventions might have the power to 
+effect systemic change across decision-making sectors (e.g. the National Evalu-
+ation System in South Africa). However, caution must be applied when inves-
+tigating this last step on the framework.
+The context
+ in which this process takes place – from evidence generation to 
+designing an evidence intervention, effecting change related to evidence use 
+and policy impact, is indicated by the two overarching boxes that embed the 
+T able 3.3 Immediate outcomes
+Immediate outcome Individual change Organisational change Systems change
+Capability to use • Skills to search • Access to databases • Diverse supply of 
+evidence for evidence training and capacity 
+support around 
+evidence use
+Opportunity to • Timely access • Organisational • Investment in tailored 
+use evidence to relevant processes that create evidence systems
+evidence a space for evidence 
+(e.g. submission 
+standards, 
+performance 
+appraisal)
+Motivation to use • Awareness of • Organisational • Investment in diverse 
+evidence the value of norms support the evidence networks 
+evidence use use of evidence advocating for the use 
+of evidence
+<<<PAGE=15>>>
+48 Laurenz Langer and V anesa Weyrauch
+EIDM process. As per the Context Matters framework, the context is divided 
+into an external dimension and an internal dimension. The external dimension 
+is indicated in a darker shade and comprises (1) the macro-context and (2) intra- 
+and inter-relationships with state and non-state agents. Both these variables are 
+external to an evidence use intervention and cannot be significantly affected 
+by it; they depend on larger forces and a myriad of external actors. However, 
+certain evidence use interventions and mechanisms could alter external con -
+texts, for example, by forging strategic alliances and networks between different 
+actors in the evidence ecosystem. An illustration of this is how the Ghanaian 
+Environmental Protection Agency decided to act upon opportunities to col -
+laborate with a wider range of stakeholders, including promoting more citizen 
+engagement to revive multi-stakeholder networks (INASP , 2018).
+The four internal dimensions of context (lighter shade) can be more directly 
+affected by an evidence use intervention. These four dimensions are (3) culture, 
+(4) organisational capacity, (5) management and processes and (6) core resources. These 
+internal dimensions only extend across the first five sections of the framework 
+until the intermediate outcomes, while the external dimensions extend until 
+the sixth section, which is the final outcome of evidence use. This differentia-
+tion aims to capture that the internal dimensions of context usually are changed 
+through the intervention itself. For example, an intervention might actively 
+build evidence champions to change the organisational culture around evi -
+dence use.
+Y et both dimensions of context have a bearing on the demand for evi -
+dence, its generation, the identification of relevant intervention approaches and 
+change mechanisms as well as the intermediate evidence use outcomes. While 
+both dimensions of context affect the demand for evidence, demand for evi -
+dence is primarily driven by internal context dimensions such as organisational 
+culture and capacity; for this reason, the demand for evidence box is shaded 
+similarly to the internal context dimensions.
+Last, none of the context boxes extend to the development impact itself, as 
+it is assumed that a different set of contexts, not linked to the EIDM interven-
+tion itself, affects these outcomes, which relate to the particular sector itself. For 
+example, while macro-contexts such as the prevailing political climate affect the 
+nature of the EIDM process, a completely different set of macro-factors deter-
+mines whether a particular sectoral policy has positive socio-economic impacts 
+(e.g. economic growth, social cohesion), and these factors are not linked to the 
+EIDM process at all.
+The framework acknowledges that in practice the flow of the suggested sec-
+tions is not linear. There are multiple feedback loops between evidence genera-
+tion and interventions and between intermediate outcomes and demand for 
+evidence, and between all spheres of the context and the facets of the evidence 
+use interventions and outcomes. The arrow at the bottom of the diagram serves 
+as a placeholder to visualise these multiple interactions and feedback loops 
+between all parts of the framework.
+<<<PAGE=16>>>
+Using evidence in Africa 49
+Intended application and limitations of the analytical framework
+The intent of the analytical framework is to provide a consistent conceptual 
+lens to analyse what happened in the diverse case studies of EIDM in Africa 
+that have been collected in this volume. The consistent use of the framework 
+as a guide and lens for analysis allows for the structured identification of trans-
+ferable lessons learned and facilitates a synthesis of the insights and knowledge 
+generated by the diverse case studies.
+It is crucial to stress that the framework does not aim to reflect or prescribe 
+how evidence use should take place;
+9 neither does it prescribe how evidence 
+use interventions should be analysed. It is intended as an analytical lens with dif-
+ferent conceptual devices, which EIDM practitioners and scholars can apply as 
+best fits their context. In some circumstances, the COM evidence use structure 
+might help an analysis, whereas in others, it might be the dimensions of context; 
+each conceptual device of the framework can be applied in its own right. The 
+framework can therefore best be regarded as a starting point to guide EIDM 
+research and practice and not does not constitute a static blueprint or one-size-
+fits-all device. We hope that EIDM scholars and practitioners will apply the 
+framework in this inductive spirit and adapt its structure and application.
+This analytical framework naturally has a number of limitations. First, it 
+is not meant to describe or capture a holistic evidence ecosystem. It does 
+not reflect all of the actors involved in evidence production and use and 
+how they interact; neither does it facilitate sectoral assessments. Second, 
+the framework is not well suited to inform diagnostic studies on EIDM 
+such as perceptions of evidence use. It is designed for, and most useful for, 
+thinking through and planning, implementing and evaluating tangible evi -
+dence use interventions. As a result, it best fits contexts where there is an 
+existing practice of EIDM and an intention to promote evidence use, or at 
+least a familiarity with the notion of evidence use. Third, the framework is 
+not focused on the processes of evidence production. It approaches EIDM 
+from a policy-maker and practitioner perspective with a strong focus on 
+the demand side. As a result, it is most applicable to evidence users aiming 
+to systematise the practice of EIDM, organisations that have an interest in 
+strengthening their use of evidence, and organisations and teams working 
+towards supporting decision makers in their use of evidence. Fourth, as 
+with all analytical frameworks, the conceptual and analytical devices are 
+necessarily aggregated and abstracted. This comes at the expense of detail 
+relating to certain concepts. For example, the framework does not pro -
+vide sub-frameworks and analytical tools for specific interventions such as 
+EIDM capacity-building, even though these are widely available. Likewise, 
+Michie et al.’s original COM-B framework goes into more detail on how 
+to support behaviour change. Users of the framework are encouraged to 
+complement it with more granular analytical tools for specific evidence use 
+interventions, mechanisms and outcomes where relevant. Fifth, and last, the
+<<<PAGE=17>>>
+50 Laurenz Langer and V anesa Weyrauch
+framework is only partially empirically informed. Both the Context Mat -
+ters framework and the Science of Using Science framework have been 
+developed based on decision makers’ feedback and experiences and have 
+been applied and adapted in an EIDM practice context since their publica-
+tion. However, this combined analytical framework has not been applied in 
+practice before and is open to adaption following the experience of the case 
+study authors using it. Some proposed changes are included in 
+Chapter  13.
+Conclusion
+This chapter presents an analytical framework for investigating the effective -
+ness of interventions aiming to support the use of evidence in policy and 
+practice. The analytical framework draws on two existing conceptual tools 
+to research and understand EIDM: the Science of Using Science framework 
+(
+Langer et  al., 2016) and the Context Matters framework ( Weyrauch et al., 
+2016) and has been developed through a dialogue between the authors of the 
+two frameworks and the researchers involved in this book, many of whom 
+come from a policy background. It aims to present an inductive analytical 
+tool that can be adapted and applied by decision makers, researchers, and 
+knowledge brokers to explore evidence use interventions at all stages of 
+development: from conceptualisation and planning to implementation and 
+evaluation of interventions. 
+Notes
+ 1 Laurenz Langer developed the manuscript for this chapter. Laurenz is a co-author of the 
+Science of Using Science report, which was part of a wider project led by David Gough 
+and Janice Tripney from the UCL EPPI-Center and who share intellectual ownership of 
+the Science of Using Science framework applied in this chapter. Vanesa Weyrauch read, 
+reviewed, and commented on the chapter. She is the lead investigator of the Context 
+Matters framework, jointly developed by INASP and Politics&Ideas. The co-editors Ian 
+Goldman and Mine Pabari have supported the development of the combined conceptual 
+framework.
+ 2 www.mandelaschool.uct.ac.za/gsdpp/courses/evidence_based_policy_making_imple  
+mentation
+ 3 www.afidep.org/index.html
+ 4 www.dpme.gov.za/keyfocusareas/Socio%20Economic%20Impact%20Assessment%20
+System/Pages/default.aspx
+ 5 https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=3504
+ 6 Note that there are two semantic changes in Table 3.1. In Langer et al.’s initial framework 
+work, M3 was labelled as ‘Communication & access’ and M5 as ‘Skills’. Following stake-
+holder feedback, we have adapted the labels of these two mechanisms for the purpose of 
+this research project.
+ 7 With an interactive version of the framework provided online: http://cm.politicsandideas.
+org/homepage-old.
+ 8 It should also be noted that evidence use does not necessarily lead to an y policy changes. 
+An evidence-based decision could be to do nothing and remain with the status quo.
+<<<PAGE=18>>>
+Using evidence in Africa 51
+ 9 While applicable to all sections of the frame work, this non-normative framing applies 
+strongly to the last impact section of the framework as few individual evidence use inter-
+ventions will be able to target and achieve impact at this scale.
+References
+Africa Evidence Network. 2018. African evidence ecosystem maps. Retrieved from https://aen-
+website.azurewebsites.net/en/learning-space/
+Africa Evidence Network. 2019. A geo-map of EIDM organization in Africa . Retrieved from 
+www.google.com/maps/d/u/0/viewer?mid=1j7yA9hfXnUio7WaRA2Ha2f4Ihr4Knng
+P&ll=7.062733884621437%2C14.946899331250052&z=3
+Cairney, P . 2016. The politics of evidence-based policy making. New Y ork: Springer.
+Caplan, N. 1979. The two-communities theory and knowledge utilization. The American 
+Behavioral Scientist, 22(3), 459–471.
+Crewe, E. and Y oung, M.J. 2002. Bridging research and policy: Context, evidence and links. Lon-
+don: Overseas Development Institute.
+Cronin, G. and Sadan, M. 2015. Use of evidence in policy making in South Africa: An 
+exploratory study of attitudes of senior government officials. African Evaluation Jour-
+nal, 3(1),  10–20.
+Dayal, H. 2016. Using evidence to reflect on South Africa’s 20  years of democracy – Insights from 
+within the policy space. Knowledge Sector Initiative Working Paper 7.
+Dobbins, M., Hanna, S.E., Ciliska, D., Manske, S., Cameron, R., Mercer, S.L., O’Mara, L., 
+DeCorby, K. and Robeson, P . 2009.  A randomized contr olled trial evaluating the impact of 
+knowledge translation and exchange strategies. Implementation Science, 4(1),  61.
+Goldman, I. 2014. Using evidence by government in South Africa. Retrieved from www.africaevi 
+dencenetwork.org/wp-content/uploads/2014/12/Using-Evidence-by-Government-in-
+South-Africa.pdf
+Goldman, I., et al. 2018. The emergence of government evaluation systems in Africa: The 
+case of Benin, Uganda and South Africa. African Evaluation Journal, 6(1),  1–11.
+Gough, D., Tripney, J., Kenny, C. and Buk-Berge, E. 2011. Evidence informed policy in education 
+in Europe: EIPEE final project report. London: EPPI-Centre, Social Science Research Unit, 
+Institute of Education, University of London.
+Gough, D. and White, H. 2018. Evidence standards and evidence claims in web based research portals. 
+London: Centre for Homelessness Impact.
+Graham, I.D. and T etroe, J.M. 2009. Getting evidence into policy and practice: Perspective 
+of a health research funder. Journal of Canadian Academy Child Adolescence Psychiatry , 18, 
+46–50.
+Hines, S., Ramsbotham, J. and Coyer, F . 2015. The effectiveness of interventions for improv-
+ing the research literacy of nurses: A systematic review. Worldviews on Evidence-Based Nurs-
+ing, 12(5),  265–272.
+INASP . 2018. Context Matters Framework case study: Supporting organizational change to improve 
+the use of evidence in environmental protection in Ghana . Retrieved from www.inasp.info/
+publications/context-matters-ghana
+Jordaan, S., et  al. 2018. Reflections on mentoring experiences for evidence-informed  
+decision-making in South Africa and Malawi. Development in Practice, 28(4),  456–467.
+Landry, R., Amara, N. and Lamari, M. 2001. Utilization of social science research knowledge 
+in Canada. Research Policy, 30(2), 333–349.
+<<<PAGE=19>>>
+52 Laurenz Langer and V anesa Weyrauch
+Langer, L., Erasmus, Y ., Tannous, N. and Stewart, R. 2017. How stakeholder engagement has 
+led us to reconsider definitions of rigour in systematic reviews. Environmental Evidence, 
+6(20).
+Langer, L., Tripney, J. and Gough, D. 2016. The science of using science. Researching the use of 
+research evidence in decision-making. T echnical Report. London: EPPI-Center, Social Science 
+Research Unit, UCL Institute of Education.
+Langer, L., Goldman, I. and Pabari, M. 2020. Analytical framework used to guide case study 
+research. In Using evidence for policy and practice—Lessons from Africa . Routledge, Taylor & 
+Francis Group.
+Lomas, J. 2000. Using linkage and exchange to move research into policy at a Canadian 
+Foundation. Health Affairs, 19(3), 236.
+Michie, S., van Stralen, M.M. and West, R. 2011. The behaviour change wheel: A  new 
+method for characterising and designing behaviour change interventions. Implementation 
+Science, 6(1), 42.
+Moore, G., Redman, S., Haines, M. and T odd, A. 2011. What works to increase the use of 
+research in population health policy and programmes: A review. Evidence & Policy: A Jour-
+nal of Research, Debate and Practice, 7(3), 277–305.
+Newman, K., Capillo, A., Famurewa, A., Nath, C. and Siyanbola, W . 2013. What is the evi-
+dence on evidence-informed policy making?  Lessons from the International Conference on 
+Evidence-Informed Policy Making. Oxford: INASP .
+Nutley, S.M., Walter, I. and Davies, H.T. 2007. Using evidence: How research can inform public 
+services. Bristol, UK: Policy Press.
+Oliver, K., Innvar, S., Lorenc, T., Woodman, J. and Thomas, J. 2014. A systematic review of 
+barriers to and facilitators of the use of evidence by policymakers.  BMC Health Services 
+Research, 14(1), 1.
+Oliver, S. 2012. Making a difference with systematic reviews. In Gough, D., Oliver, S. and 
+Thomas, J. (eds.), An introduction to systematic reviews. London: Sage.
+Parkhurst, J.O. 2017. The politics of evidence: From evidence-based policy to the good governance of 
+evidence. Abingdon: Routledge.
+Shaxon et al. 2015. Evidence-informed policymaking in practice: an overview from South Africa’s 
+Department of Environmental Affairs. Republic of South Africa: Department of Environ-
+mental Affairs.
+Shepherd, J. 2014 How to achieve more effective services: The evidence ecosystem . Cardiff: What 
+Works Network.
+Stewart, R., Dayal, H. and Langer, L. 2017. T erminology and tensions within evidence-
+informed decision-making in South Africa over a 15-year period.  Research for All, 1(2),  
+252–264.
+Stewart, R., Dayal, H., Langer, L. and van Rooyen, C. 2019. The evidence ecosystem in 
+South Africa: Growing resilience and institutionalisation of evidence use.  Palgrave Com-
+munications, 5(1),  1–12.
+Stone, D. 2002. Using knowledge: The dilemmas of ‘bridging research and policy.  Com-
+pare, 32(3), 285–296.
+Uneke, C.J., Ezeoha, A.E., Ndukwe, C.D., Oyibo, P .G., Onwe, F ., Igbinedion, E.B. and 
+Chukwu, P .N. 2011. Individual and organisational capacity for evidence use in policy 
+making in Nigeria: An exploratory study of the perceptions of Nigeria health policy mak-
+ers. Evidence & Policy, 7(3), 251–276.
+Walter, I., Nutley, S. and Davies, H. 2003. Developing a taxonomy of interventions used to 
+increase the impacts of research. Research Unit for Research Utilisation, ESRC Network 
+for Evidence Based Policy and Practice.
+<<<PAGE=20>>>
+Using evidence in Africa 53
+Weiss, C.H. 1979. The many meanings of research utilization.  Public Administration 
+Review, 39(5), 426–431.
+Weyrauch, V ., Echt, L. and Suliman, S. 2016. Knowledge into policy: Going beyond context mat -
+ters. Retrieved from www.politicsandideas.org/wp-content/uploads/2016/07/Going-
+beyond-context-matters-Framework_PI.compressed.pdf
+Y ost, J., et al. 2015. The effectiveness of knowledge translation interventions for promoting 
+evidence-informed decision-making among nurses in tertiary care: A  systematic review 
+and meta-analysis. Implementation Science, 10(1),  98.

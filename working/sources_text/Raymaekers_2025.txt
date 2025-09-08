@@ -1,0 +1,1362 @@
+<<<PAGE=1>>>
+Public Administration Review, 2025; 0:1–16
+https://doi.org/10.1111/puar.13946
+1 of 16
+Public Administration Review
+RESEARCH ARTICLE OPEN ACCESS
+Organizational and Individual Factors of Evidence 
+Informed Policy Making in Public Organizations
+Pieter Raymaekers1 |  Koen Migchelbrink2 |  Valérie Pattyn3 |  Peter De Smedt4
+1Public Governance Institute, KU Leuven, Leuven, Belgium | 2Department of Public Administration and Sociology, Erasmus University Rotterdam, 
+Rotterdam, the Netherlands | 3Institute of Public Administration, Leiden University, The Hague, the Netherlands | 4Strategic Insights and Analysis Unit, 
+Flemish Government, Brussels, Belgium
+Correspondence:  Koen Migchelbrink (migchelbrink@essb.eur.nl )
+Received:  28 February 2024 | Revised:  5 February 2025 | Accepted:  11 February 2025
+Keywords: evidence informed policy making | NERD | organizational culture | organizational resources | person-  organization fit
+ABSTRACT
+Understanding the use of evidence by public organizations and public officials is a key issue for public administration schol -
+ars and practitioners. In this study, we examine how individual-  and organizational-  level factors relate to evidence informed 
+policy making. Using the Norm of Evidence and Research in Decision-  making (NERD), we conduct an online survey to ana -
+lyze evidence informed policy making perceptions of public officials ( n = 438) holding policy responsibilities within the Flemish 
+(Belgian) government. The results highlight the importance of a rational, results-  and production-  oriented organizational cul -
+ture, adequate access to information, sufficient time, and appropriate personnel. At the individual level, person-  organization fit 
+and public sector experience are associated with evidence use. Enhancing our knowledge of these organizational and individual 
+factors is crucial for advancing the theory and practice of evidence informed policy making in public organizations.
+1   |   Introduction
+Contemporary policy making has reached unprecedented levels 
+of complexity. Consider the pressing climate crisis, which de -
+mands an urgent and appropriate government response, includ -
+ing the careful selection of policy instruments and instrument 
+mixes that effectively reduce emissions while minimizing neg -
+ative side effects (Leong et al.  2022; van den Bergh et al.  2021). 
+Similarly, the COVID-  19 pandemic highlighted the critical role 
+of both biomedical and behavioral science evidence in shaping 
+effective policies (Ruggeri et  al.  2024; Lancaster et  al.  2020). 
+These complex challenges place new and growing demands on 
+public officials to rely on the best available information, knowl -
+edge, and data to determine which policies are most effective, 
+for whom, and under which circumstances. In response, the 
+idea of evidence informed policy making (EIPM) has become 
+a focal point in both public administration and policy science 
+research (Jennings and Hall  2012; Pedersen  2023; Head  2016; 
+Howlett 2009) and has secured a central position on the agendas 
+of international organizations such as the OECD ( 2020) and the 
+European Commission (2022).
+Meanwhile, research shows that the mere availability of policy-  
+relevant evidence, whether from scientists or other experts, is no 
+guarantee that it finds its way into the policy process (Jennings 
+and Hall  2012). Weiss  (1995, 146) stated that “most policy re -
+search is probably born to die unseen and waste its sweetness on 
+the desert air”. While research (Capano and Malandrino  2022; 
+Cairney 2016; Oliver et  al.  2014) highlights a myriad of factors 
+that can help us understand the (mis)match between evidence 
+and policy, it is crucial to determine the relative importance 
+of specific meso (organizational) and micro (individual) level 
+factors affecting evidence use. As articulated by Hall and 
+Van Ryzin  (2019), the field of EIPM research requires deeper 
+This is an open access article under the terms of the Creative Commons Attribution  License, which permits use, distribution and reproduction in any medium, provided the original work is 
+properly cited.
+© 2025 The Author(s). Public Administration Review  published by Wiley Periodicals LLC on behalf of American Society for Public Administration.
+<<<PAGE=2>>>
+2 of 16 Public Administration Review, 2025
+explanatory insights into the factors that influence EIPM adop -
+tion, use and success, and we need to increase our knowledge 
+about the individual and organizational correlates of EIPM in 
+terms of its causes, potential mediators, and consequences. This 
+study is among the first to systematically examine the relation-
+ship between perceived EIPM in public organizations and a range 
+of organizational-  and individual- level factors, which are com-
+monly held important in the EIPM discourse. We formulate the 
+following research question:
+Which organizational and individual factors are 
+associated with evidence informed policy making in 
+public organizations?
+We measure EIPM in public organizations using the Norm of 
+Evidence and Research in Decision- making (NERD) scale, de -
+veloped by Hall and Van Ryzin (2019). Evidence, in this context, 
+encompasses different types of information, such as scientific re-
+search (the R in the NERD scale), monitoring data, program anal-
+ysis and policy evaluations. Below, we further unpack what counts 
+as evidence. Method-  wise, we fielded an online cross-  sectional 
+survey among all public officials with policy responsibilities em-
+ployed by the Flemish (Belgian) government (N  = 1556). Our re-
+sults show that public organizations with a rational, results-  and 
+production- oriented culture and adequate resources in terms of 
+accessibility, time, and personnel are more inclined to engage with 
+evidence. Additionally, individual- level factors such as person-  
+organization fit and working experience in the public sector are 
+associated with evidence use in policy making.
+Our study addresses both a theoretical and empirical gap in the 
+literature on EIPM, which is primarily characterized by con -
+ceptual, descriptive and normative studies (Parkhurst  2017; 
+Cairney  2016; Head  2016). Additionally, the limited num -
+ber of existing empirical studies reveals a significant diver -
+gence across outcome variables (Amara et  al.  2004 ), sets of 
+explanatory variables (Landry et al.  2003), levels of analysis 
+(Newman et al.  2017) and policy contexts (Nelsonet al.  2023). 
+As such, our study makes at least three contributions to this 
+field. First, to our knowledge we are the first to replicate and 
+further validate the above-  mentioned NERD scale, originally 
+built by Hall and Van Ryzin ( 2019) as a measure of perceived 
+EIPM within public organizations. Before NERD, the closest 
+thing to a quantitative EIPM measurement instrument would 
+probably be the “utilization scale,” developed by Knott and 
+Wildavsky ( 1980), composed of the seven research- utilization 
+stages, that is. reception, cognition, reference, adaption, ef -
+fort, influence and application (Belkhodja et al.  2007 ; Landry 
+et al.  2003). However, this scale takes a narrow approach to 
+evidence, only accounting for scientifically grounded evi -
+dence, and is deemed “unrealistically linear and direct”, ac -
+cording to Nelson et al. ( 2023 , 1509). By replicating the NERD 
+scale and further validating it, we contribute to the robustness 
+of such measurement instruments and enable future compar -
+ative studies on EIPM.
+Second, we deepen the understanding of drivers and barriers 
+to EIPM in public organizations by exploring the relation -
+ship between perceived EIPM as an outcome variable and a 
+comprehensive set of specific explanatory organizational-  and 
+individual-  level factors. Building on the foundational work 
+of Hall and Van Ryzin  ( 2019), which already included fac -
+tors such as organizational culture or person-  organization 
+fit, we also draw on general literature reviews (Capano and 
+Malandrino  2022 ; Nelson et  al.  2023; Cantarelli et  al.  2023; 
+Oliver et  al.  2014) to extend their study. Specifically, we in -
+corporate additional factors commonly associated with EIPM, 
+such as organizational resources, individual policy capacities, 
+and personal networks, and introduce new factors, such as 
+policy autonomy and politicization, that have not yet been ro -
+bustly tested. This explanatory approach expands the range 
+of variables that may correlate with evidence use in public 
+organizations.
+Third, we note that the NERD scale has been developed in 
+an American setting. This is illustrative for the broader 
+EIPM literature, which predominantly concentrates on 
+Anglo-  American administrative and policy contexts. Nelson 
+et  al.  (2023 , 1511) highlight that approximately 90% of the 
+studies on EIPM originate from the United States, United 
+Kingdom, Canada, and Australia. Despite increasing schol -
+arly attention to evidence use in other settings (e.g., Capano 
+et  al.  2023; Veselý et  al.  2014), we still have comparatively 
+limited knowledge about EIPM in a more diverse range 
+of political-  administrative contexts and evidence cultures 
+(Bandola-  Gill et  al.  2024). Our study addresses part of this 
+gap by focusing on evidence use, and applying the NERD 
+scale, in a Napoleonic administrative tradition, characterized 
+by a consensus-  style and neo-  corporatist knowledge regime 
+(Pattyn et al.  2022 ; Strassheim and Kettunen  2014; Fraussen 
+and Pattyn  2023; Pollitt and Bouckaert  2017). This setting 
+is strongly deviating (Flyvbjerg  2011) from the contentious 
+(e.g., United States, Australia) or communitarian (e.g., the 
+United Kingdom) civic epistemologies or knowledge regimes 
+(Strassheim and Kettunen  2014; Jasanoff  1990). Applying 
+the NERD scale in such a context presents a theoretical op -
+portunity to test the explanatory value of individual-  and 
+organizational-  level factors identified in Anglo-  oriented ex -
+ploratory research, while also incorporating additional factors 
+relevant to EIPM studies.
+In the next section, we define our model and formulate hypoth -
+eses on the factors of evidence use in public organizations. We 
+Summary
+• Evidence informed policy making in public organiza -
+tions is shaped by a combination of organizational and 
+individual factors.
+• A rational, results-  , and production-  oriented organi -
+zational culture can foster evidence informed policy 
+making.
+• Public organizations can facilitate evidence informed 
+policy making by ensuring that adequate resources, 
+including accessibility, time, and personnel are allo -
+cated and readily available.
+• A strong alignment between individual and organiza -
+tional values and goals is positively related to the in -
+corporation of evidence into policy- making processes.
+ 15406210, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13946 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=3>>>
+3 of 16
+then describe our methods, including the survey instrument and 
+data collection. Finally, we present our findings, discuss limita -
+tions, and outline future research directions.
+2   |   Theory
+2.1   |   From Evidence Based to Evidence Informed 
+Policy Making
+There is both enthusiasm and skepticism among policy 
+scholars and policy professionals about the move to ratio -
+nalize policy making through evidence use (Boswell  2018; 
+Capano and Malandrino  2022 ; Parkhurst  2017). Advocates 
+of evidence based policy making (EBPM) highlight the nu -
+merous benefits associated with it. Evidence can inform 
+governments about which policy instruments and measures 
+are truly effective (“what works”), thereby enhancing the 
+efficient allocation of public resources (Bogenschneider and 
+Corbett  2010; French  2019; Cairney  2016). Additionally, evi -
+dence is purported to encourage governments to operate more 
+objectively and transparently, thereby providing a “remedy” 
+to counteract political arbitrariness and a means to enhance 
+political accountability (Dorren and Wolf  2023 , 3; Bundi and 
+Pattyn  2022). Evidence is also seen as crucial to better in -
+form citizens, thereby enhancing the quality of democratic 
+discourse and fostering trust in government (Bundi and 
+Pattyn  2022 ; Schlaufer et al. 2018 ).
+However, for every EBPM proponent, one can find a skeptic or 
+opponent questioning its feasibility and highlighting numerous 
+serious challenges associated with effectively integrating evi -
+dence into policy making (Boswell  2018; Bozeman et al.  2023; 
+Cairney  2016). After all, policy making is essentially politi -
+cal and involves confronting and counterbalancing various 
+and sometimes conflicting preferences, interests, and values 
+(Bolsen and Druckman  2015; Cairney  2016; Jasanoff  1990). Its 
+political nature also stimulates the symbolic use of evidence in 
+order to justify prior decisions made for other reasons (Mavrot 
+and Pattyn  2022; Amara et  al.  2004; Nutley et  al.  2007), or to 
+encourage the intentional or unintentional misinterpreta -
+tion of evidence to support prior policy beliefs and objectives 
+(Blom- Hansen et  al. 2021, 2016; Botterill and Hindmoor  2012; 
+Migchelbrink et  al.  2024). Indeed, evidence rarely provides a 
+one- dimensional and clear- cut answer to policy questions, often 
+leaving room for nuance and enabling multiple, or competing, 
+interpretations, and frames of reference (Pielke  2007; Schlaufer 
+et al. 2018). Adding to the complexity is that public officials often 
+feel insufficiently equipped in terms of time, resources, access to 
+information, expertise, and capabilities to use and integrate evi -
+dence in policy making (Newman et al.  2017; Oliver et al.  2014; 
+Howlett 2009; Cheng et  al.  2024). In light of these challenges, 
+the idea of evidence based policy making, as a rational process 
+where evidence directly determines or even dictates policy, gives 
+way to a more modest and realistic notion of evidence informed 
+policy making (EIPM). This perspective acknowledges that ev -
+idence is only one of many sources that can inform and influ -
+ence the policy process (Nutley et al. 2003; Schlaufer et al. 2018; 
+Head 2008, 2016; Dorren and Wolf  2023; Newman et al.  2016). 
+This study is also grounded in this more nuanced approach.
+2.2   |   A Broad Conceptual Approach to EIPM
+Scholarship on the evidence and policy relationship is dis -
+persed over different streams of literature, resulting in a lack 
+of conceptual clarity (Capano and Malandrino  2022; Bundi 
+and Trein 2022; Nelson, et al.  2023). As discussed by Blum and 
+Pattyn ( 2022), evidence can range from a broad to a more nar -
+row interpretation. Studies with a narrow understanding of ev -
+idence only include scientific evidence and research evidence, 
+referring to information that is produced in a particular and 
+systematic way using robust methods with randomized con -
+trol trials and meta-  analyses at the top of the scientific pyra -
+mid (Landry et al.  2003; Ouimet et al.  2009; Amara et al.  2004 ; 
+Cairney  2016; Nutley et al.  2003; MacKillop and Downe  2023). 
+Studies applying a broader approach to evidence typically con -
+sider many different kinds of information such as knowledge, 
+data, evaluations, expertise, and citizen feedback (Jennings 
+and Hall  2012; Hall and Van Ryzin  2019; Kislov et  al.  2019; 
+Head 2010; Munteanu et al. 2024 ).
+In our study, we capture evidence and policy in their broadest sense 
+and adopt the OECD (2020, 12) definition of EIPM: “Evidence in-
+formed policy making can be defined as a process whereby multi-
+ple sources of information, including statistics, data and including 
+the best available research evidence and evaluations, are consulted 
+before making a decision to plan, implement, and (where relevant) 
+alter public policies, programs and deliver quality public other ser-
+vices”. This broader definition very much aligns with the six items 
+comprising the NERD scale. To qualify as EIPM-  oriented, orga-
+nizations are not required to rely exclusively on “gold standard” 
+research methods such as experimental or quasi-  experimental 
+studies (MacKillop and Downe 2023; Cheng et al.  2024). Rather, 
+they should systematically integrate relevant evidence into policy 
+making processes, moving beyond ad hoc applications. This pro-
+cess may involve conducting in- house research as well as critically 
+assessing external data and reviews.
+2.3   |   Individual and Organizational Factors 
+of EIPM
+What determines whether policy makers and public officials rely 
+on evidence or not? There is a growing body of literature that 
+identifies, catalogs, and sometimes measures factors associated 
+with EIPM (Nelson et al. 2023; Nelson et al. 2024). These studies 
+employ a wide range of methods, including ethnography (Dorren 
+and Wolf 2023; Bogenschneider and Bogenschneider 2020), doc-
+ument analysis (Kelstrup and Jørgensen 2024), participant obser-
+vation (Bogenschneider and Corbett  2010), interviews (Ouimet 
+et al. 2009; Oliphant and Howlett  2010; Cheng et al.  2024), sur-
+veys (Landry et al. 2003; Amara et al. 2004; Wellstead et al. 2011; 
+Cherney et al. 2015; Capano et al.  2023), online conjoint experi-
+ments (Xu et al. 2024) and systematic literature reviews (Capano 
+and Malandrino 2022; Oliver et al. 2014; Nelson et al. 2023). The 
+factors, drawn from these studies, can either act positively as 
+drivers or facilitators promoting the use of EIPM or negatively 
+as barriers or obstacles hindering its adoption (Capano and 
+Malandrino 2022; Cairney  2016). In broad terms, we can cate -
+gorize the factors related to EIPM into two overarching groups: 
+individual and organizational factors.
+ 15406210, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13946 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=4>>>
+4 of 16 Public Administration Review, 2025
+2.4   |   Organizational Factors
+Organizational factors typically refer to aspects or elements 
+of an organization that can influence its functioning and out -
+comes. Recurring examples of such factors in regard to EIPM 
+are public organizations' culture and resources (Capano and 
+Malandrino  2022; Oliver et  al.  2014). We also introduce two 
+novel organizational-  level factors into the equation: policy au -
+tonomy and politicization.
+2.4.1   |   Organizational Culture
+Organizational culture can be understood as a specific set of 
+standards, values, attitudes, assumptions, beliefs, traditions, lan-
+guage, and practices that are particular to a given organization 
+and which can influence how evidence is perceived, valued, and 
+utilized in the policy making process (Cairney  2016; Moynihan 
+and Pandey  2010). In relation to evidence use, Quinn and 
+Kimberly (1984) distinguish between four culture types: group, 
+hierarchical, rational, and developmental culture. Group culture 
+prioritizes personal relationships, social cohesion, and morale, 
+while hierarchical culture centers on control, information man-
+agement, procedures, and organizational stability. In the context 
+of this study, we are primarily interested in rational and devel-
+opmental cultures, as these were shown in the research by Hall 
+and Van Ryzin (2019) to correlate positively with perceived ev -
+idence use in public organizations. Rational culture, character -
+ized by a focus on control, planning, and productivity, provides 
+a structured environment where individuals prioritize evi-
+dence as an important asset for achieving organizational goals. 
+Developmental culture, characterized by flexibility, growth, and 
+adaptability, fosters an environment where individuals seek new 
+information and remain open to evidence, aligning with the or -
+ganization's emphasis on innovation and learning (Moynihan 
+and Pandey  2007, 2010). Therefore, we formulate the following 
+hypotheses:
+H1. The stronger the perceived level of rational culture, the 
+higher the perceived level of evidence use within the organization .
+H2. The stronger the perceived level of development culture, the 
+higher the perceived level of evidence use within the organization .
+2.4.2   |   Organizational Resources
+Insufficient resources frequently emerge as a key barrier to ev -
+idence use in public organizations (Oliver et  al.  2014). Public 
+organizations require a certain threshold of human and finan -
+cial resources enabling them to carry out the tasks associated 
+with conducting and commissioning relevant policy research 
+(Howlett 2009). Public organizations with adequate resources, 
+such as access to evidence, budget, time allocation and dedicated 
+personnel, are better positioned to create an environment where 
+individuals can meet the conditions necessary to effectively in -
+tegrate evidence into policy making (Jennings and Hall  2012; 
+Cherney et  al.  2015; Shaxson et  al.  2024; Cheng et  al.  2024). 
+Building on previous research, we therefore expect a positive 
+association between all these types of resources and organiza -
+tional evidence use.
+H3. The more access public officials have to evidence, the higher 
+the perceived level of evidence use within their organization .
+H4. The more time public officials have to engage with evi -
+dence, the higher the perceived level of evidence use within their 
+organization .
+H5. The more staff public officials have to engage with evidence, the 
+higher the perceived level of evidence use within their organization.
+H6. The more budget public officials have to engage with evi -
+dence, the higher the perceived level of evidence use within their 
+organization .
+2.4.3   |   Policy Autonomy
+Policy autonomy, in this context, refers to the degree of discretion 
+a public organization possesses in steering both the formulation 
+and implementation of policies, encompassing aspects such as 
+setting the policy agenda, selecting target groups, choosing policy 
+instruments, and achieving desired policy outcomes (Newman 
+et  al.  2017, 160; Verhoest et  al.  2004, 116; Verschuere and 
+Vancoppenolle 2012, 250). When autonomy is restricted, public 
+officials may feel pressured to bypass evidence in favor of political 
+demands (Dekker and Hansén  2004; Bekkers et al.  2017). Thus, 
+policy autonomy acts as a mechanism that mitigates or amplifies 
+political pressure, potentially affecting the likelihood of EIPM.
+H7. The more policy autonomy public officials have, the higher 
+the perceived level of evidence use within their organization .
+2.4.4   |   Politicization
+Politicization, the growing political influence on public admin-
+istrations, requiring public officials to be more sensitive to po -
+litical considerations, can undermine evidence use (Peters and 
+Pierre 2004). In highly politicized environments, evidence may 
+be selectively used, misinterpreted, or manipulated to align with 
+political interests (Cairney  2016; Parkhurst 2017). As politiciza-
+tion increases, public officials are likely to place less emphasis on 
+evidence and more on political priorities and agendas.
+H8. The more politicization public officials experience, the 
+lower the perceived level of evidence use within their organization .
+2.5   |   Individual Factors
+Furthermore, the literature considers individual- level factors 
+crucial for shaping EIPM (Nelson et al.  2023). Key elements in-
+clude public officials' policy analytical capacities, interpersonal 
+contacts with evidence suppliers, work experience, and person- 
+organization fit.
+2.5.1   |   Policy Analytical Capacities
+Previous research has highlighted the importance of ade -
+quate policy analytical capacities for enabling EIPM (Newman 
+ 15406210, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13946 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=5>>>
+5 of 16
+et al. 2017; Fobé 2021). These capacities refer to public officials' 
+technical competences and skills to access, evaluate, produce, 
+and disseminate policy-  relevant information (Howlett  2009; 
+Howlett and Newman  2010; Wellstead et  al.  2011). We expect 
+that public officials skilled in data analysis and research inter -
+pretation are better equipped to integrate evidence into the pol -
+icy process (Newman et al. 2017 ).
+H9. The higher the perceived level of policy analytical capaci -
+ties of public officials, the higher the perceived level of evidence use 
+within their organization .
+2.5.2   |   Personal Relationships
+While some studies highlight communication difficulties be -
+tween policy makers and researchers (Bozeman et al.  2023), 
+others argue that the disconnect is exaggerated (Newman 
+et  al.  2016). However, mutual trust and exchanges through 
+formal and informal networks are widely considered key to 
+improving evidence use in policy (Ouimet et al.  2009 ; Nelson 
+et al.  2023; Capano and Malandrino  2022 ; Oliver et al.  2014). 
+Open communication facilitates a better and more nuanced 
+understanding of each other's needs and practices, leading to 
+more effective evidence integration. We expect that public of -
+ficials who invest in building personal relationships with sci -
+entists and experts will enhance evidence use in their public 
+organizations.
+H10. The more public officials invest in their personal network 
+with evidence suppliers, the higher the perceived level of evidence 
+use within their organization .
+2.5.3   |   Public Sector Working Experience
+Public officials' experience of working in the public sector 
+can work both ways when it comes to fostering EIPM (Nelson 
+et  al.  2023). More experienced public officials may be more 
+familiar with the role of evidence in policy and have broader 
+networks (Howlett and Newman  2010; Newman et  al.  2017). 
+However, Hall and Van Ryzin (2019) found that senior public of-
+ficials are less likely to use evidence, possibly due to reliance on 
+tacit knowledge and intuition. In contrast, Nelson et al. ( 2024) 
+suggest that newer public officials, particularly those who are 
+younger, may have more recent experiences and relations with 
+academic researchers and are more accustomed to the latest ad -
+vancements in data-  driven technologies. Therefore, we formu -
+late the following hypothesis:
+H11. The higher the level of public officials' working expe -
+rience, the lower the perceived level of evidence use within the 
+organization .
+2.5.4   |   Person-  Organization Fit
+We include a measure of person-  organizational fit, which Hall 
+and Van Ryzin ( 2019) found to be strongly associated with ev -
+idence use. Person-  organization fit refers to the alignment of 
+an individual's values and goals with those of the organization 
+(O'Reilly et  al.  1991). Strong fit tends to increase motivation, 
+collaboration and innovation (Kristof-  Brown et al.  2005; Afsar 
+et al. 2015), and we anticipate a similar pattern for evidence use, 
+leading to the following hypothesis:
+H12. The higher the perceived level of person-  organizational 
+fit, the higher the perceived level of evidence use within the 
+organization .
+3   |   Methods
+3.1   |   Data Collection
+To test our hypotheses and answer our research question, we 
+conducted a cross-  sectional survey between June 13th and 
+July 14th, 2022. The sampling frame was constructed based 
+on the personnel register of the Flemish government and con -
+tained N = 1556 middle and top managers, supervisors, policy 
+workers, data analysts, and policy staff officials. All targeted 
+respondents have experience in analyzing and interpreting 
+policy information and are responsible for applying policy 
+information to new policy plans and proposals. The survey 
+was conducted online, using the survey program Qualtrics 
+(Qualtrics  2005). Invitations were sent to all members of the 
+sampling frame. To optimize the response rate, we sent out 
+up to two reminder emails to nonresponders. The analyses 
+were conducted using ordinary least squares regression anal -
+ysis in the statistical software environment R. The design 
+of the survey received ethical approval from the Social and 
+Societal Ethics Committee of KU Leuven (G-  2022–5244). Out 
+of n = 1556 public officials that were invited to participate, 
+n = 438 public officials submitted a completed survey and were 
+included in the analysis, constituting a response rate of 28.2%. 
+The sample comprises the responses of n  = 225 women and 
+n = 206 men (n = 7 identified otherwise or preferred not to say), 
+with a mean age of 49 years and predominantly university edu -
+cated (92%). Participants are employed in all policy domains of 
+the Flemish government, ranging from n = 11 in the Finances 
+and Budgeting department to n  = 98 in the Environment de -
+partment. We use a mixed-  effects regression analysis (Bates 
+et al.  2015; González-  Romá and Hernández  2023) to estimate 
+the associations between our series of predictor variables on 
+the one hand and perceived EIPM on the other, while con -
+trolling for respondents' department of employment.
+We focus on public officials from the Flemish regional gov -
+ernment. As mentioned, Belgium stands out as a consen -
+sus democracy with neo-  corporatist traits (Brans et  al.  2022; 
+Pattyn et al.  2022; Pollitt and Bouckaert  2017; Strassheim and 
+Kettunen  2014; Fraussen and Pattyn  2023). In such setting, 
+decision- making tends to be relatively closed and heavily reliant 
+on the input by institutionalized representatives of major soci -
+etal interest groups. This is fundamentally different from the 
+anglophone context, where the “foundations of expertise” are 
+generally considered to be based on technically most-  qualified 
+experts and empirical science (Strassheim and Kettunen  2014; 
+Pattyn et  al.  2022). Whereas neo-  corporatism has been in de -
+cline in other consensus-  style countries, in Belgium this has re -
+mained persistently strong (Fraussen and Pattyn  2023), or even 
+increased (Jahn 2016).
+ 15406210, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13946 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=6>>>
+6 of 16 Public Administration Review, 2025
+Furthermore, political parties and well-  equipped ministerial 
+cabinets hold considerable sway in influencing the policy mak -
+ing process, to the extent that scholars have labeled Belgium 
+a “partitocracy” (Brans et al.  2022). Consequently, it has been 
+suggested that policy decisions in Flanders are often the product 
+of political bargaining and prioritizing political feasibility rather 
+than being driven by objective evidence and policy analysis 
+(Fobé et al. 2017, 51). At the same time, previous survey research 
+has also indicated that individual public officials in Flanders are 
+relatively well versed in EIPM practices (Fobé 2021). Particularly 
+in recent years, the COVID-  19 crisis has acted as a catalyst in 
+prioritizing EIPM, pushing it higher on the political and policy 
+agenda, at least in terms of discourse. These features create an 
+interesting setting, holding strong theoretical potential for un -
+derstanding the factors that explain organizational variation on 
+the NERD scale.
+Both the dependent and independent variables were measured 
+in the same survey instrument, raising the possibility of com -
+mon source bias. Addressing such concerns for common source 
+bias requires a balanced approach in both research design and 
+method of analysis (George and Pandey  2017; Jakobsen and 
+Jensen  2015). When both dependent and independent vari -
+ables capture respondents' perceptions, beliefs, or judgments, 
+surveys are an appropriate measurement method (George and 
+Pandey  2017; Podsakoff et  al.  2012). We conducted a post hoc 
+analysis for common source bias, using variance inflation fac -
+tors, and found no evidence indicating that common source bias 
+affected our results (see Appendix A ).
+3.2   |   Measures
+Our outcome variable, EIPM, is measured using Hall and Van 
+Ryzin's (2019) six- item NERD scale (NERD-  6). The NERD- scale 
+lends itself well to this purpose, since it measures the degree 
+to which public organizations are perceived to use research 
+findings, scientific evidence, monitoring data, and evaluation 
+results, considering all subtypes of evidence, which align with 
+the above-  mentioned OECD (2022) definition of evidence. The 
+NERD-  scale gauges how respondents perceive their organiza -
+tion's commitment to, and utilization of, evidence informed pol-
+icy and decision making. Therefore, these assessments reflect 
+individuals' subjective perceptions of EIPM, rather than objec -
+tive measures of its actual implementation. All responses, both 
+the outcome (NERD) and explanatory variables, were measured 
+on a seven-  point Likert scale ranging from 1 “completely dis -
+agree” to 7 “completely agree.” The internal consistency of the 
+NERD scale was strong with α = 0.86. We further assessed the 
+validity of the measurement instrument using factor analysis 
+(DeVellis and Thorpe  2022), the results of which are included 
+in the Appendix B and show solid support for the validity of the 
+original Hall and Van Ryzin ( 2019) measurement instrument.
+First, organizational cultures were measured based on 
+Moynihan and Pandey's ( 2010) operationalized scales of orga -
+nizational cultures. Rational culture was measured using two 
+items on the perceived degree to which an organization is re -
+sults-  and production- oriented (α = 0.87). Developmental culture 
+was measured using two items measuring the entrepreneurial 
+nature of the organization and whether people were willing to 
+stick their necks out and take risks ( α = 0.72). Second, organiza-
+tional resources were measured using four items which previ -
+ously fielded by Jennings and Hall ( 2012). The items measured 
+respondents' perceived access to information, time, staff, and 
+budget to engage with evidence. Third, policy autonomy was 
+measured using two items, measuring respondents' perceived 
+degree of their organization's autonomy in the formulation and 
+implementation of policies (α = 0.81). Fourth, politicization was 
+measured using one item on the perceived interference of politi-
+cians in the organization's day- to- day operations.
+We further included four individual- level characteristics. First, 
+public officials' policy- analytical capacities were measured using 
+three items developed by Newman et  al.  (2017). Respondents 
+were invited to self- assess their skills in interpreting statistical 
+TABLE 1     |    Descriptive statistics.
+Item N Mean SD Max Min
+Norm of Evidence 
+and Research in 
+Decision- making 
+(NERD)
+438 5.26 0.97 7 2.5
+Analytical capacities 438 5.21 1 7 2
+Personal network 438 5.10 1.56 7 1
+Person- organization 
+fit
+438 5.27 1.21 7 1
+Rational 
+organizational 
+culture
+438 5.41 1.05 7 1.5
+Group 
+organizational 
+culture
+438 4.28 1.04 7 1
+Development 
+organizational 
+culture
+438 4.69 1.22 7 1
+Hierarchical 
+organizational 
+culture
+438 4.65 1.37 7 1
+Resources—
+Accessibility
+438 5.06 1.27 7 1
+Resources—Time 438 3.88 1.63 7 1
+Resources—People 438 4.97 1.41 7 1
+Resources—Budget 438 4.21 1.65 7 1
+Policy autonomy 438 3.19 1.34 7 1
+Politicization 438 4.23 1.65 7 1
+Age (years) 438 49.05 9.25 65 17
+Gender (Female) 438 225 (51.4%)
+Education (> MA) 438 403 (92%)
+Experience working 
+in the public sector 
+(Years)
+438 19.99 9.65 44 0.01
+ 15406210, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13946 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=7>>>
+7 of 16
+analyses, collecting and analyzing policy related data and infor -
+mation, and applying the results of research studies. The inter -
+nal consistency among these items was strong (α = 0.82). Second, 
+respondents' professional network with experts and academics 
+was measured using a single item on whether respondents inten-
+tionally search for and establish connections with experts and ac-
+ademics outside of the public sector. Third, person-  organization 
+fit was measured using a single self- assessment item on the con-
+gruence between individual and organizational values and goals, 
+derived from Gould-  Williams et  al.  (2015) and also applied by 
+Hall and Van Ryzin (2019) in an EIPM context. Fourth, working 
+experience was measured as the number of years a respondent 
+has worked in the public sector.
+Finally, we control for respondents' age, gender, level of educa-
+tion, and the policy domain in which respondents were active. A 
+complete list with all survey items is included in the Appendix C.
+4   |   Results
+This study examines the organizational-  and individual- 
+level factors of public officials' assessments of EIPM in their 
+organization. Overall, our respondents are relatively positive 
+about their organization's use of EIPM ( m = 5.26, SD = 0.967). 
+According to our analysis, individual factors explain about 30% 
+(conditional R2 = 0.300) of the variance in perceived organiza -
+tional use of EIPM (Model 2) and individual and organizational 
+factors together explain about 48.5% (conditional R 2 = 0.485) of 
+perceived organizational use of EIPM (Model 3). The descriptive 
+statistics of our analysis are presented in Table 1 .
+Our results, presented in Table  2, provide evidence for cor -
+relates of EIPM at both the organizational and individual levels. 
+In terms of organizational-  level factors, we find a statistically 
+significant and positive association between rational organiza -
+tional culture (Est. = 0.178, p = < 0.000) and perceived EIPM by 
+public organizations, while the levels of group, developmental, 
+and hierarchical culture are not statistically significantly related 
+to EIPM in public organizations. With its adherence to results 
+and efficiency, a rational organizational culture appears to be 
+associated with EIPM. Furthermore, we a find a statistically 
+significant association between three types of organizational 
+resources and the perceived use of EIPM by public organiza -
+tions. More specifically, we find that accessibility to evidence 
+(Est. = 0.235, p = < 0.000), sufficient time (Est. = 070, p = 0.020), 
+TABLE 2     |    Results of mixed- effects regression analysis.
+Variable
+Model 1 Model 2 Model 3
+Coef s.e. Coef s.e. Coef s.e.
+Intercept 4.700*** (0.319) 2.478*** (0.387) 1.600*** (0.435)
+Analytical capacities 0.078 (0.048) −0.028 (0.043)
+Personal network 0.061* (0.030) 0.047 (0.027)
+Person- organization fit 0.359*** (0.033) 0.162*** (0.037)
+Experience working in the public sector (Years) 0.014* (0.006) 0.014* (0.006)
+Culture—Rational 0.178*** (0.039)
+Culture—Group −0.001 (0.042)
+Culture—Developmental 0.051 (0.040)
+Culture—Hierarchical −0.005 (0.027)
+Resources—Accessibility 0.235*** (0.034)
+Resources—Time 0.070* (0.030)
+Resources—People 0.069** (0.030)
+Resources—Budget −0.084** (0.029)
+Policy autonomy 0.030 (0.030)
+Politicization −0.006 (0.024)
+Age (Years) 0.008 (0.005) −0.002 (0.007) −0.009 (0.006)
+Gender (Female) −0.097 (0.093) −0.032 (0.081) 0.001 (0.072)
+Education (> MA) 0.225 (0.169) −0.006 (0.150) 0.057 (0.133)
+ICC (departments) 0.043 0.040 0.028
+N participants 438 437 437
+Conditional R2 0.056 0.300 0.485
+Note: Significance codes: *< 0.05, **< 0.01, ***< 0.001.
+ 15406210, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13946 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=8>>>
+8 of 16 Public Administration Review, 2025
+and adequate staff (Est. = 069, p = 0.003) are statistically signifi -
+cantly and positively associated with perceived EIPM. Among 
+these, easy access to evidence appears to be the most influential 
+factor. Surprisingly, we find a statistically significant and nega -
+tive association between available budget and perceived EIPM 
+(Est. = − 0.084, p = 0.004). Additionally, we find no statistically 
+significant association between the level of perceived policy for -
+mulation and implementation autonomy and perceived EIPM 
+(Est. = 0.030, p = 0.308) nor between the perceived extent to 
+which politicians interfere in the day-  to- day operations of orga-
+nizations (politization) and perceived EIPM by those organiza -
+tions (Est. = −0.006, p = 0.798).
+In terms of individual-  level factors of perceived use of EIPM, 
+we only find a statistically significant (positive) association 
+between person-  organization fit and perceived use of EIPM 
+(Est. = 0.162, p = < 0.000) and between a person's years of ex -
+perience working in the public sector and their assessment of 
+organizational use of EIPM (Est. = 0.014, p  = 0.014). We find 
+no statistically significant association between individuals' 
+analytical capacities or personal network and perceived EIPM. 
+Interestingly, a persons' network appears mediated by organi -
+zational factors, as a statistically significant positive associa -
+tion between personal network and perceived EIPM disappears 
+when organizational factors are added to the model. Finally, 
+we observe that department of employment only accounts for a 
+small amount of variance of respondent's perceived attachment 
+to EIPM: about 3% (ICC = 0.028).
+5   |   Discussion
+The primary objective of this study was to deepen our under -
+standing of how organizational-  and individual- level factors are 
+associated with the use of evidence in public organizations. It is 
+important to note that our focus is on perceived levels of organi-
+zational evidence use, which are measured subjectively through 
+self- reporting. The results show that policy officials in Flanders 
+are relatively positive about the utilization of evidence within 
+their organization. They indicate that, overall, the public orga -
+nizations for which they work value proven results, track the 
+outcomes they create, evaluate the programs they develop, ana -
+lyze the programs they implement, and use research findings to 
+guide decision and policy making.
+The study provides evidence for multiple organizational-  and 
+individual-  level correlates of perceived organizational EIPM. 
+Regarding the organizational-  level factors, we found a positive 
+and significant association between the perceived level of ra -
+tional culture within an organization and its perceived use of 
+EIPM (H1 supported). This association was not observed for de -
+velopment culture (H2 not supported). These findings partially 
+align with previous research by Hall and Van Ryzin ( 2019) and 
+reinforce the notion that goal-  oriented organizations priori -
+tizing rational and efficient work processes tend to be more 
+inclined toward EIPM. Furthermore, we found a positive and 
+statistically significant association between respondents' per -
+ceptions of easy access, sufficient time, and adequate staff 
+and their assessment of organizational EIPM use (H3–H5 sup -
+ported). Of these, the ready availability of evidence emerges as 
+the most influential factor.
+Yet, contrary to our expectations, we observe a negative and 
+statistically significant association between perceived budget 
+and perceived evidence use (H6 not supported). This outcome 
+is surprising and puzzling. At least it suggests that even when 
+budgets are perceived to be smaller, it does not necessarily 
+preclude the perception of working in an evidence informed 
+manner. It underscores the need for enhanced empirical un -
+derstanding of how public officials negotiate and manage bud -
+gets to support evidence use in public organizations (Shaxson 
+et  al.  2024). Additionally, we included novel organizational 
+variables into the model, including policy autonomy and politi -
+cization, which, contrary to our initial expectations, displayed 
+no significant associations with perceived levels of EIPM 
+within the organization (H7 and H8 not supported). This re -
+sult could imply that political influence on the use of evidence 
+within administrative decision making is less decisive.
+Regarding the individual- level factors, we found a positive and 
+statistically significant association between person organiza-
+tional fit and perceived organizational EIPM (H12 supported). 
+We add to the existing evidence that person organization fit is 
+a crucial element to stimulate EIPM within public organiza-
+tions (Hall and Van Ryzin  2019). Contrary to our expectations, 
+we found a positive, statistically significant association between 
+public officials' years of experience in the public sector and their 
+perceptions of organizational EIPM use (H11 not supported) 
+(we hypothesized a negative association). It appears that of-
+ficials with more seniority are more acquainted with the role 
+of evidence in the policy process (Howlett and Newman  2010; 
+Newman et al. 2017). Finally, we did not find a positive and statis-
+tically significant association between policy officials' analytical 
+capacities and personal network, and their perceptions of orga-
+nizational EIPM use (H9 and H10 not supported). Interestingly, 
+policy officials' personal network appears mediated by organiza-
+tional factors, as it loses statistical significance when including 
+organizational factors into the model.
+We interpret and discuss our results in light of four important 
+nuances. First, we cannot discount the possibility of social- 
+desirability bias. Self-  report questionnaires are susceptible to 
+respondents' tendencies to provide answers that are perceived 
+as socially acceptable (Kim and Kim  2016). In the context of 
+EIPM research, respondents may inflate their responses to pres -
+ent themselves and their organizations in a manner that they 
+perceive as more in line with contemporary evidence-  based 
+norms and rhetoric. Second, the results may be influenced by 
+self- selection bias, as individuals with a stronger commitment 
+to EIPM might have been more inclined to take part, potentially 
+leading to an overrepresentation of pro-  EIPM perspectives. 
+When comparing the FTE distribution across policy domains in 
+the Flemish Government, we notice that policy domains with 
+a strong focus on policy and evidence informed work, such as 
+Economy, Science, and Innovation, are overrepresented in our 
+sample, while domains with a higher proportion of technical 
+and operational staff, such as Mobility and Public Works, are un-
+derrepresented. A detailed table covering all 10 policy domains 
+is included in the Appendix D. Third, given the relatively recent 
+introduction of the NERD scale and the absence of subsequent 
+field research, we lack comparative benchmarks with other pol -
+icy regimes in different contexts and countries, to fully interpret 
+the self- reported level of Flemish public organizations. Without 
+ 15406210, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13946 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=9>>>
+9 of 16
+a standardized scaling instrument preceding the NERD scale, it 
+is challenging to determine whether these self-  reported scores 
+align above, around, or below average compared to other policy 
+contexts (Nelson et al.  2023). Building upon the findings of this 
+study, future research could commence assessing and compar -
+ing EIPM levels across various public organizational contexts 
+and cultures (Bandola-  Gill et al. 2024).
+The aim of the study was to gain insights into how organiza -
+tional and individual factors are associated with evidence use 
+in public organizations. Our contribution stems from replicating 
+and validating the NERD scale, expanding the range of explan -
+atory factors for EIPM, and applying this in a consensus-  based 
+and neo-  corporatist administrative context. Further research 
+could expand upon this study in various ways. First, by employ -
+ing more objective measures and independent data sources (e.g., 
+the explicit uptake of evidence in policy documents) to assess the 
+variables used in this study, complementing the results of self- 
+reporting with actual evidence-  related behaviors and practices 
+(see e.g., Jørgensen  2023). Second, by integrating new explan -
+atory variables into the model, such as public leadership type, 
+red tape, or data maturity. Third, by unpacking the underlying 
+mechanism of the factors driving EIPM in more depth through 
+methods such as within-  case process tracing (Beach  2016) and 
+mixed- methods approaches (Hendren et  al.  2018). Fourth, by 
+conducting comparative studies, we could comprehend how 
+evidence use differs across countries or regions, considering 
+cultural, political, and institutional factors. Fifth, by extending 
+the scope to the political dimension of EIPM, examining how 
+evidence is used by political actors, such as executive politicians, 
+members of parliament, and members of ministerial cabinets.
+6   |   Conclusion
+Public organizations' and public officials' use of evidence in 
+policy making is influenced by a combination of organizational 
+and individual factors. By exploring a wide range of variables, 
+we provide a more nuanced understanding of the factors driv -
+ing evidence use in public administration. These insights offer 
+guiding principles for public organizations committed to EIPM, 
+showing that establishing a rational organizational culture, allo-
+cating adequate resources, and optimizing person-  organization 
+fit are essential steps in fostering an environment that supports 
+evidence use. To advance the EIPM field, future research could 
+explore new data sources, variables, contexts, and actors.
+Conflicts of Interest
+The authors declare no conflicts of interest.
+References
+Afsar, B., Y. Badir, and M. M. Khan. 2015. “Person-  Job Fit, Person- 
+Organization Fit and Innovative Work Behavior: The Mediating Role 
+of Innovation Trust.” Journal of High Technology Management Research 
+26, no. 2: 105–116. https:// doi. org/ 10. 1016/j. hitech. 2015. 09. 001.
+Amara, N., M. Ouimet, and R. Landry. 2004. “New Evidence on 
+Instrumental, Conceptual, and Symbolic Utilization of University 
+Research in Government Agencies.” Science Communication  26, no. 1: 
+75–106. https:// doi. org/ 10. 1177/ 10755 47004 267491.
+Bandola- Gill, J., N. A. Andersen, R. Leng, V. Pattyn, and K. E. Smith. 
+2024. “A Matter of Culture? Conceptualizing and Investigating ‘Evidence 
+Cultures’ Within Research on Evidence-  Informed Policymaking.” 
+Policy and Society  43, no. 4: 397–413. https://  doi. org/ 10. 1093/ polsoc/ 
+puae036.
+Bates, D. M., M. Mächler, B. Bolker, and S. Walker. 2015. “Fitting Linear 
+Mixed- Effects Models Using Lme4.” Journal of Statistical Software 67, 
+no. 1: 1–48. https:// doi. org/ 10. 18637/  jss. v067. i01.
+Beach, D. 2016. “It's All About Mechanisms—What Process- Tracing Case 
+Studies Should be Tracing.” New Political Economy 21, no. 5: 463–472.
+Bekkers, V., M. Fenger, and P. Scholten. 2017. “Public Policy in Action.” 
+In Perspectives on the Policy Process . Edward Elgar Publishing Limited.
+Belkhodja, O., N. Amara, R. Landry, and M. Ouimet. 2007. “The Extent 
+and Organizational Determinants of Research Utilization in Canadian 
+Health Services Organizations.” Science Communication  28, no. 3: 
+377–417.
+Blom- Hansen, J., M. Baekgaard, and S. Serritzlew. 2016. “Shaping 
+Political Preferences: Information Effects in Political-  Administrative 
+Systems.” Local Government Studies 42, no. 1: 119–138. https://  doi. org/ 
+10. 1080/ 03003 930. 2015. 1084925.
+Blom- Hansen, J., M. Baekgaard, and S. Serritzlew. 2021. “How 
+Bureaucrats Shape Political Decisions: The Role of Policy Information.” 
+Public Administration  99, no. 4: 658–678. https:// doi. org/ 10. 1111/ padm. 
+12709 .
+Blum, S., and V. Pattyn. 2022. “How Are Evidence and Policy 
+Conceptualised, and How Do They Connect? A Qualitative Systematic 
+Review of Public Policy Literature.” Evidence & Policy 18, no. 3: 1–20. 
+https:// doi. org/ 10. 1332/ 17442 6421x 16397 41153 2296.
+Bogenschneider, K., and B. N. Bogenschneider. 2020. “Empirical 
+Evidence From State Legislators: How, When, and Who Uses Research.” 
+Pscychology, Public Policy and Law  26, no. 4: 413–424.
+Bogenschneider, K., and T. J. Corbett. 2010. Evidence-  Based 
+Policymaking: Insights From Policy-  Minded Researchers and Research- 
+Minded Policymakers . Routledge/Taylor & Francis Group.
+Bolsen, T., and J. N. Druckman. 2015. “Counteracting the Politicization 
+of Science.” Journal of Communication  65, no. 5: 745–769. https://  doi. 
+org/ 10. 1111/ jcom. 12171 .
+Boswell, J. 2018. “What Makes Evidence-  Based Policy Making Such a 
+Useful Myth? The Case of NICE Guidance on Bariatric Surgery in the 
+United Kingdom.” Governance  31, no. 2: 199–214. https://  doi. org/ 10. 
+1111/ gove. 12285 .
+Botterill, L. C., and A. Hindmoor. 2012. “Turtles All the Way Down: 
+Bounded Rationality in an Evidence-  Based Age.” Policy Studies  33, no. 
+5: 367–379. https:// doi. org/ 10. 1080/ 01442 872. 2011. 626315.
+Bozeman, B., S. Lindsay, J. P. Nelson, and S. Bretschneider. 2023. 
+“Speaking Truth to Power … or to the Ivory Tower ? Public Affairs 
+Researchers' Reports of Practitioners' Use of Their Research.” Public 
+Management Review 27, no. 3: 572–597. https://  doi. org/ 10. 1080/ 14719 
+037. 2023. 2252819.
+Brans, M., D. Aubin, C. de Visscher, E. Fobé, A. Meert, and P. Squevin. 
+2022. “The End of the Party Politicisation of Public Administration. A 
+Fata Morgana?” In The Winter of Democracy. Partitocracy in Belgium , 
+edited by P. Baudewyns, M. Brans, M. Reuchamps, B. Rihoux, and V. 
+Van Ingelgom, 137–164. Presses Universitaires de Louvain.
+Bundi, P., and V. Pattyn. 2022. “Trust, but Verify? Understanding 
+Citizen Attitudes Toward Evidence-  Informed Policy Making.” Public 
+Administration  101, no. 4: 1227–1246. https://  doi. org/ 10. 1111/ padm. 
+12852  .
+ 15406210, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13946 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=10>>>
+10 of 16 Public Administration Review, 2025
+Bundi, P., and P. Trein. 2022. “Evaluation Use and Learning in Public 
+Policy.” Policy Sciences  55, no. 2: 283–309. https:// doi. org/ 10. 1007/ s1107 
+7-  022-  09462 -  6.
+Cairney, P. 2016. The Politics of Evidence-  Based Policy Making . Palgrave 
+Macmillan.
+Cantarelli, P., N. Belle, and J. L. Hall. 2023. “Information Use in Public 
+Administration and Policy Decision Making: A Research Synthesis.” 
+Public Administration Review  83: 1667–1686. https://  doi. org/ 10. 1111/ 
+puar. 13735 .
+Capano, G., A. Cavalieri, and A. Pritoni. 2023. “Bureaucratic Policy 
+Work and Analytical Capacities in Central Administrations in Greece, 
+Italy, Portugal and Spain: The Results of a Comparative Survey.” 
+International Review of Administrative Sciences 90, no. 2: 385–401. 
+https:// doi. org/ 10. 1177/ 00208 52323 1188506.
+Capano, G., and A. Malandrino. 2022. “Mapping the Use of Knowledge 
+in Policymaking: Barriers and Facilitators From a Subjectivist 
+Perspective (1990–2020).” Policy Sciences  55, no. 3: 399–428. https:// doi. 
+org/ 10. 1007/ s1107 7-  022-  09468 -  0.
+Cheng, Y., L. Thompson, S. Wang, et al. 2024. “Evidence- Based Practices 
+and US State Government Civil Servants: Current Use, Challenges, and 
+Pathways Forward.” Public Administration Review  85: 1–12. https:// doi. 
+org/ 10. 1111/ puar. 13878 .
+Cherney, A., B. Head, J. Povey, M. Ferguson, and P. Boreham. 2015. “Use 
+of Academic Social Research by Public Officials: Exploring Preferences 
+and Constraints That Impact on Research Use.” Evidence & Policy 11, 
+no. 2: 169–188. https:// doi. org/ 10. 1332/ 17442 6514X 14138 92645 0067.
+Dekker, S., and D. Hansén. 2004. “Learning Under Pressure: The Effects 
+of Politicization on Organizational Learning in Public Bureaucracies.” 
+Journal of Public Administration Research and Theory 14, no. 2: 211–
+230. https:// doi. org/ 10. 1093/ jopart/ muh014.
+DeVellis, R. F., and C. T. Thorpe. 2022. Scale Development: Theory and 
+Applications . 5th ed. SAGE Publications Inc.
+Dorren, L., and E. E. A. Wolf. 2023. “How Evidence- Based Policymaking 
+Helps and Hinders Policy Conflict.” Policy & Politics  51, no. 3: 486–507. 
+https:// doi. org/ 10. 1332/ 03055 7321x 16836 23713 5216.
+European Commission. 2022. Commission Staff Working Document. 
+Supporting and Connecting Policymaking in the Member States With 
+Scientific Research . European Commission.
+Flyvbjerg, B. 2011. “Case Study.” In The Sage Handbook of Qualitative 
+Research , edited by N. K. Denzin and Y. S. Lincoln, 301–316. Sage.
+Fobé, E. 2021. “Boosting the Capacity for Policy Analysis Among 
+Public Officials.” In New Representative Evidence From Belgium. Public 
+Governance Institute.
+Fobé, E., B. De Peuter, M. Petit Jean, and V. Pattyn. 2017. “Analytical 
+Techniques in Belgian Policy Analysis.” In Policy Analysis in Belgium , 
+edited by M. Brans and D. Aubin, 35–56. Bristol University Press.
+Fraussen, B., and V. Pattyn. 2023. “The Niche of Think Tanks in a 
+Consensus—Seeking and Neo-  Corporatist Policy Advisory System.” 
+International Review of Administrative Sciences 90, no. 3: 1–15. https:// 
+doi. org/ 10. 1177/ 00208 52323 1211541.
+French, R. D. 2019. “Is It Time to Give Up on Evidence-  Based Policy? 
+Four Answers.” Policy and Politics  47, no. 1: 151–168. https:// doi. org/ 10. 
+1332/ 03055 7318X 15333 03350 8220.
+George, B., and S. K. Pandey. 2017. “We Know the Yin—But Where 
+Is the Yang? Toward a Balanced Approach on Common Source Bias 
+in Public Administration Scholarship.” Review of Public Personnel 
+Administration  37, no. 2: 245–270. https://  doi. org/ 10. 1177/ 07343 71X17 
+698189.
+González- Romá, V., and A. Hernández. 2023. “Conducting and 
+Evaluating Multilevel Studies: Recommendations, Resources, and a 
+Checklist.” Organizational Research Methods  26, no. 4: 629–654. https:// 
+doi. org/ 10. 1177/ 10944 28121 1060712.
+Gould- Williams, J. S., A. M. S. Mostafa, and P. Bottomley. 2015. “Public 
+Service Motivation and Employee Outcomes in the Egyptian Public 
+Sector: Testing the Mediating Effect of Person-  Organization Fit.” 
+Journal of Public Administration Research and Theory 25, no. 2: 597–
+622. https:// doi. org/ 10. 1093/ jopart/ mut053.
+Hall, J. L., and G. G. Van Ryzin. 2019. “A Norm of Evidence and 
+Research in Decision-  Making (NERD): Scale Development, Reliability, 
+and Validity.” Public Administration Review  79, no. 3: 321–329. https://  
+doi. org/ 10. 1111/ puar. 12995 .
+Head, B. W. 2008. “Three Lenses of Evidence-  Based Policy.” Australian 
+Journal of Public Administration 67, no. 1: 1–11. https://  doi. org/ 10. 
+1111/j. 1467-  8500. 2007. 00564. x.
+Head, B. W. 2010. “Reconsidering Evidence-  Based Policy: Key Issues 
+and Challenges.” Policy and Society  29, no. 2: 77–94. https://  doi. org/ 10. 
+1016/j. polsoc. 2010. 03. 001.
+Head, B. W. 2016. “Toward More ‘Evidence-  Informed’ Policy Making?” 
+Public Administration Review  76, no. 3: 472–484. https://  doi. org/ 10. 
+1111/ puar. 12475 .
+Hendren, K., Q. E. Luo, and S. K. Pandey. 2018. “The State of Mixed 
+Methods Research in Public Administration and Public Policy.” Public 
+Administration Review  78, no. 6: 904–916. https://  doi. org/ 10. 1111/ puar. 
+12981 .
+Howlett, M. 2009. “Policy Analytical Capacity and Evidence-  Based 
+Policy- Making: Lessons From Canada.” Canadian Public Administration 
+52, no. 2: 153–175. https:// doi. org/ 10. 1111/j. 1754-  7121. 2009. 00070_1. x.
+Howlett, M., and J. Newman. 2010. “Policy Analysis and Policy Work in 
+Federal Systems: Policy Advice and Its Contribution to Evidence-  Based 
+Policy- Making in Multi-  Level Governance Systems.” Policy and Society  
+29, no. 2: 123–136. https:// doi. org/ 10. 1016/j. polsoc. 2010. 03. 004.
+Jahn, D. 2016. “Changing of the Guard: Trends in Corporatist 
+Arrangements in 42 Highly Industrialized Societies From 1960 to 
+2010.” Socio- Economic Review 14, no. 1: 47–71. https://  doi. org/ 10. 1093/ 
+ser/ mwu028.
+Jakobsen, M., and R. Jensen. 2015. “Common Method Bias in Public 
+Management Studies.” International Public Management Journal  18, no. 
+1: 3–30. https:// doi. org/ 10. 1080/ 10967 494. 2014. 997906.
+Jasanoff, S. 1990. The Fifth Branch: Science Advisors as Policy Makers . 
+Harvard University Press.
+Jennings, E. T., and J. L. Hall. 2012. “Evidence-  Based Practice and the 
+Use of Information in State Agency Decision Making.” Journal of Public 
+Administration Research and Theory  22, no. 2: 245–266. https:// doi. org/ 
+10. 1093/ jopart/ mur040.
+Jørgensen, J. V. 2023. “Knowledge Utilisation Analysis: Measuring 
+the Utilisation of Knowledge Sources in Policy Decisions.” Evidence & 
+Policy. A Journal of Research, Debate and Practice  20, no. 2: 205–225.
+Kelstrup, J. D., and J. V. Jørgensen. 2024. “Explaining Differences in 
+Research Utilization in Evidence-  Based Government Ministries.” Policy 
+Sciences 57, no. 2: 257–280. https:// doi. org/ 10. 1007/ s1107 7-  024-  09529 -  6.
+Kim, S. H., and S. Kim. 2016. “National Culture and Social Desirability 
+Bias in Measuring Public Service Motivation.” Administration and 
+Society  48, no. 4: 444–476. https://  doi. org/ 10. 1177/ 00953 99713 498749.
+Kislov, R., P. Wilson, G. Cummings, et al. 2019. “From Research Evidence 
+to ‘Evidence by Proxy’? Organizational Enactment of Evidence-  Based 
+Health Care in Four High-  Income Countries.” Public Administration 
+Review  79, no. 5: 684–698. https://  doi. org/ 10. 1111/ puar. 13056 .
+Knott, J., and A. Wildavsky. 1980. “If Dissemination Is the Solution, 
+What Is the Problem?” Knowledge: Creation, Diffusion, Utilization  1, no. 
+4: 537–578. https:// doi. org/ 10. 1177/ 10755 47080 00100404.
+ 15406210, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13946 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=11>>>
+11 of 16
+Kristof- Brown, A. L., R. D. Zimmerman, and E. C. Johnson. 2005. 
+“Consequences of Individuals' Fit at Work: A Meta-  Analysis of Person–
+Job, Person–Organization, Person–Group, and Person–Supervisor Fit.” 
+Personnel Psychology  58, no. 2: 281–342.
+Lancaster, K., T. Rhodes, and M. Rosengarten. 2020. “Making Evidence 
+and Policy in Public Health Emergencies: Lessons From COVID-  19 for 
+Adaptive Evidence-  Making and Intervention.” Evidence and Policy  16, 
+no. 3: 477–490. https:// doi. org/ 10. 1332/ 17442 6420X 15913 55998 1103.
+Landry, R., M. Lamari, and N. Amara. 2003. “The Extent and 
+Determinants of the Utilization of University Research in Government 
+Agencies.” Public Administration Review  63, no. 2: 192–205. https:// doi. 
+org/ 10. 1111/ 1540-  6210. 00279 .
+Leong, C., M. Howlett, and T. Lai. 2022. “Governing Complex 
+Environmental Policy Mixes Through Institutional Bricolage: 
+Lessons From the Water-  Forestry- Energy- Climate Nexus.” Journal of 
+Environmental Policy & Planning 24, no. 5: 540–552.
+Lüdecke, D., M. Ben-  Shachar, I. Patil, P. Waggoner, and D. Makowski. 
+2021. “Performance: An R Package for Assessment, Comparison and 
+Testing of Statistical Models.” Journal of Open Source Software 6, no. 60: 
+3139. https:// doi. org/ 10. 21105/  joss. 03139 .
+MacKillop, E., and J. Downe. 2023. “What Counts as Evidence for Policy? 
+An Analysis of Policy Actors' Perceptions.” Public Administration 
+Review  83, no. 5: 1037–1050. https:// doi. org/ 10. 1111/ puar. 13567 .
+Mavrot, C., and V. Pattyn. 2022. “The Politics of Evaluation.” In 
+Handbook on the Politics of Public Administration , edited by A. Ladner 
+and F. Sager, 244–255. Edward Elgar Publishing.
+Migchelbrink, K., P. Raymaekers, V. Pattyn, and P. De Smedt. 2024. 
+“Public Officials' Motivated Reasoning and Their Interpretation of 
+Policy Information.” Public Management Review : 1–27. https:// doi. org/ 
+10. 1080/ 14719 037. 2024. 2387178.
+Moynihan, D. P., and S. K. Pandey. 2007. “The Role of Organizations in 
+Fostering Public Service Motivation.” Public Administration Review  67, 
+no. 1: 40–53. https:// doi. org/ 10. 1111/j. 1540-  6210. 2006. 00695. x.
+Moynihan, D. P., and S. K. Pandey. 2010. “The Big Question for 
+Performance Management: Why Do Managers Use Performance 
+Information?” Journal of Public Administration Research and Theory 
+20, no. 4: 849–866. https://  doi. org/ 10. 1093/ jopart/ muq004.
+Munteanu, I., K. E. Newcomer, and C. Best. 2024. “Building an Evidence 
+Engine to Promote More Responsive Government.” Public Administration 
+Review, no. (August): 1–15. https:// doi. org/ 10. 1111/ puar. 13880 .
+Nelson, J. P., B. Bozeman, S. Bretschneider, and S. L. Lindsay. 2024. “How 
+Do Academic Public Administration and Public Policy Researchers Affect 
+Policymaking? Functional Groupings From Survey Data.” Scientometrics 
+129, no. 1: 65–93. https:// doi. org/ 10. 1007/ s1119 2-  023-  04860 -  w.
+Nelson, J. P., S. Lindsay, and B. Bozeman. 2023. “The Last 20 Years of 
+Empirical Research on Government Utilization of Academic Social 
+Science Research: A State- of- the- Art Literature Review.” Administration 
+and Society  55, no. 8: 1479–1528. https://  doi. org/ 10. 1177/ 00953 99723 
+1172923.
+Newman, J., A. Cherney, and B. W. Head. 2016. “Do Policy Makers Use 
+Academic Research? Reexamining the ‘Two Communities’ Theory of 
+Research Utilization.” Public Administration Review  76, no. 1: 24–32. 
+https:// doi. org/ 10. 1111/ puar. 12464 .
+Newman, J., A. Cherney, and B. W. Head. 2017. “Policy Capacity and 
+Evidence- Based Policy in the Public Service.” Public Management 
+Review  19, no. 2: 157–174. https:// doi. org/ 10. 1080/ 14719 037. 2016. 
+1148191.
+Nutley, S., I. Walter, and H. Davies. 2007. Using Evidence: How Research 
+Can Inform Public Services . Policy Press.
+Nutley, S., I. Walter, and H. T. O. Davies. 2003. “From Knowing to 
+Doing: A Framework for Understanding the Evidence-  Into- Practice 
+Agenda.” Evaluation  9, no. 2: 125–148. https://  doi. org/ 10. 1177/ 13563 
+89003  00900 2002.
+OECD. 2020. Building Capacity for Evidence-  Informed Policy-  Making. 
+Lessons From Country Experiences . OECD Publishing.
+Oliphant, S., and M. Howlett. 2010. “Assessing Policy Analytical 
+Capacity: Comparative Insights From a Study of the Canadian 
+Environmental Policy Advice System.” Journal of Comparative Policy 
+Analysis: Research and Practice 12, no. 4: 439–445. https://  doi. org/ 10. 
+1080/ 13876 988. 2010. 495510.
+Oliver, K., S. Innvar, T. Lorenc, J. Woodman, and J. Thomas. 2014. “A 
+Systematic Review of Barriers to and Facilitators of the Use of Evidence 
+by Policymakers.” BMC Health Services Research  14, no. 1: 2. https:// doi. 
+org/ 10. 1186/ 1472-  6963-  14-  2.
+O'Reilly, C. A., J. Chatman, and D. F. Caldwell. 1991. “People and 
+Organizational Culture: A Profile Comparison Approach to Assessing 
+Person- Organization Fit.” Academy of Management Journal 34, no. 3: 
+487–516.
+Ouimet, M., R. Landry, S. Ziam, and P. O. Bédard. 2009. “The Absorption 
+of Research Knowledge by Public Civil Servants.” Evidence and Policy  5, 
+no. 4: 331–350. https:// doi. org/ 10. 1332/ 17442 6409X 478734.
+Parkhurst, J. 2017. The Politics of Evidence. From Evidence-  Based Policy 
+to the Good Governance of Evidence . Routledge.
+Pattyn, V., S. Blum, E. Fobé, M. Pekar-  Milicevic, and M. Brans. 2022. 
+“Academic Policy Advice in Consensus-  Seeking Countries: The Cases 
+of Belgium and Germany.” International Review of Administrative 
+Sciences 88, no. 1: 26–42. https://  doi. org/ 10. 1177/ 00208 52319 878780.
+Pedersen, D. B. 2023. “An Evaluation Framework for Institutional 
+Capacity of Science-  for- Policy Ecosystems in EU Member States.”
+Peters, B. G., and J. Pierre. 2004. “Politicization of the Civil Service: 
+Concepts, Causes, Consequences.” In Politicization of the Civil Service 
+in Comparative Perspective. The Quest for Control , edited by B. G. Peters 
+and J. Pierre, 1–14. Routledge.
+Pielke, R. 2007. The Honest Broker: Making Sense of Science in Policy and 
+Politics. Cambridge University Press.
+Podsakoff, P. M., S. B. MacKenzie, and N. P. Podsakoff. 2012. “Sources 
+of Method Bias in Social Science Research and Recommendations on 
+How to Control It.” Annual Review of Psychology 63: 539–569.
+Pollitt, C., and G. Bouckaert. 2017. Public Management Reform: A 
+Comparative Analysis-  Into the Age of Austerity. 4th ed. Oxford University 
+Press.
+Qualtrics. 2005. “Qualtrics.” Provo, Utah, USA.
+Quinn, R. E., and J. R. Kimberly. 1984. “Paradox, Planning, and 
+Perseverance: Guidelines for Managerial Practice.” In Managing 
+Organizational Translations , edited by J. R. Kimberly and R. E. Quinn, 
+295–313. Dow Jones/Irwin.
+Ruggeri, K., F. Stock, S. A. Haslam, et  al. 2024. “A Synthesis of 
+Evidence for Policy From Behavioural Science During COVID-  19.” 
+Nature  625, no. 7993: 134–147. https://  doi. org/ 10. 1038/ s4158 6-  023-  
+06840  -  9.
+Schlaufer, C., I. Stucki, and F. Sager. 2018. “The Political Use of Evidence 
+and Its Contribution to Democratic Discourse.” Public Administration 
+Review  78, no. 4: 645–649. https://  doi. org/ 10. 1111/ puar. 12923 .
+Shaxson, L., R. Hood, A. Boaz, and B. Head. 2024. “Negotiating the 
+Budget for Evidence-  Informed Policy-  Making: Insights From a UK 
+Government Department.” Public Money & Management 44, no. 6: 533–
+542. https:// doi. org/ 10. 1080/ 09540 962. 2024. 2308003.
+Strassheim, H., and P. Kettunen. 2014. “When Does Evidence-  Based 
+Policy Turn Into Policy-  Based Evidence Configurations, Contexts and 
+Mechanisms.” Evidence and Policy  10, no. 2: 259–277. https:// doi. org/ 10. 
+1332/ 17442 6514X 13990 43399 1320.
+ 15406210, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13946 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=12>>>
+12 of 16 Public Administration Review, 2025
+van den Bergh, J., J. Castro, S. Drews, et  al. 2021. “Designing an 
+Effective Climate-  Policy Mix: Accounting for Instrument Synergy.” 
+Climate Policy  21, no. 6: 745–764.
+Verhoest, K., B. G. Peters, G. Bouckaert, and B. Verschuere. 2004. “The 
+Study of Organisational Autonomy: A Conceptual Review.” Public 
+Administration and Development  24, no. 2: 101–118. https://  doi. org/ 10. 
+1002/ pad. 316.
+Verschuere, B., and D. Vancoppenolle. 2012. “Policy- Making in an Era of 
+Agencification: An Exploration of Task Divisions Between Politicians, 
+Core Departments and Public Agencies.” Policy and Society  31, no. 3: 
+249–258. https:// doi. org/ 10. 1016/j. polsoc. 2012. 07. 006.
+Veselý, A., A. Wellstead, and B. Evans. 2014. “Comparing Sub-  National 
+Policy Workers in Canada and The Czech Republic: Who Are They, What 
+They Do, and Why It Matters?” Policy and Society 33, no. 2: 103–115.
+Weiss, C. H. 1995. “The Haphazard Connection: Social Science and Public 
+Policy.” International Journal of Educational Research 23, no. 2: 137–150.
+Wellstead, A. M., R. C. Stedman, and M. Howlett. 2011. “Policy 
+Analytical Capacity in Changing Governance Contexts: A Structural 
+Equation Model (Sem) Study of Contemporary Canadian Policy Work.” 
+Public Policy and Administration  26, no. 3: 353–373.
+Xu, C., Y. Cheng, S. Wang, W. Merrick, and P. Carter. 2024. “Evaluating 
+Use of Evidence in U.S. State Governments: A Conjoint Analysis.” 
+Public Administration Review : 1–19. https:// doi. org/ 10. 1111/ puar. 13903 .
+ 15406210, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13946 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=13>>>
+13 of 16
+Appendix A
+Assessment of Common Source Bias Using Variance Inflation 
+Factors
+In order to assess whether common source bias or common method 
+bias affected the results of our analysis, we conducted an assessment 
+of common source bias by calculating the generalized variance infla -
+tion factors (VIF) for the fixed effects in our three models (Lüdecke 
+et al. 2021). Generalized VIF values provide an indication of common 
+source bias as they represent the correlations between the fixed ef -
+fects in the model. Generalized VIF values between 5 and 10 are 
+ considered indicative of inflated correlations between the fixed ef -
+fects, with VIF values above 10 being indicative of problematic cor -
+relations. In the tables below, we present the generalized VIF values 
+(within a 95% confidence interval) for our three models. The analysis 
+does not point toward any problematic cases of inflated correlations 
+between the fixed effects. In fact, the highest VIF value does not 
+ exceed 2.6.
+Variable
+Model 1 Model 2 Model 3
+Gen. VIF VIF 95% CI Gen. VIF VIF 95% CI Gen. VIF VIF 95% CI
+Analytical capacities 1.49 (1.34–1.71) 1.61 (1.44–1.85)
+Personal network 1.44 (1.30–1.65) 1.51 (1.35–1.72)
+Person- organization fit 1.03 (1.00–1.60) 1.74 (1.55–2.00)
+Experience working in the public sector 
+(Years)
+2.46 (2.14–2.87) 2.57 (2.24–2.99)
+Culture—Rational 1.46 (1.32–1.67)
+Culture—Group 1.67 (1.49–1.92)
+Culture—Developmental 2.03 (1.79–2.35)
+Culture—Hierarchical 1.15 (1.07–1.33)
+Resources—Accessibility 1.62 (1.45–1.86)
+Resources—Time 2.00 (1.76–2.31)
+Resources—People 1.57 (1.41–1.80)
+Resources—Budget 1.90 (1.68–2.19)
+Policy autonomy 1.35 (1.23–1.54)
+Politicization 1.29 (1.17–1.47)
+Age (Years) 1.04 (1.00–1.54) 2.48 (2.16–2.89) 2.60 (2.26–3.02)
+Gender (Female) 1.04 (1–1.58) 1.06 (1.01–1.33) 1.12 (1.05–1.30)
+Education (> MA) 1.00 (1- inf.) 1.06 (1.01–1.33) 1.10 (1.03–1.29)
+ 15406210, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13946 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=14>>>
+14 of 16 Public Administration Review, 2025
+Appendix B
+Factor Analysis of the NERD Measurement Instrument
+We conducted principal components factor analysis with Varimax (or -
+thogonal) rotation of the 6- item questionnaire comprising the NERD 
+measurement instrument. For this analysis, we used the completed 
+questionnaires of all n = 438 respondents included in the analysis pre -
+sented in our manuscript. We checked whether the items were suffi -
+ciently correlated for a factor analysis using the Kaiser- Mayer- Olkin test 
+for sampling adequacy, which provided us with a very good sampling 
+adequacy of KMO = 0.83. Next, we analyzed the number of factors we 
+wanted to retain from the factor analysis using a scree-  plot analysis. 
+The scree-  plot is presented below and indicates that a one-  factor solu -
+tion provides an excellent reduction of variance in the data. We there -
+fore decided to retain the one-  factor solution presented in the original 
+Hall and Van Ryzin (2019) article (Figure B1).
+Finally, we analyzed the fit of the one-  factor solution to the data. The 
+results show that the one- factor solution has an Eigenvalue of 2.37 (well 
+above the 1 threshold of the Kaiser-  criterion), explaining about 40% of 
+the variance in the data. Furthermore, all items load sufficiently well 
+on the retained factor, with factor loadings ranging from 0.7 to 0.54. 
+The results of this analysis, including the uniqueness of each item, are 
+included in Table  B1. Overall, we contend that the analysis provides 
+solid support for the validity of the original measurement instrument as 
+presented in the manuscript.
+FIGURE B1    |    Scree- plot NERD scale.
+TABLE B1     |    Factor analysis (NERD instrument), factor loadings, 
+and uniqueness.
+Components Factor 1 Uniqueness
+My organization values proven results. 0.64 0.59
+My organization regularly evaluates 
+its programs and activities.
+0.70 0.51
+We take an evidence- based approach 
+to most things in my organization.
+0.65 0.57
+We don't do much to track our 
+organization's outcomes.
+0.65 0.58
+Program analysis does little to help 
+my organization get things done.
+0.57 0.67
+My organization doesn't rely much on 
+research findings to guide the work 
+it does.
+0.54 0.71
+Eigenvalue. 2.37
+Percentage of total variance. 0.39
+ 15406210, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13946 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=15>>>
+15 of 16
+Appendix C
+Survey Instrument
+Variable source
+Outcome variable
+NERD-  6, adapted by Hall and 
+Van Ryzin (2019)
+My organization values proven results. My organization regularly evaluates its programs and activities. 
+We take an evidence- based approach to most things in my organization. We don't do much to track 
+our organization's outcomes. Program analysis does little to help my organization get things done. My 
+organization doesn't rely much on research findings to guide the work it does. (1 = strongly disagree, 
+7 = strongly agree)
+Organizational-  level variables
+Organizational culture, adapted by Moynihan and Pandey ( 2007)
+Rational culture My organization is very result oriented. Our organization wants to get the job done. (1 = strongly disagree, 
+7 = strongly agree)
+Development culture My organization y is a very dynamic and entrepreneurial place. In my organization people are willing to 
+stick their necks out and take risks. (1 = strongly disagree, 7 = strongly agree)
+Group culture My organization is very people oriented. My organization is an extended family. People seem to share a lot 
+of themselves. (1 = strongly disagree, 7 = strongly agree)
+Hierarchical culture In my organization bureaucratic procedures generally govern what people do. (1 = strongly disagree, 
+7 = strongly agree)
+Organizational resources, adapted by Jennings and Hall ( 2012)
+Evidence accessibility Policy- relevant information, data and knowledge are accessible in my organization. (1 = strongly disagree, 
+7 = strongly agree)
+Time availability In my organization there is sufficient time to gather and assess policy-  relevant information, data and 
+knowledge. (1 = strongly disagree, 7 = strongly agree)
+Staff availability In my organization there is adequate staff to gather and assess policy-  relevant information, data and 
+knowledge. (1 = strongly disagree, 7 = strongly agree)
+Budget availability In my organization there is sufficient budget to gather and assess policy-  relevant information, data and 
+knowledge. (1 = strongly disagree, 7 = strongly agree)
+Policy autonomy My organization has full autonomy in the formulation of policies. My organization has full autonomy in 
+the implementation of policies. (1 = strongly disagree, 7 = strongly agree)
+Politicization In my organization politicians interfere with the day-  to- day operations. (1 = strongly disagree, 7 = strongly 
+agree)
+Policy domain Chancellery and Foreign Affairs /Environment/Work and Social Economy/Economy, Science and 
+Innovation/Well-  being, Health and Family/Culture, Youth, Sport and Media/Education and Training/
+Agriculture and Fishing/Mobility and Public works/Finance and Budget
+Individual-  level variables
+Individual policy analytical 
+capacities, Newman 
+et al. (2017)
+I have the necessary skills to interpret results from statistical analyses. I have the necessary skills to collect 
+and analyze policy-  related data and information. I have the necessary expertise to apply the results of 
+research studies in policy. (1 = strongly disagree, 7 = strongly agree)
+Individual professional 
+network
+I deliberately contact and connect with experts and academics outside government. (1 = strongly disagree, 
+7 = strongly agree)
+Person- organization fit My values and goals match with the values and goals of my organization. (1 = strongly disagree, 7 = strongly 
+agree)
+Experience working in the 
+public sector
+How many years have you worked in the public sector, including at previous public sector employers
+Age In which year were you born?
+Gender Female/Male/Non- binary/prefer not to say
+Education No or primary education/lower secondary education/upper secondary education/post-  secondary, non- 
+tertiary education/short-  cycle tertiary education/long-  cycle tertiary education
+ 15406210, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13946 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+<<<PAGE=16>>>
+16 of 16 Public Administration Review, 2025
+Appendix D
+Comparison of Sample Representation and FTE Distribution Across Policy Domains in the Flemish Government in 2023
+Policy domain N sample Proportion sample Proportion Flem. Gov.
+VTE Flem. Gov. 
+(2023)
+Environment 98 22% 15% 4515
+Chancellery 89 20% 14% 4114
+Work and Social Affairs 48 11% 18% 5367
+Economy, Sciences, and 
+Innovation
+46 11% 2% 715
+Welfare, Health, and 
+Family
+37 8% 21% 6077
+Culture, Youth, Sports, and 
+Media
+32 7% 4% 1166
+Mobility and Public Works 27 6% 15% 4432
+Education 27 5% 4% 1114
+Agriculture and Fisheries 23 5% 3% 827
+Finances and Budgeting 11 3% 4% 1190
+Total 438 100% 100% 29,517
+Note: Based on Statistics Staff Flemish Government on 31/12/2023: https://  www. vlaan deren. be/ bedri jfsin forma tie-  vlaam se-  overh eid/ stati stiek en/ perso neels aantal# 
+cijfe rs-  per-  belei dsdomein.
+ 15406210, 0, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/puar.13946 by Test, Wiley Online Library on [17/03/2025]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

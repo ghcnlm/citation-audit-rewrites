@@ -1,0 +1,13 @@
+{
+  "type": "object",
+  "properties": {
+    "proposed_rewrite": { "type": "string", "minLength": 1 },
+    "page_anchor": { "type": "string", "minLength": 1 },
+    "notes": { "type": "string" },
+    "risk_flags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": ["proposed_rewrite","page_anchor"]
+}

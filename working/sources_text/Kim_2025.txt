@@ -1,0 +1,1526 @@
+<<<PAGE=1>>>
+Development Studies Research
+An Open Access Journal
+ISSN: 2166-5095 (Online) Journal homepage: www.tandfonline.com/journals/rdsr20
+Examining barriers and facilitators of capacity
+building in development: a systematic review of
+international development projects
+Heeyeon Kim & Yoorim Bang
+To cite this article: Heeyeon Kim & Yoorim Bang (2025) Examining barriers and facilitators of
+capacity building in development: a systematic review of international development projects,
+Development Studies Research, 12:1, 2517766, DOI: 10.1080/21665095.2025.2517766
+To link to this article:  https://doi.org/10.1080/21665095.2025.2517766
+© 2025 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 19 Jun 2025.
+Submit your article to this journal 
+Article views: 722
+View related articles 
+View Crossmark data
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rdsr20
+<<<PAGE=2>>>
+Examining barriers and facilitators of capacity building in development: a 
+systematic review of international development projects
+Heeyeon Kim 
+a
+and Yoorim Bang 
+b
+a
+Graduate School of International Studies, Ewha Womans University, Seoul, Republic of Korea; 
+b
+Institute for Development and Human 
+Security, Ewha Womans University, Seoul, Republic of Korea
+ABSTRACT  
+This study systematically reviews capacity building projects and programs within the field of 
+international development cooperation, with the aim of identifying key facilitators and barriers 
+across different levels of implementation. While capacity building is increasingly recognized as a 
+central mechanism for achieving the Sustainable Development Goals (SDGs), existing frameworks 
+remain fragmented and conceptually inconsistent. To address this gap, the article proposes a level- 
+based analytical framework that disaggregates capacity development into individual, organizational, 
+and systemic components and conducts a systematic review of peer-reviewed literature. Guided by 
+the PRISMA methodology, this study integrates qualitative synthesis with quantitative text mining 
+and word cloud analysis to uncover thematic patterns and frequently cited success factors. Key 
+success factors include local ownership, partnerships, and context-sensitive training. Conversely, 
+barriers such as misalignment, institutional instability, and resource constraints are shown to 
+significantly hinder capacity outcomes. This study contributes both theoretically by clarifying the 
+operational components of capacity building and practically by offering a diagnostic tool for project 
+design and evaluation. It provides development practitioners and policymakers with actionable 
+insights to enhance the effectiveness and sustainability of capacity building interventions.
+ARTICLE HISTORY
+Received 11 December 2024 
+Accepted 4 June 2025  
+KEYWORDS  
+Capacity building; 
+international development 
+projects; capacity 
+development; international 
+development cooperation; 
+development cooperation
+Introduction
+Globalization has enhanced international development 
+cooperation by fostering collaboration among diverse 
+international actors to tackle complex and multifaceted 
+global challenges. Over time, the international discourse 
+on development aid has evolved to emphasize policy 
+coherence, aid effectiveness, and sustainability (Naylor 
+2011 ; Samy and Aksil 2015 ; Vallejo and Wehn 2016 ). 
+Since the United Nations (UN) adopted the Sustainable 
+Development Goals (SDGs) for 2016–2030, capacity 
+development has been recognized as a central pillar of 
+development cooperation (Vallejo and Wehn 2016 ). Its 
+scope ranges from human resource development to 
+broader organizational and institutional strengthening 
+(UNESCO 2010 ).
+Since the 1990s, capacity building has gained promi -
+nence in development discourse, with scholars increas -
+ingly focusing on its evaluation, methodology, and 
+conceptual framework (Kacou, Ika, and Munro 2022 ). 
+Given its multidimensional nature, the concept has 
+been defined in diverse ways by both scholars and prac -
+titioners, resulting in a lack of consensus on a clear and 
+universally accepted definition (Merino and Carmenado 
+2012 ; Sanz et al. 2013 ). While the term is not used con -
+sistently across the development literature, the UN 
+describes capacity development as ‘the process of devel -
+oping and strengthening the skills, instincts, abilities, 
+processes, and resources that organizations and com -
+munities need to survive, adapt, and thrive in a fast- 
+changing world’ (UN 2025 ). This conceptual framing is 
+essential, as capacity building is closely linked to the 
+development project cycle, which includes program -
+ming, identification, implementation, and monitoring 
+and evaluation. As such, a clear understanding of 
+capacity development can provide essential guidance 
+throughout all stages of project design and evaluation 
+(Porzecanski et al. 2022 ).
+As the scope of capacity building expanded during the 
+1990s, specific strands such as Community Capacity Build -
+ing (CCB) began to receive growing attention in both aca -
+demic and policy discourse (Craig 2007 ). Unlike 
+approaches that focus primarily on enhancing individual 
+knowledge and technical skills, CCB emphasizes empow -
+ering communities to define collective goals, mobilize 
+© 2025 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License ( http://creativecommons.org/licenses/by-nc/4.0/ ), which 
+permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this article has been pub -
+lished allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent. 
+CONTACT  Yoorim Bang 
+ yoorimbang@ewha.ac.kr
+ Institute for Development and Human Security, Ewha Womans University, 52, Ewhayeodae-gil, 
+Seodaemun-gu, Seoul, Republic of Korea
+DEVELOPMENT STUDIES RESEARCH 
+2025, VOL. 12, NO. 1, 2517766 
+https://doi.org/10.1080/21665095.2025.2517766
+<<<PAGE=3>>>
+local assets, and sustain long-term social change. It is 
+understood as both a process and an outcome: fostering 
+community agency while also improving social, econ -
+omic, and institutional conditions. However, the concept 
+remains contested, with definitions varying significantly 
+across sectors and regions. These variations reflect 
+differing ideological orientations, development para -
+digms, and implementation contexts. Such definitional 
+ambiguity has created theoretical and practical tensions 
+– especially when translating CCB into development 
+cooperation projects where goals, stakeholders, and 
+modes of engagement may diverge substantially. A 
+nuanced understanding of how CCB is conceptualized 
+and operationalized is therefore essential for assessing 
+its role and effectiveness within the broader framework 
+of capacity development.
+Capacity building initiatives span a wide spectrum – 
+from individual to societal levels – and are frequently 
+analyzed using a level-based framework comprising 
+individual, institutional, and systemic dimensions (An, 
+Garvin, and Hall 2017 ; Merino and Carmenado 2012 ; 
+OECD 2019 ). However, few studies have systematically 
+examined how capacity building is operationalized 
+within development cooperation projects. This gap is 
+significant, as the lack of conceptual clarity – driven by 
+diverse definitions and fragmented frameworks – com -
+plicates the evaluation of project effectiveness. In prac -
+tice, capacity building efforts often cut across multiple 
+levels, making it difficult to distinguish discrete elements 
+or apply standardized evaluation criteria (Kühl 2009 ; 
+Vallejo and Wehn 2016 ). Combined with the complex 
+and multifaceted nature of development projects, 
+these conceptual ambiguities can obscure what consti -
+tutes success or failure. As evaluation mechanisms in 
+international development become increasingly rigor -
+ous and outcome-oriented (OECD 2023 ), the need for 
+clearer conceptual and analytical standards has 
+become more pressing. This study responds to that 
+need by conducting a systematic review that identifies 
+key success factors and barriers, thereby contributing 
+to the development of more coherent and actionable 
+frameworks for capacity building within international 
+development.
+Building on the literature review, this study identifies 
+two dominant strands in the conceptualization of 
+capacity development frameworks. The first strand 
+emphasizes single-level approaches, which examine 
+capacity at the individual, organizational, or systemic 
+level in isolation (Hall 2017 ; Kabeer 2005 ; Rao 2017 ; 
+Shah 2016 ). In contrast, the second strand highlights 
+more integrated, multi-level approaches that under -
+stand capacity development as an interconnected and 
+dynamic process (Kühl 2009 ; Vallejo and Wehn 2016 ). 
+The diversity of implementation levels across develop -
+ment projects and programs has contributed to substan -
+tial variation in how capacity development is defined 
+and operationalized. Given its multidimensional charac -
+ter, distinct approaches have emerged at each level – 
+individual, institutional, and systemic. However, clear 
+analytical boundaries or standardized criteria for asses -
+sing capacity building in international development 
+remain largely underdeveloped.
+To address existing gaps, this study proposes an 
+analytical framework that delineates key components 
+of capacity development across the individual, organiz -
+ational, and systemic levels. The framework is intended 
+to support project design and evaluation by enabling 
+practitioners to prioritize level-specific success factors 
+and anticipate potential challenges. While many devel -
+opment projects tend to focus on a single level, this 
+framework facilitates more targeted planning and pro -
+vides clearer evaluation criteria. The success factors 
+and barriers identified through this study also offer prac -
+tical guidance for aligning project implementation with 
+the expectations of donors and partners. Although the 
+framework may not be universally applicable, it contrib -
+utes to more coherent and effective capacity building 
+across diverse development settings.
+To explore how capacity building is operationalized 
+and how it evolves within development projects and 
+programs, this study conducts a systematic review com -
+bined with text-mining analysis of peer-reviewed litera -
+ture on capacity development. This approach allows 
+the study to identify key enabling factors and barriers 
+across various levels of intervention. Accordingly, the 
+article addresses the following research questions – (i) 
+How do capacity building projects function differently 
+at the individual, organizational, and systemic levels?; 
+(ii) How is capacity building conceptualized and 
+framed by donors?; and (iii) What are the key facilitators 
+and barriers to effective capacity building in 
+international development projects?
+To address these questions, the article is structured as 
+follows. Section 2 reviews the global literature on 
+capacity development. Section 3 outlines the research 
+methodology employed in the study. Section 4 presents 
+the findings and offers a critical discussion in relation to 
+the existing literature. Finally, Section 5 concludes by 
+highlighting the study’s contributions to academic dis -
+course and its practical implications for international 
+development cooperation.
+Literature Review
+The concept of capacity building began to gain traction 
+in the context of international development cooperation 
+2 
+ H. KIM AND Y. BANG
+<<<PAGE=4>>>
+as early as the 1970s, although development projects 
+were already evolving by that time (Merino and Carme -
+nado 2012 , 960). In the 1980s and 1990s, capacity build -
+ing initiatives primarily targeted the macro level, with a 
+strong emphasis on long-term training and institution- 
+building (Merino and Carmenado 2012 , 960). Its signifi -
+cance was reaffirmed in the 2000s and 2010s, as the 
+international community increasingly sought to 
+improve aid effectiveness by embedding capacity devel -
+opment into the core objectives of development assist -
+ance. Notably, the Paris Declaration in 2005 and the 
+Accra Agenda for Action in 2008 positioned capacity 
+building as a central pillar in efforts to enhance develop -
+ment outcomes.
+Scholars and practitioners have defined capacity 
+building in diverse ways, reflecting its inherently multidi -
+mensional character (Merino and Carmenado 2012 , 962). 
+Capacity development initiatives range from the individ -
+ual level to the societal level, encompassing activities 
+such as knowledge transfer, institutional reform, and 
+systems transformation. As such, the objectives of 
+capacity development go beyond human resource 
+development to include broader organizational and 
+institutional strengthening (UNESCO 2010 ). Given the 
+wide variation in implementation levels and intervention 
+types, the concept often lacks a clear and universally 
+agreed-upon definition (Merino and Carmenado 2012 , 
+966; Sanz et al. 2013 ).
+Among the various frameworks for understanding 
+capacity development, one strand of literature focuses 
+on a single level, while another examines the inter -
+relationships across multiple levels (Hall 2017 ; Kabeer 
+2005 ; Rao 2017 ; Shah 2016 ). Eger, Miller, and Scarles 
+( 2018 ) aligned with the latter perspective, proposing a 
+model of capacity development structured around 
+three interconnected levels: individual, relational, and 
+collective. This approach highlights the influence of 
+social and cultural relationships in shaping individual 
+capacities. However, such interrelational models may 
+be less applicable in the context of 
+international development cooperation projects, where 
+donors and implementing agencies tend to design and 
+evaluate interventions according to discrete levels such 
+as individual, institutional, or systemic rather 
+than across overlapping levels.
+Another strand of the literature highlights inter -
+related approaches to capacity development at the 
+organizational, institutional, systemic, and participatory 
+levels (Kühl 2009 ; Vallejo and Wehn 2016 ). The organiz -
+ational approach focuses on enhancing internal capacity 
+within organizations, while the institutional approach 
+seeks to strengthen local institutions and governance 
+structures. System-level approaches adopt a more 
+holistic and multidimensional perspective, integrating 
+both organizational and institutional elements. The par -
+ticipatory approach – people-centered and often over -
+lapping with other levels, is increasingly framed as an 
+interconnected model. However, these frameworks 
+often lack clearly defined boundaries, making their prac -
+tical application challenging. In response to this ambigu -
+ity, alternative approaches such as managerial and 
+structural frameworks have emerged (Collier 2007 ; Ika 
+and Donnelly 2017 ). The managerial approach empha -
+sizes leadership, entrepreneurship, and a broad skill 
+set, including knowledge management and innovation. 
+In contrast, institutional frameworks focus on structural 
+components such as behavioral norms, partnerships, 
+and communication systems (An, Garvin, and Hall 
+2017 , 394). Structural approaches go even further, 
+encompassing policies, legal frameworks, social norms, 
+and governance mechanisms (An, Garvin, and Hall 
+2017 , 394; Merino and Carmenado 2012 , 966). Given 
+this diversity in definitions and conceptual orientations, 
+there is a growing need for more clearly articulated stan -
+dards to systematically evaluate capacity development 
+projects.
+The discourse on the evaluation of development aid 
+projects has evolved in tandem with the rise of results- 
+based management, the adoption of various standards, 
+and the diversification of evaluation methodologies 
+aimed at assessing project success. Among these, the 
+OECD DAC evaluation criteria – relevance, efficiency, 
+effectiveness, impact, and sustainability – remain the 
+most widely applied by donors and international 
+agencies. However, debates continue over how to inter -
+pret each criterion and define project success. Critics 
+argue that the OECD DAC framework reflects a donor- 
+centric perspective and tends to overlook qualitative 
+and contextual dimensions of development (Eggers 
+2009 ; Kotvojs and Hurworth 2013 ). In contrast, others 
+contend that the framework has significantly enhanced 
+evaluation practices by introducing a common and 
+transparent standard (Longest, Hitlin, and Vaisey 2013 ; 
+Schwartz et al. 2012 ). Despite ongoing critiques, the 
+OECD DAC criteria continue to serve as a widely 
+accepted and robust reference point for evaluating 
+development aid initiatives.
+Analytical framework
+This study adopts a three-level analytical framework – 
+individual, organizational, and systemic – as a foun -
+dation for addressing inconsistencies in how capacity 
+building is defined in the existing literature. To 
+enhance conceptual clarity, each level is defined 
+through specific components, as illustrated in Figure 1 . 
+DEVELOPMENT STUDIES RESEARCH 
+ 3
+<<<PAGE=5>>>
+The individual level encompasses leadership, entrepre -
+neurship, and technical skills including knowledge and 
+serves to assess the capacities of project recipients and 
+key stakeholders (An, Garvin, and Hall 2017 ; Merino 
+and Carmenado 2012 ). The organizational level focuses 
+on behavioral norms, partnerships, and communication 
+mechanisms that shape interactions within and 
+between implementing agencies and beneficiary 
+groups (An, Garvin, and Hall 2017 ). The systemic level 
+captures broader sociocultural and governance dimen -
+sions such as policies, legal frameworks, and social 
+norms (An, Garvin, and Hall 2017 ; Merino and Carme -
+nado 2012 ). This tiered framework enables a structured 
+and comprehensive analysis of capacity development 
+across distinct but interrelated levels.
+Research Methodology
+This study conducted a systematic review of peer- 
+reviewed literature to identify key factors influencing 
+capacity development projects. The review followed 
+the Preferred Reporting Items for Systematic reviews 
+and Meta-Analyses (PRISMA) guidelines, ensuring trans -
+parency and improved reporting standards. To 
+complement the systematic review, the authors also 
+employed text mining techniques on qualitative data 
+to examine keyword frequency and uncover recurring 
+themes across the selected studies.
+Search strategy for identification of studies
+A comprehensive electronic search was conducted 
+across four academic databases: PubMed, Scopus, Web 
+of Science, and EBSCOhost. The search focused on 
+capacity building within the field of 
+international development cooperation. The following 
+keyword combination was applied across all databases: 
+‘[capacity building] AND [capacity development] AND 
+[(development cooperation) OR (official development 
+assistance)]’. The search was limited to articles published 
+between 1970 and 2022 to capture the historical evol -
+ution of the concept and its growing prominence, par -
+ticularly since the 2010s.
+Inclusion and exclusion criteria
+Eligibility criteria were established based on the research 
+objectives to guide the selection of relevant and high- 
+Figure 1. Analytical framework (Source: An, Garvin, and Hall ( 2017 ); Merino and Carmenado ( 2012 ); OECD ( 2019 ))
+4 
+ H. KIM AND Y. BANG
+<<<PAGE=6>>>
+quality studies. Articles were included if they were orig -
+inal, peer-reviewed journal publications in English 
+between 1970 and 2022, and explicitly addressed the 
+concept or practice of capacity building within the 
+context of international development cooperation. This 
+included a wide range of development modalities, 
+such as bilateral and multilateral aid programs, NGO- 
+led initiatives, and Official Development Assistance 
+(ODA) projects. In line with the empirical orientation of 
+the research questions, the authors limited inclusion to 
+studies that presented primary data or conducted 
+applied analysis relevant to capacity development 
+frameworks, outcomes, or implementation strategies. 
+Exclusion criteria included non-peer-reviewed publi -
+cations such as books, editorials, reports, dissertations, 
+conference proceedings, and other grey literature. The 
+authors also excluded studies that addressed capacity 
+building within unrelated domains such as corporate 
+training or domestic education policy without reference 
+to development cooperation. Additionally, studies 
+lacking empirical grounding or failing to elaborate on 
+the conceptual or operational dimensions of capacity 
+building were deemed ineligible.
+Studies selection
+The study selection process is summarized in Figure 2 , 
+which outlines the stages of data collection, screening, 
+and inclusion in accordance with PRISMA guidelines. 
+An initial total of 5,919 records was retrieved from four 
+major databases based on a predefined search strategy 
+aligned with the research questions. These records 
+were first imported into EndNote for automatic dupli -
+cate removal, resulting in the exclusion of 816 articles. 
+Subsequently, non-English articles (n = 176) and publi -
+cations not meeting the eligibility criteria (n = 1,260) 
+were also removed.
+Two authors (HK, YB) independently screened the 
+initial 3,667 records by reviewing titles to assess their rel -
+evance to capacity building within the context of devel -
+opment cooperation. The abstracts of the 187 records 
+that passed the initial screening were then indepen -
+dently assessed by the same two authors. To ensure 
+the inclusion of relevant but potentially overlooked 
+studies, two authors also employed a snowballing 
+method, identifying 46 additional articles through refer -
+ence lists of the selected studies. This process resulted in 
+a total of 233 full-text articles selected for detailed 
+assessment.
+During the full-text screening process, 206 articles 
+were excluded for not aligning with the scope of the 
+study – for example, lacking a substantive focus on 
+capacity development or failing to address development 
+cooperation. An additional three articles were removed 
+due to the absence of primary data. Throughout the 
+selection process, any disagreements between the two 
+authors regarding inclusion or exclusion were resolved 
+through discussion. When consensus could not be 
+reached, a third senior researcher was consulted to 
+mediate the decision. This multi-step review and resol -
+ution process ensured transparency and enhanced the 
+methodological rigor of the study.
+Data extraction and analysis
+For data extraction, the authors developed a structured 
+Excel spreadsheet, with each row representing an 
+included study and each column captured key descrip -
+tive information such as research objectives, target 
+population, geographic focus, study design, and the 
+level of capacity development addressed (individual, 
+organizational, or systemic). Initial data extraction was 
+carried out by HK and subsequently cross-checked by 
+YB to ensure consistency and accuracy. The analytical 
+focus centered on identifying key factors related to 
+capacity building and classifying enabling conditions 
+and barriers across the selected studies. Although 
+double coding and inter-reviewer validation were 
+applied, a degree of subjectivity may persist due to the 
+interpretive nature of qualitative screening and thematic 
+classification. To address these limitations, the authors 
+applied transparent eligibility criteria, resolved discre -
+pancies through consensus and third-party consultation, 
+and clearly documented each stage of the review 
+process in alignment with PRISMA guidelines.
+Text mining and word cloud analysis
+In addition to the systematic review, the authors con -
+ducted a text mining analysis of qualitative data 
+extracted from the full-text articles using the R 
+program. This analysis involved examining keyword fre -
+quency across the included studies and visualizing the 
+results through word clouds to identify prominent 
+terms and thematic patterns. The text mining approach 
+facilitated the detection of recurring concepts and 
+trends in how capacity building is framed and operatio -
+nalized within international development cooperation 
+projects, thereby complementing the qualitative syn -
+thesis of the review.
+Results
+This section synthesizes the collective insights from the 
+27 peer-reviewed articles identified through the three- 
+stage screening process (see Figure 2 ). The aim is to 
+DEVELOPMENT STUDIES RESEARCH 
+ 5
+<<<PAGE=7>>>
+uncover recurring patterns and underlying tensions in 
+the literature and to relate these thematically to the 
+analytical framework developed earlier. The findings 
+indicate that while many projects concentrate on 
+capacity building at a single level – most often the indi -
+vidual or organizational level – there is growing recog -
+nition of the interdependencies across levels. This 
+tension between conceptualizing capacity building as 
+a set of discrete components and as an integrated, rela -
+tional process emerges as a central theme throughout 
+the studies. By clearly identifying key elements associ -
+ated with each level, the analysis offers a practical foun -
+dation for more systematic and targeted design, 
+implementation, and evaluation of capacity develop -
+ment interventions. Although the relevance of success 
+factors and barriers may vary depending on project 
+Figure 2. Search flowchart of study selection
+6 
+ H. KIM AND Y. BANG
+<<<PAGE=8>>>
+type and context, the results provide valuable guidance 
+for both planning and evaluation. Anticipating facilita -
+tors and obstacles at each level can enhance project 
+alignment with stakeholder needs, improve design 
+coherence, and support the development of more 
+robust evaluation criteria.
+Description and characteristics of the included 
+studies
+The 27 studies included in this review examined capacity 
+building in the context of development cooperation 
+across a variety of countries, with a predominant focus 
+on low-income settings in Africa and Asia. Spanning 
+publications from 1970 to 2022, they reflect both the 
+evolution of capacity building discourse over time and 
+its practical relevance across diverse regional and sec -
+toral contexts. As summarized in Table 1 , the selected 
+studies differ in research focus, geographic coverage, 
+and methodological design.
+A clear thematic concentration emerged around the 
+health sector, with a substantial number of studies 
+focusing on areas such as health workforce develop -
+ment, health systems strengthening, hospital partner -
+ships, and disease-specific issues including maternal 
+and newborn health and HIV/AIDS. The predominance 
+of health-related projects can be attributed to several 
+factors. First, the health sector has historically been a 
+primary focus of ODA, particularly in low- and 
+middle-income countries where donor interventions 
+have targeted urgent and measurable needs. Second, 
+capacity building in health systems is often directly 
+linked to service delivery outcomes, making it a com -
+pelling focus for empirical analysis and donor invest -
+ment. In addition, health systems offer relatively 
+structured entry points for capacity development – 
+such as workforce training, institutional accreditation, 
+and public health governance – that align with both 
+donor accountability requirements and local develop -
+ment priorities.
+The majority of studies employed qualitative 
+approaches, which aligns with the nature of capacity 
+development as an intangible, context-specific, and rela -
+tional process – particularly when focused on human 
+resources. These dimensions are often better captured 
+through qualitative inquiry. Notably, many of the 
+included studies assessed capacity not only at the indi -
+vidual level such as skills development and leadership, 
+but also at the organizational and systemic levels, 
+including institutional norms, governance structures, 
+and legal frameworks. While some studies focused on 
+a single level, a significant number of studies engaged 
+with multiple levels simultaneously, underscoring the 
+interconnected nature of capacity building and the 
+need for more integrated approaches.
+Text mining results of the included studies
+To complement the qualitative synthesis, a text mining 
+analysis was conducted using unigram and bigram 
+word clouds to identify frequently occurring terms 
+across the 27 included articles. As shown in Figure 3 , 
+these visualizations reveal dominant themes and linguis -
+tic patterns in the discourse surrounding capacity build -
+ing in international development cooperation. 
+Reflecting the previously noted sectoral concentration, 
+health emerged as the most frequently used term, fol -
+lowed by capacity, development, training, community, 
+and partnership. These terms indicate a strong emphasis 
+on individual-level capacity development within commu -
+nity-based health initiatives, supported by training and 
+collaborative mechanisms. In the bigram word cloud, 
+phrases such as human resources, capacity strengthening, 
+and low-income countries appeared predominantly, rein -
+forcing the geographic and thematic focus of the studies. 
+The frequent recurrence of terms like HRH program (refer -
+ring to Human Resources for Health) further underscores 
+the centrality of workforce development in health sector 
+capacity building strategies.
+Barriers and facilitators of capacity building
+The systematic review confirms that capacity building is 
+widely recognized as a core component of development 
+cooperation, regardless of whether interventions target 
+the individual, organizational, or systemic level. Across 
+the included studies, a range of facilitating factors 
+were identified that contributed to enhanced project 
+sustainability and the strengthening of individual com -
+petencies. At the same time, several studies highlighted 
+critical barriers that undermined the effectiveness of 
+capacity building efforts, often canceling out their 
+intended benefits.
+Barriers: structural, contextual, and operational 
+constraints
+Three interrelated categories of barriers emerged from 
+the review. The first is a lack of alignment with local 
+systems and contexts, which was consistently cited 
+across multiple studies. For instance, Neuhann and 
+Barteit ( 2017 ) observed that while international partner -
+ships acted as valuable facilitators within relevant depart -
+ments, the absence of a self-sustaining institutional 
+system and insufficient attention to national contexts 
+weakened long-term outcomes. Similarly, Fass ( 1984 ) 
+argued that donor countries’ limited understanding of 
+DEVELOPMENT STUDIES RESEARCH 
+ 7
+<<<PAGE=9>>>
+Table 1. Key characteristics of the selected systematic review
+Author(s) (Year) Research Subject Country Objectives Examined Methodology Level of Focus
+Findings on Capacity Building ODA Projects 
+Facilitator (+) Barrier (−)
+Adom, Nyadu- 
+Addo, and 
+Kquofi ( 2021 )
+Capacity Building in 
+Cultural and 
+Traditional Craft
+Ghana To develop the capacities of the local people 
+in selected districts in cultural and 
+traditional craft enterprises
+Mixed Organizational Level Capacity building in cultural and traditional craft 
+enterprises was beneficial in helping the locals in 
+employment and eco-tourism development (+)
+Amde et al. 
+( 2019 )
+Health Workforce 
+Development
+Mozambique, Rwanda, 
+and Ethiopia
+To explore factors influencing the 
+contribution of training to organizational 
+capacity development
+Qualitative Organizational Level Development of new curriculum and program (+)
+Audenhove 
+( 1998 )
+Higher Education and 
+Research
+African countries To examine a precondition for successful 
+programs for both the North and the South
+Qualitative Organizational Level Partner countries ’ ownership and donor countries ’ 
+coordination are both important (+)
+Bausch et al. 
+( 2018 )
+Healthcare (Ebola) Liberia and Guinea To discuss the implementation challenges as 
+well as the lessons learned in building local 
+capacity in the production of hand-rub 
+solution
+Qualitative Organizational Level Disaster context, limited access to raw resources, 
+supply conflict (−)
+Broucke et al. 
+( 2010 )
+Health South Africa To describe a project to strengthen the 
+capacity for health promotion in two 
+provinces in South Africa
+Qualitative Individual Level & 
+Organizational Level 
+& Systemic Level
+Planning for health promotion activities and quality 
+assurance instruments can be facilitator (+)
+Cancedda et al. 
+( 2015 )
+Health Sub-Saharan Africa To outline a framework for health 
+professional training initiatives to address 
+the health workforce shortage in low- 
+income countries
+Qualitative Individual Level & 
+Organizational Level
+Country ownership based on funding flexibility is 
+significant (+)
+Cancedda et al. 
+( 2018 )
+Health Rwanda To present activities and milestones achieved 
+by the program in terms of capacity 
+strengthening
+Qualitative Organizational Level Strong stakeholder communication, sufficient 
+resources, and appropriate policies to recruit local 
+faculty are required (+)
+Corkery, Land, 
+and Bossuyt 
+( 1998 )
+Political Ideology African countries To examine what factors of institutional 
+environment are important for capacity 
+development in Africa
+Qualitative Organizational Level Political stability of developing countries is closely 
+related to sustainable development (+)
+Dieleman, 
+Gerretsen, and 
+Wilt ( 2009 )
+Health Low- and Middle-Income 
+Countries
+To explore if human resource management 
+interventions improve the performance of 
+professional health workers in low- and 
+middle-income countries
+Qualitative Individual Level & 
+Organizational Level 
+& Systemic Level
+Continued education with the support of local 
+authorities and local staff’s care can improve health 
+worker’s performance (+)
+Fass ( 1984 ) Rural Development Sahelian countries To demonstrate which factors are needed for 
+successful performance
+Qualitative Individual Level & 
+Organizational Level
+Donor countries ’ limited knowledge about developing 
+countries can be a barrier for successful ODA 
+projects (−)
+Grindle and 
+Hilderbrand 
+( 1995 )
+Public Sector Bolivia, the Central African 
+Republic, Ghana, 
+Morocco, Sri Lanka and 
+Tanzania
+To demonstrate what factors are needed to 
+improve public sector performance
+Qualitative Individual Level & 
+Organizational Level
+Environment of developing countries is important for 
+capacity building in public sector (+)
+Hartvigson and 
+Heshmati 
+( 2022 )
+Higher Education 
+(Research)
+Africa To compare an ideal model of a sustainable 
+research institution and the dominating 
+model used by Sida
+Mixed Individual Level & 
+Organizational Level
+Initiatives for improving the conditions for research 
+are crucial (+)
+Jones ( 2001 ) Organizational 
+Learning (Twinning 
+Arrangement)
+Multiple Countries 
+including Laos and 
+Namibia
+To discuss the notion of organizational 
+learning
+Qualitative Organizational Level The twinning method is a vehicle for sustainable 
+organizational capacity building (+)
+Jones and Blunt 
+( 1998 )
+Twinning Method Developing countries To investigate the efficacy of twinning 
+method
+Qualitative Individual Level & 
+Organizational Level
+Twinning arrangement leads technical upgrading (+), 
+but it is not easy to lead sustainable institutional 
+capacity building (−)
+Kanal et al. ( 2020 ) Health (Cervical 
+Cancer)
+Cambodia To discover the key factors contributing to 
+capacity building and system development 
+for the prevention and control of cancer in 
+low- and middle-income countries
+Qualitative Individual Level & 
+Organizational Level 
+& Systemic Level
+Partnership and the phased approach with strong 
+commitment of stakeholders who have ownership 
+are key factors (+)
+8 
+ H. KIM AND Y. BANG
+<<<PAGE=10>>>
+Laverack and 
+Thangphet 
+( 2009 )
+Ecotourism Northern Thailand To provide the experiences of applying an 
+approach to build the capacity of two 
+communities
+Qualitative Individual Level & 
+Organizational Level
+The participatory approach for building community 
+capacity is effective in ecotourism (+)
+Marcondes and 
+Bruyn ( 2015 )
+Food Security Brazil To demonstrate how Brazil intends to build 
+the capacities of partner countries
+Qualitative Organizational Level & 
+System Level
+Well-established domestic strategies can contribute to 
+the improvement of food security (+)
+Moore ( 1995 ) Good Government Developing countries To examine whether institutional 
+development promotes good government 
+or not
+Qualitative Organizational Level Analysis on political situation of partner countries in 
+project design stage and long-term twinning 
+method can be facilitators (+)
+Neuhann and 
+Barteit ( 2017 )
+Health (Hospital 
+Partnership)
+Malawi To evaluate the outputs and outcomes of the 
+partnership
+Mixed Individual Level & 
+Organizational Level
+Partnerships aligned with national programs of 
+development agencies can be a positive driver (+) 
+A partnership without considering the partner 
+country’s national context cannot lead to self- 
+sustainability (−)
+Nurse and Wight 
+( 2011 )
+Health Research East Africa To address the knowledge gap between the 
+North and the South in terms of capacity 
+development
+Qualitative Individual Level & 
+Organizational Level 
+& Systemic Level
+Partnership, mentorship, collaboration, and facilitation 
+are required (+)
+Ofstad ( 1999 ) Institutional 
+Cooperation
+Developing countries To study important preconditions for 
+institutional cooperation
+Qualitative Organizational Level A shared understanding and ownership between 
+developing and developed countries is a 
+precondition for sustainable development (+)
+Potter and 
+Brough ( 2004 )
+Health India To provide a useful operational 
+understanding of capacity building and 
+systems approach
+Qualitative Systemic Level The systemic changes and reforms based on national, 
+state, and district plans can lead to a successful 
+capacity building (+)
+Raguin ( 2016 ) Health (HIV/AIDS) Sub-Saharan Africa and 
+Southeast Asia
+To present the ESTHER initiative and its 
+challenges
+Mixed Organizational Level & 
+Systemic Level
+Partnership networks have impacted the broader 
+strengthening of the health system (+)
+Ramos and 
+Ferreira-Pinto 
+( 2002 )
+Health (HIV/AIDS) Mexico To discuss a collaboratively organizational 
+capacity-building model in HIV/AIDS 
+prevention
+Mixed Organizational Level Multi-organizational training workshops contribute to 
+achieving organizational capacity building (+)
+Stover et al. 
+( 2014 )
+Health (Maternal and 
+Newborn Health)
+Ethiopia To examine the extent of the capacity built to 
+support continuous improvement in 
+community maternal and neonatal health 
+care
+Mixed Organizational Level The multifaceted approach especially applied to the 
+community level leads to positive improvements in 
+organizational capacity (+)
+Tumwine et al. 
+( 2022 )
+Health (SRHR) 13 Countries in Africa and 
+Asia
+To examine whether increased team capacity 
+of sexual and reproductive health and 
+rights practitioners resulted in improved 
+outcomes
+Quantitative Organizational Level Team capacity through support from partner 
+organizations is needed for organizational capacity 
+building (+), but adopting new SRHR (Sexual and 
+Reproductive Health and Rights) does not 
+necessarily produce organizational effectiveness (−)
+West, Dawson, 
+and Homer 
+( 2017 )
+Midwifery Educator Papua New Guinea To provide insights into strategies that help 
+aid institutions and individuals in 
+implementing international midwifery 
+partnerships
+Qualitative Individual Level & 
+Organizational Level
+Knowing your capabilities and being motivated, 
+awareness of the disparity, being able to build 
+relationships, and having a mutual understanding of 
+capacity building are influential (+)
+DEVELOPMENT STUDIES RESEARCH 
+ 9
+<<<PAGE=11>>>
+recipient contexts often led to misaligned project goals, 
+thereby undermining implementation efforts.
+Second, unstable implementation environments pre -
+sented significant challenges. Bausch et al. ( 2018 ) 
+emphasized that resource-limited settings – particularly 
+those affected by health emergencies – often experi -
+enced supply shortages and logistical constraints, even 
+when community engagement and program design 
+were strong. Such structural limitations undermined 
+otherwise well-designed capacity development 
+interventions.
+Third, the introduction of innovative or unfamiliar 
+approaches did not always produce positive results. 
+Tumwine et al. ( 2022 ) found that while partner support 
+and media engagement generally facilitated organiz -
+ational capacity, the adoption of new frameworks – 
+such as those related to Sexual and Reproductive 
+Health and Rights (SRHR) – occasionally had the oppo -
+site effect. Survey data revealed a decline in organiz -
+ational effectiveness, suggesting that innovation 
+without sufficient contextual sensitivity may act as a 
+confounding factor (Tumwine et al. 2022 , 9).
+Facilitators: enabling environments and relational 
+dynamics
+The systematic review also identified a wide range of 
+facilitators that positively contributed to capacity devel -
+opment across all levels. Several studies emphasized the 
+role of favorable institutional and political environments. 
+Political stability, government ownership, and policy 
+coherence were consistently cited as critical factors for 
+long-term capacity development (Audenhove 1998 ; 
+Corkery, Land, and Bossuyt 1998 ; Moore 1995 ; Ofstad 
+1999 ). Cancedda et al. ( 2015 ; 2018 ) further highlighted 
+that strong communication, comprehensive planning, 
+and adequate resource availability supported effective 
+implementation. In addition, flexible funding 
+mechanisms enabled projects to adapt to evolving 
+local needs.
+Partnerships emerged as one of the most frequently 
+cited and influential enablers of capacity development. 
+Whether through bilateral commitments (Kanal et al. 
+2020 ; Raguin 2016 ), mentoring relationships (Nurse 
+and Wight 2011 ), or multi-organizational training collab -
+orations (Ramos and Ferreira-Pinto 2002 ; Stover et al. 
+2014 ), such partnerships were found to facilitate not 
+only knowledge transfer but also long-term cooperation 
+and trust-building among actors involved in capacity 
+building efforts.
+At the individual level, studies identified personal 
+motivation, tailored support, and targeted skills devel -
+opment as key drivers of capacity enhancement (Diele -
+man, Gerretsen, and Wilt 2009 ; Laverack and 
+Thangphet 2009 ; West, Dawson, and Homer 2017 ). 
+West, Dawson, and Homer ( 2017 ) emphasized that 
+acknowledging individual characteristics – such as 
+prior capabilities and intrinsic motivation – can signifi -
+cantly shape learning outcomes, particularly in pro -
+fessional education settings like midwifery. Similarly, 
+Laverack and Thangphet ( 2009 ) found that improved 
+knowledge and competencies within communities con -
+tributed to capacity gains. Building on this, Dieleman, 
+Gerretsen, and Wilt ( 2009 ) argued that continuous edu -
+cation and role-specific training enhance not only 
+Figure 3. Word clouds for keyword frequency and text mining
+10 
+ H. KIM AND Y. BANG
+<<<PAGE=12>>>
+knowledge acquisition but also task performance, 
+thereby strengthening individual-level outcomes. 
+Taken together, these findings highlight that capacity 
+development at the individual level is most effective 
+when it is context-sensitive, personalized, and sustained 
+over time.
+Key success factors of capacity building in 
+development projects
+The authors identified recurring patterns across the 27 
+included studies in this review. Table 2 presents a syn -
+thesis of key success factors, organized by the level of 
+intervention – individual, organizational, and systemic. 
+This level-based classification addresses the ambiguity 
+found in earlier literature, where inconsistent or vague 
+definitions have often hindered meaningful comparison 
+of capacity building efforts across diverse contexts.
+At the organizational level, several studies empha -
+sized the value of community-based approaches and 
+locally grounded implementation strategies (Adom, 
+Nyadu-Addo, and Kquofi 2021 ; Amde et al. 2019 ; Can -
+cedda et al. 2018 ; Corkery, Land, and Bossuyt 1998 ; 
+Moore 1995 ; Ramos and Ferreira-Pinto 2002 ; Stover 
+et al. 2014 ). Providing employable skills to community 
+members and incentivising their participation generated 
+spillover effects, extending the impact of capacity build -
+ing beyond the initial target group (Adom, Nyadu-Addo, 
+and Kquofi 2021 ; Amde et al. 2019 ; Moore 1995 ; Stover 
+et al. 2014 ). In addition, strong organizational ownership, 
+sustained partnerships, and resource availability 
+emerged as critical enablers of effective implementation 
+(Cancedda et al. 2018 ; Corkery, Land, and Bossuyt 1998 ; 
+Ofstad 1999 ; Ramos and Ferreira-Pinto 2002 ; Tumwine 
+et al. 2022 ).
+At the systemic level, Potter and Brough ( 2004 ) 
+demonstrated that a systematic diagnostic approach – 
+focused on identifying and addressing sectoral gaps – 
+led to more efficient resource allocation. Other studies 
+similarly emphasized that alignment with national priori -
+ties, supportive policy environments, and inter-organiz -
+ational coordination were critical for enhancing 
+system-wide capacity (Cancedda et al. 2015 ; Hartvigson 
+and Heshmati 2022 ; Laverack and Thangphet 2009 ; Mar -
+condes and Bruyn 2015 ; Raguin 2016 ; West, Dawson, and 
+Homer 2017 ). Several projects operated across multiple 
+levels, integrating interventions at the individual, organ -
+izational, and systemic levels. These multi-level 
+approaches often produced more sustained outcomes. 
+Recurring success factors included recipient country 
+ownership, context-specific design, and mutual trust 
+between donors and local stakeholders (Grindle and Hil -
+derbrand 1995 ; Jones and Blunt 1998 ; Kanal et al. 2020 ; 
+Nurse and Wight 2011 ). In the health sector, interven -
+tions that prioritized local participation and provided tai -
+lored support for health managers, which proved 
+especially effective in fostering long-term capacity 
+(Broucke et al. 2010 ; Dieleman, Gerretsen, and Wilt 
+2009 ).
+Taken together, these findings suggest that while the 
+specific modalities of capacity building vary across 
+levels, the core enabling conditions often converge. 
+Local relevance, strong partnerships, recipient owner -
+ship, and contextual alignment consistently emerged 
+as critical success factors across individual, organiz -
+ational, and systemic interventions. This reinforces the 
+notion that, despite variation in project design, capacity 
+building efforts can be systematically categorized and 
+evaluated based on shared principles that underpin 
+their effectiveness.
+Discussion
+This systematic review analyzed the barriers and facilita -
+tors of capacity building in international development 
+projects by synthesizing evidence from 27 peer- 
+reviewed articles. The study introduces an analytical 
+framework that integrates existing models with level- 
+specific determinants, offering a more structured lens 
+through which capacity development can be under -
+stood, assessed, and applied. By categorizing success 
+factors and obstacles across individual, organizational, 
+and systemic levels, the framework helps clarify the 
+ambiguous concept of capacity building – particularly 
+within the context of international development 
+cooperation.
+The findings indicate that most capacity development 
+interventions are concentrated at the individual and organ -
+izational levels, with comparatively fewer efforts targeting 
+systemic change. This imbalance may constrain long-term 
+sustainability unless broader structural conditions – such as 
+policy environments and institutional governance – are 
+also addressed. Three recurring success factors emerged 
+from the review. First, local ownership and community- 
+led knowledge sharing were essential for ensuring 
+project sustainability, particularly when local actors actively 
+managed and adapted interventions to their contexts 
+(Laverack and Thangphet 2009 ; Ramos and Ferreira-Pinto 
+2002 ). Second, partnerships grounded in coordination 
+and mutual commitment were consistently associated 
+with improved capacity building outcomes (Cancedda 
+et al. 2018 ; Kanal et al. 2020 ; Raguin 2016 ). Third, education 
+and training programs that delivered relevant skills and 
+incorporated local incentives proved especially effective 
+at the individual level (Adom, Nyadu-Addo, and Kquofi 
+2021 ; Stover et al. 2014 ).
+DEVELOPMENT STUDIES RESEARCH 
+ 11
+<<<PAGE=13>>>
+Table 2. Success factors of included studies on capacity building
+Author(s) (Year) Level of Focus
+Findings on Capacity Building ODA Projects 
+Facilitator (+) Contributing Factors for Successful Project Results
+Adom, Nyadu-Addo, 
+and Kquofi ( 2021 )
+Organizational Level Capacity building in cultural and traditional craft enterprises was beneficial in 
+helping the locals in employment and eco-tourism development (+)
+Offering employable skills to the local people is crucial and the success of the 
+capacity building was based on its tutorial approach
+Amde et al. ( 2019 ) Organizational Level Development of new curriculum and program (+) The dynamics among trainees ’ knowledge/skills, their role/position, and proper 
+incentives such as career advancement contribute to enhancing the capacity of 
+trainees
+Audenhove ( 1998 ) Organizational Level Partner countries ’ ownership and donor countries ’ coordination are both 
+important (+)
+The development cooperation between the North and the South is a precondition 
+for successful projects
+Broucke et al. ( 2010 ) Individual Level & 
+Organizational Level & 
+Systemic Level
+Planning for health promotion activities and quality assurance instruments can 
+be facilitator (+)
+The active participation of recipient countries in health promotion is a notable 
+factor in capacity building
+Cancedda et al. 
+( 2015 )
+Individual Level & 
+Organizational Level
+Country ownership based on funding flexibility is significant (+) Project objectives aligned with local priorities and setting up sustainable 
+partnerships are critical for building the capacity of institutions
+Cancedda et al. 
+( 2018 )
+Organizational Level Strong stakeholder communication, sufficient resources, and appropriate 
+policies to recruit local faculty are required (+)
+Based on strong partnerships, multi-year training for the local people and flexible 
+funding can contribute to enhancing the sustainability of projects
+Corkery, Land, and 
+Bossuyt ( 1998 )
+Organizational Level Political stability of developing countries is closely related to sustainable 
+development (+)
+The strong national administration of developing countries helps make projects 
+successful
+Dieleman, Gerretsen, 
+and Wilt ( 2009 )
+Individual Level & 
+Organizational Level & 
+Systemic Level
+Continued education with the support of local authorities and local staff’s care 
+can improve health worker’s performance (+)
+Local staff’s awareness of existing problems and proper incentives such as quality 
+of care are important factors in enhancing the capacity of health managers
+Grindle and 
+Hilderbrand ( 1995 )
+Individual Level & 
+Organizational Level
+Environment of developing countries is important for capacity building in public 
+sector (+)
+For better public sector performance, strong organizational atmosphere, 
+management skills, and effective network are major factors, while opportunities 
+for meaningful work and promotion are more important than specific skills for 
+better individual performance in the public sector
+Hartvigson and 
+Heshmati ( 2022 )
+Individual Level & 
+Organizational Level
+Initiatives for improving the conditions for research are crucial (+) The improvement of research performance contributed to an emerging research 
+culture and a more sustainable research institution
+Jones ( 2001 ) Organizational Level The twinning method is a vehicle for sustainable organizational capacity 
+building (+)
+For professional technical upgrading, twinning arrangements are beneficial
+Jones and Blunt 
+( 1998 )
+Individual Level & 
+Organizational Level
+Twinning arrangement leads technical upgrading (+), but it is not easy to lead 
+sustainable institutional capacity building (−)
+Establishing the outset organizational cooperation based on all activities of 
+project can lead to sustainable capacity building
+Kanal et al. ( 2020 ) Individual Level & 
+Organizational Level & 
+Systemic Level
+Partnership and the phased approach with strong commitment of stakeholders 
+who have ownership are key factors (+)
+For sustainable capacity building, adopting joint society initiatives is a novel 
+approach
+Laverack and 
+Thangphet ( 2009 )
+Individual Level & 
+Organizational Level
+The participatory approach for building community capacity is effective in 
+ecotourism (+)
+Involving locally based organizations in the project is essential for building 
+the capacity of communities
+Marcondes and 
+Bruyn ( 2015 )
+Organizational Level & 
+System Level
+Well-established domestic strategies can contribute to the improvement of food 
+security (+)
+Institutional, political, and contextual factors of partner countries play a decisive 
+role in development projects
+Moore ( 1995 ) Organizational Level Analysis on political situation of partner countries in project design stage and 
+long-term twinning method can be facilitators (+)
+The direct intervention of aid staff to the internal affairs of developing countries 
+may lead to project success
+Nurse and Wight 
+( 2011 )
+Individual Level & 
+Organizational Level & 
+Systemic Level
+Partnership, mentorship, collaboration, and facilitation are required (+) Recipient-led partnerships among donors, recipients, and commissioning 
+agencies are significant in facilitating capacity building
+Ofstad ( 1999 ) Organizational Level A shared understanding and ownership between developing and developed 
+countries is a precondition for sustainable development (+)
+Institutional partnership and twinning arrangement based on equal participation 
+and responsibilities from both sides
+Potter and Brough 
+( 2004 )
+Systemic Level The systemic changes and reforms based on national, state, and district plans 
+can lead to a successful capacity building (+)
+Systemically building capacity is necessary to diagnose shortcomings and to 
+improve project design and monitoring in view of the effective use of limited 
+resources
+Raguin ( 2016 ) Organizational Level & 
+Systemic Level
+Partnership networks have impacted the broader strengthening of the health 
+system (+)
+Robust partnerships among hospitals are effective in developing and supporting 
+capacity building for actors in the health sector
+Ramos and Ferreira- 
+Pinto ( 2002 )
+Organizational Level Multi-organizational training workshops contribute to achieving organizational 
+capacity building (+)
+Investment in financial and human resources for capacity building can contribute 
+to achieving successful project results
+12 
+ H. KIM AND Y. BANG
+<<<PAGE=14>>>
+This study makes a theoretical contribution by pro -
+posing a level-based analytical framework that enables 
+conceptual clarity in defining and analyzing capacity 
+building. While the term ‘Community Capacity Building 
+(CCB)’ is widely used in the literature, it often lacks a 
+unified definition. This framework helps disaggregate 
+the concept into distinct yet interrelated levels – each 
+with its own enabling conditions. Such an approach 
+offers a more nuanced understanding of CCB as a 
+layered process rather than a singular construct, reveal -
+ing how its functions vary depending on the level of 
+intervention. By distinguishing between surface-level 
+inputs (e.g. training) and deeper systemic level trans -
+formations (e.g. governance or ownership), the analyti -
+cal framework provides a structured means of 
+analyzing the complexity of capacity development 
+efforts.
+The framework also serves as a practical tool for prac -
+titioners involved in the planning, implementation, and 
+evaluation of international development projects. For 
+project designers, it can function as a checklist of level- 
+specific components – such as motivation and skills at 
+the individual level, partnerships and communication 
+at the organizational level, and policy coherence at the 
+systemic level. For evaluators, the framework offers a 
+structured approach to assess whether project activities 
+are aligned with appropriate capacity goals across levels, 
+and whether key success factors are adequately 
+addressed or obstructed. This clarity is particularly valu -
+able for donor agencies and implementing partners who 
+must demonstrate measurable impact. By translating an 
+otherwise abstract concept into concrete and actionable 
+elements, the framework helps bridge the gap between 
+conceptual ambiguity and practical application in the 
+discourse on capacity building.
+The authors acknowledge that the proposed frame -
+work may not be universally applicable. 
+International development projects are highly context- 
+specific, operating under diverse institutional, cultural, 
+and political conditions. Moreover, because the majority 
+of studies included in this review originate from the 
+health sector, the findings may reflect a sectoral bias. 
+Expanding future reviews to include grey literature and 
+capacity building documentation from donor and 
+NGO-led projects would strengthen the generalisability 
+and applicability of the findings. Despite these limit -
+ations, the study makes a meaningful contribution to 
+both theory and practice. It underscores the importance 
+of identifying success factors not in isolation, but as part 
+of a multi-level, interdependent system. Future research 
+could apply this framework to empirical case studies 
+across sectors to further validate its relevance and 
+explore context-specific adaptations.
+Stover et al. ( 2014 ) Organizational Level The multifaceted approach especially applied to the community level leads to 
+positive improvements in organizational capacity (+)
+The multifaceted approach can lead to improved capacity and the spread 
+of positive impact to other areas
+Tumwine et al. 
+( 2022 )
+Organizational Level Team capacity through support from partner organizations is needed for 
+organizational capacity building (+), but adopting new SRHR (Sexual and 
+Reproductive Health and Rights) does not necessarily produce organizational 
+effectiveness (−)
+Support from partner organizations and media engagement was a key enabler of 
+organizational effectiveness
+West, Dawson, and 
+Homer ( 2017 )
+Individual Level & 
+Organizational Level
+Knowing your capabilities and being motivated, awareness of the disparity, 
+being able to build relationships, and having a mutual understanding of 
+capacity building are influential (+)
+Individuals ’ attitudes, social norms including expected roles, and supportive 
+environment are crucial for capacity building
+DEVELOPMENT STUDIES RESEARCH 
+ 13
+<<<PAGE=15>>>
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+ORCID
+Heeyeon Kim 
+ http://orcid.org/0009-0001-5702-2628
+Yoorim Bang 
+ http://orcid.org/0000-0003-2128-7947
+References
+Adom, D., R. Nyadu-Addo, and S. Kquofi. 2021 . “Capacity 
+Building in Cultural and Traditional Craft Enterprises for 
+Ecotourism Development in the Sekyere Kumawu 
+District of Ghana.” Journal of Urban Culture Research 
+23:44–78.
+Amde, W. K., B. Marchal, D. Sanders, and U. Lehmann. 2019 . 
+“Determinants of Effective Organisational Capacity 
+Training: Lessons from a Training Programme on Health 
+Workforce Development with Participants from Three 
+African Countries.” BMC Public Health 19 (1): 1–12. https:// 
+doi.org/10.1186/s12889-019-7883-x .
+An, Y., M. J. Garvin, and R. P. Hall. 2017 . “Pathways to Better 
+Project Delivery: The Link between Capacity Factors and 
+Urban Infrastructure Projects in India.” World Development 
+94:393–405. https://doi.org/10.1016/j.worlddev.2017.02. 
+004 .
+Audenhove, L. 1998 . “Development Co-operation and Linkages 
+in Higher Education: Key Issues concerning Policy and 
+Organisation.” International Review of Education 44 (5/6): 
+531–548. https://doi.org/10.1023/A:1003441231514
+Bausch, F. A. J., O. Heller, L. Bengaly, B. Matthey-Khouity, P. 
+Bonnabry, Y. Touré, G. J. Kervillain, E. I. Bah, F. Chappuis, 
+and O. Hagon. 2018 . “Building Local Capacity in Hand-Rub 
+Solution Production during the 2014-2016 Ebola Outbreak 
+Disaster: The Case of Liberia and Guinea.” Prehospital and 
+Disaster Medicine 33 (6): 660–667. https://doi.org/10.1017/ 
+S1049023X18000985 .
+Broucke, S. V., H. Jooste, M. Tlali, V. Moodley, G. V. Zyl, D. 
+Nyamwaya, and K. Tang. 2010 . “Strengthening the 
+Capacity for Health Promotion in South Africa through 
+International Collaboration.” Global Health Promotion 17 
+(2_suppl): 6–16. https://doi.org/10.1177/ 
+1757975910363923 .
+Cancedda, C., P. Cotton, J. Shema, S. Rulisa, R. Rivello, L. V. 
+Adams, P. E. Farmer, et al. 2018 . “Health Professional 
+Training and Capacity Strengthening through International 
+Academic Partnerships: The First Five Years of the Human 
+Resources for Health Program in Rwanda.” International 
+Journal of Health Policy and Management 7 (11): 1024– 
+1039. https://doi.org/10.15171/ijhpm.2018.61 .
+Cancedda, C., P. E. Farmer, V. Kerry, T. Nuthulaganti, K. W. Scott, 
+E. Goosby, and A. Binagwaho. 2015 . “Maximizing the Impact 
+of Training Initiatives for Health Professionals in Low-Income 
+Countries: Frameworks, Challenges, and Best Practices.” 
+PLoS Medicine 12 (6): 1–11. https://doi.org/10.1371/journal. 
+pmed.1001840 .
+Collier, P. 2007 . The Bottom Billion: Why the Poorest Countries 
+Are Failing and What Can Be Done about It. Oxford: Oxford 
+University Press.
+Corkery, J., A. Land, and J. Bossuyt. 1998 . “Minding One’s Own 
+Business: Institutional Dimensions of Management for 
+Capacity Development (with Particular Reference to Sub- 
+saharan Africa).” International Review of Administrative 
+Sciences 64 (4): 531–551. https://doi.org/10.1177/ 
+002085239806400401 .
+Craig, G. 2007 . “Community Capacity-Building: Something Old, 
+Something New … ?” Critical Social Policy 27 (3): 335–359. 
+https://doi.org/10.1177/0261018307078846 .
+Dieleman, M., B. Gerretsen, and G. J. Wilt. 2009 . “Human 
+Resource Management Interventions to Improve Health 
+Workers’ Performance in Low and Middle Income 
+Countries: A Realist Review.” Health Research Policy and 
+Systems 7 (7): 1–13. https://doi.org/10.1186/1478-4505-7-7 .
+Eger, C., G. Miller, and C. Scarles. 2018 . “Gender and Capacity 
+Building: A Multi-layered Study of Empowerment.” World 
+Development 106:207–219. https://doi.org/10.1016/j. 
+worlddev.2018.01.024 .
+Eggers, H. W. 2009 . “Comments and Proposals concerning 
+Chianca’s “The OECD/DAC Criteria for International 
+Development Evaluations: An Assessment and Ideas for 
+Improvement.” Journal of Multidisciplinary Evaluation 6 
+(11): 116–124. https://doi.org/10.56645/jmde.v6i11.204
+Fass, S. M. 1984 . “Development Assistance: Ruined Hopes and 
+Great Expectations in Africa.” Studies in Comparative 
+International Development 19 (3): 15–39. https://doi.org/10. 
+1007/BF02717334 .
+Grindle, M. S., and M. E. Hilderbrand. 1995 . “Building 
+Sustainable Capacity in the Public Sector: What Can Be 
+Done?” Public Administration and Development 15 (5): 441– 
+463. https://doi.org/10.1002/pad.4230150502
+Hall, K. M. Q. 2017 . “Introducing Joint Capabilities: Findings 
+from a Study of Development in Honduras’ Garifuna 
+Ancestral Villages.” Journal of Human Development and 
+Capabilities 18 (1): 60–74. https://doi.org/10.1080/ 
+19452829.2016.1199168 .
+Hartvigson, L., and A. Heshmati. 2022 . “Sustainability of 
+Cooperation in the International Development of African 
+Higher Education.” Scandinavian Journal of Educational 
+Research 67 (3): 489–503. https://doi.org/10.1080/ 
+00313831.2022.2042729 .
+Ika, L. A., and J. Donnelly. 2017 . “Success Condition for 
+International Development Capacity Building Projects.” 
+International Journal of Project Management 35 (1): 44–63. 
+https://doi.org/10.1016/j.ijproman.2016.10.005 .
+Jones, M. L. 2001 . “Sustainable Organizational Capacity 
+Building: Is Organizational Learning a Key?” The 
+International Journal of Human Resource Management 12 
+(1): 91–98. https://doi.org/10.1080/713769590 .
+Jones, M. L., and P. Blunt. 1998 . “Twinning as a Method of 
+Capacity Building.” https://cdn.sida.se/publications/files/ 
+sida45992en-twinning-as-a-method-of-capacity-building. 
+pdf .
+Kabeer, N. 2005 . “Gender Equality and Women’s 
+Empowerment: A Critical Analysis of the Third Millennium 
+Development Goal.” Gender and Development 50 (4): 1051– 
+1079. https://doi.org/10.1080/13552070512331332273 .
+Kacou, K. P., L. A. Ika, and L. T. Munro. 2022 . “Fifty Years of 
+Capacity Building: Taking Stock and Moving Research 
+Forward.” Public Administration and Development 42 (3): 
+215–232. https://doi.org/10.1002/pad.1993 .
+Kanal, K., N. Fujita, S. C. Soeung, K. L. Sim, Y. Matsumoto, R. 
+Haruyama, K. Banno, and T. Kimura. 2020 . “The 
+Cooperation between Professional Societies Contributes to 
+14 
+ H. KIM AND Y. BANG
+<<<PAGE=16>>>
+the Capacity Building and System Development for 
+Prevention and Control of Cancer in Low- and Middle- 
+Income Countries: The Practice of Cervical Cancer 
+Prevention and Control Project in Cambodia.” Global 
+Health & Medicine 2 (1): 48–52. https://doi.org/10.35772/ 
+ghm.2020.01000 .
+Kotvojs, F., and R. Hurworth. 2013 . “Evaluating Capacity 
+Development: What Do We Really Want to Know?” 
+Evaluation Journal of Australasia 13 (1): 4–14. https://doi. 
+org/10.1177/1035719X1301300102 .
+Kühl, S. 2009 . “Capacity Development as the Model for 
+Development Aid Organizations.” Development and 
+Change 40 (3): 551–577. https://doi.org/10.1111/j.1467- 
+7660.2009.01538.x .
+Laverack, G., and S. Thangphet. 2009 . “Building Community 
+Capacity for Locally Managed Ecotourism in Northern 
+Thailand.” Community Development Journal 44 (2): 172– 
+185. https://doi.org/10.1093/cdj/bsm058 .
+Longest, K. C., S. Hitlin, and S. Vaisey. 2013 . “Position and 
+Disposition: The Contextual Development of Human 
+Values.” Social Forces 91 (4): 1499–1528. https://doi.org/10. 
+1093/sf/sot045 .
+Marcondes, G., and T. D. Bruyn. 2015 . “Brazil’s South-South 
+Cooperation in Food Security.” The International Society for 
+Plant Pathology 7 (6): 1153–1164. https://doi.org/10.1007/ 
+s12571-015-0503-4 .
+Merino, S. S., and I. R. Carmenado. 2012 . “Capacity Building in 
+Development Projects.” Procedia - Social and Behavioral 
+Sciences 46:960–967. https://doi.org/10.1016/j.sbspro.2012. 
+05.231 .
+Moore, M. 1995 . “Promoting Good Government by 
+Supporting Institutional Development?” IDS Bulletin 26 (2): 
+89–96. https://doi.org/10.1111/j.1759-5436.1995. 
+mp26002010.x .
+Naylor, T. 2011 . “Deconstructing Development: The Use of 
+Power and Pity in the International Development 
+Discourse.” International Studies Quarterly 55 (1): 177–197. 
+https://doi.org/10.1111/j.1468-2478.2010.00640.x .
+Neuhann, F., and S. Barteit. 2017 . “Lessons Learnt from the 
+MAGNET Malawian-German Hospital Partnership: 
+The German Perspective on Contributions to Patient 
+Care and Capacity Development.” Globalization and 
+Health 50:1–14. https://doi.org/10.1186/s12992-017- 
+0270-4 .
+Nurse, K., and D. Wight. 2011 . “Development Assistance and 
+Research Capacity Strengthening: The Commissioning of 
+Health Social Science Research in East Africa.” Journal of 
+Eastern African Studies 5 (2): 233–251. https://doi.org/10. 
+1080/17531055.2011.571387 .
+OECD. 2019 . “Better Criteria for Better Evaluation.” https:// 
+www.oecd.org/dac/evaluation/revised-evaluation-criteria- 
+dec-2019.pdf .
+OECD. 2023 . “Evaluation Systems in Development Co-oper -
+ation 2023.” https://www.oecd.org/en/publications/ 
+evaluation-systems-in-development-co-operation-2023_ 
+a255365e-en.html .
+Ofstad, A. 1999 . “Making South-North Organisational 
+Cooperation an Effective Instrument for Institution 
+Building.” https://open.cmi.no/cmi-xmlui/handle/11250/ 
+2435889 .
+Porzecanski, A. L., E. J. Sterling, J. A. Copsey, M. R. Appleton, J. R. 
+Barborak, B. L. Bruyere, N. Bynum, et al. 2022 . “A Systems 
+Framework for Planning and Evaluating Capacity 
+Development in Conservation: Recommendations for 
+Practitioners.” Oryx 56 (5): 671–680. https://doi.org/10. 
+1017/S003060532100154X .
+Potter, C., and R. Brough. 2004 . “Systemic Capacity 
+Building: A Hierarchy of Needs.” Health Policy and 
+Planning 19 (5): 336–345. https://doi.org/10.1093/heapol/ 
+czh038 .
+Raguin, G. 2016 . “The ESTHER Hospital Partnership Initiative: A 
+Powerful Levy for Building Capacities to Combat the HIV 
+Pandemic in Low-Resource Countries.” Globalization and 
+Health 12 (1): 1–7. https://doi.org/10.1186/s12992-016- 
+0149-9 .
+Ramos, R. L., and J. B. Ferreira-Pinto. 2002 . “A Model for 
+Capacity-Building in AIDS Prevention Programs.” AIDS 
+Education and Prevention 14 (3): 196–206. https://doi.org/ 
+10.1521/aeap.14.3.196.23891 .
+Rao, N. 2017 . “Assets, Agency and Legitimacy: Towards a 
+Relational Understanding of Gender Equality Policy and 
+Practice.” World Development 95:43–54. https://doi.org/10. 
+1016/j.worlddev.2017.02.018 .
+Samy, Y., and M. Aksil. 2015 . “An Examination of Bilateral Donor 
+Performance and Progress under the Paris Declaration on 
+Aid Effectiveness.” Canadian Journal of Development 
+Studies / Revue Canadienne D’études du Développement 36 
+(4): 516–535. https://doi.org/10.1080/02255189.2015. 
+1083413 .
+Sanz, M. P., S. Veenstra, U. W. Montalvo, R. Tulder, and G. 
+Alaerts. 2013 . “What Counts as ‘Results’ in Capacity 
+Development Partnerships between Water Operators? A 
+Multi-path Approach toward Accountability, Adaptation 
+and Learning.” Water Policy 15 (S2): 242–266. https://doi. 
+org/10.2166/wp.2013.022 .
+Schwartz, S. H., J. Cieciuch, M. Vecchione, E. Davidov, R. Fischer, 
+C. Beierlein, A. Ramos, et al. 2012 . “Refining the Theory of 
+Basic Individual Values.” Journal of Personality and Social 
+Psychology 103 (4): 663–688. https://doi.org/10.1037/ 
+a0029393 .
+Shah, P. P. 2016 . “Agency as Negotiation: Social Norms, Girls’ 
+Schooling and Marriage in Gujarat, India.” In Education and 
+Youth Agency: Qualitative Case Studies in Global Contexts, 
+edited by J. G. DeJaeghere, J. Josić, and K. S. McCleary, 85– 
+102. Cham: Springer.
+Stover, K. E., S. Tesfaye, A. H. Frew, H. Mohammed, D. Barry, L. 
+Alamineh, A. Teshome, K. Hepburn, and L. M. Sibley. 2014 . 
+“Building District-Level Capacity for Continuous 
+Improvement in Maternal and Newborn Health.” Journal of 
+Midwifery & Women’s Health 59 (1): S91–S100. https://doi. 
+org/10.1111/jmwh.12164 .
+Tumwine, G., P. Östergren, A. Agardh, P. Okong, and B. O. 
+Asamoah. 2022 . “Enablers of Sexual and 
+Reproductive Health and Rights Interventions in Low- and 
+Middle-Income Countries. Insights from 
+Capacity Development Projects Implemented in 13 
+Countries in Africa and Asia.” Global Health Action 14:1–12. 
+https://doi.org/10.1080/16549716.2022.2114148 .
+UN. 2025 . “Capacity-Building.” https://www.un.org/en/ 
+academic-impact/capacity-building .
+UNESCO. 2010 . “Guidebook for Planning 
+Education in Emergencies and Reconstruction (Section 1).” 
+http://unesdoc.unesco.org/images/0019/001902/190223E. 
+pdf .
+DEVELOPMENT STUDIES RESEARCH 
+ 15
+<<<PAGE=17>>>
+Vallejo, B., and U. Wehn. 2016 . “Capacity Development 
+Evaluation: The Challenge of the Results Agenda and 
+Measuring Return on Investment in the Global South.” 
+World Development 79 (2016): 1–13. https://doi.org/10. 
+1016/j.worlddev.2015.10.044 .
+West, F., A. Dawson, and C. S. E. Homer. 2017 . “Building 
+Midwifery Educator Capacity Using International 
+Partnerships: Findings from a Qualitative Study.” Nurse 
+Education in Practice 25:66–73. https://doi.org/10.1016/j. 
+nepr.2017.05.003 .
+16 
+ H. KIM AND Y. BANG

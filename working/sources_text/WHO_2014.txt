@@ -1,0 +1,3248 @@
+<<<PAGE=1>>>
+THE WORLD BANK
+Trends in 
+Maternal Mortality: 
+1990 to 2013
+Estimates by WHO, UNICEF, UNFPA, The World Bank 
+and the United Nations Population Division 
+ISBN 978 92 4 150722 6
+<<<PAGE=2>>>
+
+<<<PAGE=3>>>
+Trends in maternal mortality:  
+1990 to 2013
+Estimates by WHO, UNICEF, UNFPA, The World Bank 
+and the United Nations Population Division
+THE WORLD BANK
+<<<PAGE=4>>>
+WHO Library Cataloguing-in-Publication Data
+Trends in maternal mortality: 1990 to 2013. Estimates by WHO, UNICEF, UNFPA, The World Bank and the 
+United Nations Population Division
+I.World Health Organization.
+ISBN 978 92 4 150722 6     
+Subject headings are available from WHO institutional repository
+© World Health Organization 2014
+All rights reserved. Publications of the World Health Organization are available on the WHO web site (www.who.int) 
+or can be purchased from WHO Press, World Health Organization, 20 Avenue Appia, 1211 Geneva 27, Switzerland 
+(tel.: +41 22 791 3264; fax: +41 22 791 4857; e-mail: bookorders@who.int). 
+Requests for permission to reproduce or translate WHO publications –whether for sale or for non-commercial 
+distribution– should be addressed to WHO Press through the WHO website (www.who.int/about/licensing/
+copyright_form/en/index.html).
+The designations employed and the presentation of the material in this publication do not imply the expression of 
+any opinion whatsoever on the part of the World Health Organization concerning the legal status of any country, 
+territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted lines 
+on maps represent approximate border lines for which there may not yet be full agreement.
+The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or 
+recommended by the World Health Organization in preference to others of a similar nature that are not mentioned. 
+Errors and omissions excepted, the names of proprietary products are distinguished by initial capital letters.
+All reasonable precautions have been taken by the World Health Organization to verify the information contained 
+in this publication. However, the published material is being distributed without warranty of any kind, either 
+expressed or implied. The responsibility for the interpretation and use of the material lies with the reader. In no 
+event shall the World Health Organization be liable for damages arising from its use.  
+Editing and layout by Inís Communication – www.iniscommunication.com
+<<<PAGE=5>>>
+Contents
+Acknowledgements  ...............................................................................................................................................................v
+AbbreviAtions .........................................................................................................................................................................vii
+executive summ Ary ................................................................................................................................................................1
+1 introduction  ..................................................................................................................................................................3
+2 meAsuring m AternAl mort Ality  ..........................................................................................................................4
+2.1 c oncepts and definitions .................................................................................................................................................4
+2.2 c oding of maternal deaths ..............................................................................................................................................5
+Measures of maternal mortality ............................................................................................................................. 6
+2.3 Approaches for measuring maternal mortality ..........................................................................................................7
+3 methodology for the 1990–2013 estim Ates of m AternAl mort Ality  ............................................11
+3.1 s ources of country data used for the 1990–2013 estimates .................................................................................11
+3.2 m ethods used to estimate maternal mortality ratio in 1990–2013 according to data source .....................12
+Estimation of maternal mortality ratio from Group 1 civil registration data (Group A) .........................14
+Estimation of maternal mortality ratio using a statistical model (Groups B and C) ................................14
+Multi-level regression model ..................................................................................................................................16
+Uncertainty of estimates .........................................................................................................................................18
+3.3 c omputation of adult lifetime risk of maternal mortality ......................................................................................19
+3.4 global and regional estimates ...................................................................................................................................... 20
+3.5 m ethodological updates ................................................................................................................................................20
+4 results  ..............................................................................................................................................................................21
+4.1 m aternal mortality estimates for 2013 .......................................................................................................................21
+4.2 t rends in maternal mortality from 1990 to 2013 .....................................................................................................26
+4.3 c omparison with previous maternal mortality estimates .....................................................................................26
+5 Progress tow Ards millennium develoP ment go Al 5 ............................................................................27
+references  .................................................................................................................................................................................29
+tAbles
+Table 1. sources of maternal mortality data used in generating the 2013 maternal mortality  
+ratio estimates ..............................................................................................................................................................................12
+Table 2. estimates of maternal mortality ratio (mmr, maternal deaths per 100 000 live births), number of 
+maternal deaths, and lifetime risk, by united nations mdg region, 2013 ....................................................................22
+Table 3. estimates of maternal mortality ratio (mmr, maternal deaths per 100 000 live births), number of 
+maternal deaths and maternal deaths attributed to hiv/Aids, by united nations mdg region, 2013 .................24
+Table 4. comparison of 1990 and 2013 maternal mortality ratio (mmr, maternal deaths per 
+100 000 live births) and number of maternal deaths, by united nations mdg regions ............................................25
+<<<PAGE=6>>>
+Annexes
+Annex 1. estimates of maternal mortality ratio (mmr, maternal deaths per 100 000 live births), number 
+of maternal deaths, lifetime risk and percentage of Aids-related indirect maternal deaths, 2013 ........................31
+Annex 2. trends in estimates of maternal mortality ratio (mmr, maternal deaths per 100 000 live births), 
+1990–2013, by country ..............................................................................................................................................................36
+Annex 3. countries with 40% or more decrease in the maternal mortality ratio (maternal deaths per 
+100 000 live births) from 1990 to 2013 ..................................................................................................................................44
+APPendices
+Appendix 1. Adjustment factor to account for misclassification of maternal deaths in civil registration, 
+literature review of reports and articles .................................................................................................................................45
+Appendix 2. sixty-seven countries with civil registration data characterized as complete, with good 
+attribution of cause of death ....................................................................................................................................................47
+Appendix 3. ninety-six countries with incomplete civil registration and/or other types of maternal 
+mortality data ...............................................................................................................................................................................47
+Appendix 4. twenty countries with no national data on maternal mortality.............................................................47
+Appendix 5. estimation of maternal deaths due to hiv ...................................................................................................48
+Appendix 6. trends in estimates of maternal mortality ratio (mmr, maternal deaths per 100 000 live 
+births), 1990–2013, by united nations millennium development goal region (indicated in bold) and 
+other grouping .............................................................................................................................................................................50
+Appendix 7. estimates of maternal mortality ratio (mmr, maternal deaths per 100 000 live births), 
+number of maternal deaths, and lifetime risk by who region, 2013 .............................................................................51
+Appendix 8. trends in estimates of maternal mortality ratio (mmr, maternal deaths per 100 000 live 
+births), 1990–2013, by who region........................................................................................................................................51
+Appendix 9. estimates of maternal mortality ratio (mmr, maternal deaths per 100 000 live births), 
+number of maternal deaths, and lifetime risk by unicef region, 2013 .........................................................................52
+Appendix 10. trends in estimates of maternal mortality ratio (mmr, maternal deaths per 100 000 live 
+births), by unicef region ..........................................................................................................................................................52
+Appendix 11. estimates of maternal mortality ratio (mmr, maternal deaths per 100 000 live births), 
+number of maternal deaths, and lifetime risk by unfPA region, 2013 ..........................................................................53
+Appendix 12. trends in estimates of maternal mortality ratio (mmr, maternal deaths per 100 000 live 
+births) 1990–2013, by unfPA region .....................................................................................................................................53
+Appendix 13. estimates of maternal mortality ratio (mmr, maternal deaths per 100 000 live births), 
+number of maternal deaths, and lifetime risk by the world bank region and income group, 2013 ......................54
+Appendix 14. trends in estimates of maternal mortality ratio (mmr, maternal deaths per 100 000 live 
+births), 1990–2013, by the world bank region and income group ................................................................................54
+Appendix 15. estimates of maternal mortality ratio (mmr, maternal deaths per 100 000 live births), 
+number of maternal deaths, and lifetime risk by unPd region, 2013 ............................................................................55
+Appendix 16. trends in estimates of maternal mortality ratio (mmr, maternal deaths per 100 000 live 
+births), 1990–2013, by unPd region ......................................................................................................................................55
+Appendix 17. summary of country consultations .............................................................................................................56
+<<<PAGE=7>>>
+v
+Acknowledgements
+The Maternal Mortality Estimation Inter-Agency Group (MMEIG), together with Leontine 
+Alkema, of the National University of Singapore, Singapore, and Alison Gemmill, of the 
+University of California at Berkeley, United States of America, collaborated in developing 
+these maternal mortality estimates.
+The MMEIG consists of the following individuals, listed in alphabetical order: Mohamed Ali of 
+the World Health Organization (WHO); Ties Boerma of WHO; Liliana Caravajal of the United 
+Nations Children’s Fund (UNICEF); Doris Chou of WHO; Daniel Hogan of WHO; Victor Gaigbe-
+Togbe of the United Nations Population Division (UNPD) and Sara Hertog of UNPD; Edilberto 
+Loaiza of the United Nations Population Fund (UNFPA); Matthews Mathai of WHO; Colin 
+Mathers of WHO; Samuel Mills of The World Bank; Holly Newby of UNICEF; Vibeke Nielsen of 
+Statistics Norway; Lale Say of WHO; Emi Suzuki of The World Bank; and Marleen Temmerman 
+of WHO. Leontine Alkema is the lead adviser to the MMEIG. Flavia Bustreo of WHO oversaw 
+the overall work and process of developing the estimates.
+An external technical advisory group (TAG) provided independent technical advice. The 
+members of the TAG are: Saifuddin Ahmed of Johns Hopkins University, Baltimore, MD, 
+USA; David Braunholz of Aberdeen University, Scotland; Peter Byass of Umeå University, 
+Sweden; Wendy Graham of Aberdeen University, Scotland; Dr Namuunda Mutombo, African 
+Population and Health Research Centre, Nairobi, Kenya; Thomas Pullum of ICF Macro 
+Calverton, Maryland, USA; and Neff Walker of Johns Hopkins University, Baltimore, MD, USA.
+The Department of Governing Bodies and External Relations of WHO, WHO country offices, 
+UNFPA country offices, and UNICEF country offices, are gratefully acknowledged for 
+facilitating the country consultations. Thanks to the WHO regional office staff:
+Regional Office for Africa
+Derege Kebede 
+Tigest Ketsela Mangestu
+Gisele Carole Wabo Nitcheu
+Triphonie Nkurunziza
+Leopold Ouedraogo
+Regional Office for the Americas
+Bremen De Mucio  
+Patricia Ruiz
+Suzanne Serruya
+Gina Tambini
+Regional Office for the Eastern 
+Mediterranean
+Mohamed Mahmoud Ali
+Haifa Madi
+Ramez Khairi Mahaini
+Regional Office for Europe
+Enrique Gerardo Loyola Elizondo
+Gauden Galea
+Gunta Lazdane 
+Claudia Elisabeth Stein
+Regional Office for South East Asia
+Jyotsna Chikersal
+Arvind Mathur
+Neena Raina
+Sangay Thinley
+Martin Weber
+Regional Office for the Western Pacific
+Mark Landry
+Susan P . Mercado
+Hiromi Obara
+Howard Sobel
+<<<PAGE=8>>>
+vi
+Joanne Simpson-Deprez and Armando Seuc of WHO provided translation during country 
+consultations. Thanks to all focal points of governments who reviewed the preliminary 
+estimates of maternal mortality ratios and provided valuable feedback.
+WHO, UNICEF, The World Bank, and the United States Agency for International Development 
+(USAID) provided financial support.
+This report was prepared by Leontine Alkema, Doris Chou, Alison Gemmill, Daniel Hogan, 
+Colin Mathers, Samuel Mills, Ann-Beth Moller, Lale Say and Emi Suzuki. The report was 
+reviewed by Agbessi Amouzou, Victor Gaigbe-Togbe, Lianne Gonsalves and Edilberto Loaiza.
+We also thank WHO staff who contributed to data collection and analysis, in particular, Doris 
+Ma Fat and Jessica Ho. Grateful thanks are extended to Peter Byass, Andres de Francisco, and 
+Mary Mahy, who reviewed the drafts of this report and provided valuable advice.
+Contact persons: Doris Chou (e-mail: choud@who.int) and Lale Say (e-mail: sayl@who.int), 
+Department of Reproductive Health and Research, WHO.
+<<<PAGE=9>>>
+vii
+Abbreviations
+AIDS acquired immunodeficiency syndrome
+AIHW Australian Institute of Health and Welfare
+CEMD Confidential Enquiry into Maternal Deaths
+CEMACH Confidential Enquiry into Maternal and Child Health
+CMACE Centre for Maternal and Child Enquiries
+DHS Demographic and Health Surveys
+EmONC emergency obstetric and newborn care
+GDP gross domestic product per capita (based on purchasing power parity 
+conversion)
+GFR general fertility rate
+HIV human immunodeficiency virus
+ICD-10 International statistical classification of diseases and related health problems, 
+10th edition
+ICD-MM The WHO application of ICD-10 to deaths during pregnancy, childbirth, and the 
+puerperium: ICD Maternal Mortality
+iERG Independent Expert Review Group
+MDG Millennium Development Goal
+MDSR maternal death surveillances and response
+MICS4 Multiple Indicator Cluster Surveys – Round 4
+MMEIG Maternal Mortality Estimation Inter-Agency Group
+MMR maternal mortality ratio
+MMRate maternal mortality rate
+PM proportion of deaths among women of reproductive age that are due to 
+maternal causes
+PMMRC Perinatal and Maternal Mortality Review Committee (New Zealand)
+PPP purchasing power parity
+RAMOS reproductive-age mortality study
+SAB presence of a skilled attendant at birth as a proportion of live births
+TAG technical advisory group
+UN United Nations
+UNAIDS Joint United Nations Programme on HIV/AIDS
+UNFPA United Nations Population Fund
+UNICEF United Nations Children’s Fund
+UNPD United Nations Population Division
+USA United States of America
+WHO World Health Organization
+<<<PAGE=10>>>
+viii
+<<<PAGE=11>>>
+1
+Trends in maternal mortality 1990 to 2013
+Executive summary
+A number of initiatives that commenced in recent years are geared towards achievement 
+of the fifth Millennium Development Goal (MDG 5: Improving maternal health), most 
+notably the launch of the Global Strategy for Women’s and Children’s Health in 2010 by 
+the United Nations (UN) Secretary-General. Subsequently, the high-level Commission 
+on Information and Accountability for Women’s and Children’s Health was established 
+to “determine the most effective international institutional arrangements for global 
+reporting, oversight and accountability on women’s and children’s health. ” One of the ten 
+recommendations of the commission was specific to improving measurement of maternal 
+(and child) deaths. This recommendation requires that “by 2015, all countries have taken 
+significant steps to establish a system for registration of births, deaths and causes of death, 
+and have well-functioning health information systems that combine data from facilities, 
+administrative sources and surveys” . The first report of the independent Expert Review Group 
+(iERG) established by the commission for overseeing the progress in achievement of the 
+commission’s 10 recommendations indicated insufficient progress in the implementation of 
+the recommendations including the one on ‘vital events’ reporting.
+Measuring the MDG 5 target of reducing the maternal mortality ratio (MMR) (target 5A) 
+remains a challenge. Less than 40% of countries have a complete civil registration system 
+with good attribution of cause of death, which is necessary for the accurate measurement of 
+maternal mortality.
+The estimates for 2013 presented in this report are the seventh in a series of analyses by the 
+United Nations agencies. The Maternal Mortality Estimation Inter-Agency Group (MMEIG), 
+comprising the World Health Organization (WHO), the United Nations Children’s Fund 
+(UNICEF), the United Nations Population Fund (UNFPA), the United Nations Population 
+Division (UNPD) and The World Bank, together with a team at the National University of 
+Singapore, Singapore and University of California at Berkeley, United States of America, 
+have been working together to generate internationally comparable MMR estimates. A 
+technical advisory group (TAG) provides independent technical advice. The methods, as well 
+as the data sources for the estimation of MMR, have improved over time. Building on the 
+methodological advancements from the previous round of analyses, newly available data 
+collected by MMEIG and obtained during country consultation were incorporated, and trend 
+estimates from 1990 to 2013 were generated. As with the previous round of estimates, the 
+statistical code and input data necessary to produce the current estimates are made publicly 
+available, underscoring the MMEIG’s commitment to open access and transparency.
+Globally, there were an estimated 289 000 maternal deaths in 2013, a decline of 45% from 
+1990. The sub-Saharan Africa region alone accounted for 62% (179 000) of global deaths 
+followed by Southern Asia at 24% (69 000). At the country level, the two countries that 
+accounted for one third of all global maternal deaths are India at 17% (50 000) and Nigeria 
+at 14% (40 000). The global MMR in 2013 was 210 maternal deaths per 100 000 live births, 
+down from 380 maternal deaths per 100 000 live births in 1990. The MMR in developing 
+regions (230) was 14 times higher than in developed regions (16). Sub-Saharan Africa has the 
+highest regional MMR (510). Of the remaining MDG developing regions, five had low MMR: 
+Eastern Asia (33); Caucasus and Central Asia (39); Northern Africa (69); Western Asia (74); and
+<<<PAGE=12>>>
+2
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Latin America and the Caribbean (85). Three had moderate MMR: South-eastern Asia (140); 
+Southern Asia (190); and Oceania (190).
+Sierra Leone is estimated to have the highest MMR at 1100. A further 15 countries (all in sub-
+Saharan Africa) had very high MMR: Chad (980); Central African Republic (880); Somalia (850); 
+Burundi (740); Democratic Republic of the Congo (730); South Sudan (730); Côte d’Ivoire (720); 
+Guinea (650); Liberia (640); Niger (630); Cameroon (590); Guinea-Bissau (560); Nigeria (560); 
+Mali (550); and Malawi (510). Only two countries outside the sub-Saharan African region had 
+high MMR: Afghanistan (400) and Haiti (380). In contrast, Cabo Verde and Mauritius were 
+the only two sub-Saharan African countries that had low MMR at 53 and 73, respectively. 
+Regarding the likelihood that an adult woman will die from maternal causes, Chad and 
+Somalia had the highest lifetime risks at 1 in 15 and 1 in 18, respectively. The estimated 
+lifetime risk for maternal mortality in high-income countries is 1 in 3400 in comparison to 
+low-income countries where the risk is 1 in 52.
+Sub-Saharan Africa accounted for 6800 (91%) of the estimated 7500 maternal deaths 
+attributed to acquired immunodeficiency syndrome (AIDS) worldwide. The proportion 
+of maternal deaths attributed to AIDS in sub-Saharan Africa was 3.8%, yielding an AIDS-
+attributed MMR for sub-Saharan Africa of 19 maternal deaths per 100 000 live births. 
+Although the MDG regional aggregated proportions of maternal deaths attributed to AIDS 
+were relatively small, they were substantial for countries with high HIV prevalence. Thirteen 
+countries had a proportion of maternal deaths attributed to AIDS of 10% or more.
+While most countries/regions aspire to achieve MDG5 target 5A by 2015, some countries are 
+unlikely to attain this goal if current trends persist. Countries with an MMR ≥100 in 1990 are 
+categorized as ‘on track’ if their MMR has declined by at least 75% between 1990 and 2013.
+The 11 countries categorized as ‘on track’ are: Maldives (93%); Bhutan (87%); Cambodia (86%); 
+Equatorial Guinea (81%); Lao People’s Democratic Republic (80%); Romania (80%);  
+Timor-Leste (78%); Cabo Verde (77%); Eritrea (77%); Nepal (76%); Rwanda (76%). A further  
+63 countries are characterized as ‘making progress’ , while 13 countries have made ‘insufficient 
+progress’ . 
+When considering progress made towards achievement of MDGs, some common elements 
+of success emerge, including: leadership and partnership, evidence and innovation, 
+development and implementation of dual short-term and long-term strategies, and 
+adaptation to change for sustained progress. Additionally, successful strategies and policies 
+related to safer motherhood, neonatal health, nutrition and gender are anchored in the 
+principles of human rights. Finally, improving the availability and quality of maternal 
+death reviews provides an important tool for capturing maternal deaths, contributing to 
+better estimates of maternal mortality, while also helping to initiate necessary actions to 
+prevent deaths. 
+Discussions on the post-2015 UN development agenda are underway. In light of the steady 
+progress observed for MDG 5, we can envision ending preventable maternal mortality in 
+this lifetime.
+<<<PAGE=13>>>
+3
+Trends in maternal mortality 1990 to 2013
+1 Introduction
+A number of initiatives that commenced in recent years are geared towards achievement 
+of the fifth Millennium Development Goal (MDG 5: Improving maternal health), most 
+notably the launch of the Global Strategy for Women’s and Children’s Health in 2010 by 
+the United Nations (UN) Secretary-General (1). Subsequently, the high-level Commission 
+on Information and Accountability for Women’s and Children’s Health was established 
+to “determine the most effective international institutional arrangements for global 
+reporting, oversight and accountability on women’s and children’s health” (2). One of the ten 
+recommendations of the commission was specific to improving measurement of maternal 
+(and child) deaths. This recommendation requires that “by 2015, all countries have taken 
+significant steps to establish a system for registration of births, deaths and causes of death, 
+and have well-functioning health information systems that combine data from facilities, 
+administrative sources and surveys” . The first report of the independent Expert Review Group 
+(iERG) established by the commission for overseeing the progress in achievement of the 
+commission’s 10 recommendations indicated insufficient progress in the implementation of 
+the recommendations, including the one on vital events reporting (3).
+Measuring the MDG 5 target of reducing the maternal mortality ratio (MMR) by three 
+quarters between 1990 and 2015 remains a challenge. Less than two fifths of countries 
+have a complete civil registration system with good attribution of cause of death, which is 
+necessary for the accurate measurement of maternal mortality. Accordingly, the Maternal 
+Mortality Estimation Inter-Agency Group (MMEIG), comprising the World Health Organization 
+(WHO), the United Nations Children’s Fund (UNICEF), the United Nations Population Fund 
+(UNFPA), the United Nations Population Division (UNPD) and The World Bank, together with 
+a team at the National University of Singapore, Singapore, and University of California at 
+Berkeley, United States of America, have been working together to generate internationally 
+comparable MMR estimates. A technical advisory group (TAG) provides independent 
+technical advice. The estimates for 2013 presented in this report are the seventh in a series 
+of analyses by the MMEIG to examine the global extent of maternal mortality (4–9). The 
+methods, as well as the data sources for the estimation of MMR, have improved over time.
+Consultations with countries were carried out following the development of the MMR 
+estimates. The purposes of the consultations were primarily: to give countries the opportunity 
+to review the country estimates, data sources and methods; to obtain additional primary data 
+sources that may not have been previously reported or used in the analyses; and to build 
+mutual understanding of the strengths and weaknesses of available data and ensure broad 
+ownership of the results. Appendix 17 presents a summary of the 2013 country consultations.
+This report presents global, regional and country estimates of maternal mortality in 2013, 
+as well as trends from 1990 to 2013. Chapter 2 provides an overview of the definitions and 
+approaches for measuring maternal mortality. Chapter 3 is a detailed description of the 
+methodology employed in generating the estimates. Chapter 4 presents the estimates 
+and interpretation of the findings. Chapter 5 assesses the progress towards MDG 5. The 
+annexes and appendices present the sources of data for the country estimates, as well as 
+MMR estimates for the different regional groupings for UNFPA, UNICEF, the United Nations 
+Population Division, WHO and The World Bank.
+<<<PAGE=14>>>
+4
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+2 Measuring maternal mortality
+2.1 Concepts and definitions
+In the International statistical classification of diseases health problems, 10th revision (ICD-10) 
+(10), WHO defines maternal death as:
+The death of a woman while pregnant or within 42 days of termination of pregnancy, irrespective 
+of the duration and site of the pregnancy, from any cause related to or aggravated by the 
+pregnancy or its management but not from accidental or incidental causes.
+This definition allows identification of maternal deaths, based on their causes, as either 
+direct or indirect. Direct maternal deaths are those resulting from obstetric complications 
+of the pregnant state (i.e. pregnancy, delivery and postpartum), interventions, omissions, 
+incorrect treatment, or a chain of events resulting from any of the above. Deaths due to, 
+for example, obstetric haemorrhage or hypertensive disorders in pregnancy, or those 
+due to complications of anaesthesia or caesarean section are classified as direct maternal 
+deaths. Indirect maternal deaths are those resulting from previously existing diseases, or 
+from diseases that developed during pregnancy and that were not due to direct obstetric 
+causes but aggravated by physiological effects of pregnancy. For example, deaths due to 
+aggravation of an existing cardiac or renal disease are considered indirect maternal deaths.
+The concept of ‘death during pregnancy, childbirth and the puerperium’ is included in the 
+ICD-10 and is defined as any death temporal to pregnancy, childbirth or the postpartum 
+period, even if it is due to accidental or incidental causes (this was formerly referred to 
+as ‘pregnancy-related death’ , see Box 1). This alternative definition allows measurement 
+of deaths that are related to pregnancy, even though they do not strictly conform to the 
+standard ‘maternal death’ concept, in settings where accurate information about causes of 
+death based on medical certificates is unavailable.
+Box 1 
+Definitions related to maternal death in ICD-10
+Maternal death
+the death of a woman while pregnant or within 42 days of termination of pregnancy, 
+irrespective of the duration and site of the pregnancy, from any cause related to or aggravated 
+by the pregnancy or its management but not from accidental or incidental causes.
+Pregnancy-related death
+the death of a woman while pregnant or within 42 days of termination of pregnancy, 
+irrespective of the cause of death.
+Late maternal death
+the death of a woman from direct or indirect obstetric causes, more than 42 days, but less than 
+one year after termination of pregnancy.
+<<<PAGE=15>>>
+5
+Trends in maternal mortality 1990 to 2013
+For instance, in population-based surveys, respondents provide information on the 
+pregnancy status of a reproductive-aged sibling at the time of death, but no further 
+information is elicited on the cause of death. These surveys, therefore, usually provide 
+measures of pregnancy-related deaths rather than maternal deaths.
+Further, complications of pregnancy or childbirth can lead to death beyond the six weeks 
+postpartum period, and the increased availability of modern life-sustaining procedures and 
+technologies enables more women to survive adverse outcomes of pregnancy and delivery, 
+and to delay death beyond 42 days postpartum. Despite being caused by pregnancy-related 
+events, these deaths do not count as maternal deaths in routine civil registration systems. 
+Specific codes for ‘late maternal deaths’ are included in the ICD-10 (O96 and O97), in order to 
+capture delayed maternal deaths occurring between six weeks and one year postpartum (see 
+Box 1). Some countries, particularly those with more developed civil registration systems, use 
+this definition.
+This report aims to achieve a globally consistent set of estimates of maternal deaths in 
+line with the ICD-10 definition of maternal death, although the various ways the data are 
+collected do not always allow the above definition to be followed.
+2.2 Coding of maternal deaths
+Despite the standard definitions noted above, accurate identification of the causes of 
+maternal deaths is not always possible. It can be a challenge for medical certifiers to correctly 
+attribute cause of death to direct or indirect maternal causes, or to accidental or incidental 
+events, particularly in settings where deliveries mostly occur at home. While several countries 
+apply the ICD-10 in civil registration systems, the identification and classification of causes of 
+death during pregnancy, childbirth and the puerperium remain inconsistent across countries.
+With the publication of the ICD-10, WHO recommended adding a checkbox on the death 
+certificate for recording a woman’s pregnancy status at the time of death (10). This was to 
+help identify indirect maternal deaths, but it has not been implemented in many countries. 
+For countries using ICD-10 coding for registered deaths, all deaths coded to the maternal 
+chapter (O codes) and maternal tetanus (A34) were counted as maternal deaths.
+In 2012, WHO published Application of ICD-10 to deaths during pregnancy, childbirth and the 
+puerperium: ICD Maternal Mortality (ICD-MM), to guide countries to reduce errors in coding 
+maternal deaths and to improve the attribution of cause of maternal death (11). The ICD-MM 
+is to be used together with the three ICD-10 volumes. For example, the ICD-MM clarifies that 
+the coding of maternal deaths among HIV-positive women may be due to:
+Obstetric causes: Such as haemorrhage or hypertensive disorders in pregnancy – these should 
+be identified as direct maternal deaths.
+The interaction between human immunodeficiency virus (HIV) and pregnancy: In these cases, 
+there is an aggravating effect of pregnancy on HIV and the interaction between pregnancy 
+and HIV is the underlying cause of death. These deaths are considered as indirect maternal 
+deaths. In this report, they are referred to as ‘AIDS-related indirect maternal deaths’ , and 
+in the ICD are those deaths coded to O98.7 and categorized in Group 7 (non-obstetric 
+complications) in the ICD-MM.
+<<<PAGE=16>>>
+6
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Acquired immunodeficiency syndrome (AIDS): In these cases, the woman’s pregnancy status is 
+incidental to the course of her HIV infection and her death is a result of an HIV complication, 
+as described by ICD-10 codes B20–24. These are not considered maternal deaths. In this 
+report, they are referred to as ‘AIDS deaths’ . 1
+Thus, proper reporting of the mutual influence of HIV or AIDS and pregnancy in Part 1 of the 
+death certificate will facilitate the coding and identification of these deaths.
+Measures of maternal mortality
+The extent of maternal mortality in a population is essentially the combination of two factors:
+(i) The risk of death in a single pregnancy or a single live birth.
+(ii) The fertility level (i.e. the number of pregnancies or births that are experienced by 
+women of reproductive age). The MMR is defined as the number of maternal deaths during 
+a given time period per 100 000 live births during the same time period. It depicts the risk of 
+maternal death relative to the number of live births and essentially captures (i) above.
+By contrast, the maternal mortality rate (MMRate) is defined as the number of maternal 
+deaths in a population divided by the number of women aged 15–49 years (or woman-
+years lived at ages 15–49 years). The MMRate captures both the risk of maternal death per 
+pregnancy or per total birth (live birth or stillbirth), and the level of fertility in the population. 
+In addition to the MMR and the MMRate, it is possible to calculate the adult lifetime risk 
+of maternal mortality for women in the population (see Box 2). An alternate measure of 
+maternal mortality, the proportion of deaths among women of reproductive age that are due 
+to maternal causes (PM), is calculated as the number of maternal deaths divided by the total 
+deaths among women aged 15–49 years.
+Box 2 
+Statistical measures of maternal mortality
+Maternal mortality ratio (MMR)
+number of maternal deaths during a given time period per 100 000 live births during the same 
+time period.
+Maternal mortality rate (MMRate)
+number of maternal deaths in a given period per 1000 women of reproductive age during the 
+same time period.
+Adult lifetime risk of maternal death
+the probability that a 15-year-old women will die eventually from a maternal cause.
+Proportion of deaths among women of reproductive age that are due to 
+maternal causes (PM)
+the number of maternal deaths in a given time period divided by the total deaths among women 
+aged 15–49 years.
+1 The deaths referred to in this document as ‘AIDS deaths’ are referred to as ‘AIDS deaths’ in Joint United Nations Programme 
+on HIV/AIDS (UNAIDS) publications. These deaths include the estimated number of deaths related to HIV infection, including 
+deaths that occur before reaching the clinical stage classified as AIDS.
+<<<PAGE=17>>>
+7
+Trends in maternal mortality 1990 to 2013
+2.3 Approaches for measuring maternal mortality
+Ideally, civil registration systems with good attribution of cause of death provide accurate 
+data on the level of maternal mortality and the causes of maternal deaths. In countries with 
+incomplete civil registration systems, it is difficult to accurately measure levels of maternal 
+mortality. First, it is challenging to identify maternal deaths precisely, as the deaths of women 
+of reproductive age might not be recorded at all. Second, even if such deaths were recorded, 
+the pregnancy status or cause of death may not have been known and the deaths would 
+therefore not have been reported as maternal deaths. Third, in most developing-country 
+settings where medical certification of cause of death does not exist, accurate attribution of a 
+female death as a maternal death is difficult.
+Even in developed countries where routine registration of deaths is in place, maternal deaths 
+may be underreported, due to misclassification of ICD-10 coding, and identification of the 
+true numbers of maternal deaths may require additional special investigations into the causes 
+of death (Appendix 1). A specific example of such an investigation is the Confidential Enquiry 
+into Maternal Deaths (CEMD), a system established in England and Wales in 1928 (12,13). The 
+most recent report of the CEMD (for 2006–2008) identified 60% more maternal deaths than 
+were reported in the routine civil registration system (14). Other studies on the accuracy of 
+the number of maternal deaths reported in civil registration systems have shown that the true 
+number of maternal deaths could be twice as high as indicated by routine reports, or even 
+more (15,16). Appendix 1 summarizes the results of a literature review (updated January 2014) 
+for such studies where misclassification on coding in civil registration could be identified.
+These studies are diverse, depending on the definition of maternal mortality used, the 
+sources considered (death certificates, other vital event certificates, medical records, 
+questionnaires or autopsy reports) and the way maternal deaths are identified (record 
+linkage or assessment from experts). In addition, the system of reporting causes of death to 
+a civil registry differs from one country to another, depending on the death certificate forms, 
+the type of certifiers and the coding practice. These studies have estimated underreporting 
+of maternal mortality due to misclassification in death registration data, ranging from 0.85 to 
+5.0, with a median value of 1.5.
+Underreporting of maternal deaths was more common among:
+• early pregnancy deaths, including those not linked to a reportable birth outcome;
+• deaths in the later postpartum period (these were less likely to be reported than early 
+postpartum deaths);
+• deaths at extremes of maternal age (youngest and oldest);
+• miscoding by the ICD-9 or ICD-10, most often seen in cases of deaths caused by:
+ – cerebrovascular diseases;
+ – cardiovascular diseases.
+Potential reasons cited for underreporting/misclassification include:
+• inadequate understanding of the ICD rules (either ICD-9 or ICD-10);
+• death certificates completed without mention of pregnancy status;
+• desire to avoid litigation;
+• desire to suppress information (especially as related to abortion deaths).
+<<<PAGE=18>>>
+8
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+The definitions of misclassification, incompleteness and underreporting of maternal deaths 
+are shown in Box 3.
+Box 3
+Definitions of misclassification, incompleteness and underreporting
+Misclassification
+refers to incorrect coding in civil registration, due either to error in the medical certification of 
+cause of death or error in applying the correct code.
+Incompleteness
+refers to incomplete death registration. includes both the identification of individual deaths in 
+each country and the national coverage of the register.
+Underreporting
+is a combination of misclassification and incompleteness.
+In the absence of complete and accurate civil registration systems, MMR estimates are based 
+on data from a variety of sources – including censuses, household surveys, reproductive-age 
+mortality studies (RAMOS) and verbal autopsies. Each of these methods has limitations in 
+estimating the true levels of maternal mortality. Brief descriptions of these methods together 
+with their limitations are shown in Box 4.
+Box 4  
+Approaches to measuring maternal mortality
+Civil registration system (12,16)
+this approach involves routine registration of births and deaths. ideally, maternal mortality 
+statistics should be obtained through civil registration data. however, even where coverage is 
+complete and the causes of all deaths are identified based on standard medical certificates, in 
+the absence of active case finding, maternal deaths may be missed or misclassified; and therefore 
+confidential enquiries are used to identify the extent of misclassification and underreporting. 
+Household surveys (17,18)
+demographic and health surveys (dhs) and multiple indicator cluster surveys – round 4 
+(mics4) employ the direct ‘sisterhood’ method using household survey data. this method obtains 
+information by interviewing a representative sample of respondents about the survival of all 
+their siblings (to determine the age of all siblings, how many are alive, how many are dead, age 
+at death and year of death of those dead, and among sisters who reached reproductive age, how 
+many died during pregnancy, delivery or within two months of pregnancy). this approach has 
+the following limitations:
+• identifies pregnancy-related deaths, rather than maternal deaths.
+• Produces estimates with wide confidence intervals, thereby diminishing opportunities for 
+trend analysis.
+• Provides a retrospective rather than a current maternal mortality estimate (referring to a 
+period approximately five years prior to the survey); the analysis is more complicated.
+<<<PAGE=19>>>
+9
+Trends in maternal mortality 1990 to 2013
+Box 4  
+Approaches to measuring maternal mortality
+Census (19,20)
+A national census, with the addition of a limited number of questions, could produce estimates 
+of maternal mortality. this approach eliminates sampling errors (because all women are covered) 
+and hence allows a more detailed breakdown of the results, including trend analysis, geographic 
+sub-divisions and social strata. characteristics and limitations of a census are:
+• this approach allows identification of deaths in the household in a relatively short reference 
+period (1–2 years), thereby providing recent maternal mortality estimates, but is conducted at 
+10-year intervals and therefore limits monitoring of maternal mortality.
+• identifies pregnancy-related deaths (not maternal deaths); however, if combined with verbal 
+autopsy, maternal deaths could be identified.
+• training of enumerators is crucial, since census activities collect information on a range of 
+other topics unrelated to maternal deaths.
+• results must be adjusted for characteristics such as completeness of death and birth statistics 
+and population structures, in order to arrive at reliable estimates.
+Reproductive-age mortality studies (RAMOS) (17,18)
+this approach involves identifying and investigating the causes of all deaths of women of 
+reproductive age in a defined area/population, by using multiple sources of data (e.g. interviews 
+of family members, civil registrations, health-facility records, burial records, traditional birth 
+attendants), and has the following characteristics and limitations:
+• multiple and varied sources of information must be used to identify deaths of women of 
+reproductive age; no single source identifies all the deaths.
+• interviews with household members and health care providers and reviews of facility records 
+are used to classify the deaths as maternal or otherwise.
+• if properly conducted, this approach provides a fairly complete estimation of maternal 
+mortality (in the absence of reliable routine registration systems) and could provide sub-
+national mmrs. however, inadequate identification of all deaths of reproductive-aged women 
+results in underestimation of maternal mortality levels.
+• this approach can be complicated, time-consuming, and expensive to undertake – particularly 
+on a large scale.
+• the number of live births used in the computation may not be accurate, especially in settings 
+where most women deliver at home.
+Co nt ’d
+<<<PAGE=20>>>
+10
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Box 4  
+Approaches to measuring maternal mortality
+Verbal autopsy (21–23)
+this approach is used to assign cause of death through interviews with family or community 
+members, where medical certification of cause of death is not available. verbal autopsies may be 
+conducted as part of a demographic surveillance system maintained by research institutions that 
+collect records of births and deaths periodically among small populations (typically in a district). 
+this approach may also be combined with household surveys or censuses. in special versions, 
+and in combination with software that helps to identify the diagnosis, verbal autopsy is suitable 
+for routine use as an inexpensive method in populations where no other method of assessing the 
+cause of death is in place. the following limitations characterize this approach:
+• misclassification of causes of deaths in women of reproductive-age is not uncommon with this 
+technique.
+• it may fail to identify correctly a group of maternal deaths, particularly those occurring early in 
+pregnancy (e.g. ectopic, abortion-related) and indirect causes of maternal death (e.g. malaria).
+• the accuracy of the estimates depends on the extent of family members’ knowledge of the 
+events leading to the death, the skill of the interviewers, and the competence of physicians 
+who do the diagnosis and coding. the latter two factors are largely overcome by the use of 
+software.
+• detailed verbal autopsy for research purposes that aims to identify the cause of death of an 
+individual requires physician assessment and long interviews. such systems are expensive to 
+maintain, and the findings cannot be extrapolated to obtain national mmrs. this limitation 
+does not exist where simplified verbal autopsy is aiming to identify causes at a population 
+level and where software helps to formulate the diagnosis.
+Co nt ’d
+<<<PAGE=21>>>
+11
+Trends in maternal mortality 1990 to 2013
+3 Methodology for the 1990–2013 estimates of maternal 
+mortality
+The methodology employed in this round followed that used in the 2008 and 2010 exercises 
+but included updated data inputs (4, 5, 24, 25). A description of sources of data is presented 
+next, followed by the methods used depending on the data source. The main differences in 
+the methods used to produce the current estimates and previous publications are highlighted.
+3.1 Sources of country data used for the 1990–2013 estimates
+Data related to maternal mortality and covariates that were made available during the 
+country consultation process (in July 2013), or obtained through databases maintained by 
+UNAIDS, UNICEF, UNPD, WHO, The World Bank and the Center for International Comparisons 
+at the University of Pennsylvania, United States were included in the estimates. New data 
+were included until mid-January 2014. As the trend from 1990 to 2013 is estimated, the time 
+reference of the data gathered starts from 1985, in order to fully cover the period around 
+1990. Deaths due to AIDS were obtained from UNAIDS (2012 estimates published in 2013) 
+(26); deaths among women aged 15–49 years from WHO life tables (27); live births from 
+UNPD (28); the presence of a skilled attendant at birth (SAB) as a proportion of live births 
+from UNICEF (29); and gross domestic product per capita (GDP), measured in purchasing 
+power parity (PPP), from The World Bank (30), Penn World Tables (31) and WHO (unpublished 
+data, health systems and information). These agencies revise their databases and estimates 
+on a regular basis, to take into account new data and improved methods.
+Maternal mortality data from civil registration were extracted primarily from the WHO 
+Mortality Database (http://www.who.int/healthinfo/mortality_data/en/) for the years 
+1985 and onwards. For civil registration data using the ICD-9, deaths from Chapter X 
+Complication of pregnancy, childbirth and the puerperium (codes 630–676) were included. 
+For civil registration data using the ICD-10, deaths from Chapter XV Pregnancy, childbirth 
+and the puerperium (codes O00–O99) plus maternal tetanus (A34) were extracted in order 
+to match the ICD-9, which does not specifically identify late maternal deaths. To maintain 
+comparability between these data sets, maternal deaths coded as late maternal deaths 
+(ICD-10 codes O96, O97) were not excluded in the total numbers of maternal deaths. These 
+late maternal deaths accounted globally for only 1–2% of the deaths coded with the ICD-10.
+Periodic population-based surveys (such as DHS and MICS4) and censuses have collected 
+information on maternal deaths using recent deaths in the household, reported in the 
+time period specified for the survey prior to the actual dates of data collection or the direct 
+sisterhood method. Studies have shown that reported deaths in the household surveys 
+may lead to biased estimates of levels of maternal mortality (32, 33). Two alternative 
+measures of maternal mortality can typically be extracted from surveys. The first, the MMR, 
+incorporates information on maternal deaths and live births, but tends to be systematically 
+biased downward due to underreporting of deaths. The second, the PM, reflects the ratio of 
+maternal deaths to total female deaths and, because both numerator and denominator tend 
+to be biased in the same direction and to a similar degree, the PM is relatively unbiased. For 
+this reason, the PM is the preferred measure of maternal mortality from surveys when both 
+the MMR and PM are available.
+<<<PAGE=22>>>
+12
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+A total of 183 countries and territories were included in this study, representing 99.7% of 
+global births; countries and territories with populations under 100 000 in 2013 have not 
+been included. In total, the database of observed MMR and PM includes 3347 country-years 
+of data, of which 2121 country-years are derived from civil registration data, 1004 from 
+survey-based sisterhood data, and the remainder from surveillance systems (119), other 
+household surveys (46), censuses (18), sample registration systems (17) and other sources 
+(22). Observation intervals refer to 1985 or later. Only national-level studies were included 
+in the database, except those considered inadequate in terms of data quality or lacking the 
+necessary information.
+3.2 Methods used to estimate maternal mortality ratio in 
+1990–2013 according to data source
+Two broad strategies were followed to develop maternal mortality estimates for 183 
+countries and territories. To determine how MMRs were estimated for each country, we 
+classified countries according to the availability and quality of maternal mortality data.
+Following the group classifications from the 2008 and 2010 rounds, we continued to classify 
+countries into groups A, B, or C (Table 1). For Group A countries, data from civil registration 
+systems were used directly to calculate estimates of MMR. For countries in Groups B and C, a 
+two-part multi-level regression model was developed to estimate MMRs for all target years.
+Table 1. Sources of maternal mortality data used in generating the 2013 maternal mortality 
+ratio estimates
+Group Source of maternal mortality data Number of 
+countries/
+territories
+% of 
+countries/
+territories 
+in each 
+category
+% of births 
+in 183 
+countries/
+territories 
+covered
+A civil registration characterized as 
+complete, with good attribution 
+of cause of death
+a
+67 37 17
+b incomplete civil registration and/
+or other types of data 
+96 52 81
+c no national data 20 11 2
+total 183 100 100
+a For Bahamas, Belgium, Iceland, Malta, Saint Lucia and Saint Vincent and the Grenadines (0.1% of global births), the statistical 
+multi-level regression model was used to obtain maternal mortality estimates because the scarce number of maternal mortality 
+events resulted in erratic trends.
+We considered a range of maternal mortality data, including national-level data from civil 
+registration, surveys, surveillance systems, censuses, RAMOS, sample registration systems 
+and others. A further classification scheme for countries with civil registration systems was 
+developed to determine how civil registration data were used in the maternal mortality 
+estimation. Box 5 describes the three types of classification groups for civil registration data,
+<<<PAGE=23>>>
+13
+Trends in maternal mortality 1990 to 2013
+according to specified criteria (Groups 1, 2, and 3). Countries that met the most restrictive 
+criteria (Group 1) were classified as Group A countries. For six countries in Group A (Belgium, 
+Bahamas, Iceland, Malta, Saint Lucia and Saint Vincent and the Grenadines), which have 
+good-quality data from the civil registration systems but very few numbers of maternal 
+deaths for the target periods (1990, 1995, 2000, 2005, 2010 and 2013), the multi-level 
+regression model was used to generate estimates for all time periods.
+Civil registration data belonging to Groups 1 and 2 were included in the multi-level 
+regression model, whereas civil registration data in Group 3 were considered deficient and 
+not included in the model. All non-Group A countries with either civil registration data of 
+acceptable quality (Group 2) or other sources of quality data were classified as Group B 
+countries. Countries with no data of acceptable quality were classified as Group C countries.
+The steps taken for estimating maternal mortality with these strategies are summarized 
+below. A description of the core methodology (24), data sets including input data sets for 
+each country by type of data source, and the statistical analysis code used to prepare these 
+estimates, are made available at the WHO web site: www.who.int/reproductivehealth/
+publications/monitoring/maternal-mortality-2013/en/index.html.
+Box 5
+Classification of civil registration data quality 
+Group 1 criteria
+• earliest year of data available is before 1996.
+• latest year of data available is after 2007.
+• number of years of data >0.5 *(max year – min year + 1).
+• estimated completeness ≥0.85 for all years, or at most all except one or two years.
+• deaths coded to ill-defined causes (i.e. r codes in icd-10) did not exceed 20% or exceeded 
+20% for only one or two years.
+Group 2 criteria
+• estimated completeness ≥ 0.60 and < 0.85 for all years, or at most all except one or two years.
+• deaths coded to ill-defined causes (i.e. r codes in icd-10) did not exceed 20% or exceeded 
+20% for only one or two years.
+Group 3 criteria
+• estimated completeness <0.85 for all years, or at most all except one or two years.
+• deaths coded to ill-defined causes (i.e. r codes in icd-10) exceeded 20% for all or almost 
+all years.
+<<<PAGE=24>>>
+14
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Estimation of maternal mortality ratio from Group 1 civil registration data 
+(Group A)
+As noted above, mortality data from civil registration were extracted from the WHO Mortality 
+Database. These data were used directly to estimate maternal mortality for 61 of the 67 
+countries that met the criteria of Group 1 in Box 5 (see Appendix 2 for the list of countries).
+For these countries, MMR estimates were calculated directly after adjusting the numbers 
+of maternal deaths for completeness and misclassification. Completeness refers to the 
+extent of death registration, while misclassification refers to incorrect coding in civil 
+registration systems. In assessing completeness, deaths of unknown age were distributed 
+over the age range in proportion to the number of reported deaths where the age was 
+known. Completeness was then assessed and adjusted by methods described by Mathers 
+et al in 2005 (34). To further adjust for underreporting of maternal deaths due to potential 
+misclassification, the numbers of maternal deaths were multiplied by a factor of 1.5, or by a 
+country-specific factor where appropriate evidence is available. The default factor of 1.5 was 
+derived from previous studies (Appendix 1).
+Having adjusted the numbers of maternal deaths for misclassification and completeness, 
+the maternal mortality estimates were computed as follows: for the target years t = 1990, 
+1995, 2000, 2005, 2010 and 2013 the number of maternal deaths and the corresponding live 
+births were pooled for the 5-year periods, i.e. years t – 2 to t + 2 (35). For the target year 2013, 
+data were pooled from the years 2010, 2011, 2012 (2013 data were not available).The pooled 
+maternal deaths were divided by the pooled live births.
+For any 5-year period where no deaths are reported, the best estimates and uncertainty 
+bounds from the main statistical model (multi-level regression model) were rescaled and 
+used. For example, if no civil registration data were reported in a country after 2010, the 
+estimate for the period 2011–2015 with a reference year 2013 was based on the multi-level 
+model estimate for that period, multiplied by a rescaling factor R, where R was given by 
+the ratio of the estimated MMR based on civil registration data and the multi-level model 
+estimate for the previous 5-year period. By using this approach, the MMR estimate for future 
+periods is informed by the estimated level in the most recently observed period and the 
+projected rate of change from the multi-level model.
+Estimation of maternal mortality ratio using a statistical model (Groups B and C)
+For the majority of countries with limited or no reliable maternal mortality data, the multi-
+level regression model as developed in the 2008 round of MMR estimates (24) was used 
+to derive estimates and projections of maternal mortality with updated information in 
+maternal mortality and in covariates. The model permits an integrated comparison of trends 
+over the full interval, from 1990 to 2013, for 5-year intervals centred on 1990, 1995, 2000, 
+2005, 2010 and 2013. The full model includes two parts: the first part is a multi-level linear 
+regression model that predicts the PM due to direct obstetric causes or to indirect causes 
+(other than AIDS) for which pregnancy was a substantial aggravating factor; the second 
+part estimates the proportion of AIDS deaths that qualify as indirect maternal deaths out 
+of the total number of AIDS deaths among women aged 15–49 years. The three selected 
+predictor variables in the regression model are: GDP , the general fertility rate (GFR) and SAB. 
+These predictor variables were chosen from a broader list of potential predictor variables
+<<<PAGE=25>>>
+15
+Trends in maternal mortality 1990 to 2013
+that fell into three groups: (i) indicators of social and economic development (such as GDP , 
+human development index, and female life expectancy at birth); (ii) process variables (SAB, 
+proportion of women receiving antenatal care, proportion of institutional births, etc.); and 
+(iii) risk exposure as a function of fertility (GFR or the total fertility rate).
+Annual series of predictor variable estimates
+A complete series of annual estimates for each of the three covariates was obtained or 
+constructed between 1985 and 2013. Weighted averages of annual values were then 
+computed for time intervals corresponding to each of the PM or MMR observations, using an 
+algorithm described elsewhere (24).
+GDP per capita measured in PPP or equivalent international dollars using 2005 as the base 
+year were derived from The World Bank (30). Where a complete series was unavailable, annual 
+estimates were obtained using linear interpolation between two observations, and assuming 
+constant values before the first observation and after the last data point.
+GFR estimates were calculated using annual series of live births and the populations of 
+women aged 15–49 years, which were constructed using estimates from UNPD (28).
+SAB coverage estimates consist of time series derived using data from household surveys 
+and other sources, obtained from a database maintained by UNICEF. Although other sources 
+of SAB data were consulted, only the UNICEF data were used because they adhere strictly 
+to the indicator’s definition (29). Annual series were estimated by fitting a regression model 
+with time as the sole predictor for the logit (log-odds) of SAB; such a model was estimated 
+separately for each country. For countries with only one observation or no available SAB data, 
+the SAB annual series were estimated using a multi-level model. In the multi-level model, 
+logit (or log-odds) of observed SAB proportions for all countries were regressed against time. 
+The model included region- and country-specific intercepts and slopes. The country-specific 
+estimates of the intercept and slope were used to construct SAB estimates for countries 
+with at least one data point, while the region-specific estimates of the intercept and slope 
+were used to construct SAB estimates for countries without data. The multi-level model was 
+also used in the following cases: 1) among series with more than one observation, when 
+the observed change between the first and last observations was less than 20% and either 
+the earliest year observed was after 1995 or the observation period was less than five years; 
+2) among series with two observations, the observed change was greater than 30% and the 
+observed period was greater than two years; and 3) among series with two observations 
+where the observed change was less than 5% and either the earliest year observed was after 
+1995 or the observation period was less than eight years.
+Description of input data
+Observed PMs from sisterhood data were age-standardized by imposing the age distribution 
+of women in the sample population at the time of survey (rather than the age distribution 
+implied by retrospective reports of sisters’ lives). If only the MMR was available from a data 
+source, the MMR was converted into a PM using estimates of all-cause deaths of women 
+aged 15–49 years, derived from WHO life tables (27), and live births data from UNPD (28).
+<<<PAGE=26>>>
+16
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Where observations were derived from death registration data meeting Group 1 and Group 2 
+criteria in Box 5, adjusted MMRs were derived from PMs calculated for five-year averages and 
+adjusted for misclassification. These five-year reference periods were determined by the last 
+observed year of death registration data.
+Adjustments to the input data
+Prior to being used in the regression model, several adjustment factors were applied to 
+all maternal mortality observations, to take into account the likely under identification of 
+maternal deaths due to unreported abortion-related deaths or other causes.
+Deaths from civil registration were adjusted upwards (by a factor of 1.5 by default or by a 
+country-specific misclassification factor as noted earlier, see Appendix 1) for misclassification 
+and then divided by the number of deaths of women aged 15–49 years to derive the PM. 
+Observed deaths from other sources (e.g. surveys, surveillance systems, censuses, RAMOS, 
+sample registration system and others) were adjusted upwards by a factor of 1.1 (24).
+In addition, in order to improve the comparability of data inputs in terms of the definition, 
+as some referred to maternal deaths and others to pregnancy-related deaths, pregnancy-
+related deaths were adjusted down by removing a fraction of deaths that were assumed to 
+be pregnancy related but not maternal (i.e. accidental or incidental deaths). Although the 
+true fraction is typically unknown, an examination of studies that collected information on 
+both maternal and pregnancy-related mortality showed average fractions of about 10–15%. 
+The numbers of pregnancy-related deaths were therefore adjusted downwards by 10% for 
+countries in sub-Saharan Africa and – because data on injury-related deaths (35) suggest higher 
+risks outside of sub-Saharan Africa – maternal deaths were adjusted downwards by 15%.
+Multi-level regression model
+A multi-level linear regression model was used for deriving non-AIDS MMR estimates for 
+122 countries (all Group B and C countries as well as six Group A countries as explained 
+previously), using available observations of PM from Group A and B countries. In earlier work 
+(24), a range of models were compared and the preferred model was chosen by assessing 
+the statistical goodness of fit, the within-sample predictive accuracy and the plausibility of 
+estimates out-of-sample. Goodness of fit was measured using deviance scores derived from 
+standard log-likelihood calculations. The predictive accuracy of each model was evaluated 
+by repeatedly holding out a portion of the data, fitting the model to the remaining subset of 
+data and then comparing model predictions against the data that had been held out.
+<<<PAGE=27>>>
+17
+Trends in maternal mortality 1990 to 2013
+The model was fitted with three selected covariates (GDP , GFR and SAB) and random 
+intercept effects for countries and regions. It can be described as follows:
+log(PMina) = β0 + β1 log(GDPi) + β2 log(GFRi) + β3 SABi + α
+c
+j [ i ]
+  + α
+R
+K[ i ]
+ + εi
+where the following are associated with each observation i, within country j[i], within region k[i]:
+PMina = proportion of maternal among non-AIDS deaths in women aged 15–49 years 
+(non-AIDS PM)
+GDPi = gross domestic product per capita (in 2005 PPP dollars)
+GFRi = general fertility rate (live births per woman aged 15–49 years)
+SABi = skilled attendant at birth (as a proportion of live births)
+α
+c
+j [ i ]  = variable intercept component for country j
+α
+R
+K[ i ]
+ = variable intercept component for region k
+εi  = error.
+The model was estimated using the lme4 package (36) in R statistical software (37).
+Only non-AIDS-related maternal deaths are included in the dependent variable of the 
+regression model, PMna. The adjustment to the PM to remove AIDS deaths minimizes the 
+influence of the HIV epidemic on observed PM values by removing AIDS deaths from both 
+the numerator and the denominator. The methodology employed to remove AIDS deaths 
+was unchanged from the previous revision; the adjustment parameters were updated in light 
+of new data (see Appendix 5 for details).
+Weights were not used in the model to adjust for differential uncertainty of observations. 
+However, the weights of civil registration observations were implicitly reduced by a factor of 
+five because these observations were collapsed into five-year time periods, and each such 
+observation received a weight of one in the regression model. This approach was adopted to 
+avoid giving excessive weight to civil registration data, which tend to come from countries 
+where maternal mortality levels are low. Most other data sources (a single survey, census, 
+special study, etc.) yielded a single observation that also refers to a multiple-year time period; 
+such observations also received a weight of one in the regression model. Some surveys, 
+however, yielded more than one data point for multiple time periods; in such cases all of the 
+various observations were included in the model but with a combined weight of one.
+To predict PM using the model, country covariate data and relevant country and regional 
+effects were used. To estimate the multi-level regression model, countries were grouped 
+into regions according to the global categories used by the UN Statistics Division (38). For 
+countries with data available on maternal mortality, predictions of non-AIDS PM were based 
+on country and regional random effects, whereas for countries with no available data, 
+predictions used regional random effects only. For Indonesia, non-AIDS PM estimates were 
+obtained by fitting the same model as described above but using fixed country intercepts 
+and random coefficients for the predictor variables to obtain a better fit to the available data.
+<<<PAGE=28>>>
+18
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+After a final adjustment to add back the AIDS-related indirect maternal deaths to the PM (see 
+below), the final PM values were converted to estimates of the MMR as follows:
+ MMR = PM (D/B)
+where D is the number of deaths in women aged 15–49 years estimated from WHO death 
+rates (27) and UNPD population estimates (28) and B is the number of live births from UNPD 
+population estimates (28).
+Estimation of AIDS-related indirect maternal deaths
+There is evidence from community studies that HIV-positive women have a higher risk of 
+maternal death, although this may be offset by lower fertility (39–41). If HIV is prevalent, 
+then there will also be more AIDS deaths2 among pregnant women that were incidental 
+to pregnancy. It is thus important to address the issue of incidental and indirect maternal 
+deaths among HIV-positive women, in estimating maternal mortality for these countries.
+The dependent variable of the regression model described above includes only direct 
+maternal deaths, but excludes all AIDS deaths from ’pregnancy-related‘ observations 
+(even AIDS deaths that could properly be termed ’indirect maternal’ , in the sense that 
+the pregnancy was a substantial aggravating factor for a death caused primarily by HIV 
+infection). Thus, the regression model was used to estimate the number of maternal deaths 
+not primarily due to HIV infection, and then the estimated number of AIDS-related indirect 
+maternal deaths was added back to obtain the total number of maternal deaths (see 
+Appendix 5 for details and an overview of changes in adjustment values).
+Uncertainty of estimates
+In this report, estimates of maternal mortality are presented along with upper and lower 
+limits designed to depict the uncertainty of those estimates. The intervals are the product of 
+a detailed probabilistic evaluation of the uncertainty attributable to the various components 
+of the estimation process. The components of uncertainty can be divided into two groups: 
+variability within the regression model (internal sources) and variability due to assumptions 
+or calculations outside the model (external sources). Estimates of the total uncertainty reflect 
+a combination of these various sources.
+The internal component quantifies inferential uncertainty including variability in all elements 
+of the multi-level regression model for deriving best estimates for individual countries 
+(Groups B and C) and stochastic variability of estimates derived for countries with good civil 
+registration data (Group A). Another internal component, predictive uncertainty associated 
+with individual data points, was not included in the evaluation. The external component, 
+on the other hand, includes uncertainty regarding assumptions about key parameters that 
+are inputs into the estimation process (e.g. adjustment factors applied to observed data), as 
+well as uncertainty about data inputs used for calculations that occur outside the regression 
+model (e.g. estimated births, deaths and fraction of AIDS deaths).
+2 The deaths referred to in this document as ‘AIDS deaths’ are referred to as ‘AIDS deaths’ in Joint United Nations Programme 
+on HIV/AIDS (UNAIDS) publications. These deaths include the estimated number of deaths related to HIV infection, including 
+deaths that occur before reaching the clinical stage classified as AIDS.
+<<<PAGE=29>>>
+19
+Trends in maternal mortality 1990 to 2013
+For estimates computed directly from civil registration data, the level of uncertainty includes 
+both an external component, i.e. variability due to inputs and assumptions, and an internal 
+component of stochastic uncertainty related to random variation of maternal deaths 
+recorded in civil registration.
+To obtain the uncertainty intervals presented here, simulations of values using probability 
+distributions were performed to depict internal and external components of variability. For 
+the internal component, the regression model was estimated and simulations of parameter 
+coefficients were performed. Using the simulated results, the distribution of the dependent 
+variable was approximated in order to quantify the inferential uncertainty computed 
+using lme4 in the R Statistical Package (36, 37). For the external component, probability 
+distributions were set after considering a range of plausible alternatives and assessing 
+the sensitivity of final estimates to choices within that range. It is worth noting that the 
+uncertainty due to the external component is relatively small compared to the internal 
+component; thus, the uncertainty due to choices of adjustment factors and unknown 
+parameters appears rather small compared with the variability of observed data points 
+around estimates of the regression model.
+Using the distributions of the simulated estimates, 95% uncertainty intervals were derived 
+from the 2.5th and 97.5th percentiles. Further details on estimating uncertainty levels can be 
+found in Wilmoth et al. (2012) (24), or on the WHO website.
+3
+3.3 Computation of adult lifetime risk of maternal mortality
+In countries where there is a high risk of maternal death, there is also an elevated likelihood 
+of girls dying even before reaching reproductive age. For this reason, it makes sense to 
+consider the lifetime risk of maternal mortality conditional on survival to adulthood. 
+Information presented here includes a synthetic estimate of adult lifetime risk of maternal 
+mortality, corresponding to the probability of a 15-year-old woman eventually dying from a 
+maternal cause, assuming she is subjected throughout her lifetime to the age-specific risks of 
+maternal death observed for a given population in a given year.
+The adult lifetime risk of maternal mortality can be derived using either the MMR or the 
+MMRate. However, a precise estimate of lifetime risk requires knowledge of how the MMR or 
+the MMRate changes within the reproductive lifespan of women. Although such information 
+is not generally available, it can be assumed that neither the MMR nor the MMRate is 
+constant over the reproductive lifespan. Because this assumption is more realistic for the 
+MMRate than for the MMR, the adult lifetime risk was calculated using the MMRate as shown 
+in Box 6. This formula yields an estimate of the adult lifetime risk that takes into account 
+competing causes of death.
+3 See: www.who.int/reproductivehealth/publications/monitoring/maternal-mortality-2013/en/index.html
+<<<PAGE=30>>>
+20
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Box 6 
+Formula for estimating adult lifetime risk of maternal mortality
+Adult lifetime risk of maternal mortality =   T15 – T50
+ × MMRateℓ15
+where ℓ15 equals the probability of survival from birth until age 15 years, and (T15 – T50)/ℓ15 
+equals the average number of years lived between ages 15 and 50 years (up to a maximum of 
+35 years) among survivors to age 15 years. the values for ℓ15, T15 and T50 are life-table quantities 
+for the female population during the period in question.
+3.4 Global and regional estimates
+Global and regional maternal mortality estimates (according to the MDG, UNFPA, UNICEF, 
+UNPD, WHO and The World Bank regional groupings) were also computed. The MMR in a 
+given region was computed as the estimated total number of maternal deaths divided by the 
+number of live births for that region. Additionally, the adult lifetime risk of maternal mortality 
+was based on the weighted average of (T
+15 – T50)/ℓ15 for a given region, multiplied by the 
+MMRate of that region.
+3.5 Methodological updates
+Generally, the methods used for the 2013 maternal mortality estimation were similar to those 
+for 2008 (5) and 2010 (4). The main differences were related to data availability and treatment 
+of maternal deaths due to HIV. The 2013 round draws from an expanding global database of 
+empirical observations consisting of 3347 country-years of data compared to 3200 country-
+years of data in the 2010 round, a 5% increase.
+Estimates of total female deaths in the reproductive age group for WHO Member States were 
+revised from those used in the 2010 revision (27) to take into account new evidence and 
+data on levels of adult mortality. This is a regular updating process carried out by WHO, with 
+revised estimates published annually in the World Health Statistics (http://www.who.int/gho/
+publications/world_health_statistics/en/). These revisions have resulted in revisions to MMRs 
+estimated for a number of Member States, in some cases for countries where the survey data 
+available for maternal deaths have not changed.
+New series of live birth and GFR data were obtained from the World Population Prospects 
+2012 revision (28). AIDS adjustment parameters were updated in light of new data (see 
+Appendix 5).
+<<<PAGE=31>>>
+21
+Trends in maternal mortality 1990 to 2013
+4 Results
+Globally, the maternal mortality ratio (MMR) has fallen by 45% between 1990 and 2013. All 
+MDG regions of the world have experienced considerable reductions in maternal mortality. 
+There were an estimated 289 000 maternal deaths in 2013, yielding an MMR of 210 maternal 
+deaths per 100 000 live births among the 183 countries and territories that were covered in 
+this analysis. The global adult lifetime risk of maternal mortality (i.e. the probability that a 
+15-year-old woman will die eventually from a maternal cause) was 1 in 190 in 2013 (Table 2).
+4.1 Maternal mortality estimates for 2013
+Table 2 displays estimates of the global and regional maternal mortality indicators including 
+the MMR, the range of uncertainty of MMR, the number of maternal deaths and the lifetime 
+risk. The uncertainty ranges demonstrate that although a point estimate is presented, the 
+true MMR could be somewhere between the lower and upper uncertainty limits.
+Developing countries account for 99% (286 000) of the global maternal deaths with sub-
+Saharan Africa region alone accounting for 62% (179 000) followed by Southern Asia (69 000). 
+Oceania is the region with the fewest maternal deaths at 510.
+The MMR in developing regions (230) was 14 times higher than in developed regions (16). 
+MMR is considered to be high if it is ≥300–4994 maternal deaths per 100 000 live births and 
+extremely high if it is ≥1000 maternal deaths per 100 000 live births. While none of the MDG 
+regions had extremely high MMR, sub-Saharan Africa was the only MDG developing region 
+with very high MMR (510). Of the remaining MDG developing regions, five had low MMR 
+Eastern Asia (33), Caucasus and Central Asia (39), Northern Africa (69), Western Asia (74), and 
+Latin America and the Caribbean (85).The remaining MDG developing regions, which had 
+moderate MMR, are South-eastern Asia (140), Southern Asia (190), and Oceania (190).
+The adult lifetime risk of maternal mortality in women from sub-Saharan Africa was the 
+highest at 1 in 38, in sharp contrast to 1 in 3700 among women in developed countries.
+Country-level estimates are shown in Annex 1. Two countries accounted for one third of all 
+global maternal deaths: India at 17% (50 000) and Nigeria at 14% (40 000). The ten countries 
+that comprised 58% of the global maternal deaths reported in 2013 are: India (50 000, 17%); 
+Nigeria (40 000, 14%); Democratic Republic of the Congo (21 000, 7%); Ethiopia (13 000, 4%);  
+Indonesia (8800, 3%); Pakistan (7900, 3%); United Republic of Tanzania (7900, 3%); 
+Kenya (6300, 2%); China (5900, 2%); Uganda (5900, 2%). 
+4 Extremely high MMR (maternal deaths per 100 000 live births) ≥1000, very high MMR 500–999, high MMR 300–499, moderate 
+MMR 100–299, low MMR <100.
+<<<PAGE=32>>>
+22
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Table 2. Estimates of maternal mortality ratio (MMR, maternal deaths per 100 000 live births), 
+number of maternal deaths, and lifetime risk, by United Nations MDG region, 2013
+Region MMRa Range of MMR uncertainty Number of 
+maternal 
+deathsa
+Lifetime risk of 
+maternal deatha
+1 in:Lower estimate Upper estimate
+world 210 160 290 289000 190
+developed regionsb 16 12 23 2300 3700
+developing regions 230 180 320 286 000 160
+northern Africac 69 47 110 2700 500
+sub-saharan Africad 510 380 730 179 000 38
+eastern Asiae 33 21 54 6400 1800
+eastern Asia  
+excluding china
+54 35 97 480 1200
+southern Asiaf 190 130 280 69 000 200
+southern Asia  
+excluding india
+170 110 270 19 000 210
+south-eastern Asiag 140 98 210 16 000 310
+western Asiah 74 50 120 3600 450
+caucasus and  
+central Asiai
+39 31 53 690 940
+latin America and 
+the caribbean
+85 66 120 9300 520
+latin Americaj 77 59 110 7900 570
+caribbeank 190 130 310 1400 220
+oceanial 190 100 380 510 140
+a The MMR, number of maternal deaths, and lifetime risk have been rounded according to the following scheme: <100, no 
+rounding; 100–999, rounded to nearest 10; 1000–9999, rounded to nearest 100; and >10 000, rounded to nearest 1000.
+b Albania, Australia, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, 
+Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Israel, Italy, Japan, Latvia, Lithuania, Luxem-
+bourg, Malta, Montenegro, The Netherlands, New Zealand, Norway, Poland, Portugal, Republic of Moldova, Romania, Russian 
+Federation, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, The former Yugoslav Republic of Macedonia, Ukraine, United 
+Kingdom of Great Britain and Northern Ireland, United States of America.
+c Algeria, Egypt, Libya, Morocco, Tunisia.
+d Angola, Benin, Botswana, Burkina Faso, Burundi, Cameroon, Cabo Verde, Central African Republic, Chad, Comoros, Congo, 
+Côte d’Ivoire, Democratic Republic of the Congo, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, 
+Guinea-Bissau, Kenya, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mozambique, Namibia, Niger, Nigeria, 
+Rwanda, Sao Tome and Principe, Senegal, Sierra Leone, Somalia, South Africa, South Sudan, Sudan, Swaziland, Togo, Uganda, 
+United Republic of Tanzania, Zambia, Zimbabwe.
+e China, Democratic People’s Republic of Korea, Mongolia, Republic of Korea.
+f Afghanistan, Bangladesh, Bhutan, India, Iran (Islamic Republic of), Maldives, Nepal, Pakistan, Sri Lanka.
+g Brunei Darussalam, Cambodia, Indonesia, Lao People’s Democratic Republic, Malaysia, Myanmar, The Philippines, Singapore, 
+Thailand, Timor-Leste, Viet Nam.
+h Bahrain, Iraq, Jordan, Kuwait, Lebanon, Occupied Palestinian Territory, Oman, Qatar, Saudi Arabia, Syrian Arab Republic, Turkey, 
+United Arab Emirates, Yemen.
+i Armenia, Azerbaijan, Georgia, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan.
+j Argentina, Belize, Bolivia (Plurinational State of), Brazil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Guyana, 
+Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Suriname, Uruguay, Venezuela (Bolivarian Republic of).
+k Bahamas, Barbados, Cuba, Dominican Republic, Grenada, Haiti, Jamaica, Puerto Rico, Saint Lucia, Saint Vincent and the 
+Grenadines, Trinidad and Tobago.
+l Fiji, Kiribati, Micronesia (Federated States of), Papua New Guinea, Samoa, Solomon Islands, Tonga, Vanuatu.
+<<<PAGE=33>>>
+23
+Trends in maternal mortality 1990 to 2013
+Of the 40 countries with the highest MMR in 2013, Sierra Leone is estimated to have the 
+highest, with an MMR of 1100. As shown in Annex 1 and in Figure 1, 15 countries (all in sub-
+Saharan Africa) had very high MMR: Chad (980); Central African Republic (880); Somalia (850); 
+Burundi (740); Democratic Republic of the Congo (730); South Sudan (730); Cote d’Ivoire (720); 
+Guinea (650); Liberia (640); Niger (630); Cameroon (590); Guinea-Bissau (560); Nigeria (560); 
+Mali (550); Malawi (510). Only two countries outside the sub-Saharan African region had 
+high MMR: Afghanistan (400) and Haiti (380). In contrast, Cabo Verde and Mauritius were the 
+only two sub-Saharan African countries that had low MMR, at 53 and 73 maternal deaths per 
+100 000 live births, respectively.
+Regarding adult lifetime risk of maternal mortality, Chad and Somalia had the highest at  
+1 in 15 and 1 in 18, respectively. The estimated adult lifetime maternal mortality risks in high-
+income countries is 1 in 3400 in comparison to low-income countries where the risk is 1 in 52.
+Appendices 7, 9, 11, 13 and 15 present the MMR, range of uncertainty, number of maternal 
+deaths and adult lifetime risk for WHO, UNICEF, UNFPA, The World Bank and UNPD regions, 
+respectively.
+Table 3 shows the number of maternal deaths, MMR and percentage of maternal deaths 
+attributed to HIV by MDG region. Percentage of AIDS-related indirect maternal deaths by 
+country is presented in Annex 1 for countries with an HIV prevalence ≥ 5.0% (among adults 
+15–49 years) between 1990 and 2013. Sub-Saharan Africa accounted for 6800 (91%) of 
+the estimated 7500 maternal deaths attributed to HIV worldwide. Only three other MDG 
+regions had more than 100 maternal deaths attributed to HIV: Southern Asia (340), Latin 
+America and the Caribbean(130), and South-eastern Asia (110). The proportion of maternal 
+deaths attributed to HIV in sub-Saharan Africa was 3.8%, yielding a HIV-attributed MMR for 
+Maternal mortality ratio (per 100 000 live births), 2013
+Data Source: World Health Organization
+Map Production: Health Statistics and
+Information Systems (HSI)
+World Health Organization
+The boundaries and names shown and the designations used on this map do not imply the expression of any opinion whatsoever
+on the part of the World Health Organization concerning the legal status of any country, territory, city or area or of its authorities, 
+or concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on maps represent approximate border lines
+for which there may not yet be full agreement. © WHO 2014. All rights reserved.
+<20
+20–99
+100–299
+300–499
+500–999
+≥1000
+Population <100 000 not included in the assessment
+Data not available
+Not applicable
+Figure 1. Map with countries by category according to their maternal mortality ratio 
+(MMR, death per 100 000 live births), 2013
+The boundaries and names shown and the designations used on this map do not imply the expression of any opinion whatsoever on the part 
+of the WHO concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers 
+or boundaries. Dotted lines and dashed lines on maps represent approximate border lines for which there may not yet be full agreement.
+<<<PAGE=34>>>
+24
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+sub-Saharan Africa of 19 maternal deaths per 100 000 live births. Without HIV, the MMR for 
+sub-Saharan Africa would be 491 maternal deaths per 100 000 live births instead of 510.
+Although the regional aggregates of the proportions of maternal deaths attributed to 
+HIV were relatively small, they were substantial for countries with high HIV prevalence. 
+Eight countries had a proportion of maternal deaths attributed to HIV of 10% or more: 
+South Africa (41.4%); Botswana (23.5%); Swaziland (18.6%); Zambia (15.4%); Lesotho (14.8%); 
+Namibia (13.9%); Mozambique (13%); Gabon (10.4%).
+Table 3. Estimates of maternal mortality ratio (MMR, maternal deaths per 100 000 live births), number 
+of maternal deaths and maternal deaths attributed to HIV/AIDS, by United Nations MDG region, 2013
+Region MMRa Number of 
+maternal 
+deathsa
+AIDS-
+attributed 
+MMR
+Number of AIDS-
+related indirect 
+maternal deaths
+Percentage of 
+AIDS-related 
+indirect maternal 
+deathsa
+world 210 289 000 5 7500 2.6
+developed regionsb 16 2300 0 65 2.8
+developing regions 230 286 000 6 7400 2.6
+northern Africac 69 2700 0 9 0.3
+sub-saharan Africad 510 179 000 19 6800 3.8
+eastern Asiae 33 6400 0 44 0.7
+eastern Asia  
+excluding china
+54 480 0 1 0.2
+southern Asiaf 190 69 000 1 340 0.5
+southern Asia  
+excluding india
+170 19 000 0 20 0.1
+south-eastern Asiag 140 16 000 1 110 0.7
+western Asiah 74 3600 0 3 0.1
+caucasus and  
+central Asiai
+39 690 0 7 0.9
+latin America and 
+the caribbean
+85 9300 1 130 1.4
+latin America
+j 77 7900 1 92 1.2
+caribbeank 190 1400 5 39 2.8
+oceanial 190 510 2 5 0.9
+a The MMR have been rounded according to the following scheme: <100, no rounding; 100–999, rounded to nearest 10; and 
+>1000, rounded to nearest 100. The numbers of maternal deaths have been rounded as follows: <100, no rounding; 100–999, 
+rounded to nearest 10; 1000–9999, rounded to nearest 100; and >10 000, rounded to nearest 1000. Percentages have been 
+calculated on unrounded estimates.
+b–l See footnotes in Table 2.
+<<<PAGE=35>>>
+25
+Trends in maternal mortality 1990 to 2013
+Table 4. Comparison of 1990 and 2013 maternal mortality ratio (MMR, maternal deaths per 
+100 000 live births) and number of maternal deaths, by United Nations MDG regions
+Region 1990a 2013a % change 
+in MMR 
+between 
+1990 and 
+2013b
+Average annual % change in MMR
+MMR Maternal 
+deaths
+MMR Maternal 
+deaths 1990–2013b 1990–2005b 2005–2013b
+world 380 523 000 210 289 000 -45 -2.6 -2.2 -3.3
+developed regionsc 26 3900 16 2300 -37 -2 -3.6 1
+developing regions 430 519 000 230 286 000 -46 -2.6 -2.2 -3.4
+northern Africad 160 5900 69 2700 -57 -3.6 -4.1 -2.8
+sub-saharan Africae 990 222 000 510 179 000 -49 -2.9 -2.5 -3.6
+eastern Asiaf 95 26 000 33 6400 -65 -4.5 -4.1 -5.2
+eastern Asia  
+excluding china
+47 550 54 480 15 0.6 1.6 -1.3
+southern Asiag 530 202 000 190 69 000 -64 -4.4 -4.2 -4.7
+southern Asia  
+excluding india
+450 54 000 170 19 000 -63 -4.2 -3.5 -5.5
+south-eastern Asiah 320 39 000 140 16 000 -57 -3.6 -3.8 -3.2
+western Asiai 130 5400 74 3600 -43 -2.4 -2.5 -2.1
+caucasus and  
+central Asiaj
+70 1300 39 690 -44 -2.5 -2 -3.4
+latin America and 
+the caribbean
+140 17 000 85 9300 -40 -2.2 -2.8 -1.1
+latin Americak 130 14 000 77 7900 -40 -2.2 -2.9 -1
+caribbeanl 300 2500 190 1400 -36 -1.9 -2 -1.9
+oceaniam 390 780 190 510 -51 -3 -3.1 -2.8
+a MMR estimates have been rounded according to the following scheme: <100, no rounding; 100–999, rounded to nearest 10; and >1000, 
+rounded to nearest 100. The numbers of maternal deaths have been rounded as follows: <1000, rounded to nearest 10; 1000–9999, rounded 
+to nearest 100; and >10 000, rounded to nearest 1000.
+b. Negative values for % change indicate a decreasing MMR from 1990 to 2013, while positive values indicate an increasing MMR. Percent-
+ages have been calculated using unrounded estimates.
+c-m. See footnote in Table 2.
+<<<PAGE=36>>>
+26
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+4.2 Trends in maternal mortality from 1990 to 2013
+Globally, the total number of maternal deaths decreased by 45% from 523 000 in 1990 to 
+289 000 in 2013 (Table 4). Similarly, global MMR declined by 45% from 380 maternal deaths 
+per 100 000 live births in 1990 to 210 in 2013 yielding an average annual decline of 2.6%. 
+Worldwide MMR declined annually by 3.3 % between 2005 and 2013, faster than the 2.2% 
+average annual decline observed between 1990 and 2005.
+All regions experienced a decline of 37% or more in MMR between 1990 and 2013. The 
+highest reduction in the 23-year period was in Eastern Asia (65%) followed by Southern Asia 
+(64%), Northern Africa (57%), South-eastern Asia (57%), Oceania (51%), sub-Saharan Africa 
+(49%), Caucasus and Central Asia (44%), Western Asia (43%), and Latin America and the 
+Caribbean (40%).
+Eastern Asia experienced the highest average annual decline between 2005 and 2013 at 5.2% 
+while Latin America and the Caribbean experienced the least decline in the same period, at 
+1.1%. When interpreting change in MMR, consideration must be given to the relative ease of 
+reducing MMR when levels are high compared to when they are low.
+Appendices 8, 10, 12, 14 and 16 present similar tables for WHO, UNICEF, UNFPA, The World 
+Bank and UNPD regions, respectively.
+Country-level trends in maternal mortality levels are shown in Annex 2. Of the 183 countries 
+and territories that were covered in this analysis, between 1990 and 2013, 166 countries 
+experienced total MMR percentage declines, 17 countries had an increase. Notably, 19 
+countries have already experienced 75% reduction in MMR between 1990 and 2013, much 
+earlier than the target year of 2015. These countries are: Belarus (96% reduction in MMR); 
+Maldives (93%); Bhutan (87%); Cambodia (86%); Israel (84%); Equatorial Guinea (81%); 
+Poland (81%); Lao People’s Democratic Republic (80%); Romania (80%); Bulgaria (78%); 
+Estonia (78%); Timor-Leste (78%); Eritrea (77%); Cabo Verde (77%); Latvia (77%); Oman (77%); 
+Lebanon (76%); Nepal (76%) and Rwanda (76%).
+For some countries in southern Africa such as Botswana and South Africa, MMR increased 
+from the year 1990 to 2000, mainly as result of the HIV epidemic, and then started to decline, 
+most likely due to increased availability of antiretroviral therapy (42). In 1990, there were 
+nearly 1700 AIDS-related indirect maternal deaths. Following the trend of the HIV epidemic, 
+this subset of maternal deaths increased in numbers, peaking in 2005 at 12 000, but then 
+showing evidence of decline in 2010 and 2013, when an estimated 8500 and 7500 AIDS-
+related indirect maternal deaths occurred.
+4.3 Comparison with previous maternal mortality estimates
+As explained in Section 3.5, the methodology employed for the 2013 estimates is similar 
+to that for the 2008 and 2010 estimates. However, given that the global database used for 
+the current 2013 increased in country-years of data by 5%, estimates of total female deaths 
+in the reproductive age group were updated, and the number of countries increased from 
+181 to 183, the current estimates should be used for the interpretation of trends in maternal 
+mortality from 1990 to 2013, rather than comparing to or extrapolating estimates from 
+previously published estimates.
+<<<PAGE=37>>>
+27
+Trends in maternal mortality 1990 to 2013
+5 Progress towards Millennium Development Goal 5
+The fifth MDG aims to improve maternal health, with a target of reducing the MMR by 
+75% between 1990 and 2015 and a second one on achieving universal access, by 2015, to 
+reproductive health. While most countries or regions aspire to achieve MDG 5 by 2015, some 
+countries will not attain this goal if current trends persist. One way to gauge progress is to 
+examine if countries have had the expected average annual MMR decline of 5.5% from 1990 
+to 2013.
+Accordingly, countries with MMR ≥100 in 1990 have been categorized as ‘on track’ , ‘making 
+progress’ , ‘insufficient progress’ or ‘no progress’ in improving maternal health. The cut-off of 
+100 was arbitrarily chosen to focus assessment of progress in countries that have started 
+with a relatively high level of mortality in the baseline year of 1990, and given the difficulty 
+in reducing MMR further for countries that already had low MMR (<100) in 1990. A country is 
+considered to be ‘on track’ if the average annual percentage decline between 1990 and 2013 
+is 5.5% or more. If the average annual decline in MMR is between 2% and 5.5%, the country is 
+considered to be ‘making progress’ . Countries with an average annual decline of less than 2% 
+are considered to have made ‘insufficient progress’ and countries with rising MMR have been 
+categorized as making ‘no progress’ .
+At the country level, as noted in Section 4.2, the 19 countries that had achieved MDG 5 by 
+2013 are: Belarus (96% reduction in MMR); Maldives (93%); Bhutan (87%); Cambodia (86%); 
+Israel (84%); Equatorial Guinea (81%); Poland (81%); Lao People’s Democratic Republic (80%); 
+Romania (80%); Bulgaria (78%); Estonia (78%); Timor-Leste (78%); Eritrea (77%);  
+Cabo Verde (77%); Latvia (77%); Oman (77%); Lebanon (76%); Nepal (76%) and  
+Rwanda (76%). Among these, 11 had a baseline of MMR ≥100 in 1990, and are indicated  
+as ‘on track ‘ to achieve MDG 5 in Annex 2. Further, 63 countries were characterized as  
+‘making progress’ while 13 countries have made ‘insufficient progress’ .
+Although the decline in MMR between 1990 and 2013 has been slower than expected, 
+several countries, as seen above, have made substantial progress in reducing maternal 
+deaths. An analysis of 10 countries that have made progress towards achievement of both 
+MDG 4 and 5, showed common overarching elements of success including: leadership and 
+partnership, evidence and innovation, development and implementation of dual short-
+term and long-term strategies, and adaptation to change for sustained progress (44). These 
+countries have adapted, tested and rapidly scaled up service delivery models.
+The analysis highlights specific strategies that have contributed to success in some of 
+the above countries deemed as being ‘on track’ . For example, Cambodia has prioritized 
+preventing maternal and newborn deaths through an Emergency Obstetric and Newborn 
+Care (EmONC) Improvement Plan. The plan recognizes that implementing targeted EmONC 
+requires an enabling environment, and includes improving referral systems, communication, 
+transport, equipment, drugs and other supplies. This enabling environment would eventually 
+be able to support the effective delivery of a broader range of health services. Rwanda 
+deployed community health workers and volunteers to address immediate, urgent health 
+needs. At the same time, the country invested in its long-term vision to build a professional 
+health workforce and kept colleges open, even if external funders did not think this was a 
+priority, and despite there being few professors. Professors from neighbouring countries,
+<<<PAGE=38>>>
+28
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+during their holidays, taught at Rwandan colleges. These investments paid off, with the 
+country now having fully established colleges and partnerships with international medical, 
+nursing, dental and health management colleges. In Nepal, reframing basic health needs 
+as health rights has been the main thrust of the policies. Many government strategies and 
+policies related to safer motherhood, neonatal health, nutrition and gender are anchored in 
+the principles of human rights (44).
+Additionally, the rapid roll-out of antiretroviral therapy in the past decade in regions with 
+high HIV prevalence has contributed to reduction of female deaths and maternal deaths. 
+The 2013 UNAIDS report on AIDS in low- and middle-income countries indicates that 
+the number of people on antiretroviral therapy reached 9.7 million in 2012, compared to 
+just over 8.1 million in 2011 – an increase of 1.6 million in one year alone (45). At least 10 
+countries (Botswana, Cabo Verde, Eritrea, Kenya, Namibia, Rwanda, South Africa, Swaziland, 
+Zambia and Zimbabwe) reported reaching 80% or more of adults eligible for antiretroviral 
+therapy (46).
+The UN Secretary-General’s launch of the Global strategy for women’s and children’s health 
+in September 2010 has helped to mobilize commitments by governments, civil society 
+organizations and development partners to accelerate progress towards MDGs 4 and 5 (1), 
+especially during the past few years. The Commission on Information and Accountability for 
+Women’s and Children’s Health – established to “determine the most effective international 
+institutional arrangements for global reporting, oversight and accountability on women’s 
+and children’s health” – recommended that all countries take “significant steps to establish 
+a system for registration of births, deaths and causes of death, and have well-functioning 
+health information systems that combine data from facilities, administrative sources and 
+surveys” (2). However, insufficient progress on this recommendation was noted by the iERG 
+on their assessment of the implementation of the commission’s recommendations (3). This 
+analysis highlights the limited availability of high quality data that is based on such complete 
+and accurate registration systems, as shown in the range of data sources available to use for 
+the analysis.
+Maternal death reviews provide an important tool for capturing maternal deaths, thereby, 
+contributing to better estimates of maternal mortality, while also helping to initiate 
+necessary actions to prevent deaths. The WHO recent publication of technical guidance 
+on maternal death surveillances and response (MDSR) aims to contribute to progress on 
+the Commission’s recommendation on registration of every maternal death (47). MDSR is 
+aimed at preventing maternal deaths and includes the key components of identification 
+and notification of all maternal deaths; in-depth review of maternal deaths; analysis and 
+interpretation of aggregated findings from reviews; and response to the recommendations 
+of the reviews. Implementation of the MDSR system should help to accelerate progress 
+towards MDG 5 and make maternal deaths rare events beyond 2015.
+Discussions on the post-2015 UN development agenda are underway. Although levels of 
+decline in maternal mortality seen during the past 23 years will not be sufficient to achieve 
+MDG 5, the steady progress we have witnessed indicates that ending preventable maternal 
+mortality is achievable in this lifetime. Analyses of past progress suggest the feasibility 
+of realizing this vision indicated by a global MMR of less than 70 in 2030 (48), within the 
+sustainable development agenda beyond 2015.
+<<<PAGE=39>>>
+29
+Trends in maternal mortality 1990 to 2013
+References
+1. Ban K. The Global Strategy for Women’s and 
+Children’s Health. New York: United Nations; 
+2010.
+2. Commission on Information and 
+Accountability for Women’s and Children’s 
+Health. Keeping promises, measuring results. 
+Geneva: World Health Organization; 2011.
+3. The First Report of the independent Expert 
+Review Group (iERG) on Information and 
+Accountability for Women’s and Children’s 
+Health. Geneva: World Health Organization; 
+2012.
+4. WHO, UNICEF, UNFPA, The World Bank. Trends 
+in maternal mortality: 1990 to 2010. Geneva: 
+World Health Organization; 2012.
+5. WHO, UNICEF, UNFPA, The World Bank. Trends 
+in maternal mortality: 1990 to 2008. Geneva: 
+World Health Organization; 2010.
+6. WHO, UNICEF, UNFPA, The World Bank. 
+Maternal mortality in 2005. Estimates 
+developed by WHO, UNICEF and UNFPA. 
+Geneva: World Health Organization; 2007.
+7. WHO, UNICEF, UNFPA. Maternal mortality 
+in 2000: estimates developed by WHO, 
+UNICEF and UNFPA. Geneva: World Health 
+Organization; 2003.
+8. WHO, UNICEF, UNPFA. Maternal mortality in 
+1995: estimates developed by WHO, UNICEF, 
+UNFPA. Geneva: World Health Organization; 
+2001.
+9. WHO, UNICEF. Revised 1990 estimates of 
+maternal mortality: a new approach by 
+WHO and UNICEF. Geneva: World Health 
+Organization; 1996.
+10. International statistical classification of 
+diseases and related health problems, tenth 
+revision. Vol. 1: Tabular list. Vol. 2: Instruction 
+manual. Geneva: World Health Organization; 
+2010.
+11. Application of ICD-10 to deaths during 
+pregnancy, childbirth and the puerperium: 
+ICD maternal mortality (ICD-MM). Geneva: 
+World Health Organization; 2012.
+12. Lewis G, ed. Why mothers die 2000–2002: The 
+confidential enquiries into maternal deaths 
+in the United Kingdom. London: RCOG Press; 
+2004.
+13. Lewis G, ed. Saving mothers’ lives: Reviewing 
+maternal deaths to make motherhood 
+safer 2003–2005. The seventh report on 
+confidential enquiries into maternal deaths 
+in the United Kingdom. London: Confidential 
+Enquiry into Maternal and Child Health 
+(CEMAH); 2007.
+14. Centre for Maternal and Child Enquiries 
+(CMACE). Saving Mothers’ Lives: Reviewing 
+maternal deaths to make motherhood safer: 
+2006–2008. The eighth report on confidential 
+enquiries into maternal deaths in the United 
+Kingdom. BJOG. 2011;118(Suppl.1):1–203.
+15. Deneux-Tharaux C et al. Underreporting 
+of pregnancy-related mortality in the 
+United States and Europe. Obstet Gynecol. 
+2005;106:684–692.
+16. Atrash HK, Alexander S, Berg CJ. Maternal 
+mortality in developed countries: not just 
+a concern of the past. Obstet Gynecol 
+1995;86(4 Pt 2):700–5.
+17. Hill K et al. How should we measure maternal 
+mortality in the developing world? A 
+comparison of household deaths and sibling 
+history approaches. Bull World Health Organ.. 
+2006;84:173–180.
+18. Stanton C, Abderrahim N, Hill K. DHS 
+maternal mortality indicators: an assessment 
+of data quality and implications for data use 
+(DHS Analytical Report No. 4). Calverton: 
+Macro International; 1997.
+19. Stanton C et al. Every death counts: 
+measurement of maternal mortality 
+via a census. Bull World Health Organ. 
+2001;79:657–664.
+20. WHO guidance for measuring maternal 
+mortality from a census. Geneva: World 
+Health Organization; 2013.
+21. Chandramohan D et al. The validity of 
+verbal autopsies for assessing the causes of 
+institutional maternal death. Stud Fam Plann. 
+1998;29:414–422.
+22. Chandramohan D, Stetal P , Quigley M. 
+Misclassification error in verbal autopsy: 
+can it be adjusted? Int J Epidemiol. 2001; 
+30:509–514.
+23. Leitao J et al. Revising the WHO verbal 
+autopsy instrument to facilitate routine 
+cause-of-death monitoring. Global Health 
+Action. 2013; 6:21518.
+<<<PAGE=40>>>
+30
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+24. Wilmoth JR et al. A new method for deriving 
+global estimates of maternal mortality. Stat 
+Politics Policy. 2012, 3(2):1–38.
+25. Wilmoth J et al. Levels and trends of maternal 
+mortality in the world: The development 
+of new estimates by the United Nations. 
+Technical report (submitted to the WHO, 
+UNICEF, UNFPA, and The World Bank); 2010.
+26. Global report: UNAIDS report on the global 
+AIDS epidemic 2013. Geneva: Joint United 
+Nations Programme on HIV/AIDS; 2013.
+27. Life tables for WHO Member States 1990–
+2012. Geneva: World Health Organization; 
+2014.
+28. World population prospects: The 2012 
+Revision. New York: United Nations 
+Population Division; 2013.
+29. Maternal health: Skilled attendance at birth. 
+New York: United Nations Children’s Fund; 
+2014.
+30. Data Catalog. Washington, DC: The World 
+Bank; 2013.
+31. Heston A, Summers R, Aten B. Penn 
+World Tables Version 7.1. Philadelphia: 
+Center for International Comparisons of 
+Production, Income and Prices (University of 
+Pennsylvania); 2012.
+32. Hill K et al. Maternal Mortality Working 
+Group. Estimates of maternal mortality 
+worldwide between 1990 and 2005: an 
+assessment of available data. Lancet. 
+2007;370(9595):1311–9.
+33. Stanton C, Abderrahim N, Hill K. An 
+assessment of DHS maternal mortality 
+indicators. Stud Fam Plann. 2000;31:111–123.
+34. Mathers C et al. Counting the dead and what 
+they died from: an assessment of the global 
+status of cause of death data. Bulletin of the 
+World Health Organization. 2005;83:171–7.
+35. Mortality and burden of disease estimates for 
+WHO Member States in 2008. Geneva: World 
+Health Organization; 2011.
+36. Bates D, Maechler M, Bolker B, Walker S. lme4: 
+Linear mixed-effects models using Eigen and 
+S4. R package version 1.0–5; 2013. (http://
+CRAN.R-project.org/package=lme4, accessed 
+2 May 2014).
+37. R Core Team . R: A language and environment 
+for statistical computing. Vienna; R 
+Foundation for Statistical Computing: 
+2013. (http://www.R-project.org; accessed 
+2 May 2014).
+38. Millennium development indicators, world 
+and regional groupings. New York: United 
+Nations; 2003. Available from: (http://mdgs.
+un.org/unsd/mdg/Host.aspx?Content=Data/
+RegionalGroupings,accessed 2 May 2014).
+39. Gray R et al. Population-based study of 
+fertility in women with HIV-1 infection in 
+Uganda. Lancet. 1998;351:98–103.
+40. Lee L et al. Duration of human 
+immunodeficiency virus infection and 
+likelihood of giving birth in a Medicaid 
+population in Maryland. Am J Epidemiol. 
+2000;151:1020–1028.
+41. Zaba B et al. The contribution of HIV 
+to fertility decline in rural Zimbabwe, 
+1985–2000. Popul Stud (Camb). 
+2003;57:149–164.
+42. WHO, UNAIDS, UNICEF. Global HIV/AIDS 
+response: epidemic update and health 
+sector progress towards universal access 
+progress report 2011. Geneva: World Health 
+Organization; 2011
+43. Success Factors for Women’s and Children’s 
+Health: Multisector Pathways to Progress. 
+Geneva: Partnership for Maternal, Newborn 
+and Child Health; 2014 (http://www.who.
+int/pmnch/knowledge/publications/
+successfactors/en/, accessed 2 May 2014).
+44. Women’s and children’s health: evidence 
+of impact of human rights. Geneva: World 
+Health Organization; 2013.
+45. Global report: UNAIDS report on the global 
+AIDS epidemic 2012. Geneva: Joint United 
+Nations Programme on HIV/AIDS; 2012.
+46. Access to Antiretroviral Therapy in Africa: 
+Status Report on Progress towards the 
+2015 Targets. Geneva: Joint United Nations 
+Programme on HIV/AIDS; 2013.
+47. Maternal death surveillance and response: 
+technical guidance. Information for action 
+to prevent maternal death. Geneva: World 
+Health Organization; 2013.
+48. Bustreo F et al. Ending preventable maternal 
+deaths: the time is now. The Lancet Global 
+Health. 2013;1(4):176–7.
+<<<PAGE=41>>>
+31
+Trends in maternal mortality 1990 to 2013
+Annex 1. Estimates of maternal mortality ratio (MMR, maternal deaths per 100 000 live births), number of 
+maternal deaths, lifetime risk and percentage of AIDS-related indirect maternal deaths, 2013
+Country MMRa Range of MMR 
+uncertainty
+Number of 
+maternal 
+deathsa
+Lifetime 
+risk of 
+maternal 
+death:a 
+ 1 in:
+% of AIDS-
+related 
+indirect 
+maternal 
+deathsb
+PMc (%) Groupd
+Lower 
+estimate
+Upper 
+estimate
+Afghanistan 400 220 750 4200 49 17.9 B
+Albania 21 13 34 8 2800 0.9 B
+Algeria 89 48 170 840 380 5.2 B
+Angola 460 220 980 4400 35 14.5 C
+Argentina 69 60 81 480 630 4.7 A
+Armenia 29 19 44 12 1800 1.5 B
+Australia 6 4 10 18 9000 0.5 A
+Austria 4 1 10 3 19 200 0.2 A
+Azerbaijan 26 17 40 43 1800 1.7 B
+Bahamas 37 24 55 2 1400 1 A
+Bahrain 22 14 35 4 2000 2.7 A
+Bangladesh 170 94 300 5200 250 7.6 B
+Barbados 52 33 83 2 1100 2.6 A
+Belarus 1 1 2 1 45 200 0 A
+Belgium 6 4 10 8 8700 0.5 A
+Belize 45 30 68 3 750 3.5 A
+Benin 340 200 580 1300 59 12.7 B
+Bhutan 120 74 190 17 340 3.1 B
+Bolivia (Plurinational 
+State of) 200 130 310 550 140 8.2 B
+Bosnia and 
+Herzegovina 8 5 13 3 9700 0.4 B
+Botswana 170 110 280 83 200 23.5 2.7 B
+Brazil 69 44 110 2100 780 2.8 B
+Brunei Darussalam 27 16 43 2 1900 1.8 B
+Bulgaria 5 3 8 4 12 400 0.2 A
+Burkina Faso 400 240 680 2800 44 15.5 B
+Burundi 740 390 1400 3400 22 1 24.8 B
+Cabo Verde 53 25 110 5 740 5.3 C
+Cambodia 170 110 280 670 180 7 B
+Cameroon 590 350 1000 4900 34 4.4 13.9 B
+Canada
+e 11 7 18 45 5200 0.8 A
+Central African 
+Republic 880 470 1600 1400 27 5 13.2 B
+Chad 980 550 1800 5800 15 29.3 B
+Chile 22 14 35 55 2400 1.8 A
+China 32 20 53 5900 1800 1.6 B
+Colombia 83 56 130 760 500 5.9 A
+Comoros 350 160 730 90 58 14 C
+Congo 410 240 720 690 48 4.7 12 B
+Costa Rica 38 25 57 28 1400 2.8 A
+<<<PAGE=42>>>
+32
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Country MMRa Range of MMR 
+uncertainty
+Number of 
+maternal 
+deathsa
+Lifetime 
+risk of 
+maternal 
+death:a 
+ 1 in:
+% of AIDS-
+related 
+indirect 
+maternal 
+deathsb
+PMc (%) Groupd
+Lower 
+estimate
+Upper 
+estimate
+Côte d’Ivoire 720 440 1200 5300 29 3.8 13.9 B
+Croatia 13 6 27 5 5200 0.8 A
+Cuba 80 50 130 85 970 3.1 A
+Cyprus 10 5 20 1 6600 1.1 C
+Czech Republic 5 3 9 6 12 100 0.4 A
+Democratic People’s 
+Republic of Korea 87 41 190 310 630 2.7 C
+Democratic Republic 
+of the Congo 730 380 1400 21 000 23 22.4 B
+Denmark 5 2 12 3 12 000 0.4 A
+Djibouti 230 110 470 55 130 5.6 C
+Dominican Republic 100 71 150 220 360 6.2 B
+Ecuador 87 58 130 290 420 5.9 B
+Egypt 45 30 70 860 710 3.5 B
+El Salvador 69 48 100 88 600 2.9 B
+Equatorial Guinea 290 160 560 79 72 8.9 6.5 B
+Eritrea 380 210 690 880 52 18 B
+Estonia 11 5 25 2 5700 0.5 A
+Ethiopia 420 240 720 13 000 52 16.1 B
+Fiji 59 35 95 11 620 2.7 B
+Finland 4 2 6 2 15 100 0.3 A
+France 9 5 13 68 6100 0.7 A
+Gabon 240 150 420 130 94 10.4 6.5 B
+Gambia 430 210 930 340 39 18.8 C
+Georgia 41 23 77 24 1300 2.6 B
+Germany 7 5 9 47 11 000 0.4 A
+Ghana 380 210 720 3100 66 11.9 B
+Greece 5 2 13 6 12 000 0.4 A
+Grenada 23 14 37 0 1800 1.4 B
+Guatemala 140 89 210 660 170 9.4 A
+Guinea 650 390 1100 2800 30 21 B
+Guinea-Bissau 560 270 1200 360 36 15.1 C
+Guyana 250 160 380 40 150 5.5 B
+Haiti 380 220 680 1000 80 10 B
+Honduras 120 73 190 240 260 6.6 B
+Hungary 14 9 21 14 5000 0.6 A
+Iceland 4 2 7 0 11 500 0.6 A
+India 190 130 300 50 000 190 6.7 B
+Indonesia 190 120 300 8800 220 8.4 B
+Iran (Islamic 
+Republic of) 23 16 35 340 2000 1.5 B
+Iraq 67 40 110 710 340 8.1 B
+Ireland 9 5 13 6 5500 0.9 A
+<<<PAGE=43>>>
+33
+Trends in maternal mortality 1990 to 2013
+Country MMRa Range of MMR 
+uncertainty
+Number of 
+maternal 
+deathsa
+Lifetime 
+risk of 
+maternal 
+death:a 
+ 1 in:
+% of AIDS-
+related 
+indirect 
+maternal 
+deathsb
+PMc (%) Groupd
+Lower 
+estimate
+Upper 
+estimate
+Israel 2 1 4 3 17 400 0.4 A
+Italy 4 3 6 23 17 100 0.3 A
+Jamaica 80 57 110 40 540 3.1 B
+Japan 6 5 7 63 12 100 0.4 A
+Jordan 50 31 84 97 580 4.8 B
+Kazakhstan 26 16 43 89 1500 1 A
+Kenya 400 250 680 6300 53 5.4 11.3 B
+Kiribati 130 62 280 3 260 6.8 C
+Kuwait 14 6 32 9 2600 2.4 A
+Kyrgyzstan 75 47 120 110 390 4.8 B
+Lao People’s 
+Democratic Republic 220 130 370 400 130 10.8 B
+Latvia 13 7 24 3 4600 0.5 A
+Lebanon 16 9 29 10 3900 1.5 B
+Lesotho 490 300 770 280 64 14.8 5.1 B
+Liberia 640 350 1200 980 31 25 B
+Libya 15 8 27 19 2700 1.2 B
+Lithuania 11 6 21 4 5900 0.4 A
+Luxembourg 11 7 18 1 5300 0.9 A
+Madagascar 440 270 720 3500 47 18.9 B
+Malawi 510 320 830 3400 34 7.2 14.8 B
+Malaysia 29 18 46 150 1600 2 B
+Maldives 31 19 52 2 1200 4.8 B
+Mali 550 330 940 4000 26 23.6 B
+Malta 9 5 14 0 8300 0.7 A
+Mauritania 320 180 590 430 66 15.3 B
+Mauritius 73 42 130 11 900 2.6 A
+Mexico 49 31 77 1100 900 3 A
+Micronesia (Federated 
+States of) 96 45 200 2 320 5 C
+Mongolia 68 40 120 43 560 3.1 B
+Montenegro 7 4 12 0 8900 0.4 B
+Morocco 120 75 190 880 300 6.2 B
+Mozambique 480 300 780 4800 41 13 8.2 B
+Myanmar 200 120 350 1900 250 4.3 B
+Namibia 130 84 220 81 230 13.9 3.7 B
+Nepal 190 110 340 1100 200 6.9 B
+Netherlands 6 4 9 10 10 700 0.4 A
+New Zealand 8 5 12 5 6600 0.6 A
+Nicaragua 100 68 160 140 340 6.8 B
+Niger 630 370 1100 5600 20 36.6 B
+Nigeria 560 300 1000 40 000 31 15.6 B
+Norway 4 2 8 2 14 900 0.4 A
+<<<PAGE=44>>>
+34
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Country MMRa Range of MMR 
+uncertainty
+Number of 
+maternal 
+deathsa
+Lifetime 
+risk of 
+maternal 
+death:a 
+ 1 in:
+% of AIDS-
+related 
+indirect 
+maternal 
+deathsb
+PMc (%) Groupd
+Lower 
+estimate
+Upper 
+estimate
+Occupied Palestinian 
+Territoryf 47 23 97 63 500 5.7 C
+Oman 11 8 16 8 2800 1.8 B
+Pakistan 170 93 320 7900 170 9.1 B
+Panama 85 55 130 64 450 5.5 A
+Papua New Guinea 220 110 450 460 120 7.8 C
+Paraguay 110 71 170 170 290 9.1 B
+Peru 89 61 130 530 440 5.7 B
+Philippines 120 81 190 3000 250 7 A
+Poland 3 2 5 14 19 800 0.2 A
+Portugal 8 4 17 8 8800 0.5 A
+Puerto Rico 20 13 32 9 3000 1.1 B
+Qatar 6 3 12 1 7200 1.2 C
+Republic of Korea 27 21 36 130 2900 1.5 A
+Republic of Moldova 21 12 36 9 2900 0.8 A
+Romania 33 26 44 75 2100 1.6 A
+Russian Federation 24 16 37 400 2600 0.6 A
+Rwanda 320 200 540 1300 66 2.4 13.6 B
+Saint Lucia 34 21 54 1 1500 1.9 A
+Saint Vincent and the 
+Grenadines 45 29 70 1 1000 1.9 A
+Samoa 58 28 120 3 430 6.6 C
+Sao Tome and Principe 210 110 410 14 100 11.9 B
+Saudi Arabia 16 9 29 89 2200 1.9 B
+Senegal 320 190 560 1700 60 16.4 B
+Serbia 16 10 27 15 4500 1 A
+Sierra Leone 1100 580 2000 2400 21 16.7 B
+Singapore 6 3 12 3 13 900 0.5 A
+Slovakia 7 4 11 4 10 200 0.4 A
+Slovenia 7 5 11 1 9300 0.6 A
+Solomon Islands 130 63 270 23 180 7.6 C
+Somalia 850 400 1800 3900 18 33.2 C
+South Africa 140 85 210 1500 300 41.4 1.4 B
+South Sudan 730 420 1300 3000 28 16.8 B
+Spain 4 3 7 21 15100 0.3 A
+Sri Lanka 29 21 42 110 1400 2.2 B
+Sudan 360 220 590 4600 60 14.6 B
+Suriname 130 87 190 12 330 6 A
+Swaziland 310 170 560 120 94 18.6 3.9 B
+Sweden 4 2 8 5 13 600 0.4 A
+Switzerland 6 2 14 5 12 300 0.5 A
+Syrian Arab Republic 49 28 83 260 630 5.9 B
+Tajikistan 44 27 71 120 530 4.3 B
+<<<PAGE=45>>>
+35
+Trends in maternal mortality 1990 to 2013
+Country MMRa Range of MMR 
+uncertainty
+Number of 
+maternal 
+deathsa
+Lifetime 
+risk of 
+maternal 
+death:a 
+ 1 in:
+% of AIDS-
+related 
+indirect 
+maternal 
+deathsb
+PMc (%) Groupd
+Lower 
+estimate
+Upper 
+estimate
+Thailand 26 18 38 180 2900 0.7 B
+The former Yugoslav 
+Republic of Macedonia 7 3 17 2 10 200 0.4 A
+Timor-Leste 270 140 500 110 66 22.1 B
+Togo 450 250 850 1100 46 12.6 B
+Tonga 120 59 260 3 220 5.1 C
+Trinidad and Tobago 84 53 140 16 640 2.6 A
+Tunisia 46 25 85 86 1000 3.4 B
+Turkey 20 14 31 260 2300 1.1 B
+Turkmenistan 61 29 130 68 640 1.9 C
+Uganda 360 230 580 5900 44 8.1 10.8 B
+Ukraine 23 19 28 110 2900 0.6 A
+United Arab Emirates 8 4 16 10 5800 1.3 C
+United Kingdom 8 5 12 60 6900 0.6 A
+United Republic of 
+Tanzania 410 250 660 7900 44 5.9 13.3 B
+United States of 
+America 28 18 44 1200 1800 1.5 A
+Uruguay 14 9 20 7 3500 0.8 A
+Uzbekistan 36 31 42 220 1100 2.2 A
+Vanuatu 86 41 180 6 320 6.9 C
+Venezuela (Bolivarian 
+Republic of) 110 70 170 650 360 7.2 A
+Viet Nam 49 29 84 690 1100 3.3 B
+Yemen 270 150 510 2100 88 11.6 B
+Zambia 280 170 460 1800 59 15.4 7.9 B
+Zimbabwe 470 270 790 2100 53 7.2 10.6 B
+Estimates have been computed to ensure comparability across countries, thus they are not necessarily the same as official statistics of the 
+countries, which may use alternative rigorous methods.
+a The MMR and lifetime risk have been rounded according to the following scheme: <100, no rounding; 100–999, rounded to nearest 10; 
+and >1000, rounded to nearest 100. The numbers of maternal deaths have been rounded as follows: <100, no rounding; 100–999, rounded to 
+nearest 10; 1000–9999, rounded to nearest 100; and >10 000, rounded to nearest 1000.
+b Percentage of AIDS-related maternal deaths are presented only for countries with an HIV prevalence ≥ 5.0% (among adults 15–49 years) 
+between 1990 and 2013.
+c Proportion of deaths among women of reproductive age that are due to maternal causes (PM).
+d Group A indicates country estimates based on good civil registration data; Group B indicates modelled country estimates using available 
+national data; and Group C indicates modelled country estimates where no national data are available on maternal mortality.
+e Vital registration data were available for analysis only up to 2009. Recent hospital surveillance data for Canada excluding Quebec indicate a 
+decline of maternal deaths per 100 000 deliveries from 8.8 in 2007-2009 to 6.1 in 2009-2011. 98% of deliveries in Canada occur in hospitals. 
+f Refers to a territory.
+<<<PAGE=46>>>
+36
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Annex 2. Trends in estimates of maternal mortality ratio (MMR, maternal deaths per 100 000 live births), 
+1990–2013, by country
+Country MMRa % change 
+in MMR 
+between 
+1990 and 
+2013b
+Average 
+annual % 
+change in 
+MMR between 
+1990 and 
+2013b
+Range of 
+uncertainty on 
+annual % change 
+in MMR
+Progress 
+towards 
+improving 
+maternal 
+healthc
+1990 1995 2000 2005 2013 Lower 
+estimate
+Upper 
+estimate
+Afghanistan 1200 1200 1100 730 400 -67 -4.7 -5.5 -3.9 making 
+progress
+Albania 31 29 28 24 21 -33 -1.7 -2.3 -1.1  – 
+Algeria 160 140 120 100 89 -44 -2.5 -2.9 -2 making 
+progress
+Angola 1400 1400 1100 750 460 -68 -4.9 -8.8 -0.7 making 
+progress
+Argentina 71 60 63 70 69 -2 -0.1 -0.5 0.4  – 
+Armenia 47 51 43 37 29 -39 -2.1 -2.5 -1.7  – 
+Australia 7 8 9 6 6 -14 -0.7 -2.8 1.5  – 
+Austria 10 7 5 5 4 -64 -4.3 -8.5 0.1  – 
+Azerbaijan 60 83 57 36 26 -57 -3.6 -4.1 -3.1  – 
+Bahamas 43 44 44 40 37 -14 -0.7 -1.5 0.4  – 
+Bahrain 21 22 27 16 22 3 0.1 -0.4 0.7  – 
+Bangladesh 550 440 340 260 170 -70 -5 -5.6 -4.5 making 
+progress
+Barbados 120 38 42 33 52 -56 -3.5 -6.7 -0.1 making 
+progress
+Belarus 37 29 32 21 1 -96 -13.2 -15 -11.3  – 
+Belgium 10 10 9 7 6 -35 -1.8 -2 -1.7  – 
+Belize 75 35 110 79 45 -40 -2.2 -4.8 0.6  – 
+Benin 600 520 490 420 340 -43 -2.4 -3 -1.8 making 
+progress
+Bhutan 900 610 390 240 120 -87 -8.4 -9.5 -7.3 on track
+Bolivia 
+(Plurinational 
+State of)
+510 420 330 270 200 -61 -4 -4.5 -3.5 making 
+progress
+Bosnia and 
+Herzegovina 19 16 11 10 8 -57 -3.6 -4.3 -3  – 
+Botswana 360 370 390 340 170 -52 -3.1 -4.1 -1.8 making 
+progress
+Brazil 120 100 85 73 69 -43 -2.4 -2.9 -2 making 
+progress
+Brunei 
+Darussalam 26 25 24 25 27 1 0 -0.6 0.7  –
+<<<PAGE=47>>>
+37
+Trends in maternal mortality 1990 to 2013
+Country MMRa % change 
+in MMR 
+between 
+1990 and 
+2013b
+Average 
+annual % 
+change in 
+MMR between 
+1990 and 
+2013b
+Range of 
+uncertainty on 
+annual % change 
+in MMR
+Progress 
+towards 
+improving 
+maternal 
+healthc
+1990 1995 2000 2005 2013 Lower 
+estimate
+Upper 
+estimate
+Bulgaria 24 22 29 14 5 -78 -6.3 -8.2 -4.4  – 
+Burkina Faso 770 680 580 500 400 -49 -2.9 -3.4 -2.3 making 
+progress
+Burundi 1300 1300 1000 910 740 -41 -2.3 -3 -1.5 making 
+progress
+Cabo Verde 230 140 84 63 53 -77 -6.2 -10 -2.1 on track
+Cambodia 1200 860 540 320 170 -86 -8.1 -9 -7.2 on track
+Cameroon 720 760 740 690 590 -18 -0.9 -1.2 -0.5 insufficient 
+progress
+Canadad 6 7 7 11 11 81 2.6 0.5 4.7  – 
+Central African 
+Republic 1200 1200 1200 1100 880 -27 -1.3 -1.6 -1 insufficient 
+progress
+Chad 1700 1600 1500 1200 980 -41 -2.3 -2.4 -2 making 
+progress
+Chile 55 40 29 26 22 -60 -3.9 -5.7 -2  – 
+China 97 76 63 50 32 -67 -4.7 -5.4 -4  – 
+Colombia 100 81 130 97 83 -17 -0.8 -2.5 0.9 insufficient 
+progress
+Comoros 630 560 480 430 350 -45 -2.6 -6.5 1.5 making 
+progress
+Congo 670 650 610 530 410 -39 -2.1 -2.7 -1.5 making 
+progress
+Costa Rica 38 45 44 46 38 -1 -0.1 -1.9 1.8  – 
+Côte d’Ivoire 740 710 670 750 720 -3 -0.1 -0.5 0.3 insufficient 
+progress
+Croatia 8 13 11 14 13 63 2.1 -1.4 5.8  – 
+Cuba 63 60 63 67 80 27 1 -1 3.1  – 
+Cyprus 18 18 16 13 10 -48 -2.8 -6.6 1.2  – 
+Czech Republic 15 9 7 7 5 -67 -4.7 -6.9 -2.4  – 
+Democratic 
+People’s Republic 
+of Korea
+85 83 120 110 87 3 0.1 -4 4.3  – 
+Democratic 
+Republic of the 
+Congo
+1000 1100 1100 930 730 -29 -1.5 -2.4 -0.6 insufficient 
+progress
+Denmark 9 16 9 8 5 -50 -2.9 -7 1.2  –
+<<<PAGE=48>>>
+38
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Country MMRa % change 
+in MMR 
+between 
+1990 and 
+2013b
+Average 
+annual % 
+change in 
+MMR between 
+1990 and 
+2013b
+Range of 
+uncertainty on 
+annual % change 
+in MMR
+Progress 
+towards 
+improving 
+maternal 
+healthc
+1990 1995 2000 2005 2013 Lower 
+estimate
+Upper 
+estimate
+Djibouti 400 390 360 310 230 -43 -2.4 -6.4 1.7 making 
+progress
+Dominican 
+Republic 240 180 120 130 100 -57 -3.6 -4 -3.2 making 
+progress
+Ecuador 160 130 120 98 87 -44 -2.5 -2.9 -2.1 making 
+progress
+Egypt 120 96 75 62 45 -62 -4.1 -4.8 -3.4 making 
+progress
+El Salvador 110 96 80 72 69 -39 -2.1 -2.6 -1.6 making 
+progress
+Equatorial Guinea 1600 1300 790 480 290 -81 -7 -8 -5.9 on track
+Eritrea 1700 1000 670 530 380 -77 -6.2 -6.8 -5.6 on track
+Estonia 48 46 26 24 11 -78 -6.4 -10.1 -2.4  – 
+Ethiopia 1400 1200 990 740 420 -69 -5 -5.4 -4.6 making 
+progress
+Fiji 89 79 72 69 59 -34 -1.8 -2.1 -1.5  – 
+Finland 6 5 7 9 4 -36 -1.9 -4.3 0.6  – 
+France 12 10 9 8 9 -31 -1.6 -3.5 0.3  – 
+Gabon 380 340 330 300 240 -37 -2 -2.5 -1.2 making 
+progress
+Gambia 710 660 580 510 430 -39 -2.1 -6 2 making 
+progress
+Georgia 50 67 60 48 41 -18 -0.9 -1.1 -0.6  – 
+Germany 13 8 7 7 7 -47 -2.7 -3.7 -1.8  – 
+Ghana 760 650 570 470 380 -49 -2.9 -3.2 -2.5 making 
+progress
+Greece 6 2 5 3 5 -5 -0.2 -4.1 3.9  – 
+Grenada 34 33 29 25 23 -33 -1.7 -2.2 -1.2  – 
+Guatemala 270 220 160 140 140 -49 -2.8 -4.6 -1 making 
+progress
+Guinea 1100 1000 950 800 650 -40 -2.2 -2.6 -1.8 making 
+progress
+Guinea-Bissau 930 790 840 760 560 -40 -2.2 -6 1.8 making 
+progress
+Guyana 210 230 240 240 250 16 0.6 0.4 0.8 no 
+progress
+Haiti 670 580 510 470 380 -43 -2.4 -2.9 -1.9 making 
+progress
+<<<PAGE=49>>>
+39
+Trends in maternal mortality 1990 to 2013
+Country MMRa % change 
+in MMR 
+between 
+1990 and 
+2013b
+Average 
+annual % 
+change in 
+MMR between 
+1990 and 
+2013b
+Range of 
+uncertainty on 
+annual % change 
+in MMR
+Progress 
+towards 
+improving 
+maternal 
+healthc
+1990 1995 2000 2005 2013 Lower 
+estimate
+Upper 
+estimate
+Honduras 290 200 150 130 120 -60 -3.9 -4.5 -3.2 making 
+progress
+Hungary 23 23 10 13 14 -39 -2.1 -4.1 -0.2  – 
+Iceland 7 7 6 6 4 -45 -2.5 -2.7 -2.4  – 
+India 560 460 370 280 190 -65 -4.5 -4.9 -4 making 
+progress
+Indonesia 430 360 310 250 190 -56 -3.5 -4 -3.1 making 
+progress
+Iran (Islamic 
+Republic of) 83 60 44 31 23 -72 -5.3 -6 -4.7  – 
+Iraq 110 84 71 77 67 -37 -2 -2.6 -1.4 making 
+progress
+Ireland 6 4 6 2 9 33 1.2 -1.6 4.1  – 
+Israel 12 10 9 7 2 -84 -7.6 -10.2 -5  – 
+Italy 10 6 4 5 4 -60 -3.9 -5.8 -2  – 
+Jamaica 98 89 88 85 80 -18 -0.8 -1.2 -0.5  – 
+Japan 14 10 10 7 6 -57 -3.6 -4.5 -2.8  – 
+Jordan 86 73 65 58 50 -42 -2.3 -2.7 -1.9  – 
+Kazakhstan 91 91 71 50 26 -71 -5.3 -7.2 -3.3  – 
+Kenya 490 530 570 550 400 -17 -0.8 -1.1 -0.4 insufficient 
+progress
+Kiribati 250 240 200 170 130 -47 -2.7 -6.6 1.3 making 
+progress
+Kuwait 12 10 8 6 14 13 0.6 -4.4 5.7  – 
+Kyrgyzstan 85 120 100 92 75 -11 -0.5 -0.8 -0.2  – 
+Lao People’s 
+Democratic 
+Repblic
+1100 830 600 410 220 -80 -6.8 -7.4 -6.3 on track
+Latvia 57 58 42 21 13 -77 -6.1 -8.7 -3.5  – 
+Lebanon 64 47 37 26 16 -76 -6 -6.5 -5.4  – 
+Lesotho 720 630 680 670 490 -32 -1.7 -2.4 -0.6 insufficient 
+progress
+Liberia 1200 1600 1100 880 640 -48 -2.8 -3.2 -2.4 making 
+progress
+Libya 31 25 21 17 15 -52 -3.1 -3.6 -2.7  –
+<<<PAGE=50>>>
+40
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Country MMRa % change 
+in MMR 
+between 
+1990 and 
+2013b
+Average 
+annual % 
+change in 
+MMR between 
+1990 and 
+2013b
+Range of 
+uncertainty on 
+annual % change 
+in MMR
+Progress 
+towards 
+improving 
+maternal 
+healthc
+1990 1995 2000 2005 2013 Lower 
+estimate
+Upper 
+estimate
+Lithuania 34 21 20 11 11 -68 -4.8 -7.7 -1.8  – 
+Luxembourg 6 11 11 17 11 83 2.7 -2.3 8  – 
+Madagascar 740 640 550 530 440 -41 -2.3 -2.7 -1.8 making 
+progress
+Malawi 1100 870 750 570 510 -53 -3.2 -3.4 -2.9 making 
+progress
+Malaysia 56 45 40 36 29 -48 -2.8 -3.3 -2.3  – 
+Maldives 430 210 110 57 31 -93 -10.8 -11.5 -10.2 on track
+Mali 1100 1000 860 710 550 -51 -3.1 -3.4 -2.7 making 
+progress
+Malta 12 11 11 9 9 -31 -1.6 -2 -1.2  – 
+Mauritania 630 550 480 400 320 -49 -2.9 -3.3 -2.4 making 
+progress
+Mauritius 70 68 28 35 73 4 0.2 -2.4 2.7  – 
+Mexico 88 77 67 50 49 -45 -2.5 -4.4 -0.7  – 
+Micronesia 
+(Federated 
+States of)
+170 140 130 120 96 -44 -2.5 -6.6 1.6 making 
+progress
+Mongolia 100 120 120 89 68 -34 -1.8 -2.2 -1.3 insufficient 
+progress
+Montenegro 8 9 10 8 7 -12 -0.6 -0.7 -0.4  – 
+Morocco 310 240 200 160 120 -61 -4.1 -4.7 -3.4 making 
+progress
+Mozambique 1300 1100 870 680 480 -64 -4.3 -4.9 -3.4 making 
+progress
+Myanmar 580 470 360 260 200 -65 -4.5 -5 -4 making 
+progress
+Namibia 320 280 270 250 130 -58 -3.7 -4.3 -2.7 making 
+progress
+Nepal 790 580 430 310 190 -76 -6 -6.6 -5.4 on track
+Netherlands 11 11 15 10 6 -51 -3 -5.1 -0.9  – 
+New Zealand 18 13 12 12 8 -57 -3.6 -5.8 -1.5  – 
+Nicaragua 170 160 140 120 100 -38 -2.1 -2.6 -1.6 making 
+progress
+Niger 1000 920 850 760 630 -37 -2 -2.3 -1.6 making 
+progress
+Nigeria 1200 1100 950 740 560 -52 -3.1 -3.4 -2.8 making 
+progress
+<<<PAGE=51>>>
+41
+Trends in maternal mortality 1990 to 2013
+Country MMRa % change 
+in MMR 
+between 
+1990 and 
+2013b
+Average 
+annual % 
+change in 
+MMR between 
+1990 and 
+2013b
+Range of 
+uncertainty on 
+annual % change 
+in MMR
+Progress 
+towards 
+improving 
+maternal 
+healthc
+1990 1995 2000 2005 2013 Lower 
+estimate
+Upper 
+estimate
+Norway 9 4 8 9 4 -61 -4 -7.6 -0.2  – 
+Occupied
+Palestinian 
+Territory
+e
+96 71 59 59 47 -51 -3 -6.9 1  – 
+Oman 48 32 22 16 11 -77 -6.2 -6.9 -5.6  – 
+Pakistan 400 330 280 230 170 -57 -3.6 -4.1 -3 making 
+progress
+Panama 98 91 79 83 85 -14 -0.6 -2.5 1.3  – 
+Papua New 
+Guinea 470 370 340 280 220 -54 -3.3 -7.2 0.8 making 
+progress
+Paraguay 130 130 120 130 110 -19 -0.9 -1.3 -0.6 insufficient 
+progress
+Peru 250 220 160 120 89 -64 -4.4 -4.9 -3.8 making 
+progress
+Philippines 110 130 120 130 120 15 0.6 -1.1 2.4 no 
+progress
+Poland 17 14 8 5 3 -81 -6.9 -8.5 -5.3  – 
+Portugal 15 10 11 11 8 -44 -2.5 -5.2 0.6  – 
+Puerto Rico 29 28 24 21 20 -31 -1.6 -1.9 -1.3  – 
+Qatar 11 11 9 8 6 -51 -3 -7 1.1  – 
+Republic of Korea 18 18 19 18 27 53 1.9 0.8 3  – 
+Republic of 
+Moldova 61 59 39 25 21 -66 -4.6 -6.9 -2.2  – 
+Romania 170 72 53 30 33 -80 -6.8 -7.8 -5.7 on track
+Russian 
+Federation 74 72 57 37 24 -68 -4.8 -6.5 -3  – 
+Rwanda 1400 1400 1000 610 320 -76 -6.1 -6.8 -5.4 on track
+Saint Lucia 60 52 44 39 34 -43 -2.4 -3.1 -1.8  – 
+Saint Vincent and 
+the Grenadines 48 72 75 55 45 -7 -0.3 -0.8 0.1  – 
+Samoa 150 110 89 73 58 -60 -3.9 -7.9 0.2 making 
+progress
+Sao Tome and 
+Principe 410 360 300 260 210 -48 -2.8 -3.3 -2.3 making 
+progress
+Saudi Arabia 41 31 24 19 16 -61 -4 -4.6 -3.4  – 
+Senegal 530 510 480 420 320 -40 -2.2 -2.5 -1.9 making 
+progress
+<<<PAGE=52>>>
+42
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Country MMRa % change 
+in MMR 
+between 
+1990 and 
+2013b
+Average 
+annual % 
+change in 
+MMR between 
+1990 and 
+2013b
+Range of 
+uncertainty on 
+annual % change 
+in MMR
+Progress 
+towards 
+improving 
+maternal 
+healthc
+1990 1995 2000 2005 2013 Lower 
+estimate
+Upper 
+estimate
+Serbia 18 20 7 8 16 -12 -0.5 -3.3 2.4  – 
+Sierra Leone 2300 2400 2200 1600 1100 -54 -3.3 -4 -2.7 making 
+progress
+Singapore 8 8 19 10 6 -30 -1.5 -4.8 1.8  – 
+Slovakia 15 10 12 6 7 -54 -3.4 -5.5 -1  – 
+Slovenia 11 11 12 15 7 -34 -1.8 -4.6 1  – 
+Solomon Islands 320 250 210 170 130 -59 -3.8 -7.7 0.2 making 
+progress
+Somalia 1300 1300 1200 1100 850 -34 -1.8 -5.8 2.3 insufficient 
+progress
+South Africa 150 140 150 160 140 -9 -0.4 -2.2 2.4 insufficient 
+progress
+South Sudan 1800 1500 1200 1000 730 -59 -3.8 -4.2 -3.5 making 
+progress
+Spain 7 4 5 6 4 -36 -1.9 -3.7 0  – 
+Sri Lanka 49 71 55 41 29 -40 -2.2 -2.5 -1.9  – 
+Sudan 720 640 540 460 360 -50 -3 -3.3 -2.7 making 
+progress
+Suriname 84 39 120 110 130 54 1.9 -0.1 3.9  – 
+Swaziland 550 480 520 480 310 -44 -2.5 -3.4 -0.4 making 
+progress
+Sweden 6 5 5 4 4 -34 -1.8 -4.6 1.3  – 
+Switzerland 8 8 7 8 6 -29 -1.5 -5.4 2.7  – 
+Syrian Arab 
+Republic 130 94 75 58 49 -64 -4.3 -4.8 -3.8 making 
+progress
+Tajikistan 68 120 89 59 44 -36 -1.9 -2.3 -1.5  – 
+Thailand 42 37 40 34 26 -37 -2 -2.6 -1.3  – 
+The former 
+Yugoslav 
+Republic of 
+Macedonia
+15 13 15 14 7 -57 -3.6 -8.4 1.2  – 
+Timor-Leste 1200 1000 680 500 270 -78 -6.4 -6.8 -6.1 on track
+Togo 660 660 580 510 450 -31 -1.6 -2 -1.1 insufficient 
+progress
+Tonga 71 89 91 100 120 72 2.4 -1.8 6.7  – 
+Trinidad and 
+Tobago 89 91 59 58 84 -6 -0.3 -2.3 1.9  –
+<<<PAGE=53>>>
+43
+Trends in maternal mortality 1990 to 2013
+Country MMRa % change 
+in MMR 
+between 
+1990 and 
+2013b
+Average 
+annual % 
+change in 
+MMR between 
+1990 and 
+2013b
+Range of 
+uncertainty on 
+annual % change 
+in MMR
+Progress 
+towards 
+improving 
+maternal 
+healthc
+1990 1995 2000 2005 2013 Lower 
+estimate
+Upper 
+estimate
+Tunisia 91 81 65 55 46 -50 -3 -3.4 -2.5  – 
+Turkey 48 39 33 27 20 -57 -3.6 -4 -3.2  – 
+Turkmenistan 66 79 81 76 61 -7 -0.3 -4.3 3.9  – 
+Uganda 780 740 650 510 360 -53 -3.2 -3.6 -2.9 making 
+progress
+Ukraine 49 45 35 25 23 -54 -3.3 -4 -2.5  – 
+United Arab 
+Emirates 16 13 11 8 8 -53 -3.3 -7.2 1  – 
+United Kingdom 10 11 11 12 8 -24 -1.2 -3.1 0.8  – 
+United Republic 
+of Tanzania 910 890 770 610 410 -55 -3.5 -3.7 -3.1 making 
+progress
+United States of 
+America 12 11 13 17 28 136 3.8 1.8 5.8  – 
+Uruguay 42 34 35 32 14 -67 -4.8 -6.3 -3.1  – 
+Uzbekistan 66 54 48 44 36 -45 -2.6 -3 -2.2  – 
+Vanuatu 170 140 120 100 86 -49 -2.9 -6.8 1.4 making 
+progress
+Venezuela 
+(Bolivarian 
+Republic of)
+93 98 91 94 110 16 0.6 -1.2 2.6  – 
+Viet Nam 140 110 82 60 49 -64 -4.4 -4.9 -3.8 making 
+progress
+Yemen 460 420 370 330 270 -41 -2.3 -2.8 -1.7 making 
+progress
+Zambia 580 630 610 430 280 -51 -3.1 -3.4 -2.4 making 
+progress
+Zimbabwe 520 550 680 740 470 -10 -0.4 -0.8 0 insufficient 
+progress
+Estimates have been computed to ensure comparability across countries; thus they are not necessarily the same as official statistics of the 
+countries, which may use alternative rigorous methods.
+a MMR estimates have been rounded according to the following scheme: <100, no rounding; 100–999, rounded to nearest 10; and >1000, 
+rounded to nearest 100.
+b Negative values indicate a decreasing MMR from 1990 to 2013, while positive values indicate an increasing MMR. Percentages have been 
+calculated using unrounded estimates. The average annual per cent change is estimated by:
+c For countries with MMR ≥100 in 1990, they are categorized as ‘on track’ if MMR has had 5.5% or more average annual decline; ‘making prog-
+ress’ if MMR has had 2% to 5.5% average annual decline; ‘insufficient progress’ if MMR has had less than 2% average annual decline; and ‘no 
+progress’ if MMR has had an average annual increase. Countries with MMR <100 in 1990 are not categorized.
+d Vital registration data were available for analysis only up to 2009. Recent hospital surveillance data for Canada excluding Quebec indicate a 
+decline of maternal deaths per 100 000 deliveries from 8.8 in 2007-2009 to 6.1 in 2009-2011. 98% of deliveries in Canada occur in hospitals.  
+e Refers to a territory.
+MMR 2013
+MMR 1990 – 1 x 100
+1
+2013–1990
+( )
+<<<PAGE=54>>>
+44
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Country % change in 
+MMR between 
+1990 and 
+2013a
+Belarus -96
+Maldives -93
+Bhutan -87
+Cambodia -86
+Israel -84
+Equatorial Guinea -81
+Poland -81
+Lao People’s 
+Democratic republic -80
+Romania -80
+Bulgaria -78
+Estonia -78
+Timor-Leste -78
+Cabo Verde -77
+Eritrea -77
+Latvia -77
+Oman -77
+Lebanon -76
+Nepal -76
+Rwanda -76
+Iran (Islamic 
+Republic of) -72
+Kazakhstan -71
+Bangladesh -70
+Ethiopia -69
+Angola -68
+Lithuania -68
+Russian Federation -68
+Afghanistan -67
+China -67
+Czech Republic -67
+Uruguay -67
+Republic of Moldova -66
+India -65
+Myanmar -65
+Austria -64
+Mozambique -64
+Peru -64
+Syrian Arab 
+Republic -64
+Viet Nam -64
+Egypt -62
+Country % change in 
+MMR between 
+1990 and 
+2013a
+Bolivia (Plurinational 
+State of) -61
+Morocco -61
+Norway -61
+Saudi Arabia -61
+Chile -60
+Honduras -60
+Italy -60
+Samoa -60
+Solomon Islands -59
+South Sudan -59
+Namibia -58
+Azerbaijan -57
+Bosnia and 
+Herzegovina -57
+Dominican Republic -57
+Japan -57
+The former 
+Yugoslav Republic 
+of Macedonia
+-57
+New Zealand -57
+Pakistan -57
+Turkey -57
+Barbados -56
+Indonesia -56
+United Republic of 
+Tanzania -55
+Papua New Guinea -54
+Sierra Leone -54
+Slovakia -54
+Ukraine -54
+United Arab 
+Emirates -53
+Malawi -53
+Uganda -53
+Botswana -52
+Libya -52
+Nigeria -52
+Mali -51
+Netherlands -51
+Occupied 
+Palestinian 
+Territory
+b
+-51
+Country % change in 
+MMR between 
+1990 and 
+2013a
+Qatar -51
+Zambia -51
+Denmark -50
+Sudan -50
+Tunisia -50
+Burkina Faso -49
+Ghana -49
+Guatemala -49
+Mauritania -49
+Vanuatu -49
+Cyprus -48
+Liberia -48
+Malaysia -48
+Sao Tome and 
+Principe -48
+Germany -47
+Kiribati -47
+Comoros -45
+Iceland -45
+Mexico -45
+Uzbekistan -45
+Algeria -44
+Ecuador -44
+Micronesia 
+(Federated States of) -44
+Portugal -44
+Swaziland -44
+Benin -43
+Brazil -43
+Djibouti -43
+Haiti -43
+Saint Lucia -43
+Jordan -42
+Burundi -41
+Madagascar -41
+Chad -41
+Yemen -41
+Belize -40
+Guinea -40
+Guinea-Bissau -40
+Sri Lanka -40
+Senegal -40
+a Percentages have been calculated using unrounded estimates and rounded to whole numbers.
+b Refers to a territory.
+Annex 3. Countries with 40% or more decrease in the maternal mortality ratio (maternal deaths per 100 000 live 
+births) from 1990 to 2013
+<<<PAGE=55>>>
+45
+Trends in maternal mortality 1990 to 2013
+Country Period/year Adjustment 
+factor
+Australiaa 1994–1996 1.23
+Australiab 1997–1999 1.80
+Australiac 2000–2002 1.97
+Australiad 2003–2005 2.03
+Austriae 1980–1998 1.61
+Brazilf 2002 1.40
+Canadag 1988–1992 1.69
+Canadah 1997–2000 1.52
+Denmarki 1985–1994 1.94
+Denmarkj 2002–2006 1.04
+Finlandk 1987–1994 0.94
+Francel Dec 1988–
+March 1989 2.38
+Francem 1999 1.29
+Francen 2001–2006 1.21
+Franceo 2007–2009 1.21
+Guatemalap 1989 1.84
+Guatemalap 1996–1998 1.84
+Guatemalaq 2000 1.88
+Guatemalar 2007 1.73
+Irelands 2009–2011 3.40
+Japant 2005 1.35
+Mexicou 2008 0.99
+Netherlandsv 1983–1992 1.34
+Netherlandsx 1993–2005 1.48
+New Zealandy 2006 1.11
+Country Period/year Adjustment 
+factor
+New Zealandz 2007 0.85
+New Zealandaa 2008 1.00
+New Zealandbb 2009 0.92
+New Zealandcc 2010 1.00
+Portugaldd 2001–2007 2.04
+Serbiaee 2007–2010 1.86
+Singaporeff 1990–1999 1.79
+Sloveniagg 2003–2005 5.00
+South Africahh 1999–2001 0.98
+South Africaii 2002–2004 1.16
+South Africaii 2005–2007 0.90
+Swedenjj 1997–2005 1.33
+Swedenkk 1988–2007 1.68
+United Kingdomll 1988–1990 1.39
+United Kingdomll 1991–1993 1.52
+United Kingdomll 1994–1996 1.64
+United Kingdomll 1997–1999 1.77
+United Kingdomll 2000–2002 1.80
+United Kingdomll 2003–2005 1.86
+United Kingdomll 2006–2008 1.60
+United Statesmm 1991–1997 1.48
+United Statesnn 1995–1997 1.54
+United Statesoo 1999–2002 1.59
+United Statesoo 2003–2005 1.41
+Median 1.5
+a NHMRC, AIHW. Report on Maternal Deaths in Australia, 1994–1996. Canberra; 2001.
+b AIHW. Maternal Deaths in Australia 1997–1999. Canberra; 2004.
+c Sullivan EA, King JF, eds. Maternal deaths in Australia 2000–2002. Maternal Deaths Series no. 2. Cat. no. PER 32. Sydney: AIHW National 
+Perinatal Statistics Unit; 2006.
+d Sullivan EA, Hall B, King JF. Maternal deaths in Australia 2003–2005. Maternal Deaths Series no. 3. Cat. no. PER 42. Sydney: AIHW National 
+Perinatal Statistics Unit; 2007.
+e Karimian-Teherani D et al. Underreporting of direct and indirect obstetrical deaths in Austria, 1980–98. Acta Obstet Gynecol Scand. 
+2002;81(4):323–7.
+f Brasil Ministério da Saúde, Secretaria de Atenção à Saúde, Departamento de Ações Programáticas Estratégicas. Estudo da mortalidade de 
+mulheres de 10 a 49 anos, com ênfase na mortalidade materna: relatório final. Brasilia, Ministério da Saúde, Secretaria de Atenção à Saúde, 
+Departamento de Ações Programáticas Estratégicas, Editora do Ministério da Saúde; 2006.
+g Turner LA et al. Underreporting of maternal mortality in Canada: a question of definition. Chronic diseases in Canada. 2002;23:22–30.
+h Health Canada. Special report on maternal mortality and severe morbidity in Canada – enhanced surveillance: the path to prevention. Ottawa: 
+Minister of Public Works and Government Services Canada; 2004.
+i Andersen BR et al. Maternal mortality in Denmark 1985–1994. Eur J Obstet Gynecol Reprod Biol. 2009; 42:124–8.
+j Bødker B et al. Maternal deaths in Denmark 2002–2006. Acta Obstet Gynecol Scand. 2009;88:556–562.
+k Gissler M et al. Pregnancy-associated deaths in Finland 1987–1994 – definition problems and benefits of record linkage. Acta Obstet Gynecol 
+Scand. 1997;76(7):651–7.
+l Bouvier-Colle MH et al. Reasons for the underreporting of maternal mortality in France, as indicated by a survey of all deaths among women of 
+childbearing age. Int J Epidemiol. 1991;20:717–721.m Bouvier-Colle MH et al. Estimation de la mortalité maternelle en France: une nouvelle méthode. J Gynecol Obstet Biol Reprod. 
+2004 ;33(5):421–9.
+n Rapport du Comité national d’experts sur la mortalité maternelle (CNEMM) 2001–2006. Saint-Maurice, Institut de veille sanitaire; 
+Appendix 1. Adjustment factor to account for misclassification of maternal deaths in civil registration, 
+literature review of reports and articles
+<<<PAGE=56>>>
+46
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+2010.
+o Rapport du comité national d’experts sur la mortalité maternelle (CNEMM). Enquête nationale confidentielle sur les morts maternelles France, 
+2007–2009. Inserm: France; 2013.
+p Schieber B, Stanton C. Estimación de la Mortalidad Materna en Guatemala Período 1996 – 1998. Guatemala; 2000.
+q Ministerio de Salud Pública y Asistencia Social. Línea Basal de Mortalidad Materna para el Año 2000. Informe Final. Guatemala; 2003.
+r Secretaría de Planificación y Programación de la Presidencia Ministerio de Salud Pública y Asistencia Social. Estudio Nacional de Mortalidad 
+Materna. Informe Final. Guatemala; 2011.
+s Confidential Maternal Death Enquiry in Ireland, Report for Triennium 2009–2011, Cork: MDE; 2012.
+t Health Sciences Research Grant. Analysis and Recommendations of the causes of maternal mortality and infant mortality. Tomoaki I, principal 
+investigator. Research Report 2006–2008, Osaka, Department of Perinatology, National Cardiovascular Center; 2009. [in Japanese]. Hidaka A. et 
+al. [Causes and ratio of maternal mortality, and its reliability]. Sanfujinkachiryou [Treatment in Obstetrics and Gynecology]. 2009;99(1):85–95. [in 
+Japanese].
+u Búsqueda intencionada de muertes maternas en México. Informe 2008. Mexico, Dirección General de Información en Salud, Secretaría de 
+Salud; 2010.
+v Schuitemaker N, et al. Confidential enquiry into maternal deaths in The Netherlands 1983–1992. Eur J Obstet Gynecol Reprod Biol. 
+1998;79(1):57–62.
+x Schutte J, et al. Rise in maternal mortality in the Netherlands. BJOG. 2010;117(4):399–406.
+y PMMRC. Perinatal and maternal mortality in New Zealand 2006: second report to the Minister of Health. Wellington, Ministry of Health; 2009.
+z PMMRC. Perinatal and maternal mortality in New Zealand 2007: third report to the Minister of Health July 2008 to June 2009. Wellington, 
+Ministry of Health; 2009.
+aa PMMRC. Perinatal and maternal mortality in New Zealand 2008: fourth report to the Minister of Health July 2009 to June 2010. Wellington, 
+Ministry of Health; 2010.
+bb PMMRC. Fifth Annual Report of the Perinatal and Maternal Mortality Review Committee: reporting mortality 2009. Wellington: Health Quality 
+and Safety Commission; 2011.
+cc PMMRC. Sixth Annual Report of the Perinatal and Maternal Mortality Review Committee: reporting mortality 2010. Wellington: Health Quality 
+and Safety Commission; 2012.
+dd Gomes MC, Ventura MT, Nunes RS. How many maternal deaths are there in Portugal? J Matern Fetal Neonatal Med. 2012;25(10):1975–9.
+ee Krstic M, et al. Maternal deaths – methodology for cases registration and reporting. Belgrade; 2008. [unpublished paper].
+ff Lau G. Are maternal deaths on the ascent in Singapore? A review of maternal mortality as reflected by coronial casework from 1990 to 1999. 
+Ann Acad Med Singapore; 2002,31(3):261–275.
+gg Kralj E, Mihevc-Ponikvar B, Premru-Sršenc T, Balažica J. Maternal mortality in Slovenia: Case report and the method of identifying pregnancy-
+associated deaths. Forensic Science International Supplement Series, 2009;1(1):52–7.
+hh Moodley J. Saving mothers: 1999–2001. SAMJ. 2003;93(5):364–6.
+ii Department of Health, National Committee on Confidential Enquires into Maternal Deaths. Saving Mothers 2008–2010: Fifth report on the Confi-
+dential Enquiries into Maternal Deaths in South Africa. Comprehensive Report. South Africa; 2012.
+jj Grunewald C et al. Modradodligheten underskattad i Sverige. Lakartidningen. 2008;34(105):2250–3.
+kk Esscher, A et al., Maternal mortality in Sweden 1988–2007: more deaths than officially reported. Acta Obstet Gynecol Scand. 2012;92: p. 40–6.
+ll Centre for Maternal and Child Enquiries (CMACE). Saving Mothers’ Lives: Reviewing maternal deaths to make motherhood safer: 2006–2008. 
+The eighth report on Confidential Enquiries into Maternal Deaths in the United Kingdom. BJOG.2011;118(Suppl.1):1–203.
+mm Berg CJ, et al. Pregnancy-related mortality in the United States, 1991–1997. Obstet Gynecol. 2003;101(2):289–296.
+nn MacKay AP , et al. An assessment of pregnancy-related mortality in the United States. Paediatr Perinat Epidemiol. 2005; 19(3):206–214.
+oo MacKay AP et al. Changes in pregnancy mortality ascertainment United States, 1999–2005. Obstet Gynecol. 2011; 118:104–10.
+<<<PAGE=57>>>
+47
+Trends in maternal mortality 1990 to 2013
+Appendix 2. Sixty-seven countries with civil registration data characterized as complete, with good attribution 
+of cause of death
+Argentina, Australia, Austria, Bahamas, Bahrain, Barbados, Belarus, Belgium, Belize, Bulgaria, Canada, 
+Chile, Colombia, Costa Rica, Croatia, Cuba, Czech Republic, Denmark, Estonia, Finland, France, Germany, 
+Greece, Guatemala, Hungary, Iceland, Ireland, Israel, Italy, Japan, Kazakhstan, Kuwait, Latvia, Lithuania, 
+Luxembourg, Malta, Mauritius, Mexico, Netherlands, New Zealand, Norway, Panama, Philippines, Poland, 
+Portugal, Republic of Korea, Republic of Moldova, Romania, Russian Federation, Saint Lucia, Saint Vincent 
+and the Grenadines, Serbia, Singapore, Slovakia, Slovenia, Spain, Suriname, Sweden, Switzerland, The 
+former Yugoslav Republic of Macedonia, Trinidad and Tobago, Ukraine, United Kingdom, United States of 
+America, Uruguay, Uzbekistan, Venezuela (Bolivarian Republic of ).
+Appendix 3. Ninety-six countries with incomplete civil registration and/or other types of maternal mortality data
+Afghanistan, Albania, Algeria, Armenia, Azerbaijan, Bangladesh, Benin, Bhutan, Bolivia (Plurinational State 
+of ), Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Burkina Faso, Burundi, Cambodia, 
+Cameroon, Central African Republic, Chad, China, Congo, Côte d’Ivoire, Democratic Republic of the 
+Congo, Dominican Republic, Ecuador, Egypt, El Salvador, Equatorial Guinea, Eritrea, Ethiopia, Fiji, Gabon, 
+Georgia, Ghana, Grenada, Guinea, Guyana, Haiti, Honduras, India, Indonesia, Iran (Islamic Republic of ), 
+Iraq, Jamaica, Jordan, Kenya, Kyrgyzstan, Lao People’s Democratic Republic, Lebanon, Lesotho, Liberia, 
+Libya, Madagascar, Malawi, Malaysia, Maldives, Mali, Mauritania, Mongolia, Montenegro, Morocco, 
+Mozambique, Myanmar, Namibia, Nepal, Nicaragua, Niger, Nigeria, Oman, Pakistan, Paraguay, Peru, 
+Puerto Rico, Rwanda, Sao Tome and Principe, Saudi Arabia, Senegal, Sierra Leone, South Africa, South 
+Sudan, Sri Lanka, Sudan, Swaziland, Syrian Arab Republic, Tajikistan, Thailand, Timor-Leste, Togo, Tunisia, 
+Turkey, Uganda, United Republic of Tanzania, Viet Nam, Yemen, Zambia, Zimbabwe.
+Appendix 4. Twenty countries with no national data on maternal mortality
+Angola, Cabo Verde, Comoros, Cyprus, Democratic People’s Republic of Korea, Djibouti, Gambia, Guinea-
+Bissau, Kiribati, Micronesia (Federated States of ), Occupied Palestinian Territory,
+1 Papua New Guinea, 
+Qatar, Samoa, Solomon Islands, Somalia, Tonga, Turkmenistan, United Arab Emirates, Vanuatu.
+1 Refers to a territory.
+<<<PAGE=58>>>
+48
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Appendix 5. Estimation of maternal deaths due to HIV
+In this estimation process, the full model has two parts, the first part to separately estimate maternal 
+deaths not related to AIDS (discussed in Chapter 3) and the second part to estimate AIDS-related 
+maternal deaths. AIDS-related maternal deaths refer to HIV-positive women who have died because of 
+the aggravating effect of pregnancy on HIV; where the interaction between pregnancy and HIV becomes 
+the underlying cause of death, these are counted as ‘indirect maternal’ deaths. It is important to note that 
+direct maternal deaths among HIV-positive women are not estimated separately but are rather included 
+within the first part of the model.
+Thus, the final PM estimates are the result of adding the results of this two-part model: the estimated 
+number of non-AIDS-related maternal deaths and the estimated number of AIDS-related indirect 
+maternal deaths:
+ PM = (1 – a) PM
+na + a PMa (A1)
+where:
+PMna is the proportion of non-AIDS maternal deaths among all non-AIDS deaths 
+(women aged 15–49 years);
+PMa is the proportion of AIDS-related maternal deaths among all AIDS deaths  
+(women aged 15–49 years);
+a is the proportion of AIDS deaths among all deaths (women aged 15–49 years).
+This appendix describes the second part of the two-part model, that is, the estimation of indirect 
+maternal AIDS-related deaths, PMa. The sources of data for estimating the fraction of AIDS-related indirect 
+maternal deaths are the UNAIDS 2013 estimates of AIDS-related deaths2 and the total number of deaths 
+estimated by WHO from its life tables. The approach used to estimate the proportion of AIDS deaths that 
+qualify as indirect maternal deaths, PM
+a, is the product of two quantities:
+ PM a = υu (A2)
+where:
+υ is the proportion of AIDS deaths in women aged 15–49 years that occur during pregnancy or the 
+childbirth period. The value of υ is computed as follows:
+ υ =   ck GFR
+1 + c (k–1) GFR    (A3)
+u is the fraction of AIDS deaths among pregnant women that qualify as maternal because of some 
+causal relationship with the pregnancy, delivery or postpartum period;
+GFR is the general fertility rate;
+c is the average woman-years lived in the maternal risk period per live birth (set equal to 1 year, 
+including the 9 month gestation, plus 42 days postpartum, and an additional 1.5 months to account 
+for pregnancies not ending in a live birth);
+k is the relative risk of dying from AIDS for a pregnant versus non-pregnant woman.
+2 The deaths referred to in this document as AIDS deaths are referred to as AIDS deaths in UNAIDS publications. These deaths include the 
+estimated number of deaths related to HIV infection, including deaths that occur before reaching the clinical stage classified as AIDS.
+<<<PAGE=59>>>
+49
+Trends in maternal mortality 1990 to 2013
+In the 2013 estimates, updated values for k and u were used, in light of new data from the network for 
+Analyzing Longitudinal Population-based HIV/AIDS data on Africa (ALPHA).3 Based on the findings in 
+the paper and further exploration of the data, both k as well as u were set equal to 0.3. The uncertainty 
+distributions for both parameters were updated as well, the standard deviation for k was set to 0.1 and for 
+u, a uniform distribution with outcomes between 0.1 and 0.5 was used.
+3 Zaba B et al. Effect of HIV infection on pregnancy-related mortality in sub-Saharan Africa: secondary analyses of pooled community-based data 
+from the network for Analyzing Longitudinal Population-based HIV/AIDS data on Africa (ALPHA). Lancet. 2013 May 18;381(9879):1763–71. doi: 
+10.1016/S0140–6736(13)60803-X.
+<<<PAGE=60>>>
+50
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Appendix 6. Trends in estimates of maternal mortality ratio (MMR, maternal deaths per 100 000 live births), 
+1990–2013, by United Nations Millennium Development Goal region (indicated in bold) and other grouping
+Region MMRa % change 
+in MMR 
+between 
+1990 and 2013b
+Average annual 
+% change in 
+MMR between 
+1990 and 2013b
+1990 1995 2000 2005 2010 2013
+World 380 360 330 270 230 210 -45 -2.6
+Developed regionsc 26 20 17 15 18 16 -37 -2
+Developing regions 430 410 370 300 250 230 -46 -2.6
+Africa 870 840 750 620 510 460 -47 -2.7
+Northern Africad 160 130 110 87 74 69 -57 -3.6
+Sub-Saharan Africa 990 930 830 680 560 510 -49 -2.9
+Eastern Africae 1000 920 790 630 500 440 -57 -3.6
+Middle Africaf 1100 1100 1100 880 750 680 -38 -2.1
+Southern Africag 200 180 200 200 170 160 -22 -1.1
+Western Africah 1000 950 850 700 590 540 -47 -2.8
+Asia 330 300 250 190 150 130 -61 -4
+Eastern Asiai 95 74 63 51 37 33 -65 -4.5
+Eastern Asia excluding China 47 48 66 60 56 54 15 0.6
+Southern Asiaj 530 440 360 270 210 190 -64 -4.4
+Southern Asia excluding India 450 400 350 270 200 170 -63 -4.2
+South-eastern Asiak 320 270 220 180 150 140 -57 -3.6
+Western Asial 130 110 97 88 78 74 -43 -2.4
+Caucasus and Central Asiam 70 78 65 52 45 39 -44 -2.5
+Latin America and the 
+Caribbean 140 120 110 93 88 85 -40 -2.2
+Latin American 130 110 98 84 79 77 -40 -2.2
+Caribbeano 300 270 230 230 210 190 -36 -1.9
+Oceaniap 390 320 290 240 210 190 -51 -3
+a,b See footnotes in Annex 2.
+c Albania, Australia, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, 
+Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Israel, Italy, Japan, Latvia, Lithuania, Luxembourg, Malta, Montenegro, Netherlands, 
+New Zealand, Norway, Poland, Portugal, Republic of Moldova, Romania, Russian Federation, Serbia, Slovakia, Slovenia, Spain, Sweden, 
+ Switzerland, The former Yugoslav Republic of Macedonia, Ukraine, United Kingdom, United States of America.
+d Algeria, Egypt, Libya, Morocco, Tunisia.
+e Burundi, Comoros, Djibouti, Eritrea, Ethiopia, Kenya, Madagascar, Malawi, Mauritius, Mozambique, Rwanda, Somalia, South Sudan, Sudan, 
+Uganda, United Republic of Tanzania, Zambia, Zimbabwe.
+f Angola, Cameroon, Central African Republic, Chad, Congo, Democratic Republic of the Congo, Equatorial Guinea, Gabon, Sao Tome and Principe.
+g Botswana, Lesotho, Namibia, South Africa, Swaziland.
+h Benin, Burkina Faso, Cabo Verde, Côte d’Ivoire, Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, 
+Sierra Leone, Togo.
+i People’s Republic of China, Democratic People’s Republic of Korea, Mongolia, Republic of Korea.
+j Afghanistan, Bangladesh, Bhutan, India, Iran (Islamic Republic of), Maldives, Nepal, Pakistan, Sri Lanka.
+k Brunei Darussalam, Cambodia, Indonesia, Lao People’s Democratic Republic, Malaysia, Myanmar, Philippines, Singapore, Thailand, Timor-Leste, 
+Viet Nam.
+l Bahrain, Iraq, Jordan, Kuwait, Lebanon, Occupied Palestinian Territory, Oman, Qatar, Saudi Arabia, Syrian Arab Republic, Turkey, United Arab 
+Emirates, Yemen.
+m Armenia, Azerbaijan, Georgia, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan.
+n Argentina, Belize, Bolivia (Plurinational State of), Brazil, Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Guyana, Honduras, 
+Mexico, Nicaragua, Panama, Paraguay, Peru, Suriname, Uruguay, Venezuela (Bolivarian Republic of).
+o Bahamas, Barbados, Cuba, Dominican Republic, Grenada, Haiti, Jamaica, Puerto Rico, Saint Lucia, Saint Vincent and the Grenadines, Trinidad 
+and Tobago.
+p Fiji, Kiribati, Micronesia (Federated States of), Papua New Guinea, Samoa, Solomon Islands, Tonga, Vanuatu.
+<<<PAGE=61>>>
+51
+Trends in maternal mortality 1990 to 2013
+Appendix 7. Estimates of maternal mortality ratio (MMR, maternal deaths per 100 000 live births), number of 
+maternal deaths, and lifetime risk by WHO region, 2013
+Region MMRa Range of MMR uncertainty Number of 
+maternal deathsa
+Lifetime risk of 
+maternal death:a
+1 in:
+Lower
+estimate
+Upper 
+estimate
+Africa 500 370 720 171 000 40
+Americas 68 52 92 11 000 680
+Eastern Mediterranean 170 120 260 26 000 180
+Europe 17 14 22 1900 3300
+South-East Asia 190 130 270 68 000 210
+Western Pacific 45 32 66 12 000 1200
+World 210 160 290 289 000 190
+a See footnote in Annex 1.
+Appendix 8. Trends in estimates of maternal mortality ratio (MMR, maternal deaths per 100 000 live births), 
+1990–2013, by WHO region
+Region MMRa % change 
+in MMR 
+between 
+1990 and 2013b
+Average annual 
+% change in 
+MMR between 
+1990 and 2013b
+1990 1995 2000 2005 2010 2013
+Africa 960 920 820 670 550 500 -49 -2.8
+Americas 110 92 81 71 70 68 -37 -2
+Eastern 
+Mediterranean 340 330 300 240 190 170 -50 -3
+Europe 42 36 29 22 20 17 -59 -3.8
+South-East Asia 520 430 340 260 210 190 -64 -4.4
+Western Pacific 110 93 78 63 49 45 -60 -3.9
+World 380 360 330 270 230 210 -45 -2.6
+a,b See footnotes in Annex 2.
+<<<PAGE=62>>>
+52
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Appendix 9. Estimates of maternal mortality ratio (MMR, maternal deaths per 100 000 live births), number of 
+maternal deaths, and lifetime risk by UNICEF region, 2013
+Region MMRa Range of MMR uncertainty Number of 
+maternal deathsa
+Lifetime risk of 
+maternal death:a
+1 in:
+Lower
+Estimate
+Upper 
+estimate
+Africa 460 350 670 181 000 45
+Sub-Saharan Africa 510 380 730 179 000 38
+Eastern and Southern Africa 420 310 610 68 000 49
+West and Central Africa 590 420 910 106 000 30
+Middle East and North Africa 110 78 160 11 000 300
+Asia 140 100 200 91 000 320
+South Asia 190 130 290 68 000 190
+East Asia and the Pacific 74 54 110 23 000 720
+Latin America and Caribbean 85 66 120 9300 510
+Central and Eastern Europe and the 
+Commonwealth of Independent States 27 22 35 1600 1900
+Industrialized countries 15 10 21 1700 4000
+Developing countries 230 180 320 286 000 160
+Least developed countries 440 330 630 131 000 51
+World 210 160 290 289 000 190
+Appendix 10. Trends in estimates of maternal mortality ratio (MMR, maternal deaths per 100 000 live births), 
+1990–2013, by UNICEF region
+Region MMRa % change 
+in MMR 
+between 
+1990 and 2013b
+Average annual 
+% change in 
+MMR between 
+1990 and 2013b
+1990 1995 2000 2005 2010 2013
+Africa 870 840 750 620 510 460 -47 -2.7
+Sub-Saharan Africa 990 930 830 680 560 510 -49 -2.9
+Eastern and Southern 
+Africa 960 900 770 620 480 420 -56 -3.5
+West and Central Africa 1000 990 910 750 650 590 -43 -2.4
+Middle East and 
+North Africa 200 180 160 140 120 110 -46 -2.7
+Asia 350 310 260 200 150 140 -61 -4
+ South Asia 550 460 370 280 220 190 -65 -4.4
+ East Asia and the Pacific 170 150 130 100 81 74 -56 -3.5
+Latin America and 
+Caribbean 140 120 110 93 88 85 -40 -2.2
+Central and Eastern Europe 
+and the Commonwealth of 
+Independent States 
+65 59 48 36 32 27 -58 -3.8
+Industrialized countries 12 10 10 11 15 15 21 0.8
+Developing countries 430 400 370 300 250 230 -46 -2.6
+Least developed countries 940 870 750 610 490 440 -53 -3.2
+World 380 360 330 270 230 210 -45 -2.6
+a,b See footnotes in Annex 2.
+<<<PAGE=63>>>
+53
+Trends in maternal mortality 1990 to 2013
+Appendix 11. Estimates of maternal mortality ratio (MMR, maternal deaths per 100 000 live births), number of 
+maternal deaths, and lifetime risk by UNFPA region, 2013
+Region MMRa Range of MMR uncertainty Number of 
+maternal deathsa 
+Lifetime risk of 
+maternal death:a
+1 in:
+Lower
+estimate
+Upper 
+estimate
+Arab States 170 120 260 14 000 170
+Asia and the Pacific 140 99 200 91 000 320
+Eastern and Southern Africa 410 300 590 64 000 51
+Eastern Europe and Central Asia 27 22 35 1600 1900
+Latin America and the Caribbean 85 66 120 9300 510
+West and Central Africa 590 420 910 106 000 30
+Non-UNFPA list 15 11 21 1900 3800
+World 210 160 290 289 000 190
+a See footnote in Annex 1.
+Appendix 12. Trends in estimates of maternal mortality ratio (MMR, maternal deaths per 100 000 live births) 
+1990–2013, by UNFPA region
+Region MMRa % change 
+in MMR 
+between 
+1990 and 2013b
+Average annual 
+% change in 
+MMR between 
+1990 and 2013b
+1990 1995 2000 2005 2010 2013
+Arab States 300 270 250 210 180 170 -42 -2.3
+Asia and the Pacific 350 310 260 200 150 140 -61 -4
+Eastern and Southern Africa 950 890 750 600 470 410 -57 -3.6
+Eastern Europe and 
+Central Asia 66 59 48 36 32 27 -59 -3.8
+Latin America and the
+Caribbean 140 120 110 93 88 85 -40 -2.2
+West and Central Africa 1000 990 910 750 650 590 -43 -2.4
+Non-UNFPA list 14 12 12 12 15 15 10 0.4
+World 380 360 330 270 230 210 -45 -2.6
+a,b See footnotes in Annex 2.
+<<<PAGE=64>>>
+54
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Appendix 13. Estimates of maternal mortality ratio (MMR, maternal deaths per 100 000 live births), number of 
+maternal deaths, and lifetime risk by The World Bank region and income group, 2013
+Region and income group MMRa Range of MMR uncertainty Number of 
+maternal deathsa
+Lifetime risk of 
+maternal death:a
+1 in:
+Lower
+estimate
+Upper 
+estimate
+Low income 450 330 640 124 000 52
+Middle income 170 130 240 162 000 240
+Lower middle income 240 170 340 142 000 140
+Upper middle income 57 43 82 21 000 910
+Low and middle income 230 180 320 286 000 160
+East Asia and Pacific 75 54 110 23 000 700
+Europe and Central Asia 28 23 36 1200 1700
+Latin America and the Caribbean 87 67 120 9200 500
+Middle East and North Africa 78 56 110 6300 430
+South Asia 190 130 290 68 000 190
+Sub-Saharan Africa 510 380 730 178 000 38
+High income 17 13 24 2500 3400
+World 210 160 290 289 000 190
+a See footnote in Annex 1.
+Appendix 14. Trends in estimates of maternal mortality ratio (MMR, maternal deaths per 100 000 live births), 
+1990–2013, by The World Bank region and income group
+Region and income group MMRa % change 
+in MMR 
+between 
+1990 and 2013b
+Average annual 
+% change in 
+MMR between 
+1990 and 2013b
+1990 1995 2000 2005 2010 2013
+Low income 900 840 740 610 500 450 -50 -3
+Middle income 330 300 270 220 180 170 -49 -2.9
+Lower middle income 500 440 380 310 260 240 -53 -3.2
+Upper middle income 120 100 93 77 62 57 -51 -3
+Low and middle income 430 410 370 300 250 230 -46 -2.6
+East Asia and Pacific 170 150 130 110 82 75 -56 -3.5
+Europe and Central Asia 61 54 44 35 31 28 -54 -3.3
+Latin America and the 
+Caribbean 150 130 110 95 90 87 -40 -2.2
+Middle East and  
+North Africa 160 130 110 97 83 78 -51 -3
+South Asia 550 460 370 280 220 190 -65 -4.4
+Sub-Saharan Africa 990 930 830 680 560 510 -49 -2.9
+High income 24 20 18 16 18 17 -31 -1.6
+World 380 360 330 270 230 210 -45 -2.6
+a,b See footnotes in Annex 2.
+<<<PAGE=65>>>
+55
+Trends in maternal mortality 1990 to 2013
+Appendix 15. Estimates of maternal mortality ratio (MMR, maternal deaths per 100 000 live births), number of 
+maternal deaths, and lifetime risk by UNPD region, 2013
+Region MMRa Range of MMR uncertainty Number of 
+maternal deathsa
+Lifetime risk of 
+maternal death:a
+1 in:
+Lower
+estimate
+Upper 
+estimate
+Africa 460 350 670 181 000 45
+Sub-Saharan Africa 510 380 730 179 000 38
+Asia 130 92 180 95 000 340
+Europe 12 10 16 990 5100
+Latin America and the Caribbean 85 66 120 9300 520
+Northern America 26 17 42 1200 2000
+Oceania 84 47 160 530 490
+More developed countries 16 12 23 2300 3700
+Less developed countries 230 180 320 286 000 160
+Least developed countries 440 330 630 131 000 51
+Other less developed countries 160 120 230 155 000 250
+World 210 160 290 289 000 190
+a See footnote in Annex 1.
+Appendix 16. Trends in estimates of maternal mortality ratio (MMR, maternal deaths per 100 000 live births), 
+1990–2013, by UNPD region
+Region MMRa % change 
+in MMR 
+between 
+1990 and 2013b
+Average annual 
+% change in 
+MMR between 
+1990 and 2013b
+1990 1995 2000 2005 2010 2013
+Africa 870 840 750 620 510 460 -47 -2.7
+Sub-Saharan Africa 990 930 830 680 560 510 -49 -2.9
+Asia 320 290 240 190 140 130 -61 -4
+Europe 35 26 21 16 15 12 -65 -4.5
+Latin America and the 
+Caribbean 140 120 110 93 88 85 -40 -2.2
+Northern America 11 11 13 16 26 26 134 3.8
+Oceania 160 140 130 110 92 84 -46 -2.7
+More developed countries 26 20 17 15 18 16 -37 -2
+Less developed countries 430 400 370 300 250 230 -46 -2.6
+Least developed countries 940 870 750 610 490 440 -53 -3.2
+Other less developed 
+countries 310 290 260 210 180 160 -48 -2.8
+World 380 360 330 270 230 210 -45 -2.6
+a,b See footnotes in Annex 2.
+<<<PAGE=66>>>
+56
+WHO, UNICEF, UNFPA, The World Bank and the United Nations Population Division estimates
+Appendix 17. Summary of country consultations
+The generation of global, regional, and country-level estimates and trends in morbidity and mortality is 
+one of the core functions of WHO, which is the agency within the UN system that leads the production of 
+updated maternal mortality estimates. In 2001, the WHO Executive Board endorsed a resolution (EB.107.
+R8) seeking to “establish a technical consultation process bringing together personnel and perspectives 
+from Member States in different WHO regions. ” A key objective of this consultation process is “to ensure 
+that each Member State is consulted on the best data to be used. ” Since the process is an integral step in 
+the overall estimation strategy, it is described briefly here.
+The country consultation process entails an exchange between WHO and technical focal person(s) in each 
+country. It is carried out prior to the publication of estimates. During the consultation period, WHO invites 
+focal person(s) to review input data sources, methods for estimation, and the preliminary estimates. Focal 
+person(s) are encouraged to submit additional data that may not have been taken into account in the 
+preliminary estimates.
+The country consultation process for the 2014 round of maternal mortality estimates was initiated with 
+an official communication from WHO to all Member States on 15 April 2013. This letter informed Member 
+States of the forthcoming exercise in maternal mortality estimation and requested the designation of 
+an official contact (typically within the national health ministry and/or the central statistics office) to 
+participate in the consultation. The designated officials received the following items by e-mail: (1) a copy 
+of official communication; (2) draft estimates and data sources; and (3) a summary of the methodology 
+used. WHO regional offices actively collaborated in identifying focal persons through their networks.
+The formal consultation process was officially completed by 22 August 2013. Of the 183 Member 
+States included in the analysis, WHO received designated officials from 121 Member States; AFRO
+4 (20), 
+AMRO (18), EMRO (19), EURO (35), SEARO (10), WPRO (19), and received feedback, comments and/or data 
+from 71 Member States. During the consultation period, new data submitted by countries were reviewed 
+to determine whether they met the study’s inclusion criteria. Data were considered acceptable to use 
+as new input data if they were representative of the national population and referred to a specific time 
+interval within the period from the late 1980s until the present
+As a result of the country consultation and updated civil registration data, 232 new country-years of data 
+observations were included for the maternal mortality estimates from 65 countries and consisted of 94 
+country-years of civil registration data and 138 country-years from other sources, mainly from sisterhood 
+survey data and maternal mortality surveillance systems.
+As in the previous country consultation, the new observations were from civil registration systems and 
+surveys; however, the increase in number of other new observations also shows that countries lacking 
+functioning civil registration systems are increasingly investing in monitoring maternal mortality with 
+empirical data from alternative sources.
+4 AFRO: Regional Office for Africa; AMRO: Regional Office for the Americas; EMRO: Regional Office for the Eastern Mediterranean; EURO: Regional 
+Office for Europe; SEARO: Regional Office for South-East Asia; WPRO: Regional Office for the Western Pacific.
+<<<PAGE=67>>>
+
+<<<PAGE=68>>>
+THE WORLD BANK
+Trends in 
+Maternal Mortality: 
+1990 to 2013
+Estimates by WHO, UNICEF, UNFPA, The World Bank 
+and the United Nations Population Division 
+ISBN 978 92 4 150722 6

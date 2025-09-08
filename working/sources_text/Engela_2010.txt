@@ -1,0 +1,1740 @@
+<<<PAGE=1>>>
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+<<<PAGE=2>>>
+
+<<<PAGE=3>>>
+ECD Working Paper Series ● No. 21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Implementing a Government-wide Monitoring 
+and Evaluation System in South Africa 
+ 
+ 
+Ronette Engela  
+Tania Ajam 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+www.worldbank.org/ieg/ecd  
+July 2010 
+The World Bank 
+Washington, DC
+<<<PAGE=4>>>
+Copyright 2010 
+Independent Evaluation Group 
+Communications, Learning, and Strategy (IEGCS) 
+Email: ieg@worldbank.org 
+Telephone: 202-458-4497 
+Facsimile: 202-522-3125 
+ 
+ 
+Building monitoring and evaluation systems helps strengthen governance in countries—
+by improving transparency, by strengthening accountability relationships, and by 
+building a performance culture within governments to support better policymaking, 
+budget decision making, and management. A related area of focus is civil society, which 
+can play a catalytic role through provision of assessments of government performance. 
+IEG aims to identify and help develop good-practice approaches in countries, and to 
+share the growing body of experience involving such work. 
+ 
+The IEG Working Paper series disseminates the findings of work in progress to 
+encourage the exchange of ideas about enhancing development effectiveness through 
+evaluation. An objective of the series is to get the findings out quickly, even if the 
+presentations are somewhat informal.  
+ 
+The findings, interpretations, opinions, and conclusions expressed in this paper are 
+entirely those of the authors, in their personal capacities, and do not necessarily 
+represent the views of any institution, IEG, the World Bank, or its member countries.  
+ 
+ 
+ISBN-13:  978-1-60244-138-5 
+ISBN-10:  1-60244-138-3
+<<<PAGE=5>>>
+iii 
+Contents 
+ 
+Abbreviations ...................................................................................................................... iv 
+Foreword .............................................................................................................................. v 
+Executive Summary............................................................................................................. vi 
+1. Background .................................................................................................................  1 
+2. Implementing a GWM&E System  in South Africa ..................................................... 2 
+2.1 Policy Platform ..................................................................................................... 4 
+2.2 M&E Products, Uses, and Activities .................................................................... 6 
+2.3 Key Stakeholders and Their Roles ....................................................................... 9 
+2.4 Performance Monitoring and Ev aluation: Next Steps ........................................ 13 
+3. Parallels with Interna tional Experience ..................................................................... 15 
+3.1 Political Leadership a nd Championing of M&E ................................................ 16 
+3.2 Incentives for M&E ............................................................................................ 17 
+3.3 Top-Down and Bottom-Up Convergence .......................................................... 17 
+3.4 Monitoring before Evaluation ............................................................................ 18 
+3.5 Information and Data Constraints ...................................................................... 18 
+3.6 Capacity Building ............................................................................................... 19 
+3.7 Managing Change: Formal versus Informal Rules ............................................. 19 
+3.8 “Ownership” of the M&E System by Line Ministries and Other Agencies ....... 19 
+4. Fault Lines in Implementation................................................................................... 20 
+4.1 Coordination of M&E Design ............................................................................ 20 
+4.2 A Decentralized Approach ve rsus National Direction ....................................... 22 
+4.3 Complexity of Subnational Government ............................................................ 23 
+4.4 Tensions between Budget-Linked M&E and Policy-Linked M&E ................... 24 
+4.5 Good on Paper, but in Reality?........................................................................... 25 
+4.6 Information Sharing............................................................................................ 25 
+4.7 Evaluation Lag.................................................................................................... 26 
+5. Conclusions and Lessons Learned............................................................................. 27 
+6. Bibliography .............................................................................................................. 33
+<<<PAGE=6>>>
+iv 
+Abbreviations 
+ 
+AG    Auditor-General 
+COGTA Department of Cooperativ e Governance and Traditional 
+Affairs (previously called the Department of Provincial and 
+Local Government) 
+DPSA    Department of Publ ic Service and Administration 
+FMPPI Framework for Managing Program Performance 
+Information 
+FOSAD Forum of South African Directors-General 
+GIS    Geographical Information System 
+GWM&E   Government-wide monitoring and evaluation 
+IDP    Independent Development Plan 
+IT    Information technology 
+M&E    Monitoring and evaluation 
+MDG    Millennium Development Goals 
+MEC Member of the Provincial Executive Council (provincial 
+minister) 
+MFMA   Municipal Financial Management Act (of 2003) 
+NIMES   National Integrated M&E System (Uganda) 
+OPSC    Office of the P ublic Service Commission 
+PALAMA Public Administration, Leadership, and Management 
+Academy (formerly called SAMDI) 
+PEAP    Poverty Eradication Action Plan (Uganda) 
+PERSAL   Transversal government payroll and personnel data system  
+PFMA    Public Finance Management Act (of 1999) 
+PGDS    Provincial Growth  and Development Strategy 
+PME    Performance monitoring and evaluation 
+PoA    Program of Action 
+SAMDI South African Management Development Institute (now 
+called PALAMA) 
+SASQAF   South African Statisti cal Quality Assurance Framework 
+StatsSA Statistical Agency of South Africa
+<<<PAGE=7>>>
+v 
+Foreword 
+ 
+As part of its activities, the World Bank’s Independent Evaluation Group (IEG) provides 
+technical assistance to member developing countries in designing and implementing 
+effective monitoring and evaluation (M&E) systems, and in strengthening government 
+M&E capacities as an important part of sound governance. IEG prepares resource 
+materials, with case studies demonstrating good or promising practices, which other 
+countries can refer to or adapt to suit their own particular circumstances 
+(http://www.worldbank.org/ieg/ecd). 
+This paper presents the South Africa case study, which provides a number of interesting 
+lessons relevant to other developing countries as well as to developed countries. The 
+government of South Africa has followed a “big bang” approach in its efforts to build a 
+national M&E system, starting as recently as 2005. The country has pursued capacity 
+building and system building with a focus on monitoring; a conscious decision was made 
+to pursue evaluation later. Interestingly, M&E system development is being allowed to 
+evolve, rather than follow a completed and detailed blueprint.  
+A number of major M&E initiatives have been pursued over the past three years, and 
+considerable success has already been achieved. This paper provides an honest assessment 
+of the remaining challenges, including the barriers to achieving more of a performance 
+culture in the government and civil service.  
+The South African experience is one that will certainly be worth observing closely, and 
+learning from, in coming years.  
+This working paper was written by Ronette Engela and Tania Ajam. Ms. Engela is Chief 
+Director for the Government-wide Monitoring and Evaluation System, Ministry of 
+Performance Monitoring and Evaluation, President’s Office, Government of South Africa. 
+Ms Ajam is CEO of the Applied Fiscal Research Centre (known informally as AFReC), a 
+research-based training and consulting company affiliated with the University of Cape 
+Town.  
+This paper has benefited from comments received from a number of people, including 
+Keith Mackay, Manuel Fernando Castro, Gladys Lopez-Acevedo, and Marcus Goldstein.  
+The views expressed in this document are solely those of the authors, and do not 
+necessarily represent the views of the World Bank, the government of South Africa,  
+AFReC, or any other institution with which the authors are affiliated.  
+ 
+Hans-Martin Boehmer 
+Manager 
+Communications, Learning, and Strategy
+<<<PAGE=8>>>
+vi 
+Executive Summary 
+ 
+Monitoring and evaluation (M&E) is an extremely complex, multidisciplinary and skill-
+intensive endeavor. Government-wide M&E is even more so because it requires detailed 
+knowledge both across and within sectors, as well as of interactions among planning, 
+budgeting, and implementation functions in the public sector. The situation is complicated 
+even further when the machinery of government is decentralized, with powers and 
+functions distributed across three spheres of government. It is precisely this kind of 
+complex intergovernmental structure, with diffuse powers and functions, which requires 
+strong M&E systems to promote coordination and prevent fragmentation.  
+This paper outlines the process of implementing a government-wide monitoring and 
+evaluation (GWM&E) system in South Africa. The first section sketches the context that 
+created the impetus for establishing such a system. This context is clearly shaping the 
+evolution of the system and influencing its longer-term sustainability. The second section 
+outlines the various stages of conceptualizing and implementing the GWM&E system, 
+which is currently very much a “work in progress.” Key components of the South African 
+GWM&E framework are described in detail, such as: the policy platform upon which it is 
+based, the specific M&E products and their uses, as well as the major actors. The creation 
+of a dedicated Ministry of Performance Monitoring and Evaluation (PME) within the 
+President’s Office in 2009 signaled a new phase in the development trajectory of M&E 
+systems in the South African public sector. The new ministry introduced a Policy Paper 
+on Improving Government Outcomes in Parliament in 2009, outlining an approach. The 
+policy position draws on the existing GWM&E system and expands its policy reach by 
+introducing a specific focus on performance and monitoring at the level of politically 
+determined outcomes. 
+The third section reviews international experiences for lessons learned, which may also be 
+germane to the South African context, noting similarities and differences in approach. 
+Some of the critical implementation factors relate to the role of political leadership and 
+championing of M&E, incentives for promoting usage of M&E findings, dealing with 
+information and data constraints, capacity building, “ownership” of the M&E system by 
+line ministries and other agencies, and managing the challenges of change. The fourth 
+section examines a range of challenges and difficulties encountered in South Africa. The 
+final section reflects on lessons distilled from the South African experience to date.  
+Some key lessons learned from the South African experience may be of relevance to other 
+developing countries contemplating similar reforms, such as the following: 
+ There needs to be an appropriate balance between deliberate systemic design and 
+organic evolution.  
+ Coordination is critical, and factors inhibiting coordination are multifaceted. 
+ A dual implementation approach, which combines short-term visible M&E 
+achievements with longer-term strategic direction, is desirable. 
+ GWM&E is a management system, not an information technology (IT) system.
+<<<PAGE=9>>>
+vii 
+ There should be an appropriate balance between top-down guidance and bottom-up 
+(sector and subnational) expertise.  
+ When sequencing reforms, do the basics first. 
+ Resistance is inevitable and managing change is critical to successful 
+implementation. 
+ The choice between a principles-based versus a firmer policy regulatory approach 
+depends on the specific country context.
+<<<PAGE=10>>>
+viii
+<<<PAGE=11>>>
+1 
+1. Background 
+Monitoring and evaluation (M&E) is an extremely complex, multidisciplinary and 
+skill-intensive endeavor. Government-wide M&E is even more so because it requires 
+detailed knowledge both across and within sectors, and as well as of interactions 
+among planning, budgeting, and implementation functions in the public sector. The 
+situation is complicated even further when the machinery of government is 
+decentralized, with powers and functions distributed across three spheres of 
+government. It is precisely this kind of complex intergovernmental structure, with 
+diffuse powers and functions, which requires strong M&E systems to promote 
+coordination and prevent fragmentation.  
+South Africa’s negotiated transition to a new democratic order in 1994 created 
+immense pressures on the newly elected government. One of the key priorities was to 
+overcome the legacy of racially skewed public service delivery under apartheid by 
+enhancing access to, and the quality of, services to previously underserved 
+communities and vulnerable groups, such as children and the disabled. The 1996 Bill 
+of Rights confers on citizens socioeconomic rights to health care, housing, education, 
+water, and other basic necessities, which are to be progressively realized with 
+available resources by the state.  
+The 1996 Constitution also created three distinct but interrelated spheres
+1 of 
+government: the national government, provincial/local governments (of which there 
+are 9), and municipal governments (of which there are 284). While policy making 
+occurs primarily at the national level, implementation of policies in concurrent 
+functions2 occurs mainly at the subnational level. Provincial governments play a 
+major role in delivering health, education, social development, and transport services. 
+Revenue collection is centralized in the national government, but there is a system for 
+allocating an “equitable shares” of the nationally collected revenues to national and 
+provincial spheres.3 Provincial governments have few of their own revenue sources 
+and are largely dependent on the unconditional “equitable share” grants provided by 
+the national government.  
+This complex, decentralized machinery of government, with powers and functions 
+distributed across the three spheres, requires intricate coordination both across and 
+within sectors—such as the educat ion, health and “built environment”4 sectors—at 
+various points in the intergovernmental planning and budgeting cycles, as well as in 
+implementation of joint work across two or more spheres. The intergovernmental 
+system also interacts with a number of national, provincial and local public entities, 
+and state-owned enterprises. 
+                                                      
+1 The South African Constitution refers to spheres of government, rather than tiers or levels. This 
+connotes a more equal relationship in the powers that were negotiated. 
+2 Concurrent functions in the South African Constitution refer to responsibilities shared by two or more 
+spheres of government. For example, health, education, and social development are jointly provided 
+through national and provincial governments. 
+3 See s214 of the South African Constitution. 
+4 In South Africa, the term “built environment” refers specifically to housing as well as supporting 
+infrastructure, such as water, electricity, sanitation, roads, etc.
+<<<PAGE=12>>>
+2 
+The South African Constitution also places a premium on a responsive, development-
+oriented public service,5 effective and accountable stewardship of public resources by 
+the executive government, effective oversight by Parliament and the nine provincial 
+legislatures, and public participation in policy and implementation processes.6 
+In response, the South African government embarked on a sustained program of 
+public sector reform, including reforms to the civil service performance management 
+systems as well as budget reforms. These budget reforms initially focused on the 
+financial dimensions of public expenditure management. However, there is increasing 
+emphasis on service delivery and the gathering of nonfinancial information, in pursuit 
+of greater value for money spent. The government is also committed to the 
+Millennium Development Goals and other international commitments. All of these 
+factors have led the South African government to recognize the need for a 
+government-wide monitoring and evaluation (GWM&E) system. 
+2. Implementing a GWM&E System in South Africa 
+In 2005, the South African Cabinet approved recommendations from the President’s 
+Office on “an implementation plan to develop a monitoring and evaluation (M&E) 
+system.” The system was to include functions such as monitoring, evaluation, early 
+warning, data verification, data collection, analysis, and reporting. The role of M&E 
+in the policy cycle of planning, implementation, and monitoring was established. A 
+conceptual anchor for the system was the establishment of a set of national indicators. 
+The implementation plan included dates for phased implementation of the system. 
+Work was to be carried out by an interdepartmental task team, led by the Department 
+of Public Service and Administration (DPSA), along the following workstreams: 
+ Principles and practices, led by the President’s Office;  
+ Reporting and databases, led by the DPSA; and 
+ Capacity building, led by the Public Administration, Leadership and Management 
+Academy (PALAMA).7  
+Surprisingly, after the government’s initial interest in the GWM&E initiative, it lost 
+momentum for about a year. During this time there was little discernible progress on 
+the assigned tasks and, instead, a lot of energy was spent on clarifying roles and 
+developing terms of reference for the various working groups. While joint 
+governmental initiatives can succeed, representatives from various departments need 
+to align individual departmental resources with the project and such an alignment, or 
+realignment, often takes considerable time. Representatives also have to contend with 
+competing policy demands and interests as well as linkages to budget and planning 
+cycles. This protracted period of internal norm setting and resource alignment, 
+unfortunately, was not factored into the proposed work plan and, for a period, the 
+interdepartmental task team stopped meeting, while deadline after deadline in the 
+initial project plan was missed. 
+                                                      
+5 See s195 of the South African Constitution. 
+6 See ss215 and 216 of the South African Constitution. 
+7 Formerly known as the South African Management Development Institute (SAMDI).
+<<<PAGE=13>>>
+3 
+After about a one-year hiatus, it became clear that the President’s Office needed to 
+step in and revive interest in the GWM&E initiative. The administration’s Policy Unit 
+took the lead of the interdepartmental task team. More regular meetings and 
+interaction among members facilitated discussion and, by the end of 2007, two of the 
+three working groups had completed their tasks.  
+The institutional focus had thus shifted from a group of people with narrowly defined 
+tasks, to an organizational body where the core national coordinating departments and 
+provincial representatives could meet to develop mutually supportive approaches and 
+work out agreements. . It was important that the newly constituted task team include 
+actors that were already involved in M&E, for example, the National Treasury. 
+Drawing on experienced people who had been actively implementing M&E systems 
+injected a healthy dose of realism into the new vision. 
+One of the first tasks was to find conceptual agreement. This entailed a detailed 
+understanding of the work processes by all the actors as well as of the 
+interdependencies. It then became clear that there were three main areas of work 
+which would contribute to monitoring and evaluation in government. Figure 1 
+describes each of the areas: (1) Program Performance Information, derived, among 
+other things, from departmental registers and administrative datasets, and strongly 
+linked to departmental budget structures; (2) Social, Economic, and Demographic 
+Statistics, derived mainly from Statistical Agency of South Africa (StatsSA) censuses 
+and surveys as well as departmental surveys, and (3) Evaluations, which mostly make 
+use of researchers outside of government and tend to occur on an ad-hoc basis. The 
+Program of Action (PoA) is an apex-level information system which draws on the 
+other three components.  
+ 
+Figure 1: Components of the South African GWM&E Framework
+<<<PAGE=14>>>
+4 
+While the program performance information (driven by the National Treasury) 
+focuses mainly on service delivery outputs and direct outcomes, the socioeconomic 
+and demographic statistics provide the source data for baselines and performance 
+measurement of intermediate outcomes and impact. Evaluations would provide 
+analysis of, among other things, both program performance and socioeconomic and 
+demographic statistics, to assess the impacts of government policies, programs, and 
+projects. 
+ 
+2.1 Policy Platform 
+ 
+One of the first tasks under the revived GWM&E initiative was the development of a 
+policy framework. Although the initial intent was to produce a set of guidelines on 
+M&E principles and practices, it became increasingly clear that the guiding 
+framework had to be more formally structured. The President’s Office developed an 
+overarching framework8 and produced a document containing a set of principles, key 
+monitoring and evaluation concepts, GWM&E system goals, descriptions of the 
+various component parts of the system (shown in Figure 1), the roles of departments 
+and civil servants as implementing agents of M&E, and the institutional arrangements 
+and legal mandates underpinning these roles and responsibilities. The document 
+concludes with guiding principles for implementation of future M&E systems.  
+Cabinet approval of the implementation of the GWM&E system at its inception in 
+2005 helped gave legitimacy to the policy framework of 2007. The executive 
+authority of Cabinet was supposed to provide direction to departments in the national 
+and provincial spheres of government and to the municipalities.  
+The policy framework was comprised of a mosaic of existing and some new, tailored 
+requirements, for example, the South African Statistical Quality Assurance 
+Framework (SASQAF). The new requirements were designed to complement the 
+existing components in a synergistic, systemic manner. The policy framework 
+therefore recognized that the GWM&E system was not being implemented from 
+scratch, but had to accommodate bottom-up input from actors already actively 
+engaged in M&E systems implementation.  
+The policy framework was an important and necessary step in developing the 
+GWM&E system, and it serves the function as conceptual anchor. However, the task 
+of policy guidance needed to be supported by a additional best-practice guideline 
+documents. The most urgent need was in the area of coordination. The first document 
+was an annual workplan, published as From Policy Vision to Implementation 
+Reality, 2008.9 This document outlined the current and planned M&E initiatives of all 
+the core coordinating departments and agencies. In addition, it provided information 
+for each sector (including health, education, and water), and encompassed both 
+national and provincial public institutions. The aim of the document was to allow the 
+broader M&E community to understand forthcoming reform processes and to 
+encourage core coordinating departments to better align their M&E and related 
+initiatives.  
+                                                      
+8 http://www.thepresidency.gov.za/main.asp?include=learning/framework.html. 
+9 http://www.thepresidency.gov.za/learning/reference/implementation.pdf.
+<<<PAGE=15>>>
+5 
+Another document, M&E Guidelines for Premiers’ Offices, was also developed.10 
+This document addresses the complex M&E roles of coordinating structures in 
+subnational governments. As noted above, the nine provinces form an independent 
+tier of government in South Africa, and the Constitution provides them with 
+considerable latitude in crafting their own planning and M&E systems. One example 
+is the Provincial Growth and Development Strategies (PGDS) which are developed by 
+provincial governments, and which articulate both national government priorities as 
+well as those of the provinces. The PGDSs are also intended to align with Integrated 
+Development Plans (IDPs) prepared by municipalities. The quality of the PGDSs and 
+the degree of alignment with municipal IDPs varies considerably across provinces. 
+Provinces, at the time, were also in various stages of M&E implementation—some 
+provinces such as Gauteng, Western Cape, and KwaZulu-Natal had made 
+considerable progress with their systems, while others were just starting to 
+institutionalize M&E. 
+In practice, this means that developing M&E systems for provinces requires the 
+simultaneous development of three interrelated aspects: (1) concurrent functions of 
+provincial governments; (2) monitoring the goals of the PGDSs; and (3) allowing 
+information flows between the provincial and local spheres. The M&E Guideline for 
+Premiers’ Offices seeks to address these core issues, while cautioning against the 
+creation of additional and duplicative M&E reporting requirements. 
+Following the completion of the policy framework and best-practice guide for 
+premiers’ offices, a second-generation set of M&E guidelines is planned. A guideline 
+providing a generic M&E framework for use in each sector of government is also 
+being developed. This generic framework will be customized for individual sectors 
+and will provide a template that includes, for example, an M&E situational analysis, 
+data management and indicator frameworks (including baselines), a monitoring and 
+reporting approach, an evaluation approach for the next three years, system issues, a 
+capacity-building plan, and a communication plan. An M&E Guideline on IT Systems 
+is also being developed. 
+Importantly, the lead national department in each sector will be expected to prepare an 
+inventory of all the indicators in use in that sector, describe the administrative data 
+systems that provide information, outline reporting requirements, indicate baseline 
+data requirements, and so on. The intention is that over a six-month period, this 
+document will be developed (through workshops) for eight sectors and, for each 
+sector, a detailed M&E framework and a short checklist of required actions will be 
+developed. In those sectors where M&E systems are already functioning well, 
+comparisons will then be possible against a national standard. For those sectors that 
+do not have well-developed M&E systems, this document will set out the 
+requirements of a well functioning system, as an reference list of good practices. 
+                                                      
+10 http://www.thepresidency.gov.za/docs/pcsa/planning/premiersguide.pdf.
+<<<PAGE=16>>>
+6 
+Figure 2: Key Milestones in Implementing the GWM&E in South Africa
+ 
+ 
+The South African government is cautious about narrowly restricting evaluation work 
+to impact evaluations. If it uses a particularly narrow definition of impact evaluation 
+and rules out evidence in policy making that is not secured through experimental or 
+quantitative methods, it could implicitly delegitimize the democratic approaches 
+promoted by professional evaluation organizations. The type of evaluation method 
+employed has an impact on the developmental strategies that are favored. Not all 
+solution-driven, bottom-up development strategies are able to be evaluated through 
+experimental methods. The South African government is conscious of the need to 
+make sure that the evaluation methodology it uses does not automatically favor linear 
+and simplistic ideas of development, which are easily subject to experimental 
+methods.   
+2.2     M&E Products, Uses, and Activities 
+The policy platform has created conceptual clarity and a common understanding of 
+the intention and purpose of M&E in the South African government. However, it was 
+evident that a policy framework would be redundant unless it helps to provide 
+information that is reliable, accurate, and useful to strategy decision makers. 
+Development Indicators 
+Since 2007, the President’s Office has published annually a set of core development 
+indicators, which function as key indicators of human development in South Africa. 
+The publication contains information sourced from official statistics, government
+<<<PAGE=17>>>
+7 
+databases, and research by local and international institutions.11 Information is 
+grouped into 10 broad themes: economic growth and transformation; employment; 
+poverty and inequality; household and community assets; health; education; social 
+cohesion; safety and security; international relations; and good governance. For each 
+indicator, the government’s policy goal is described, a trend analysis is provided 
+indicating specific policy interventions, a data table and graph (where applicable) are 
+supplied, and information on the definition, data sources, and notes on the calculation 
+are provided. The publication focuses on the impacts and outcomes of government 
+policy (for example, infant mortality, education access and quality, and housing 
+delivery). In some instances, information is provided on processes (such as the 
+number of court cases processed). The information is drawn from a wide, eclectic 
+range of data sources, but serves the purpose of allowing an assessment of policy 
+implementation. It does not focus exclusively on outcomes but includes other critical 
+measures of government performance as well. The first versions of the development 
+indicators excluded a number of important performance dimensions for which data or 
+reasonable proxies could not be found. It was, however, recognized that this 
+constraint should be mitigated over time.  
+The publication of Development Indicators in September 2009 contained 76 
+indicators and the aim is to keep it as succinct as possible. The print run of 10,000 
+copies is distributed to all ministers and members of executive councils (“provincial 
+ministers”), parliamentarians, provincial members of legislatures, and to every senior 
+civil servant in 140 government departments nationally and provincially. The 
+publication is also sent to universities, think tanks, and nongovernmental 
+organizations, and is available on the Presidential Office’s website,12 further 
+increasing its availability. It is published by the President’s Office and receives 
+considerable media attention. In the future, these data will be disaggregated on a more 
+detailed geographical basis, using a Geographic Information System (GIS) platform.  
+This will be useful for government planning and is particularly important in the 
+context of the legacy of apartheid, which led to geographically concentrated poverty 
+in rural areas and areas populated by black residents, and spatially skewed 
+distributions of economic activity. 
+Program of Action  
+On an annual basis, the President announces a set of priority focus areas during the 
+opening of Parliament in the State of the Nation address—these priorities are known 
+as the government Program of Action (PoA).13  
+Starting in 2005, the President’s Office developed an information management system 
+that functions as a central repository for updated information on the implementation 
+of the PoA. This is a custom-built electronic reporting system with a series of about 
+400 “project cards.” Each project card outlines the policy objectives, describes the 
+program or activity, lists the associated performance indicators and provides for an 
+assessment of the level of progress against the indicators. The project card describes 
+                                                      
+11 South Africa, Office of the President 2009. “Development Indicators 2009”, Pretoria, 
+http://www.thepresidency.gov.za/main.asp?include=learning/me/indicators/2009/index.html. 
+12 Development indicators are available at 
+http://www.thepresidency.gov.za/main.asp?include=learning/me/indicators/2009/index.html.  
+13 This should not be confused with the government’s annual budget.
+<<<PAGE=18>>>
+8 
+the challenges encountered, lists any partnerships with other government departments 
+or civil society bodies, provides for a discussion of strategic policy issues that have 
+arisen, and notes aspects for fast tracking.  
+On the basis of information provided in the project cards, progress on the 
+implementation of these priorities was reported to the Cabinet on a bimonthly basis. A 
+project card is assigned to a project manager and the information supplied has to be 
+signed off by a Director-General (or Deputy Director-General). The information on 
+the project cards then forms the basis of a report to the Cabinet which provides an 
+overview of a number of government groups,14 coordinated by the chair of the groups. 
+After Cabinet approval of the full report, a short (two sentence) description of 
+progress for each activity is posted on the Government Communication and 
+Information Services website.15 The PoA webpage receives about 10,000 visits16 per 
+month and is one of the 20 most frequented webpages in government. 
+As is probably the case with many custom-designed and pioneering systems, the 
+initial information technology (IT) environment was very unstable. Users started to 
+lose confidence in the system, and in 2007 a concerted effort was made to stabilize the 
+IT platform. Over 300 users of the PoA IT system are trained each year, and a user 
+help manual has been developed. The creation of the PoA system was an important 
+first step in establishing a culture of reporting, but after four years of use, it is clear 
+that it can be improved.  
+The reporting burden is quite severe and many senior managers feel that the 
+turnaround time of two months is not enough time for progress to be realized. The 
+Cabinet, however, has made it clear that they require these bimonthly reports, and 
+would like even more in-depth reports, with clearer information on the impact of 
+government programs―notwithstanding the short interval for reporting. The nature of 
+many government initiatives often does not allow for an assessment of impact in the 
+short term, and the request from the Cabinet can perhaps be seen as demand for more 
+quality M&E information to support executive decision making. The current system 
+also does not allow a direct link with the National Treasury’s expenditure monitoring 
+work.  
+Early Warning on the “Functionality” of Departments 
+During 2007, the President’s Office developed an early warning system which 
+provides evidence on the “functionality” of various national government departments. 
+This system is primarily based on readily available information and does not entail an 
+additional reporting burden on departments. Through a system of 32 indicators this 
+system assesses the level of service delivery and reviews public opinion surveys 
+(where applicable). The functionality indicators focus on a series of strategic 
+management issues, examine budget and financial management processes, assess 
+human resources management, and provide a measure of political and management 
+                                                     
+ 
+14 These were groups of departmental heads that reported to a cabinet subcommittee. The groups in 
+2005 were: governance and administration, economic affairs, social, justice and security. These groups 
+have subsequently been reorganized. 
+15 http://www.info.gov.za/aboutgovt/poa/index.html. 
+16 Most of these visits are from journalists and academics.
+<<<PAGE=19>>>
+9 
+leadership. This system is now being automated and, in due course, will be extended 
+to include provincial departments as well.  
+The focus in the system is on analysis rather than data collection. However, the 
+sophisticated level of analysis that is required in the system demands a comprehensive 
+understanding of the policy and operational environment of a department; such 
+expertise is not always readily available in government. The system is in its early 
+phase of development, and attention will be given to refining appropriate indicators 
+for different types of institutions. The President’s Office will also encourage the use 
+of this M&E application by provincial Premiers’ Offices.  
+M&E Learning Network 
+Learning network events were held on two occasions in 2007. These events, which 
+have attracted over 300 participants since 2007 across the three spheres of 
+government, have also involved international experts. The forums provide the 
+opportunity to share success stories in the M&E environment, present information on 
+similar practices from the international community, and allow M&E practitioners to 
+build networks. Although such forums are an excellent idea, they require intensive 
+organizational effort and therefore fewer have been held than would have been ideal.  
+2.3     Key Stakeholders and Their Roles 
+The initial core coordinating departments were the President’s Office, the National 
+Treasury, the DPSA, the Statistical Agency of South Africa (StatsSA), the 
+Department of Cooperative Governance and Traditional Affairs (COGTA), and the 
+Public Administration, Leadership, and Management Academy (PALAMA). After a 
+time, two additional agencies—the Departme nt of Education and the Eastern Cape 
+provincial Premier’s Office—were invited to provide insight on M&E practice in 
+large service delivery environments. ). These departments and agencies now 
+constitute the GWM&E Coordinating Forum. 
+The President’s Office 
+The President’s Office needs to be provided with information on the performance of 
+departments and agencies from all three spheres of government in implementing the 
+PoA and assessing the impact of long-term efforts to improve economic performance 
+and alleviate poverty. Equally critical, the development of sound future policies 
+depends crucially on credible evidence. Accordingly, the President’s Office has 
+played a major role in providing political championing of the emerging M&E system 
+in South Africa, as well as technical guidance to the various departments and 
+agencies. The President’s Office facilitates the implementation of the GWM&E 
+system and actively promotes the use of appropriate performance indicators to 
+measure delivery of the government’s PoA. 
+Prior to 2009, a small unit within the policy unit in the President’s Office focused on 
+M&E. In April 2009 a new Ministry of Performance Monitoring and Evaluation was 
+established, also located in the President’s Office, which planned a larger expanded 
+role for M&E, with an additional focus on performance monitoring.
+<<<PAGE=20>>>
+10 
+The new ministry will be supported by a Department of Performance Monitoring and 
+Evaluation (PME), which is planned to include 50 high-level experts on staff. These 
+experts will not only be involved with performance monitoring but also ongoing 
+performance assessment and assistance. As part of its performance measuring role, 
+the department will also develop coordination structures to promote more effective 
+intergovernmental coordination. The department will have three branches: (1) 
+coordination and performance assessment (2) data systems and architecture, and (3) 
+service delivery interventions. 
+The National Treasury 
+An important driver of the M&E initiative in South Africa has been the National 
+Treasury. Indeed, before a coherent M&E strategy was conceived, the Treasury had 
+already begun to focus increasingly on nonfinancial information, such as service 
+delivery outputs and outcomes, in pursuit of improved effectiveness, efficiency, and 
+economy, as required by the Public Finance Management Act (PFMA) of 1999. The 
+PFMA requires that measurable objectives be submitted for each main division 
+(program) within a department’s budget allocation. In addition, the PFMA requires 
+that each department’s annual report must fairly represent its performance against 
+predetermined objectives. The Treasury has taken a very proactive approach to these 
+legal requirements and has, through many workshops, developed prescribed formats 
+for five-year strategic plans and annual performance plans17 that link output measures 
+to resource allocation in budget programs and subprograms. Together with the 
+introduction of annual budgets in Parliament and the provincial legislatures, national 
+and provincial ministers are also required to introduce these annual performance 
+plans.  
+The Annual Performance Plans and Service Delivery Indicators, a prescribed format 
+for the five-year strategic plans and annual performance plans, includes clear service-
+delivery targets and indicators for each expenditure program in nine provincial 
+sectors. These sectors (health, social development, education, transport, agriculture, 
+public works, arts & culture and sport, local government, and housing) report 
+quarterly on their performance against the set performance objectives. In practice, this 
+means that 500 performance targets are reported to provincial treasuries, which then 
+forward the information to the National Treasury, where this information is collated 
+and analyzed. Although there are problems with quality, these data constitute a major 
+cornerstone of the GWM&E system in South Africa. As verification systems improve 
+and audits of nonfinancial information are introduced, these datasets will also provide 
+a crucial input into evaluations. One concern, however, is that these datasets are not 
+yet widely understood or used outside of the national and provincial treasuries 
+environment. 
+In 2007, the National Treasury formalized this contribution to performance 
+management―and to the M&E system―in a framework document entitled 
+Framework for Managing Program Performance Information (FMPPI). This 
+document outlines the importance of performance information as a management tool 
+                                                      
+17 Strategic plans span a five-year horizon and are more high-level. Annual performance plans are 
+compiled each year, are aligned to the Medium-Term Expenditure Framework and provide operational 
+details.
+<<<PAGE=21>>>
+11 
+and describes the role of performance information in planning, budgeting, and 
+reporting.18 It defines key concepts of performance information and provides an 
+approach to the development of performance indicators. The FMPPI also outlines the 
+roles of key government institutions in performance information management and 
+discusses the capacity required to manage and use performance information. It also 
+indicates the legal basis for publication of program performance information. 
+The National Treasury has developed an extensive monitoring system to assess 
+compliance with the Municipal Finance Management Act, focusing on aspects such as 
+budgeting timeliness, audit outcomes, supply chain management, and management of 
+conditional grants.  
+Statistics South Africa  
+Another important building block in the construction of the M&E policy was a 
+framework aimed at the improvement of the standard of administrative datasets. 
+During 2007, Statistics South Africa released the SA Statistical Quality Assurance 
+Framework (SASQAF), drawing on the International Monetary Fund’s Data Quality 
+Assessment Framework and adapted to local conditions. The framework provides the 
+criteria used for assessing and certifying statistics produced by government 
+departments and other state organizations along eight dimensions: relevance, 
+accuracy, timeliness, accessibility, interpretability, coherence, methodological 
+soundness, and integrity. This important framework provides a standard set of criteria 
+for the assessment of statistical products which can then be classified on a scale of 
+one (poorest) to four (quality statistics). It should be noted that the requirements are 
+quite stringent and most of the administrative datasets in use in the South African 
+government will require some concerted improvement before they are able to meet 
+these requirements to a high degree.  
+Public Administration Leadership and Management Academy (PALAMA) 
+The government training agency, the Public Administration Leadership and 
+Management Academy (PALAMA), received new impetus. In its renewed form, one 
+of the aspects that received specific focus was the M&E training curriculum. Because 
+the M&E curriculum had to follow the direction taken in the rest of the GWM&E 
+system, the development of the curriculum had a natural lag time. However, after the 
+initial delays in the development of the GWM&E system, PALAMA was keen to 
+make progress in meeting their responsibilities as originally enunciated by the 
+Interdepartmental Task Team. It initiated contact with all the major actors involved in 
+the GWM&E and—through a series of extensive consultations, discussions, and 
+workshops—developed an M&E curriculum.  This curriculum highlights the link 
+between strategic management and performance management and pays attention to 
+both quantitative and qualitative research. The curriculum has three main audiences: 
+(1) line managers with M&E responsibilities who are M&E end users; (2) M&E 
+managers tasked with the responsibility of setting up M&E units; and (3) M&E 
+practitioners in government. The proposed course will be customized at both a 
+strategic level for senior public officials (politicians and bureaucrats), and at the 
+technical operational level for M&E practitioners.  
+                                                      
+18 http://www.treasury.gov.za/publications/guidelines/FMPI.pdf.
+<<<PAGE=22>>>
+12 
+The government annually spends about R3 billion (about US$428 million)19 on 
+training, and this has created a lucrative market for training providers. Noting 
+government’s interest in M&E matters, the private sector has developed a range of 
+M&E training courses. However, it has become apparent that the quality of these 
+courses is not always high or consistent. In the case of M&E, trainers have to register 
+with PALAMA and be accredited as M&E trainers. PALAMA has also developed a 
+postcourse assessment procedure, which will involve both the trained person as well 
+as his/her supervisor. 
+Office of the Public Service Commission 
+In South Africa there is an independent body set up under the Constitution with a 
+government oversight role—the Office of the Public Service Commission (OPSC). 
+One of the key governance M&E instruments of the OPSC is the annual State of the 
+Public Service Report, which assesses adherence by national and provincial 
+departments to the principles of public administration enshrined in the Constitution. 
+When service delivery quality assurance is assessed, a number of M&E tools and 
+approaches are employed, including analysis of citizen surveys and site visits. Reports 
+are also produced on trends in financial misconduct, public service investigations and 
+grievance resolution in the public service. The OPSC also assesses the state of 
+professional ethics and personnel selection processes in departments. 
+Department of Cooperative Governance and Traditional Affairs (COGTA)  
+COGTA20 has primary responsibility at the national government level for the 
+oversight of municipal performance and for providing support to this level of 
+government. The COGTA is the champion of the five-year local government reform 
+agenda. This agenda comprises three main priorities. The first is to mainstream hands-
+on support for improving municipal governance, performance, and accountability in 
+both cross-cutting issues and in five key performance areas: (1) municipal 
+transformation and organizational development; (2) basic service delivery; (3) local 
+economic development; (4) financial viability and management; and (5) good 
+governance and public participation. The second priority is to address the structural 
+and governance arrangements of the state that are designed to strengthen, support and 
+monitor local government. The third priority focuses on strengthening the policy, 
+regulatory, and fiscal environment, and enforcement measures. 
+Starting in 2003, COGTA has been developing a system for monitoring local 
+government performance, based on the five-year local government agenda. A series of 
+120 core performance measures focuses on the five key performance areas listed 
+above.  
+Department of Public Service and Administration 
+An innovative system to assess human resource practices has also been developed by 
+DPSA. Public Management Watch is a quarterly report, which draws its data from the 
+transversal government payroll and personnel data system (PERSAL). The quarterly 
+                                                      
+19 At an exchange rate of R7= US$1. The government’s total budget is R650 billion, or US$93 billion. 
+20 Previously known as Department of Provincial and Local Government.
+<<<PAGE=23>>>
+13 
+report is generated in Excel and distinguishes among professional personnel, 
+managers, and the rest of the staff. The report is generated based on thirteen 
+categories of personnel data, including turnover rates, replacement rates, vacancy 
+rates, vacant positions, leave trends, and employment termination. These human 
+resource data are augmented by two categories of in-year expenditure data 
+(compensation of employees and expenditure on goods and services), as well as the 
+audit outcomes of national and provincial departments. Each category of data has an 
+allowed range, and departmental performance is rated as being on-track (within 
+allowable range), not doing so well, or of serious concern. A color-coded dashboard is 
+also produced, based on these ratings. The various categories of data are weighted and 
+a composite index on all national and provincial departments’ human resources status 
+is obtained.  
+At present, the veracity of this information continues to be negatively impacted by the 
+low quality of PERSAL data on which it depends. Nevertheless, further 
+improvements in this data system are expected, and it is already proving to be a very 
+useful system to senior departmental management. 
+Auditor-General 
+The Public Audit Act of 2004 requires that the Auditor-General (AG) express an 
+opinion on the reported information of the performance of those audited against 
+predetermined objectives. Since 2005/06 the AG has provided management and audit 
+reports on shortcomings in policies, systems, and procedures of government 
+departments and agencies. There is concern that most departments’ current 
+management information systems, policies, and procedures would not meet the 
+statutory requirements of the Public Finance Management Act of 1999, including the 
+requirements of the Framework for Managing Program Performance Information. 
+The Auditor-General envisages that, starting with the 2011/12 financial year audit 
+cycle, an audit opinion will be expressed on the quality of performance information. 
+Given the pervasive weaknesses in department’s management information systems 
+noted above, there is a concern that performance auditing will impose an additional 
+compliance burden on departments with severe capacity constraints. In addition, a 
+narrow focus on the compliance aspects of performance reporting may miss the 
+broader purpose of the GWM&E system. 
+2.4 Performance Monitoring and Evaluation: Next Steps 
+The creation of a dedicated Ministry of Performance Monitoring and Evaluation 
+(PME) within the President’s Office in 2009 signaled a new phase in the development 
+trajectory of M&E systems in the South African public sector. The establishment of 
+this ministry was precipitated by the growing concern that while access to basic 
+services had improved significantly in the 15 years since the transition to democracy, 
+the outcomes (for example, related to the quality of service delivery in sectors such as 
+education and health) produced in many areas have often been below standard. 
+Massive increases in expenditure on services have not always brought the results 
+anticipated. The underlying reasons for this vary from, among others, lack of political 
+will, inadequate leadership, management weaknesses, inappropriate institutional 
+design and misaligned decision rights.
+<<<PAGE=24>>>
+14 
+The new ministry introduced a Policy Paper on Improving Government Outcomes in 
+Parliament outlining its approach. The policy position draws on the existing GWM&E 
+system and expands its policy reach by introducing a specific focus on performance.  
+The aim is to have an early warning system in place that will allow the South African 
+government to recognize bottlenecks in delivery times. While the policy paper 
+emphasizes monitoring at the level of politically decided outcomes, the need to have 
+an understanding of all the key steps in the delivery chain which will assist 
+government to deliver on these outcomes is clearly recognized. While only 
+monitoring for outcomes sounds methodologically pure, (and is, at an unsophisticated 
+level, the standard refrain in M&E work), setting and monitoring outcomes alone is 
+unlikely to make a difference. Unblocking service delivery requires more detailed 
+understanding of the reality of managing delivery than the information that high-level 
+outcomes provide. To improve the management of delivery, the Cabinet needs to have 
+data-driven and evidence-based strategies or activities between the input and the 
+output stage. It will therefore be a priority of the South African M&E system to 
+understand and to measure, on a regular basis, the series of key steps in the delivery 
+chain that lead to an outcome.  
+Executive oversight versus line function responsibility 
+The obvious question arises as to how far and how much the executive oversight then 
+extends, and where the line function departmental responsibilities start. While the 
+exact boundary of this interrelationship between the executive and line function is still 
+under negotiation, the South African government is keenly aware that in some 
+instances, the leadership role of the executive in a developing country requires a more 
+direct, nearly interventionist role.  
+The indicators on which the Policy Paper on Improving Government Outcomes 
+focuses are clearly not the high-level outcomes measures with which executives are 
+concerned. These are critical inputs, output, and activities whose hard data linkages 
+government is now trying to establish. While it is relatively easy to decide on the 
+reform strategies and concise measures in education, health, crime and justice, 
+housing and environmental matters, government has found it difficult to design 
+similar measures in the unclear terrain of local municipal functionality, or public 
+sector efficiency in general. 
+Accountability 
+An important building block of the PME approach is the creation of a strong 
+performance culture with effective rewards and sanctions. One of the key features of 
+the new PME system is the proposed performance agreements between the President 
+and the political principals (at the national or subnational levels) in a sector.   
+Performance agreements, which would be made public, would be short and contain 
+the type of measures discussed above. They would clearly state the main outcome 
+desired and the strategies to be used, as well as outline the goals and targets along the 
+way. The President would meet with the political principals and assess progress on a 
+quarterly basis. The PME unit in the President’s Office will provide the Minister of 
+PME and the President with the appropriate background information to assess
+<<<PAGE=25>>>
+15 
+progress independently from the departmental reports. Below the political level, the 
+content of the performance agreement will form the basis for ongoing discussion and 
+interaction between the officials in the PME department. 
+Coordination versus a joined-up government 
+Although the PME system is only in its initial stages of development, it has become 
+apparent that the strong demand for data will lay the groundwork for additional public 
+sector reform strategies. In the initial post democratic election phase after 1994, a 
+slew of new policies and legislation had to be designed. In this period, coordination 
+revolved around building coherence in the ideas. Regular meetings of officials 
+became institutionalized in what is called the Forum of South African Directors-
+General (FOSAD). It has become increasingly clear that coordination around service 
+delivery requires a different format, where specific inputs (budgetary, human 
+resources, and otherwise) and detailed data on outputs can be discussed. The 
+government is therefore proposing that sectors convene “delivery forums” of all key 
+actors in a particular sector, with contributions and responsibilities of everyone clearly 
+defined. Unlike FOSAD, these delivery forums would involve contributors from both 
+national and subnational governments, and, importantly, from civil society too.  
+Top-down and bottom-up approaches 
+Although laudable in its conceptualization as a monitoring tool, over time the PoA has 
+grown too large—it currently contains ove r 400 activities which are “monitored” in 
+unverifiable ways. This system may seemingly be doing the job of monitoring but 
+there are too many opportunities for political “spinning” in the system and giving the 
+illusion of accountability. The new PME system proposes the monitoring of 14 key 
+outcomes — each one of which has a set of  outputs, inputs, and strategies. The 
+Ministry of PME has developed a first draft of the outcomes and related measures, 
+and is now in discussions with various departments about their views (these will 
+obviously be important and form the basis of the performance agreements between the 
+ministers and the President). While the Cabinet is, in principle, open to discussions 
+with line function departments about the exact details of the “Outcome Measures,” the 
+goal is to stay try and keep the number to 15 or fewer main outcomes, and to 4 or 5 
+measurable key outputs, inputs, and activities per sector.  
+It is important to recognize that the proposal on the development of the outcomes and 
+outputs focuses on only a limited set of indicators per sector. The aim is to only 
+monitor highly selective and strategic indicators for each sector at the highest political 
+level, and leave the development of comprehensive sets of indicators to the respective 
+sectoral entity. Characteristic of such a system will be ongoing, and perhaps 
+necessary, tension over indicators that are developed by the sector specialists and the 
+more strategic and overarching indicators called for by the central government.  
+3. Parallels with International Experience 
+At this stage it may be useful to compare the implementation experiences of the 
+emerging GWM&E system in South Africa (discussed above) with those of other 
+countries. This is always difficult to do, given the different developmental and
+<<<PAGE=26>>>
+16 
+governance contexts and dynamics, which are often country-specific. Until recently, 
+the literature tended to have a donor perspective, rather than a government perspective 
+(UNICEF 1989; IFAD 2002; UNDP 2002; OECD 2002). Where the literature is 
+related to government, the focus tends to be on the project, program, or sector level 
+rather than from a government-wide perspective (Bergeron 1999; IFAD 2002; 
+EC/UNPF 2002). There is, however, a new and quickly growing body of knowledge 
+which deals specifically with whole-of-government M&E systems (Schiavo-Campo 
+2005; Mackay 1998 and 2007; Kusek and Rist 2001 and 2002).  
+Furthermore, public sector M&E reforms are seldom conceived and implemented 
+separately from other broader public sector reforms. While there is a significant body 
+of literature on performance budgeting (Schick 1966; Schick 1998; Diamond 2003; 
+UNCDP 2006) and intergovernmental relations/fiscal decentralization (Oates 1972; 
+Bird 1983; Gramlich 1983; Oates, 1983; Groenwegen 1990; Shah 1994; Hommes 
+1996), these thematic areas are seldom treated together in the literature. In analyzing 
+the design and implementation of the emerging South African GWM&E system, this 
+paper attempts to draw on each of these thematic areas. 
+3.1 Political Leadership and Championing of M&E  
+Kusek and Rist (2002, p.153) emphasize that introducing and sustaining a GWM&E 
+is essentially a political rather than a bureaucratic or technical act:  
+Creating within government a new information system that brings more 
+transparency, more accountability, and visibility can alter political power 
+bases in organizations, challenge conventional wisdom on program and 
+policy performance, drive new resource allocation decisions, and call into 
+question the leadership of those responsible.  
+A precondition for starting a results-based M&E system seems to be an unambiguous 
+and sustained political commitment, from officials at the highest levels, to a 
+performance-based ethos in the public sector. Influential and visible champions can 
+play a crucial role in mobilizing support for M&E systems implementation. Stability 
+in the political environment is also crucial since results-based based M&E only yields 
+results slowly although there can be “quick wins.”  
+In Australia, the election of a conservative government in 1996 led to a downsizing of 
+the civil service and a reduced role for the Department of Finance. This resulted in the 
+decade-long performance evaluation strategy being abandoned (Mackay 2007, p.43). 
+Where the M&E system is driven by a central agency, then any reduction of the 
+power and influence of that central agency could threaten the perceived relevance and 
+utilization of the system (Mackay, 2007, p.28). 
+In South Africa, the leadership for the GWM&E system is shared by the President’s 
+Office, the National Treasury, and Statistics South Africa, with support from other 
+agencies. This joint leadership should help mitigate the sustainability risk. It is 
+interesting to note that the Office of President Zuma has signaled that M&E and the 
+objective of evidence-based policy making will continue to be a high priority on the 
+agenda of the incoming government. This augurs well for the continuing sustainability 
+of the emerging GWM&E system.
+<<<PAGE=27>>>
+17 
+3.2 Incentives for M&E 
+In most governments, incentives or sanctions are generally focused on policy 
+formulation, spending allocations, and the early stages of implementation, rather than 
+on actual results achieved or on the feedback loop from implementation experiences 
+to new policies, strategies, or budgets. The implementation of any M&E system will 
+have to create incentives for carrying out effective M&E and building capability for 
+M&E improvement. Even if more information is available through better M&E, the 
+crucial question is whether it actually results in behavioral change that improves 
+service delivery. If not, M&E systems implementation just becomes a complicated 
+and frustrating exercise in bureaucratic futility.  
+Mackay (2007) refers to “carrots, sticks, and sermons” as ways to create incentives. In 
+the South African scenario, audits of nonfinancial information by the Auditor-General 
+could potentially serve as a severe stick. In addition, the GWM&E Policy Framework 
+and the Framework for the Management of Program Performance Information stress 
+the need to reflect M&E responsibilities in the performance agreements of senior 
+managers. The Department of Public Service and Administration is in the process of 
+changing the format of individual performance agreements in government to include a 
+component that will reflect on organizational performance. 
+3.3 Top-Down and Bottom-Up Convergence 
+In many countries, the development of a GWM&E system tends to be evolutionary 
+and syncretistic rather than consciously designed from scratch with a clean slate. The 
+implementation period may also be quite protracted. For example, in Chile—widely 
+held up to be an example of good practice—ex-ante cost-benef it analysis was 
+introduced in 1974; performance indicators were piloted in 1994; comprehensive 
+management reports per ministry and evaluations of government programs were 
+initiated in 1996; rigorous impact analyses were first conducted in 2001; and 
+comprehensive spending reviews first conducted in 2002 (Mackay 2007). 
+A new national M&E initiative is often superimposed on existing organization-
+specific or specific-purpose systems, which had evolved in the past. A case in point 
+would be Tanzania (Kabunduguru 2004). This was also the case in Uganda’s National 
+Integrated M&E System (NIMES) (Mackay 2007). The challenge therefore is 
+integration, rationalization, and further development of various disparate systems. 
+Furthermore, the institutional arrangement for M&E tends to differ from one public 
+institution, program, or project to the next. Kusek and Rist (2001, p.17) stress the 
+need for articulation across project, program, sector, and country levels:  
+But in the end it is the creation of a system that is aligned from one level to 
+the others that is most critical—in this way information can flow up and 
+down in a governmental system rather than it being collected at only one 
+level or another, stored and used at that level but never being shared across 
+level . . . . And while different levels will have different requirements [for 
+performance information] that need to be understood and respected, the 
+creation of an M&E system requires interdependency, alignment and 
+coordination across all levels.
+<<<PAGE=28>>>
+18 
+Some M&E systems remain largely divorced from other public sector processes, such 
+as planning and budgeting processes. This was identified as one of the current 
+weaknesses of the Colombian system (Mackay 2007). In South Africa, there is 
+already some linkage between the M&E process and the planning, budgeting, in-year 
+reporting, annual reporting, and auditing processes, but this needs to be strengthened. 
+In particular, the use of evaluation findings still needs to acquire influence in the 
+intergovernmental resource allocation process. 
+3.4 Monitoring before Evaluation 
+In many developing countries, the initial focus was on strengthening monitoring and 
+performance information first, before enhancing evaluation. The Ugandan 
+government established an integrated national monitoring and evaluation mechanism 
+for the Poverty Eradication Action Plan (PEAP), with a focus on outcome indicators. 
+A poverty M&E system to track progress using a core set of indicators has been 
+established in Tanzania. However, the need for a greater emphasis on evaluation has 
+been identified (Morris 2006). Similarly, in the early stages of the Colombian M&E 
+system, the major emphasis was also initially on the monitoring dimensions (Mackay 
+2007, p.31).  
+In Australia, however, the initial focus in the late 1980s was on evaluations, with 
+performance information being seen as something to be managed by line departments. 
+In 1995, increased concern about the quality of performance information led to 
+detailed reviews of departmental performance information (Mackay 2007).  
+In South Africa, now that the monitoring systems have been established, the quality of 
+the data needs to be improved. The next stage of GWM&E implementation will focus 
+on evaluations, which are more skill intensive. Fortunately, in South Africa there is a 
+strong academic sector as well as private sector providers, so a good mix between in-
+house and independent evaluations is achievable. 
+3.5 Information and Data Constraints 
+In developing countries, baseline information is often not available or is not very 
+accurate (Kusak and Risk 2001). Where data do exist, there may not be sufficiently 
+long time series for sophisticated quantitative analysis. Conversely, a proliferation of 
+indicators can actually undermine, rather than enhance, effective M&E (Schiavo-
+Campo 2005). There are also likely to be information asymmetries between various 
+line ministries and public agencies, and the central agencies (such as the Ministry of 
+Finance or President’s Office) which may be driving the M&E system. To avoid 
+having only self-serving information be released, systems of data verification and 
+auditing of nonfinancial performance information need to be put in place. Public 
+participation in M&E can also be a way to diversify monitoring and evaluation 
+mechanisms. Client surveys can provide invaluable information on the perceived 
+quality of service delivery. Where information systems are in place, the emphasis 
+often tends to be on data collection rather than analysis. 
+Like many other developing countries, South Africa will have to grapple with the 
+problems of constructing credible baselines, setting and enforcing credible standards 
+and improving the quality and usage of performance information for many years to 
+come. It is critical to raise awareness among all concerned that M&E is not an
+<<<PAGE=29>>>
+19 
+afterthought, but must be part of the initial conception of policies, programs, projects 
+and other interventions. Through quantitative, qualitative, and analytical M&E skills 
+development, coupled with judicious application of information technology, data can 
+be turned into useful information and performance insights. 
+3.6 Capacity Building 
+The skills, infrastructure and institutional capacity required to put into place the 
+information systems and processes that will ensure credible, user friendly, and timely 
+performance information can be quite considerable. The skills requirements span 
+social and economic research, statistics, data and information management, planning, 
+public management, and budgeting. Kusek and Rist (2002) define the minimum 
+capacity requirement for results-based M&E systems as: the ability to define and 
+implement indicators; constructing baselines and collecting, analyzing and reporting 
+performance data relative to the indicators; and communicating and reacting to M&E 
+findings. Sustainability of the M&E system requires that enough people with the 
+critical levels of skills be residents in the country rather than have the skills sourced 
+from the international M&E community. 
+Capacity building has occupied a central position since the conception of the 
+GWM&E system in South Africa. Nevertheless, creating the necessary capacity to 
+ensure quality evaluations is likely to be a challenge in the medium term. 
+3.7 Managing Change: Formal versus Informal Rules 
+There is an ongoing need to create a culture in the public sector which demands and 
+rewards good performance and which sanctions inefficiency and corruption. 
+Reflecting on the Tanzanian experience, Kabunduguru (2004) notes that M&E is a 
+new culture and that there could well be lack of a shared view among civil servants on 
+why and how M&E should be conducted. There is a danger of M&E degenerating 
+into a “compliance” reporting culture, with little critical organizational introspection 
+and proactive managerial action. One of the critical questions in South Africa is 
+whether there is sufficient political and managerial maturity to deal with politically 
+sensitive and potentially embarrassing information.  
+On a more operational level, civil servants often fiercely resist M&E systems as 
+“policing systems,” both actively and passively (for example, not showing up at 
+meetings, not gathering or sharing information or making any effort to ensure its 
+quality, not following up on promised actions). Managing change is a crucial 
+challenge in the South African context, to ensure that M&E practitioners are not 
+viewed with suspicion or that M&E implementation is resisted. 
+3.8 “Ownership” of the M&E System by Line Ministries and Other 
+Agencies 
+When the adoption of an M&E system is driven by a central agency, there is a risk 
+that line ministries will not “take ownership” of the system. For example, in Chile, 
+utilization of M&E findings and insights were very low in the line ministries and 
+agencies: “The weakness of Chile’s M&E system arises from its centrally driven, 
+force-fed nature” (Mackay 2007, p.28). This can be contrasted with the Australian 
+experience where evaluations were essentially collaborative efforts involving the
+<<<PAGE=30>>>
+20 
+department of finance, other central departments and the line departments. This 
+resulted in greater utilization of M&E findings and drew on the expertise within line 
+departments regarding their programs and projects. 
+While the National Treasury was the first driver of processes to improve in-year 
+nonfinancial reporting in sectors and across tiers, there has been more buy-in recently 
+from the relevant national sector departments, which share concurrent competences 
+with provincial departments. It is hoped that this same collaborative approach will be 
+applied to evaluations in the future. The crucial challenge is to get buy-in from line 
+ministries to use performance information for their own managerial purposes rather 
+than merely for compliance purposes. 
+ 
+4. Fault Lines in Implementation 
+The principles according to which the GWM&E system was conceptualized can be 
+seen as largely consistent with international practices. However, the strategy that was 
+proposed for rolling out the system did not sufficiently take account of 
+intergovernmental complexity; neither was there enough clarity about existing 
+systems used for sectoral and institutional monitoring. A review by the Office of the 
+Public Service Commission (OPSC) on M&E systems in government and reporting 
+requirements was not released until mid-2007.21 This delay meant that the central 
+coordinating departments did not have a comprehensive view of the existing M&E 
+practices across all spheres of government.  
+The original design also did not take account of the extensive nonfinancial monitoring 
+done by the National Treasury through the formalization of the accountability cycle in 
+strategic plans, annual performance plans, budget statements, and annual reports.  
+As already mentioned, after the initial Cabinet Memorandum on the development of 
+the GWM&E system in 2005, there was a hiatus. However, many departments 
+continued with the development of their existing in-house M&E systems (or in some 
+instances, started to develop new M&E initiatives). Over time, various systems 
+evolved with differing degrees of complexity. Owing to weak coordination, parallel 
+and duplicate (and even triplicate) reporting systems emerged, often reporting the 
+same information.  
+By about 2007, it became apparent that the implementation of the GWM&E system 
+had to proceed in two respects: (1) promote the implementation of M&E practices in 
+departments where there none existed, and (2) streamline and align existing reporting 
+structures. 
+4.1 Coordination of M&E Design  
+It has proven quite difficult to achieve optimal coordination and to prevent duplication 
+of activities among the core M&E stakeholders. On a superficial level, this can be 
+attributed to “turf battles” between departments, but we think there are many and 
+                                                      
+21 http://www.psc.gov.za/docs/reports/2008/Reporting%20Requirements%20Report.pdf.
+<<<PAGE=31>>>
+21 
+more complicated reasons why coordination is difficult and we would do well to 
+examine this malaise more deeply.  
+Not all ministries and departments share the same view on the nature and role of the 
+state, the role of the state in relation to society at large, the nature of services that 
+should be delivered, or even the “form” the services should take. Such a divergence of 
+viewpoints may be common in most societies, but it is perhaps exacerbated in 
+developing countries where the institutions of democracy are still consolidating. 
+Moreover, in the South African government, there are different paradigms driving the 
+approach to public sector reform, and considerable disputes about the nature of many 
+initiatives. Due to the political position in South Africa, the pre democratic civil 
+service had missed out on many of the typical public sector reforms of the 1980s. 
+There have been two main drivers of reform processes, namely the National Treasury 
+and the Department of Public Service and Administration (DPSA). The National 
+Treasury has a strong public expenditure reform agenda, with an emphasis on 
+efficiency, economy and effectiveness issues, as well as reforms of the budget, such 
+as instituting a medium-term expenditure framework and moving toward a 
+performance budgeting, being given priority. The DPSA favors approaches that are 
+focused on communities of practice, networks, etc., with a strong emphasis on 
+training.  While the National Treasury approach focuses on compliance and 
+prescriptive management systems, the DPSA presupposes that these systems already 
+exist and are institutionalized, and focuses on more sophisticated dimensions of 
+knowledge management and continuous learning in departments. It is a moot point 
+which of these approaches is most appropriate to a given developing country.  
+While a strong point in the original conceptualization of the GWM&E system was 
+acknowledgement that the system was to be progressively built up over time, in terms 
+of its coordination and alignment, this approach has proved to be difficult in practice. 
+No doubt it is conceptually appropriate to be cautious and not to overdesign the 
+system, allowing for best-practices to emerge. However, with different paradigms of 
+reform and views of the state, this approach has led to a number of duplicative 
+initiatives from central departments. These departments all claim to have mandates for 
+M&E design, and have set about creating M&E reporting systems. The result, 
+however, has been a range of M&E systems that “work hard” but do not necessarily 
+“work smart” (see figure 3). In many instances, similar information is requested three 
+or four times from a service delivery department and this has led to serious reporting 
+fatigue and additional reporting burdens on departments already battling considerable 
+constraints in terms of skills and capacity.
+<<<PAGE=32>>>
+The creation of the M&E Coordination Forum was partly an attempt to address these 
+very serious concerns about coordination and alignment. The Forum has gone some 
+way toward addressing some of these concerns by providing more information for 
+departments that want to see cooperation. However, there is a limit to cooperative 
+coordination, and in some instances, departments will consciously avoid cooperation. 
+It has now been proposed to the Cabinet that the Coordinating Forum be given a 
+formal institutional base for decision making concerning the GWM&E System, and 
+that consideration be given to creating a legislative or regulatory environment to 
+formalize some of the emerging M&E practices. 
+4.2 A Decentralized Approach versus National Direction 
+The decentralized nature of the GWM&E system has been acknowledged since its 
+inception. The development of sector-specific M&E systems is a conscious part of the 
+approach, and it places the development of policy outcome measures in the hands of 
+sector specialists. They are seen as the policy experts who are best placed, from a 
+technical standpoint, to develop measures that will assess their policy success.  
+However, sector focus needs to be counterbalanced with the needs of the President’s 
+or Prime Minister’s Office to give guidance and leadership on strategic outcomes. 
+Finding the balance between these two contradicting (and sometimes conflicting) 
+perspectives requires sophistication and dialogue. There cannot be a predetermined 
+and mechanistic formula for determining performance measures. It would be naïve to 
+think that a single decision maker in government could decide all of the indicators, 
+and indeed it would be extremely naïve to think government can function that way. 
+The aim should rather be to have a national dialogue―involving national and 
+Figure 3: Duplication of Reporting
+<<<PAGE=33>>>
+23 
+provincial governments, together with acknowledged sector experts―on which 
+aspects need to be measured in a sector. The new PME approach focuses on only a 
+limited set of indicators per sector. The aim here is to monitor strategic indicators by 
+sector at a high political level, not to develop a comprehensive set of indicators.  
+In the hiatus after the 2005 Cabinet Memorandum, there was a lack of clear direction 
+from the core national departments. During this period, a few sector departments went 
+ahead with sector-specific M&E systems, which they needed to track their 
+performance in meeting policy objectives. The systems evolved but were 
+uncoordinated, thus leading in some instances to duplication, omissions, etc. Once 
+there was renewed impetus in the GWM&E implementation from early 2007, the 
+challenge was to create a high-level policy framework with buy-in from all relevant 
+national departments. Here the focus was on articulation of systems, data and 
+metadata standards, quality of data, and harmonization and rationalization of systems. 
+The challenge now is to integrate the bottom-up, detailed sector-specific systems with 
+the high-level, top-down policy framework. 
+4.3 Complexity of Subnational Government  
+As discussed earlier, South Africa’s Constitution created a complex, decentralized 
+environment which separates the creation of policies (chiefly done at the national 
+level) from the funding of these policies and implementation (which occurs at the 
+subnational level). In such a governance context M&E becomes critical in assessing 
+the impact of decentralized decisions by subnational governments on national 
+priorities and policy outcomes. 
+Until the publication of the M&E Good Practice Guide for provincial governments in 
+2008, not much guidance was provided concerning the role of the Premier’s Office in 
+monitoring and evaluation. As a result, a wide variety of practices and conventions 
+have emerged in the nine provinces, which are at various stages in institutionalizing 
+M&E. A number of best-practices have also emerged, and these should be 
+communicated to the entire provincial sector to stimulate learning and innovation. 
+Since M&E is a relatively new discipline in the South African public sector, with 
+many provinces only recently creating M&E units, it is important that good practices 
+in provincewide M&E be disseminated and bad practices (such as duplicate reporting) 
+be identified and discouraged. 
+Incorporating the local government sphere into the current GWM&E framework will 
+be even more complex given the convoluted nature of planning, budgeting, and 
+implementation processes, which cuts across all three spheres of government, and the 
+severe capacity constraints experienced within municipalities. Typically there tends to 
+be a lack of coordination between national and provincial departments with respect to 
+M&E at local government level, and municipalities often bear the administrative 
+burden of duplicated reporting to both provincial and national spheres. By January 
+2010, the Department of Cooperative Governance and Traditional Affairs (COGTA) 
+had not yet released a comprehensive framework for M&E within local government.
+<<<PAGE=34>>>
+24 
+4.4 Tensions between Budget-Linked M&E and Policy-
+Linked M&E 
+The National Treasury, drawing on a performance budgeting22 approach, has stressed 
+the link between performance information and the budget structure and cycle (even 
+though this link needs to be strengthened in the future, once public expenditure 
+reviews and evaluations are done on a more systematic basis). This emphasis permits 
+a closer link between resource inputs and service delivery outputs, which are critical 
+to assessing value-for-money. 
+However, many line ministries view this focus as being too narrow, and the 
+Treasury’s conception of the results chain among input, outputs, outcomes, and 
+impacts as being too linear, mechanical and hierarchical. Furthermore, operational 
+program structures may differ markedly from budget program structures, and 
+organizational structures may not map closely to budget program structures ― further 
+attenuating the purported link between personal accountability and outputs. In 
+addition, operational program and project structures may span many public sector 
+institutions in various sectors and tiers, unlike budget program structures which are 
+tied to specific institutions. 
+The Treasury’s emphasis on the budget structure tends to result in a focus on the 
+performance of the public institution rather than the performance of the sector as a 
+whole. Treasury’s concern with fiscal accountability also means that the focus is often 
+on outputs (which are under managerial control) rather than outcomes (which tend to 
+be influenced by exogenous factors). While treasuries have a tendency to standardize, 
+line departments often prefer to customize their own M&E approaches. 
+Furthermore, while national and provincial treasuries have emphasized an approach to 
+collecting information that is based on a logical framework (log-frame) results chain, 
+they have not focused on attribution or causality. This is because their focus, so far, 
+has been relatively short term. The time horizon of analysis could be extended when 
+more rigorous public expenditure reviews are conducted. 
+The main point here is that a GWM&E system serves many different objectives, such 
+as comparing policy realization relative to policy intent, public resource allocation, 
+accountability, etc. Therefore, trade-offs will have to be made and there will always 
+be some degree of tension regarding fulfillment of these multiple objectives. 
+Moreover, it is very difficult to attribute causality. Many public sector institutions 
+have begun to adopt a log-frame-based approach that is comprised of a results chain 
+linking their application of resource inputs to producing service delivery outputs, 
+which in turn contribute to desired program or project outcomes. However, in ex-ante 
+planning, the assumptions underpinning the results-chain relationship are seldom 
+explicitly articulated, and this compromises the risk management of program delivery 
+                                                      
+22 Like most countries, South Africa does not have strict (or “direct”) performance budgeting, where an 
+increment of additional output can be linked directly to an increment of resources and where budget 
+allocations are strictly based on results (outputs and outcomes). Instead, there is performance-related 
+(or “indirect”) budgeting, where a basket of outputs is linked to a particular budget, and results (in 
+terms of outputs and outcomes) are only one factor determining budget appropriations.
+<<<PAGE=35>>>
+25 
+targets. Similarly, when analyzing data on actual program spending allocations, 
+attribution of “cause-and-effect” relationships is the exception rather than the norm. 
+4.5 Good on Paper, but in Reality? 
+The South African experience with other public sector reforms (such as the Public 
+Finance Management Act of 1999) leads us to believe that, initially, public 
+institutions will craft impressive M&E frameworks, often with the technical 
+assistance of external consultants. However, it will take some time before these M&E 
+frameworks are actually fully operationalized and M&E findings are influential in 
+shaping policy and strategy formulation and in public resource allocation. Over time, 
+however, the requirement that public institutions produce M&E frameworks, the 
+increased pressure for effective service delivery, and the concerted efforts to build 
+demand for M&E findings and insights, should help create a culture receptive to 
+M&E.  
+The Office of the Public Service Commission has been providing an important 
+independent view. Often, useful recommendations are not effectively implemented by 
+departments and have become recurring concerns (for example, introduction of 
+performance agreements by accounting officers). In terms of the Public Service 
+Amendment Act, the Public Service Commission may now issue directives for the 
+implementation of their recommendations to the executive government on matters 
+raised in Public Service Commission reports.  
+The OPSC will play a critical role in monitoring the extent to which public sector 
+institutions build capacity for M&E in their sectors and align with the GWM&E 
+policy framework. 
+4.6 Information Sharing 
+In the rollout of the GWM&E system, and especially through the production of M&E 
+products, it has become increasingly clear that civil servants are uneasy about sharing 
+data. In many instances, custodians of data guard their information and, in some 
+instances, the “culture” has become so entrenched that governmental departments are 
+forced to buy data that should be readily available from a sister department. Other 
+consequences include different versions of similar data existing, and even different 
+baseline data between departments (for example the number of households used for 
+planning services). In part, this is because of the negative experiences by government 
+departments when inaccurate data have been released to the public.  
+Furthermore, the reluctance to share information may occur not just between 
+departments but even between program areas within the same department. Often, 
+there are no central data repositories within departments. Different program areas 
+frequently are not even aware of what data are available within the department itself. 
+A resolution to this problem clearly does not only depend on the introduction of 
+appropriate management system, but also on changing the organizational culture to 
+one that values the sharing of information and analysis in pursuit of enhanced 
+performance.
+<<<PAGE=36>>>
+26 
+It could be useful to consider different levels of data availability—at the 
+intragovernment and intraexecutive levels—b efore forcing departments to make data 
+publicly available. It is clear that this is not a hurdle that will be overcome by 
+administrative fiat. The proposed data forums, where M&E frameworks for each 
+sector will be developed, will give special attention to data needs and custodianship of 
+information. 
+4.7 Evaluation Lag 
+In the South African monitoring and evaluation system the focus has been, first and 
+foremost, on the creation of monitoring systems, separate from evaluation 
+processes—the “M” before the “E.” After 1994, the civil service had to be 
+transformed to deliver new governmental services and to ensure that services reached 
+a much wider community than previously. This led to an emphasis on Management 
+Information Systems and the focus on monitoring should be seen in that light.  
+Data and information are the foundations on which M&E is built. Administrative 
+datasets in government are generally record-keeping by-products of departments’ 
+service delivery (for example, patient records, school enrollments, identity documents 
+issued, purchases made, etc). Management information is taking these transactional 
+databases and packaging the information so that it can be easily reported and 
+analyzed, and management information is thus used primarily for the monitoring 
+dimensions of M&E. Management information is often quantitative and internally 
+focused, and seldom deals with citizen perceptions as to whether an initiative is 
+aligned with the developmental aspirations of individuals and communities.  
+By contrast, evaluation provides the opportunity to go beyond merely reporting to 
+understanding why phenomena take place, that is, the attribution of cause and effect 
+between inputs, processes, outputs, outcomes, and impacts within an explicit 
+conceptual/theoretical framework. This is essentially the evaluation dimension. 
+Instead of just checking if something is “on track,” government needs to critically 
+reflect on whether they are “on the right track,” by questioning the fundamental 
+assumptions on which a policy, program, or project is based. It is at this more rigorous 
+analytical depth that M&E yields insights that can be influential in shaping future 
+policy and resource decisions. 
+While the development of evaluation approaches has not yet been formalized and 
+institutionalized, there exists a range of review and evaluation initiatives in the South 
+African public sector. Foremost is the 15 Year Review, published in October 2008.23 
+This is an assessment of the government based on 60 commissioned papers, each of 
+which analyzed one of six sectors. From these papers a review document of each 
+sector was developed, and these were then provided the source material for one 60-
+page public document. This final document provides a sober and realistic assessment 
+of government successes and failures. There has been substantial public interest in the 
+document—20,000 copies have been publ icly distributed, inserts placed in 
+                                                      
+23 http://www.thepresidency.gov.za/main.asp?include=docs/reports/15year_review/main.html.
+<<<PAGE=37>>>
+27 
+newspapers, and numerous newspaper articles published about it. All of these 
+documents are available on the President’s Office website.24 
+It is therefore not correct to think of the South African government as not being 
+involved in evaluation. Indeed, an important task under the proposed evaluation 
+policy (to be developed by mid-2010) would be to coordinate the numerous 
+evaluation activities that are already occurring. The policy will not focus on creating 
+evaluation practices, but on institutionalizing them.  
+ 
+5. Conclusions and Lessons Learned 
+In the previous sections we described the implementation process, to date, of the 
+emerging GWM&E system in South Africa. We then compared the South African 
+experience with those of other countries, highlighting similarities and differences. The 
+faultlines encountered in the implementation process are also described and analyzed. 
+This section offers reflections on the South African experience, which may be useful 
+to other developing countries contemplating a similar M&E reform. 
+ There should be an appropriate balance between deliberate systemic design 
+and evolution 
+In the development of the GWM&E system in South Africa, the original 
+conceptualization did not adequately take into account key aspects of subnational 
+government and existing monitoring systems. This led to a delay in the process and 
+negatively affected the rollout and reception of the GWM&E system. It is important 
+that reforms be applicable, and not selected without due consideration of the 
+preceding and existing processes and interdependencies. Too often in government, 
+new initiatives are launched without a careful understanding of the existing situation. 
+However, one also needs to be cautious about thinking that a system can be 
+comprehensively designed ex ante. To try and design such a system would necessitate 
+the identification of every possibly relevant issue beforehand―this would 
+unrealistically entail very protracted review and planning. Instead, one needs to make 
+a start, often with an incomplete product, and allow the system to evolve over time. 
+The key is to be flexible enough to allow a change in course when needed. This 
+flexibility needs to be coupled with regular assessment of progress in implementation 
+and strong political oversight to ensure that objectives and timelines are met. 
+ When sequencing reforms, do the basics first 
+Ultimately, the aim of a GWM&E system is to promote “learning organizations.” In 
+developing countries like South Africa, this is likely to be a medium- to long-term 
+enterprise. Before more sophisticated M&E approaches, systems, and instruments are 
+employed, the basic administrative processes have to be in place. The credibility of 
+administrative data systems and administrative registers in departments depend on the 
+                                                      
+24 http://www.thepresidency.gov.za/main.asp?include=docs/reports/ 
+    15year_review/background_thematic.html.
+<<<PAGE=38>>>
+28 
+efficiency of the underlying core business processes. For instance, database 
+information on identity documents issued can only be credible if the administrative 
+process for issuing the identity documents is sound. Similarly, financial information 
+on local government revenue receipts depends on accurate meter reading, credit 
+control, billing and other revenue management systems. No amount of sophisticated 
+data mining using IT systems will improve the credibility of the data unless the 
+underlying transaction-level data are accurate.  
+As discussed earlier, the initial emphasis in South Africa has been on monitoring 
+rather than evaluation. This is partly a result of the National Treasury’s emphasis on 
+the system’s development, as well as the need to embed basic management 
+information systems in the South African public sector. While this is clearly less than 
+ideal, this approach is at least consistent with the country’s capacity constraints 
+(which should become less binding over time) and it can serve as a springboard to 
+institutionalizing M&E as a mechanism for improving service delivery. 
+ Coordination is critical in a decentralized system; factors inhibiting 
+coordination are multifaceted 
+One strength in the design of the GWM&E system is the recognition of the need for a 
+composite system that allows expertise in various sectors and tiers of government to 
+develop appropriate M&E strategies. In many ways, M&E expresses the realities of 
+governance in stark terms. Although coordination and linked-up government are not 
+new concepts, we still have not developed strong protocols about how to proceed with 
+these issues. Departments (especially central ministries) are very protective of their 
+mandates, and often such mandates can overlap. In M&E design it becomes difficult 
+to coordinate when people do not want to be coordinated. Those who seek alignment 
+are always cooperative, but those who do not want it will just continue with their 
+projects and claim that it is their mandate. M&E systems will need to develop strong 
+protocols on coordination and alignment. In the South Africa case, we will be 
+investigating the legal basis for enforcing better coordination.  
+Discussions around coordination can simplistically be described as “turf battles.” 
+However, such labeling does not allow for further analysis. It is perhaps more 
+worthwhile to have in-depth discussions about different views on the role of the state 
+and different paradigms for public sector reform. 
+ There should be balance between top-down guidance and bottom-up (sector 
+and subnational) expertise 
+In the initial design stages of the GWM&E system, it was optimistic to think that one 
+could end up with a set of indicators that would reflect a simple hierarchy, moving 
+from output, to outcome, to impact. However, such a simplistic “nesting” of indicators 
+assumes that all users have similar needs. It quickly became apparent that, at different 
+points in the system, different stakeholders have different needs. The difference in the 
+information needs of departments, which have policy imperatives, and the needs of 
+the National Treasury, which is focused on budget accountability, is quite substantial. 
+Similarly, the needs of the national Cabinet and the strategic oversight they seek, 
+versus community-level indicators, are obvious. One solution is to develop sets of 
+indicators that have different entry points.
+<<<PAGE=39>>>
+29 
+Characteristic of such a system will be ongoing, and perhaps necessary, tension over 
+indicators that are developed by sector specialists and the more strategic and 
+overarching indicators called for by the central government. It would be naïve to think 
+that there can be a single decision point in government that will decide on all 
+indicators — no government ca n function that way. These types of imposed indicators 
+are also generally resisted. It is perhaps more fruitful to think of an approach 
+involving ongoing dialogue on the development of shared and commonly agreed 
+indicators. 
+ There should be a dual implementation approach combining short-term 
+visible M&E achievements with longer-term strategic direction 
+In the South African experience, it was clear that a successful GWM&E system had to 
+do two things simultaneously: (1) provide clarity on policy and, (2) produce a suite of 
+M&E products as soon as possible. 
+In the development of the GWM&E system it became apparent that one would need a 
+more formal policy guidance environment than simply a “community of practice.” 
+Understanding the exact nature of the system though is only possible after some 
+systemic M&E activities have been conducted for a period of time. If it were possible 
+to have greater conceptual clarity before this period of activity, such an approach 
+would save a lot of wasted time and effort. Once there is greater conceptual clarity 
+about what the system entails, who the main actors are, and what their true focus and 
+areas of expertise are, we could then move on to constructing a formal policy 
+framework.  
+However, to give the system credibility, to make it a “real” product in the eyes of the 
+executive government and other stakeholders, it was useful to buttress the policy 
+frameworks and systemic discussions with some very real products that could 
+demonstrate the value of the approach. The South African government made an effort 
+to provide credible products that could provide new insights and quickly demonstrate 
+that time and effort expended in creating an M&E system does produce valuable 
+results. 
+ GWM&E is a management system not an IT system 
+In the early stages of the GWM&E system it was conceptualized as a government-
+wide IT system. Later versions of the GWM&E Policy Framework have stressed that 
+the framework is primarily a management system. Information technology can, 
+however, be used as a crucial M&E enabler.  
+The GWM&E policy framework seeks to embed within public sector organizations a 
+performance management system that is clearly defined along with other internal 
+management systems (such as planning and budgeting). The term “system,” in this 
+context, refers to policies, strategies, structures, processes, information flows, and 
+accountability relationships, which underpin the practice of M&E across government. 
+This may or may not be supported by IT software and other tools. If so, the emphasis 
+is therefore on systems integration, interoperability, and standards for data exchange.
+<<<PAGE=40>>>
+30 
+While judicious use of IT systems can facilitate M&E enormously, IT systems alone 
+will fail unless public sector institutions modify their business processes to support 
+the M&E system, capacity is created to sustain the system, and a self-reflective, 
+mature management culture is created that demands M&E information and responds 
+constructively, rather than defensively, to M&E findings. In South Africa, where 
+management systems in certain provincial governments and municipalities are very 
+weak, the importance of this cannot be overemphasized since IT systems are often 
+perceived as an instant panacea.  
+ Resistance is inevitable and managing change is therefore critical 
+Past experience with public sector reform in South Africa has shown that “malicious 
+compliance” is possible. In other words, there is compliance according to the letter of 
+a law, regulation, or reporting format, but the spirit of the law or regulation is 
+deliberately undermined. So, even though M&E frameworks and other guidelines are 
+adopted, this does not change the informal institutions in the public institution (that is, 
+“the way things actually are done”) or the organizational culture or the management 
+mindset. The crucial criterion by which the effectiveness of the emerging South 
+African GWM&E system will be judged is to see if it actually has impacts on 
+managerial behavior and executive decision making. 
+In rolling out the system further, there has to be a mix of compliance and 
+collaborative approaches to building ownership of M&E systems by line ministries. 
+To date this has been achieved to an extent by involving the relevant sector 
+departments and their subnational counterparts in designing indicator frameworks. 
+The President’s Office has taken the approach of providing good practice guides (for 
+example, to the provincial Offices of the Premier) rather than strict directives. 
+The South African public service has been in a state of continual transformation since 
+the transition to democracy in 1994. Not surprisingly, many civil servants suffer from 
+“reform fatigue.” When implementing the GWM&E system, the President’s Office 
+has attempted to communicate the linkages with previous public sector reform 
+initiatives and the intention to build on previous achievements, rather than displacing 
+them. 
+Another source of resistance is that managers in the public sector may perceive the 
+GWM&E system as an instrument of management control rather than an aid to 
+improving future performance by reflecting critically on current practices. The 
+effectiveness of the GWM&E system is inextricably linked to the broader task of 
+creating and institutionalizing a performance orientation in the South African public 
+service. This is complicated by the practical difficulties in linking service delivery 
+progress (or lack thereof) to personal accountability. A recurring refrain heard in 
+implementing the Public Finance Management Act of 1999 was the need to hold 
+managers accountable for service delivery outputs. Accomplishing this in practice can 
+prove challenging though. 
+Furthermore, changes in strategic planning, annual performance planning formats, and 
+quarterly nonfinancial information indicators were initially driven by the National 
+Treasury and its provincial counterparts. Understandably, the reforms mainly reached 
+finance officials, and insufficient attention was paid to drawing in officials involved
+<<<PAGE=41>>>
+31 
+in strategy and policy. At present there is a need for a common understanding of 
+policy performance in the South African public service to transcend the traditional 
+dichotomy between financial and service delivery (nonfinancial) information. Finance 
+officials increasingly are required to play a support role with respect to resource 
+allocation decision making and service delivery. On the other side, line managers are 
+increasingly being required to account for value-for-money. Ongoing cooperation 
+among the President’s Office, the National Treasury, and other key departments will 
+be needed to create this common vision of policy performance. 
+In the aftermath of the global economic meltdown, South Africa’s fiscal position has 
+swung from a modest surplus to an anticipated deficit of over 7 percent of GDP in the 
+2009/10 fiscal year. For the first time since the transition to democracy, government 
+revenues have been undercollected by more than ZAR 60 billion. In previous years, 
+improvements in revenue collection by the South African Revenue Service had 
+resulted in revenue overcollections. At the same time, increased poverty and 
+unemployment have significantly increased the demand for government services and 
+social grants. This environment of increased fiscal austerity over the medium term 
+could create a powerful incentive for line departments to use performance information 
+intensively in pursuit of value-for-money and the elimination of wasteful and 
+unproductive expenditures. 
+ M&E is an art as well as a science, and there is no substitute for learning-
+by-doing 
+South Africa has been in the privileged position of being able to learn from the 
+experiences of other developed and developing countries. It has become clear that 
+there is no blueprint for developing an effective GWM&E system. In the end, each 
+country will have to craft a pragmatic response that speaks to its own political, 
+development, and governance context, within its own prevailing resource and capacity 
+constraints. Sequencing M&E reforms will also depend heavily on the specific 
+country circumstances and the specific objectives of the country’s own GWM&E 
+system. The process of implementing a GWM&E system also creates opportunities 
+for learning-by-doing and “meta-evaluation” (in the sense of evaluating the process of 
+establishing and maintaining evaluation systems). 
+ Choice of a principles-based approach versus a firmer policy regulatory 
+approach depends on country context 
+A principles-based approach is desirable because it permits innovation while 
+maintaining the coherence of an M&E system. This allows individual managers to 
+innovatively apply the principles of M&E to their own sectors. However, such an 
+approach assumes that managers are empowered and motivated to improve service 
+delivery. This may not always be the case in developing countries where lack of 
+capacity is pervasive and incentives may be skewed. Regulatory approaches present a 
+standard set of requirements for compliance, which can be uniformly enforced across 
+sectors. This may obviously constrain innovation, may erode a sense of ownership 
+and induce malicious compliance. On the other hand, it does provide clarity of 
+purpose and expectations, and may be more appropriate in less sophisticated 
+institutional environments. The position a developing country chooses along this 
+spectrum depends crucially on its specific institutional and governance context.
+<<<PAGE=42>>>
+32 
+Having drawn on our predecessors’ implementation experiences, we offer these hard-
+won reflections in the hope that other countries may have a much smoother learning 
+curve.
+<<<PAGE=43>>>
+33 
+Bibliography 
+ 
+Bergeron, G. 1999. “Rapid Appraisal Methods for the Assessment, Design, and 
+Evaluation of Food Security Programs.” International Food Policy Research 
+Institute, Washington, DC. 
+http://www.ifpri.org/themes/mp18/techguid/tg06.pdf.  
+ 
+Bird, R. 1983. “Threading the Fiscal Labyrinth: Some Issues in Fiscal 
+Decentralization,” National Tax Journal, vol. 46, no. 2. 
+ 
+Diamond, J 2003. “From Program to Performance Budgeting: The Challenge for 
+Emerging Market Economics.” International Monetary Fund Working Paper, 
+Fiscal Affairs Department, IMF, Washington DC 
+ 
+EC/UNPF 2002. “Monitoring and Evaluation of Sexual and Reproductive Health 
+interventions.”  European Commission and United National Population Fund. 
+http://www.asia-initiative.org/pdfs/m_and_e_manual.pdf.  
+ 
+Gramlich, E. 1983. “A Policymaker’s Guide to Fiscal Decentralization,” National Tax 
+Journal, vol. 46, no. 2. 
+ 
+Groenwegen, P 1990. “Taxation and Decentralization.” In Decentralization, Local 
+Governments, and Markets, ed. R.J. Bennet. Oxford: Clarendon Press.  
+ 
+Hommes, R. 1996. “Conflicts and Dilemmas of Decentralization.” In Annual World 
+Bank Conference on Development Economics 1995, eds. M. Bruno B. 
+Pleskovic. Washington, DC: World Bank. 
+ 
+IFAD 2002. A Guide to for Project M&E: Managing for Impact in Rural 
+Development. Rome: International Fund for Agricultural Development. 
+http://www.ifad.org/evaluation/guide/toc.htm. 
+ 
+Kabunduguru, M.B 2004. “Monitoring and Evaluating the Public Sector Reform 
+Program in Tanzania.” www.afrea.org/documents/Document.cfm?docID=104.  
+ 
+Kusek, J.Z and Rist, R.C. 2001. “Building a Performance-Based Monitoring and 
+Evaluation System.” Evaluation Journal of Australasia, vol. 2: 14–23. 
+ 
+Kusek, J.Z and Rist, R.C. 2002. “Building Results-Based Monitoring and Evaluation 
+Systems: Assessing Developing Countries Readiness.” Zeitschift für 
+Evaluation, vol. 1: 151–158 
+ 
+National Treasury 2007. Framework for the Management of Performance 
+Information. http://www.treasury.gov.za/publications/guidelines/FMPI.pdf. 
+ 
+Mackay, K. 2007. How to Build M&E Systems to Support Better Government. 
+Independent Evaluation Group, World Bank, Washington DC. 
+http://www.worldbank.org/ieg/ecd/docs/How_to_build_ME_gov.pdf.
+<<<PAGE=44>>>
+34 
+ 
+Morris, C. 2006. A Results-Based Monitoring and Evaluation System to Support Good 
+Public Management. 
+http://researchspace.csir.co.za/dspace/handle/10204/1060. 
+ 
+Oates, W.E. 1972. Fiscal Federalism. New York: Harcourt, Brace, and Jovanovich. 
+ 
+Oates, W.E. 1983. “Fiscal Decentralization and Economic Development.” National 
+Tax Journal 46 (2): 237–243. 
+ 
+OECD 2002. Glossary of Key Terms in Evaluation and Results-Based Management. 
+OECD Development Assistance Committee. 
+http://www.oecd.org/dataoecd/29/21/2754804.pdf. 
+ 
+South Africa, Office of the President 2007. “Policy Framework for the Government-
+wide Monitoring and Evaluation System.” Pretoria. . 
+ 
+South Africa, Office of the President 2009. “Green Paper on Improving Government 
+Performance.” Pretoria. 
+http://www.thepresidency.gov.za/learning/gov_performance.pdf. 
+ 
+South Africa, Office of the President 2009. “Development Indicators 2009”, Pretoria, 
+http://www.thepresidency.gov.za/main.asp?include=learning/me/indicators/
+2009/index.html.  
+ 
+Schiavo-Campo, S. 2005. “Building Country Capacity for Monitoring and Evaluation 
+in the Public Sector: Selected Lessons of International Experience.” ECD 
+Working Paper No. 13, Independent Evaluation Group,World Bank, 
+Washington, DC.  
+ 
+Schick, A 1966. “The Road to PPB: The Stages of Budget Reform.” Public 
+Administration Review 26 (December): 243–258. 
+ 
+Schick, A 1998. “A Contemporary Approach to Public Expenditure Management, 
+Governance, Regulation and Finance Division,” World Bank Institute, 
+Washington. DC. 
+ 
+Shah, A. 1994. “The Reform of Intergovernmental Fiscal Relations in Developing and 
+Emerging Market Economies,” Policy and Research Series No. 23, World 
+Bank, Washington, DC. 
+ 
+UNCDF 2006. “Achieving Results: Performance Budgeting in Least Developed 
+Countries, United Nations Capital Development Fund, Washington, DC. 
+ 
+UNDP 2002. Handbook on Monitoring and Evaluation for Results. United Nations 
+Development Program Evaluation Office, New York:UNDP.  
+ 
+UNICEF 1989. A UNICEF Guide to Monitoring and Evaluation. 
+http://www.unicef.org/reseval/index.html.
+<<<PAGE=45>>>
+35 
+Other Papers in This Series 
+#1: Keith Mackay. 1998. Lessons from National Experience. 
+#2: Stephen Brushett. 1998. Zimbabwe: Issues and Opportunities. 
+#3: Alain Barberie. 1998. Indonesia’s National Evaluation System. 
+#4: Keith Mackay. 1998. The Development of Australia’s Evaluation System. 
+#5: R. Pablo Guerrero O. 1999. Comparative Insights from Colombia, China and 
+Indonesia. 
+#6: Keith Mackay. 1999. Evaluation Capacity Development: A Diagnostic Guide and 
+Action Framework. 
+#7: Mark Schacter. 2000.  Sub-Saharan Africa: Lessons from Experience in Supporting 
+Sound Governance. 
+#8: Arild Hauge. 2001. Strengthening Capacity for Monitoring and Evaluation in Uganda: 
+A Results Based Management Perspective. 
+#9: Marie-Hélène Adrien. 2003. Guide to Conducting Reviews of Organizations Supplying 
+M&E Training. 
+#10:  Arild Hauge. 2003. The Development of Monitoring and Evaluation Capacities to 
+Improve Government Performance in Uganda. 
+#11: Keith Mackay. 2004.  Two Generations of Performance Evaluation and Management 
+System in Australia. 
+#12: Adikeshavalu Ravindra. 2004. An Assessment of the Impact of Bangalore Citizen 
+Report Cards on the Performance of Public Agencies.  
+#13: Salvatore Schiavo-Campo. 2005. Building Country Capacity for Monitoring and 
+Evaluation in the Public Sector: Selected Lessons of International Experience. 
+#14: Richard Boyle. 2005. Evaluation Capacity Development in the Republic of Ireland.  
+#15:  Keith Mackay. 2006. Institutionalization of Monitoring and Evaluation Systems to 
+Improve Public Sector Management. 
+#16: Ariel Zaltsman. 2006. Experience with Institutionalizing Monitoring and Evaluation 
+Systems In Five Latin American Countries: Argentina, Chile, Colombia, Costa Rica 
+and Uruguay 
+#17: Keith Mackay and others. 2007. A Diagnosis of Colombia’s National M&E System, 
+SINERGIA.
+<<<PAGE=46>>>
+36 
+#18: Manuel Fernando Castro. 2008.  Insider Insights: Building a Results-Based 
+Management and Evaluation System in Colombia. 
+#19: Rafael Gómez, Mauricio Olivera, and Mario A. Velasco. Implementing a 
+Subnational Results-Oriented Management and Budgeting System: Lessons from 
+Medellín, Colombia. 
+#20: Manuel Fernando Castro, Gladys Lopez-Acevedo, Gita Beker Busjeet, and Ximena 
+Fernandez Ordonez. Mexico’s M&E System: Scaling Up from the Sectoral to the 
+National Level.
+<<<PAGE=47>>>
+37 
+Other Recommended Reading 
+E. May, D. Shand, K. Mackay, F. Rojas and J. Saavedra (eds.) 2006. Towards the 
+Institutionalization of Monitoring and Evaluation Systems in Latin America and the 
+Caribbean: Proceedings of a World Bank / Inter-American Development Bank 
+Conference. 
+Independent Evaluation Group (IEG). 2004. Evaluation Capacity Development: OED Self-
+Evaluation. 
+IEG. 2002. Annual Report on Evaluation Capacity Development. 
+IEG. 2004. Monitoring and Evaluation: Some Tools, Methods and Approaches. 2
+nd Edition. 
+IEG. 2004. Influential Evaluations: Evaluations that Improved Performance and Impacts of 
+Development Programs. 
+IEG. 2005. Influential Evaluations: Detailed Case Studies. 
+IEG. 2006. Conducting Quality Impact Evaluations Under Budget, Time and Data Constraints. 
+IEG. 2006. Impact Evaluation ― The Experience of the Independent Evaluation Group of the 
+World Bank. 
+Development Bank of Southern Africa, African Development Bank and The World Bank. 2000. 
+Developing African Capacity for Monitoring and Evaluation. 
+K. Mackay and S. Gariba (eds.) 2000. The Role of Civil Society in Assessing Public Sector 
+Performance in Ghana. OED. 
+ 
+Other relevant publications can be downloaded from IEG’s ECD website at  
+http://www.worldbank.org/ieg/ecd.

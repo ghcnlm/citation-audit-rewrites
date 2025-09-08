@@ -1,0 +1,910 @@
+<<<PAGE=1>>>
+RESEARCH ARTICLE Open Access
+Evaluating a train-the-trainer approach for
+improving capacity for evidence-based
+decision making in public health
+Laura Yarber 1, Carol A. Brownson 2, Rebekah R. Jacob 2, Elizabeth A. Baker 1, Ellen Jones 3,4, Carsten Baumann 5,
+Anjali D. Deshpande 6, Kathleen N. Gillespie 1, Darcell P. Scharff 1 and Ross C. Brownson 2,7*
+Abstract
+Background: Evidence-based public health gives public health practitioners the tools they need to make choices
+based on the best and most current evidence. An evidence-based public health training course developed in 1997
+by the Prevention Research Center in St. Louis has been taught by a transdisciplinary team multiple times with positive
+results. In order to scale up evidence-based practices, a train-the-trainer initiative was launched in 2010.
+Methods: This study examines the outcomes achieved among participants of courses led by trained state-level faculty.
+Participants from trainee-led courses in four states (Indiana , Colorado, Nebraska, and Kansas) over three years were asked
+to complete an online survey. Attempts were made to contact 317 past participants. One-hundred forty-four (50.9 %)
+reachable participants were included in analysis. Outcomes measured include frequency of use of materials, resources,
+and other skills or tools from the course; reasons for not using the materials and resources; and benefits from attending
+the course. Survey responses were tabulated and compared using Chi-square tests.
+Results: Among the most commonly reported benefits, 88 % of respondents agreed that they acquired knowledge
+about a new subject, 85 % saw applications for the knowledge to their work, and 78 % agreed the course also improved
+abilities to make scientifically informed decisions at work . The most commonly reported reasons for not using course
+content as much as intended included not having enough time to implement evidence-based approaches (42 %); other
+staff/peers lack training (34 %); and not enough funding for continued training (34 %). The study findings suggest that
+utilization of course materials and teachings remains relative ly high across practitioner groups, whether they were taught
+by the original trainers or by state-based trainers.
+Conclusions:The findings of this study suggest that train-the-trainer is an effective method for broadly disseminating
+evidence-based public health principles. Train-the-traineris less costly than the traditional method and allows for courses
+to be tailored to local issues, thus making it a viable appr oach to dissemination and scale up of new public health
+practices.
+Keywords: Evidence-based public health, Training, Train-the-trainer, Public health workforce, Scale-up
+* Correspondence: rbrownson@brownschool.wustl.edu
+2Prevention Research Center in St. Louis, Brown School, Washington
+University in St. Louis, St. Louis, MO, USA
+7Division of Public Health Sciences and Alvin J. Siteman Cancer Center,
+Washington University School of Medicine, Washington University in St.
+Louis, St. Louis, MO, USA
+Full list of author information is available at the end of the article
+© 2015 Yarber et al. Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Yarber et al. BMC Health Services Research  (2015) 15:547 
+DOI 10.1186/s12913-015-1224-2
+<<<PAGE=2>>>
+Background
+Public health is a diverse field, employing people from a
+variety of backgrounds in a wid e range of occupations [1].
+The occupations are as varied as the level of education,
+which range from high school diplomas to doctoral degrees.
+Data that are available suggest that less than half of the
+public health workforce has formal training in public health
+[2, 3]. Further limiting the standardization of skills across
+roles is the lack of formal core competencies or certification
+criteria for most practitioners [4]. Long-term solutions for
+filling this gap in preparedness include on-the-job training
+as a way to disseminate kno wledge and enhance skills of
+public health practitioners. Yet training opportunities vary
+widely by region and face myriad challenges including high
+staff turnover, lack of availabl e trainers locally, and restric-
+tions on travel that would allow participation in continuing
+education [5–7].
+Workforce capacity building in public health has been an
+area of focus for decades since attention was drawn to the
+inadequate public health infrastructure [3, 4, 8, 9]. Strength-
+ening the public health infrastructure was a driving force
+behind the formation of the Public Health Accreditation
+Board, which developed accreditation standards and mea-
+sures for public health agen cies [10, 11]. Assuring work-
+force competence is one of the 10 domains. Part of this
+domain focuses on assessing knowledge and skill gaps and
+providing appropriate training. The final domain specific-
+ally addresses contributing t o and applying the evidence
+base of public health [11].
+Beginning in the 1990 ’s and following the lead estab-
+lished in medicine, public h ealth recognized the need to
+identify the evidence of effectiveness for different interven-
+tions, translate that evidence into recommendations for
+practice, and increase the extent to which that evidence is
+used [12 –14]. Evidence-based public health (EBPH) has
+been described as the integration of science-based inter-
+ventions with community preferences to improve popula-
+tion health [15]. By its nature, EBPH is an iterative and
+dynamic process as it takes place in natural settings rather
+than in controlled experimental situations. Because EBPH
+is a relatively new approach to public health practice, many
+practitioners, regardless of educational background, have
+not received formal training on this topic. One of the most
+widely disseminated training efforts to improve evidence-
+based decision making in public health has been a course
+developed in 1997 in Missouri [12]. The EBPH course, of-
+fered in a 2.5 to 4-day format, includes 9 modules that
+cover the core principles of evidence-based public health
+from problem definition through program development to
+evaluation [7, 12, 16 –18]. It is designed to provide tools
+and information that will improve skills for evidence-based
+decision making among public health practitioners.
+Initially, the EBPH course was taught exclusively in
+Missouri for state and local public health practitioners.
+In an attempt to broaden the reach of training, the Cen-
+ters for Disease Control and Prevention began its sup-
+port of a national course in 2002. This annual training
+draws 25 –35 participants from state and local govern-
+ment, non-governmental organizations (e.g., American
+Cancer Society, YMCA), and other sectors. In the first
+long-term evaluation of EBPH, which included Missouri
+and national participants from 2001 –2004, 90 % of re-
+spondents reported that the course helped them make
+informed decisions in the workplace and 82 % of partici-
+pants reported that the course content helped them
+communicate better with co-workers [7]. While partici-
+pants value the course and content, its reach into the
+public health workforce is not complete due to a num-
+ber of barriers. Based on both qualitative and quantita-
+tive evaluations, one of the leading barriers to applying
+the skills taught in the course is not having co-workers
+who are also trained in EBPH [5, 19, 20].
+To ensure a critical mass of workers with a common lan-
+guage and understanding of EBPH, training must be
+“scaled up.” Scalability is the process by which an interven-
+tion shown to be efficacious on a small scale (under
+controlled conditions) is expanded under real world condi-
+tions to reach a broader practice or policy audience [21,
+22]. Scaling-up a public health innovation like the EBPH
+training program would improve coverage and access to
+the training and its intended benefits by reducing cost, util-
+izing in-state trainers who are knowledgeable of local is-
+sues, and encouraging collaboration among researchers
+and staff from neighboring universities and local and state
+public health departments. The process of scaling-up re-
+quires an implementation plan that considers the context,
+delivery mechanisms, and resource requirements of the
+program [23, 24].
+In an effort to scale up the EBPH training course, the
+program was expanded in 2010 to begin taking the train-
+ing to states with the aim of building EBPH capacity
+within those health departments and leveraging their ex-
+pertise to train co-workers and others. The approach,
+funded by the National Association of Chronic Disease
+Directors (NACDD), was a train-the-trainer program.
+Train-the-trainer programs are used in a wide variety of
+fields for workforce development, including public health
+preparedness [25]; occupationalsafety [26]; nutrition educa-
+tion [27], health care issues [28 –32]; and a variety of clinical
+interventions [33, 34]. Train-t he-trainer approaches have
+been used extensively in HIV prevention and education to
+train clinicians and peers [35 –40]. There are a number of
+potential advantages to train-the-trainer approaches, the
+most obvious being to reach la rger audiences through sub-
+sequent training activities led by those who were trained
+initially. Assuming the trainees are local to the audiences
+they will train, they may have more direct access to those
+communities and better understanding of contextual issues
+Yarber et al. BMC Health Services Research  (2015) 15:547 Page 2 of 10
+<<<PAGE=3>>>
+affecting application of training. Building capacity at the
+local level also has the potential for enhancing collaboration
+and networking among those trained and for sustaining the
+training [25].
+Despite its widespread use and potential benefits, the
+literature on the effectiveness of train-the-trainer ap-
+proaches is limited. A contributing factor is that many of
+those who participate in train-the-trainer programs do
+not replicate training sessions at the local level [41]. For
+example, only 20 % of those trained in disaster prepared-
+ness [25] conducted a replication training 6 months after
+they were trained. Similarly, in a study of perinatal HIV
+prevention and care training, only 20 % went on to con-
+duct training after being trained [36].
+In the EBPH train-the-trainer program, state chronic dis-
+ease units were invited to apply for on-site training by the
+PRC-StL faculty; they were encouraged to involve faculty
+from local schools of public health in the process. A condi-
+tion of award was that states agree to replicate the course
+at least once in the subsequent year, to be taught by in-
+state trainers who had completed the training course.
+Each year, one to two states were selected to have train-
+ing on site. Twenty-five to forty participants, including
+public health practitioners from state and local govern-
+ment along with their partners from academic centers and
+community organizations, were trained in each state. Be-
+tween 2010 and 2015, ten states received training. To date,
+six states have replicated the course two or more times;
+three have offered it once, and two are in the planning
+stages for their first or second replication.
+Among the participants in the initial training were
+people who had been previously identified as potential fu-
+ture trainers. After the initial training, local trainers were
+provided support materials, including guidance on adult
+learning techniques and dialogue education, as well as
+technical assistance from a NACDD contractor, who also
+worked closely with a local coordinator throughout the
+process and served as a liaison between state-based faculty
+and the original training team.
+Several steps were taken to maximize course fidelity. All
+replication courses included the same nine core modules
+as the original training. While the objectives, framework,
+and essential content remained the same, the state-based
+trainers were encouraged to consider their state ’s priorities
+and incorporate local data and relevant program and policy
+examples wherever appropriate. The NACDD contractor
+and course developers collaborated with states on tailoring
+and any other proposed changes to the content or format.
+At the time of their first replication, new trainers were also
+observed and provided constructive feedback.
+Innovative products, programs and practices often fall
+short of realizing their full impact due to scaling-up chal-
+lenges. Fortunately, research interest in scale-up and
+spread is increasing [21, 42]. However, much of the
+literature on scaling-up of innovations to date has focused
+on barriers and facilitators [23, 43]. In this paper, we
+evaluate a train-the-trainer approach to scaling up. We
+describe the application of training concepts and tools by
+participants of courses led by trained state-level staff and
+the reach of training by those states. As EBPH is a com-
+plex, iterative approach to decision making in public
+health [6], assessing gains in knowledge and skills from in-
+dividual modules provides a limited picture. Instead, im-
+plementation of core concepts is measured and used as a
+proxy for gains in knowledge and skills.
+Methods
+This research was approved by the Saint Louis Univer-
+sity Institutional Review Board.
+In this evaluation, we surveyed public health practitioners
+who attended a state-sponsored EBPH course between
+2011 and 2013 in Colorado, Indiana, Kansas, or Nebraska.
+Total replications per state ranged from one to five during
+that time period. In total, 317 past attendees were contacted
+via email and invited to take a brief (10 min on average)
+survey in Qualtrics [44]. To increase response rate, par-
+ticipants received two reminder emails, a phone call,
+and a final reminder email. The survey remained open
+for 3 months. The 34 course attendees not reachable by
+email, who had no working phone number and/or no
+longer worked at the health department, were deemed
+unreachable, leaving a possible 283 respondents. The
+final response rate was 50.9 % (144/283).
+Along with background characteristics, the survey in-
+cluded questions on the frequency of use of materials, re-
+sources, and other skills or tools from the course; reasons
+for not using the materials and resources as much as
+intended; and benefits from attending the course. Use of
+materials/skills was measured with a four-point frequency
+scale (seldom/never, quarterly, monthly, or weekly). Course
+benefits and reasons for less than intended material/skill
+use was measured on a 5-point Likert scale (from strongly
+disagree to strongly agree). The survey also included open-
+ended questions where participants were invited to de-
+scribe the most useful parts of the training and what could
+have been done differently to improve the course. The sur-
+vey instruments are available from the last author and in
+Additional file 1.
+We calculated frequencies and conducted descriptive
+statistics to explore participant characteristics and re-
+sponses. Similar to other work [7, 19, 45], we compared
+data across three mutually exclusive groups –state health
+department, local health department (county or city), and
+participants from an agency other than a health depart-
+ment such as a university or community organization. We
+conducted Chi-square tests to determine statistical differ-
+ences in proportions across the three participant groups.
+Statistical significance was determined at p < 0.05. No
+Yarber et al. BMC Health Services Research  (2015) 15:547 Page 3 of 10
+<<<PAGE=4>>>
+relationships were found in regard to clustering by state,
+therefore no adjustments were made in regard to state
+membership because the survey assessed individual-level
+opinions on the personal competencies. For qualitative
+analysis of open-ended items, responses were grouped and
+coded for main themes. Direct quotes were then selected
+to represent the main themes that emerged.
+Results
+Respondent characteristics
+Among respondents, most (56 %) were from local city or
+county health departments (Table 1). In addition, a little
+over a quarter (26 %) were from state health departments
+and another 13 % were from various other organizations
+such as universities (5 %), community-based organizations
+(5 %) and other non-profit and health-related entities
+(3 %). Program manager or coordinator was the most often
+reported type of job position (35 %), followed by health
+educator or community health worker (25 %). Eleven per-
+cent of the sample was considered upper agency manage-
+ment (e.g., division or bureau heads, directors, deputies).
+Almost half (49 %) held at least a master ’s degree (16 %
+with a Master of Public Health) as their highest degree
+earned with just over a fourth (26 %) with a bachelor ’sd e -
+gree or less. Areas of specialization among participants var-
+ied widely. More than one-third (36 %) specialized in
+health promotion. Other common areas of specialization
+included obesity, physical activity and/or nutrition (25 %),
+epidemiology or evaluation (24 %), tobacco (19 %), and
+communicable diseases (18 %). Participants reported a
+mean of 10 years (SD = 7.2 years) working in public health.
+Course benefits
+Participants reported numerous benefits from attending
+the EBPH course (Table 2). Among the most commonly
+reported benefits, 88 % of respondents agreed that they
+acquired knowledge about a new subject, 85 % saw ap-
+plications for the knowledge to their work, and 78 %
+agreed the course also improved abilities to make scien-
+tifically informed decisions at work. Approximately one-
+third agreed that the course helped them prepare policy
+briefings (32 %) or obtain funding for programs (31 %).
+Two benefits from the course varied by type of agency.
+Local and state health participants were less likely to re-
+port that the course helped them to adapt an evidence-
+based intervention to a community ’s needs compared to
+participants from other agencies (53 %, 68 %, and 81 %
+respectively, p = .02). In addition, those from other agen-
+cies and local health participants were less likely to agree
+than those from state health departments that the course
+helped them to implement evidence-based practices in
+CDC cooperative agreements or other federal programs
+(27, 40, and 58 % respectively, p = .04).
+Use of course materials, resources and skills
+Frequency with which core materials and skills from the
+course were used varied (Table 3). One-third (33 %)
+Table 1 Participant characteristics of public health practitioners
+(N = 144)
+Characteristic n (%) a,b
+Highest degree earned
+Doctoral 14 (9.9)
+Master of Public Health 23 (16.3)
+Other master ’s degree 46 (32.6)
+Nursing 21 (14.9)
+Bachelor’s degree or less 37 (26.2)
+Program area
+Obesity, physical activity, nutrition 36 (25.0) c
+Tobacco 27 (18.8)
+Cancer 19 (13.2)
+Diabetes/cardiovascular health 11 (7.6)
+Health promotion 52 (36.1)
+School health 20 (13.9)
+Environmental health 23 (16.0)
+Maternal and child health 22 (15.3)
+Communicable diseases/immunizations 26 (18.1)
+Epidemiology or evaluation 35 (24.3)
+Otherd 48 (33.3)
+Agency or organization type
+State health department 38 (26.4)
+Local health department (city or county) 80 (55.6)
+University 7 (4.9)
+Community-based organization 7 (4.9)
+Other specified e 12 (8.3)
+Job position
+Program manager or coordinator 51 (35.4)
+Health educator or community health worker 36 (25.0)
+Epidemiologist or statistician 9 (6.3)
+Division, Department or Bureau Head/Director/Deputy 16 (11.1)
+Academic researcher or educator 7 (4.9)
+Program planner or evaluator 7 (4.9)
+Other specified f 18 (12.5)
+Years worked in public health, mean ± SD 9.5 ± 7.2
+aPercentage reported for valid, non-missing cases
+bSome percentages do not sum to 100 % due to rounding
+cPercentages do not sum to 100 % as participants were able to select multiple
+program areas
+dExamples of other program areas include family planning, oral health, injury
+prevention, emergency preparedness, asthma, and healthy aging
+eExamples of other specified organization types include voluntary health
+organization, consulting business, medical membership organization and other
+governmental agencies
+fExamples of other job position types include environmental health and other
+program area specialists, manager of contracts, and program consultant
+Yarber et al. BMC Health Services Research  (2015) 15:547 Page 4 of 10
+<<<PAGE=5>>>
+reported searching scientific literature at least once per
+month. This was lower among local health participants
+(23 %) as compared to those from state health depart-
+ments (45 %) and other agencies (46 %) ( p = .02). In
+addition, local health participants were less likely to re-
+port using materials and skills from the course at least
+monthly to evaluate a program compared to state health
+participants and those from other agencies (12, 37, and
+31 % respectively, p = .004). The most commonly re-
+ported reasons for not using course content as much as
+intended included not having enough time to implement
+EBPH approaches (42 %); other staff/peers lack EBPH
+training (34 %); and not enough funding for continued
+training (34 %) (data not shown). No associations were
+found between course materials, resources, skills and
+participants’education level or degree type.
+Responses to open-ended questions
+Two open-ended questions were included in the survey.
+The first asked respondents what was the most useful
+part of the training (Table 4). One group of responses
+clustered into themes about content — learning about
+EBPH, learning about available resources, and gaining
+knowledge in specific areas. One respondent wrote,
+“Having a tangible reference as to what evidence-based
+public health strategies meant and how they could be
+used in our everyday work lives. ” Another said, “Utiliz-
+ing data and information to select evidence-based strat-
+egies/ programs. ” Another set of responses centered on
+the learning process. Comments included, “Small group
+discussion and group work developing examples of
+EBPH,” and “Interaction with other team members to
+discuss ways to improve or work with EBPH methods. ”
+Other comments related to specific content areas, e.g.,
+the value of the module on economic evaluation and
+the concept of return on investment.
+The second qualitative question asked how the training
+c o u l db ei m p r o v e d( T a b l e5 ) .T h em a i nt h e m e si nr e -
+sponses related to the need for more course follow up,
+more examples from practice, and more group and hands-
+Table 2 Benefits from EBPH training ( N = 144a)
+% Agree/Strongly agree Total n (%) SHD n (%) LHD n (%) Other n (%) P-value*
+Acquire knowledge about a new subject 126 (87.5) 30 (78.9) 73 (91.2) 23 (88.5) .17
+See applications for this knowledge in my work 122 (84.7) 30 (78.9) 67 (93.8) 25 (96.2) .16
+Make scientifically informed decisions at work 112 (77.8) 31 (81.6) 62 (77.5) 19 (73.1) .72
+Become a better leader who promotes evidence-based decision making 113 (79.0) 29 (76.3) 62 (78.5) 22 (84.6) .71
+Adapt an intervention to a community ’s needs while keeping it evidence based 89 (61.9) 26 (68.4) 42 (52.5) 21 (80.8) .02
+Communicate better with co-workers 83 (57.6) 23 (60.5) 44 (55.0) 16 (61.5) .77
+Develop a rationale for a policy change 83 (57.6) 20 (52.6) 49 (61.3) 14 (53.8) .62
+Teach others how to use/apply the information in the EBPH course 80 (55.9) 20 (54.1) 41 (51.2) 19 (73.1) .15
+Identify and compare the costs and benefits of a program or policy 80 (55.6) 19 (50.0) 48 (60.0) 13 (50.0) .49
+Read reports and articles 78 (54.2) 21 (55.3) 41 (51.2) 16 (61.5) .65
+Implement evidence-based practices in a CDC cooperative agreement or other
+federal program
+60 (42.3) 22 (57.9) 31 (39.7) 7 (26.9) .04
+Prepare a policy briefing for administrators or state or local legislative officials 46 (31.9) 12 (31.6) 27 (33.8) 7 (26.9) .81
+Obtain funding for programs at work 45 (31.2) 14 (36.8) 23 (28.7) 8 (30.8) .67
+*P value determined from Chi-square test statistic
+aNumber responding varied slightly by question
+SHD State Health Department, LHD Local Health Department
+Table 3 Frequency of use of EBPH course materials/resources ( N = 144a)
+At least monthly … Total n (%) SHD n (%) LHD n (%) Other n (%) p-value*
+Searched the scientific literature for information on programs 47 (32.9) 17 (44.7) 18 (22.8) 12 (46.2) .02
+Used the EBPH materials/skills in evaluating a program 31 (21.8) 14 (36.8) 9 (11.5) 8 (30.8) .004
+Used the EBPH materials/skills in modifying an existing program 28 (19.7) 10 (26.3) 11 (14.1) 7 (26.9) .18
+Used the EBPH materials/skills in planning a new program 27 (18.9) 9 (23.7) 10 (12.7) 8 (30.8) .08
+Used the EBPH materials/skills for grant applications 16 (11.3) 4 (10.5) 9 (11.5) 3 (12.0) .98
+Referred to the EBPH readings that were provided 15 (10.6) 4 (10.5) 7 (9.0) 4 (15.4) .65
+*P value determined from Chi-square test statistic
+aNumber responding varied slightly by question
+SHD State Health Department, LHD Local Health Department
+Yarber et al. BMC Health Services Research  (2015) 15:547 Page 5 of 10
+<<<PAGE=6>>>
+on work. There was also a group of responses regarding
+the length and level of individual modules and the course
+overall. The desire for continued learning though follow-
+up sessions was cited most often, as illustrated by these
+comments: “Maybe offer continuing or follow-up training
+to keep us fresh, ” and “Refresher courses one time per year
+where each participant could perhaps bring an example to
+present to others. ” The latter comment also speaks to the
+theme of wanting more examples of how EBPH has been
+used in practice. Another respondent wrote, “Possibly
+more real life examples of how programs and various job
+positions can incorporate it in their work. ”
+Comparison to traditional PRC-led courses
+A comparison of train-the-trainer respondents to those
+taught by the original trainers showed few differences in
+reported outcomes (Table 6). The train-the-trainer group
+differed significantly in terms of percentage agreeing or
+strongly agreeing that they had acquired new knowledge
+(88 vs 78 %) and adapting an intervention to a commu-
+nity’s needs while keeping it evidenced-based (62 vs
+51 %). The traditionally trained group reported higher
+agreement to the ability to implement evidence-based
+practices in a CDC cooperative agreement or other fed-
+eral program (60 vs. 42 %). There were no significant
+differences between groups with utilization of EBPH
+course materials and resources.
+Discussion
+This evaluation provides support for the effectiveness of a
+train-the-trainer method for improving skills and capacity
+to practice EBPH. Nearly 80 % of respondents who took a
+state-based course taught by in-state trainers reported that
+the course had helped them to make scientifically-based
+decisions at work. Additionally, four out of five partici-
+pants agreed or strongly agreed that the course had helped
+them to become a better leader who promoted evidence-
+based decision making.
+Previous studies have assessed the impact of the EBPH
+courses, both domestically and abroad. One such study
+utilized a follow-up survey for participants taking the
+course between 2001 and 2004 [7]. Another evaluation
+surveyed those taking the course from 2008 to 2011 [19].
+These evaluations followed up with participants who had
+Table 4 Selected quotes- common responses for identifying the most useful part of the Evidence-Based Public Health training ( N =1 1 0 )
+Theme Selected quotes
+Hands-on exercises and group discussion  The exercises that involved finding and using data on the internet were very
+valuable.
+ Working in groups to figure out problems.
+ Small group discussion and group work developing examples of EBPH.
+Networking and sharing ideas  Networking with other people in my community and who are working on
+developing a community health improvement plan.
+ Interactions and exchange of ideas among academics, state agency staff and
+practice community.
+ Interaction with other team members to discuss ways to improve or work
+with EBPH methods.
+Learning the overall EBPH process  Observing a more efficient and effective way of the things that I was doing.
+ Realizing that it was not as intimidating as I imagined it would be. It is
+important to recognize and become intentional in utilizing EBPH although
+it takes more time while learning and putting into practice it will save time
+eventually in every program.
+ Explanation of concepts and defining things like logic models. I do not come
+from public health, so it was very helpful for me to have the basics defined
+and applied to more complex information.
+Learning about new resources  The most useful part was learning how to use available resources to aid in
+finding evidence that would be used in decision-making.
+ Having the online resources to be able to find evidence based best practices.
+I have used those sites to review programs when considering new avenues
+to expand into.
+ Utilizing data and information to select evidence-based strategies/programs
+Concepts tied to public health practice  Having a tangible reference as to what “evidenced-based public health
+strategies” meant and how they could be used in our everyday work lives.
+ Presenters applying the lecture to local public health programs.
+ Having practical examples related to public health so it makes sense.
+Economic evaluation/return on investment (ROI) module  Everything with cost-benefit analysis. My agency is currently working on our
+strategic plan, and one area that we are focusing on is financial impact of our
+programs and staff. This has helped me understand our current budget
+justification process more, and it will hopefully help us justify monetary
+need increases in future budgets.
+ The information on return on investment, since I ’ve either mentioned it or
+brought materials to light during strategic planning meetings.
+Yarber et al. BMC Health Services Research  (2015) 15:547 Page 6 of 10
+<<<PAGE=7>>>
+been trained by the original PRC-StL faculty. The surveys
+assessed whether or not participants used certain skills
+and tools from the course on at least a monthly basis. The
+2008–2011 cohort [19] also included international partici-
+pants, but those participants are excluded from this dis-
+cussion to allow for better comparability between groups.
+Comparing results of the current evaluation with the
+most recent evaluation of the traditional course format
+[19] allows us to compare benefits of training and
+follow-up use of course materials and concepts (Table 6).
+The frequencies of most benefits were comparable for
+the traditional vs. train-the-trainer format, suggesting
+similar effectiveness of the train-the-trainer model.
+Two benefits were more often cited among train-the-
+trainer participants (acquire new knowledge, adapt to a
+community’s needs) whereas one benefit was more
+common among traditional format respondents (imple-
+ment evidence-based practices in a CDC/federally
+funded program). Participants reporting that they used
+EBPH materials and skills in planning a new program
+at least monthly fluctuated only slightly (nonsignificantly)
+between the traditional and train-the-trainer formats.
+Barriers to EBPH, as noted in the current study, provide
+the context for developing and scaling up public health
+training programs. Although the rankings and percentages
+vary slightly among the studies of the EBPH program to
+date, three barriers have consistently been among those
+most commonly cited: not having enough time, not having
+funding, and not having co-workers who are also trained
+in EBPH [5, 7, 19, 20, 46]. To address the issue of ad-
+equate time for applying EBPH concepts, the course seeks
+to identify user-friendly tools that are readily available to
+practitioners (e.g., the Community Guide, the National
+Network of Libraries of Medicine) [47]. The lack of co-
+workers trained in EBPH points to the need for a “critical
+mass” of committed staff and a social network in support
+of evidence-based decision making [48, 49]. Having
+trainers who live and work in-state provides local EBPH
+experts in the workplace, allowing for more rapid spread
+of EBPH processes through enhanced communication and
+ongoing collaboration among colleagues.
+A few limitations of the current evaluation deserve
+note. First, the data collected are self-reported, measur-
+ing respondents ’perceptions of learning and impacts. It
+is possible that participants over- or under-rated their
+skills and knowledge when responding to survey items.
+Second, the time gap from delivery of the course to
+data collection resulted in a sizable proportion of
+Table 5 Selected quotes- common responses for the one thing that could be done to improve the Evidence-Based Public Health
+training ( N = 99)
+Theme Selected quotes
+More hands-on exercises  More hands-on and situational work applicable to programs, less lecture.
+ More in-depth case studies; more class participation activities.
+ More small group interaction/real-life application throughout each
+segment of the training would be helpful.
+Provide follow-up trainings as way to refresh  Maybe offer continuing or follow-up training to keep us fresh.
+ More follow up … possibly a meeting six months after.
+ Refresher courses one time per year where each participant could
+perhaps bring an example to present to others.
+ Please provide follow-up trainings for alumni.
+Time (shorter or longer) spent on specific modules  Perhaps by spending a little less time on Module 4 (developing a concise
+statement), more time can be spent on economic evaluation.
+ The most challenging concept to grasp for most of our class was the
+economic assessment/evaluation piece and we did not seem to have
+enough time devoted to it. I know most public health staff do not get
+the opportunity to utilize or incorporate this knowledge into their work,
+especially since most positions are categorically funded. But this is an
+area I wish I could have spent more time as it is becoming more and
+more relevant to my work.
+ Cost-benefit section needs to be on its own. Perhaps allow individuals a
+day (or so) to work on that type of information when applying it to
+programs.
+Ways to make content easier to digest  Maybe breaking the information into chunks. It was a lot of information
+to absorb in two days.
+ Spread out content over time so there are manageable chunks to apply
+in practice.
+More practice examples  Tips on how to use EBPH when we are often unable to change any part
+of our contract work - we often have little program flexibility.
+ Bring in those that have implemented it into a project and speak about
+the project and changes that were made.
+ Possibly more real life examples of how programs and various job
+positions can incorporate it in their work.
+Yarber et al. BMC Health Services Research  (2015) 15:547 Page 7 of 10
+<<<PAGE=8>>>
+participants (14 %) who had changed jobs since they
+took the course. This change in roles makes these indi-
+viduals more difficult to contact. Although several at-
+tempts were made, another 11 % of eligible course
+participants were not reachable by email or phone.
+Additionally, the data collected did not allow for suba-
+nalyses to examine time between course participation
+to survey response as an independent variable. Further
+research is needed to determine if skills and/or bene-
+fits from the course change over time, particularly as
+replications continue and t he time gap since training
+widens. Finally, we do not have relevant data about
+non-respondents, and thus are not able to conclude
+that respondents consist of a representative sample.
+Conclusions
+Based on the data presented here, a train-the-trainer
+model is a viable method for expanding the reach of EBPH
+training. An EBPH train-the-trainer program can effect-
+ively improve numerous skills essential to evidence-based
+decision making among public health practitioners. To
+maximize efficiency and take advantage of advances in
+technology, several sites have expressed interest in elec-
+tronic or virtual platforms for training. To date, one site
+has implemented an online-only option, and another has
+offered a hybrid version of the course in which select con-
+tent is provided via webinar followed by 2 days of face-to-
+face training. Traditionally, course participants have
+rated highly the aspects of the course that enable work-
+ing together during training and networking with peers.
+Thus, any potential benefits of online modalities will
+need to be carefully balanced with the loss of face-to-
+face interaction. Future research will be needed to evalu-
+ate the effectiveness of these modalities. To date, ten
+states (Kansas, Colorado, Indiana, Nebraska, Florida,
+New York, Texas, Vermont, Oklahoma, and Tennessee)
+Table 6 Comparison of traditional format and train-the-trainer format findings
+Benefits from EBPH training (% Agree/Strongly Agree) 2005 – 2011 participants from traditional
+format [ 19]
+2010– 2012 participants
+from train-the-trainer format
+Z statistic b
+N = 296a N = 144
+n (%) n (%)
+Acquire knowledge about a new subject 195 (78) 126 (88) 2.34
+See applications for this knowledge in my work 204 (82) 122 (85) 0.69
+Make scientifically informed decisions at work 184 (74) 112 (78) 0.84
+Become a better leader who promotes evidence-based decision
+making
+198 (80) 113 (79) -0.24
+Adapt an intervention to a community ’s needs while keeping it
+evidence based
+126 (51) 89 (62) 2.09
+Communicate better with co-workers 145 (59) 83 (58) -0.27
+Develop a rationale for a policy change 128 (52) 83 (58) 1.07
+Teach others how to use/apply the information in the EBPH course 144 (58) 80 (56) -0.40
+Identify and compare the costs and benefits of a program or policy 121 (49) 80 (56) 1.26
+Read reports and articles 141 (57) 78 (54) -0.52
+Implement evidence-based practices in a CDC cooperative
+agreement or other federal program
+149 (60) 60 (42) -3.37
+Prepare a policy briefing for administrators or state or local
+legislative officials
+72 (29) 46 (32) 0.60
+Obtain funding for programs at work 69 (28) 45 (31) 0.67
+Frequency of use of EBPH course materials/resources
+(At least monthly)
+Searched the scientific literature for information on programs 105 (41) 47 (33) -1.60
+Used the EBPH materials/skills in evaluating a program 66 (26) 31 (22) -0.94
+Used the EBPH materials/skills in modifying an existing program 67 (26) 28 (20) -1.42
+Used the EBPH materials/skills in planning a new program 54 (21) 27 (19) -0.50
+Used the EBPH materials/skills for grant applications 23 (9) 16 (11) 0.74
+Referred to the EBPH readings that were provided 31 (12) 15 (11) -0.42
+aResponse varied slightly for each question
+bz tests were conducted to compare proportions between the two participant groups where +/- 1.96 signifies a statistically significant difference in proportion
+between the two groups at the alpha .05 level for the two tailed test
+Notes: Data from the 2005 –2011 traditional course participants are taken from Gibbert et al. [ 19])
+Yarber et al. BMC Health Services Research  (2015) 15:547 Page 8 of 10
+<<<PAGE=9>>>
+have been a part of the train-the-trainer program. Fu-
+ture analyses will be needed to compare these training
+outcomes to those measured in this study. Of future re-
+search interest is also the longer-term impact of training
+on program and policy development and the development
+of strategic collaborations. Although these are beyond the
+scope of our training goals, other training programs have
+noted positive impacts on public health policy and devel-
+opment of research networks as indirect benefits of train-
+ing at the network and organizational levels [50, 51].
+This evaluation and related literature [25, 29, 31] sug-
+gest many benefits and lessons of the train-the-trainer
+model including 1) the advantage of local trainers who
+are more familiar with contextual issues to allow tailor-
+ing of the training; 2) enhanced collaboration among
+practice and academic partners to create a forum for
+networking and new partnership opportunities; 3) a
+more convenient and less costly method of training that
+eliminates the need to bring in external trainers or for
+participants to travel out of state; and 4) specific exam-
+ples of how to improve the course in the future. This
+evaluation suggests that the train-the-trainer method has
+increased the capacity of practitioners trained in EBPH
+while maintaining fidelity with the original objectives
+and framework of the course.
+Additional file
+Additional file 1: Instrument for evaluating a train-the-trainer
+approach for improving capacity for evidence-based decision
+making. (DOCX 21 kb)
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+Conceptualization and design: All. Survey instrument development: Ross
+Brownson, Laura Yarber. Data collection: Laura Yarber. Data management
+and analyses: Rebekah Jacob and Laura Yarber. Manuscript revisions: All. All
+authors read and approved the final manuscript.
+Acknowledgments
+Katie Duggan provided scripts for follow-up emails and calls; Derek Hashimoto,
+Courtney Faust, and Anna Hardy assisted with making phone calls. John
+Robitscher of the National Association of Chronic Disease Directors provided
+leadership and support of the training program.
+The Evidence-Based Public Health training program was supported in part
+by: the National Association of Chronic Disease Directors contract numbers
+482012 and 312016; Cooperative Agreement Number U48/DP001903 from
+the Centers for Disease Control and Prevention, Prevention Research Centers
+Program. Additional support for the preparation of this project came from
+National Cancer Institute at the National Institutes of Health (5R01CA160327);
+the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK
+Grant Number 1P30DK092950); and the Dissemination and Implementation
+Research Core of Washington University in St. Louis ’ Institute of Clinical and
+Translational Sciences (5U54CA155496-04).
+The findings and conclusions in this article are those of the authors and do
+not necessarily represent the official positions of the National Institutes of
+Health or the Centers for Disease Control and Prevention.
+Author details
+1College for Public Health & Social Justice, Saint Louis University, St. Louis,
+MO, USA. 2Prevention Research Center in St. Louis, Brown School,
+Washington University in St. Louis, St. Louis, MO, USA. 3School of Health
+Related Professions, University of Mississippi Medical Center, Jackson, MS,
+USA. 4National Association of Chronic Disease Directors, Atlanta, GA, USA.
+5Department of Public Health and Environment, Health Statistics and
+Evaluation Branch, Denver, CO, USA. 6Division of General Medical Sciences,
+Department of Medicine, School of Medicine, Washington University in St.
+Louis, St. Louis, MO, USA. 7Division of Public Health Sciences and Alvin J.
+Siteman Cancer Center, Washington University School of Medicine,
+Washington University in St. Louis, St. Louis, MO, USA.
+Received: 18 April 2015 Accepted: 8 December 2015
+References
+1. Koo D, Miner K. Outcome-based workforce development and education in
+public health. Annu Rev Public Health. 2010;31:253 – 69. 1 p following 69.
+2. Centers for Disease Control and Prevention. Fact sheet: public health
+infrastructure. Atlanta, GA: Centers for Disease Control and Prevention; 2001.
+Contract No.: Document Number|.
+3. Turnock BJ. Public health: What it is and how it works. 4th ed. Sudbury, MA:
+Jones and Bartlett Publishers; 2009.
+4. Institute of Medicine. Who will keep the public healthy? Educating public
+health professionals for the 21st century. Washington, D.C.: National
+Academies Press; 2003.
+5. Baker EA, Brownson RC, Dreisinger M, McIntosh LD, Karamehic-Muratovic A.
+Examining the role of training in evidence-based public health: a qualitative
+study. Health Promot Pract. 2009;10(3):342 – 8.
+6. Brownson RC, Fielding JE, Maylahn CM. Evidence-based public health: a
+fundamental concept for public health practice. Annu Rev Public Health.
+2009;30:175– 201.
+7. Dreisinger M, Leet TL, Baker EA, Gillespie KN, Haas B, Brownson RC.
+Improving the public health workforce: evaluation of a training course to
+enhance evidence-based decision making. J Public Health Manag Pract.
+2008;14(2):138– 43.
+8. IOM. Committee for the study of the future of public health. The future of
+public health. Washington, DC: National Academy Press; 1988.
+9. Institute of Medicine. The future of the public ’s health in the 21st century.
+Washington, D.C.: National Academies Press; 2003.
+10. Bender K, Halverson PK. Quality improvement and accreditation: what
+might it look like? J Public Health Manag Pract. 2010;16(1):79 – 82.
+11. Public Health Accreditation Board. Public Health Accreditation Board Standards
+and Measures, version 1.5. 2013. Alexandria, VA: Public Health Accreditation
+Board; 2013 [updated 2013; cited August 25, 2015]; Available from: http://www.
+phaboard.org/wp-content/uploads/SM-Version-1.5-Board-adopted-FINAL-01-
+24-2014.docx.pdf.
+12. Brownson RC, Gurney JG, Land GH. Evidence-based decision making in
+public health. J Public Health Manag Pract. 1999;5(5):86 – 97.
+13. Glasziou P, Longbottom H. Evidence-based public health practice. Aust N Z
+J Public Health. 1999;23(4):436 – 40.
+14. Jenicek M. Epidemiology, evidence-based medicine, and evidence-based
+public health. J Epidemiol Commun Health. 1997;7:187 – 97.
+15. Kohatsu ND, Robinson JG, Torner JC. Evidence-based public health: an
+evolving concept. Am J Prev Med. 2004;27(5):417 – 21.
+16. Brownson RC, Baker EA, Leet TL, Gillespie KN, True WR. Evidence-based
+public health. 2nd ed. New York: Oxford University Press; 2011.
+17. Brownson RC, Diem G, Grabauskas V, Legetic B, Potemkina R, Shatchkute A,
+et al. Training practitioners in evidence-based chronic disease prevention
+for global health. Promot Educ. 2007;14(3):159 – 63.
+18. O ’Neall MA, Brownson RC. Teaching evidence-based public health to public
+health practitioners. Ann Epidemiol. 2005;15(7):540 – 4.
+1 9 . G i b b e r tW S ,K e a t i n gS M ,J a c o b sJ A ,D o d s o nE ,B a k e rE ,D i e mG ,e ta l .
+Training the workforce in evidence-b ased public health: an evaluation
+of impact among US and international practitioners. Prev Chronic Dis.
+2013;10:E148.
+20. Jacobs JA, Duggan K, Erwin P, Smith C, Borawski E, Compton J, et al.
+Capacity building for evidence-based decision making in local health
+departments: scaling up an effective training approach. Implement Sci.
+2014;9(1):124.
+Yarber et al. BMC Health Services Research  (2015) 15:547 Page 9 of 10
+<<<PAGE=10>>>
+21. Milat AJ, King L, Bauman AE, Redman S. The concept of scalability:
+increasing the scale and potential adoption of health promotion
+interventions into policy and practice. Health Promot Int. 2012;28(3):285 – 98.
+22. Milat AJ, King L, Newson R, Wolfenden L, Rissel C, Bauman A, et al.
+Increasing the scale and adoption of population health interventions:
+experiences and perspectives of policy makers, practitioners, and
+researchers. Health Res Policy Syst. 2014;12:18.
+23. Mangham LJ, Hanson K. Scaling up in international health: what are the key
+issues? Health Policy Plan. 2010;25(2):85 – 96.
+24. Diem G, Brownson RC, Grabauskas V, Shatchkute A, Stachenko S. Prevention
+and control of noncommunicable diseases through evidence-based public
+health: implementing the NCD 2020 action plan. Glob Health Promot. 2015;10.
+25. Orfaly RA, Frances JC, Campbell P, Whitte more B, Joly B, Koh H. Train-the-trainer
+as an educational model in public health preparedness. J Public Health Manag
+Pract. 2005;Suppl:S123– 7.
+26. Trabeau M, Neitzel R, Meischke H, Daniell WE, Seixas NS. A comparison of
+“Train-the-Trainer” and expert training modalities for hearing protection use
+in construction. Am J Ind Med. 2008;51(2):130 – 7.
+27. McClelland JW, Irving LM, Mitchell RE, Bearon LB, Webber KH. Extending
+the reach of nutrition education for older adults: feasibility of a Train-the-
+Trainer approach in congregate nutrition sites. J Nutr Educ Behav. 2002;34
+Suppl 1:S48 – 52.
+28. Assemi M, Mutha S, Hudmon KS. Evaluation of a train-the-trainer program
+for cultural competence. Am J Pharm Educ. 2007;71(6):110.
+29. Bess CA, LaHaye C, O ’Brien CM. Train-the-Trainer Project meets organization ’s
+strategic initiative for retention and continuous learning. J Nurses Staff Dev.
+2003;19(3):121– 7. quiz 8-9.
+30. Green ML. A train-the-trainer model for integrating evidence-based
+medicine training into podiatric medical education. J Am Podiatr Med
+Assoc. 2005;95(5):497 – 504.
+31. Levine SA, Brett B, Robinson BE, Stratos GA, Lascher SM, Granville L, et al.
+Practicing physician education in geriatrics: lessons learned from a
+train-the-trainer model. J Am Geriatr Soc. 2007;55(8):1281 – 6.
+32. Stratos GA, Katz S, Bergen MR, Hallenbeck J. Faculty development in end-of-life
+care: evaluation of a national train-the-trainer program. Acad Med. 2006;81(11):
+1000– 7.
+33. Campbell NR, Petrella R, Kaczorowski J. Public education on hypertension:
+a new initiative to improve the prevention, treatment and control of
+hypertension in Canada. Can J Cardiol. 2006;22(7):599 – 603.
+34. Corelli RL, Fenlon CM, Kroon LA, Prokhorov AV, Hudmon KS. Evaluation of
+a train-the-trainer program for tobacco cessation. Am J Pharm Educ. 2007;
+71(6):109.
+35. Booth-Kewley S, Gilman PA, Shaffer RA, Brodine SK. Evaluation of a sexually
+transmitted disease/human immunodeficiency virus prevention train-the-trainer
+program. Mil Med. 2001;166(4):304– 10.
+36. Burr CK, Storm DS, Gross E. A faculty trainer model: increasing knowledge
+and changing practice to improve perinatal HIV prevention and care. AIDS
+Patient Care STDS. 2006;20(3):183 – 92.
+37. Gabel LL, Pearsol JA. The twin epidemics of substance use and HIV: a state-level
+response using a train-the-trainer model. Fam Pract. 1993;10(4):400– 5.
+38. Hiner CA, Mandel BG, Weaver MR, Bruce D, McLaughlin R, Anderson J.
+Effectiveness of a training-of-trainers model in a HIV counseling and testing
+program in the Caribbean Region. Hum Resour Health. 2009;7:11.
+39. Nyamathi A, Vatsa M, Khakha DC, McNeese-Smith D, Leake B, Fahey JL. HIV
+knowledge improvement among nurses in India: using a train-the-trainer
+program. J Assoc Nurses AIDS Care. 2008;19(6):443 – 9.
+40. Tobias CR, Downes A, Eddens S, Ruiz J. Building blocks for peer success:
+lessons learned from a train-the-trainer program. AIDS Patient Care STDS.
+2011;26(1):53– 9.
+41. Hahn EJ, Noland MP, Rayens MK, Christie DM. Efficacy of training and fidelity
+of implementation of the life skills training program. J Sch Health. 2002;
+72(7):282– 7.
+42. Milat AJ, King L, Bauman A, Redman S. Scaling up health promotion
+interventions: an emerging concept in implementation science. Health
+Promot J Austr. 2012;22(3):238.
+43. Norton W, Mittman B. Scaling up health promotion/disease prevention
+programs in community settings: Barriers, facilitators, and initial
+recommendations. Hartford, CT: Patrick and Catherine Weldon Donaghue
+Medical Research Foundation; 2010. Contract No.: Document Number|.
+44. Qualtrics. Qualtrics: Survey Research Suite. 2014 [updated 2014; cited June 8,
+2014]; Available from: http://www.qualtrics.com/.
+45. Jacob RR, Baker EA, Allen P, Dodson EA, Duggan K, Fields R, et al. Training
+needs and supports for evidence-based decision making among the public
+health workforce in the United States. BMC Health Serv Res. 2014;14(1):564.
+46. Maylahn C, Bohn C, Hammer M, Waltz E. Strengthening epidemiologic
+competencies among local health professionals in New York: teaching
+evidence-based public health. Public Health Rep. 2008;123 Suppl 1:35 – 43.
+47. Kaplan GE, Juhl AL, Gujral IB, Hoaglin-Wagner AL, Gabella BA, McDermott
+KM. Tools for identifying and prioritizing evidence-based obesity prevention
+strategies, Colorado. Prev Chronic Dis. 2013;10, E106.
+48. Aarons GA, Hurlburt M, Horwitz SM. Advancing a conceptual model of
+evidence-based practice implementation in public service sectors. Adm
+Policy Ment Health. 2011;38(1):4 – 23.
+49. Klein K, Sorra J. The challenge of innovation implementation. Acad Manag
+Rev. 1996;21(4):1055 – 80.
+50. Bennett S, Paina L, Ssengooba F, Waswa D, M ’Imunya JM. The impact of
+Fogarty International Center research training programs on public health
+policy and program development in Kenya and Uganda. BMC Public Health.
+2013;13:770.
+51. Paina L, Ssengooba F, Waswa D, M ’Imunya JM, Bennett S. How does
+investment in research training affect the development of research
+networks and collaborations? Health Res Policy Syst. 2013;11:18.
+•  We accept pre-submission inquiries 
+  Our selector tool helps you to ﬁnd the most relevant journal
+  We provide round the clock customer support 
+  Convenient online submission
+  Thorough peer review
+  Inclusion in PubMed and all major indexing services 
+  Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submit
+Submit your next manuscript to BioMed Central 
+and we will help you at every step:
+Yarber et al. BMC Health Services Research  (2015) 15:547 Page 10 of 10

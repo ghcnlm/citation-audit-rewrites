@@ -1,0 +1,1229 @@
+<<<PAGE=1>>>
+REVIEW Open Access
+Evidence map of knowledge translation
+strategies, outcomes, facilitators and
+barriers in African health systems
+Amanda Edwards 1* , Virginia Zweigenthal 1,2 and Jill Olivier 1
+Abstract
+Background: The need for research-based knowledge to inform health policy formulation and implementation is a
+chronic global concern impacting health systems functioning and impeding the provision of quality healthcare for
+all. This paper provides a systematic overview of the literature on knowledge translation (KT) strategies employed
+by health system researchers and policy-makers in African countries.
+Methods: Evidence mapping methodology was adapted from the social and health sciences literature and used to
+generate a schema of KT strategies, outcomes, facilitators and barriers. Four reference databases were searched using
+defined criteria. Studies were screened and a searchable database containing 62 eligible studies was compiled using
+Microsoft Access. Frequency and thematic analysis were used to report study characteristics and to establish the final
+evidence map. Focus was placed on KT in policy formulation processes in order to better manage the diversity of
+available literature.
+Results: The KT literature in African countries is widely distributed, problematically diverse and growing. Significant
+disparities exist between reports on KT in different countries, and there are many settings without published evidence
+of local KT characteristics. Commonly reported KT strategies i nclude policy briefs, capacity-building workshops and policy
+dialogues. Barriers affecting researchers and policy-makers in clude insufficient skills and capacity to conduct KT activities,
+time constraints and a lack of resources. Availability of qualit y locally relevant research was the most reported facilitator.
+Limited KT outcomes reflect persisting difficulties in outcome identification and reporting.
+Conclusion:This study has identified substantial geographical gaps in knowledge and evidenc ed the need to boost local
+research capacities on KT practices in low- and middle-inco me countries. Evidence mapping is also shown to be a useful
+approach that can assist local decision-making to enhance KT in policy and practice.
+Keywords:Knowledge translation, knowledge translation strategies, health policy, policy-making, mapping review,
+evidence map, African health systems
+Background
+The need for research-based knowledge to inform health
+policy and practice is a chronic global public health con-
+cern [ 1– 3]. Knowledge generated through health research
+has the potential to improve health outcomes, promote
+service delivery and strengthen health systems functioning
+[4– 6]. However, a consistent finding from the health
+services literature has been the failure to translate research
+findings into health policy and practice [ 7]. Despite bur-
+geoning interest in this know – do gap, the translation
+process remains slow, haphazard and unpredictable,
+resulting in reduced health gains vis-á-vis societies ’ invest-
+ment in research [ 8, 9]. In low-resource, high-disease
+settings, such as those found in many African countries,
+the consequences of ineffective knowledge translation
+(KT) are amplified, emphasising the need for health sys-
+tem decision-makers to justify their decisions based on
+high-quality evidence [ 3, 10, 11].
+KT is a term commonly used to describe the complex
+process of moving research-based evidence into policy
+* Correspondence: amanda.edwards@uct.ac.za
+1School of Public Health and Family Medicine, Faculty of Health Sciences,
+University of Cape Town, Anzio Road, Observatory, Cape Town 7925, South
+Africa
+Full list of author information is available at the end of the article
+© The Author(s). 2019 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License ( http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to
+the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+Edwards et al. Health Research Policy and Systems           (2019) 17:16 
+https://doi.org/10.1186/s12961-019-0419-0
+<<<PAGE=2>>>
+and practice, although the term (and its related field) is
+diverse and diffused [ 12– 14]. In this review, our under-
+standing of KT aligns with the Canadian Institute of
+Health Research, which defines KT as “a dynamic and
+iterative process that includes the synthesis, dissemin-
+ation, exchange and ethically sound application of know-
+ledge to improve health, provide more effective health
+services and products, and strengthen the health care
+system” ([15], p. 1). Within this conceptualisation,
+‘knowledge exchange ’, ‘knowledge interaction ’ and, more
+recently,‘integrated knowledge translation’ have also gained
+traction as these terms emphasise the central role of
+knowledge users and their influence on the KT process
+[16– 20]. For the purposes of this article, KT is used as the
+overarching term and these related concepts viewed as
+implicit in the broader definition.
+In recent years, efforts to increase the uptake of health
+research into policy have intensified globally, resulting in
+a growing body of literature on KT [ 16, 21– 27]. From
+this literature, several factors have been found to influ-
+ence the use of research in policy-making. In an updated
+systematic review, Oliver et al. [ 28] identified several
+barriers and facilitators to evidence uptake by policy-
+makers. The most frequently reported barriers indicate
+that poor access to good quality, relevant research and a
+lack of timely research output greatly decrease the
+potential for research to influence policy, while collabo-
+rations between researchers and policy-makers, skills-
+building with policy-makers and improved relationships
+tend to enhance research use. A review by Oliver et al.
+[28] focused on policy-making across different areas,
+including criminal justice, education and food policy;
+however, 126 of 145 included studies related specifically
+to health policy-making. Focusing on health policy alone,
+Lavis et al. [ 29] further emphasised the importance of
+engaging with research users to enhance the uptake of
+evidence in health policy decision-making. Oliver et al.
+[28] go on to describe the importance of informal know-
+ledge in decision-making, such as personal experience,
+clinical expertise and other tacit-based knowledge. These
+authors conclude that formal research-based knowledge
+is just one source of information for policy-makers and
+that identifying different types of knowledge is a crucial
+step in getting research to influence policy, a finding
+increasingly supported by others [ 5, 17, 30, 31]. Ad-
+ditionally, research institutions that demonstrate ca-
+pacity for generating high quality, reputable research
+and close connections with policy-makers have been
+shown to have greater embeddedness in the policy-mak-
+ing process and therefore a greater influence in translating
+their research into policy [ 26, 27, 32].
+While various strategies such as policy briefs, colla-
+borative workshops and KT platforms have been pro-
+posed to enhance KT [ 1, 16, 29, 33– 36], evidence of their
+comparative effectiveness remains limited [ 5, 7, 37].
+Possible reasons for this include difficulties identifying
+what outcomes should be measured, the need to
+strengthen the validity of measurement instruments
+and the inherently complex ways in which KT can
+occur [ 14, 30, 38]. A key criticism from the literature has
+been the failure of current KT strategies to account for
+this complexity, including the specificity of the policy-
+making process, its power dynamics, differing timelines
+and unique contextual considerations, especially in low-
+and middle-income countries (LMICs) [ 17, 39– 41]. These
+issues make the selection of appropriate, contextually rele-
+vant KT strategies difficult for researchers and policy-
+makers [ 42]. Moreover, researchers have highlighted the
+weak relationship between health systems and research
+systems, recognising the need to consider complex
+systems issues and their influence on the adoption of
+new knowledge [ 43, 44]. Box 1 summarises the central
+challenges to KT in LMIC settings identified by the
+current literature.
+In Africa, where more than 50% of the world ’s LMICs
+are located, there remains a paucity of research on KT
+strategy selection and activities that promote the use of
+research by health policy-makers, particularly in policy
+formulation processes [ 42, 45]. Exacerbated by limited
+funding availability and institutional research capacity to
+generate locally relevant research [ 11, 44], there is an ur-
+gent need to seek out cross-country learning opportunities
+that boost understanding of KT strategies in this context.
+This paper provides a mapping review of the literature
+on KT strategies (particularly in the policy formulation
+process) and their reported outcomes, barriers and facili-
+tators in African health systems, with an emphasis on
+southern African countries. This paper has four main
+aims. Firstly, to position the current available research
+on KT in African health policy-making within the
+broader field of KT. Secondly, to provide a summarised
+Box 1 Current challenges to knowledge translation
+(KT) in low- and middle-income country health
+systems
+ Access to good quality relevant research
+ Unknown effectiveness/impact of KT strategies
+ Difficulty identifying clear outcomes of KT activities
+ Need to strengthen valid instruments to measure KT
+ Complex nature of KT including its power dynamics, differing
+timelines and unique contexts
+ Unclear choice of KT strategies as they vary by context
+ Complex systems issues, including historically weak
+relationship between health and research systems
+ Limited local funding and research capacity
+Edwards et al. Health Research Policy and Systems           (2019) 17:16 Page 2 of 14
+<<<PAGE=3>>>
+and synthesised understanding of the current status and
+key issues within a massive and diverse body of literature
+for African health system researchers and policy-makers.
+Thirdly, to identify gaps in current knowledge and areas
+for potential future research on local KT systems in
+Africa. Finally, to generate a user-friendly evidence map,
+testing the usefulness of the evidence-mapping approach
+for this type of diverse and dispersed topic and for the
+field of health policy and systems research more broadly.
+Methods: systematic evidence mapping
+Evidence mapping is an emerging method of synthesis
+that provides a systematic overview of the literature on a
+specific topic [ 46]. Like full systematic reviews, evidence
+mapping employs methods that are reproducible and
+transparent, applying explicit search procedures and ro-
+bust inclusion/exclusion criteria [ 47, 48]. However, while
+systematic reviews target specific research questions, evi-
+dence mapping focuses on the nature, volume and charac-
+teristics of the literature in order to identify, describe and
+categorise what is known [ 49]. Despite methodological
+similarities, evidence mapping has been distinguished
+from the scoping review methodology by engaging with
+stakeholders early in the research process, through the
+increased rigor of systematic online database searches and
+by the final production of a visual or searchable database
+and/or user-friendly ‘map’ [50]. Evidence mapping is par-
+ticularly useful for synthesising and increasing coherence,
+giving shape within a broad or diverse field of interest,
+where information is found in different sectors, and defi-
+nitions are not concretised (as KT is known to be).
+For the purposes of this paper, a systematic evidence
+mapping process was adapted from the Global Evidence
+Mapping Initiative [ 49]. Figure 1 outlines this process and
+the three core tasks involved, including (1) setting the
+boundaries and contexts of the map; (2) searching and
+selecting relevant studies; and (3) reporting on yield and
+study characteristics. What is presented here forms the
+evidence map of research on KT strategies across African
+health systems (with a focus on policy formulation).
+The three-step mapping process was conducted between
+July and October 2017. An overarching research question
+seeking to elucidate what KT strategies are employed by
+health researchers and policy-makers in African countries
+and what barriers, facilitators and outcomes exist for these
+strategies during policy formulation informed the initial
+selection of key terms. The need to capture KT literature
+relevant to health research and policy-making was ba-
+lanced against the field ’s large and overlapping nomencla-
+ture [ 14, 51]. Initial key terms included ‘knowledge
+translation’, ‘health researchers’ and ‘health policy-makers’.
+Final search terms were limited to those described by
+Graham et al. [ 12] and identified by McKibbon et al. [ 13]
+as highly sensitive for discriminating between KT and non-
+KT literature. These include ‘knowledge translation ’,
+‘knowledge transfer ’, ‘knowledge exchange ’, ‘research
+utilisation ’, ‘implementation ’, ‘dissemination ’ and ‘dif-
+fusion’. These terms were supplemented with Medical
+Index Subject Headings and search filters for African
+countries [ 52]. Groups of terms were linked using the
+Boolean operator ‘AND’ then trialled in PubMed with
+the assistance of an experienced librarian. Following a
+preliminary search, evidence-based decision-making
+was added to this list to compliment search results. An
+additional file shows the final search strategy and list of
+key terms (Additional file 1).
+Eligibility criteria were generated using the PICO (Popu-
+lation, Intervention, Comparator, Outcome) framework.
+Fig. 1 Global evidence mapping method (Adapted from Bragge et al. [ 49])
+Edwards et al. Health Research Policy and Systems           (2019) 17:16 Page 3 of 14
+<<<PAGE=4>>>
+Eligible populations included health researchers and pub-
+lic health policy-makers involved in management or in
+executive or policy-level decision-making about health
+programmes or services. Other knowledge users, such as
+non-government organisations, healthcare providers and
+patients, were excluded in line with the scope of the evi-
+dence map (focusing on policy formulation). Interventions
+included any activity designed to facilitate the use of
+research-based knowledge in public health policy-making.
+Both active KT strategies (for example, KT platforms, col-
+laborative workshops) and passive KT strategies (including
+dissemination of reports or journal publications) were in-
+cluded. To increase the specificity of the map within a
+complex policy terrain, studies that focused on whole
+policy analysis and policy implementation processes were
+excluded, refining included studies to KT strategies
+employed before or during the policy formulation stage of
+the policy process. Any or no comparator between KT
+strategies were eligible for inclusion. Studies that identified
+KT strategies, barriers or facilitators, outcomes and con-
+textual considerations were included. Outcomes of KT
+strategies included, but were not limited to, changes in
+knowledge, attitude, beliefs, behaviour, networks and part-
+nerships. Papers were excluded if they focused mainly on
+theoretical and conceptual developments of KT, termin-
+ology debates and KT strategies employed in non-health
+related fields (for example, in economic, agricultural or
+criminal justice fields). Eligible study designs included ran-
+domised controlled trials, observational studies, surveys,
+qualitative research, case studies and mixed-methods
+research. Only primary empirical research was included.
+This excluded all analytical studies and research syntheses,
+such as systematic reviews. Since no synthesis studies were
+found that focused only on African countries, this was
+deemed an appropriate exclusion criterion. Multinational
+studies that involved African and non-African countries
+and met all other criteria were included if results could be
+traced to specific countries.
+Four reference databases were searched using the
+advanced search tools in each database and the guidance
+of a second medical librarian. Databases included PubMed,
+CINAHL (via EbscoHost), Web of Science and Scopus.
+The search was limited to studies published in English
+between the years 2000 and 2017, inclusive, to capture
+modern KT strategies at work in African countries. Due
+to the large number of results obtained in PubMed, the
+‘best match ’ function was used to further limit search
+results for this database. The ‘best match ’ function is
+based on a weighted frequency algorithm that enables
+o n l yt h o s es t u d i e sw i t ht h eh i g h e s tf r e q u e n c yo ft a r -
+geted search terms to be included in search results.
+This strategy is based on the rationale that the risk of
+missing relevant articles is balanced against the logistical
+constraints of screening an overly burdensome number of
+irrelevant studies – which is a particular issue in large di-
+verse topics such as this. Final search results were collated
+in EndNoteX8™ and supplemented via searches of Google
+Scholar and the Cochrane Library. A Dropbox database
+established opportunistically by the research team in
+September 2016 for the purposes of a broader research
+project was also included. This database contains a com-
+bination of relevant empirical studies and grey literature.
+Following the removal of duplicates and preliminary
+screening of study titles and abstracts, full texts of
+remaining studies were procured, and a final screening
+was conducted using the established inclusion/exclusion
+criteria. In an iterative search process that promoted
+saturation, reference lists of final key texts were mined
+for additional relevant studies. Data was extracted on
+study author(s), title, year of publication, publication
+type, study design, location, underlying theory, funding
+source, sample size, participant populations, KT strategies
+employed, content focus and type of these strategies,
+reported barriers, facilitators, outcomes and contextual
+considerations. A searchable database containing this data
+was compiled using Microsoft Access. Frequency and the-
+matic analysis were used to report study characteristics
+and to establish the final evidence map of KT strategies,
+barriers, facilitators and outcomes.
+Initial themes and findings were verified during inter-
+views with nine South African policy-makers and re-
+search managers during a subsequent companion study
+(reported elsewhere [ 53]), which provided substantiation
+of the evidence map, its main findings and tested the
+application of the evidence mapping approach in local
+health systems contexts.
+Results
+Search results
+Initial search results identified a total of 1665 potential
+studies. Following removal of duplicates ( n= 231) and
+screening of titles/abstract ( n= 1182), the total number
+of studies was reduced to 252. Screening of full text items
+excluded an additional 196 studies. Reference mining of
+the final 56 studies presented an additional six studies for
+inclusion, which resulted in a total of 62 studies eligible
+for evidence mapping. Figure 2 provides the complete
+study flow diagram for this process.
+Study characteristics
+Included studies were published between 2005 and 2017,
+with a general increase in publications over time (Fig. 3).
+Studies were widely distributed across the African
+region, with most studies published in South Africa and
+Uganda (n = 15 studies each), followed by Nigeria ( n =11)
+and Malawi ( n = 10). Just over half (32/62) of the included
+studies were multinational, involving more than one
+African country, other LMICs, or a combination of
+Edwards et al. Health Research Policy and Systems           (2019) 17:16 Page 4 of 14
+<<<PAGE=5>>>
+upper-, lower- and middle-income countries. Figure 4
+displays the geographical spread of included studies, as
+well as the large number of countries for which no
+research was found.
+Overall, multiple case studies (of KT strategies) were
+the most popular study design, with 31 studies reporting
+its use. This was followed by qualitative designs ( n = 12),
+mixed methods ( n = 6), descriptive studies ( n =5 ) ,s u r -
+veys ( n =3 ) ,m o d i f i e d ‘before and after ’ study designs
+(n = 2), retrospective cohort designs ( n = 1), social net-
+work analysis ( n = 1) and structured reflection ( n =1 ) .
+Funding for studies originated predominantly from
+international multilateral funders and foreign donor
+agencies (81%), with only six studies reporting local
+funding support as their primary source. Although a
+variety of content areas provided the backdrop for the
+focus on KT strategies, four broad areas accounted for
+over half of the included studies, namely maternal and
+child health (21%), governance, health information and
+systems issues (18%), malaria (10%), and HIV/AIDS (8%).
+KT strategies employed in African health systems
+Table 1 summarises the characteristics of KT strategies
+from an extract of four eligible studies. An additional
+file provides the same information for all 62 studies
+(Additional file 2). The commentary here reflects all
+included studies. Figure 5 maps the KT strategies, dif-
+ferent influencing factors and outcomes found across
+all studies. The use of theory was reported in over half
+the studies (33/62) and varied widely from research
+utilisation models such as Weiss ’ model of research use
+[54] to theories of planned behaviour (used to predict
+policy-makers ’ intention to act on research evidence)
+[55]. Many studies reported the use of more than one
+theory, while no studies reported use of the same
+theory, reflecting the inherent heterogeneity in perspec-
+tives within the field [ 16].
+Using Lavis et al. ’s[ 56] framework for linking research
+to action, studies were categorised as employing ‘push’,
+‘pull,’‘ integrated’ or ‘exchange’ type strategies for KT
+(see Box 2 for definitions of these strategies). Integrated
+Fig. 2 Study flow diagram. Adapted from Moher [ 102]
+Edwards et al. Health Research Policy and Systems           (2019) 17:16 Page 5 of 14
+<<<PAGE=6>>>
+and exchange strategies appeared most frequently, with
+21 and 18 studies employing these, respectively, followed
+by push ( n = 16) and pull strategies ( n = 3).
+Four studies did not report specific KT strategies,
+their focus on clarifying barriers and facilitators to the
+KT process.
+Policy briefs ( n = 15), capacity-building workshops
+(n = 13), policy dialogues ( n = 11), and meetings
+between and within communities of practice ( n = 11) were
+reported most frequently. Traditional strategies, such as
+conference presentations and journal publications, remain
+popular ( n = 10 each), while the use of novel strategies,
+such as online clearinghouses/sharing platforms for
+research, media campaigns, knowledge translation plat-
+forms and knowledge brokers, also appear to be gaining
+ground. Knowledge translation platforms, specifically,
+demonstrate opportunities for the integrated use of KT
+strategies to foster collaboration and build capacity for re-
+search use. For example, with the assistance of the WHO ’s
+Evidence-Informed Policy N etwork (EVIPNet), a know-
+ledge translation platform in Malawi has been attrib-
+uted with hosting stakeholder mapping exercises,
+capacity-building workshops a n ds t r u c t u r e dd i a l o g u e s
+between national-level policy-makers, researchers and
+policy implementers as well as producing evidence
+briefs, facilitating the formation of a multidisciplinary
+steering committee and holding meetings between
+different communities of practice [ 57].
+Despite clear information about who was targeted by
+KT strategies, few studies provided specific details about
+the duration, frequency or timing of events (27/62 re-
+ported this) or the personnel required to conduct activities
+(14/62 reported). In studies that did report this infor-
+mation, details varied significantly. In one study invol-
+ving seven southern African co untries, authors describe
+three week-long residential workshops facilitated by four
+researchers and include details on workshop duration and
+content [58]. While in another multinational study, a 3-year
+grant period is described in which activities occurred [ 11].
+Fig. 3 Number of publications by year
+Box 2 Push, pull, exchange and integrated models of
+knowledge translation [ 56]
+‘ Push’ strategies are led by researchers, intermediary groups or
+other purveyors of research, and typically involve providing
+information to research users.
+ User ‘pull’ efforts are led by research users who request
+information and/or research evidence based on their needs.
+‘ Exchange’ efforts rely on partnerships between researchers
+and research users who collaborate over short- or long-term
+processes for mutual benefit.
+‘ Integrated’ strategies include elements of push, pull and
+exchange approaches in large-scale knowledge translation plat-
+forms that work to connect policy needs with research tools.
+Edwards et al. Health Research Policy and Systems           (2019) 17:16 Page 6 of 14
+<<<PAGE=7>>>
+Similarly, reports of contextual factors were diverse,
+ranging from discussions of health system organisation,
+policy environment and epidemiological profile [ 59]t o
+socio-political and economic contexts, including levels
+of decentralisation [ 60], legislative processes [ 61]a n d
+the influence of donor aid [ 62]. Only three studies
+reported cultural factors, all of which referred to issues of
+language [ 63– 65]. Fourteen studies made no reference to
+contextual factors, while six noted these factors as impor-
+tant, but did not provide further details. Interestingly, des-
+pite the importance of contextual factors on the success of
+KT strategies, none of the reviewed studies established
+clear causal links between reported contextual factors and
+specific KT strategies or interventions, suggesting an
+urgent need for realist-type approaches to assessing KT
+strategies in complex local health systems.
+Barriers and facilitators of KT
+A list of the ‘top 10 ’ barriers and facilitators reported
+across studies is provided in Fig. 5. Most studies re-
+ported both facilitators and barriers ( n = 52), while a few
+reported only facilitators ( n = 4) or only barriers ( n = 5).
+One study did not report barriers or facilitators, but fo-
+cused on the outcomes of implementing a health policy
+advisory committee as a KT platform in Nigeria [ 66]. A
+total of 46 different barriers and 46 facilitators were identi-
+fied, and we further categorised these into those affecting
+policy-makers, researchers or both. Based on our analysis
+and ranking across the included studies, the main
+barriers affecting policy-makers include access to rele-
+vant, reliable research ( n = 12) and a lack of locally
+applicable research ( n = 10). For researchers, poor com-
+munication with policy decision-makers and
+policy-maker attitudes towards using research were re-
+ported as the most common barriers ( n = 13 each),
+with limited awareness of the need for KT ( n =7 )a n da
+high turnover of government staff ( n =6 )a l s ob e i n g
+significant. There were several barriers that mutually af-
+fected researchers and policy-makers, such as insufficient
+skills and capacity to conduct KT activities ( n =2 1 ) ,t i m e
+constraints ( n = 16) and insufficient resources ( n =1 5 ) .
+The most common resource constraint reported across
+the included studies was funding.
+Regarding facilitators, the availability of quality research
+relevant to local contexts was reported by policy-makers
+as the greatest support to using research ( n = 21). This
+was followed by consistent leadership and political will for
+KT ( n = 9) and the presence of technical support and
+expertise ( n = 5). Contrastingly, researchers were sup-
+ported when they engaged with stakeholders early and
+sustained this engagement over time ( n = 14). Credible
+research results, researchers and research organisations or
+networks were further noted to facilitate researcher efforts
+at KT ( n = 13). Credibility is closely linked to trust
+between researchers and policy-makers and can serve as
+either a facilitator ( n = 10) or a barrier ( n = 2). Mutual
+facilitators once again highlight the importance of capacity
+to generate, understand and use research results ( n =1 7 ) ,
+demonstrating that the presence of KT skills is potentially
+as important as its absence. Furthermore, strong institu-
+tional links and networks ( n =1 5 ) ,p a r t n e r s h i p sa n d
+collaborations (n = 12), and the use of knowledge brokers
+or local champions ( n = 12) highlight the significance of
+interactions between researchers and policy-makers in
+getting research to influence policy.
+Outcomes of KT
+Figure 5 lists the main outcomes of KT strategies re-
+ported across studies. Twenty-seven studies (45%) did
+not report any outcomes for the KT strategies used. In
+the remaining 35 studies, there was little overlap and
+most outcomes appeared to be study specific. For ex-
+ample, one study focused on the activity output of a
+knowledge broker specifically employed for KT [ 65], while
+others reported the creation of a research repository [ 45]
+and a database of researchers and policy-makers [ 67]a s
+direct outcomes of KT processes. The most frequently
+reported outcomes were changes in knowledge, attitudes
+and practices ( n = 15) such as improved understanding
+of the health policy-making process [ 68]. Studies that
+attempted to categorise outcomes employed three types
+of knowledge use, namely symbolic use, conceptual use
+and instrumental use. These types were reported in
+Fig. 4 Distribution of publications by country
+Edwards et al. Health Research Policy and Systems           (2019) 17:16 Page 7 of 14
+<<<PAGE=8>>>
+Table 1 Characteristics of KT interventions (sample extract of four eligible studies)
+Study
+author and
+date
+Country Underlying
+theory
+KT
+intervention
+typea
+KT strategies Participants Personnel Reported contextual factors
+Bennett
+et al. 2012
+[103]
+Multinational –
+Ghana, South Africa,
+Uganda
+NR Integrated
+efforts
+Research reports and
+publications (indirect)
+Verbal briefings
+Policy briefs
+Conducting policy-relevant
+research and analysis
+Providing policy advice and
+technical assistance in policy
+formulation and evaluation
+Conducting policy dialogues
+at national level
+Policy-
+makers, donors,
+NGOs
+Members of
+research
+institutes
+NR
+Delany-
+Moretlwe
+et al. 2011
+[104]
+South Africa NR Exchange
+efforts
+Building credibility through
+linkages – community
+advisory boards, community
+consultation workshop,
+monthly meetings
+Multiple means of
+communication – drama,
+music, radio and community
+eventsSMSFace-to-face meetings,
+telephonically, email (especially
+with policy-makers)
+Interdisciplinary workshops
+Researchers NR Disease burden, health system organisation,
+socio-political context of South Africa
+Guieu et al. 2016
+[72]
+Multinational –
+Kenya,
+Mozambique,
+South Africa,
+Burkina Faso,
+Malawi
+NR Exchange
+efforts
+A ‘work package ’ of translation
+activities, including strong
+involvement of stakeholders
+through inviting policy-makers
+to open meetings, key-informant
+interviews with policy-makers,
+workshops with policy-makers,
+fora for policy-maker feedback
+on research projects, policy advisory
+boards at each site, stakeholder
+workshops, policy
+recommendations in formats
+adapted to policy-maker needs
+Researchers NR Importance of context noted, but not
+described,LMIC settings – resource constrained
+Hennink
+and Stephenson
+2005 [ 105]
+Multinational –
+Malawi, Tanzania
+Models of
+research
+utilisation – rational,
+incremental
+and political
+models
+Push efforts Workshops
+Research report distributed
+Academic channels (journals,
+conference presentations)
+Health researchers,
+policy-makers and
+practitioners
+NR NR
+aAccording to Lavis et al. [ 56] push –pull–integrated–exchange model
+NR not reported
+Edwards et al. Health Research Policy and Systems           (2019) 17:16 Page 8 of 14
+<<<PAGE=9>>>
+nine studies, in which instrumental and conceptual use
+was most commonly reported. For example, in one
+South African case study [ 69], researchers found that the
+instrumental use of research directly contributed to the
+development of a model on primary healthcare service
+delivery while conceptual use helped place mental health
+issues on the policy agenda. A study in Burkina Faso
+described the practical changes in behaviour (instrumental
+use) and the new knowledge acquired (conceptual use) by
+participants in a 2-day workshop on malaria [ 70]. Only
+one study compared the extent to which different uses of
+research were employed, noting that instrumental use
+occurred the least across six LMIC countries ’ analysed
+policies and programmes [ 71]. The large number of stu-
+dies neglecting to report study outcomes (including know-
+ledge use), and the heterogeneous outcomes in those that
+did, reflect persisting difficulties in the identification and
+reporting of KT outcomes, an issue that has been noted
+previously [ 14, 36, 37]. Three studies noted this difficulty
+specifically, recognising the often unclear and long-term
+impacts of KT strategies on research use [ 71– 73].
+Discussion
+This evidence mapping exercise has sought to impose
+some framing on what is known to be a large, diverse
+and dispersed body of research and literature. The litera-
+ture on KT in African countries (as defined in this map-
+ping exercise) is widely distributed and growing steadily.
+However, significant disparities exist between countries,
+and many remain without any significant published
+evidence of research related to KT (Fig. 4). This high-
+lights an ongoing need to boost local research capacities
+on KT practices in many African countries [ 1, 74]. High
+levels of foreign donor funding (80% of studies in this
+case) create opportunities for conducting local research,
+particularly in resource-constrained settings. However,
+the extent to which this is sustainable and allows local
+researchers and policy-makers to direct the research
+agenda is debatable [ 75].
+Together with Uganda, South Africa demonstrates a
+relatively established research base compared to other
+African nations, ranking the highest generators of KT
+research on the continent. In South Africa, the presence
+Fig. 5 Summary map of knowledge translation (KT) strategies, influencing factors and outcomes. Note: arrows indicate direction of influence for
+factors on the KT process
+Edwards et al. Health Research Policy and Systems           (2019) 17:16 Page 9 of 14
+<<<PAGE=10>>>
+of historically strong research institutions that house
+platforms for KT is a likely contributor to this base. For
+example, the Centre for Evidence-based Healthcare at
+Stellenbosch University and the Knowledge Translation
+Unit at the University of Cape Town ’s Lung Institute
+both actively target the production, synthesis and use of
+health research in policy and practice [ 76, 77]. The
+Cochrane African Network is another KT platform
+housed in the South African Medical Research Council,
+a nationally funded research organisation [ 78]. These in-
+stitutions provide a rich support system for KT in the
+country. However, despite local and international efforts,
+even in countries such as South Africa or Uganda, the
+research conducted to date is by no means sufficient to
+meet the demands of diverse African contexts, and there
+remains an “inadequate evidence base for doing
+evidence-based KT ” in health policy ([ 79], p. 729).
+Filling this research gap requires consideration of
+factors beyond increasing research quantity across geo-
+graphical areas. A central barrier identified by this
+mapping process was the lack of high-quality evidence
+relevant to local health systems contexts. Although
+context specificity is a key challenge to KT research
+production and use, research that meets local demands
+and aligns with local priorities is more likely to be
+translated into policy [ 3, 26, 80]. Capacity-building ini-
+tiatives that target the development of KT skills for
+local researchers and health policy-makers will be an
+essential component to improving the availability and
+applicability of research going forward.
+Furthermore, to develop KT research quality, study
+designs that extend beyond case studies and descriptive
+work should be encouraged. Realist approaches, pragmatic
+trials, impact evaluations (of KT strategies), implementa-
+tion research and participatory action research are thought
+to hold particular promise for developing, assessing and
+implementing the social and contextually sensitive inter-
+ventions inherently associated with KT [ 20, 81– 84]. These
+designs offer opportunities for increased scientific rigour
+and better consideration of contextual differences, inclu-
+ding knowledge and power imbalances, to understand
+what works, for whom and under what circumstances.
+The diverse pool of KT strategies identified in this
+mapping review demonstrate a variety of options avai-
+lable to researchers and policy-makers when attempting
+to ‘do’ KT in African settings. The combined use of
+policy briefs, workshops, policy dialogues and meetings
+with communities of practice hold particular promise,
+as these are widely used and likely familiar to both re-
+searchers and policy-makers. However, the time, effort
+and resources involved in these activities should not be
+underestimated. Conducting KT requires investment if
+research-based knowledge is to be communicated appro-
+priately and with the best chance of influencing its
+intended audience [ 85]. The low level of locally generated
+funding for KT research found in this review highlights
+the need to advocate for stronger national funding mecha-
+nisms to support a more sustainable model of knowledge
+production and use.
+Furthermore, this review highlights the increasing
+preference for and value of integrated and exchange type
+strategies. An integrated KT approach recognises that, to
+influence policy, audiences need to be targeted early and
+in multiple ways, leveraging personal and professional
+networks that facilitate the bidirectional flow of know-
+ledge [ 2, 30, 86]. Co-produced knowledge based on the
+collaborative efforts of both researchers and policy-
+makers at all stages of the research process, including
+research generation, is a core tenet in this approach and
+has the added benefit of addressing policy-makers ’ need
+for more locally relevant, reliable research. This is in
+line with findings from upper-income countries that
+emphasise the need for integrated KT efforts that pro-
+mote early and sustained engagements between stake-
+holders [ 2, 86– 90].
+The diversity in strategies found may be appealing as
+it reflects options that can be shaped to different con-
+texts. However, this diversity has been criticised for
+demonstrating uncoordinated, haphazard and fragmen-
+ted efforts to narrow the knowledge gap in Africa [ 91].
+The wide variations in theories and outcomes identified
+here support this conclusion and contribute to a persis-
+tently unclear change pathway between research, KT
+strategies and policy formulation. Furthermore, the lack
+of uniformity and clarity on KT outcomes makes it
+almost impossible to compare different interventions or
+to measure progress (locally or regionally). There is an
+urgent need to improve theories and methods that
+rigoously assess KT interventions in real time and identify
+relevant outcomes that are sensitive to the short- and
+long-term effects of KT activities. This issue is not unique
+to African contexts and reflects concerns expressed in the
+global literature [ 7, 14, 20, 36– 38, 92– 95].
+A final point arising from this mapping process con-
+cerns issues of capacity. Knowledge and skills in prio-
+ritising, generating, synthesising and applying research
+were identified as the most common KT barriers and
+facilitators for both researchers and policy-makers.
+Capacity constraints have also been identified as one
+cause of the know – do gap and a key priority for
+addressing health in LMICs [ 1]. To date, individual
+capacity has largely been the focus of efforts to im-
+prove research production and use in policy. However,
+recognising the need for broader system strengthe-
+ning, tools that focus on i mproving institutional
+capacity for research use are on the rise [ 27, 34, 96].
+Additionally, regional and international partnerships
+are supporting many countries to develop capacity to
+Edwards et al. Health Research Policy and Systems           (2019) 17:16 Page 10 of 14
+<<<PAGE=11>>>
+analyse their own health systems and develop locally
+appropriate KT strategies such as, for example, EVIP-
+Net in Malawi and Uganda [ 57, 97], the West African
+Health Organization in Burkina Faso, Nigeria, Senegal and
+Sierra Leone [ 98], and the Consortium for Health Policy
+and Systems Analysis in Africa in South Africa, Tanzania,
+Ghana, Kenya and Nigeria [ 99]. These capacity-building
+efforts serve as useful learning opportunities for other
+settings, including how to strengthen local research and
+policy communities, promote collaboration, encourage the
+formation of KT support networks and the more equitable
+distribution of knowledge.
+Limitations and implications for evidence map use
+The broad search criteria and diverse search terms
+employed in constructing this evidence map reflect
+the complexity of KT. While the final set of in-
+cluded studies indicate the breadth of research on
+the African continent, there is a need to refine
+these criteria and appraise the quality of resulting
+studies in a more detailed systematic review. A po-
+tential focus for further research may be to trace
+KT strategies, outcomes, barriers and facilitators
+through specific countries to provide more contex-
+tualised theories of change [ 100].
+Furthermore, time and resource constraints precluded a
+comprehensive search of the literature. Few databases and
+online searches of key sites mean important studies may
+have been omitted from the final list of studies. Expanded
+searches of the grey literature and inclusion of additional
+databases should complement and enhance the current
+map. However, given the scoping nature of the evidence
+map, this was deemed appropriate for this study.
+Finally, an evidence map is a cross-section of studies
+conducted within a specific timeframe. The result is a
+snapshot of KT strategies and their outcomes, barriers and
+facilitators. The dynamic influence of contexts on KT
+interventions, especially in Africa, mean this map should
+serve only as a starting point. A detailed contextual ana-
+lysis prior to its application and use is recommended.
+Conclusion
+This review presents an overview of the literature
+on KT in African health systems by mapping the
+strategies, outcomes, barriers and facilitators at
+work across different countries. In doing so, it pro-
+vides a useful summary for health policy-makers
+and researchers seeking to conduct KT activities in
+local contexts. Additionall y, it highlights important
+evidence gaps, including the need for (1) increased
+research on KT strategies, barriers, facilitators and out-
+comes that includes a greater geographical scope, both
+within and across national borders; (2) greater variety
+in research approaches to KT, including more
+realist-type and evaluative designs and increased em-
+phasis on contextual descriptions and outcomes of KT in-
+terventions; (3) exploration into the impact of donor
+funding on KT and its outcomes; (4) further testing, deve-
+lopment and application of theoretical frameworks that
+enhance understanding of KT in African settings; (5) ex-
+ploration into the impact of an integrated KT approach
+that fosters engagement and collaboration between re-
+searchers and policy-makers throughout (and beyond) the
+research process; and (6) initiatives that build individual
+and organisational capacity to generate, understand and
+use research.
+This evidence mapping study also confirms the useful-
+ness of this type of systematised review approach for
+navigation of dispersed and diverse research terrains,
+where there is little consensus or definitional clarity.
+Further evidence mapping activities would be useful on
+more specific KT issues, and in more context-specific
+settings, so that researching policy-makers and policy-in-
+fluencing researchers have more readily available and
+suitable evidence to better inform their practice. Under-
+standing and developing learning health systems is be-
+coming a major focus of the global health policy and
+systems community [ 101], and localised and focused evi-
+dence maps would be a useful tool towards this practice.
+Additional files
+Additional file 1: List of databases, final search strategies and key
+terms. (DOCX 13 kb)
+Additional file 2: Characteristics of knowledge translation (KT)
+interventions (all studies). (DOCX 43 kb)
+Abbreviations
+EVIPNet: Evidence-Informed Policy Network; KT: knowledge translation;
+LMICs: low- and middle-income countries
+Acknowledgements
+The authors would like to thank Dilshaad Brey and Tamzyn Suliaman from
+the Health Sciences Library at the University of Cape Town for their time and
+support in developing and conducting the literature searches.
+Funding
+This work was supported by the Cape Higher Education Consortium,
+National Research Foundation, Margaret McNamara Education Grant and
+University of Cape Town Faculty of Health Sciences.
+Availability of data and materials
+The datasets used and/or analysed during the current study are available
+from the corresponding author on reasonable request.
+Authors’ contributions
+AE developed the search strategy and conducted the search protocol. JO
+and VZ reviewed the protocol and provided oversight throughout the
+project. AE and JO screened the final studies included in the review. AE
+prepared the first draft, incorporated all revisions and prepared the final
+draft. All authors reviewed drafts and approved the manuscript.
+Ethics approval and consent to participate
+Not applicable.
+Edwards et al. Health Research Policy and Systems           (2019) 17:16 Page 11 of 14
+<<<PAGE=12>>>
+Consent for publication
+Not applicable.
+Competing interests
+The authors declare that they have no competing interests.
+Publisher’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Author details
+1School of Public Health and Family Medicine, Faculty of Health Sciences,
+University of Cape Town, Anzio Road, Observatory, Cape Town 7925, South
+Africa. 2Western Cape Government Health, Cape Town, South Africa.
+Received: 15 August 2018 Accepted: 20 January 2019
+References
+1. Green A, Bennett S. Sound Choices: Enhancing Capacity for Evidence-informed
+Health Policy. AHPSR Biennual Review. Geneva: WHO, Alliance for Health Policy
+and Systems Research; 2007.
+2. Conalogue DM, Kinn S, Mulligan J-A, McNeil M. International consultation
+on long-term global health research priorities, research capacity and
+research uptake in developing countries. Health Res Policy Syst. 2017;15:24.
+3. Poot CC, van der Kleij RM, Brakema EA, Vermond D, Williams S, Cragg L, et
+al. From research to evidence-informed decision making: a systematic
+approach. J Public Health. 2018;40(1):i3 – i12.
+4. El-Jardali F, Lavis J, Moat K, Pantoja T, Ataya N. Capturing lessons learned
+from evidence-to-policy initiatives through structured reflection. Health Res
+Policy Syst. 2014;12:2.
+5. Langlois EV, Becerril Montekio V, Young T, Song K, Alcalde-Rabanal J, Tran N.
+Enhancing evidence informed policymaking in complex health systems:
+lessons from multi-site collaborative approaches. Health Res Policy Syst.
+2016;14:20.
+6. Barratt H, Shaw J, Simpson L, Bhatia S, Fulop N. Health services
+research: building capacity to meet the needs of the health care
+system. J Health Serv Res Policy. 2017;22:243 – 9.
+7. Grimshaw JM, Eccles MP, Lavis JN, Hill SJ, Squires JE. Knowledge translation
+of research findings. Implement Sci. 2012;7:50.
+8. Tetroe JM, Graham ID, Foy R, Robinson N, Martin P, Wensing M, et al. Health
+research funding agencies ’ support and promotion of knowledge
+translation: an international study. Milbank Q. 2008;86:125 – 55.
+9. van Olmen J, Criel B, Bhojani U, Marchal B, Van Belle S, Chenge MF, et al.
+Analysing health system dynamics: a framework. Stud Heal Serv Organ
+Policy. 2012;28:1 – 117.
+10. de Savigny D, Adam T. Systems Thinking for Health Systems Strengthening.
+Geneva: WHO, Alliance for Health Policy and Systems Research; 2009.
+11. Shroff Z, Aulakh B, Gilson L, Agyepong IA, El-Jardali F, Ghaffar A.
+Incorporating research evidence into decision-making processes: researcher
+and decision-maker perceptions from five low- and middle-income
+countries. Health Res Policy Syst. 2015;13:70.
+12. Graham ID, Logan J, Harrison MB, St raus SE, Tetroe J, Caswell W, et al.
+Lost in knowledge translation: time for a map? J Contin Educ Heal
+Prof. 2006;26:13 – 24.
+13. McKibbon KA, Lokker C, Wilczynski NL, Ciliska D, Dobbins M, Davis DA, et al.
+A cross-sectional study of the number and frequency of terms used to refer
+to knowledge translation in a body of health literature in 2006: a Tower of
+Babel? Implement Sci. 2010;5:16.
+14. Gervais MJ, Marion C, Dagenais C, Chiocchio F, Houlfort N. Dealing with the
+complexity of evaluating knowledge transfer strategies: guiding principles
+for developing valid instruments. Res Eval. 2016;25:62 – 9.
+15. Canadian Institutes of Health Research: Knowledge Translation – Definition.
+2016. http://www.cihr-irsc.gc.ca/e/29418.html#2. Accessed 12 Dec 2016.
+16. Sudsawad P. Knowledge Translation: Introduction to Models, Strategies, and
+Measures. Austin: Southwest Educational Development Laboratory, The
+National Center for the Dissemination of Disability Research; 2007.
+17. Greenhalgh T, Wieringa S. Is it time to drop the “knowledge translation ”
+metaphor? A critical literature review. J R Soc Med. 2011;104:501 – 9.
+18. Kothari A, Wathen CN. A critical second look at integrated knowledge
+translation. Health Policy. 2013;109:187 – 91.
+19. Engebretsen E, Sandset TJ, Ødemark J. Expanding the knowledge
+translation metaphor. Health Res Policy Syst. 2017;15:19.
+20. Kreindler SA. Advancing the evaluation of integrated knowledge translation.
+Health Res Policy Syst. 2018;16:104.
+21. King L, Hawe P, Wise M. Making dissemination a two-way process. Health
+Promot Int. 1998;13:237 – 44.
+22. Brownson RC, Royer C, Ewing R, McBride TD. Researchers and policymakers:
+travelers in parallel universes. Am J Prev Med. 2006;30:164 – 72.
+23. Bosch-Capblanch X, Lavis JN, Lewin S, Atun R, Røttingen J-A, Dröschel D, et al.
+Guidance for evidence-informed policies about health systems: rationale for
+and challenges of guidance development. PLoS Med. 2012;9:e1001185.
+24. Harris R. The impact of research on development policy and practice: this
+much we know. In: Chib A, et al., editors. Impact of Information Society
+Research in the Global South. Singapore: Springer Singapore; 2015. p. 21 – 43.
+25. Langer L, Tripney J, Gough D. The Science of Using Science: Researching
+the Use of Research Evidence in Decision-making. London: EPPI-Centre,
+Social Science Research Unit, UCL Institute of Education, University College
+London; 2016.
+26. Cheetham M, Wiseman A, Khazaeli B, Gibson E, Gray P, Van der Graaf P, et
+al. Embedded research: a promising way to create evidence-informed
+impact in public health? J Public Health. 2018;40(1):i64 – 70.
+27. Brownson RC, Fielding JE, Green LW. Building capacity for evidence-based
+public health: reconciling the pulls of practice and the push of research.
+Annu Rev Public Health. 2018;39:27 – 53.
+28. Oliver K, Innvar S, Lorenc T, Woodman J, Thomas J. A systematic review of
+barriers to and facilitators of the use of evidence by policymakers. BMC
+Health Serv Res. 2014;14:2.
+29. Lavis JN, Oxman AD, Lewin S, Fretheim A. SUPPORT Tools for evidence-informed
+health Policymaking (STP)3: setting priorities for supporting evidence-informed
+policymaking. Health Res Policy Syst. 2009;7(Suppl 1):S3.
+30. Kothari A, Wathen CN. Integrated knowledge translation: digging deeper,
+moving forward. J Epidemiol Community Health. 2017;71:619 – 23.
+31. Craveiro I, Hortale V, De Oliveira APC, Dal Poz M, Portela G, Dussault G. The
+utilization of research evidence in health workforce policies: the
+perspectives of Portuguese and Brazilian national policy-makers. J Public
+Health. 2018;40(Suppl 1):i50 – 6.
+32. Koon AD, Nambiar D, Rao KD. Embedding of Research into Decision-making
+Processes. Geneva: Alliance for Health Policy and Systems Research, World
+Health Organization; 2012.
+33. Nutley S, Walter I, Davies H. Using Evidence: How Research can Inform
+Public Services. Bristol: The Policy Press; 2007.
+34. Lavis JN, Oxman AD, Lewin S, Fretheim A. SUPPORT Tools for
+evidence-informed health Policymaking (STP). Health Res Policy Syst.
+2009;7(Suppl 1):I1.
+35. Oxman AD, Vandvik PO, Lavis JN, Fretheim A, Lewin S. SUPPORT Tools for
+evidence-informed health Policymaking (STP) 2: Improving how your
+organisation supports the use of research evidence to inform policymaking.
+Health Res Policy Syst. 2009;7(Suppl 1):S2.
+36. Ongolo-Zogo P, Lavis JN, Tomson G, Sewankambo NK. Assessing the
+influence of knowledge translation platforms on health system policy
+processes to achieve the health millennium development goals in
+Cameroon and Uganda: a comparative case study. Health Policy Plan.
+2018;33:539 – 54.
+37. Newson R, King L, Rychetnik L, Milat A, Bauman A. Looking both ways: a
+review of methods for assessing research impacts on policy and the policy
+utilisation of research. Health Res Policy Syst. 2018;16:54.
+38. Newson R, Rychetnik L, King L, Milat A, Bauman A. Does citation
+matter? Research citation in policy documents as an indicator of
+research impact – an Australian obesity policy case-study. Health Res
+Policy Syst. 2018;16:55.
+39. Murphy K, Fafard P. Taking power, politics, and policy problems seriously. J
+Urban Heal. 2012;89:723 – 32.
+40. Nabyonga Orem J, Mafigiri DK, Marchal B, Ssengooba F, Macq J, Criel B.
+Research, evidence and policymaking: the perspectives of policy actors on
+improving uptake of evidence in health policy development and
+implementation in Uganda. BMC Public Health. 2012;12(1):109.
+41. Moat KA, Lavis JN, Abelson J. How contexts and issues influence the use of
+policy-relevant research syntheses: a critical interpretive synthesis. Milbank
+Q. 2013;91:604 – 48.
+42. Tricco AC, Zarin W, Rios P, Pham B, Straus SE, Langlois EV. Barriers,
+facilitators, strategies and outcomes to engaging policymakers, healthcare
+Edwards et al. Health Research Policy and Systems           (2019) 17:16 Page 12 of 14
+<<<PAGE=13>>>
+managers and policy analysts in knowledge synthesis: a scoping review
+protocol. BMJ Open. 2016;6:e013929.
+43. Caffrey L, Wolfe C, McKevitt C. Embedding research in health systems:
+lessons from complexity theory. Health Res Policy Syst. 2016;14:54.
+44. Kirigia JM, Pannenborg CO, Amore LGC, Ghannem H, IJsselmuiden C,
+Nabyonga-Orem J. Global forum 2015 dialogue on “From evidence to
+policy – thinking outside the box ”: perspectives to improve evidence
+uptake and good practices in the African region. BMC Health Serv Res.
+2016;16:215.
+45. Uzochukwu B, Onwujekwe O, Mbachu C, Okwuosa C, Etiaba E, Nyström ME,
+et al. The challenge of bridging the gap between researchers and policy
+makers: experiences of a Health Policy Research Group in engaging policy
+makers to support evidence informed policy making in Nigeria. Glob Health.
+2016;12:67.
+46. Grant MJ, Booth A. A typology of reviews: an analysis of 14 review types
+and associated methodologies. Health Inf Libr J. 2009;26:91 – 108.
+47. Clapton J, Rutter D, Sharif N. SCIE Systematic mapping guidance. In: Using
+Knowledge in Social Care, Research Resource 03. London: Social Care
+Institute for Excellence; 2009.
+48. Randall NP, James KL. The effectiveness of integrated farm management,
+organic farming and agri-environment schemes for conserving biodiversity
+in temperate Europe: a systematic map. Environemental Evid. 2012;1:4.
+49. Bragge P, Clavisi O, Turner T, Tavender E, Collie A, Gruen RL. The Global
+Evidence Mapping Initiative: scoping research in broad topic areas. BMC
+Med Res Methodol. 2011;11:92.
+50. Miake-Lye IM, Hempel S, Shanman R, Shekelle PG. What is an evidence
+map? A systematic review of published evidence maps and their definitions,
+methods, and products. Syst Rev. 2016;5:28.
+51. Straus SE, Tetroe J, Graham I. Defining knowledge translation. CMAJ.
+2009;181:165 – 8.
+52. Pienaar E, Grobler L, Busgeeth K, Eisinga A, Siegfried N. Developing a
+geographic search filter to identify randomised controlled trials in
+Africa: finding the optimal balance between sensitivity and precision.
+Health Inf Libr J. 2011;28:210 – 5.
+53. Edwards A. Exploring Knowledge Translation Mechanisms in the Western
+Cape Provincial Health System, Master thesis: University of Cape Town,
+Health Policy and Systems Division; 2018.
+54. Rodríguez DC, Shearer J, Mariano AR, Juma PA, Dalglish SL, Bennett S.
+Evidence-informed policymaking in practice: country-level examples of use
+of evidence for iCCM policy. Health Policy Plan. 2015;30(2):ii36 – 45.
+55. Moat KA, Lavis JN, Clancy SJ, El-Jardali F, Pantoja T. Evidence briefs and
+deliberative dialogues: perceptions and intentions to act on what was
+learnt. Bull World Health Organ. 2014;92:20 – 8.
+56. Lavis JN, Lomas J, Hamid M, Sewankambo NK. Assessing country-level
+efforts to link research to action. Bull World Health Organ. 2006;84:620 – 8.
+57. Berman J, Mitambo C, Matanje-Mwagomba B, Khan S, Kachimanga C, Wroe
+E, et al. Building a knowledge translation platform in Malawi to support
+evidence-informed health policy. Health Res Policy Syst. 2015;13:73.
+58. Stewart R, Wiggins M, Thomas J, Oliver S, Brunton G, Ellison GT. Exploring
+the evidence-practice gap: a workshop report on mixed and participatory
+training for HIV prevention in southern Africa. Educ Heal. 2005;18:224 – 35.
+59. de Carvalho IA, Byles J, Aquah C, Amofah G, Biritwum R, Panisset U, et al.
+Informing evidence-based policies for ageing and health in Ghana. Bull
+World Health Organ. 2015;93:47 – 51.
+60. Ashford LS, Smith RR, De Souza R-M, Fikree FF, Yinger NV. Creating windows
+of opportunity for policy change: incorporating evidence into decentralized
+planning in Kenya. Bull World Health Organ. 2006;84:669 – 72.
+61. Hyder AA, Corluka A, Winch PJ, El-Shinnawy A, Ghassany H, Malekafzali H, et
+al. National policy-makers speak out: are researchers giving them what they
+need? Health Policy Plan. 2011;26:73 – 82.
+62. Behague D, Tawiah C, Rosato M, Some T, Morrison J. Evidence-based
+policy-making: the implications of globally-applicable research for
+context-specific proble m-solving in developing countries. Soc Sci Med.
+2009;69:1539 – 46.
+63. Albert MA, Fretheim A, Maïga D. Factors influencing the utilization of
+research findings by health policy-makers in a developing country: the
+selection of Mali ’s essential medicines. Health Res Policy Syst. 2007;5:2.
+64. Shearer JC, Dion M, Lavis JN. Exchanging and using research evidence in
+health policy networks: a statistical network analysis. Implement Sci. 2014;9:126.
+65. Dagenais C, Somé TD, Boileau-Falardeau M, McSween-Cadieux E, Ridde V.
+Collaborative development and implementation of a knowledge brokering
+program to promote research use in Burkina Faso, West Africa. Global
+Health Action. 2015;8:26004.
+66. Uneke CJ, Ndukwe CD, Ezeoha AA, Uro-Chukwu HC, Ezeonu CT. Implementation
+of a health policy advisory committee as a knowledge translation platform: the
+Nigeria experience. Int J Health Policy Manag. 2015;4:161– 8.
+67. Mbonye AK, Magnussen P. Translating health research evidence into policy
+and practice in Uganda. Malar J. 2013;12:274.
+68. Uneke CJ, Ezeoha AE, Ndukwe CD, Oyibo PG, Onwe F. Promotion of
+evidence-informed health policymaking in Nigeria: bridging the gap
+between researchers and policymakers. Glob Public Health. 2012;7:750 – 65.
+69. Rispel LC, Doherty J. Research in support of health systems transformation
+in South Africa: the experience of the Centre for Health Policy. J Public
+Health Policy. 2011;32:S10 – 29.
+70. McSween-Cadieux E, Dagenais C, Somé P-A, Ridde V. Research
+dissemination workshops: observations and implications based on an
+experience in Burkina Faso. Health Res Policy Syst. 2017;15:43.
+71. Vargas E, Becerril-Montekio V, Gonzalez-Block MÁ, Akweongo P, Hazel CNA,
+de Famita Cuembelo M, et al. Mapping the use of research to support
+strategies tackling maternal and child health inequities: evidence from six
+countries in Africa and Latin America. Health Res Policy Syst. 2016;14:1.
+72. Guieu A, Zhang W-H, Lafort Y, Decat P, De Meyer S, Wang S, et al. Practical
+lessons for bringing policy-makers on board in sexual and reproductive
+health research. BMC Health Serv Res. 2016;16:649.
+73. Nabudere H, Asiimwe D, Amandua J. Improving access to skilled
+attendance at delivery: a policy brief for Uganda. Int J Technol Assess
+Health Care. 2013;29:207 – 11.
+74. MacDonald NE, Bortolussi R, Kabakyenga J, Pemba S, Estambale B,
+Kollmann KHM, et al. Microresearch: finding sustainable local health
+solutions in East Africa through small local research studies. J Epidemiol
+Glob Health. 2014;4:185 – 93.
+75. Hasnida A, Borst RA, Johnson AM, Rahmani NR, van Elsland SL, Kok MO.
+Making health systems research work: time to shift funding to locally-led
+research in the South. Lancet Glob Health. 2017;5:e22 – 4.
+76. Centre for Evidence-based Health Care (CEBHC). Annual Report 2016. 2016.
+http://www.cebhc.co.za/. Accessed 12 Nov 2017.
+77. University of Cape Town Lung Institute. Knowledge Translation Unit
+(KTU): Programmes. 2017. http://knowledgetranslation.co.za /. Accessed
+20 Nov 2017.
+78. South African Medical Research Council. Cochrane African Network (CAN).
+2017. http://www.mrc.ac.za/cochrane/can.htm. Accessed 12 Dec 2017.
+79. Mitton C, Adair CE, Mckenzie E, Patten SB, Perry BE. Knowledge transfer and
+exchange: review and synthesis of the literature. Milbank Q. 2007;85:729 – 68.
+80. McPake B, Jensen C, Jones A. Learning Across Health Systems: Literature
+Review of International Health Policy Transfer Processes. Oxford: Oxford
+Policy Management; 2017.
+81. Bonell C, Fletcher A, Morton M, Lorenc T, Moore L. Realist randomised
+controlled trials: a new approach to evaluating complex public health
+interventions. Soc Sci Med. 2012;75:2299 – 306.
+82. Gilson L, editor. Health Policy and Systems Research: A Methodology
+Reader. Geneva: World Health Organization; 2012.
+83. Panisset U, Koehlmoos TP, Alkhatib AH, Pantoja T, Singh P, Kengey-Kayondo J,
+et al. Implementation research evidence uptake and use for policy-making.
+Health Res Policy Syst. 2012;10:20.
+84. Westhorp G. Realist Impact Evaluation: An Introduction. London: Overseas
+Development Institute; 2014.
+85. Tulloch O, Mayaud P, Adu-Sarkodie Y, Opoku B, Lithur N, Sickle E, et al.
+Using research to influence sexual and reproductive health practice and
+implementation in sub-Saharan Africa: a case-study analysis. Health Res
+Policy Syst. 2011;9(1):S10.
+86. Van der Graaf P, Francis O, Doe E, Barrett E, O ’Rorke M, Docherty G.
+Structural approaches to knowledge exchange: comparing practices
+across five centres of excellence i n public health. J Public Health.
+2018;40(1):i31 – 8.
+87. Dobbins M, Robeson P, Ciliska D, Hanna S, Cameron R, O ’Mara L, et al. A
+description of a knowledge broker role implemented as part of a
+randomized controlled trial evaluating three knowledge translation
+strategies. Implement Sci. 2009;4:23.
+8 8 . H a y n e sA S ,D e r r i c kG E ,R e d m a nS ,H a l lW D ,G i l l e s p i eJ A ,C h a p m a nS ,e t
+al. Identifying trustworthy experts: how do policymakers find and assess
+public health researchers worth consulting or collaborating with? PLoS
+One. 2012;7:e32665.
+Edwards et al. Health Research Policy and Systems           (2019) 17:16 Page 13 of 14
+<<<PAGE=14>>>
+89. West RM, House AO, Keen J, Ward VL. Using the structure of social networks
+to map inter-agency relationships in public health services. Soc Sci Med.
+2015;145:107– 14.
+90. Cairney P, Oliver K. Evidence-based policymaking is not like evidence-based
+medicine, so how far should you go to bridge the divide between evidence
+and policy? Health Res Policy Syst. 2017;15:35.
+91. Kebede D, Zielinski C, Mbondji PE, Piexoto M, Kouvividila W, Lusamba-
+Dikassa P-S. The way forward – narrowing the knowledge gap in sub-
+Saharan Africa to strengthen health systems. J R Soc Med. 2014;107(1):10 – 2.
+92. Gough D, Boaz A. Complexities of making use of research. Evid Policy.
+2011;7:247 – 9. https://doi.org/10.1332/174426411X591717 .
+93. Moore G, Redman S, Haines M, Todd A. What works to increase the use of
+research in population health policy and programmes: a review. Evid Policy.
+2011;7:277– 305.
+94. Gagliardi AR, Berta W, Kothari A, Boyko J, Urquhart R. Integrated knowledge
+translation (IKT) in health care: a scoping review. Implement Sci. 2016;11:38.
+95. Milat AJ, Li B. Narrative review of frameworks for translating research
+evidence into policy and practice. Public Heal Res Pract. 2017;27.
+9 6 . R o d r í g u e zD C ,H o eC ,D a l eE M ,R a h m a nM H ,A k h t e rS ,H a f e e zA ,e ta l .
+Assessing the capacity of ministries of health to use research in
+decision-making: conceptual framework and tool. Health Res Policy Syst.
+2017;15:65.
+97. Ongolo-Zogo P, Lavis JN, Tomson G, Sewankambo NK. Initiatives supporting
+evidence informed health system policymaking in Cameroon and Uganda:
+a comparative historical case study. BMC Health Serv Res. 2014;14:612.
+98. Keita N, Lokossou V, Berthe A, Sombie I, Johnson E, Busia K. The West
+African experience in establishing steering committees for better
+collaboration between researchers and decision-makers to increase the use
+of health research findings. Health Res Policy Syst. 2017;15:50.
+99. Lê G, Mirzoev T, Green A, Kalliecharan R. Consortium for Health Policy &
+Systems Analysis in Africa: Comparative Results of Capacity Needs
+Assessments in African Partner Institutions. CHEPSAA report. Leeds:
+Consortium for Health Policy & Systems Analysis in Africa; 2012.
+100. Paina L, Wilkinson A, Tetui M, Ekirapa-Kiracho E, Barman D, Ahmed T, et al.
+Using Theories of Change to inform implementation of health systems
+research and innovation: experiences of Future Health Systems consortium
+partners in Bangladesh, India and Uganda. Health Res Policy Syst. 2017;15:109.
+101. English M, Irimu G, Agweyu A, Gathara D, Oliwa J, Ayieko P, et al.
+Building learning health systems to accelerate research and improve
+outcomes of clinical care in low- an d middle-income countries. PLoS
+Med. 2016;13(4):e1001991.
+102. Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting items for
+systematic reviews and meta-analyses: the PRISMA statement. BMJ.
+2009;339:1 – 8.
+103. Bennett S, Corluka A, Doherty J, Tangcharoensathien V, Patcharanarumol
+W, Jesani A, et al. Influencing policy change: the experience of health
+think tanks in low- and middle-income countries. Health Policy Plan.
+2012;27:194 – 203.
+104. Delany-Moretlwe S, Stadler J, Mayaud P, Rees H. Investing in the future:
+lessons learnt from communicating the results of HSV/ HIV intervention
+trials in South Africa. Health Res Policy Syst. 2011;9(Suppl 1):S8.
+105. Hennink M, Stephenson R. Using research to inform health policy: barriers
+and strategies in developing countries. J Health Commun. 2005;10:163 – 80.
+Edwards et al. Health Research Policy and Systems           (2019) 17:16 Page 14 of 14

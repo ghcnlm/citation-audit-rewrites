@@ -1,0 +1,903 @@
+<<<PAGE=1>>>
+Management Decision
+Three perspectives on evidence-based management: rank, fit, variety
+Peter F. Martelli, Tuna Cem Hayirli,
+Article information:
+To cite this document:
+Peter F. Martelli, Tuna Cem Hayirli, (2018) "Three perspectives on evidence-based management:
+rank, fit, variety", Management Decision, https://doi.org/10.1108/MD-09-2017-0920
+Permanent link to this document:
+https://doi.org/10.1108/MD-09-2017-0920
+Downloaded on: 01 August 2018, At: 12:09 (PT)
+References: this document contains references to 81 other documents.
+To copy this document: permissions@emeraldinsight.com
+Access to this document was granted through an Emerald subscription provided by emerald-
+srm:261402 []
+For Authors
+If you would like to write for this, or any other Emerald publication, then please use our Emerald
+for Authors service information about how to choose which publication to write for and submission
+guidelines are available for all. Please visit www.emeraldinsight.com/authors for more information.
+About Emerald www.emeraldinsight.com
+Emerald is a global publisher linking research and practice to the benefit of society. The company
+manages a portfolio of more than 290 journals and over 2,350 books and book series volumes, as
+well as providing an extensive range of online products and additional customer resources and
+services.
+Emerald is both COUNTER 4 and TRANSFER compliant. The organization is a partner of the
+Committee on Publication Ethics (COPE) and also works with Portico and the LOCKSS initiative for
+digital archive preservation.
+*Related content and download information correct at time of download.
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=2>>>
+Three perspectives on
+evidence-based management:
+rank, fit, variety
+Peter F. Martelli
+Sawyer Business School, Suffolk University, Boston, Massachusetts, USA, and
+Tuna Cem Hayirli
+Harvard Medical School, Boston, Massachusetts, USA
+Abstract
+Purpose – The debate on evidence-based management (EBMgt) has reached an impasse. The persistence of
+meaningful critiques highlights challenges embedded in the current frameworks. The field needs to consider new
+conceptual paths that appreciate these critiques, but move beyond them. The paper aims to discuss this issue.
+Design/methodology/approach – This paper unpacks the concept of finding the“best available evidence,”
+which remains a central notion across definitions of EBMgt. For each element, it considers relevant theory
+and offers recommendations, concluding with a discussion of“bestness” as interpreted across three key
+dynamics – rank, fit, and variety.
+Findings – The paper reinforces that EBMgt is a social technology, and draws on cybernetic theory to argue
+that the“best” evidence is produced not by rank or fit, but by variety. Through variety, EBMgt more readily
+captures the contextual, political, and relational aspects embedded in management decision making.
+Research limitations/implications– While systematic reviews and empirical barriers remain important,
+more rigorous research evidence and larger catalogues of contingency factors are themselves insufficient to
+solve underlying sociopolitical concerns. Likewise, current critiques could benefit from theoretical bridges
+that not only reinforce learning and sensemaking in real organizations, but also build on the spirit of the
+project and progress made towards better managerial decision making.
+Originality/value – The distinctive contribution of this paper is to offer a new lens on EBMgt drawing from
+cybernetic theory and science and technology studies. By proposing the theoretical frame of variety, it offers
+potential to resolve the impasse between those for and against EBMgt.
+Keywords Management theory, Knowledge management, Implementation, Evidence-based management,
+Management strategy, Theory of evidence
+Paper typeGeneral review
+1. Introduction
+Over the past decade, the evidence-based management (EBMgt) debate has arrived at an
+impasse, with two strands of scholarship developing in tandem, yet in relative isolation. Despite
+a few attempts at comprehensive theory building (Baba and HakemZadeh, 2012; Mankelwicz
+and Kitahara, 2008), the field remains perilously undertheorized. A manager newly venturing
+into this literature could easily develop some confusion about EBMgt and its practice.
+On the one hand, arguments for EBMgt have largely built upon and refined early
+definitions in a realist orientation (Martelli, 2012). For those adherent, EBMgt has been
+defined as the“systematic application of the best available evidence to the evaluation of
+managerial strategies for improving [organizational] performance” (Kovner and Rundall,
+2006). Over time, this definition has been refined into one or another version of“making
+decisions through the conscientious, explicit and judicious use of the best available evidence
+from multiple sources by asking, acquiring, appraising, aggregating, applying, and
+assessing to increase the likelihood of a favorable outcome” (Barends et al., 2014).
+On the other hand, arguments against EBMgt have typically taken a social constructivist
+orientation (Martelli, 2012), and have eschewed existing definitions on theoretical and
+practical grounds. Authors from this position write that,“despite claims to be scientific and
+impartial, EBMgt is managerialist: i.e., it is for management not about management”
+Management Decision
+© Emerald Publishing Limited
+0025-1747
+DOI 10.1108/MD-09-2017-0920
+Received 30 September 2017
+Revised 6 March 2018
+3 May 2018
+Accepted 24 June 2018
+The current issue and full text archive of this journal is available on Emerald Insight at:
+www.emeraldinsight.com/0025-1747.htm
+Evidence-
+based
+management
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=3>>>
+(Morrell and Learmonth, 2015; see also, Arndt and Bigelow, 2009; Mowles, 2011).
+In particular, a consistent rebuttal is that EBMgt minimizes the range evidence can take by
+marginalizing other forms besides research evidence. In this, it “devalues stories or
+narrative forms of knowledge. Yet [… ] is itself a story about relations between research and
+practice, one of many possible stories” (Morrell and Learmonth, 2015).
+Recent reviews have called for a pause in theory building and an increase in“the
+production of high-quality empirical studies in EBMgt” (Rynes and Bartunek, 2017). However,
+it is difficult to advance the field without implementing EBMgt practices built upon a strong
+theoretical foundation such that practices are comparable and replicable. It is important to
+note that EBMgt has a dual nature, both as a suggested method of improving socio-behavioral
+technologies in the organization, as well as a socio-behavioral technology in itself.
+If we are to consider EBMgt“a simple idea [… ] [that] means finding the best evidence
+that you can, facing those facts, and acting on those facts” (Pfeffer and Sutton, 2006), then it
+is important to consider, within the management context, what counts as evidence, what its
+purpose is, and how it fits into the decision-making process.
+The aim of this paper is to reimagine EBMgt in a way that is sensitive to both the
+aspirations and limitations of the project. In Section 2, it reviews the similarities and
+differences between Evidence-based Medicine and EBMgt, highlighting the unique features
+of healthcare organizations’ contexts. In challenging the realist core of the“best available
+evidence,” Section 3.1 stresses the social aspects of evidence, describing EBMgt as a social
+technology. Section 3.2 discusses availability in terms of literal availability of sources and
+cognitive availability.“Bestness” is then operationalized as“hierarchical ranking” and “fit
+between situation and evidence” in Section 4, with both operationalizations falling short
+when uncertainty abounds. The third operationalization, in Section 5, suggests that
+employing a variety of knowledge types is a preferable approach in healthcare because it
+increases organizational regulation states, shapes interpersonal knowledge structures, and
+directs organizational attention.
+This general review paper derives from a multi-stage and multidisciplinary literature
+review conducted over several research projects, including the authors’ dissertation and
+thesis work and associated research studies funded by Agency for Healthcare Research and
+Quality, the Gordon and Betty Moore Foundation, and the National Science Foundation.
+Thus, the literature presented here comes not from a single review methodology, but from a
+series of reviews over a decade, feedback in multiple professional venues, and conversations
+with prominent scholars in the field.
+2. EBMgt for performance improvement in healthcare
+The earliest formulations of EBMgt were based on the design of its forerunner concept,
+evidence-based medicine. These models favored the increased use of research literature as the
+main function of the process, arguing not only that the evidence being used is sub-optimal, but
+also implicitly that much of it is simply not evidence. However, just as healthcare management
+is not the provision of healthcare, EBMgt in healthcare is not evidence-based medicine.
+As Walshe and Rundall (2001) note:
+Overall, the tightly defined, well-organized, highly quantitative, and relatively generalizable research
+base for many clinical professions provides a strong and secure foundation for evidence-based
+practice and lends itself to a systematic process of review and synthesis and to the production of
+guidelines and protocols. In contrast, the loosely defined, methodologically heterogeneous, widely
+distributed, and hard-to-generalize research base for healthcare management is much more difficult to
+use in the same way.
+On one hand, Pfeffer and Sutton (2006), argue that“managers (like doctors) can practice
+their craft more effectively if they are routinely guided by the best logic and evidence.”
+MD
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=4>>>
+On the other hand, Learmonth and Harding (2006) argue: nevertheless,“the basic doctrine of
+EBMgt remains one appropriated from evidence-based healthcare: that a consideration of
+evidence will increase the rationality and thus the effectiveness of managers’ decisions.”
+The pursuit of improvement in healthcare provides a perfect setting to explore the
+concerns above. First, there is“plenty of evidence that a research practice gap also exists in
+healthcare policy and management ” (Walshe and Rundall, 2001). Second, healthcare
+represents a form of complex service organization in which uncertainty is present (Plsek and
+Greenhalgh, 2001), and failure is never desired, though highly likely (Edmondson, 2010).
+Third, health services and hospitals compose a knowledge-intensive, knowledge-centered
+industry, in which speed of change and expertise play critical roles (Brint, 2001). Fourth, in
+the delivery of healthcare, “complexity is reflected in the number, variety, and
+fragmentation of producers involved, ” including mutually interactive, dynamic and
+non-linear relationships between system parts (Begun et al., 2003). Moreover, decision
+making in this domain is“quasi-scientific, in a particular sense: competent decision making
+requires scientific knowledge, but scientific knowledge is not sufficient to make decisions”
+(Turner, 2004). Finally, while medicine operates in an“environment of fairly high validity,”
+where validity refers to the stability of relationships between“objectively identifiable cues
+and subsequent events or between cues and the outcomes of possible actions,” (Kahneman
+and Klein, 2009), the management of healthcare, like management in general, is more likely
+operating in a low validity environment.
+The discussion below presents an argument generic in nature, though particularly
+amenable to strategic improvement initiatives. As such, the target audience is healthcare
+administrators responsible for strategic or high-level operational decisions related to the
+restructuring, positioning, prioritizing, and financing of care delivery. Improvement in
+healthcare requires contending with highly differentiated yet highly reciprocal tasks in a
+setting where“physicians align with technical expertise, nurses with reliability and safety,
+and health administrators with efficiency,” and “while health administrators may advocate
+for organizational change, they typically do not have real administrative authority over
+health professionals” (Garman et al., 2006).
+With these factors in mind, this paper elaborates on the nature of EBMgt as a social
+technology and offers three perspectives on its operationalization.
+3. What is the“best available evidence?”
+Embedded in the definition of EBMgt is the implication that the“best available evidence”
+should be marshaled in management decision making. Table I presents several accepted
+definitions that highlight the importance of this concept. Though the breadth of application
+changes over time, the underlying intention of“bestness” remains. For this reason, it is
+useful to briefly overview what is meant by each of these three terms, and the consequences
+of framing decision making accordingly.
+3.1 Evidence is social, EBMgt is a social technology
+Evidence is “ground for belief; testimony or facts tending to prove or disprove any
+conclusion” (Oxford English Dictionary 2nd ed., 1989). That observation is theory-laden is
+sufficient to show that individual knowledge is distinct from objectively true facts or
+information about entities in the world (Kuhn, 1962). This distinction magnifies in a social
+context, where the shared perspectives, standards, and goals of a community influence the
+status of knowledge claims. Evidence is context specific and relational; tied to a particular
+stance, perspective, or intention; and is compiled in support of a particular end. Whereas
+knowledge can exist free-form, evidence can only exist as a package of knowledge directed
+towards a goal. For organizations, this means that evidence is wrapped up in context,
+shared meaning, and interpersonal goal reconciliation.
+Evidence-
+based
+management
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=5>>>
+Kuhn (1962) underscored the importance of shared meaning by proposing the common
+values (i.e. empirical accuracy, consistency, broad scope, simplicity, and fruitfulness) by
+which individuals can discuss and reconcile different scientific paradigms. Referring
+especially to evidence-based practice, Donaldson (2009) proposes relevance, coherence,
+verisimilitude, justifiability, and contextuality as the common values which govern the use
+of evidence in organizations. Likewise, Baba and HakemZadeh (2012) propose that“the best
+evidence needs to be evaluated against methodological fit, contextualization, transparency,
+replicability, and consensus.” Like most social propositions, the dimensions of value in
+evidence are often in tension - for example, Keller (2009) suggests that features of salience,
+credibility, and legitimacy are interconnected such that procedures developing one tend to
+undermine another. In sum, rhetoric plays a large role in persuading individuals to switch
+gestalts between positions using an evidence-based process.
+This paper suggests that EBMgt is not merely a tool or process, but a social technology
+inextricably embedded in personal and organizational values and culture. As such, EBMgt
+is not a value neutral tool to be used by technocratic managers, but is“situated in culture
+and embedded in history” ( Jasanoff, 2012) with actors making decisions in social contexts
+involving power dynamics. For instance, Arndt and Bigelow (2009) elaborate on the
+consideration of evidence in healthcare contexts by noting that“‘Best evidence,’ in turn, is
+an artifact of the social processes that lead to its creation, reflecting researchers ’ or
+organizations’ interests in the selection of topics, what questions to ask, and what sources of
+information to legitimate. ” Regulation of epistemic uncertainty in an organizational
+management context depends on social perception, and complex environments alter the
+structure of decision making, since“the environment in which decisions are made is key, not
+simply [… ] as a setting but as an embedded entity which forms both‘substance’ and ‘arena’
+for the strategic actors” (Gore et al., 2006). In socio-cultural systems, mental models are
+formed interpersonally, and form the regulatory mechanisms by which organizations
+discriminate, act upon, and respond to uncertainty in the environment.
+Barends et al. (2014) propose that evidence-based practitioners ask, acquire, appraise,
+aggregate, apply, and assess four unique sources of evidence: scientific, organizational,
+experiential, and stakeholder. In that same order, such sources deal with published research
+findings, data from the organization, tacit knowledge from professional experience, and the
+Source Definition
+Kovner et al.(2000) [T]he conscientious, explicit, and judicious use of currentbest reasoning and experience
+in making decisions about strategic interventions
+Kovner and Rundall
+(2006)
+The systematic application of thebest available evidenceto the evaluation of
+managerial strategies for improving the performance of organizations
+Rousseau (2006) [EBMgt] means translating research principles based on best evidenceinto
+organizational practice
+Pfeffer and Sutton
+(2006)
+[EBMgt] is a commitment to finding and using thebest theory and data availableat the
+time to make decisions
+Briner et al.(2009) EBMgt is about making decisions through the conscientious, explicit, and judicious
+use of four sources of information: practitioner expertise and judgment, evidence from
+the local context, a critical evaluation of thebest available research evidence, and the
+perspectives of those people who might be affected by the decision
+Rynes et al.(2014) [EBMgt] is about making decisions through the conscientious, explicit, and judicious
+use of thebest available evidencefrom multiple sources to help managers choose
+effective ways to manage people and structure organizations
+Barends et al.(2014) Evidence-based practice in management is about making decisions through the
+conscientious, explicit, and judicious use ofthe best available evidencefrom multiple
+sources by asking, acquiring, appraising, aggregating, applying and assessing
+Table I.
+Common definitions
+of EBMgt
+MD
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=6>>>
+values and concerns of stakeholders“who may be affected by an organization’s decisions
+and their consequences.” This model is concerned with how stakeholders“tend to react to
+the possible consequences of the organization’s decisions,” imagined as a tool that provides
+a “frame of reference.” An appreciation of EBMgt as a social technology, however, demands
+that one envision factors like culture and values as inextricable parts of the social context
+enveloping how decisions are formulated, acted upon, and received. Such factors should not
+be divorced from other sources of evidence, and should be interpreted reflexively. Managers
+in healthcare should realize the variance of“ideas and experiences and engage in dialogue
+that is critical, open, and questioning” (Cunliffe and Jun, 2005) within their social realities,
+being careful to not“ignore the situated nature of that experience and the cultural, historical,
+and linguistic traditions that permeate [their] work” (Cunliffe, 2003). Just as“the skilled
+clinician does not first collect and deploy evidence and then soften it up with narrative”
+(Charon and Wyer, 2008), so should managers in healthcare vigilantly remain reflexive to
+the conditions surrounding a decision and their own role in specifying them.
+To that end, this paper argues a decision-making approach more in the tradition of the
+rational decision logic of appropriateness, which is concerned with ambiguity and attention,
+than the rational decision logic of consequences, which privileges intentionality and
+bounded rationality (Frederickson and Smith, 2003). The logic of appropriateness
+emphasizes that“behavior in a specific situation is said to follow from the rules that govern
+the appropriate course of action for a given role or identity” (Balsiger, 2016). In healthcare
+particularly, shared values and norms within professions play a compelling role in
+establishing and maintaining the assumptions underlying otherwise rational justifications.
+Keeping in mind this complex climate of healthcare and the social nature of evidence
+embedded in it, it is important to discuss how the availability of such evidence is imagined
+with respect to decision making.
+3.2 Availability takes two forms
+Using the best evidence implies that it is available to the decision-maker at the time of the
+decision. Available can be interpreted in two ways. Evidence is transmitted through
+sources, yet sometimes these sources are literally unavailable to them in time for a decision.
+Implementation research has documented various common technical barriers and
+facilitators to compiling evidence, such as the cost of journals and difficult technological
+interfaces (Rundall et al., 2009). These are important, but comparatively simple issues to
+address. Available can also refer to what can be comprehended by the decision-maker or
+organization – a sort of cognitive availability. Individuals modeling their worlds under
+certain assumptions may not be able to conceive of competing knowledge claims and may
+reject evidence as rhetorically unpersuasive. Models of decision choice under uncertainty
+are subject to the incompleteness hypothesis, which asserts that“because [a decision] model
+fails to capture all relevant aspects of the problem, it will yield inaccurate estimates of the
+expected benefits of any given course of action” (Quiggin, 2004).
+Likewise, organizations have limited attention available to search and process evidence,
+where attention is defined as the“noticing, encoding, interpreting, and focusing of time and
+effort by organizational decision makers on both (a) issues [… ] and (b) answers” (Ocasio,
+1997). Firms faced with“too much data and not enough information,” compel organizational
+decision makers to“oversimplify to deal with overload” (Matheson and Matheson, 1998).
+The focus of attention is important for discovery, innovation, and strategic action. For
+instance, both the total number of sources, and the number of sources across several
+knowledge types used exhibit an inverted-U shaped relationship with corporate innovation
+(Laursen and Salter, 2006)– search breadth alone itself doesn’t yield more robust attention.
+Organizations may also have influential individuals or sub-systems that attend to certain
+types of evidence more than others, leading the organization, through socio-behavioral
+Evidence-
+based
+management
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=7>>>
+drivers, to privilege that evidence in rhetorical justification to the exclusion of others. In this
+case, the evidence similarly becomes unavailable to decision makers.
+Uncertainty, and how an individual, or a community of individuals, comes to know the
+unknown remain the motivating issues. On this, Rousseau (2016) commented in an online
+group discussion on EBMgt:“I would bet (really) that [EBMgt] practice will lead to greater
+diversity of decision processes as practi tioners come to recognize the degree of
+uncertainty that actually exists in management decisions. Thus I would expect differences
+in processes used to deal with low uncertaintydecisions vs high uncertainty decisions and
+whatever is in between. ” Understanding how such processes vary depends on how
+“bestness,” in addition to availability, is interp reted, and how the dynamics of each
+conceptualization affects practice.
+4. Best as rank or fit
+As a thought experiment, assume that a“best” set of evidence for a decision existed. How
+would you know what is was? How would you compile it?
+Two immediate interpretations come to mind. First, consider an interpretation which
+evaluates “bestness” according to a hierarchy of evidence. This ranking perspective would
+imply that a certain type of evidence, or perhaps evidence generated by certain processes,
+will rank higher or lower in its capacity to support truth claims.
+Best has traditionally been established with an underlying assumption of logos (i.e. an
+appeal to the strength and consistency in logical argument), with the “best” evidence
+meeting the epidemiological standard of the randomized controlled trial (RCT). However,
+where evidence is better, it is also worse. In evidence-based medicine, virtually all
+institutional reviewers of evidence (i.e. USPSTF, ICSI, SORT, GRADE, Oxford Center) grade
+expert assessment as the lowest strengt h of evidence. The problem with this
+characterization in socio-behavioral settings is twofold.
+First, consider the example of a “parachute approach to evidence-based medicine”
+(Potts et al., 2006), referring to an earlier tongue-in-cheek article calling for an RCT to
+establish definitively whether parachute use prevents trauma due to “gravitational
+challenge.” This view advocates making policy decisions on“good science” even when
+RCTs are unavailable. In health research, circumspection about the RCT has manifested as
+the “real-world evidence” (RWE) movement, which promotes evidence gathered“in clinical
+care and home or community settings as opposed to research intensive or academic
+environments” (Sherman et al., 2016). Potential sources of data expand to claims data,
+disease registries and health-monitoring devices (FDA, 2018). Yet, using only codified
+sources of evidence assumes they can act as substitutes for non-codifiable types of
+knowledge in the rhetoric of decision making. Moreover, the strength of evidence is one of
+many considerations including the fiscal and sociopolitical climate within which
+governments, institutions and communities operate (Tanget al., 2003).
+Second, evidence derives its potency from the knowledge it represents, and knowledge is
+theory-laden and embedded in the language and rhetoric of a given paradigm of inquiry
+(Kuhn, 1962). The ranking approach privileges experimentally collected, codifiable, and
+quantifiable knowledge about causal efficacy. Yet, knowledge takes various forms ranging
+from the nature of relationships between variables to a pragmatic understanding about
+implementation, and can be categorized along several useful dimensions such as publicness,
+tacitness and codifiability. Researchers have characterized a larger typology of knowledge
+types important to the EBMgt process, which include knowledge about the relationships
+between values and policy directions (i.e. know why) and knowledge about how to build and
+engage alliances for action (i.e. know who) (Ekblom, 2002; Nutleyet al.
+, 2003; Gasson, 2005).
+Probably the best known of these knowledge types is the individual, tacit, and
+qualitative form of “know-how” (namely. expertise), which draws on Polanyi’s (1962)
+MD
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=8>>>
+explication of tacit knowledge. In the case of experts, classifying their guidance as“low
+quality” is misclassifying the role that they play in decision making. Experts are often
+expected to engage in prediction– yet research suggests that experts are no better than
+non-experts in prediction and making judgments outside of their domain, as evidenced by
+their poor long-term forecasting (Tetlock, 2017) and“fractionated expertise” (Kahneman and
+Klein, 2009). Instead, experts play a crucial role in decision making by providing“valuable and
+reliable information on the state of the knowledge in their field, how to solve problems, and on
+the certainty of their answers” (Meyer and Booker, 2001). This tacit, background knowledge
+also “allows individuals to limit the factors which they consider to be important in a decision,”
+to systematically structure them, and to discriminate among information (Bennett, 1998).
+Experts also use“fast and frugal” heuristics to process information (Gigerenzer and Goldstein,
+1996), and are able to define a problem space and focus attention to its features (Chisholm,
+1995), reducing the parameters considered in problem formulation.
+Proponents of a realist EBMgt platform offer a twofold response, thereby settling the
+debate about “bestness” as rank alone. First, call the process not evidence-based, but
+evidence-informed, to reinforce that decision makers must incorporate judgement. Second,
+forego a strict ranking perspective, widening the notion of evidence to incorporate a
+portfolio. For instance, a given portfolio might consist of“four sources of information:
+practitioner expertise and judgment, evidence from the local context, a critical evaluation of
+the best available research evidence, and the perspectives of those people who might be
+affected by the decision” (Briner et al., 2009).
+The portfolio is an excellent insight into the problem, but seems to be incomplete in terms
+of what is “best.” Increasing the amount of evidence within a given type leaves “the
+disturbing possibility that when people experience uncertainty and gather information to
+reduce it, this often backfires, and uncertainty increases” (Dörner, 1996, quoted in Weick,
+2001). In other words, more information is not always better– a knowledge regulation
+structure is necessary to control epistemic uncertainty.
+Second, consider an interpretation which evaluates“bestness” according to the exactness of
+fit between a situation at a point in time and the evidence compiled for that situation. This
+contingency perspective would imply that the true conditions associated with decision making,
+such as the“congruence between properties of knowledge, properties of units, and properties of
+relationships between units” (Argote et al., 2003) are known with enough certainty.
+Researchers associated with the Research Unit on Research Utilization at the University
+of St Andrews have modeled the problem in such a way (see e.g. Nutleyet al., 2007). In this
+framework, studies of organizational implementation successes and failures are aggregated
+by disciplinary application to suggest combinations of organizational, individual,
+evidentiary, source, and search factors that promote high performance. Although
+reasonable under stable conditions, this approach becomes problematic under more
+turbulent conditions. Consider that finding the right evidence to support actions given a
+contingency of multiple social factors depends on knowing what those factors are, and
+whether and when they are permanent or changing features. When epistemic uncertainty is
+the highest, the organization is least likely to be able to determine and adequately manage at
+least some of the necessary factors of contingency.
+From what is known about the role of evidence in decision making, the conditions to
+specify fit are extensive, including, at a minimum, the characteristics of:
+ the evidence itself, including its ability to represent and control aspects of the world
+and its stickiness/transferability in an organizational context;
+ the evidence source, with special emphasis on legitimacy, status and network position;
+ the organizational search routines and procedures related to evidence search
+and incorporation;
+Evidence-
+based
+management
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=9>>>
+ the decision at hand, especially whether focused on discovery (e.g. strategy/
+innovation/non-routine) or justification (e.g. operational/routine);
+ the decision makers, including their professional affiliation and dispositional factors
+(e.g. integrative complexity);
+ the organization’s capability to translate evidence into action, such as culture, formal
+structure, and absorptive capacity; and
+ the severity of the outcome errors that might accrue after an EBMgt process,
+particularly the immediacy and reversibility of results and the interdependence
+between target organizational or environmental components.
+In short, the contingency solution is likely as difficult to specify as the problem itself, and
+the tension between exploration and exploitation looms.
+When the above conditions are clear, the contingency framework could be sufficient, and
+perhaps even preferable, to produce the best evidence for management. However, for
+conditions to be clear, the environment of the evidence use should be relatively stable
+(i.e. low turbulence) and the attendant uncertainty surrounding the decision relatively low.
+Yet, the often relatively unstable setting of healthcare presents the need for an intricate
+attention-orienting mechanism that both respects the social nature of evidence and the
+reflexivity necessary to characterize a decision and its environment.
+5. Best as variety
+Uncertainty is a special concept which is prone to confusion in common usage, and its
+character has important consequences for the manner in which an organization registers its
+potential severity and the strategies to be enacted. In strict logical usage, uncertainty refers
+to the “absence [or] insufficiency of a certain kind of knowledge,” and is distinct from
+vagueness and inexactness (Mattesich, 1978). Wallsten and Budescu (1995) note that
+uncertainty takes two forms: it may be“due to external, quantifiable, sources of random
+variation (aleatory), or to internal sources such as imperfect, or incomplete, information
+(epistemic).” If the uncertainties affecting organizations are aleatory, then faster, higher
+quality collection of technical data and more adept statistical analysis are the key features in
+characterizing solutions. However, if the uncertainty is of an epistemic character, then the
+absence or insufficiency of particular knowledge, and the nature of knowledge in forming
+opinion and providing foundation and value are critical features in determining how an
+organization should represent and respond to environmental threats (Quiggin, 1993).
+Improving performance in organizations requires contending with both forms of
+uncertainty. The promise of the received version of EBMgt appears to largely focus on the
+reduction of aleatory uncertainty through the accumulation of evidence– an issue roughly
+akin to Pfeffer and Sutton ’s (1999) “knowing-doing” gap. In terms of performance
+improvement, the contingency framework seems most applicable when decisions are
+relatively algorithmic and programmable.
+However, when the conditions are unclear or if the decision makers are unsure whether the
+conditions are clear, then relying on the contingency specification of EBMgt becomes
+problematic. The problem is not merely an issue of bounded rationality, but derives from the
+mathematics of diversity and the epistemological problem of the underspecification of theories
+by evidence. To the extent that we know what drives performance,“we should select the best
+collection on the basis of that information [… ] [however,] if we are not sure of what we’re
+doing, we should err toward greater diversity” (Page, 2011), particularly“on complex tasks
+that involve multiple dimensions or variables” (Page, 2017). The challenge of identifying
+which parameters should be incorporated in an EBMgt strategy suggests a different solution.
+Drawing from the cybernetic tradition, this paper extends a third interpretation of“bestness.”
+MD
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=10>>>
+5.1 Insights from the cybernetics movement
+Starting in 1942, a series of interdisciplinary meetings between anatomists, psychologists,
+philosophers and social scientists sought to reconcile insights on how organizations exist in
+relation to and under the constraints of complex systems (Dupuy, 2000). The field was
+dubbed cybernetics, deriving from the ancient Greek“Κυβερνήτης” (helmsman), a term
+related to steering, ruling and government. In addressing the way in which organisms
+self-regulate in complex environments, the cyberneticists became fascinated with the way in
+which organizations sense, measure, and respond to the diversity of constraints the
+environment posed. Drawing on Norbert Weiner’s work on how living systems exhibit
+control functions and Claude Shannon ’s theorem on disturbance in communication
+channels, W. Ross Ashby (1956) proposed the law of requisite variety, which posited that
+only a variety in responses can“destroy” the variety in disturbances. His great insight was
+to focus on the notion of the variety of states and its consequences to a system’s regulation
+of diverse environmental disturbances. From that insight, it should follow that creating and
+retaining diversity in knowledge types is a key way of increasing the organizational
+capacity to recognize relevant patterns of information from the environment.
+In the above sections, this paper suggested that making inferences is a social process, and
+that knowledge, and not evidence or information, should be the focus of EBMgt. Extending
+such arguments through a requisite variety lens evokes Buckley’s (1968/2008) suggestion:
+The concept of requisite deviation needs to be proffered as a high-level principle that can lead us to
+theorize: a requisite of socio-cultural systems is the development and maintenance of a significant
+level of non-pathological deviance manifest as a pool of alternate ideas and behaviors with respect
+to the traditional institutionalized ideologies and role behaviors.
+In socio-cultural systems, Buckley (1968/2008) argues that an organization can control
+external variety by acquiring regulatory features, such as information, that allow it to
+discriminate, act upon, and respond to its environment. The cybernetic view of an
+organization interacting with an open, complex environment is predicated on the
+conceptualization of a social system as a “set of elements linked almost entirely by
+the intercommunication of information” (Zaltman et al., 1973). A study of general systems
+by complexity suggests that social systems are distinguished by the fact that
+“symbol-processing actors who share a common social order organize information
+from the environment into a knowledge structure ” (Anderson, 1999; Boulding, 1956).
+In socio-cultural systems, subjective knowledge structures are formed interpersonally, and
+these form the regulatory mechanisms by which organizations discriminate, act upon, and
+respond to uncertainty in the environment. EBMgt can function as that technology which
+aims to reduce organizational uncertainty.
+The exchange of organizational knowledge requires shared mental models, and the
+“ability to define relevant knowledge-domains is essential for collaborative sensemaking”
+(Gasson, 2005). Mental models are collective cognitive representations that range from a
+distributed configuration of representati ons with no overlap between individuals, to
+overlapping representations, to identical rep resentations among individuals (Klimoski
+and Mohammed, 1994). Maintaining a varietyof knowledge types ensures that they are
+available to decision makers as a “consensually validate dg r a m m a rf o rr e d u c i n g
+equivocality, ” where equivocality is defined as“the multiplicity of meanings which can be
+imposed on a situation ” (Weick, 1979). The organizational complexity retained by
+maintaining a diverse set of regulatory knowledge states can be conceived of as a
+“solution for a problem yet to be described” (Ahlemeyer, 2001). Cognitive diversity in
+particular increases perspective taking and“improves outcomes whenmaking predictions
+and solving problems” (Page, 2017). In other words, the variety of knowledge governs the
+sense made in sensemaking.
+Evidence-
+based
+management
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=11>>>
+The aim of pursuing variety in EBMgt is not only to ensure that individuals share and
+reconcile relevant knowledge, but also to prevent the circumstance where regulators (i.e. people)
+systematically notice and represent problems in the same way. Compiling more evidence does
+not necessarily imply compiling a wider range of knowledge types. Likewise, compiling
+evidence across a portfolio does not necessarily imply a balanced distribution of types across
+the decision makers in the organization. Individuals specialized to focus on one knowledge type
+devote their attention to perceiving one element of the uncertainty that they apprehend, which,
+under the logic of appropriateness, creates an organizational attention issue. In the context of
+reducing epistemic uncertainty, variety assists the organization in balancing the“valuation and
+legitimization of issues and answers” (Ocasio, 1997) across the knowledge types, reducing the
+danger of becoming anchored or directing too much attention to a particular framing.
+In the healthcare setting, technical evidence (i.e. quantified, codified) displays
+extraordinary rhetorical power to frame issues and drive decision making. Without
+dedicated effort, the organization ’s attention might naturally drift toward these
+justifications. To prevent this drift, decision makers can ensure the incorporation of other
+forms of knowledge through processes of collaborative sensemaking. By enforcing the
+reconciliation of arguments across knowledge types, management can ensure that the
+technical rhetoric doesn’t crowd out relevant knowledge. Under highly routine decisions or
+given a stable environment, expanding one type of evidence or merely accruing perspective
+from a given stakeholder may suffice. However, under unclear conditions, the diversity
+benefits of knowledge can only accrue through argument and discussion across individuals.
+Table II presents an illustration of a knowledge typology as applied to a decision to
+implement a given safety culture intervention in a hospital setting. Note that each
+knowledge type confers a different perspective on the potential intervention. Consistent
+with the sociotechnical embeddedness of knowledge in evidence, it is insufficient to slot one
+source into one type of knowledge; rather each source presents every type of knowledge,
+and decision makers together ascertain their value.
+Category of
+knowledge Definition Example
+Incorporating and
+reconciling
+Know about
+problems
+The nature, formulation, natural
+history and interrelations of social
+problems
+Definition of safety culture and
+the mechanisms by which it
+affects communication in groups
+Concepts
+Research definitions
+and mechanisms
+Know why
+(you might
+implement a
+change)
+Explaining the relationship
+between values and policy
+directions
+Symbolic, emotional, ethical and
+cultural meaning of enacting a
+safety culture intervention
+Stories
+Explanations of why
+it is important to
+change
+Know what
+(has worked)
+What policies, strategies or
+specific interventions have
+brought about desired outcomes,
+at acceptable costs and with few
+enough unwanted consequences
+Existing safety culture
+interventions, such as training
+sessions, that have produced
+desired outcomes
+Exemplars
+The things that have
+worked elsewhere
+Know how (to
+put a change
+into practice)
+Pragmatic knowledge about
+program implementation
+How to practically implement
+and evaluate an effective safety
+culture-focused intervention
+Skills
+The know-how to
+solve problems
+Know who (to
+involve)
+Building alliances for action Internal and external
+collaborators to advise and
+support a given safety culture
+intervention
+Networks
+People who can advise
+and support
+Notes: Table content developed based on Ekblom (2002), Gasson (2005), Nutleyet al.(2007) and Martelli (2012)
+Table II.
+Knowledge typology
+illustration
+MD
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=12>>>
+6. Conclusion
+Lack of agreement about the fundamental nature of EBMgt has led to an impasse between
+proponents who take the endeavor as an inevitable, incremental, and realist approach to
+decision making and opponents who argue from a constructivist, learning, and power/politics
+perspective. This impasse prevents an extension of argumentation beyond“use more” vs
+“watch out.” While systematic reviews and empirical barriers remain important, more
+rigorous research evidence and larger catalogues of contingency factors are themselves
+insufficient to solve underlying sociopolitical concerns. Likewise, current critiques could
+benefit from theoretical bridges that not only reinforce learning and sensemaking in real
+organizations, but also build on the spirit of the project and progress made towards better
+managerial decision making. This paper proposes a pragmatic framework to move beyond
+the impasse, refocusing the discussion on variety of knowledge while respecting the
+meaningful critiques by each side.
+By arguing from variety, this paper suggests that the“best available evidence” can be
+generated by ensuring that a broad range of knowledge types is elicited from and reconciled
+across individuals. Maintaining knowledge regulation states allows the organization to
+manage attention and balance the valuation and legitimization from mechanism,
+implementation, and policy knowledge.
+For practitioners, this paper appreciates that organizational“decision-makers generally
+don’t seek evidence, they seek an answer to their question” (Martelli, 2012). As a result,
+EBMgt can be a disappointingly loose guide for decision makers, because it “does
+not prescribe the kind of evidence, how to obtain it, or what decisions should be made”
+(Rundall and Kovner, 2009). Under the best of circumstances, when parameters are known
+and fixed, finding and applying the“best” evidence is elusive. However, under turbulent or
+otherwise nebulous conditions, expecting practitioners to well-specify the characteristics of
+their particular decision process is untenable. Additionally, it highlights the tension inherent
+in the role of EBMgt in the complex service organizations of healthcare, where the technical
+decision processes of healthcare management are distinct from technical decision processes
+governing the delivery of the healthcare product.
+The benefits to decision making should accrue when a diverse team reconciles
+evidence for or against a course of action across each knowledge type. A simple
+managerial intervention might be to distribute a structured evidence collection form,
+which would be completed by all attendees prior to an administrative meeting. The form
+requires each attendee to compile and arrange evidence about a given decision on the
+agenda within each type (e.g. know what, know why). For example, the CMO and CNO of
+a hospital each presents evidence for a safety culture intervention, justifying their
+perspective by reconciling evidence gathered within each of the knowledge types. Where
+evidence is lacking in a type, attendees could critically examine the reasons for the
+deficiency; where it is unusually abundant, attendees could consider whether it is
+confirmatory or deceptive.
+This is not duplication; it is a critical way to leverage the power of diversity to reduce
+epistemic uncertainty by eliciting tacit information, giving voice to individuals and
+viewpoints that are less precise, technical,or aligned with the powerful, and preventing
+drift of organizational attention away from weak signals. Potentially, a Chief Evidence
+Officer could be responsible forsupporting the collection and reconciliation of evidence to
+that end.
+For researchers, this paper argues that EBMgt is not merely a managerial tool, but rather
+a technology“situated in culture and embedded in history” ( Jasanoff, 2012). Consequent to
+the relationship between uncertainty, complexity, and diversity, the“bestness” of evidence
+is not determined through either rank or fit, but rather through variety. As social systems
+are open and dynamic, the best evidence is likely to vary as the problems specified and
+Evidence-
+based
+management
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=13>>>
+solutions desired themselves vary. This analysis places EBMgt in the tradition of the
+cybernetic regulation of social systems and the rational decision logic of appropriateness.
+Further research might make better use of existing cognitive diversity measures, such as
+interpretive ambiguity (Kilduff et al., 2000) and knowledge heterogeneity (Rodan and
+Galunic, 2004), to examine variety in EBMgt. In this way, it may be possible to explore how
+an organization’s attention is misdirected to one or another type of evidence, leading to
+potential strategic errors. One such concept is a Type III error, or the probability of resolving
+at the expense of solving a problem, or of“solving the‘wrong’ problem precisely” (Mitroff
+and Featheringham, 1976). A second is the overadoption of innovation, or the assumption
+that “to adopt innovations is desirable behavior and to reject innovations is less desirable
+[… ] [which] may not be true. Overadoption often results from insufficient knowledge;
+overadopters perceive the innovation as a panacea” (Rogers, 1962). Overadoption could stem
+from the implementation of“best practices” without social and contextual knowledge– a
+process observed in healthcare management (Arndt and Bigelow, 1992; Deniset al., 2002;
+Kaissi and Begun, 2008).
+A critical goal of the EBMgt movement should be to help organizations develop and
+maintain a common, or at least commonly understood, mental model for strategic decision
+making. This is especially true with respect to strategic improvement initiatives in
+healthcare, where prior research has shown the significance of knowledge intermediaries,
+particularly consulting groups su ch as The Advisory Board and Sg2, in “compiling
+evidence, developing alternatives, or managing implementation” (Martelli, 2012). Under a
+bevy of constraints to assessing contingenc y factors, organizations adopting these
+standardized “management bundles ” risk falling into overadoption and innovation
+failures, as the diffusion of surgical checklists attests (e.g. Dixon-Woods et al., 2011).
+Considering the “best available evidence” as variety offers a promising resolution, both
+practically and theoretically.
+The field of EBMgt has made great strides both in convincing practitioners to use
+evidence and in tempering that drive with warnings about potential misapplications.
+Resolving the impasse, rather than repeating it, will require developing new foundations
+and strategies for the project.
+References
+Ahlemeyer, H.W. (2001), “Management by complexity: redundancy and variety in organizations”,
+in Geyer, R.F. and van der Zouwen, J. (Eds),Sociocybernetics, Greenwood Press, Westport, CT,
+pp. 59-71.
+Anderson, P. (1999),“Complexity theory and organization science”, Organization Science, Vol. 10 No. 3,
+pp. 216-232.
+Argote, L., McEvily, B. and Reagans, R. (2003),“Managing knowledge in organizations: an integrative
+framework and review of emerging themes”, Management Science, Vol. 49 No. 4, pp. 571-582.
+Arndt, M. and Bigelow, B. (1992),“Vertical integration in hospitals: a framework for analysis”, Medical
+Care Review, Vol. 49 No. 1, pp. 93-115.
+Arndt, M. and Bigelow, B. (2009), “Evidence-based management in health care organizations: a
+cautionary note”, Health Care Management Review, Vol. 34 No. 3, pp. 206-213.
+Ashby, W.R. (1956),An Introduction to Cybernetics, Chapman & Hall, London.
+Baba, V.V. and HakemZadeh, F. (2012), “Toward a theory of evidence based decision making”,
+Management Decision, Vol. 50 No. 5, pp. 832-867.
+Balsiger, J. (2016),“Logic of appropriateness”, Encyclopædia Britannica.
+Barends, E., Rousseau, D.M. and Briner, R.B. (2014), “Evidence-based management: the basic
+principles”, Center for Evidence-Based Management, Amsterdam.
+MD
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=14>>>
+Begun, J.W., Zimmerman, B. and Dooley, K. (2003),“Health care organizations as complex adaptive
+systems”, in Mick, S.S. and Wyttenbach, M.E. (Eds),Advances in Health Care Organization
+Theory, Jossey-Bass, San Francisco, CA, pp. 253-288.
+Bennett, R.H. III (1998),“The importance of tacit knowledge in strategic deliberations and decisions”,
+Management Decision, Vol. 36 No. 9, pp. 589-597.
+Boulding, K.E. (1956),“General systems theory: the skeleton of science”, Management Science, Vol. 2
+No. 3, pp. 197-208.
+Briner, R.B., Denyer, D. and Rousseau, D.M. (2009),“Evidence-based management: concept cleanup
+time?”, Academy of Management Perspectives, Vol. 23 No. 4, pp. 19-32.
+Brint, S. (2001),“Professionals and the knowledge economy: rethinking the theory of postindustrial
+society”, Current Sociology, Vol. 49 No. 4, pp. 101-132.
+Buckley, W. (1968/2008), “Society as a complex adaptive system ”, Emergence: Complexity and
+Organization, Vol. 10 No. 3, pp. 86-112.
+Charon, R. and Wyer, P. (2008),“Narrative evidence based medicine”, The Lancet, Vol. 371 No. 9609,
+pp. 296-297.
+Chisholm, D. (1995), “Problem solving and institutional design”, Journal of Public Administration
+Research and Theory, Vol. 5 No. 4, pp. 451-492.
+Cunliffe, A.L. (2003),“Reflexive inquiry in organizational research: questions and possibilities”, Human
+Relations, Vol. 56 No. 8, pp. 983-1003.
+Cunliffe, A.L. and Jun, J.S. (2005),“The need for reflexivity in public administration”, Administration &
+Society, Vol. 37 No. 2, pp. 225-242.
+Denis, J.L., Hebert, Y., Langley, A., Lozeau, D. and Trottier, L.H. (2002),“Explaining diffusion patterns
+for complex health care innovations”, Health Care Management Review, Vol. 27 No. 3, pp. 60-73.
+Dixon-Woods, M., Bosk, C.L., Aveling, E.L., Goeschel, C.A. and Pronovost, P.J. (2011),“Explaining
+Michigan: developing an ex post theory of a quality improvement program”, Milbank Quarterly,
+Vol. 89 No. 2, pp. 167-205.
+Donaldson, S.I. (2009),“In search of the blueprint for an evidence-based global society”, in Donaldson,
+S.I., Christie, C.A. and Mark, M.M. (Eds),What Counts as Credible Evidence in Applied Research
+and Evaluation Practice?, Sage Publications, Los Angeles, CA, pp. 2-18.
+Dörner, D. (1996), The Logic of Failure: Recognizing and Avoiding Error in Complex Situations,
+Metropolitan Books, New York, NY.
+Dupuy, J.-P. (2000),The Mechanization of the Mind, Princeton University Press, Princeton, NJ.
+Edmondson, A.C. (2010),“Mapping the failure landscape: process deviations, system breakdowns and
+unsuccessful trials as sources of improvement, problem solving and innovation in teams”, paper
+presented at the 3rd International HRO Conference, New Orleans, LA, January 9– 10.
+Ekblom, P. (2002), “From the source to the mainstream is uphill: the challenge of transferring
+knowledge of crime prevention through replication, innovation and anticipation”, in Tilley, N.
+(Ed.), Analysis for Crime Prevention, Crime Prevention Studies, Vol. XIII, Criminal Justice Press,
+Monsey, NY, pp. 131-203.
+Food & Drug Administration (2018), “Real world evidence ”, available at: www.fda.gov/
+ScienceResearch/SpecialTopics/RealWorldEvidence/default.htm (accessed February 25, 2018).
+Frederickson, H.G. and Smith, K.B. (2003),The Public Administration Theory Primer, Westview Press,
+Boulder, CO.
+Garman, A.N., Leach, D.C. and Spector, N. (2006),“Worldviews in collision: conflict and collaboration
+across professional lines”, Journal of Organizational Behavior, Vol. 27 No. 7, pp. 829-849.
+Gasson, S. (2005), “The dynamics of sensemaking, knowledge, and expertise in collaborative,
+boundary-spanning design”, Journal of Computer-Mediated Communication, Vol. 10 No. 4,
+available at: https://academic.oup.com/jcmc/article/10/4/JCMC1049/4614479#
+Evidence-
+based
+management
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=15>>>
+Gigerenzer, G. and Goldstein, D.G. (1996),“Reasoning the fast and frugal way: models of bounded
+rationality”, Psychological Review, Vol. 103 No. 4, pp. 650-669.
+Gore, J., Banks, A., Millward, L. and Kyriakidou, O. (2006), “Naturalistic decision making
+and organizations: reviewing pragmatic science ”, Organization Studies , Vol. 27 No. 7,
+pp. 925-942.
+Jasanoff, S. (2012),“Genealogies of STS”, Social Studies of Science, Vol. 43 No. 3, pp. 435-441.
+Kahneman, D. and Klein, G. (2009),“Conditions for intuitive expertise: a failure to disagree”, American
+Psychologist, Vol. 64 No. 6, pp. 515-526.
+Kaissi, A.A. and Begun, J.W. (2008),“Fads, fashions, and bandwagons in healthcare strategy”, Health
+Care Management Review, Vol. 33 No. 2, pp. 94-102.
+Keller, A.C. (2009), “Credibility and relevance in environmental policy: measuring strategies and
+performance among science assessment organizations ”, Journal of Public Administration
+Research and Theory, Vol. 20 No. 2, pp. 357-386.
+Kilduff, M., Angelmar, R. and Mehra, A. (2000), “Top management team diversity and firm
+performance: examining the role of cognitions”, Organization Science, Vol. 11 No. 1, pp. 21-34.
+Klimoski, R. and Mohammed, S. (1994),“Team mental model: construct or metaphor?”, Journal of
+Management, Vol. 20 No. 2, pp. 403-437.
+Kovner, A.R. and Rundall, T.G. (2006), “Evidence-based management reconsidered”, Frontiers of
+Health Services Management, Vol. 22 No. 3, pp. 3-22.
+Kovner, A.R., Elton, J.J. and Billings, J. (2000),“Evidence-based management”, Frontiers of Health
+Services Management, Vol. 16 No. 4, pp. 3-24.
+Kuhn, T. (1962),The Structure of Scientific Revolutions, Chicago University Press, Chicago, IL.
+Laursen, K. and Salter, A. (2006),“Open for innovation: the role of openness in explaining innovation
+performance among UK manufacturing firms”, Strategic Management Journal, Vol. 27 No. 2,
+pp. 131-150.
+Learmonth, M. and Harding, N. (2006), “Evidence-based management: the very idea ”, Public
+Administration, Vol. 84 No. 2, pp. 245-266.
+Mankelwicz, J. and Kitahara, R. (2008), “Propositions to guide evidence-based decision-making”,
+Journal of Business Economics & Research, Vol. 6 No. 10, pp. 41-56.
+Martelli, P.F. (2012),An Argument for Knowledge Variety in Evidence-Based Management, University
+of California Berkeley, Berkeley, CA.
+Matheson, D. and Matheson, J. (1998),The Smart Organization, HBS Press, Cambridge, MA.
+Mattesich, R. (1978),Instrumental Reasoning and Systems Methodology, Reidel Publishing, Boston, MA.
+Meyer, M.A. and Booker, J.M. (2001),Eliciting and Analyzing Expert Judgment, Society for Industrial
+Mathematics, Philadelphia, PA.
+Mitroff, I.I. and Featheringham, T.R. (1976),“Towards a behavioral theory of systemic hypothesis-
+testing and the error of the third kind”, Theory and Decision, Vol. 7 No. 3, pp. 205-220.
+Morrell, K. and Learmonth, M. (2015), “Against evidence-based management, for management
+learning”, Academy of Management Learning & Education, Vol. 14 No. 4, pp. 520-533.
+Mowles, C. (2011), Rethinking Management: Radical Insights from the Complexity Sciences ,
+Gower Press, Burlington, VT, pp. 17-20.
+Nutley, S.M., Walter, I. and Davies, H.T.O. (2003), “From knowing to doing: a framework for
+understanding the evidence-into-practice agenda”, Evaluation, Vol. 9 No. 2, pp. 125-148.
+Nutley, S.M., Walter, I. and Davies, H.T.O. (2007),Using Evidence: How Research Can Inform Public
+Services, The Policy Press, Bristol.
+Ocasio, W. (1997), “Towards an attention-based view of the firm”, Strategic Management Journal,
+Vol. 18 No. S1, pp. 187-206.
+MD
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=16>>>
+Oxford English Dictionary (1989), “evidence, n”, 2nd ed., available at: www.oed.com/oed2/00079136
+(accessed July 18, 2018).
+Page, S.E. (2011),Diversity and Complexity, Princeton University Press, Princeton, NJ.
+Page, S.E. (2017),The Diversity Bonus, Princeton University Press, Princeton, NJ.
+Pfeffer, J. and Sutton, R.I. (1999),The Knowing-Doing Gap: How Smart Companies Turn Knowledge
+Into Action, HBS Press, Cambridge, MA.
+Pfeffer, J. and Sutton, R.I. (2006),“Evidence-based management”, Harvard Business Review, Vol. 84
+No. 1, pp. 62-74.
+Plsek, P.E. and Greenhalgh, T. (2001),“The challenge of complexity in health care”, British Medical
+Journal, Vol. 323 No. 7314, pp. 625-628.
+Polanyi, M. (1962),“Tacit knowing: its bearing on some problems in philosophy”, Reviews of Modern
+Physics, Vol. 34 No. 4, pp. 601-616.
+Potts, M., Prata, N., Walsh, N. and Grossman, A. (2006),“Parachute approach to evidence based
+medicine”, British Medical Journal, Vol. 333 No. 7570, pp. 701-703.
+Quiggin, J. (1993), Generalized Expected Utility Theory: The rank-dependent model ,K l u w e r
+Academic Publishers, Boston, MA.
+Quiggin, J. (2004),“The precautionary principle and the theory of choice under uncertainty”, working
+paper, University of Queensland, Brisbane, 11 January.
+Rodan, S. and Galunic, D.C. (2004), “More than network structure: how knowledge heterogeneity
+influences managerial performance and innovativeness”, Strategic Management Journal, Vol. 25
+No. 6, pp. 541-562.
+Rogers, E.M. (1962),Diffusion of Innovations, Free Press of Glencoe, New York, NY.
+Rousseau, D. (2016),“Evidence-based management”, available at: https://groups.google.com/forum/#!
+topic/evidence-based-management/t1G08LUIu7Y (accessed September 10, 2017).
+Rousseau, D.M. (2006), “Is there such a thing as ‘evidence-based management?’”, Academy of
+Management Review, Vol. 31 No. 2, pp. 256-269.
+Rundall, T.G. and Kovner, A.R. (2009),“Evidence-based management reconsidered: 18 months later”,
+in Kovner, A.R., Fine, D. and D’Aquila, R. (Eds), Evidence-based Management in Healthcare,
+Health Administration Press, Chicago, IL, pp. 79-82.
+Rundall, T.G., Martelli, P.F., McCurdy, R., Graetz, I., Arroyo, L., Neuwirth, E.B., Curtis, P., Schmittdiel, J.,
+Gibson, M. and Hsu, J. (2009),“Using research evidence when making decisions: views of health
+services managers and policymakers”, in Kovner, A., D’Aquila, R. and Fine, D. (Eds),Evidence-
+based Management in Healthcare, Health Administration Press, Chicago, IL, pp. 3-16.
+Rynes, S.L. and Bartunek, J.M. (2017), “Evidence-based management: foundations, development,
+controversies and future”, Annual Review of Organizational Psychology and Organizational
+Behavior, Vol. 4 No. 1, pp. 235-261.
+Rynes, S.L., Rousseau, D.M. and Barends, E. (2014),“From the guest editors: change the world: teach
+evidence-based practice!”, Academy of Management Learning & Education, Vol. 13 No. 3, pp. 305-321.
+Sherman, R.E., Anderson, S.A., Dal Pan, G.J., Gray, G.W., Gross, T., Hunter, N.L., LaVange, L.,
+Marinac-Dabic, D., Marks, P.W., Robb, M.A. and Shuren, J. (2016),“Real-world evidence– what is
+it and what can it tell us”, The New England Journal of Medicine, Vol. 375 No. 23, pp. 2293-2297.
+Tang, K.C., Ehsani, J.P. and McQueen, D.V. (2003),“Evidence-based health promotion: recollections,
+reflections, and reconsiderations”, Journal of Epidemiology and Community Health, Vol. 57
+No. 11, pp. 841-843.
+Tetlock, P.E. (2017),Expert Political Judgment, Princeton University Press, Princeton, NJ.
+Turner, S. (2004),“Quasi-science and the state”, in Stehr, N. (Ed.),Governing Science in Comparative
+Perspective, Transaction Publications, New Brunswick, NJ, pp. 241-268.
+Wallsten, T.S. and Budescu, D.V. (1995),“A review of human linguistic probability processing: general
+principles and empirical evidence”, Knowledge Engineering Review, Vol. 10 No. 1, pp. 43-62.
+Evidence-
+based
+management
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)
+<<<PAGE=17>>>
+Walshe, K. and Rundall, T.G. (2001),“Evidence-based management: from theory to practice in health
+care”, Milbank Quarterly, Vol. 79 No. 3, pp. 429-457.
+Weick, K.E. (1979),The Social Psychology of Organizing, 2nd ed., Addison-Wesley, Reading, MA.
+Weick, K.E. (2001), “Gapping the relevance bridge: fashions meet fundamentals in management
+research”, British Journal of Management, Vol. 12 No. S1, pp. S71-S75.
+Zaltman, G., Duncan, R. and Holbek, J. (1973),Innovations and Organizations, John Wiley & Sons,
+New York, NY.
+Corresponding author
+Peter F. Martelli can be contacted at: pmartelli@suffolk.edu
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details:permissions@emeraldinsight.com
+MD
+Downloaded by Suffolk University At 12:09 01 August 2018 (PT)

@@ -1,0 +1,1423 @@
+<<<PAGE=1>>>
+Please cite the Published Version
+Lai, Y anqing
+ , Garavan, Thomas, McCarthy, Alma, Sheehan, Maura, Carbery, Ronan and Mur-
+phy, Kevin (2021) Training and Organizational Performance: A Meta-Analysis of Temporal, Insti-
+tutional and Organizational Context Moderators. Human Resource Management Journal, 31 (1).
+pp. 93-119. ISSN 0954-5395
+DOI: https://doi.org/10.1111/1748-8583.12284
+Publisher: Wiley
+Version: Accepted Version
+Downloaded from:https://e-space.mmu.ac.uk/624801/
+Usage rights:
+ In Copyright
+Additional Information:This is an Author Accepted Manuscript of a paper accepted for publica-
+tion in Human Resource Management Journal, published by and copyright Wiley.
+Enquiries:
+If you have questions about this document, contact openresearch@mmu.ac.uk. Please in-
+clude the URL of the record in e-space. If you believe that your, or a third party’s rights have
+been compromised through this document please see our Take Down policy (available from
+https://www.mmu.ac.uk/library/using-the-library/policies-and-guidelines)
+<<<PAGE=2>>>
+1 
+ 
+Training and Organizational Performance: A Meta-Analysis of Temporal, Institutional 
+and Organizational Context Moderators 
+ 
+ABSTRACT (150 words max) 
+Drawing on systems theory, we conducted a moderated meta-analysis of the training and 
+organizational performance relationship using 119 primary studies.  We examined the 
+moderating effects of quality versus quantity of training, time, institutional, and 
+organizational context factors in the relationship between training and organizational 
+performance. Our findings reveal that training is positively and directly related to 
+organizational performance with no statistically significant difference between measures of 
+training quality and quantity.  We found that the relationship was stronger over time and that  
+country performance orientation and country labor cost moderate the training and 
+organizational performance relationship.  We found no evidence for the moderating effects of 
+the three organizational context moderators we examined (i.e., industry sector, organizational 
+size and technology intensity). Finally, our results reveal that training type (i.e., general or 
+firm-specific) does not moderate the training and organizational performance relationship.   
+ 
+KEYWORDS 
+Training 
+Organizational performance 
+Meta-analysis 
+Moderators
+<<<PAGE=3>>>
+2 
+ 
+INTRODUCTION  
+Training consists of formal on- and off-the-job structured activities focused on the 
+development of knowledge, skills and abilities (KSAs) for current and future job roles (Kim 
+& Ployhart, 2014; Tharenou, Saks, & Moore, 2007).  These activities have become 
+widespread HRM practices in organizations worldwide (ATD, 2018; Hughes, Zajac, Woods, 
+& Salas, 2019). Through investment in structured training, organizations enhance employee 
+and organizational human capital which, in turn, contribute to better organizational 
+performance (Jiang, Lepak, Hu, & Baer, 2012; Tharenou, Saks, & Moore, 2007).  While 
+earlier research focused on investigating the direct relationship between training and 
+organizational performance (e.g., Bartel, 1994; Beugelsdijk, 2008), more recent studies have 
+started to take into account the role of moderators (e.g., Arunprasad, 2017; Sing, Darwish, 
+Wood, & Mohamed, 2017).  Much of this more recent research has focused on the role of 
+internal organizational context moderators such as frim size (e.g., Lee, 2012), human capital 
+levels (e.g., Sung & Choi, 2014) and organizational climate (e.g., Van Esch, Wei, & Chiang, 
+2018).  However, the strength of the training and organizational performance relationship 
+may also depend on external institutional factors within which the organization operates 
+(Budhwar, Pereira, Mellahi & Singh, 2018; Farndale & Paauwe, 2018).  
+ 
+Drawing on systems theory and three of its principles (i.e., congruence, adaptation and 
+equifinality) (Kast & Rosenzweig, 1972; Shin & Konrad, 2017), the primary purpose of the 
+current meta-analysis is to investigate the role of temporal, institutional and organizational 
+context moderators in the training and organizational performance relationship.  The 
+congruence hypothesis embedded in systems theory (Nadler & Tushman, 1980) suggests that 
+organizational performance is a function of the congruence between various organizational 
+components, in this case training, and the context within which the organization operates.
+<<<PAGE=4>>>
+3 
+ 
+Specifically, we explore country performance orientation (a national cultural difference) and 
+country labor cost as two institutional context moderators of the training and organizational 
+performance relationship.  We also shed light on how quality versus quantity of training 
+impacts organizational performance.  By doing so, we address important gaps in the literature 
+on moderators of the training and organizational performance relationship.  In addressing 
+these gaps, researchers and practitioners will acquire a greater understanding of how context 
+impacts the training and organizational performance relationship and have greater insights 
+into whether it is the amount or quality of training, or both, that is important.  
+ 
+The adaptation principle of systems theory (Schleicher et al., 2018) provides a useful 
+theoretical framework to support our proposition that training must adapt to changing 
+environmental conditions to be effective, which therefore allows us to take a temporal 
+perspective to examine whether the strength of the training and organizational performance 
+relationship has increased or decreased over time (Johns 2006; Wegman, Hoffman, Carter, 
+Twenge & Guenole, 2018).  Finally, the equifinality principle argues that organizations can 
+utilize different paths to achieve the same outcome.  In this context, there is much debate 
+concerning the value of investment in firm-specific or general training for organizational 
+performance (Riley, Michael, & Mahoney, 2017).  Utilizing the principle of equifinality, we 
+argue that the type of training (i.e., firm-specific or general training) does not moderate the 
+relationship between training and organizational performance and we examine this 
+relationship in our meta-analysis.   
+ 
+In the context of the scarcity of talent in the external labor market, firms strive to develop a 
+competent workforce, which is a critical factor impacting competitive advantage. Training 
+has been acknowledged as a key HR practice to improve employee morale, productivity and
+<<<PAGE=5>>>
+4 
+ 
+ultimately organizational performance (Tharenou et al 2007; Sun & Choi 2014).  Industry 
+reports reveal continuous investment in employee KSAs (ATD, State of Industry Report, 
+2018) indicating that firms increasingly appreciate the strategic importance of investment in 
+training to gain competitive advantage. To justify such resource investment in training, 
+organizations look to research findings to provide evidence that training impacts 
+organizational performance. However, the research findings to date are heterogeneous with 
+many studies showing a relatively weak training-organizational performance relationship.  In 
+addition, training researchers have been eager to understand why and in what ways the 
+training-organizational performance link is so heterogeneous (Sung & Choi, 2018; Magableh, 
+Kharabsheh & Al-Zuba, 2011). Accordingly, researchers have called for the consolidation of 
+empirical findings to understand the role of context factors as moderators in explaining the 
+variation in findings on the training-organizational performance relationship and this paper 
+responds to that call.     
+ 
+The objective of our paper is fourfold: (i) to examine how the relationship between training 
+and organizational performance varies over time; (ii) to examine whether the relationship 
+differs for the quantity versus the quality of training undertaken in organization; (iii) to 
+examine to what extent the relationship is influenced by two institutional context variables 
+(country performance orientation and country labor costs) and three organizational contextual 
+factors (industry sector, organizational size and technology intensity); and (iv) to examine if 
+type of training (i.e., firm-specific or general training) moderates the training and 
+organizational performance relationship.  To achieve our objective, we conduct a three-level 
+meta-analysis aggregating 119 primary studies consisting of 313 effect sizes derived from 
+studies published between 1985 and 2019.
+<<<PAGE=6>>>
+5 
+ 
+We make four significant contributions to the training and HRM literature.  First, within a 
+field of study that is still maturing and where empirical findings are inconsistent, a meta-
+analysis can help synthesize key findings and identify new research avenues (Rosenbauch, 
+Gusenbauer, Hatak, Fink, & Meyer, 2019). To the best of our knowledge, one meta-analysis 
+has been conducted to date on the training-organizational performance relationship (Tharenou 
+et al., 2007). Since publication of Tharenou et al.’s (2007) meta-analysis, a significant 
+number of empirical studies have been added to the existing literature investigating the 
+training-organizational performance relationship.  Second, our meta-analysis contributes to 
+theory by utilizing concepts and principles derived from systems theory (congruence, 
+adaptation and equifinality) to understand the role of institutional and organizational context 
+moderators of the training-organizational performance relationship.  By doing so, we shed 
+light on the significance of these contextual moderators in explaining the heterogeneity of 
+findings.  Third, using insight from the adaptation principle of systems theory, we incorporate 
+a temporal perspective into the theoretical framework and methodologi cal design to test if 
+the relationship between training and organizational performance varies across time thus 
+supporting arguments that organizations are investing more in training in the expectation of 
+higher organizational performance returns.  The current meta-analysis also investigates the 
+issue of quality versus quantity of training in explaining organizational performance thereby 
+helping to resolve the debate as to whether more of the same is better or should there be less 
+training but of higher quality.  Finally, we make a methodological contribution by employing 
+a three-level meta-analytic approach to address the issue of inter-dependency of effect sizes 
+in meta-analysis techniques employed in the training/HRM field.  
+ 
+THEORY AND HYPOTHESIS DEVELOPMENT 
+The Relationship between Training and Organizational Performance
+<<<PAGE=7>>>
+6 
+ 
+In line with prior research (Kim & Ployhart, 2014; Tharenou et al., 2007), we define training 
+as consisting of formal on- and-off the job activities focused on the development of KSAs for 
+current and future roles. Tharenou et al (2007) in their meta-analysis emphasized KSAs for 
+the current role.  However, scholars argue that training also includes development 
+components for future organizational roles (Kraiger, Passmore, Dos Santos, & Malvessi, 
+2014).  For example, Sitzmann & Weinhardt (2018) argued that while a significant amount of 
+training in organizations emphasizes the development of KSAs that are directly applicable to 
+the current role, they increasingly provide training activities focused on the development of 
+general or soft skills that have application to future organizational roles.  
+ 
+We propose a number of reasons as to why training is linked to organizational performance. 
+First, training enhances employees KSAs for current and future roles which results in 
+enhanced organizational performance (Kim & Ployhart, 2014; Wright & McMahan, 2011). 
+Second, training enables the development of a greater depth of KSAs enabling employees to 
+be more flexible and perform different tasks more effectively (Somaya, Williamson & 
+Lorinkova, 2008) leading to enhanced organizational performance. The increase in flexibility 
+is critical to a variety of organizational outcomes such as innovation (Zhou & Wu, 2010), 
+customer service (Johnson, 1996) and labor productivity (Guerrazzi, 2016). Third, training 
+can enhance skill depth and enable employees to develop specialized knowledge and skills 
+and general skills to help the organization build core competencies within the organization 
+staying ahead of the competition (Coff, 1997).  Hence, we argue that both unique, valuable 
+and rare human capital developed through firm-specific training and general training leads to 
+higher organizational performance.  In addition, there are theoretical arguments suggesting 
+that higher quality training will have a greater impact on training than the quantity of training 
+provided.  Where training is of higher quality, employees will learn more quickly (Aquinis &
+<<<PAGE=8>>>
+7 
+ 
+Kraiger, 2009). Quality training will also shorten learning times and motivate the transfer of 
+training to the workplace (Hughes et al., 2019) and enhance the motivation of employees to 
+transfer the outcomes of training to the organization. Studies to date have utilized different 
+measures of training quantity including the percentage of employees trained (e.g., Ely, 2004), 
+the amount spend on training (e.g., Choi & Yoon, 2015) and the number of days training 
+(e.g., Appleyard & Brown, 2001). Studies of training quality focus on measures of 
+effectiveness and evaluation of training (e.g., Otoo, 2019).   
+Therefore, we propose the following hypotheses: 
+Hypothesis 1a: Training is positively and directly related to organizational 
+performance 
+Hypothesis 1b: The relationship between training and organizational performance 
+will be stronger for measures of the quality compared to measures of the quantity of 
+training.  
+ 
+The Training-Organizational Performance Relationship and Time  
+The adaptation principle of systems theory (Von Bertalanffy, 1968) asserts that organizations 
+utilize various mechanisms, one of which is training, to adapt to changing and shifting 
+internal and external context factors to maintain effectiveness.  This principle suggests the 
+need to adopt a temporal perspective on the training-organizational performance relationship 
+to account for changes over time.  Wright, Nyberg and Ployhart (2018) emphasized the need 
+for a dynamic understanding of the relationship between HRM and organizational 
+performance, given the increased pace of change in the external environment, such as 
+increased globalization, changes and skill gaps in the labor market, and the fast pace of 
+technological change.
+<<<PAGE=9>>>
+8 
+ 
+The literature suggests that the global business environment has experienced significant 
+transformation and change over the past three decades. Such business environment changes 
+include the emergence of technology-based organizations (Montealegra & Cascio, 2017), 
+knowledge workers, the globalization of organizations (Friedman, 2016), difficulties in 
+recruiting talent (Cascio & Graham, 2016), job changes (Wegman et al., 2018), and 
+generational differences in work, career and development expectations (Hirsch-Kreinsen, 
+2016). Based on the proposition that time can be considered as a surrogate for all these 
+changes, which Johns (2006) terms ‘omnibus context’, these changes shape organizational 
+HR practices (Johns, 2006; Wegman et al., 2018).  In turn, we argue that organizations may 
+respond to these external context changes by investing more in training.   
+ 
+There is evidence that organizations have responded to the external environment by 
+increasingly investing in training. The Association of Talent Development (2017) State of 
+Industry Report on Training reported a spend of US$90.6 billion in 2017 representing an 
+increase of 325% on 2016 and the relevant figure for 2010 was $125.9 million.  Data for the 
+UK indicate that expenditures on training have increased by 600% between 2000 and 2016 to 
+$29 billion (CIPD, 2017). As such, training is an important and pervasive HRM practice in 
+organizations (Kim & Ployhart, 2014; Riley, Michael & Mahoney, 2017; Training Industry 
+Report, 2018).  The research indicates that organizations are increasing investment in training 
+over time.  Many organizations have devoted extra financial resources to training to garner 
+accreditations such as Investors in People in the UK (www.investorsinpeople.com), Training 
+Magazine’s Best Training Organizations list (Riley et al., 2017) and to be ranked highly in 
+workplace rankings such as the Great Place to Work (www.greatplacetowork.com
+).  Coupled 
+with increased investment in training, there is evidence that the quality and impact of training 
+has improved as the field has developed (Kraiger, 2014; Kraiger et al., 2014) resulting from
+<<<PAGE=10>>>
+9 
+ 
+more research and growing practitioner education and expertise in training, learning and 
+development over time (Ruona, 2016).  Therefore, we propose the following hypothesis: 
+Hypothesis 2: The strength of the relationship between training and organizational 
+performance has increased year on year over time. 
+ 
+Institutional Context Factors and the Training-Organizational Performance Relationship 
+The congruence hypothesis (Nadler & Tushman, 1980) proposes the role of fit and the need 
+for various components of a system to be consistent and in balance.  In organizational 
+settings, the performance outcomes of training are conditional upon the levels of congruence 
+between the training and both the external institutional context and the internal organizational 
+context (Farndale & Paauwe, 2018; Purcell & Boxall, 2015). In the HRM and organizational 
+performance literature, a stream of research argues that both external institutional factors 
+(such as labor markets, national and regional institutions and cultures, competitive 
+mechanisms, industry sector and market conditions) and internal organizational context 
+characteristics (such as ownership, size, sector, strategic objectives and culture) impact the 
+HRM and performance relationship (Jackson, Schuler & Jiang, 2014; Farndale & Paauwe, 
+2018).  The concept of fit or congruence, which is embedded in systems theory, between 
+external and internal context factors and HR practices provides a theoretical logic to 
+understand the moderating role of external moderators of the training and organizational 
+performance relationship (country performance orientation and country labor cost) as well as 
+important institutional factors (sector, size and technology intensity) impacting HR and 
+training policy and practice (North, 1990; Meyer & Peng, 2016).  
+ Country Performance Orientation. Scholars studying the HRM-performance 
+relationship in cross-cultural contexts have suggested that the strength of the training and 
+organizational performance relationship will be influenced by the country performance
+<<<PAGE=11>>>
+10 
+ 
+orientation where the organization is situated (Ahmad & Schroeder, 2003; Rabi, Jayasingh, 
+Gerhart, & Kuhlmann, 2014). The GLOBE study included performance orientation as an 
+important cultural dimension that influences leadership and organizational decision-making 
+(House, Hanges, Javidan, Dorfman, & Gupta, 2004).  Grove (2005) characterized high 
+performance orientated cultures as encouraging and rewarding the setting of challenging 
+goals, and high standards, innovation excellence and performance improvement.  These 
+performance-driven characteristics potentially exert a positive effect on the strength of the 
+relationship between training and organizational performance. Specifically, the emphasis on 
+performance improvement encourages and promotes employees to apply and integrate new 
+knowledge and skills in their workplace. Organizations located in high performance oriented 
+cultures are likely to achieve increased efficiency in training delivery, the transfer of the 
+training to the job setting and better performance (Rabi et al., 2014). In addition, the 
+emphasis on knowledge sharing, participation in team activities and quick decision making 
+(Rabi et al., 2014) lead to better job and business performance. In contrast, low performance 
+oriented cultures place greater emphasis on values including social and family relationships, 
+loyalty, harmony, tradition and seniority (Javidan, House, Dorfman, Hanges, & Sully de 
+Luque, 2006, Grove, 2005), which may potentially undermine the effectiveness of training 
+and training transfer.   
+Therefore, we propose the following hypothesis:      
+Hypothesis 3a: The relationship between training and organizational performance 
+will be stronger for organizations from countries with a high performance orientated 
+culture than for organizations in a low performance orientated culture.  
+ 
+Country Labor Costs. A second institutional condition that may potentially moderate the 
+relationship between training and organizational performance is the level of labor costs
+<<<PAGE=12>>>
+11 
+ 
+within the country. Countries vary in their labor cost structure, and higher labor costs may 
+inhibit the degree to which training translates into organizational performance. Countries 
+such as the US and European nations generally have significantly higher labor costs 
+compared to emerging or developing countries like China, South Korea, Taiwan and African 
+countries (International Labor Organization, 2016; United States Bureau of Labor Statistics, 
+2017). Differences in country labor costs reflect currency evaluation and cost of living 
+differences as well as educational attainment and skill levels, in that lower educational 
+attainment and skills reflect lower labor-cost economies. A number of researchers have 
+shown that training can help low-skilled employees to increase their skills and earnings 
+(Prince 2008; Washington State Board for Community and Technical College, 2005), and 
+that the impact of training is stronger among low-skilled rather than higher skilled employees 
+(Kim, Hawley, Cho, Hyun, & Kim, 2016). Budria and Pereira (2007) found that less educated 
+workers experience larger returns from training compared to well educated workers. They 
+suggest that training plays a remedial role in place of education shortage and that returns 
+from training can be greater for low-skilled workers. Training may help organizations in low 
+labor cost countries to attract capable employees and retain them subsequently generating 
+better organizational performance. Therefore, we propose the following hypothesis:      
+Hypothesis 3b: The relationship between training and organizational performance is 
+stronger for organizations in low labor cost countries compared to high labor cost 
+countries.   
+ 
+Organizational Context Factors and the Training-Organizational Performance 
+Relationship  
+The congruence principle of systems theory suggests that it is important to have a fit or 
+balance between training and internal organizational context factors and we examine the
+<<<PAGE=13>>>
+12 
+ 
+moderating effect of industry sector, organizational size and intensity of technology on the 
+training-organizational performance relationship.  
+ Industry sector. Industry sector is highlighted as an important context factor 
+explaining the training-organizational performance relationship, however, findings regarding 
+its impact are mixed and unclear.  Tzabber et al. (2016) found that training had a stronger 
+relationship with organizational performance in the service sector whereas Subramony (2009) 
+found that the relationship for all HRM practices, including training, was stronger in 
+manufacturing compared to service sector organizations. Combs et al. (2006) found that the 
+relationship between all HRM practices and performance was significantly stronger in 
+manufacturing organizations compared with service organizations.  Dipoye (2018) argued 
+that tasks are more clearly defined in manufacturing organizations, they lend themselves 
+more effectively to training, and that the results of training will be more quickly realizable.  
+An alternative argument is that the benefits generated from training in manufacturing 
+organizations are less because they rely heavily on technology and automation compared to 
+service organizations where there is a need to continuously maintain employee KSAs at a 
+high level. In service sector organizations, employee competencies are key to achieving 
+organizational goals whereas the manufacturing sector is typically characterized as highly 
+capital-intensive with a reliance on plant, equipment and technology to achieve 
+organizational goals. Service organizations may benefit more from formal training because 
+their employees generally have greater flexibility and discretion to exert their KSAs 
+compared with their counterparts in manufacturing organizations (Rosenthal, Hill, & Peccei, 
+1997).  Training opportunities, particularly development-focused training, may act as a 
+motivational tool for service sector employees to demonstrate extra-role behaviors and 
+discretionary effort (Tharenou et al., 2007), which is particularly important in customer 
+service-focused organizations.  A counter argument is that jobs in service organizations are
+<<<PAGE=14>>>
+13 
+ 
+less structured and less clearly defined and not as easily trainable with a significant lapse in 
+time between the training and its impact on organizational performance. Overall, the theory 
+proposes that training in manufacturing organizations is more structured, skills are more 
+trainable and the impact on organizational performance will occur faster.  Therefore, based 
+on these theoretical arguments, we propose the following hypothesis:      
+ Hypothesis 4a:  The relationship between training and organizational performance is 
+ stronger in manufacturing organizations than in service organizations.  
+  
+Organizational Size.  Like sector, findings on the impact of organizational size on the 
+training-organizational performance relationship are also unclear.  For example, Rauch and 
+Hatak (2016) found that there were differences between small and medium sized firms for 
+skill-enhancing practices. Tzabbar, Tzafrir, & Baruch (2017) found that training had the 
+strongest impact on medium rather than large firms.   
+ 
+A number of conflicting arguments are proposed regarding the moderating effect of 
+organizational size on the training-organizational performance relationship.  First, it is argued 
+that large organizations have more financial resources to invest in training compared to 
+resource-constrained small organizations (Kortekaas, 2007).  Large organizations also have a 
+greater training resource and expertise base to design and implement training effectively 
+which is more unlikely in the case of small organizations (Garavan, Shanahan, Carbery, & 
+Watson, 2016). The level of expertise and knowledge involved in developing, implementing 
+and evaluating training programs determines the effectiveness of training, the quality of the 
+human capital pool, and ultimately organizational performance.  A second reason is that 
+small firms are more labor intensive and job roles are broad with employees required to
+<<<PAGE=15>>>
+14 
+ 
+perform multiple tasks whereas in large organizations employees perform more specialist 
+tasks (Messersmith and Guthrie, 2010; Rauch and Hatak 2016).    
+ 
+A third reason for expecting organizational size to moderate the training-organizational 
+performance relationship relates to strategic goal ambiguity.  Organizations that take a more 
+strategic approach to training tend to have better alignment of training with strategic goals 
+(Blom, Krunyen, Van der Heijden and van Thiel, 2018; Garavan, 2007; Noe, 2017).  
+Fernandez and Moldogaziev (2010) argued that high levels of strategic goal ambiguity 
+undermine the positive influence of HR practices (including training) on organizational 
+performance. Following this line of reasoning, we expect that small organizations will 
+experience greater strategic goal ambiguity because organizational objectives and goals tend 
+to be less tangible, more fluid and dynamic (Chadwick, Way, Kerr, & Thacker, 2013). As a 
+result, training may lack clarity, and thus decrease the impact of training on organizational 
+performance (Wu, Bacon, & Hoque, 2013). In large organizations, there will be less goal 
+ambiguity and, as a result, training will be more aligned to organizational strategy (Garavan, 
+Watson, Carbery, & O’Brien, 2016). In addition, there will be greater emphasis on the 
+identification of training need and their linkage with strategy suggesting large organizations 
+may benefit more from training than smaller organizations. Therefore, based on these 
+theoretical arguments we propose the following hypothesis:       
+ Hypothesis 4b:  The relationship between training and organizational performance is 
+ stronger in large organizations than in small organizations. 
+  
+Technology Intensity. We selected technology as a potential moderator because these firms 
+rely on the implementation and use of “sophisticated and complex methods, practices and 
+techniques” (Rauch & Hatak, 2016, p. 489) that are based on extensive research and
+<<<PAGE=16>>>
+15 
+ 
+development.  These firms operate in dynamic and complex environments where innovation 
+is essential to competitiveness. Technology intensive organizations can attain enhanced 
+organizational performance when they build human capital through strategic training 
+investment (Bettis & Hitt, 1995; Chatterjee, 2017; Grant, 1996).  They implement training to 
+ensure their employees possess appropriate levels of KSAs to perform challenging tasks 
+(Rauch & Hatak, 2016; Utterback, 1996). Technology intensive organizations are required to 
+be innovative (Bouncken & Kraus, 2013) and to implement complex processes and routines 
+to stay competitive in a dynamic and changing environment (Khandwalla, 2006). In this case, 
+training is an effective mechanism to develop a set of complex KSAs to manage complex 
+processes and generate innovative solutions for clients (Anand, Gardner, & Morris., 2007).  
+Given the significant changes in technology as an external environment context factor 
+impacting organizational functioning, and in line with the congruence hypothesis of systems 
+theory, we argue that a stronger positive relationship between training and organizational 
+performance will exist in high technology intensive organizations.  Therefore, we propose the 
+following hypothesis:       
+Hypothesis 4c:  The relationship between training and organizational performance is 
+stronger for high technology intensity organizations than for low technology intensity 
+organizations. 
+ 
+Type of Training 
+The equifinality principle of systems theory advocates that an organization can reach the 
+same end-state by taking different paths (Katz & Kahn, 1978).  Drawing on this principle, we 
+argue that both firm-specific and general training may be equally valuable to organizations in 
+achieving organizational performance. We utilize the equifinality principle to argue that 
+where organizations have a choice between investment in firm-specific and general training,
+<<<PAGE=17>>>
+16 
+ 
+they can take either path as both will positively impact organizational performance.  
+Empirical findings point to the value of investment in firm-specific and general training for 
+organizational performance. For example, Kim and Ployhart (2014) and Ahmad & Schroeder 
+(2003) found a positive relationship between firm-specific training and organizational 
+performance and Riley et al. ( 2017) and  Georgiadis and Pitelis,( 2014) found a positive 
+relationship between general training and organizational performance. 
+There are theoretical arguments supportive of both relationships. For example, human capital 
+theory (Becker, 1964) and the resource based view (Barney, 1991) argue that human capital 
+investment can only lead to superior organizational performance when the accumulated 
+human capital is firm-specific. Training used to develop KSAs that is firm-specific and 
+unique to organizational performance needs to possess the valuable, rare, inimitable, non-
+substitutional conditions proposed by the RBV (Barney, 1991). Chadwick and Dabu (2009) 
+argued that organizations are more likely to capture the returns from investment in firm-
+specific training and achieve enhanced organizational performance.   
+ 
+Theory also supports a positive relationship between investment in general training and 
+organizational performance. For example, Riley et al. (2017) and Campbell et al. (2012) have 
+argued that, contrary to the arguments of human capital theory, organizations may be able to 
+gain performance advantages from investment in general training.  This occurs because first 
+of all, employees may view organizational investment in general training as a signal of its 
+commitment to employees and the potential for future training investments, promotion 
+opportunities and commitment to retention. Second, while human capital theory argues that 
+employees who receive general training will be more likely to move organization, Riley et al. 
+(2017) argued that due to established networks and connections within the current 
+organization, employees may choose to stay.
+<<<PAGE=18>>>
+17 
+ 
+In terms of the organizational performance benefits of investment in firm-specific and general 
+training, research highlights that firm-specific training enhances existing knowledge and 
+deepening of job skills (Kang et al., 2007) whereas general training helps the development of 
+a broader set of KSAs and enhanced connectivity between employees (Shipton et al., 2017).  
+Both types of KSAs therefore enhance organizational performance.  Therefore, we propose 
+the following hypothesis:       
+Hypothesis 5:  Organizations will achieve the same organizational performance from 
+investment in specific or general human training.  
+ 
+METHOD 
+Literature Search and Data Collection  
+To identify studies that could be included in the meta-analysis, we began by searching online 
+and electronic databases – specifically, ABI/INFORM, Business Source Complete, Emerald, 
+Google Scholar, JSTOR, PSYCHINFO, Web of Science, and Business Source Complete for 
+studies published until May 2019. We used multiple keywords. For training, we used the 
+keywords “training”, “human capital development”, “human resource development” or 
+“ability/skill-enhancing HR practices”.  For organizational performance, we searched for 
+studies that also included the keywords “organisational/organizational effectiveness”, 
+“operational performance”, “financial performance”, “business performance”, “productivity”, 
+“quality”, “innovation”, “service”, “sale”, “ROE/ROA” or “profitability”. In addition, we 
+also searched the references lists of several reviews that focused on the relationship between 
+training/HRM and organizational performance (Tzabbar et al., 2017; Rauch & Hatak, 2016; 
+Jiang et al., 2012; Subramony, 2009; Tharenou et al., 2007; Combs et al., 2006).
+<<<PAGE=19>>>
+18 
+ 
+The following inclusion criteria were utilized: first, only empirical studies were included; 
+second, we focused only on studies that reported a relationship between training and 
+organizational performance (i.e., the unit of analysis was the organization); third, we included 
+each identified sample once in order to avoid overrepresentation of particular organizations in 
+the sample and we excluded studies with overlapping samples; and fourth, we excluded 
+studies lacking the key statistical information necessary to extract effect sizes (correlation 
+coefficient r) and sample sizes (N). Two authors independently coded half of the studies 
+(Lipsey & Wilson, 2001) to assess the levels of agreement regarding effect sizes, sample 
+sizes and moderators. The inter-rater agreement score of 95 percent suggested an acceptable 
+level of agreement among two raters (McHugh, 2012). Our final meta-analytical database 
+comprises 313 effect sizes nested in 119 independent studies. Appendix A displays the 
+reference list for primary studies included in our meta-analysis.    
+ 
+Coding1 
+The focal independent variable was training. We operationalized training as that which 
+enhanced skills for a current job or future role in an organization. Specifically, we identified 
+five primary training measurements in the 119 primary studies, three of which were measures 
+of quantity and two were measures of quality.  The three quantity measures were: absolute 
+measures (e.g., amount of money spent on training) (e.g., Choi & Yoon, 2015); proportional 
+measures (e.g., percentage of employees trained) (e.g., Esteban-Lloret et al., 2016); and 
+content measures (e.g., type of training provided) (e.g., Chuang & Liao, 2010).  The two 
+quality measures were: emphasis measure (e.g., importance or emphasis given to training) 
+(e.g., Russell, Terborg, & Powers, 1985); and training effectiveness (e.g., effectiveness of 
+training) (e.g., Delaney & Huselid, 1996, Tharenou et al., 2007).  
+                                                           
+1 A complete coding sheet is presented in Appendix B.
+<<<PAGE=20>>>
+19 
+ 
+ 
+Our dependent variable was organizational performance. According to previously published 
+meta-analytical studies (Tharenou et al., 2007; Jiang et al., 2012), we categorized 
+organizational performance into operational performance and financial performance. 
+Operational performance (also known as internal performance) reflects the effectiveness and 
+efficiency by which an organization deploys its internal resources including human capital 
+resources (Kim & Ployhart, 2014). Examples of operational performance measures include 
+labor productivity (e.g., Barrett & O’Connell, 2001), innovation (e.g., Nieves & Quintana, 
+2016), product or service quality (e.g., Vlachos, 2008) and customer satisfaction (e.g., Wood, 
+Holman & Stride, 2006).  Financial performance, on the other hand, is influenced by both 
+internal (e.g., HR practices that affect costs or revenues) and external factors (e.g., economic 
+conditions and market competition) (Barney & Wright, 1998, White & Hamermesh, 1981). 
+Financial performance consists of a number of organizational ‘bottom-line’ performance 
+outcomes such as return on assets (ROA) (e.g., Darwish, Singh & Mohamed, 2013), return on 
+equity (ROE) (e.g., Kwon & Rupp, 2013), sales (e.g., Chi, Wu, & Lin, 2008) and profitability 
+(e.g., Khatri, 2000). As our meta-analysis focused on examining how contextual variables 
+shaped the strength of the relationship between training and performance measured at the 
+organizational level, we coded the above mentioned operational and financial performance 
+measures as organizational performance. Training quality was captured by measures of 
+training effectiveness and importance whereas training quantity was reflected in three 
+objective dimensions: training time (i.e., training hours or training days); percentage of 
+employees trained; and training expenditure. 
+  
+We used the year of data collection to capture the potential moderating effect of time on the 
+training-organizational performance relationship. Whenever the data collection occurred over
+<<<PAGE=21>>>
+20 
+ 
+a longer timeframe, the mean year of data collection was used (Rosenbusch et al., 2019).  For 
+studies that did not specify the time point of observations, following the method introduced 
+by Schommer, Richter and Karna (2019: 280), we used “the three years prior to the 
+publication date”.  
+ 
+We coded the country performance orientation according to the GLOBE study of country 
+clusters and leadership styles
+2 (House et al., 2004). Anglo, Germanic, Nordic, SE Asian, 
+Latin European and Latin American countries were classified as high performance oriented 
+cultures (coded as “1”), whereas Confucian, African, Eastern European and Middle Eastern 
+countries were categorized as low performance oriented cultures (coded as “0”)
+3.  
+ 
+We used the International Labor Organization’s Global Wages Report (2016) to distinguish 
+high (coded as “1”) and low (coded as “0”) labor cost countries. Industry sector is coded as 
+either manufacturing (coded as “0”), such as machinery, manufacturing, pharmaceuticals, oil 
+refinery, and textiles or services (coded as “1”) such as banking and financing industry, 
+software industry, health industry, retail stores and transportation and logistics.  
+ 
+Organizational size was categorized into two groups: Following the definition of SMEs 
+provided by the European Commission (2003), SMEs with 249 or fewer than employees 
+(coded as “0”), and large organizations with 250 or more employees (coded as “1”) (Tzabbar 
+                                                           
+2 The GLOBE study groups the country clusters into six leadership style according to the responses of 17,000 
+middle managers from 61 countries to 21 leadership scales. The performance- oriented style stresses high 
+standards, decisiveness and innovation, seeks to inspire people around a vision, creates a passion among them to 
+perform, and does so by organizationally holding on to core values.  
+3 The participating organisations in a primary study were drawn from multiple countries, and these countries are 
+involved in both high and low performance oriented cultures (labour costs economies). They were coded as 
+mixed cultures, and were not considered in the meta-analytical estimation as our hypothesis focuses on 
+comparing the strength of the training-organisational performance relationship in the high and low performance 
+oriented culture. In addition, we ran extra tests to include mixed category (coded as 2, treating low performance 
+orientation /low labor cost category (coded as 0) as reference category ) in the estimation, the results showed 
+performance orientation/ labor costs remained as significant moderators.
+<<<PAGE=22>>>
+21 
+ 
+et al., 2017). Regarding the intensity of technology, studies that focused specifically on 
+knowledge-based or knowledge-intensive industries (Rodwell & Teo, 2008) and high-
+technology industries as classified by the OECD (Hatzichronoglou, 1997) were coded as high 
+technology industries (coded as “1”). All other industries were classified as low-technology 
+industries (coded as “0”).  
+ 
+Training type was classified as general training (coded as “0”) if it builds KSAs that adds 
+value both to the organization providing the training and to other organizations (Riley et al., 
+2017) or firm-specific training (coded as “1”) if it creates firm-specific human capital that 
+only benefits the training organizational (Coff & Raffiee, 2015; Crook et al., 2011).  
+ 
+Finally, consistent with the approach taken in previous meta-analytical studies (e.g. Tzabbar 
+et al., 2017; Subramony, 2009; Tharenou et al., 2007; Combs et al., 2006), we included a 
+number of control variables concerning study methodological characteristics. First, we 
+grouped the primary studies into cross-sectional (coded as “0”) or longitudinal datasets 
+(coded as “1) to consider the path dependence. For cross-sectional studies, training and 
+organizational performance measures were taken at the same time during the data collection 
+process (Crook et al., 2011). For longitudinal studies, performance measures were taken a 
+period of time after the training was implemented in the organization (Ployhart & 
+Vandenberg, 2010). Second, we distinguished subjective training measures (coded as “0”) 
+and objective training measure (coded as “1”). Subjective training measures are based on 
+respondents’ awareness, perceptions and/or experience of training in the organization 
+whereas objective training measures are quantifiable, measurable and independent of 
+respondents’ perceptions and experiences. Similarly, the organizational performance 
+measure was also coded as a subjective measurement (coded as “0”) or an objective one
+<<<PAGE=23>>>
+22 
+ 
+(coded as “1”). In general, subjective performance measures are typically framed by using 
+ordinal type response categories and ask respondents to rate the organization’s performance 
+relative to their competitors or previous years’ performance (Forth & McNabb, 2008) 
+whereas objective organizational performance measures are absolute and obtained from 
+company accounts/records or independent sources (Wall et al., 2004).  Finally, the 
+organizational performance control measure also captured operational performance measures 
+coded as “0” and financial performance measures coded as “1”.  
+ 
+Method of analysis  
+Our final dataset contained many interdependent effect sizes (i.e. 313 effect sizes nested in 
+119 studies) resulting from the utilization of multiple training and/or organizational 
+performance measures in some primary studies. In other words, the inter-effect size 
+dependencies are influenced by the way the dependent and independent variables are 
+operationalized (Cooper, 2009). Cheung (2014) warns that if the dependence effect is ignored 
+in the meta-analysis, standard errors of fixed effects and heterogeneity of the random effects 
+may be biased. Hence, we applied an appropriate multilevel analytical approach (i.e., a three-
+level meta-analysis) to account for dependency of effect sizes within and across studies 
+(Cheung, 2014; Van den Noortgate, Lopez-Lopez, Marin-Martinez & Sanchez-Meca, 2013; 
+2015). The three-level analytical approach estimates three different variance components 
+distributed over the three-levels of the model: the sampling variation of each effect size (level 
+1), within-study variation (level 2) and between-study variation (level 3) (Van den Noortgate 
+et al., 2013). We used the rma.mv function of the metafor package that can be invoked in R to
+<<<PAGE=24>>>
+23 
+ 
+conduct the three-level random effect meta-analysis4 (Viechtbauer, 2019; Assink & 
+Wibbelink, 2016). 
+ 
+To examine potential boundary conditions as set out in Hypotheses 1-5 that may influence the 
+strength of the training-organizational performance relationship, we implemented the 
+following steps. First, the overall association between training and organizational 
+performance was estimated by fitting a three-level meta-analytical model that only consisted 
+of an intercept representing the overall effect. Second, we estimated several heterogeneity 
+statistics to examine the presence of potential moderators. In three-level meta-analyses, 
+statistics pertaining to the amount of variation in level 2 and the amount of variation in level 
+3 (τ2(3)) along with the regular Q statistic are provided. However, these results were not 
+informative in terms of determining the within-study (level 2) and between-study variance 
+(level 3) (Assink & Wibbelink, 2016). Instead, two one-sided log-likelihood-ratio tests (LRT) 
+were performed. In this respect, the fit of the original model in which variance at level 2 and 
+level 3 were both freely estimated was compared to the fit of a model in which only variance 
+at level 2 (or variance at level 3) was freely estimated whilst the variance at level 3 (or 
+variance at level 2) was manually fixed to zero (Assink & Wibbelink, 2016). In other words, 
+these tests examine whether the three-level model significantly improves the fit over that of 
+the two-level model in which within-study or between-study variance is no longer accounted 
+for.  
+ 
+Third, to test the proposed hypotheses, we used Restricted Maximum Likelihood estimation 
+method (REML) to estimate the moderating influence of proposed institutional and 
+                                                           
+4 Before using the rma.mv function of the metafor package, we performed r  to Fisher’s Z transformation and 
+calculated the corresponding sample variances and standard error estimates. This is because the default setting of 
+the rma.mv function prescribes that test statistics of individual coefficients and confidence intervals are based on 
+the normal distribution (i.e. the Z distribution) (Assink  & Wibbelink, 2016).
+<<<PAGE=25>>>
+24 
+ 
+organizational contextual variables in the meta-analytical model. However, such a method 
+does not allow us to perform a log-likelihood-ratio test to investigate whether the fit of a 
+model with proposed moderating variables improves compared with that without moderating 
+variables (Hox, 2010). Instead, an omnibus test was adopted to determine whether the 
+moderating effect of proposed study-level variables was significant.  
+ 
+In the RMEL model, the dependent variable was the correlation between training and 
+organizational performance. The moderators were treated as predictor variables. Model 1 
+controlled for methodological variables only.  Model 2 added the moderator of training 
+quality vs training quantity.  Model 3 added the timeline moderator.  Model 4 added country 
+performance orientation. Model 5 added country labor cost. Models 6 to 8 added three 
+different variables describing organizational context-related boundary conditions: industry 
+sector, organizational size, intensity of technology.  Model 9 added types of training as the 
+moderator. We examined the individual moderating effect of each institutional and 
+organizational context variable instead of adding them cumulatively through different models 
+(see Rosenbusch et al., 2019; Mueller, Rosenbusch & Bausch, 2013) because of the 
+collinearity problem between two the institutional variables and a significant increase in 
+missing values (and subsequently a sharp drop in the number of primary studies) as more 
+contextual explanatory variables were added into the model. Rosenbusch et al. (2019) argued 
+that the relatively small number of research objects (i.e., primary studies) in meta-analyses 
+may result in a statistical power problem if the number of predictor variables in regression is 
+too high.   
+ 
+RESULTS 
+Primary Results
+<<<PAGE=26>>>
+25 
+ 
+Hypothesis 1a proposed a significant and direct positive relationship between training and 
+organizational performance. Table 1 presents the estimation results of the overall relationship 
+between training and organizational performance by fitting a three-level intercept only model. 
+The results suggest that training is positively and statistically significantly associated with 
+organizational performance (β=0.25, p<0.001), supporting hypothesis 1.  
+Insert Table 1 about here 
+Table 1 also reports the variance component distributed to the second level and third level. 
+The variance between effect sizes due to within-study variation (τ2 (2)) was 0.008 and the 
+between-study variance (τ2 (3)) was 0.039. The test for heterogeneity (Q=3,511.85, p<0.001) 
+revealed significant variation between all effect sizes in our modelling. However, the results 
+do not necessarily determine the significance of within and between-study variance. 
+Therefore, we performed two one-sided LRTs to assess whether the variance component 
+allocated at level 2 and level 3 was significant. The test results are presented in Table 2. The 
+results reveal that within-study variance was statistically significant, as the fit of the three-
+level model consisted of both within- and between-study variation was significantly better 
+than that the fit of the two-level model that only tested between-study variation (LRT = 
+158.84, p<0.001). Similarly, the fit of the three-level model improved significantly over that 
+of the two level model in which only within-study variance was freely estimated (LRT = 
+149.51, p<0.001), suggesting that between-study variance was significant. Hence, we 
+concluded that the relationship between training and organizational performance varied 
+significantly between sub-groups, signaling the presence of study-level moderator effects.  
+Insert Table 2 about here 
+The estimation results of the moderator or sub-group analysis are presented in Table 3. 
+Hypothesis 1b compared the magnitude of the effects of training quality and quantity on
+<<<PAGE=27>>>
+26 
+ 
+organizational performance. The results suggest that organizations that emphasized training 
+quantity (β=-0.12, ns. for training time; β=0.05, ns. for percentage of employees trained; β=-
+0.11, ns. for training expenditure) performed as well as those who emphasized training 
+quality.  Hence, hypothesis 1b is not supported. Hypothesis 2 examined whether the strength 
+of the association between training and organizational performance increased over time. Our 
+results show that although the extent of the change is relatively small, the impact of training 
+on firm performance has improved significantly with the passage of time (β=0.01, p<0.001). 
+Hypothesis 2 is, therefore, supported.  
+Insert Table 3 about here 
+Hypotheses 3a and 3b investigated two institutional moderators (i.e., country performance 
+orientation and country labor economy) that impact the relationship between training and 
+organizational performance. Opposite to our prediction, the results show that organizations 
+from low performance oriented cultures benefitted more from training than organizations in 
+high performance oriented cultures (β=-0.10, p<0.001).  Hypothesis 3a, is therefore not 
+supported.    Our sub-group analysis reports that the relationship between training and 
+organizational performance is stronger in organizations in low country labor costs than in 
+those with high labor costs (β=-0.13, p<0.001) thereby supporting Hypothesis 3b. 
+ 
+Hypotheses 4a to 4c examined the moderating influence of industry sector, organizational 
+size and technology intensity on the training-organizational performance, respectively. The 
+multilevel modelling results revealed a non-significant difference between manufacturing and 
+service industry (β=0.05, n.s.). Hypothesis 4a is therefore not supported.  For the remaining 
+two internal organizational context variables, neither of them revealed any significant 
+differences in our multilevel modelling estimation results (organizational size β=0.07, n.s., 
+intensity technology: β=0.08, n.s.). Hence, Hypotheses 4b and 4c are not supported.
+<<<PAGE=28>>>
+27 
+ 
+ 
+Hypothesis 5 proposed that the relationship between firm-specific training and organizational 
+performance was invariant from that between general training and organizational 
+performance. Our multilevel estimation results showed that organizational performance 
+derived from firm-specific training was no different to that from general training (β=0.004, 
+n.s.) thereby supporting Hypothesis 5. 
+ 
+Publication Bias 
+Due to the propensity that statistically non-significant findings go unpublished and/or that 
+more positive findings than negative ones go published, meta-analyses could produce 
+exaggerated evidence drawn on existing literature (Murad, Chu, Lin & Wang, 2018). To 
+assess such publication bias in the current meta-analysis, we implemented Egger’s regression 
+test (Egger, Smith, Schneider & Minder, 1997) by adding standard errors of the effect size 
+estimates as a moderator variable to the RMEL estimation in the rma.mv function of metafor 
+package (Viechtbauer, 2019). This approach tackles inter-effect size dependencies when 
+testing publication bias from multilevel meta-analytical modelling. A significant coefficient 
+on the standard error predictor would suggest the presence of publication bias and funnel plot 
+asymmetry. Scholars suggest that ignoring between-study heterogeneity when detecting 
+publication bias could result in misleading results in small meta-analyses (Peters et al., 2010). 
+Hence, we ran Eggar’s regression by controlling methodological moderators as well as 
+significant context-related moderators (i.e. timeline, performance orientation and labor cost 
+economy) identified in our sub-group analysis. The results of these tests were presented in 
+Appendix C. The coefficients on the standard error predictor was found to be insignificant in 
+all models, indicating that substantial evidence of publication bias was not present in the 
+current meta-analysis.
+<<<PAGE=29>>>
+28 
+ 
+ 
+DISCUSSION 
+In spite of a considerable amount of research investigating the training and organizational 
+performance relationship, significant gaps remain regarding the boundary conditions 
+impacting the relationship and changes in the relationship over time.  Driven by the desire to 
+address these gaps, and informed by systems theory, our motivation for this paper was to: (i) 
+examine the relationship between training and organizational performance over time; (ii) 
+examine the relationship between training and organizational performance accounting for 
+potential differences in training quality and training quantity; (iii) examine to what extent the 
+relationship is influenced by two institutional context variables (country performance 
+orientation and country labor costs) and three organizational contextual factors (industry 
+sector, organizational size and technology intensity); and (iv) examine if type of training (i.e., 
+firm-specific or general training) moderates the training and organizational performance 
+relationship.   
+ 
+Our results reveal that training was directly and positively related to organizational 
+performance, which aligns with findings reported in previously meta-analyses (Combs et al., 
+2006; Subramony, 2009; Tharenou et al., 2007).  We also found that there was no statistically 
+significant difference in the relationship for measures of quality versus quantity of training.  
+We found that the strength of the relationship between training and organizational 
+performance has increased over time.  In terms of the overall relationship between training 
+and organizational performance, we report a correlation of 0.25 between training and 
+organizational performance. The effect size we report is significantly greater than other 
+studies (e.g., Combs et al.’s (2006) effect size of 0.15, Subramony’s (2009) effect size of 
+0.12, and Tharenou et al.’s (2007) effect sizes of 0.21 for training and operational
+<<<PAGE=30>>>
+29 
+ 
+performance and 0.15 for training and financial performance). Our significant and important 
+finding suggests that training is a valuable and important HR practice linked with 
+organizational performance and provides further evidence to that reported in the literature 
+(Riley at al., 2017; Wright & McMahon, 2011; Kim & Ployhart, 2014). The lack of 
+significant difference between the quantity and quality of training and organizational 
+performance is surprising.  The reason for this finding may be related to the research design 
+used in studies. Many of the studies in this meta-analysis measured training and 
+organizational performance using cross-sectional data.  In addition, the measurement of 
+training quality relied on trainee reports rather than multiple data sources.  Therefore, future 
+studies need to more accurately measure training quality and use longitudinal research 
+designs to more accurately assess the impact on organizational performance.  
+ 
+For the purposes of this study, we operationalized omnibus context using time (Johns, 2006) 
+to capture changes in the external environment over time and to explore how time impacted 
+the training organizational-performance relationship.  One of our significant and novel 
+findings is that the strength of the relationship between training and organizational 
+performance has increased year on year over the past three decades.  This important finding 
+supports the idea that training has become increasingly important to organizational 
+performance and competitive advantage.  Specifically, omnibus context over that period has 
+created a situation that requires organizations to train employees to develop human capital to 
+achieve organizational performance (Cascio & Graham, 2016).  This finding also lends 
+support to the adaptation principle of systems theory (Von Bertalanffy, 1968) which indicates 
+that training must adapt to changing environmental conditions (inputs) in order to achieve 
+organizational performance (outputs).
+<<<PAGE=31>>>
+30 
+ 
+Another important contribution of this study concerns the application of systems theory, and 
+in particular, the congruence, adaptation and equifinality principles to explain the moderating 
+effect of institutional and organizational contextual variables on the training and 
+organizational performance relationship. Systems theory (Katz & Kahn, 1972; Nadler & 
+Tushman. 1980) emphasizes the importance of interaction and integration of various 
+components of a system to achieve desirable outcomes. The theory introduces the notion of 
+congruence or fit between training and context. We investigated whether the strength of the 
+relationship between training and organizational performance was moderated by two 
+institutional variables, i.e. country performance orientation and country labor cost. To our 
+knowledge, these two institutional-level moderators have not been explored and examined in 
+the existing body of research of the HRM/training-organizational performance relationship to 
+date and yet systems theory underlines their criticality to understanding our central research 
+question.  
+ 
+For our first institutional context variable, and counter to our hypothesis, we found that the 
+relationship between training and organizational performance was significantly stronger in 
+low performance oriented countries than in high performance oriented countries.  One 
+possible explanation is that training is likely to be more commonly prevalent in high 
+performance cultures that encourage and reward innovation, excellence and performance 
+improvement (Grove, 2005).  Marginal returns from training may be smaller in high 
+performance oriented cultures compared to those in low performance oriented cultures 
+(Schneider, Hanges, Smith, & Salvaggio, 2003) because employees in high performance 
+oriented cultures expect training opportunities as a matter of form to fulfil work 
+responsibilities and meet target goals. Another possible explanation is that employees in high
+<<<PAGE=32>>>
+31 
+ 
+performance oriented cultures may already be performing at high levels and hence the 
+organization may attain limited performance gains from training.  
+ 
+For our second institutional context variable, as expected, we found that the training and 
+organizational performance relationship was stronger in organizations operating in low labor 
+cost countries.  This finding suggests that that organizations in low labor cost countries 
+benefit more from training investment than those in high labor cost economies. Training can 
+directly help to optimize the level or type of employees’ KSAs that employees need to 
+perform their work and tasks (Jiang et al., 2012) which is particularly important in low labor 
+cost economy where education attainment and workface skill level are generally low. Budria 
+and Pereira (2007) suggested that training can play a remedial role in closing the skill gaps 
+caused by lower education attainment, and low-skilled employees are more likely to gain 
+larger marginal returns from training compared with well-educated workers in high labor cost 
+cultures.  
+ 
+Taken together, our institutional context findings point to the benefit of taking a systems view 
+of the training and organizational performance relationship.  All too often, researchers tend to 
+take more myopic views focusing only on internal factors or factors related directly to 
+training design, delivery and implementation when assigning organizational performance.  
+Greenwood et al. (2010) argued that there has been a trend in organizational research to focus 
+on discrete elements and discrete relationships at individual or group levels of analysis, 
+resulting in the loss of insight about the complexity of organizational phenomena and a lack 
+of focus on the breadth and variety of issues impacting overall organizational decision-
+making and functioning.  King, Felin and Whetten (2009: 4) succinctly captured the issue 
+stating, “The tendency has been to wipe away differences altogether and prioritize abstraction
+<<<PAGE=33>>>
+32 
+ 
+over contextual specificity” which is required to understand organizational phenomena.  We 
+strongly encourage scholars in the training field interested in questions relevant to our study 
+to examine the potential benefits of employing broader theoretical perspectives such as 
+systems theory.   
+ 
+Our findings regarding three internal organizational context moderators (i.e., industry sector, 
+organizational size and technology intensity) of the training-organizational performance 
+relationship were interesting and, in some cases, departed from findings in prior meta-
+analyses. In contrast to previous findings that report industry sector as a significant contextual 
+moderator whereby a stronger training-organizational performance relationship exists for 
+manufacturing rather than service organizations (Subramony, 2009; Combs et al., 2006), the 
+current study found no significance difference across the industries.  However, it is important 
+to note that the focal explanatory variable in Subramony’s (2009) and Combs et al.’s (2006) 
+meta-analyses was HRM system (i.e. high performance work practices) and HR bundles (i.e. 
+skill-, motivation- and empowerment- enhancing practices), respectively, of which training 
+was one element. Relatedly, the discrepancy in prior meta-analytical reviews may be 
+explained by the complementarity of various individual HRM practices (e.g., selection 
+practices which ensure employees possess the necessary KSAs needed for the role whilst 
+training provides the further firm-specific KSAs to perform task) or derived from the other 
+HR practices other than training practice. This proposition can be supported by scholars that 
+take a strategic or ‘bundling’ approach in HRM research (e.g., Applebaum, Bailey, Berg, & 
+Kalleberg, 2000; Lepak & Shaw, 2008).  
+ 
+Our results suggest that technology intensity did not act as a moderator of the training-
+organizational performance relationship.  This finding is in line with Tzabbar et al. (2017) but
+<<<PAGE=34>>>
+33 
+ 
+conflicts with Rauch and Hatak (2016). The fact that intensity of technology does not act as a 
+moderator may be because training has both value-creating and cost-increasing effects 
+(Cappelli & Neumark, 2001; Sels et al., 2006). That is, the costs associated with developing 
+and delivering training may diminish or even neutralize the positive effects of training on 
+organizational performance. This may be particularly so in high technology industries that 
+rely on employees’ KSAs to stay competitive in a dynamic and volatile environment.  
+ 
+Inconsistent with our prediction and previous findings (Tzabbar et al., 2017), our results 
+found that organizational size was not a significant contextual moderator in the training-
+organizational performance linkage.  One possible reason is that the effectiveness of training 
+reflected in organizational performance is not about what (e.g., training content and quantity) 
+has been implemented by the organizations but depends on how it has been adopted. Small 
+organizations are reported to make more use of in-house and on-the-job training (OECD, 
+2012 Nolan & Garavan, 2019).  Such in-house and on-the job training is very tailored to 
+employee and organizational needs and is cost effective due to resource constraints faced by 
+small organizations).  A possible explanation is that small organizations can achieve similar 
+performance improvement as their larger counterparts through training policy and practice 
+that suit their unique characteristics focused on more in-house and on-the-job training. 
+However, we were only able to test the difference in organizational size in the training-
+organizational performance relationship from the ‘what’ perspective but not ‘how’ 
+perspective and further research would need to examine this question to provide more 
+definite answers.   
+ 
+In line with the equifinality principle of systems theory, and consistent with our hypothesis, 
+our results reveal that firm-specific and general training benefit organizational performance
+<<<PAGE=35>>>
+34 
+ 
+and that neither type of training conferred a distinct advantage over the other. The finding 
+runs contrary to the proposition postulated by human capital theory and RBV (Becker, 1964; 
+Barney, 1991) that superior organizational performance can only be derived from firm-
+specific training and human capital in specific training.  However, our results are supported 
+by a number of empirical studies that have shown the positive contribution of general training 
+to enhanced organizational performance (Riley et al., 2017; Aragon & Sanz Valle, 2013; 
+Beugelsdijk, 2008; Barrett & O’Connell, 2001).  As posited by the equifinality principle 
+where organizations can achieve the same outcomes utilizing alternative organizational 
+processes or mechanisms (Katz & Kahn, 1978), the results of this study suggest that general 
+training can be as effective as specific training in terms of gaining performance advantage 
+and vice-versa.  
+ 
+Finally, we make a methodological contribution. In particular, we have significantly 
+increased the number of studies in the meta-analysis compared to previous meta-analyses and 
+we utilized a three-model meta-analytic approach.  Prior meta-analysis studies used Hunter 
+and Schmidt’s (2004) meta-analytical approach that accounts for within- and between-study 
+variance only but does not deal with inter-dependency of effect sizes. This issue may lead to 
+either over-estimated or under-estimated standard errors of the fixed effects and 
+heterogeneity of the random effect meta-analytical results (Cheung, 2014; Van den Noortgate 
+et al., 2015).  Overall, our findings consolidate knowledge about the value of training in 
+enhancing organizational performance. We hope this study will motivate theoretical and 
+empirical work to more fully understand the relationship between training and organizational 
+performance.     
+ 
+Practical Implications
+<<<PAGE=36>>>
+35 
+ 
+Our study offers a number of important implications for managerial practice. First, our 
+findings indicate that investment in training was associated with increased organizational 
+performance. Specifically, a one standard deviation increase in training was associated with 
+0.25 standard deviation increase in organizational performance. This result indicates that 
+organizations can achieve significant performance gains through investing in training. 
+Second, in terms of the type of training that an organization should invest in, our findings 
+indicates that HR managers may use general and firm-specific training as HR mechanisms to 
+enhance the quality of accumulated human capital, because they can produce similar 
+desirable performance outcomes.  In addition, our findings shed light on the boundary 
+conditions portrayed by institutional contexts that shape the strength of the relationship 
+between training and organizational performance. The results indicate that organizations 
+located in low performance oriented countries and low labor cost economies can potentially 
+derive significantly greater benefits from training investment. Therefore, managers and HR 
+practitioners in these organizations should devote more financial resources and expertise to 
+the development and implementation of training. Finally, our findings reveal that the strength 
+of the relationship between training and organizational performance has increased year on 
+year over time suggesting that training has played an increasingly important role in an 
+omnibus context characterized by globalization, increased scarcity of talent and changing 
+generational expectations of work (Cascio, 2019).  HR practitioners will benefit from 
+ensuring they take a broader, systems perspective when analyzing and planning their training 
+needs and investment.  
+ 
+Limitations and Future Research Avenues  
+The results of our meta-analysis are inevitably subject to limitations and some of these point 
+to avenues for further research.  First, we were constrained by the studies we could
+<<<PAGE=37>>>
+36 
+ 
+incorporate in the meta-analysis database due to missing data and statistical information. 
+While we found that the time period of 2010-2019 resulted in a strong relationship between 
+training and organizational performance, future research should look at if this trend continues 
+to increase over time.  Our findings point to the value of time-related effects, however, they 
+cannot be generalized beyond the time periods included in the meta-analysis. Future studies 
+could more explicitly investigate the temporal mechanisms that underlie the change over time 
+that we report.  In particular, it would be useful to delve further into the specific global 
+changes and economic developments and explore how these changes (e.g., recession, 
+economic growth, technological change, and changing worker expectations) specifically 
+impact training and organizational performance.  
+ 
+Second, our meta-analytical review suggests two significant institutional moderators (i.e., 
+country performance orientation and country labor economy) of the training-organizational 
+performance relationship using the country (or countries) in which the primary study was 
+conducted as a proxy. Future research should examine the moderation model by utilizing 
+different institutional variables. Rosenbusch et al. (2019) suggest the use of inductive 
+qualitative research in addition to fussy-set analysis to surface new institutional factors and 
+investigate configurations of institutional factors that may influence the training-
+organizational performance relationship.  
+ 
+Third, we operationalized training in terms of five key measurements reported in the 
+literature: spend, proportional measures such as number of staff trained, content of training 
+such as type of training, emphasis given to training, and training effectiveness.  Most of these 
+measures pertain to training quantity rather than training quality.  It would be useful for
+<<<PAGE=38>>>
+37 
+ 
+future research to further understand how training effectiveness and quality impacts the 
+training-organizational performance relationship.  
+ 
+Fourth, our meta-analysis highlights major methodological limitations in individual studies 
+that need to be addressed by researchers in future studies of the relationship. In many cases, 
+investigating the moderating effect of organizational and environmental factors results in a 
+small number of correlations for practice. Our moderation analyses of three internal 
+organizational context forces were drawn from small datasets (i.e. N=59 for industry sector, 
+N=24 for organizational size, N=41 for technology intensity). Researchers have argued that 
+the quantity of primary studies matters when conducting random-effect meta-analysis and 
+inference made from small number of studies may not guarantee reliable conclusions (Guolo 
+& Varin, 2017).  Hence, moving forward, if a significant amount of empirical studies emerge 
+in the future, it is worthwhile for training scholars to replicate the moderated meta-analytical 
+analysis conducted here and perhaps include additional institutional variables informed by 
+systems theory.   
+ 
+References 
+Ahmad, S., & Schroeder, R.G. (2003). The impact of human resource management practices 
+on operational performance: Recognizing country and industry differences. Journal of 
+Operations Management, 25(1), 19-43. 
+Anand, N., Gardner, H.K., & Morris, T. (2007). Knowledge-based innovation: Emergence 
+and embedding of new practice areas in management consulting firms. Academy of 
+Management Journal, 50(2), 406-428. 
+Appelbaum, E., Bailey, T., Berg, P., & Kalleberg, A. (2000). Manufacturing Advantage: Why 
+High Performance Work Systems Pay Off. Ithaca, NY: ILR Press.  
+Association for Talent Development (2017). State of the Industry Report . Available at: 
+https://www.td.org/research-reports/2017-state-of-the-industry
+. [Retrieved on 15th June 
+2019].   
+Aragon, I.B., & Sanz Valle, R. (2013). Does training managers pay off. International Journal 
+of Human Resource Management, 24(8), 1671-1684. 
+Arunprasad, P. (2017). Inevitable knowledge strategy: A paradigm shift in strategic HRM 
+practices to augment firm’s performance. Employee Relations, 39(5), 753-774.
+<<<PAGE=39>>>
+38 
+ 
+Assink, M., & Wibbelink, C.J.M. (2016). Fitting three-level meta-analytic model in R: A 
+step-by-step tutorial. The Quantitative Methods for Psychology, 12(3), 154-174. 
+ATD. (2018). New ATD Research: Investment in Talent Development on the Rise. Available 
+online: https://www.td.org/press-release/new-atd-research-investment-in-talent-
+development-on-the-rise [Retrieved on 16th June 2019] 
+Barney, J. (1991). Firm resources and sustained competitive advantage. Journal of 
+Management, 17, 99-120. 
+Barney, J.B., & Wright, P.M. (1998). On becoming a strategic partner: The role of human 
+resources in gaining competitive advantage. Human Resource Management, 37, 31-46. 
+Barrett, A., & O’Connell, P.J. (2001). Does training generally work? The returns to in-
+company training. Industrial and Labor Relations Review, 54(3), 647-662. 
+Bartel, A.P. (1994). Productivity gains from the implementation of employee training 
+programs. Industrial Relations, 33(4), 411-425. 
+Becker, G.S. (1964). Human Capital: A Theoretical and Empirical Analysis, with Special 
+Reference to Education. Chicago: University of Chicago. 
+Bettis, R.A., & Hitt, M.A. (1995). The new competitive advantage. Strategic Management 
+Journal, 10, 449–474. 
+Beugelsdijk, S. (2008). Strategic human resource practices and product innovation. 
+Organization Studies, 29(6), 821-847. 
+Blom, R., Kruyen, P.M., Van der Heijden, B., & van Thiel, S. (2018). One HRM fits all? A 
+meta-analysis of the effects of HRM practices in the public, semipublic, and private 
+sector. Review of Public Personnel Administration, doi: 10.1177/0734371X18773492 
+Bouncken, R.B., & Kraus, S. (2013). Innovation in knowledge-intensive industries: The 
+double-edged sword of coopetition. Journal of Business Research, 66, 2060-2070. 
+Budhwar, P., Pereira, V., Mellahi, K., & Singh, S. (2018). The state of HRM in the Middle 
+East: Challenges and future research agenda. Asia Pacific Journal of Management, doi: 
+10.1007/s10490-018-9587-7. 
+Budria, S., & Pereira, P. (2007). The wage effects of training in Portugal: difference across 
+skill groups, genders, sectors and training types. Applied Economics, 39(6), 787-807. 
+Cappelli, P. & Neumar, D. (2001). Do ‘high-performance’ work practices improve 
+establishment-level outcomes? Industrial & Labor Relations Review, 54, 737-775. 
+Cascio, W.F. (2019). Training trends: Macro, micro, and policy issues. Human Resource 
+Development Review, 29, 284-297. 
+Cascio, W.F., & Graham, B.Z. (2016). New strategic role for HR: Leading the employer-
+branding process. Organization Management Journal, 13(4), 182-192. 
+Chadwick, C., & Dabu, A. (2009). Human resources, human resource management, and the 
+competitive advantage of firms: Toward a more comprehensive model of causal 
+linkage. Organization Science, 20(1), 253-272. 
+Chadwick, C., Way, S.A., Kerr, G., & Thacker, J.W. (2013). Boundary conditions of the 
+high-investment human resource systems-small-firm labor productivity relationship. 
+Personnel Psychology, 66(2). 311-343.
+<<<PAGE=40>>>
+39 
+ 
+Chatterjee, J. (2017). Strategy, human capital investments, business-domain capabilities, and 
+performance: A study in the global software services industry. Strategic Management 
+Journal, 38(3), 588-608. 
+Cheung, M.W. (2014). Modeling dependent effect sizes within three-level meta-analyses: A 
+structural equation modeling approach. Psychological Methods, 19(2), 211-229. 
+Chi, N., Wu, C., & Lin, C.Y. (2008). Does training facilitate SME’s performance? 
+International Journal of Human Resource Management, 19(10), 1962-1975. 
+Choi, M., & Yoon, H. (2015). Training investment and organizational outcomes: A 
+moderated mediated model of employee outcomes and strategic orientation of the HR 
+function. International Journal of Human Resource Management, 26(20), 2632-2651. 
+Chuang, C., & Liao, H. (2010). Strategic human resource management in service context: 
+taking care of business by taking care of employees and customers. Personnel 
+Psychology, 63, 153-196. 
+CIPD (2017). Employee Outlook: Spring 2017. Available online: 
+https://www.cipd.co.uk/knowledge/fundamentals/relations/engagement/employee-
+outlook-reports [Retrieved 4th June 2019]. 
+Coff, R., & Raffiee, J. (2015). Toward a theory of perceived firm-specific human capital. 
+Academy of Management Executive, 3, 326-341. 
+Coff, R.W. (1997). Human assets and management dilemmas: Coping with hazards on the 
+road to resource-based theory. Academy of Management Review, 22, 374–402. 
+Combs, J., Liu, Y., Hall, A., & Ketchen, D. (2006). How much do high-performance work 
+practices matter? A meta-analysis of their effects on organizational performance. 
+Personnel Psychology, 59, 501–528. 
+Cooper, H. (2009). Research Synthesis and Meta-Analysis (4th ed). London: Sage.  
+Crook, T. R., Todd, S. Y., Combs, J. G., Woehr, D. J., & Ketchen, D. J. (2011). Does human 
+capital matter? A meta-analysis of the relationship between human capital and firm 
+performance. Journal of Applied Psychology, 96, 443–456. 
+Darwish, T.K., Singh, S. and Mohamed, A.F. (2013). The role of strategic HR practices in 
+organizational effectiveness: An empirical investigation in the country of Jordan. 
+International Journal of Human Resource Management, 24(17), 3343-3362. 
+Delaney, J.T., & Huselid, M.A. (1996). The impact of human resource management practices 
+on perceptions of organizational performance. Academy of Management Journal, 39(4), 
+949-969. 
+Egger, M., Smith, G.D., Schneider, M., & Minder, C.E. (1997) Bias in meta-analysis detected 
+by a simple, graphical test. BMJ Clinical Research, 13(315), 629-634. 
+Estebán-Lloret, N.N., Aragon-Sanchez, A., & Carrasco-Hernandez, A. (2016). Determinants 
+of employee training: Impact on organizational legitimacy and organizational 
+performance. International Journal of Human Resource Management, 29(6), 1208–
+1229. 
+European Commission (2003). What is an SME? Available online 
+https://ec.europa.eu/growth/smes/business-friendly-environment/sme-definition_en 
+[retrieved on 9 Sep 2019]
+<<<PAGE=41>>>
+40 
+ 
+Farndale, E., & Paauwe, J. (2018). SHRM and context: why firms want to be different as 
+legitimately possible. Journal of Organizational Effectiveness: People and 
+Performance, 5(3), 202-210. 
+Fernandez, S., & Moldogaziew, T. (2010). Empowering public sector employees to improve 
+performance: Does it work? American Review of Public Administration, 41, 23-47. 
+Fey, C., Bjorkman, I., & Pavlovskaya, A. (2000). The effect of human resource management 
+practices on firm performance in Russia. International Journal of Human Resource 
+Management, 11(1), 1-18. 
+Forth, J., & McNabb, R. (2008). Workplace performance: A comparison of subjective and 
+objective measures in the 2004 Workplace Employment Relations Survey. Industrial 
+Relations Journal, 39(2), 104-123. 
+Friedman, T.L. (2016). Thank You for Being Late: An Optimist’s Guide to Thriving in the 
+Age of Accelerations. New York, NY: Farrar, Straus & Giroux.  
+Garavan, T., Shanahan, V., Carbery, R., & Watson, S. (2016). Strategic human resource 
+development: towards a conceptual framework to understand its contribution to 
+dynamic capabilities. Human Resource Development International, 19(4), 289-306. 
+Garavan, T., Watson, S., Carbery, R., & O’Brien, F. (2016). The antecedents of leadership 
+development practices in SMEs: The influence of HRM strategy and practice. 
+International Small Business Journal, 34(6), 870-890. 
+Garavan, T.N. (2007). A strategic perspective on human resource development. Advances in 
+Developing Human Resources, 9, 11-30. 
+Georgiadis, A., & Pitelis, C.N. (2012). Human resources and SME performance in services: 
+Empirical evidence form the UK. International Journal of Human Resource 
+Management, 23(4), 808-825. 
+Grant, R. M. (1996). Prospering in dynamically competitive environments: Organizational 
+capability as knowledge integration. Organization Science, 7, 375–387. 
+Greenwood, R., Díaz, A. M., Li, S. X., & Lorente, J. C. (2010). The Multiplicity of 
+Institutional Logics and the Heterogeneity of Organizational Responses. Organization 
+Science. doi: 10.1287/orsc.1090.0453. 
+Grove, C.N. (2005). Introduction to the GLOBE Research Project on Leadership Worldwide. 
+Available online: https://www.grovewell.com/wp-content/uploads/pub-GLOBE-
+intro.pdf.[Retrieved on 16
+th May, 2019] 
+Guerrazzi, M. (2016). The effect of training on Italian firms’ productivity: microeconomic 
+and macroeconomic perspectives. International Journal of Training and Development, 
+21(1), 38-57. 
+Guolo, A.. & Varin, C. (2017). Random-effects meta-analysis: The number of studies 
+matters. Statistical Methods in Medical Research, 26(3) 1500-1518. 
+Hatzichronoglou, T. (1997). Revision of the high-technology sector and product 
+classification. OECD Science, Technology and Industry Working Papers, 1997/2002. 
+Publishing OECD.  
+Hirsch-Kreinsen, H. (2016). Digitization of industrial work: Development paths and 
+prospects. Journal for Labour Market Research, 49(1), 1-14.
+<<<PAGE=42>>>
+41 
+ 
+House, R., Hanges, P., Javidan, M., Dorfman, P., & Gupta, V. (2004). Culture, leadership, 
+and organizations: The GLOBE study of 62 societies. Thousand Oaks, CA: Sage 
+Publications. 
+Hox, J.J. (2010). Multilevel Analysis: Techniques and Applications. New York, NY: 
+Routledge. 
+Hughes, A., Zajac, S., Woods, A., & Salas, E. (2019). The role of work environment in 
+training sustainment: A meta-analysis. Human Factors: The Journal of the Human 
+Factors and Ergonomics Society, doi: 10.1177/00187208198988. 
+Hunter, J.E., & Schmidt, F.L. (2004). Methods of Meta-Analysis: Correcting Error and Bias 
+in Research Findings (2nd ed). Thousand Oaks, CA: Sage. 
+International Labour Organization. (2016). Global Wage Report 2016/17: Wage Inequality in 
+the Workplace. Geneva: International Labour Office.  
+Jackson, S.E., Schuler, R.S., & Jiang, K. (2014). An aspirational framework for strategic 
+human resource management. Academy of Management Annals, 8(1), 1-56. 
+Javidan, M., House, R.J., Dorfman, P.W., Hanges, P.J., & Sully de Luque, M. (2006). 
+Conceptualizing and measuring cultures and their consequences: A comparative review 
+of GLOBE’s and Hofstede’s approaches. Journal of International Business Studies, 37, 
+897-914. 
+Jiang, K., Lepak, D.P., Hu, J. and Baer, J.C. (2012). How does human resource management 
+influence organizational outcomes? A meta-analytical investigation of mediating 
+mechanisms. Academy of Management Journal, 55(6), 1264-1294. 
+Johns, G. (2006). The essential impact of context on organizational behaviour. Academy of 
+Management Review, 31(2), 386-408. 
+Johnson, J.W. (1996). Linking employee perceptions of service climate to customer 
+satisfaction. Personnel Psychology, 49, 831-851. 
+Kast, F.E., & Rosenzweig, J.E. (1972). General systems theory: Applications for organization 
+and management. Academy of Management Journal, 447-466. 
+Katz, D., & Kahn, R. (1978). The Social Psychology of Organization. New York: Wiley.   
+Khandwalla, P.N. (2006). Tools for enhancing innovativeness in enterprises. Journal of 
+Decision Making, 31(1), 1-16. 
+Khatri, N. (2000). Managing human resource for competitive advantage: A study of 
+companies in Singapore. International Journal of Human Resource Management, 
+11(2), 336-365. 
+Kim, H., Hawley, J.D., Cho, D., Hyun, Y., & Kim, J. (2016). The influence of learning 
+activitiy on low-skilled workers’ skill improvement in the South Korean manufacturing 
+industry. Human Resource Development International, 19(3), 209-228. 
+Kim, Y., &  Ployhart, R.E. (2014). The effects of staffing and training on firm productivity 
+and profit growth before, during and after the Great Recession. Journal of Applied 
+Psychology, 99(3), 361-389. 
+King, B. G., Felin, T., & Whetten, D. A. (2009). Research in the sociology of organizations, 
+vol. 26. Bingley, UK: Emerald Group Publishing Limited.
+<<<PAGE=43>>>
+42 
+ 
+Kortekaas, F. (2007). HRM, Organisational Performance and the Role of Firm Size. Master 
+thesis submitted to Erasmus School of Economics, Department of Entrepreneurship, 
+Governance, Organisation & Strategy, Erasmus University of Rotterdam.  
+Kraiger, K. (2014). Looking Back and Looking Forward: Trends in Training and 
+Development Research. Human Resource Development Quarterly, 25(4), 401–408.  
+Kraiger, K., Passmore, J., dos Santos, N., & Malvezzi, S. (2014). The Wiley Blackwell 
+Handbook of The Psychology of Training, Development and Performance Improvement 
+(eds). Chichester: John Wiley & Sons.  
+Kwon, K., & Rupp, D.E. (2013). High-performer turnover and firm performance: The 
+moderating role of human capital investment and firm reputation. Journal of 
+Organizational Behavior, 34, 129-150. 
+Lee, G.J. (2012). Firm size and the effectiveness of training for customer service. 
+International Journal of Human Resource Management, 23(12), 2597-2613. 
+Lepak, D.P., & Shaw, J.D. (2008). Strategic HRM in North America: Looking to the future. 
+International Journal of Human Resource Management, 19(8), 1486-1499. 
+Lipsey, M., & Wilson, D. (2001). Practical Meta-Analysis. Thousand Oaks, CA: Sage. 
+McHugh, M.L. (2012). Interrater reliability: the Kappa statistic. Biochemistry Medicine, 
+22(3), 276-282. 
+Meyer, K.E., & Peng, M.W. (2016). Theoretical foundations of emerging economy business 
+research. Journal of International Business Studies, 47(1), 3-22.  
+Montealegre, R., & Cascio, W.F. (2017). Technology-driven changes in work and 
+employment. Communications of the ACM, 60(12), 60-67. 
+Mueller, V., Rosenbusch, N., & Bausch, A. (2013). Success patterns of exploratory and 
+exploitative in innovation: A meta-analysis of the influence of institutional factors. 
+Journal of Management, 39, 1606-1636. 
+Murad, M.H., Chu, H., Lin, L, & Wang, Z. (2018). The effect of publication bias magnitude 
+and direction on the certainty in evidence. BMJ Evidence Based Medicine, 23(3), 84-
+86. 
+Nadler, D., & Tushman, M. (1980). A model for diagnosing organizational behaviour. 
+Organizational Dynamics, 9(2), 35-51. 
+Nieves, J., & Quintana, A. (201). Human resource practices and innovation in the hotel 
+industry: The mediating role of human capital. Tourism and Hospitality Research, DOI: 
+100.1177/1467358415624137.  
+Noe, R. (2017). Employee Training and Development. New York, NY: McGraw Hill 
+Education. 
+Nolan, C.T., & Garavan, T. N. (2019). External and internal networks and access to HRD 
+resources in small professional service firms. Human Resource Development 
+International, doi: 10.1080/13678868.2019.1625853 
+North, D. (1990). Institutions, Institutional Change and Economic Performance. Cambridge: 
+Cambridge University Press. 
+OECD. (2012). Innovation in Skills Development in SMEs. Available online: 
+https://www.oecd.org/cfe/leed/TSME%20Highlights%20FINAL%20formatted.pdf 
+[Retrieved on 12
+th June 2019].
+<<<PAGE=44>>>
+43 
+ 
+Peters, J.L., Sutton, A., Jones, D.R., Abrams, K.R., Rushton, L., & Moreno, S.G. (2010). 
+Assessing publication bias in meta-analyses in the presence of between-study 
+heterogeneity. Journal of the Royal Statistical Society Statistics in Society Series A, 
+173(3). 575-591. 
+Ployhart, R.E., & Moliterno, T.P. (2011). Emergence of the human capital resource: A 
+multilevel model. Academy of Management R-eview, 36(1), 127-150. 
+Ployhart, R.E., & Vandenberg, R.J. (2010). Longitudinal research: theory, design, and 
+analysis of change. Journal of Management, 36, 94-120. 
+Prince, D. (2008). Tracking low-skill adult students longitudinally: Using research to guide 
+policy and practice. New Directions for Community Colleges, 59-69. 
+Purcell, J., & Boxall, P. (2015). Strategy and Human Resource Management (4th ed). 
+London: Palgrave Macmillan. 
+Quinn, J.B., Anderson, P., & Finkelstein, S. (1996). Managing professional intellect: Making 
+the most of the best. Harvard Business Review, 74(2), 71–80. 
+Rabi, T., Jayasingh, M., Gerhart, B., & Kuhlmann, T.A. (2014). Meta-analysis of country 
+differences in the high performance work systems-business performance relationship: 
+The roles of national culture and managerial discretion. Journal of Applied Psychology, 
+99, 1011–1041. 
+Rauch, A., & Hatak, I. (2016). A meta-analysis of different HR-enhancing practices and 
+performance of small and medium-sized firms. Journal of Business Venturing, 31, 485-
+504. 
+Riley, S.M., Michael, S.C., & Mahoney, J.T. (2017). Human capital matters: Market value of 
+firm investment in training and the role of complementary assets. Strategic 
+Management Journal, 38(9), 1895–1914. 
+Rodwell, J.J., & Teo, S.T.T. (2008). The influence of strategic HRM and sector on perceived 
+performance in health services organizations. International Journal of Human Resource 
+Management, 19(10), 1825-1841. 
+Rosenbusch, N., Gusenbauer, M., Hatak, I., Fink, M., & Meyer, K.E. (2019). Innovation 
+offshoring, institutional context and innovation performance: A meta-analysis. Journal 
+of Management Studies, 56(1), 203-232. 
+Rosenthal, P., Hill, S., & Peccei, R. (1997). Checking out service: Evaluating excellence, 
+HRM and TQM in retailing. Work, Employment & Society, 11(3), 481–503. 
+Ruona, W.E. (2016). Evolving Human Resource Development. Advances in Developing 
+Human Resources, 18(4), 551–565. 
+Russell, J.S., Terborg, J.R., & Powers, M.L. (1985). Organizational performance and 
+organizational level training and support. Personnel Psychology, 38, 849-863. 
+Schleicher, D., Baumann, H.M., Sullivan, D.W., Levy, P.E., Hargrove, D.C., & Barros-
+Rivera, B.A. (2018). Putting the system into performance management systems: A 
+review and agenda for performance management research. Journal of Management, 
+44(6), 2209-2245. 
+Schneider, B., Hanges, P.J., Smith, D.B., and Salvaggio, A.N. (2003). Which comes first: 
+Employee attitudes or organizational financial and market performance. Journal of 
+Applied Psychology, 88, 836–851.
+<<<PAGE=45>>>
+44 
+ 
+Schommer, M., Richter, A., & Karna, A. (2019). Does the diversification-firm performance 
+relationship change over time? A meta-analytical review. Journal of Management 
+Studies, 56(1), 270-298. 
+Sels, L., DeWinne, S., Maes, J., Delmotte, J., Faems, D., & Forrier, A. (2006). Unravelling 
+the HRM-performance link: Value-creating and cost-increasing effects of small 
+business HRM. Journal of Management Studies, 43, 319-342. 
+Shin, D., & Konrad, A.M. (2017). Causality between high-performance work systems and 
+organizational performance. Journal of Management, 43(4), 973-997. 
+Singh, S., Darwish, T., Wood, G., & Mohamed, A. (2017). Institutions, complementarity, 
+human resource management and performance in a South-East Asian pestrostate: The 
+case of Brunei. International Journal of Human Resource Management, 28(18), 2538-
+2569. 
+Sitzmann, T., & Weinhardt, J. (2018). Training engagement theory: A multilevel perspective 
+on the effectiveness of work-related training. Journal of Management, 44(2), 732-756. 
+Somaya, D., Williamson, I.O, & Lorinkova, N. (2008). Gone but not lost: The different 
+performance impacts of employee mobility between co-operators versus competitors. 
+Academy of Management Journal, 51(5), 936-953. 
+Subramony, M. (2009). A meta-analytic investigation of the relationship between HRM 
+bundles and firm performance. Human Resource Management, 48(5), 745–768. 
+Sung, S., & Choi, J.N. (2014). Do organizations spend wisely on employees? Effects of 
+training and development investments on learning and innovation in organizations. 
+Journal of Organizational Behavior, 35(3), 393-412. 
+Tharenou, P., Saks, A. M., & Moore, C. (2007). A review of critique of research on training 
+and organizational-level outcomes. Human Resource Management Review, 17, 251–
+273. 
+Training Industry Report. (2018). 2018 Training Industry Report. Available online: 
+https://trainingmag.com/sites/default/files/trn-2018-industry-report.pdf [Retrieved on 
+16th June 2019] 
+Tzabbar, D., Tzafrir, S., & Baruch, Y. (2017). A bridge over troubled water: Replication, 
+integration and extension of the relationship between HRM practices and organizational 
+performance using moderating meta-analysis. Human Resource Management Review, 
+27, 134–148. 
+United States Bureau of Labor Statistics (2017). Employment cost index. Available online: 
+https://www.bls.gov/news.release/eci.toc.htm.[Retrieved from 4
+th May 2019] 
+Utterback, J. (1996). Mastering the dynamics of innovation: How companies can seize 
+opportunities in the face of technological change. Boston: Harvard Business School 
+Press.  
+Van den Noortgate, W., Lopez-Lopez, J.A., Marin-Martinez, F., & Sanchez-Meca, J. (2015). 
+Meta-analysis of multiple outcomes: A multilevel approach. Behavior Research 
+Methods, 47(4), 1274-1294. 
+Van den Noortgate, W., Lopez-Lopez, J.A., Marin-Martinez, F., & Sancez-Meca, J. (2013). 
+Three-level meta-analysis of dependent effect sizes. Behavior Research Methods, 
+45(2), 576-594.
+<<<PAGE=46>>>
+45 
+ 
+Van Esch, E., Wei, L., & Chiang, F. (2018). High-performance human resource practices and 
+firm performance: The mediating role of employees’ competencies and the moderating 
+role of climate for creativity. International Journal of Human Resource Management, 
+29(10), 1683-1708. 
+Viechtbauer, W. (2019). Package ‘metafor’. Available online: http://www.metafor-
+project.org https://github.com/wviechtb/metafor. [retrieved on 26th May 2019] 
+Vlachos, I. (2008). The effect of human resource practices on organizational performance: 
+evidence from Greece. International Journal of Human Resource Management, 19(1), 
+74-97. 
+Von Bertalanffy, L. (1968). General System Theory Foundations, Development, Applications. 
+New York: Braziller.  
+Wall, T.D., Michie, J., Patterson, M., Wood, S.J., Sheehan, M., Clegg, C.W., & West, M. 
+(2004). On the validity of subjective measures of company performance. Personnel 
+Psychology, 57, 95-118.  
+Washington State Board for Community and Technical College. (2005). Report on Building 
+Pathways to Success for Low-Skill Adult Students: Lessons for Community College 
+Policy and Practice from a Longitudinal Student Tracking Study. Available online: 
+http://ccrc.tc.columbia.edu/publications/low-skilladults-policy.html. [Retrieved on 13th 
+May 2019] 
+Wegman, L., Hoffman, B., Carter, N., Twenge, M., & Guenole, N. (2018). Placing job 
+characteristics in context: Cross-temporal meta-analysis of changes in job 
+characteristics since 1975. Journal of Management, 44(1), 352-386. 
+White, R.E., & Hamermesh, R.G. (1981). Toward a model of business unit performance: An 
+integrative approach. Academy of Management Review, 6, 213-223. 
+Wood, S., Holman, D., &  Stride, C. (2006). Human resource management and performance 
+in UK call centres. British Journal of Industrial Relations, 44(1), 99-124. 
+Wright, P., Nyberg, A., & Ployhart, R. (2018). A research revolution in SHRM: New 
+challenges and new research directions, In Buckley, R., Wheeler, A., Halbesleben, J. 
+(eds). Research in Personnel and Human Resource Management, pp.141-161. Bingley:  
+Emerald Publishing Ltd. 
+Wright, P.M., & McMahan, G.C. (2011). Exploring human capital: Putting ‘human’ back into 
+strategic human resource management. Human Resource Management Journal, 21(2), 
+93-104. 
+Wu, N., Bacon, N., & Hoque, J. (2013). The adoption of high-performance work practices in 
+small businesses: The influence of markets, business characteristics and HR expertise. 
+International Small Business Journal, 25(8), 1149-1169. 
+Zhou, K.Z., & Wu, F. (2010). Technological capability, strategic flexibility, and product 
+innovation. Strategic Management Journal, 31(5), 547-561.

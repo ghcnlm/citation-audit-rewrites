@@ -1,0 +1,29 @@
+{
+  "type": "object",
+  "properties": {
+    "verdict": {
+      "type": "string",
+      "enum": [
+        "EXACT_QUOTE_PASS",
+        "FAITHFUL_PARAPHRASE_PASS",
+        "AMBIGUOUS_REVIEW",
+        "UNSUPPORTED_FAIL"
+      ]
+    },
+    "rationale": { "type": "string", "minLength": 1 },
+    "evidence_span": { "type": "string", "minLength": 1 },
+    "required_fix": { "type": "string" },
+    "risk_flags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": [
+    "verdict",
+    "rationale",
+    "evidence_span",
+    "required_fix",
+    "risk_flags"
+  ],
+  "additionalProperties": false
+}

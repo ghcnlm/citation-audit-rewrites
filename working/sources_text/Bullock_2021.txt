@@ -1,0 +1,2450 @@
+<<<PAGE=1>>>
+RESEARCH Open Access
+Understanding the implementation of
+evidence-informed policies and practices
+from a policy perspective: a critical
+interpretive synthesis
+Heather L. Bullock 1* , John N. Lavis 1,2, Michael G. Wilson 1,2, Gillian Mulvale 3 and Ashleigh Miatello 1
+Abstract
+Background: The fields of implementation science and knowledge translation have evolved somewhat
+independently from the field of policy implementation research, despite calls for better integration. As a result,
+implementation theory and empirical work do not often reflect the implementation experience from a policy lens
+nor benefit from the scholarship in all three fields. This means policymakers, researchers, and practitioners may find
+it challenging to draw from theory that adequately reflects their implementation efforts.
+Methods: We developed an integrated theoretical framework of the implementation process from a policy
+perspective by combining findings from these fields using the critical interpretive synthesis method. We began with
+the compass question: How is policy currently described in implementation theory and processes and what aspects
+of policy are important for implementation success? We then searched 12 databases as well as gray literature and
+supplemented these documents with other sources to fill conceptual gaps. Using a grounded and interpretive
+approach to analysis, we built the framework constructs, drawing largely from the theoretical literature and then
+tested and refined the framework using empirical literature.
+Results: A total of 11,434 documents were retrieved and assessed for eligibility and 35 additional documents were
+identified through other sources. Eighty-six unique documents were ultimately included in the analysis. Our
+findings indicate that policy is described as (1) the context, (2) a focusing lens, (3) the innovation itself, (4) a lever of
+influence, (5) an enabler/facilitator or barrier, or (6) an outcome. Policy actors were also identified as important
+participants or leaders of implementation. Our analysis led to the development of a two-part conceptual
+framework, including process and determinant components.
+Conclusions: This framework begins to bridge the divide between disciplines and provides a new perspective
+about implementation processes at the systems level. It offers researchers, policymakers, and implementers a new
+way of thinking about implementation that better integrates policy considerations and can be used for planning or
+evaluating implementation efforts.
+Keywords: Implementation science, Public policy, Evidence-based health care, Systematic review, Critical
+interpretive synthesis
+© The Author(s). 2021 Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if
+changes were made. The images or other third party material in this article are included in the article's Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material is not included in the article's Creative Commons
+licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain
+permission directly from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+The Creative Commons Public Domain Dedication waiver ( http://creativecommons.org/publicdomain/zero/1.0/) applies to the
+data made available in this article, unless otherwise stated in a credit line to the data.
+* Correspondence: bullochl@mcmaster.ca
+1Department of Health Research Methods, Evidence and Impact, McMaster
+University, 1280 Main Street West, Hamilton, Ontario L8S 4L6, Canada
+Full list of author information is available at the end of the article
+Bullock et al. Implementation Science           (2021) 16:18 
+https://doi.org/10.1186/s13012-021-01082-7
+<<<PAGE=2>>>
+Contributions to the literature
+/C15This study unpacks the implementation of evidence-
+informed policies and practices through the systematic de-
+velopment of new theory drawing from three distinct fields
+of scholarship: policy implementation, implementation sci-
+ence, and knowledge translation, answering a call from im-
+plementation researchers for more integration.
+/C15The conceptual framework views implementation from the
+“outer context ” and includes (1) a model describing the
+process of implementation and (2) a framework that
+identifies the policy-related determinants of implementation
+success.
+/C15This conceptual framework provides researchers,
+policymakers, and implementers with a new way of thinking
+about implementation and can be used for planning or
+evaluating implementation efforts.
+Background
+Implementation has captured the attention of public
+policy scholars for well over 50 years [ 1], yet remains
+relatively under-studied compared to other stages of
+policy-making. The reasons for this are many and in-
+clude challenges with isolating implementation from
+other parts of the policy process and a lack of agreement
+about conceptual underpinnings [ 2]. This then leads to
+challenges in identifying relevant explanatory variables
+and analysts often must resort to a “long list of variables
+that are potentially useful ” [2]. Even once decisions re-
+garding these challenges have been made, the complex,
+multi-level, and multi-faceted nature of implementation
+creates difficulties designing and conducting high-quality
+empirical research that can offer useful generalizations
+to those interested in improving the process of imple-
+mentation and thus achieving better policy results [ 2].
+Research on implementation has also independently
+come into sharp focus through the related fields of
+knowledge translation and implementation science. Con-
+ceptual work on implementation from these fields has
+increased at a seemingly exponential rate to the point
+where there is a great deal of focus on sorting and classi-
+fying the many frameworks, models, and theories and
+providing guidance toward their use [ 3–6]. The empir-
+ical literature is also rapidly increasing, with over 6200
+systematic reviews on consumer-targeted, provider-
+targeted, and organization-targeted implementation
+strategies in the health field alone (based on a search of
+www.healthsystemsevidence.org).
+Despite the large number of models, theories, and
+frameworks being generated in the knowledge transla-
+tion and implementation science fields, the role of policy
+in the implementation process appears to be under-
+theorized. When policy is included in conceptual work,
+it is often identified as a contextual variable [ 7, 8] rather
+than being central to the implementation concept itself.
+It is also often presented as a broad category of “policy”,
+rather than as a variable that is specific and therefore
+measurable in empirical work. This lack of conceptual
+clarity and empirical work about policy and other
+policy-related structural constructs has been noted by
+several researchers. For example, a systematic review of
+measures assessing the constructs affecting implementa-
+tion of health innovations makes specific reference to
+the “relatively few ” measures available to assess struc-
+tural constructs, which they define as “political norms,
+policies and relative resources/socio-economic status ”
+[9]. As a result, the field of public policy appears to have
+on the one hand, a challenge of too many policy-related
+implementation variables, and on the other hand, the
+fields of knowledge translation and implementation ap-
+pear to have too few.
+In recent years some researchers have recognized
+these silos in scholarship and have called for more im-
+plementation research that integrates public policy and
+implementation science and knowledge translation per-
+spectives [ 10]. For example, Johansson concludes that
+implementation problems could be better understood
+through the inclusion of research in public administra-
+tion, with more focus on issues such as resource alloca-
+tion, priorities, ethical considerations, and the
+distribution of power between actors and organizational
+boundaries [ 11].
+In addition to these challenges, much of the seminal
+policy scholarship on implementation from both the
+public policy and knowledge translation and implemen-
+tation literatures come from the USA [ 12–15]. This has
+resulted in a concentration of theoretical and empirical
+works that reflect the governance, financial and delivery
+arrangements that are particular to the USA [ 16, 17] and
+that may not always readily apply in other contexts.
+These differences are particularly marked when it comes
+to the policy domain of health given the differences of
+the US system compared to most others [ 18]. One not-
+able exception to this is the European contributions to
+the “second generation ” of policy scholarship on imple-
+mentation, which adopted the perspective of those at the
+“coal face ” of policy implementation [ 19].
+In response to these challenges, the objective of our
+study was to develop an integrated theoretical frame-
+work of the implementation process from a policy per-
+spective by combining findings from the public policy,
+implementation science, and knowledge translation
+fields. By integrating knowledge from these fields using a
+critical interpretive synthesis approach, we specifically
+examine how policy considerations are described in
+Bullock et al. Implementation Science           (2021) 16:18 Page 2 of 24
+<<<PAGE=3>>>
+implementation theories, frameworks, and processes
+from existing published and gray literature. Our goal
+was to generate a theoretical framework to foster an im-
+proved understanding of the policy contributions to im-
+plementation that can be used in future studies to
+generate testable hypotheses about large-scale system
+implementation efforts.
+Methods
+Study design
+Given the broad goal of this study, the question of inter-
+est, and the scope of potentially applicable literature
+from discrete fields that could inform this work, we se-
+lected a critical interpretive synthesis (CIS) approach.
+Drawing from the techniques of meta-ethnography com-
+bined with traditional systematic review processes, CIS
+employs an inductive and interpretive technique to crit-
+ically inspect the literature and develop a new
+conceptualization of the phenomenon of interest. Unlike
+traditional systematic reviews that often focus on ques-
+tions of effectiveness, CIS is helpful in generating mid-
+range theories with strong explanatory power [ 20, 21].
+This is suitable for our goal of developing a conceptual
+framework that better integrates findings from diverse
+fields and affords the opportunity to critically inspect
+both individual studies and the literature from each field
+as a whole in terms of the nature of the assumptions
+underlying each field, and what has influenced their pro-
+posed solution [ 22]. The method begins with a compass
+question, which evolves throughout the course of the re-
+view [ 22, 23]. Our compass question was as follows:
+How is policy currently described in implementation
+theory and processes and what aspects of policy are im-
+portant for implementation success?
+Review scope
+Our review casts a very broad net in terms of implemen-
+tation processes and theories. While our main focus is
+on large-scale implementation efforts in health, behav-
+ioral health, and human services areas that are not spe-
+cific to a particular condition, we also drew from other
+large-scale implementation theories and empirical work,
+such as from the field of environmental science, that
+may yield important insights toward a more integrated
+framework of implementation. We drew from two key
+sources of literature: (1) existing frameworks, models,
+and theories (public policy, implementation science and
+knowledge translation) and (2) empirical studies that re-
+port on specific implementation processes.
+Given our interest in implementation processes from a
+policy perspective, we limited our review to implementa-
+tion frameworks, models, theories and empirical reports
+that describe implementation efforts at a community or
+systems level (e.g., city, province/state or country) where
+policy considerations are most likely to be an important
+factor. Implementation of a single evidence-based prac-
+tice (unless across a large-scale) or implementation in a
+single organization were excluded, as was research that
+focused on behavior change at the individual level.
+Electronic search strategy
+Using the compass question, and in consultation with a
+librarian, we constructed a table of Boolean-linked key
+words and then tested several search strategies (Table 1).
+The search was then conducted in October 2020 for the
+time period of January 2000 –September 2020 using the
+following 12 databases: ASSIA, CINAHL (via EBSCO),
+EMBASE (via Ovid), ERIC, Health Star (via Ovid),
+MEDLINE (via Ovid), PAIS Index, PolSci, PsychINFO,
+Social Sciences Abstracts, Social Services Abstracts, and
+Web of Science. The dates for the policy databases
+(PolSci and Social Sciences Abstracts) were extended to
+1973 to ensure key conceptual articles would be re-
+trieved, such as the seminal work by Sabatier and Maz-
+manian in 1980 [ 14]. A gray literature search was also
+conducted using Health Systems Evidence (which in-
+dexes policy documents related to health system ar-
+rangements and implementation strategies, as well as
+systematic reviews). Similar search strings were used
+across all databases with minor adjustments to ensure
+searches were optimized. We prioritized sensitivity
+(comprehensiveness) over specificity (precision) in our
+search strategy.
+Article selection
+We excluded articles based on their titles and abstracts
+if they did not fit within the study scope or if they were
+not conceptual or empirical works. We created add-
+itional inclusion criteria that were based on the follow-
+ing questions: (1) Is there a moderate (or greater)
+chance that the article will shed light on the role of pol-
+icy in an implementation process or on the outcomes of
+the process? (2) Does the article describe implementa-
+tion efforts at a community or systems level? And (3)
+does the article identify actors at the government,
+organizational or practice level such as policy entrepre-
+neurs who may be central to policy implementation ef-
+forts? Any articles that did not meet at least one of these
+criteria were excluded.
+Complementary to the formal search and in keeping
+with the inductive strategies that are part of the CIS
+process, we also conducted hand searches of the refer-
+ence lists of relevant publications and searched the au-
+thors’ personal files to identify further articles and
+theoretically sampled additional articles to fill conceptual
+gaps as the analysis proceeded.
+After completing the searches, an Endnote database
+was created to store and manage results. Once
+Bullock et al. Implementation Science           (2021) 16:18 Page 3 of 24
+<<<PAGE=4>>>
+duplicates were removed, a random selection of two per-
+cent of the articles was independently screened by two
+reviewers (H.B. and A.M.) who were blinded to each
+other’s ratings and used the same inclusion criteria. The
+reviewers classified each title and abstract as “include”,
+“exclude”,o r “uncertain”. Inter-rater agreement was de-
+termined using the kappa statistic. This process was
+undertaken to improve the methodological rigor by en-
+hancing trustworthiness and stimulating reflexivity, not
+to establish a quantitative assessment per se [ 24]. Any
+discrepancies were then discussed between reviewers
+until consensus was reached. Next, one reviewer
+assessed the remaining titles and abstracts. Articles clas-
+sified as “include” or “uncertain” were kept for full text
+review.
+The full text of the remaining articles was then
+assessed by one reviewer. Articles were excluded at this
+stage if they did not provide detailed insight into the
+compass question. Articles were also sorted according to
+whether they were a conceptual contribution (i.e., pre-
+sented a model, theory, framework or theoretical con-
+cept on implementation) or an empirical contribution
+(i.e., used qualitative, quantitative, review or other re-
+search methods to present new findings, or an analysis
+of implementation).
+Data analysis and synthesis
+Our data analysis proceeded in four stages. First, while
+screening and assessing the articles for inclusion, we
+noted some general observations of how policy was in-
+corporated in the literature from each field of interest
+(policy/public administration, implementation, and
+knowledge translation). Second, we classified articles ac-
+cording to how policy was portrayed in implementation
+theory and processes. Third, we constructed a data ex-
+traction template for conceptual and empirical studies
+that included (1) descriptive categories (the author(s),
+the name of the model, theory or framework (if pro-
+vided), year of publication, author location, focus of the
+article, and whether a graphic or visual aid was in-
+cluded), (2) content from the article that addressed the
+compass question regarding how policy is portrayed and
+what aspects are important for success, and (3)
+interpretive categories including “synthetic constructs ”
+developed by the review team from the article and add-
+itional notes on how the article contributed to the devel-
+opment of the conceptual model. Additionally, the data
+extraction form for the conceptual articles included a
+classification of the type of framework according to Nil-
+sen’s taxonomy of implementation models, theories, and
+frameworks [ 3].
+In the fourth and final stage, we initially focused on
+the conceptual literature and used it as a base from
+which to build our integrated conceptual model. We de-
+veloped the synthetic constructs by reviewing the con-
+tent from each article that addressed the compass
+question and interpreting the underlying evidence using
+a constant comparative method to ensure that the emer-
+ging synthetic constructs were grounded in the data,
+similar to a grounded theory approach [ 25]. These syn-
+thetic constructs were then used to begin to build the
+conceptual model and an accompanying graphic repre-
+sentation of it. We then critiqued the emerging con-
+structs to identify gaps in the evidence and emerging
+constructs.
+Using this emerging model, we purposively sampled
+additional conceptual literature to fill the gaps that we
+identified and to ensure we incorporated as many rele-
+vant concepts as possible. We did this by consulting re-
+views of existing models, theories, and frameworks [ 2–6]
+to identify additional relevant concepts not captured by
+our search strategy and by hand searching the reference
+sections of some seminal conceptual papers [ 7, 26].
+Once saturation of the conceptual literature was
+reached, we purposively sampled a subset of the empir-
+ical literature and used this subset to “test” the model
+and add additional detail to the theoretical constructs
+gleaned from empirical report. We used a similar data
+extraction template with the exceptions of removing the
+descriptive category of model or theory name and the
+interpretive classification using the Nilsen taxonomy [ 3],
+but adding the descriptive category of “methodology”.I f
+our model did not capture findings from the empirical
+studies, we revised it and re-tested. This process contin-
+ued until saturation was reached and additional empir-
+ical studies yielded no further insights into our model.
+Table 1 Search terms
+Implementation
+terms
+Government
+level
+Organizational level Practice level Evidence terms (with and without
+dashes)
+implement* AND policy OR organizational polic* OR “clinical
+guideline”
+AND “evidence-based practice* ”
+“knowledge
+translation”
+strategy policy and procedures
+manual
+“practice
+guideline”
+“evidence-informed practice* ”
+“knowledge mobili* ”“ action plan ” procedures manual scope of
+practice
+“evidence-informed policy ”
+“evidence-based policy ”
+Bullock et al. Implementation Science           (2021) 16:18 Page 4 of 24
+<<<PAGE=5>>>
+The methods reported here are based on a protocol
+developed prior to initiating the study. The protocol and
+a note about the four ways that the reported methods
+differed from the protocol are available upon request.
+Results
+Search results and article selection
+Our database search retrieved 16,107 documents and 11,
+434 unique documents once duplicates were removed.
+The review of titles and abstracts was completed inde-
+pendently by two reviewers on a random sample ( n =
+171) of the documents. The Kappa score was 0.72 indi-
+cating substantial agreement. Figure 1 provides a flow
+diagram outlining the search strategy. Following these
+criteria for the remaining titles and abstracts resulted in
+1208 documents included for full text review. The full
+text review excluded an additional 940 documents leav-
+ing 268 potentially relevant documents (excluded docu-
+ments and the rationale for exclusion are available upon
+request). Of these, 23 conceptual documents, 243 empir-
+ical documents, and two documents that included both
+conceptual and empirical elements were included for the
+data extraction and analysis phase. We sampled and ex-
+tracted data on all of the conceptual articles. For the em-
+pirical articles, we chose a maximum variation sampling
+approach based on the subject matter and article topic
+with an initial sample of 10% of the articles. We also
+noted that nine of the articles related to a large, multi-
+year national implementation study [ 27–35]. Because
+this was the largest and most comprehensive account of
+the role of policy in large-scale implementation efforts
+identified through our search, we included these as a
+sub-group for data extraction. This approach led to data
+extraction for 34 empirical articles.
+In addition to these two appr oaches, we sampled articles
+that filled in conceptual gaps as our model developed. This
+process resulted in the retrie val of an additional 26 concep-
+tual articles and 3 empirical articles. In total, 86 unique
+documents were included with two of these documents
+used in both the conceptual an d empirical data extraction
+(Tables 2 and 3). While our process was inclusive of English
+language publications from any country, the majority of ar-
+ticles were conducted by US researchers ( n = 57), with the
+others coming mainly from other Western countries (the
+UK ( n = 8), the Netherlands ( n =7 ) ,A u s t r a l i a(n =5 ) ,
+Canada ( n = 2), Sweden ( n =2 ) ,G e r m a n y(n =2 ) ,a n d
+E u r o p e ,C h i n a ,a n dO E C D(n = 1)). Articles covered a
+range of topics including health and health care, public
+health, mental health and addi ctions, children and youth,
+social care, justice, and clima te change, among others. The
+conceptual documents included all of the categories of the-
+ories, models and frameworks identified by Nilsen [ 3], with
+Fig. 1 Literature search and study selection flow diagram
+Bullock et al. Implementation Science           (2021) 16:18 Page 5 of 24
+<<<PAGE=6>>>
+Table 2 Overview of included conceptual literature
+Author Year Author
+location
+Topic area Focus Name of model/theory/framework Framework type
+[3]
+Aarons et al. [ 12] 2011 USA Public services
+for children
+and families
+Implementation Conceptual model of global factors affecting
+implementation in public service sectors
+Determinants
+framework
+Bauman et al. [ 36] 2006 Australia
+(majority)
+Physical activity Supra-National A Six-Step Framework for International Physical
+Activity Dissemination
+Process model
+Bowen et al. [ 37] 2010 USA HIV Organizational/
+program
+Rogers-Rütten Framework Determinants +
+evaluation
+framework
+Bowen and Zwi
+[38]
+2005 Australia Public health Knowledge
+translation
+Evidence-informed Policy and Practice Pathway Determinants
+framework
+Bruns et al. [ 39] 2008 USA Children and
+youth
+System (state) No name per se but addresses dimensions of
+state EBP implementation effort
+Determinants
+framework
+Burris et al. [ 40] 2012 USA Public health System (law) No name per se but unified framework
+integrating public health law and public health
+systems and services
+Determinants
+framework
+Campos and
+Reich [ 41]
+2019 USA Health Policy, politics and
+stakeholders
+No name but identifies six different directions for
+different stakeholders
+Process model
+Chaudoir et al.
+[9]a
+2013 USA Health System (measures
+of determinants)
+A multi-level framework predicting implementa-
+tion outcomes
+Determinants
+framework
+Cherney and
+Head [ 42]
+2011 Australia Evidence-based
+policy/practice
+System Components of a Support Delivery System: ‘9Cs’ Determinants
+framework
+Chin and
+Goldmann [ 43]
+2011 USA Health System A Conceptual Model for Specifically Addressing
+Disparities 6 Key Levels of Influence
+Implementation
+theory
+Damschroder
+et al. [ 7]
+2009 USA Health Organizational Consolidated Framework for Advancing
+Implementation Research (CFIR)
+Determinants
+framework
+Domitrovich et al.
+[44]
+2008 USA Schools Implementation
+quality
+No name per se but identified as factors that can
+affect implementation quality: a multi-level
+model
+Determinants
+framework
+Evans and Davies
+[45], and
+Dolowitz and
+March [ 46]
+1999
+and
+2000
+UK and UK Policy transfer Policy Policy transfer Determinants
+framework
+Feldstein and
+Glasgow [ 47]
+2008 USA Healthcare Research to
+practice
+implementation
+PRISM (Practical, Robust Implementation and
+Sustainability Model)
+Process model
+Fleuren et al. [ 48] 2014 Netherlands Healthcare Organizational/
+program
+No name per se but “Framework representing
+the innovation process and related categories of
+determinants”
+Determinants
+framework
+Godfrey [ 49] 2011 USA Mental health System Hypothesized factors that influence ACT
+implementation
+Determinants
+framework
+Green et al. [ 50] 2006 USA Physical activity Knowledge
+translation
+Push-Pull Capacity Model Process model
+Greenhalgh et al.
+[26]
+2004 UK Healthcare Organizational Diffusion of Innovations in Service Organizations Determinants
+framework
+Greig et al. [ 51] 2012 UK Healthcare Implementation
+activity/practices
+Activity Theory Classic theory
+Harris et al. [ 52] 2012 USA Health
+promotion
+Organizational Health Promotion Resource Center Dissemination
+Framework
+Process model
+Harvey and Kitson
+[53]
+2016 Australia Health services Implementation Integrated Promoting Action on Research
+Implementation in Health Services (I-PARIHS)
+Determinants
+framework
+Hendriks et al.
+[54]
+2013 Netherlands Public health
+(childhood
+obesity)
+Policy Behavior Change Ball Implementation
+theory
+Hill and Hupe
+[55]
+2003 UK and
+Netherlands
+Policy
+implementation
+Policy No model/theory or framework but discussed
+‘the multi-layer problem ’
+N/A
+Bullock et al. Implementation Science           (2021) 16:18 Page 6 of 24
+<<<PAGE=7>>>
+Table 2 Overview of included conceptual literature (Continued)
+Author Year Author
+location
+Topic area Focus Name of model/theory/framework Framework type
+[3]
+Hill and Hupe
+[56]
+2002 UK and
+Netherlands
+Policy
+implementation
+Policy N/A (book) Determinants
+framework
+Hodges and
+Ferreira [ 57]
+2013 USA Children and
+families
+Policy (local) Multilevel framework for local policy
+development and implementation
+Determinants
+framework
+Howlett [ 58] 2004 Canada Policy
+implementation
+Policy
+(instruments)
+N/A Other (most
+closely resembles
+Classic Theory)
+Hupe [ 59] 2011 Netherlands Policy
+implementation
+Explaining policy
+implementation
+Thesis of incongruent implementation Determinants
+framework
+Hupe and Hill
+[60]
+2016 Netherlands
+and UK
+Policy
+implementation
+Policy N/A N/A
+Jansen [ 61] 2010 Netherlands Public health Disconnections
+between policy,
+practice and
+research
+3 niches of public health Process model +
+determinants
+framework
+Jilcott et al. [ 62] 2007 USA Public health Evaluating policy
+implementation
+Applying the RE-AIM framework to assess the
+public health impact of policy change
+Evaluation
+framework
+Johansson [ 11] 2010 Sweden Human services Policy N/A N/A
+Leeman et al. [ 63] 2012 USA Obesity
+prevention
+Policy Center TRT ’s evaluation framework Evaluation
+framework
+Lipsky [ 13] 1980 USA Social services Policy and
+individual
+Street-Level Bureaucracy Implementation
+theory
+Matland [ 64] 1995 USA Policy
+implementation
+Policy Ambiguity-Conflict Model of Implementation Implementation
+theory
+Mendel et al. [ 65] 2008 USA Mental health Organizational/
+community
+Framework of Dissemination in Health Services
+Intervention Research
+Process
+framework (2 nd)
+Michie [ 66] 2011 UK Behavior
+change (EBPs)
+Individual The Behaviour Change Wheel Implementation
+theory +
+determinants
+framework
+Moulton and
+Sandfort [ 67]
+2017 USA Public service
+interventions
+Policy The Strategic Action Field Framework Implementation
+theory
+Pettigrew and
+Whip [ 68]
+1992 UK Business Organizational/
+firm
+Understanding strategic change: three essential
+dimensions (Warwick Framework)
+Classic theory
+Proctor et al. [ 69] 2011 USA Mental health Implementation
+outcomes
+Conceptual Model of Implementation Research Evaluation
+framework
+Raghavan et al.
+[70]
+2008 USA Mental health Policy A Policy Ecology of Implementation Determinants
+framework
+Rutten et al. [ 71] 2003 Germany/
+Europe
+Health
+promotion
+Policy Determinants of policy analysis Determinants
+framework +
+classic theory
+Sabatier and
+Mazmanian [ 14]
+1980 USA Policy
+implementation
+Policy Framework of Analysis for the Implementation of
+Public Policy
+Determinants
+framework +
+process model
+Schoenwald et al.
+[72]a
+2008 USA Mental health System Conceptual model for the MacArthur research
+network on youth mental health child STEPs
+initiative on evidence-based practice in clinics
+and systems
+Determinants
+framework
+Shortell [ 73] 2004 USA Health care System N/A; levels and associated assumptions about
+change
+Implementation
+theory
+Spoth et al. [ 74] 2013 USA Public health/
+prevention
+Population Translation Science to Population Impact (TSci
+Impact) framework
+Process model
+Strehlenert et al.
+[75]
+2015 Sweden Health and
+social care
+Policy Conceptual Model for Evidence-Informed Policy
+Formulation and Implementation
+Process model
+Bullock et al. Implementation Science           (2021) 16:18 Page 7 of 24
+<<<PAGE=8>>>
+the Determinants Framework type being most common.
+The empirical articles employed a wide array of methods
+that fall into the broad categories of qualitative, quantita-
+tive, and mixed methods.
+General observations
+Through this process, we noted several general observa-
+tions regarding the characteristics of existing literature.
+In terms of the scholarly disciplines, most of the imple-
+mentation science literature focused on the
+organizational or service provider levels with an em-
+phasis on changing practice, often by introducing an
+evidence-informed policy or practice (EIPP). The know-
+ledge translation literature included policymakers as a
+target audience for research evidence, but the focus was
+on the agenda setting or policy formulation stages of the
+policy cycle, as opposed to the implementation of an
+EIPP. Here, the scholarship focused on strategies to in-
+crease the use of evidence in policy decision-making.
+The public policy literature included theory describing
+“top-down”, “bottom-up”, and integrated approaches to
+implementing an EIPP. The object of implementation in
+this area was the policy itself, rather than a specific pro-
+gram or practice. There was often no clear articulation
+of independent and dependent policy-related implemen-
+tation variables across any field, although many articles
+did partially address this.
+How policy is described in implementation theory and
+processes
+Our coding based on the compass question resulted in
+the following characterization of how policy is described
+in implementation theory and processes:
+Policy is described as follows:
+1. Context in which implementation occurs (i.e., only
+briefly citing a policy as the reason for
+implementation)
+2. Focusing lens, signaling to systems what the
+priorities should be (i.e., referring to policy
+statements or attention by policymakers as a signal
+about what is important to prioritize)
+3. Innovation itself — the implementation object (i.e.,
+the “thing”being implemented is policy, such as
+new legislative policy on tobacco cessation)
+4. Lever of influence in the implementation process
+(i.e., policy is identified as at least one of the factors
+influencing the implementation process)
+5. Enabler/facilitator or barrier to implementation
+(moderating variable) (i.e., while policy is identified
+as being external to the implementation effort, it is
+later found to be a barrier or facilitator to
+implementation)
+6. Outcome — the success of the implementation
+process is at least partially defined and measured by
+a change in policy.
+7. Policy actors as important participants or leaders in
+implementation
+Theoretical framework
+Our approach to developing the theoretical framework
+was twofold. The findings from our analysis suggested
+constructs that addressed both the process of implemen-
+tation and the factors underpinning the success or fail-
+ure of implementation. We therefore first developed a
+process model [ 3] that describes the steps in the process
+of translating EIPPs into effectively embedded system
+changes. Next, we developed a determinants framework,
+which specifies the types of policy determinants (inde-
+pendent variables) that affect implementation outcomes
+(dependent variables). This two-part theoretical frame-
+work achieves two goals: (1) the process model is most
+useful in describing the process of implementation from
+a policy perspective and (2) the determinants framework
+is most useful for understanding and explaining policy-
+related influences on implementation outcomes.
+Table 2 Overview of included conceptual literature (Continued)
+Author Year Author
+location
+Topic area Focus Name of model/theory/framework Framework type
+[3]
+Thomann et al.
+[76]
+2017 Germany Policy
+implementation
+Policy Extended Accountability Regimes Framework Implementation
+theory
+VanDeusen Lukas
+et al. [ 77]
+2007 USA Heath care Organizational Framework for Organizational Transformation Classic theory
+Viennet and Pont
+[78]
+2017 International Education Policy Education Policy Implementation Framework Determinants
+framework and
+implementation
+theory
+Wandersman
+et al. [ 79]
+2016 USA Empowerment
+evaluation
+Innovation and
+system interface
+Getting to Outcomes Process model
+Wisdom et al. [ 80] 2014 USA Innovation
+adoption
+System N/A Determinants
+framework
+aAlso included in empirical literature
+Bullock et al. Implementation Science           (2021) 16:18 Page 8 of 24
+<<<PAGE=9>>>
+Table 3 Overview of Included Empirical Literature
+Author Year Author
+location
+Topic area Level of focus Methodology
+Bax et al. [ 81] 2010 Netherlands Road safety System Policy analysis
+Beidas et al.
+[82]
+2016 USA Mental health Stakeholder Qualitative interviews
+Brodowski et al.
+[83]
+2013 USA Child abuse prevention System Descriptive case study
+Brownson et al.
+[84]
+2015 USA Public health System (state + local) Cross-sectional survey
+Chaudoir et al.
+[9]a
+2013 USA Health System (measures of
+determinants)
+Systematic review and criterion-validity assessment
+Cheadle et al.
+[85]
+2009 USA Physical activity promotion Community Evaluation — uncontrolled prospective design
+Culotta et al.
+[86]
+2016 USA Climate change Regional Case study/policy analysis
+Evans [ 87] 2013 UK Health Policy Mixed methods survey and in-depth interviews
+Fleuren et al.
+[88]
+2014 Netherlands Prevention child health care/
+schools
+Innovation
+determinants
+Systematic review + Delphi study
+Gotham et al.
+[89]
+2008 USA Addictions System (state) Case study
+Grace et al. [ 90] 2015 Australia Mental health Policy Policy analysis (document analysis)
+Grundy and
+Smith [ 91]
+2011 Canada Employment Policy Policy analysis
+Hargreaves
+et al. [ 92]
+2013 USA Home visiting Systems Mixed methods
+Haug et al. [ 93] 2010 Europe Climate change Policy Literature review
+Horner et al.
+[94]
+2014 USA School behavioral supports Multi-state EIPP Descriptive evaluation
+Monroe-DeVita
+et al. [ 95]
+2012 USA Mental health EIPP Literature Review
+Painter [ 96] 2010 USA Mental health Policy Single case study (document analysis + secondary
+data analysis of single provider)
+Perla et al. [ 97] 2013 US and UK Healthcare System Scan of literature using modified Delphi technique
+Powell et al.
+[98]
+2012 USA Health and mental health EIPP Narrative review
+Powell et al.
+[99]
+2014 USA Mental health EIPP Systematic review
+Powell et al.
+[100]
+2015 USA Health and mental health EIPP Delphi process
+Rhoades et al.
+[101]
+2012 USA Prevention (of crime and
+delinquency)
+System (state level) Case description
+Rieckmann
+[102]
+2011 USA Addictions Policy Mixed methods (survey and key informant
+interviews)
+Rieckmann
+[103]
+2015 USA Addictions Policy Mixed methods (survey and key informant
+interviews)
+Rubin [ 104] 2016 USA Alignment of implementation
+and public systems
+Systems Intro to special issue (review of articles)
+Schoenwald
+et al [ 72]a
+2008 USA Mental health System Structured survey (national sample)
+Yamey [ 105] 2012 USA Health in LMICs System Key informant interviews
+Zhang and
+Marsh [ 106]
+2016 China Administrative policy transfer Policy Policy analysis
+National Implementing Evidence-Based Practices Project articles (53 sites; 8 states), n =9 b
+Bullock et al. Implementation Science           (2021) 16:18 Page 9 of 24
+<<<PAGE=10>>>
+Part 1 — process model
+Figure 2 depicts this novel process model focusing on
+one policy or system level. What follows is a narrative
+description of the model.
+Policy is shaped as it moves through systems. The
+process through which policy travels from one level to
+another is known as policy transfer [ 36, 45, 46]. Each
+policy level is nested in a context that includes existing
+ideas (values, evidence, etc.), interests (interest groups,
+civil society, etc.), institutions (existing rules and institu-
+tional structures), and external factors (natural disaster,
+change in economic conditions) that affect the interpret-
+ation of the policy package [ 107, 108]. This context af-
+fects how a problem is defined, whether it has the
+attention of decision makers and whether it is up for ac-
+tive decision-making. This aligns with the “problem
+Table 3 Overview of Included Empirical Literature (Continued)
+Author Year Author
+location
+Topic area Level of focus Methodology
+Bond et al.
+[27]
+2009 USA Mental health System (multi-state) Mixed methods
+Finnerty et al.
+[28]
+2009 USA Mental health Policy/system Instrument development and testing
+Isett et al.
+[29]
+2007 USA Mental health System (multi-state) Qualitative (interviews)
+Isett et al.
+[30]
+2008 USA Mental health System (multi-state) Case study (site visits + semi-structured interviews)
+Jones et al.
+[31]
+2014 USA Mental health System (multi-state) Semi-structured interviews (state leaders)
+Mancini et al.
+[32]
+2009 USA Mental health Innovation (2 states) Mixed methods (fidelity measurement + interviews,
+surveys, and site visits)
+Peterson
+et al. [ 33]
+2014 USA Mental health System (multi-state) Longitudinal analysis (descriptive)
+Rapp et al.
+[34]
+2005 USA Mental health System (multi-state) Descriptive
+Rapp et al.
+[35]
+2010 USA Mental health System (state) Descriptive
+aAlso included in conceptual
+bNine articles described individually in subsequent rows
+Fig. 2 Process model of implementation from a policy perspective depicting the process at one policy level
+Bullock et al. Implementation Science           (2021) 16:18 Page 10 of 24
+<<<PAGE=11>>>
+definition” and “agenda setting ” stages of the policy cycle
+but is also described as part of the “exploration phase ”
+in implementation science [ 12, 109]. Once a decision
+has been reached that something should be done to ad-
+dress a given issue, attention shifts to the “policy devel-
+opment” stage of the policy cycle, which aligns with the
+“adoption decision and preparation ” stage of implemen-
+tation. It is during the policy development/adoption de-
+cision and preparation stage that the policy package gets
+developed.
+Policy package
+A policy package usually includes a mix of policy levers
+or instruments, including legal and regulatory instru-
+ments, economic instruments, voluntary instruments, or
+information and education instruments [ 58, 110]. The
+policy package can also include some implementation
+guidance such as a description of the overall implemen-
+tation strategy architecture, the major streams of activity,
+timing of events and milestones, and roles and
+responsibilities.
+The level of ambiguity of the policy package in terms
+of its goals and means of attaining them, and the
+amount of conflict among actors with respect to the pol-
+icy package are important to help characterize the im-
+plementation process and to explain its outcomes.
+According to Matland [ 64] the consideration of ambigu-
+ity and conflict leads to four types of implementation
+processes: (1) administrative implementation occurs
+when there is low policy ambiguity and low policy con-
+flict (e.g., eradication of small pox), (2) political imple-
+mentation occurs when there is low ambiguity but high
+levels of conflict (e.g., public transit), (3) experimental
+implementation occurs when there is high ambiguity but
+low conflict (e.g., Head Start programs for young chil-
+dren), and (4) symbolic implementation occurs when
+both ambiguity and conflict are high and policies only
+have a referential goal and differing perspectives on how
+to translate the abstract goal into instrumental actions
+(e.g., establishing youth employment agencies).
+Implementation process
+The policy implementation process can start at any level,
+move in any direction and can “skip” levels. Power also
+shifts as implementation proceeds through levels [ 29,
+56]. The level with the most implementation activity
+tends to have the most power. This is true not only for
+different levels of governance, but as implementation
+cascades across organizations, through “street level bu-
+reaucrats” [13] and on to the end-user or target popula-
+tion (the “recipient”) of the implementation process.
+Policy decisions at one level become context for other
+levels. Implementation activities at one level can exert
+either direct or indirect effects on another level. The
+context surrounding each level (prevailing ideas, inter-
+ests, institutions, and external events) influences the ac-
+ceptability and ultimate success of implementation.
+Finally, the overall implementation approach may need
+to shift over time in response to a constantly evolving
+context. For example, one study found it necessary to
+change the implementation approach for a road safety
+program in respond to changes in policy authority [ 81].
+Outcomes
+The process of implementation is undertaken in order
+to lead to outcomes, which can be separated and mea-
+sured at different levels. Proctor et al. [ 69]e identifies
+three separate outcomes: (1) implementation outcomes,
+(2) service outcomes, and (3) recipient-related outcomes.
+Along with these outcomes, our model includes policy-
+and systems-level outcomes. These can be evaluated ac-
+cording to the policy outputs (i.e., enforcement variables,
+change of perspective of street-level staff), policy out-
+comes (i.e., unemployment levels, life-expectancy of
+population) or indices of policy system change (i.e., ad-
+ministrative re-organization, privatization) [ 56]. While
+the measures and levels will vary depending on the size,
+scale, and focus of implementation, there is broad agree-
+ment that outcomes should be clearly defined a priori
+and precisely measured. Evaluation findings regarding
+outputs and outcomes can dynamically feed back into
+the implementation process as it unfolds. This creates
+feedback loops and the process becomes very dynamic
+and multi-directional.
+Part 2 — determinants framework
+Figure 3 presents an overview of our determinants
+framework and the relationship among the determinants.
+Our findings point to three sets of policy-related factors
+that affect the process, outputs, and outcomes of imple-
+mentation: (1) policy instruments and strategies, (2) de-
+terminants of implementation, and (3) policy actors,
+including their characteristics, relationships, and context.
+Collectively, these feed into the process of implementa-
+tion that proceeds in an iterative fashion along the
+stages: exploration, installation/preparation, initial im-
+plementation, and full implementation/sustainment [ 12,
+109]. The types of policy influences vary according to
+the stage of implementation [ 12]. The process of imple-
+mentation leads to a variety of outputs and outcomes as
+described above.
+Policy instruments and strategies
+Policy instruments and strategies are the most common
+set of factors mentioned in the literature and we found
+evidence for each of the instrument types described here,
+although with varying levels of detail. Policy instruments
+can be applied to implementation in differing ways, often
+Bullock et al. Implementation Science           (2021) 16:18 Page 11 of 24
+<<<PAGE=12>>>
+with two or three levers used concurrently to implement
+a single initiative or strategy [ 90]. In order to classify
+these strategies in a meaningful way, we drew on and
+adapted elements of a mutually exclusive and collectively
+exhaustive framework that identifies key features of
+health and social systems [ 107] and honed in on strat-
+egies that are particularly important for implementation
+(Table 4). These include strategies focused on the gov-
+ernance arrangements, financial arrangements, service
+delivery arrangements, and implementation-related sup-
+ports in systems. We then divided these strategies ac-
+cording to the intended “target” of implementation.
+Common targets of implementation from a policy per-
+spective include the whole system, organizations, the
+workforce or service providers, consumers, and the
+innovation itself (the EIPP to be implemented). We wish
+to note, however, that because policy-related variables
+have not necessarily been treated with the same specifi-
+city as other types of implementation variables, the most
+common strategies do not reflect the full array of strat-
+egies that could be employed.
+Determinants
+Our framework identifies eight categories of determi-
+nants (see “Determinants” box and elsewhere in Fig. 3).
+Each of these categories represents a suite of factors that
+are hypothesized to independently affect implementation
+outcomes. These determinants are described briefly
+below and in more detail in Table 5.
+I—Characteristics of the evidence-informed policy or
+practice (EIPP). The success or failure of a particular
+policy package cannot be evaluated based on its intrinsic
+characteristics alone [ 56]. Instead, it is important to
+examine whether the policy selected is an appropriate
+“fit” with the problem [ 91], well-justified [ 78], and
+aligned with existing context [ 12, 88].
+II— Policy formulation process. This is the shape given
+to a policy by the initial formation processes [ 45]. It in-
+cludes who in government is responsible for formulating
+the policy, their legitimacy and the extent to which there
+is opportunity to provide feedback, how much feedback
+is given, and the responsiveness in terms of adjustments
+made [ 45].
+III—Vertical public administration and thickness of
+hierarchy. Vertical public administration is the term
+used to identify the layers in the policy transfer process.
+It refers to separate governments exercising their au-
+thority with relative autonomy [ 45]. Policies generated
+outside of a socio-political level may be more or less ac-
+ceptable to that level. Within a given layer, a particular
+policy area may require the mobilization of any number
+of institutions, departments, or agencies, and these agen-
+cies must act in a coordinated, interdependent fashion,
+termed “thickness of the hierarchy ” [55].
+IV—Networks/inter-organizational relationships. The
+existence and nature of the relationships between paral-
+lel organizations who must collaborative in order to
+achieve effective implementation and who do not have a
+hierarchical relationship [ 45].
+V—Implementing agency responses. The factors affect-
+ing the responses of implementing agencies can be di-
+vided into issues related to the overall characteristics of
+Fig. 3 Determinants framework of implementation from a policy perspective
+Bullock et al. Implementation Science           (2021) 16:18 Page 12 of 24
+<<<PAGE=13>>>
+Table 4 Policy-related strategies and examples of those strategies for implementation according to type of target
+Target Strategy Examples References
+System Policy authority (governance
+arrangement)
+ Centralization/decentralization of policy authority (e.g.,
+creating a regional infrastructure with some policy authority
+to oversee implementation)
+ Accountability of the state sector ’s role in implementation
+(e.g., develop system-wide performance indicators or targets,
+monitor performance and fidelity, evaluate, report results pub-
+licly, consider enforcement strategies)
+ Leadership for implementation (through the appointment of
+state sector leaders, dedicated resources, garnering support
+for innovation and its implementation)
+ Stewardship of the non-state sector ’s role in implementation
+(e.g., constructing formal opportunities for non-state sector in
+oversight of implementation, contracting with non-state sec-
+tor for implementation-related activities, fostering networks
+and linkages across different types of organizations who are
+engaged in implementation)
+[7, 12, 27– 31, 38, 39, 45,
+80, 100]
+Funding system infrastructure (financial
+arrangement)
+ Dedicate resources for system infrastructure to support
+implementation (e.g., intermediaries, technical assistance
+centers, backbone organizations, facilitators)
+ Create funding sources that align with time needed for
+effective implementation and scaling
+[9, 27, 28, 31, 32, 35, 39,
+49, 74, 82, 83, 94, 97,
+100, 101]
+Re-designing system to meet needs
+(delivery arrangement and
+implementation-related supports)
+ Consider impacts of implementation on availability of care/
+service and plan for scaling-up across the geographical area or
+population
+ Assess possible impacts on other services (e.g., wait times) in
+response to implementing innovation
+[7, 14, 26, 34, 37, 50, 53,
+54, 73, 89, 96, 100]
+With what supports service is provided
+(delivery arrangement)
+ Create or change system-wide record systems or information
+and communication technologies to support implementation
+[29, 94, 97, 100]
+Organization Organizational authority (governance
+arrangement)
+ Management approaches in support of optimal
+implementation, including: developing data collection
+systems, developing and monitoring performance indicators,
+quality improvement plans, use of scorecards, or public
+reporting
+ Develop and deploy appropriate organizational leadership for
+implementation oversight and engagement
+ Include innovation as part of accreditation processes
+ Engage in networks/multi-institutional arrangements in
+support of implementation
+[7, 34, 72, 89, 97, 100]
+Funding organizations (financial
+arrangement)
+ Provide service grants or contract with organizations to
+support implementation or to offset additional administrative
+costs of implementing an innovation (e.g., training, data
+infrastructure changes, workforce stability impacts)
+ Prospective payments to cover lag-time costs when beginning
+to implement an innovation
+ Targeted payments or penalties based on organizational
+performance related to innovation (e.g., changing
+reimbursement rate structure so that providers of high fidelity
+receive modestly higher per unit rate)
+ Targeted payments or penalties based on client outcomes
+ Shift organizational funding models to support
+implementation (e.g., from fee-for-service to no-risk managed
+care arrangements)
+[12, 28, 29, 34, 35, 70, 72,
+94, 96, 100, 103, 104,
+111]
+Where service is provided (delivery
+arrangement)
+ Adjust sites of service delivery in response to an innovation
+ Consider how the physical structure, facilities, and equipment
+can support innovation during implementation and ensure
+appropriate supply (supply chain management)
+ Adjustments to the organizational scale in response to an
+innovation (e.g., number of beds, units of service)
+[90, 100]
+With what supports service is provided
+(delivery arrangement)
+ Change organizational record systems or other information
+and communication technologies to support implementation
+[97, 100]
+Organization-targeted implementation
+supports (Implementation-related
+supports)
+ Develop educational materials, hosting educational meetings,
+training, or outreach visits tailored to organizations
+ Develop and disseminate program or organizational service
+standards
+[7, 9, 28, 29, 35, 52, 53,
+65, 82, 86, 100]
+Bullock et al. Implementation Science           (2021) 16:18 Page 13 of 24
+<<<PAGE=14>>>
+Table 4 Policy-related strategies and examples of those strategies for implementation according to type of target (Continued)
+Target Strategy Examples References
+ Provision of technical assistance and other forms of
+implementation support
+ Support development and maintenance of inter-
+organizational collaboratives, communities of practice, and
+other forms of inter-organizational communication/learning
+ Consider non-monetary awards, incentives, and disincentives
+for organizations (e.g., exemplary program award)
+Workforce/
+service
+provider
+Professional authority (governance
+arrangement)
+ Create or alter training and licensure requirements
+ Change scope of practice to reflect innovation
+ Alter where providers can practice geographically and in what
+systems (public vs private)
+ Continuing competence (e.g., provide training and continuing
+education unit credits for innovation or disallow certain
+courses for credit)
+ Professional liability (e.g., change liability laws)
+ Alter university curricula to include knowledge of innovation
+[27, 28, 34, 70, 72, 89, 95,
+100]
+Remunerating providers (financial
+arrangement)
+ Reimbursement for program participation, extra efforts in
+applying the innovation, or lost time due to training
+ Increase reimbursement rate
+ Changing the way providers are reimbursed to encourage
+implementation (e.g., from fee-for-service to capitation)
+ Loan forgiveness
+ Targeted payments or penalties for performance
+ Targeted payments or penalties based on outcomes
+ Review and align fiscal and billing policies and incentives for
+providers
+ Make billing easier for providers
+[7, 27, 32, 34, 47, 52, 65,
+69, 70, 73, 80, 82, 88, 90,
+100, 104]
+By whom service is provided (delivery
+arrangement)
+ Assess and improve workplace conditions for providers to
+foster implementation
+ Extend the role of a particular provider within their existing
+scope of practice
+ Shift tasks between types of providers
+ Optimize the performance of the workforce in their current
+roles by creating, disseminating, and monitoring guidelines or
+standards of care for service providers
+[7, 45, 49, 54, 57, 66, 79,
+89, 100]
+Workforce-targeted implementation
+supports (implementation-related
+supports)
+ Develop educational materials, hosting educational meetings,
+training, or outreach visits
+ Engage local opinion leaders
+ Reminders and prompts
+ Audit and feedback
+ Coaching
+ Develop either tailored or multi-faceted interventions to sup-
+port implementation
+ Consider non-monetary awards, incentives, and disincentives
+for workforce
+[28– 30, 34, 39, 65, 70, 83,
+89, 100]
+Consumer Consumer and stakeholder involvement
+(governance arrangement)
+ Consumer protection (laws, complaints management)
+ Consumer, family, and stakeholder engagement in
+implementation and monitoring
+[70, 72, 89, 100]
+Incentivizing consumers (financial
+arrangement)
+ Alter consumer/patient fees
+ Consider disincentives that may exist for consumers to be
+successful (e.g., some employment programs)
+ Subsidies for private health insurance
+[29, 90, 100]
+Consumer-targeted implementation
+supports (implementation-related
+supports)
+ Information or education provision
+ Behavior change support
+ Skills and competencies development
+ Communication and decision-making facilitation
+[45, 54, 66, 70]
+Innovation Commercial authority (governance
+arrangement)
+ Adjust licensure and registration requirements to support
+implementation
+ Consider pricing and purchasing
+ Establish voluntary agreements on advertising
+[54, 66]
+Purchasing products and services
+(financial arrangement)
+ Changes to the scope and nature of insurance plans:
+extending or ending insurance coverage
+ Adjust list of covered/reimbursed services and products
+[32, 49, 70, 72, 79, 84, 89,
+95, 100]
+Bullock et al. Implementation Science           (2021) 16:18 Page 14 of 24
+<<<PAGE=15>>>
+the agencies and the behavior of front-line or street-level
+staff [ 13, 56].
+VI—Attributes and responses from those affected by
+EIPP. Attributes include the diversity of target group be-
+havior and the target group as a percentage of the popu-
+lation [ 14]. Responses include thing like impacts on
+workforce stability [ 12].
+VII—Timing/sequencing. As implementation is a
+process that unfolds over time, it does not always align
+with the cycles to which it is subject and the time con-
+straints inherent therein [ 86, 87]. Additionally, the exter-
+nal context in which implementation occurs is ever
+changing and “quintessentially unstable ”, and success
+hinges on the ability to perceive those changes and take
+the necessary actions to adjust along the way [ 68]. In
+Fig. 3, timing/sequencing is placed outside of the deter-
+minants box to reflect its importance across all of the
+other elements.
+VIII—External environment or policy context. Much of
+the literature identified factors outside the policy area of
+focus that may influence implementation (Fig. 3, outside
+the hatched line). Many authors referred to this gener-
+ally as the “political and social climate ”, as unmodifiable
+or macro “context”,o ra s “socio-economic conditions ”
+[9, 14, 38, 40, 52, 70, 75, 80]. We organized this deter-
+minant using (1) the 3I+E framework [ 113] and (2) a
+taxonomy of health and social system arrangements
+[114].
+In general, these categories of determinants should be
+viewed as interactive and not completely discrete [ 56]
+and the inter-relationship among the determinants is
+key [ 45].
+Policy actors
+Our analysis revealed a wide range of policy actors who
+are important for implementation. In an attempt to cre-
+ate a category of variables that is analytically useful
+across contexts, we first divided the types of policy ac-
+tors into the broad categories of political actors, bureau-
+cratic actors, special interests, and experts [ 115]. To
+provide more specificity, we further divided these into a
+non-exhaustive list of actor sub-types that were fre-
+quently mentioned in the literature and included exam-
+ples of the types of roles they tend to assume in
+implementation (Table 6). While many of the sub-types
+are commonly identified in other phases of the policy
+cycle, some receive particular attention in the
+implementation literature. These include two types of
+special interests: (1) implementing agencies, organiza-
+tions or programs that are responsible for implementing
+the EIPP (e.g., hospitals, schools), and 2 street-level bu-
+reaucrats who, due to the relatively high degree of dis-
+cretion in their jobs, and therefore discretion over the
+dispensation of public benefits or sanctions to citizens,
+can be critical to realizing any large-scale implementa-
+tion efforts. There are also three expert sub-types that
+are particularly visible during implementation: (1) field
+or practice leaders who can be influential in supporting
+practice change among professionals, (2) innovation de-
+velopers/disseminators who have developed the EIPP to
+be implemented and who may contribute or adapt tools
+and other types of support to encourage successful im-
+plementation, and (3) intermediaries/technical assistance
+providers who are organizations, programs, or individ-
+uals that work “in between ” policymakers, funders, and
+front-line implementers, to facilitate effective implemen-
+tation drawing on expertise in implementation.
+There are also three categories of actor-related vari-
+ables that are important: (1) actor characteristics, (2)
+actor relationships, and (3) the context in which the ac-
+tors are embedded (Fig. 4). First, the characteristics of
+the policy actors (either individual- or organizational-
+level) such as their knowledge of the implementation
+context, their legitimacy, power and control, and their
+leadership in the context of the implementation effort
+are often cited as being critical to the success in large-
+scale implementation initiatives. Second, the relation-
+ships policy actors have with other actors, such as the
+level of shared values and beliefs or the coordination
+and alignment of actors and their activities, can be pre-
+dictive of successful implementation. Finally, the context
+of the actors, such as the sustainment of political will
+and commitment and the stability of the actors them-
+selves can predict the long-term success of
+implementation.
+Discussion
+Our study represents one of the first comprehensive at-
+tempts to answer the call of scholars to integrate the
+fields of implementation science, knowledge translation,
+and policy implementation in an effort to build a more
+comprehensive and accurate understanding of imple-
+mentation. By integrating conceptual and empirical
+works from all three fields, the resultant two-part
+Table 4 Policy-related strategies and examples of those strategies for implementation according to type of target (Continued)
+Target Strategy Examples References
+ Change restrictions or caps on coverage/reimbursement for
+innovation and related supports
+ Change mechanisms for billing
+ Prior approval requirements
+Bullock et al. Implementation Science           (2021) 16:18 Page 15 of 24
+<<<PAGE=16>>>
+Table 5 Determinants of implementation from a policy perspective and the factors that characterize the determinants
+Determinant Description Factors that characterize determinant
+I. Characteristics of the
+EIPP
+1. Not possible to predict the success or failure of a
+particular policy package based on its intrinsic characteristics
+alone [ 56]
+2. Need to examine questions such as whether the policy
+selected:
+(a) Is an appropriate fit with the problem [ 78, 91]
+(b) Aligned with existing context [ 12, 88]
+1. Relative advantage [ 26, 37]
+2. Compatibility [ 26, 37]
+3. Complexity of goals and ease of implementation [ 26, 37,
+67]
+4. Obligations [ 26, 37]
+5. Resources [ 26, 37]
+6. Existing relationship with state and provider [ 103]
+7. Level of ambiguity of the EIPP [ 64]
+8. Level of conflict among stakeholders [ 64]
+9. Interaction of policy characteristics with other
+determinants [ 56]
+II. Policy formulation
+process
+1. Shape given to a policy by the initial formation processes
+has an impact on its implementation [ 56]
+2. Depending on the implementation approach, the
+government may distribute responsibility for some or almost
+all of the policy formulation process to other stakeholders
+[12]
+3. Level of involvement of service organizations, street-level
+bureaucrats and recipients may influence the confidence in,
+and support of, the policy decision and improve the chances
+for successful implementation [ 97]
+1. Government actors responsible for formulating policy [ 56]
+2. Perceived legitimacy of government actors [ 56]
+3. Extent to which there is opportunity to provide feedback
+[56]
+4. Responsiveness of policymakers to feedback [ 56]
+5. Level of involvement of non-governmental actors [ 12, 78,
+97]
+6. Adequacy of planning for implementation (consideration
+of resources for implementation) [ 97]
+7. Constraints experienced during formulation [ 12, 26]
+III. Vertical public
+administration and
+thickness of hierarchy
+1. Vertical Public Administration
+(a) Term used to identify the layers in the policy transfer
+process
+(b) Refers to separate governments exercising their authority
+with relative autonomy [ 56]
+(c) Policies generated outside of a socio-political level may
+be more or less acceptable to that level
+2. Thickness of Hierarchy
+(a) Number and complexity of institutions, departments, or
+agencies at a particular socio-political level
+(b) The thicker the hierarchy, the more managerial
+competence, professionalism, and governance skills are
+required by public servants in order to support effective
+implementation [ 59]
+1. Number of socio-political levels [ 56]
+2. Acceptability of policy generated outside of a particular
+socio-political level [ 114]
+3. Appropriateness of socio-political level [ 86]
+4. Thickness of each socio-political level (number and com-
+plexity of institutions, departments, or agencies and their co-
+ordination and interdependence) [ 55]
+IV. Networks/inter-
+organizational
+relationships
+1. Reflects the existence and nature of the relationships
+between parallel organizations who must collaborative in
+order to achieve effective implementation and who do not
+have a hierarchical relationship [ 56]
+2. Better connections among stakeholders also increases the
+opportunity for rapid diffusion and informal spread of
+innovation, facilitating implementation
+1. Degree of coordination among:
+(a) Systems [ 80]
+(b) Organizations [ 86]
+(c) Donors /other funders [ 84]
+(d) Leaders [ 12]
+2. Formality (formal or informal) [ 72]
+3. Network type (e.g., policy or inter-organizational) [ 53]
+4. Coherence and strength of connections [ 112]
+V. Implementing
+agency responses
+1. Factors affecting the responses of implementing agencies
+can be divided into:
+(a) Issues related to the overall characteristics of the
+agencies
+(b) Behavior of front-line or street-level staff [ 56]
+2. Overall “health” of organizations and how front-line/street-
+level bureaucrats use their discretion and power impact im-
+plementation success
+1. Overall characteristics of the agencies:
+(a) Level of organizational control [ 56, 76]
+(b) Rate of staff turnover [ 88]
+(c) Organizational decision-making processes [ 88]
+(d) Extent of policy and behavior-related change required
+[14, 67]
+(e) Attitudes of the agencies [ 14, 47]
+(f) Resources of the agencies (e.g., minimum “investment
+threshold” in implementation infrastructure [ 97] or cost-
+absorptive capacity of agency to absorb additional costs as-
+sociated with implementation [ 12] or certainty of funding
+[49])
+(g) Impetus for chang e[ 77] (e.g., external mandates may
+increase an agency ’s predisposition (i.e. motivation), but not
+its capacity to adopt an innovation; mandates may divert
+activity away from other innovations or locally generated
+priorities [ 26])
+(h) Perception of implementation approach (e.g. if approach
+is punitive, mandatory, or “top down ”)[ 82]
+2. Behavior of front-line or street-level staff
+(a) Level of discretion and level of relative autonomy from
+organizational authority affect the amount of interpretation
+of EIPP [ 13, 76]
+Bullock et al. Implementation Science           (2021) 16:18 Page 16 of 24
+<<<PAGE=17>>>
+theoretical framework provides additional clarity regard-
+ing the process of implementation viewed from a policy
+perspective and identifies a number of policy-related de-
+terminants that can be tested empirically in the future.
+A key strength of our study was the methodological
+approach we took to theory building.
+First was the comprehensiveness of the search strategy,
+which aimed to identify scholarship from more than one
+academic discipline and across wide range of topics be-
+yond health. The literature identified through the search
+process revealed some interesting parallels and unique
+differences between the fields that made it clear to us
+the extent of the lack of integration up to this point. Per-
+haps not surprisingly, the area of public health seemed
+to be the most fertile ground for integration. This is
+likely due to their focus on population-level concerns re-
+quiring system-wide implementation of EIPPs and a di-
+verse implementation ecosystem. The search strategy
+was part of the mixed methods approach of the CIS,
+which blended the rigor of a systematic search method-
+ology that is explicit and replicable, with the inductive,
+iterative, and purposive sampling techniques from
+Table 5 Determinants of implementation from a policy perspective and the factors that characterize the determinants (Continued)
+Determinant Description Factors that characterize determinant
+(b) Competing accountabilities (e.g., state, market,
+professional, societal) [ 76]
+(c) Power distribution between actors at the front-line,
+agency, and political levels [ 30]
+(d) Personal characteristics including their knowledge, skills,
+and perceived support from colleagues [ 88]
+VI. Attributes and
+responses from those
+affected by EIPP
+1. The characteristics of the people affected by the EIPP,
+their response to it, and the impact of the responses
+2. Most evident when those affected are powerful, such as
+in regulatory policy when those regulated are large
+organizations [ 56]
+1. Diversity of target group behavior [ 14]
+2. Target group as percentage of the population [ 14]
+3. Impacts on stability of the workforce and responses to
+instability [ 12]
+VII. Timing/sequencing 1. Implementation processes at scale require adequate time,
+which does not always align with the cycles they are subject
+to and some authors have identified the lack of time or
+short-term opportunism as barriers to effective implementa-
+tion [e53, 54]
+2. The sequencing of activities and alignment of
+implementation with other cycles is also important
+1. Balance of predictability and adaptiveness to changing
+circumstances [ 68, 93]
+2. The simultaneous address of system levers (including
+policy changes, measurement systems, and regulatory
+mechanisms) [ 97]
+3. Timing and pace of cycles, such as political, policy, and
+funding cycles [ 104]
+4. Specific aspects of time that impact implementation:
+(a) The phased structure of the implementation process
+[104]
+(b) When and how the implementation efforts are initiated
+[104]
+(c) Timeframes for funding and leadership support [ 104]
+(d) The need to demonstrate the impacts early
+(e) Return on investment of time and money [ 104]
+VIII. External
+environment or policy
+context
+1. Factors outside of the policy area of focus may influence
+implementation
+2. Can be referred to generally as the “political and social
+climate”, as unmodifiable or macro “context” or as “socio-
+economic conditions ” [9, 14, 38, 40, 52, 70, 75, 80]
+3. While most included articles did not address these
+determinants in depth, an overall examination of extracted
+data suggested two theoretical frameworks would be useful
+for classifying and understanding these determinants:
+(a) 3I+E framework that identifies the institutions, interests,
+ideas, and external events that help explain what influences
+policy choices [ 113]
+(b) Taxonomy of health and social system arrangements
+classified according to the governance, financial, and
+delivery arrangements [ 114]
+4. These broader context and system arrangements may be
+critically important in explaining implementation outcomes
+and these frameworks provide some logic and organization
+to potential variables
+1. 3I+E framework
+(a) Ideas (e.g., the interplay between beliefs and values of
+policymakers and research evidence in a general way [ 38])
+(b) Interests (e.g., the political culture and the depth of social
+cleavages [ 58])
+(c) Institutions (e.g., relevant policies from other areas that
+“may represent potentially powerful contextual effects ” [74,
+78])
+(d) External factors (e.g., technology and technological
+changes [ 14, 40]) economic forces operating in the overall
+society [ 60], and environmental (in)stability [ 53, 67]
+2. Taxonomy of health and social system arrangements [ 114].
+(a) Governance arrangements that are not specific to the
+EIPP being implemented but are still relevant to
+understanding implementation outcomes (e.g., centralization
+and power distribution of government [ 30, 72] or the form
+of governance structures (omnibus/discrete) [ 72])
+(b) Financial arrangements (e.g., private/public contractual
+relations, reimbursement rates and mechanisms [ 72], and
+existing resource distribution [ 30])
+(c) Delivery arrangements — referred to more generally in the
+health-focused articles as “health(care) system and services
+context” [38, 75]o r “medical delivery system ” [40]
+Bullock et al. Implementation Science           (2021) 16:18 Page 17 of 24
+<<<PAGE=18>>>
+Table 6 Types of policy actors identified in implementation
+Actor Sub-type (non-
+exhaustive)
+Role description Role in implementation (non-exhaustive) References
+Political
+actors
+Politicians  Represent citizens (in a democracy) through
+popular consensus.
+ Mandate to create laws and policies with
+varying levels of authority
+ Can be supra-national, national/federal, state/
+provincial, regional, local/municipal
+ Most important level of elected officials is
+the level where most policy authority rests
+for area of implementation
+ Develop and pass laws/policies (e.g.,
+mandating a particular EIPP)
+ Provide leadership and focus
+ Source of funding for implementation
+(organizations, providers, and/or consumer
+levels)
+[34, 36, 41, 50,
+54, 61, 63, 65,
+80, 82, 83, 94,
+95, 101]
+Other elected
+officials
+ Similar to elected politicians but mandate is
+limited to a particular policy domain and
+(often) limited geographic jurisdiction (e.g.,
+sheriff, judge, school board trustee)
+ If policy authority rests at their level, they
+may develop and pass laws
+ Enforce laws/polices from other levels
+ Interpret/adapt laws/policies for their
+implementation
+ Provide leadership and focus
+ Source of funding for implementation
+(organizations, providers, and/or consumer
+levels)
+[54]
+Bureaucratic
+actors
+Executive
+departments
+ Departments or ministries who specialize in a
+unique area of government responsibility
+(e.g., health)
+ Responsible for carrying out the “vision” of
+an elected official with leadership for that
+portfolio (e.g., Minister of Health)
+ Not elected nor formally tied to a particular
+political party
+ Support policy development, including
+implementation considerations
+ Operationalize policy/law passed by
+politicians
+ May allocate tasks, responsibilities and define
+competencies for implementation
+ Monitor policy implementation and track
+outputs or outcomes
+ Source of funding for implementation
+(organizations, providers, and/or consumer
+levels)
+[34, 61, 82, 84,
+89]
+Boards and
+agencies of
+government
+ Often operate semi-independently from gov-
+ernment but are appointed by them
+ In most cases, they deal exclusively with one
+particular sub-field of responsibility in which
+the demand for public services is especially
+high (e.g., food inspection agency, state
+mental health authority)
+ Regulation and enforcement
+ Interpretation of policies/laws
+ Monitor policy implementation and track
+outputs or outcomes
+ May have the ability to apply penalties for
+non-compliance
+ May allocate tasks, responsibilities, and
+define competencies for implementation
+[27, 28, 34, 65,
+80, 82]
+Self-governing
+regulatory
+agencies
+ Bodies that regulate the conduct of their
+own members (such as admissions and
+discipline) and are empowered to do so by
+the appropriate level of government and
+their members (e.g., medicine, law)
+ Regulators are drawn from the membership
+ Can set or change: scope of practice,
+training, and licensure requirements, or
+professional liability to support
+implementation
+ Develop/adopt guidelines or standards
+ Monitor quality and safety and continued
+competence of professionals during
+implementation
+[82]
+Judicial system  System of courts that provide a formal
+mechanism for interpretation and application
+of laws in the name of the state and resolves
+disputes
+ Interpret/re-interpret laws through rulings
+that may affect how they are implemented
+ Define/re-define public policies through
+legal challenges
+[40]
+Special
+interests
+Implementing
+agencies
+ Organizations or programs that are
+responsible for implementing the laws or
+policies developed (e.g., hospitals, schools,
+child welfare agencies, industry)
+ Location(s) where the majority of the
+implementation takes place
+ Interpretation of policies/laws
+ Develop or adapt organizational policies and
+procedures to support implementation
+ Training and support for workforce
+ Provide or manage funds to support
+implementation
+ Monitor and evaluate implementation at
+organizational level
+[28, 34, 41, 43,
+50, 83, 87, 89,
+91, 95, 101]
+Street-level
+bureaucrats
+ The schools, police and welfare departments,
+lower courts, legal services offices, and other
+agencies whose workers interact with and
+have wide discretion over the dispensation
+of benefits or the allocation of public
+sanctions [ 13]
+ Interpretation of policies/laws
+ Often the parties responsible for changing
+their behaviors or practices during
+implementation
+[13, 41, 43]
+Bullock et al. Implementation Science           (2021) 16:18 Page 18 of 24
+<<<PAGE=19>>>
+Table 6 Types of policy actors identified in implementation (Continued)
+Actor Sub-type (non-
+exhaustive)
+Role description Role in implementation (non-exhaustive) References
+ Have (1) relatively high degree of discretion
+and (2) relative autonomy from
+organizational authority [ 13]
+Insurers  Organizations or government bodies that
+manage risk by pooling risk across a group
+of individuals and providing coverage to
+them for needed services
+ Managed care organizations are a specific
+type of insurer in health care that monitor
+and control the provision of care in an effort
+to increase quality through regulating the
+choices of providers and patients
+ Have the ability to change the risk pool by
+insuring more or fewer people (scope and
+nature of insurance plan)
+ Can adjust the list of covered/reimbursed
+organizations, providers, services, and
+products
+ Can change billing/reimbursement processes
+to facilitate implementation
+ Engagement and potential influence with
+political and bureaucratic actors (feedback
+loops) regarding implementation and scaling
+[50, 65, 82]
+Donors/
+foundations
+ Organizations that raise and allocate funds
+based on a specific mandate that they
+identify
+ Funding and/or in-kind implementation sup-
+ports (e.g., human resources)
+ May have funded an innovation and now
+have a vested interest in seeing it
+implemented or scaled (bring leadership and
+focus, implementation, and scaling expertise)
+ Engagement and potential influence with
+political and bureaucratic actors (feedback
+loops) to support implementation and
+scaling
+[41, 105]
+Government
+corporations
+ Organizations or businesses that are run
+independently from government but are still
+ultimately accountable to them
+ Interpretation of policies/laws
+ Develop or adapt organizational policies and
+procedures to support implementation
+Unions  Organized associations of workers created to
+promote and protect their interests in the
+workplace
+ Negotiate contractual relationships with
+implementing organizations on behalf of
+members (can influence the ease of
+implementation)
+ Engagement and potential influence with
+political and bureaucratic actors (feedback
+loops) regarding implementation and scaling
+[34, 41]
+Experts Scientists/
+researchers
+ Individuals or research programs that
+systematically gather, analyze, and use
+research and other evidence through
+processes, such as theorizing, synthesizing,
+and hypothesis testing, to gain and share
+understanding and knowledge
+ Share or contribute research expertise
+concerning the problem, the innovation, the
+implementation or the evaluation of the
+implementation effort and any expected
+outcomes
+ Engagement and potential influence with
+political and bureaucratic actors (feedback
+loops) to support implementation and
+scaling
+[35, 101]
+Field or practice
+leaders/champions
+ Individuals who belong to a service
+providing community and are viewed as
+leaders or champions of an innovation and
+its implementation
+ Share or contribute practice expertise
+concerning the problem, the innovation, the
+implementation or the evaluation of the
+implementation effort and any expected
+outcomes
+ Act as champions for implementation to
+members of their service providing
+community and to other policy actors
+ Engagement and potential influence with
+political and bureaucratic actors (feedback
+loops) to support implementation and
+scaling
+[31, 38, 42]
+Patients or
+persons with lived
+experience and
+families/carers
+ Individuals who bring personal knowledge or
+experience of a problem, condition, or
+service and who are the intended
+beneficiaries or ultimate “targets” of
+implementation
+ Individuals who are family members or carers
+to individuals who bring personal knowledge
+or experience of a problem, condition, or
+ Share or contribute lived experience of the
+problem, the innovation, the
+implementation or the evaluation of the
+implementation effort and any expected
+outcomes
+[28, 35, 43, 45,
+57, 83, 100]
+Bullock et al. Implementation Science           (2021) 16:18 Page 19 of 24
+<<<PAGE=20>>>
+Table 6 Types of policy actors identified in implementation (Continued)
+Actor Sub-type (non-
+exhaustive)
+Role description Role in implementation (non-exhaustive) References
+service
+Innovation/
+developers and
+disseminators
+ Organizations, programs or individuals who
+have developed a process, program, or
+product to be implemented
+ Synthesize knowledge about innovation and
+package it in ways that are “usable”
+ Actively seek opportunities for innovation to
+be adopted in policy and/or practice
+ Provide expertise about the innovation
+during implementation process
+ Adapt innovation and materials as needed
+during implementation process
+[52, 101]
+Intermediaries and
+technical
+assistance
+providers
+ Organizations, programs, or individuals that
+work “in between ” policymakers, funders, and
+front-line implementers, to facilitate effective
+implementation drawing on expertise in
+implementation
+ Also known as purveyor organizations,
+backbone organizations, or central bodies
+charged with coordination
+ Translate policy intention for implementing
+agencies
+ Provide technical assistance to
+implementing agencies (e.g., guidance on
+implementation process, coaching, decision
+support, monitoring, and evaluation)
+ Provide mechanism for communication
+between service delivery, policy systems, and
+innovation developer (if applicable)
+[9, 31, 42, 44,
+45, 53, 83, 86,
+89, 100, 101]
+Other Media  Individuals and organizations that
+communicate information through a variety
+of channels, including formal media outlets
+and social media outlets
+ Monitor implementation and communicate
+facts or perceptions of the process and
+outcomes to the public
+ Provides feedback loop for political actors,
+bureaucratic actors, special interests, and
+experts regarding implementation
+[34, 65]
+Fig. 4 Characteristics, relationships, and the context of policy actors important for implementation
+Bullock et al. Implementation Science           (2021) 16:18 Page 20 of 24
+<<<PAGE=21>>>
+qualitative review methods to build mid-range theory.
+The result is a theoretical framework that is clearly
+linked to the literature, which should instill some confi-
+dence in the academic community regarding its ground-
+ing. Critical interpretive synthesis is a relatively new
+approach but is growing in popularity for these reasons.
+Despite the merits of our approach, we did identify
+some challenges. First, we believe the literature from
+public policy may be underrepresented for several rea-
+sons: (1) search terms did not retrieve as much from
+those fields (it could be that there are terms used more
+commonly in those fields that would have increased
+yield), (2) the disciplinary approach to the scholarship in
+public policy often means the articles were less explicit
+about methods and this meant that more were excluded
+as not being “high yield ”, and (3) more of that scholar-
+ship is captured through other media (e.g., books) and
+while some of these were included, our approach was
+not as sensitive to retrieving these types of documents.
+We also did not include all of the empirical articles for
+data extraction and we may have missed a key theme or
+framework component. While we believe this is unlikely
+because we continued to sample until saturation was
+reached, it is still possible something was missed. Finally,
+there were few documents from low- and middle-
+income countries included in the final sample. Specific
+efforts to include relevant documents from LMICs in fu-
+ture may enrich and refine the model.
+As a result of this research, policymakers and practi-
+tioners looking to use a conceptual model to guide their
+implementation activities have two additional options
+that they can be confident draw from existing theory
+and empirical works. Large-scale implementation en-
+deavors or those that have started small and are looking
+to scale-up should at least be mindful of the critical roles
+of policy during the process and what policy-related fac-
+tors may be important for success. Those planning im-
+plementation activities can consider the elements
+presented in the framework as factors that may require
+consideration and adjustment prior to implementing
+something new. Our work supports thinking beyond the
+program or practice levels and unpacks policy consider-
+ations that may have influence on, or affect the effective-
+ness of, a program or practice. Furthermore, the
+inclusion of policy-related outputs and outcomes in our
+framework offers policymakers and practitioners the op-
+tion of additional indicators of success on which they
+can measure and report.
+Like any new theoretical contribution, our framework
+would benefit from further refinement and testing by
+the research community. Future research could adopt
+the process model to guide a policy-intensive implemen-
+tation effort and test it to determine its usefulness in
+such efforts. Researchers could also select particular
+framework elements and unpack them further for add-
+itional precision and clarity, drawing from multiple fields
+of scholarship. Our framework also offers some much-
+needed policy variables that have been lacking in the im-
+plementation science and knowledge translation fields,
+which could be incorporated as part of a suite of vari-
+ables in implementation research.
+Conclusions
+Our study represents an early effort at integrating the
+fields of public policy, implementation science, and
+knowledge translation. We have learned that there is in-
+deed a great deal that each of the fields can learn from
+the other to advance our understanding of policy- and
+systems-level implementation efforts and hope that these
+efforts are followed by more interdisciplinary research in
+order to truly bridge this divide.
+Acknowledgements
+Not applicable
+Authors’contributions
+HLB was responsible for conceiving of the focus and design of the study
+(with support from JNL) and for completing all data collection, analysis, and
+interpretation. JNL also contributed to the analysis during ongoing iterative
+cycles of interpretation and synthesis that led to the development of the
+final theoretical model. AM independently assessed a sub-sample of the doc-
+uments for eligibility and worked with me to refine the inclusion criteria. HLB
+drafted the manuscript, and JNL, MGW, and GM provided comments and
+suggestions that were incorporated into revisions. All of authors approved
+the final version of the manuscript.
+Funding
+This study was partially supported through a doctoral scholarship from the
+P.E. Trudeau Foundation.
+Availability of data and materials
+Not applicable
+Ethics approval and consent to participate
+Not applicable
+Consent for publication
+Not applicable
+Competing interests
+The authors declare they have no competing interests.
+Author details
+1Department of Health Research Methods, Evidence and Impact, McMaster
+University, 1280 Main Street West, Hamilton, Ontario L8S 4L6, Canada.
+2McMaster Health Forum, Hamilton, Canada. 3DeGroote School of Business,
+McMaster University, Burlington, Canada.
+Received: 8 August 2020 Accepted: 7 January 2021
+References
+1. Pressman JL, Wildavsky AB. Implementation. How great expectations in
+Washington are dashed in Oakland. Berkeley, CA: University of California
+Press; 1973.
+2. Hill M, Hupe P. Implementing public policy: governance in theory and in
+practice. 3rd ed. London, UK: SAGE; 2014.
+3. Nilsen P. Making sense of implementation theories, models and frameworks.
+Implement Sci. 2015;10:53.
+Bullock et al. Implementation Science           (2021) 16:18 Page 21 of 24
+<<<PAGE=22>>>
+4. Moullin JC, Sabater-Hernandez D, Fernandez-Llimos F, Benrimoj SI. A
+systematic review of implementation frameworks of innovations in
+healthcare and resulting generic implementation framework. Heal Res
+Policy Syst. 2015;13:16.
+5. Tabak RG, Khoong EC, Chambers DA, Brownson RC. Bridging research and
+practice: models for dissemination and implementation research. Am J Prev
+Med. 2012;43(3):337 – 50.
+6. Mitchell SA, Fisher CA, Hastings CE, Silverman LB, Wallen GR. A thematic
+analysis of theoretical models for translational science in nursing: mapping
+the field. Nurs Outlook. 2010;58(6):287 – 300.
+7. Damschroder LJ, Aron DC, Keith RE, Kirsh SR, Alexander JA, Lowery JC.
+Fostering implementation of health services research findings into practice:
+a consolidated framework for advancing implementation science.
+Implement Sci. 2009;4:50.
+8. Wandersman A, Chien VH, Katz J. Toward an evidence-based system for
+innovation support for implementing innovations with quality: tools,
+training, technical assistance, and quality assurance/quality improvement.
+Am J Community Psychol. 2012;50(3 – 4):445– 59.
+9. Chaudoir SR, Dugan AG, Barr CHI. Measuring factors affecting
+implementation of health innovations: a systematic review of structural,
+organizational, provider, patient, and innovation level measures. Implement
+Sci. 2013;8:22.
+10. Nilsen P, Stahl C, Roback K, Cairney P. Never the twain shall meet?--a
+comparison of implementation science and policy implementation research.
+Implement Sci. 2013;8:63.
+11. Johansson S. Implementing evidence-based practices and programmes in
+the human services: lessons from research in public administration. Eur J
+Soc Work. 2010;13(1):109 – 25.
+12. Aarons GA, Hurlburt M, Horwitz SMC. Advancing a conceptual model of
+evidence-based practice implementation in public service sectors. Adm
+Policy Ment Heal. 2011 Jan;38(1):4 – 23.
+13. Lipsky M. Street-level bureaucracy: dilemmas of the individual in public
+services. New York: Russell Sage Foundation; 1980.
+14. Sabatier P, Mazmanian D. The implementation of public policy: a framework
+of analysis. Policy Stud J. 1980;8(4):538 – 60.
+15. Van Meter DS, Van Horn CE. The policy implementation process: a
+conceptual framework. Adm Soc. 1975;6(4):445 – 88.
+16. O ’Toole LJ Jr. Research on policy implementation: assessment and
+prospects. J Public Adm Res Theor. 2000;10(2):263 – 88.
+17. Saetren H. Implementing the third generation research paradigm in policy
+implementation research: an empirical assessment. Public Policy Adm. 2014;
+29(2):84– 105.
+18. Papanicolas I, Woskie LR, Jha AK. Health care spending in the United States
+and other high-income countries. JAMA. 2018;319(10):1024 – 39.
+19. Hjern B. Implementation research — the link gone missing. J Public Policy.
+1982;2(3):301– 8.
+20. Flemming K. Synthesis of quantitative and qualitative research: an example
+using Critical Interpretive Synthesis. J Adv Nurs. 2010;66(1):201 – 17.
+21. Wilson MG, Ellen ME, Lavis JN, Grimshaw JM, Moat KA, Shemer J, et al.
+Processes, contexts, and rationale for disinvestment: a protocol for a critical
+interpretive synthesis. Syst Rev. 2014;3(1):143.
+22. Dixon-Woods M, Cavers D, Agarwal S, Annandale E, Arthur A, Harvey J, et al.
+Conducting a critical interpretive synthesis of the literature on access to
+healthcare by vulnerable groups. BMC Med Res Methodol. 2006;6(1):35.
+23. Entwistle V, Firnigl D, Ryan M, Francis J, Kinghorn P. Which experiences of
+health care delivery matter to service users and why? A critical interpretive
+synthesis and conceptual map. J Health Serv Res Policy. 2012;17(2):70 – 8.
+24. Patton MQ. Enhancing the quality and credibility of qualitative analysis.
+Health Serv Res. 1999;34(5 Pt 2):1189.
+25. Charmaz K. Constructing grounded theory: A practical guide through
+qualitative analysis 2nd ed. London: SAGE; 2014.
+26. Greenhalgh T, Robert G, Macfarlane F, Bate P, Kyriakidou O. Diffusion of
+innovations in service organizations: systematic review and
+recommendations. The Milbank Quarterly. 2004;82(4):581 – 629.
+27. Bond GR, Drake RE, McHugo GJ, Rapp CA, Whitley R. Strategies for
+improving fidelity in the National Evidence-Based Practices Project. Res Soc
+Work Pract. 2009;19(5):569 – 81.
+28. Finnerty MT, Rapp CA, Bond GR, Lynde DW, Ganju V, Goldman HH. The
+State Health Authority Yardstick (SHAY). Community Ment Heal J. 2009;45(3):
+228– 36.
+29. Isett KR, Burnam MA, Coleman-Beattie B, Hyde PS, Morrissey JP,
+Magnabosco J, et al. The state policy context of implementation issues for
+evidence-based practices in mental health. Psychiatr Serv. 2007;58(7):914 – 21.
+30. Isett KR, Burnam MA, Coleman-Beattie B, Hyde PS, Morrissey JP,
+Magnabosco JL, et al. The role of state mental health authorities in
+managing change for the implementation of evidence-based practices.
+Community Ment Heal J. 2008;44(3):195 – 211.
+31. Jones AM, Bond GR, Peterson AE, Drake RE, McHugo GJ, Williams JR. Role of
+state mental health leaders in supporting evidence-based practices over
+time. J Behav Heal Serv Res. 2014;41(3):347 – 55.
+32. Mancini AD, Moser LL, Whitley R, McHugo GJ, Bond GR, Finnerty MT, et al.
+Assertive community treatment: facilitators and barriers to implementation
+in routine mental health settings. Psychiatr Serv. 2009;60(2):189 – 95.
+33. Peterson AE, Bond GR, Drake RE, McHugo GJ, Jones AM, Williams JR.
+Predicting the long-term sustainability of evidence-based practices in
+mental health care: an 8-year longitudinal analysis. J Behav Heal Serv Res.
+2014;41(3):337– 46.
+34. Rapp CA, Bond GR, Becker DR, Carpinello SE, Nikkel RE, Gintoli G. The role of state
+mental health authorities in promoting improved client outcomes through
+evidence-based practice. Community Ment Health J. 2005;41(3):347– 63.
+35. Rapp CA, Goscha RJ, Carlson LS. Evidence-based practice implementation in
+Kansas. Community Ment Health J. 2010;46(5):461 – 5.
+36. Bauman AE, Nelson DE, Pratt M, Matsudo V, Schoeppe S. Dissemination of
+physical activity evidence, programs, policies, and surveillance in the
+international public health arena. Am J Prev Med. 2006;31(4 Suppl):S57 – 65.
+37. Bowen SAK, Saunders RP, Richter DL, Hussey J, Elder K, Lindley L. Assessing
+levels of adaptation during implementation of evidence-based
+interventions: introducing the Rogers-Rutten framework. Heal Educ Behav.
+2010;37(6):815– 30.
+38. Bowen S, Zwi AB. Pathways to “evidence-informed” policy and practice: a
+framework for action. PLoS Med. 2005;2(7):600 – 5.
+39. Bruns EJ, Hoagwood KE, Rivard JC, Wotring J, Marsenich L, Carter B. State
+implementation of evidence-based practice for youths, part II:
+Recommendations for research and policy. J Am Acad Child Adolesc
+Psychiatry. 2008;47(5):499 – 504.
+40. Burris S, Mays GP, Scutchfield FD, Ibrahim JK. Moving from intersection to
+integration: public health law research and public health systems and
+services research. Milbank Q. 2012;90:375 – 408.
+41. Campos PA, Reich MR. Political analysis for health policy implementation.
+Heal Syst Reform. 2019;5(3):224 – 35.
+42. Cherney A, Head B. Supporting the knowledge-to-action process: a systems-
+thinking approach. Evid Policy. 2011;7(4):471 – 88.
+43. Chin MH, Goldmann D. Meaningful disparities reduction through research
+and translation programs. JAMA. 2011;305(4):404 – 5.
+44. Domitrovich CE, Bradshaw CP, Poduska JM, Hoagwood K, Buckley JA, Olin S,
+Romanelli LH, Leaf PJ, Greenberg MT, Ialongo NS. Maximizing the
+implementation quality of evidence-based preventive interventions in
+schools: A conceptual framework. Adv Sch Ment Health Promot. 2008;1(3):
+6– 28.
+45. Evans M, Davies J. Understanding policy transfer: a multi-level, multi-
+disciplinary perspective. Public Adm. 1999;77(2):361 – 85.
+46. Dolowitz DP, Marsh D. Learning from abroad: the role of policy transfer in
+contemporary policy-making. Governance. 2000;13(1):5 – 23.
+47. Feldstein AC, Glasgow RE. A practical, robust implementation and
+sustainability model (PRISM) for integrating research findings into practice.
+Jt Comm J Qual Patient Saf. 2008;34(4):228 – 43.
+48. Fleuren M, Wiefferink K, Paulussen T. Determinants of innovation within
+health care organizations: literature review and Delphi study. Int J Qual
+Health Care. 2004;16(2):107 – 23.
+49. Godfrey JL. Re-implementing assertive community treatment: one agency ’s
+challenge of meeting state standards. Diss Abstr Int Sect B Sci Eng. 2011;
+72(4-B):2434.
+50. Green LW, Orleans CT, Ottoson JM, Cameron R, Pierce JP, Bettinghaus EP.
+Inferring strategies for disseminating physical activity policies, programs, and
+practices from the successes of tobacco control. Am J Prev Med. 2006;31(4
+Suppl):S66– 81.
+51. Greig G, Entwistle VA, Beech N. Addressing complex healthcare problems in
+diverse settings: insights from activity theory. Soc Sci Med. 2012;74(3):305 – 12.
+52. Harris JR, Cheadle A, Hannon PA, Forehand M, Lichiello P, Mahoney E,
+Snyder S, Yarrow J. A framework for disseminating evidence-based health
+Bullock et al. Implementation Science           (2021) 16:18 Page 22 of 24
+<<<PAGE=23>>>
+promotion practices. Prev Chronic Dis. 2012;9:E22. Epub 2011 Dec 15. PMID:
+22172189; PMCID: PMC3277406.
+53. Harvey G, Kitson A. PARIHS revisited: from heuristic to integrated framework
+for the successful implementation of knowledge into practice. Implement
+Sci. 2016;11(1):33.
+54. Hendriks A, Jansen M, Gubbel J, De Vries N, Paulussen T, Kremers S.
+Proposing a conceptual framework for integrated local public health policy,
+applied to childhood obesity--the behavior change ball. Implement Sci.
+2013;8(1):46.
+55. Hill M, Hupe P. The multi-layer problem in implementation research. Public
+Manag Rev. 2003;5(4):471 – 90.
+56. Hill M, Hupe P. Implementing public policy: governance in theory and in
+practice. 1st ed. London, UK: Sage; 2002.
+57. Hodges S, Ferreira K. A multilevel framework for local policy development and
+implementation. In: Child and family advocacy: bridging the gaps between
+research, practice, and policy. New York, NY: Springer Science; 2013. p. 205 – 15.
+58. Howlett M. Beyond good and evil in policy implementation: Instrument
+mixes, implementation styles, and second generation theories of policy
+instrument choice. Policy Soc. 2004;23(2):1 – 7.
+59. Hupe PL. The thesis of incongruent implementation: revisiting Pressman
+and Wildavsky. Public Policy Adm. 2011;26(1):63 – 80.
+60. Hupe PL, Hill MJ. ‘And the rest is implementation. ’Comparing approaches
+to what happens in policy processes beyond Great Expectations. Public
+Policy Adm. 2016;31(2):103 – 21.
+61. Jansen MW, van Oers HA, Kok G, de Vries NK. Public health: disconnections
+between policy, practice and research. Heal Res Policy Syst. 2010;8(1):37.
+62. Jilcott S, Ammerman A, Sommers J, Glasgow RE. Applying the RE-AIM
+framework to assess the public health impact of policy change. Ann Behav
+Med. 2007;34(2):105 – 14.
+63. Leeman J, Sommers J, Vu M, Jernigan J, Payne G, Thompson D, et al. An
+evaluation framework for obesity prevention policy interventions. Prev
+Chronic Dis. 2012;9(6):E120.
+64. Matland RE. Synthesizing the implementation literature: the ambiguity-conflict
+model of policy implementation. J Public Adm Res Theory. 1995;5(2):145 – 74.
+65. Mendel P, Meredith LS, Schoenbaum M, Sherbourne CD, Wells KB.
+Interventions in organizational and community context: a framework for
+building evidence on dissemination and implementation in health services
+research. Adm Policy Ment Heal. 2008;35(1 – 2):21– 37.
+66. Michie S, van Stralen MM, West R. The behaviour change wheel: a new
+method for characterising and designing behaviour change interventions.
+Implement Sci. 2011;6(1):42.
+67. Moulton S, Sandfort JR. The strategic action field framework for policy
+implementation research. Policy Stud J. 2017;45(1):144 – 69.
+68. Pettigrew A, Whipp R. Managing change and corporate performance. In
+European industrial restructuring in the 1990s. London: Palgrave Macmillan;
+1992. pp. 227 – 6265.
+69. Proctor E, Silmere H, Raghavan R, Hovmand P, Aarons G, Bunger A, et al.
+Outcomes for implementation research: conceptual distinctions,
+measurement challenges, and research agenda. Adm Policy Ment Heal.
+2011;38(2):65– 76.
+70. Raghavan R, Bright CL, Shadoin AL. Toward a policy ecology of
+implementation of evidence-based practices in public mental health
+settings. Implement Sci. 2008;3(1):26.
+71. Rütten A, Lüschen G, von Lengerke T, Abel T, Kannas L, Diaz JAR, et al.
+Determinants of health policy impact: a theoretical framework for policy
+analysis. Soz Präventivmed Soc Prev Med. 2003;48(5):293 – 300.
+72. Schoenwald SK, Chapman JE, Kelleher K, Hoagwood KE, Landsverk J,
+Stevens J, et al. A survey of the infrastructure for children ’s mental health
+services: implications for the implementation of empirically supported
+treatments (ESTs). Adm Policy Ment Heal. 2008 Mar;35(1 – 2):84– 97.
+73. Shortell SM. Increasing value: a research agenda for addressing the
+managerial and organizational challenges facing health care delivery in the
+United States. Med Care Res Rev. 2004;61(3 Suppl):12S – 30S.
+74. Spoth LA, Greenberg M, Leaf P, Brown CH, Fagan A, Catalano RF, et al.
+Addressing core challenges for the next generation of type 2 translation
+research and systems: the Translation Science to Population Impact (TSci
+Impact) framework. Prev Sci. 2013;14(4):319 – 51.
+75. Strehlenert H, Richter-Sundberg L, Nyström ME, Hasson H. Evidence-
+informed policy formulation and implementation: a comparative case study
+of two national policies for improving health and social care in Sweden.
+Implementation Sci. 2015;10(1):169.
+76. Thomann E, Hupe P, Sager F. Serving many masters: public accountability in
+private policy implementation. Governance. 2018;31(2):299 – 319.
+77. Lukas CV, Holmes SK, Cohen AB, Restuccia J, Cramer IE, Shwartz M, et al.
+Transformational change in health care systems: an organizational model.
+Health Care Manage Rev. 2007;32(4):309 – 20.
+78. Viennet R, Pont B. Education policy implementation. OECD Education
+Working Papers Series. 2017.
+79. Wandersman A, Alia K, Cook BS, Hsu LL, Ramaswamy R. Evidence-based
+interventions are necessary but not sufficient for achieving outcomes in
+each setting in a complex world: empowerment evaluation, getting to
+outcomes, and demonstrating accountability. Am J Eval. 2016;37(4):544 – 61.
+80. Wisdom JP, Chor KHB, Hoagwood KE, Horwitz SM. Innovation adoption: a
+review of theories and constructs. Adm Policy Ment Heal. 2014;41(4):480 –
+502.
+81. Bax C, de Jong M, Koppenjan J. Implementing evidence-based policy in a
+network setting: road safety policy in the Netherlands. Public Adm. 2010;
+88(3):871– 84.
+82. Beidas RS, Stewart RE, Adams DR, Fernandez T, Lustbader S, Powell BJ, et al.
+A multi-level examination of stakeholder perspectives of implementation of
+evidence-based practices in a large urban publicly-funded mental health
+system. Adm Policy Ment Heal. 2016;43(6):893 – 908.
+83. Brodowski ML, Counts JM, Gillam RJ, Baker L, Collins VS, Winkle E, et al.
+Translating evidence-based policy to practice: a multilevel partnership using
+the interactive systems framework. Fam Soc J Contemp Soc Serv. 2013;94(3):
+141– 9.
+84. Brownson RC, Allen P, Jacob RR, Harris JK, Duggan K, Hipp PR, et al.
+Understanding mis-implementation in public health practice. Am J Prev
+Med. 2015;48(5):543 – 51.
+85. Cheadle R, LoGerfo JP, Schwartz S, Harris JRAE. Promoting sustainable
+community change in support of older adult physical activity: evaluation
+findings from the Southeast Seattle Senior Physical Activity Network (SESP
+AN). J Urban Heal. 2009:1 – 9.
+86. Culotta D, Wiek A, Forrest N. Selecting and coordinating local and regional
+climate change interventions. Environ Plan C-Government Policy. 2016;34(7):
+1241– 66.
+87. Evans BA, Snooks H, Howson H, Davies M. How hard can it be to include
+research evidence and evaluation in local health policy implementation?
+Results from a mixed methods study. Implement Sci. 2013;8.
+88. Fleuren MAH, Paulussen TGWM, Dommelen P, Van Buuren S. Towards a
+measurement instrument for determinants of innovations. Int J Qual Heal
+Care. 2014;26(5):501 – 10.
+89. Gotham HJ, White MK, Bergethon HS, Feeney T, Cho DW, Keehn B. An
+implementation story: moving the GAIN from pilot project to statewide use.
+J Psychoactive Drugs. 2008;40(1):97 – 107.
+90. Grace FC, Meurk CS, Head BW, Hall WD, Carstensen G, Harris MG, et al. An
+analysis of policy levers used to implement mental health reform in
+Australia 1992-2012. BMC Health Serv Res. 2015;15(1):479.
+91. Grundy J, Smith M. Evidence and equity: Struggles over federal
+employment equity policy in Canada, 1984-95. Can Public Adm. 2011;54(3):
+335– 57.
+92. Hargreaves M, Cole R, Coffee-Borden B, Paulsell D, Boller K. Evaluating
+infrastructure development in complex home visiting systems. Am J Eval.
+2013 Jun;34(2):147 – 69.
+93. Haug C, Rayner T, Jordan A, Hildingsson R, Stripple J, Monni S, et al.
+Navigating the dilemmas of climate policy in Europe: evidence from policy
+evaluation studies. Clim Change. 2010;101(3 – 4):427– 45.
+94. Horner RH, Kincaid D, Sugai G, Lewis T, Eber L, Barrett S, et al. Scaling
+up school-wide positive behavioral interventions and supports:
+experiences of seven states with documented success. J Posit Behav
+Interv. 2014;16(4):197 – 208.
+95. Monroe-DeVita M, Morse G, Bond GR. Program fidelity and beyond: multiple
+strategies and criteria for ensuring quality of assertive community
+treatment. Psychiatr Serv. 2012.
+96. Painter K. Legislation of evidence-based treatments in public mental health:
+analysis of benefits and costs. Soc Work Public Health. 2009;24(6):511 – 26.
+97. Perla RJ, Bradbury E, Gunther-Murphy C. Large-scale improvement
+initiatives in healthcare: a scan of the literature. J Healthc Qual. 2013;
+35(1):30– 40.
+98. Powell BJ, McMillen JC, Proctor EK, Carpenter CR, Griffey RT, Bunger AC,
+et al. A compilation of strategies for implementing clinical innovations in
+health and mental health. Med Care Res Rev. 2012;69(2):123 – 57.
+Bullock et al. Implementation Science           (2021) 16:18 Page 23 of 24
+<<<PAGE=24>>>
+99. Powell BJ, Proctor EK, Glass JE. A systematic review of strategies for
+implementing empirically supported mental health interventions. Res Soc
+Work Pr. 2014;24(2):192 – 212.
+100. Powell B, Waltz TJ, Chinman MJ, Damschroder LJ, Smith JL, Matthieu MM,
+et al. A refined compilation of implementation strategies: results from the
+Expert Recommendations for Implementing Change (ERIC) project.
+Implement Sci. 2015;10(1):21.
+101. Rhoades BL, Bumbarger BK, Moore JE. The role of a state-level prevention
+support system in promoting high-quality implementation and
+sustainability of evidence-based programs. Am J Community Psychol. 2012;
+50(3– 4):386– 401.
+102. Rieckmann AE. Cassidy, Elaine F.; McCarty, Dennis TR. K. Employing policy
+and purchasing levers to increase the use of evidence-based practices in
+community-based substance abuse treatment settings: reports from single
+state authorities. Eval Program Plann. 2011;34(4):366 – 74.
+103. Rieckmann T, Abraham A, Zwick J, Rasplica C, McCarty D. A longitudinal
+study of state strategies and policies to accelerate evidence-based practices
+in the context of systems transformation. Health Serv Res. 2015;50(4):1125 –
+45.
+104. Rubin RMM, Hurford MOO, Hadley T, Matlin S, Weaver S, Evans AC.
+Synchronizing watches: the challenge of aligning implementation science
+and public systems. Adm Policy Ment Heal. 2016;43(6):1023 – 8.
+105. Yamey G. What are the barriers to scaling up health interventions in low
+and middle income countries? A qualitative study of academic leaders in
+implementation science. Glob Heal. 2012;8:11.
+106. Zhang Y, Marsh D. Learning by doing: the case of administrative policy
+transfer in China. Policy Stud. 2016;37(1):35 – 52.
+107. Lavis JN, Rottingen JA, Bosch-Capblanch X, Atun R, El-Jardali F, Gilson L,
+et al. Guidance for evidence-informed policies about health systems: linking
+guidance development to policy development. PLoS Med. 2012;9(3):
+e1001186.
+108. Shearer JC, Abelson J, Kouyate B, Lavis JN, Walt G. Why do policies change?
+Institutions, interests, ideas and networks in three cases of policy reform.
+Heal Policy Plan. 2016;31(9):1200 – 11.
+109. Fixsen DL, Naoom SF, Blase KA, Friedman RM, Wallace F, Network TNIR.
+Implementation Research: A Synthesis of the Literature. Tampa, FL:
+University of South Florida, Louis de la Parte Florida Mental Health Institute;
+2005.
+110. Treasury Board of Canada Secretariat. Assessing, selecting, and
+implementing instruments for government action. Ottawa: Governement of
+Canada; 2007.
+111. VanDeusen LC, Engle R, Holmes S, Parker V, Petzel R, Nealon Seibert M, et al.
+Strengthening organizations to implement evidence-based clinical practices.
+Health Care Manage Rev. 2010;35(3):235 – 45.
+112. Pal LA. Beyond policy analysis: public issue management in turbulent times.
+5th ed: Nelson Education; 2014.
+113. Lavis JN. Studying health-care reforms. In: Lazar H, Lavis J, Forest P-G,
+Church J, editors. Paradigm freeze: why it is so hard to reform health care in
+Canada. Kingston: McGill-Queen ’s University Press; 2013.
+114. Lavis JN, Wilson MG, Moat KA, Hammill AC, Boyko JA, Grimshaw JM, et al.
+Developing and refining the methods for a “one-stop shop ” for research
+evidence about health systems. Heal Res Policy Syst. 2015;13(1):10.
+115. Dente B. Who Decides? Actors and Their Resources. In: Understanding
+Policy Decisions. SpringerBriefs in Applied Sciences and Technology. Cham:
+Springer; 2014. https://doi.org/10.1007/978-3319-02520-9_2
+Publisher’sN o t e
+Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+Bullock et al. Implementation Science           (2021) 16:18 Page 24 of 24

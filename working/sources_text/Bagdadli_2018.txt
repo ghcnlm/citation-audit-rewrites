@@ -1,0 +1,1618 @@
+<<<PAGE=1>>>
+Contents lists available atScienceDirect
+Human Resource Management Review
+journal homepage: www.elsevier.com/locate/hrmr
+Organizational career management practices and objective career
+success: A systematic review and framework
+Silvia Bagdadli
+a,1, Martina Gianecchinib,⁎,1
+a Department of Management and Technology, Bocconi University, Via Rontgen 1, 20136 Milan, Italy
+b Department of Economics and Management“M. Fanno”, University of Padova, Via del Santo 33, 35123 Padova, Italy
+ARTICLE INFO
+Keywords:
+Organizational career management practices
+Theoretical framework
+Objective career success
+Career development
+Career management system
+ABSTRACT
+The theorization of the relationship between organizational investments in career development
+and individual success remains underdeveloped, and empirical tests of this relationship, which
+have been dispersed among several disciplinary areas, have produced inconsistent results.
+Addressing these issues, the purpose of this article is to propose a theoretical framework that
+illustrates why and how organizational career management practices translate into career success
+and underwhat circumstances the relationship is eﬀective. Using a systematic review of empirical
+studies on career management practices and objective success, we identify three theoretical
+mechanisms - developmental, informational, and relational - and two groups of contingency
+factors that explain this relationship. Our framework advances the extant literature on organi-
+zational career management and provides suggestions to companies for designing eﬀective career
+management systems.
+1. Introduction
+Organizational career management (OCM) refers to the activities companies carry out to sustain their employees' career devel-
+opment (
+Baruch & Peiperl, 2000), helping them obtain promotions and pay raises, and assisting their transition into leadership
+positions (Vinkenburg & Weber, 2012). Over the last twenty-ﬁve years, the career literature has conceptualized“new” career models
+(e.g., boundaryless career, protean career) centered on individuals' proactivity (Arthur & Rousseau, 2001; Hall, 1996; Tomlinson,
+Baird, Berg, & Cooper, 2018) and it has acknowledged that career success has evolved into a concept broader than pay and status
+alone (Ng, Eby, Sorensen, & Feldman, 2005). Notwithstanding, research and practice have continued to place organizational career
+management, which aims at feeding the“talent pipeline”, among the most important challenges for organizations' human resources
+(HR) function (Clarke, 2013; De Vos & Cambré, 2017; Koch, Forgues, & Monties, 2017).
+Theoretical research on OCM, which dates back to the 1970s (e.g.,Bowen & Hall, 1977; Walker, 1978), initially focused on
+providing companies with guidelines and advice on the design of eﬀective succession plans and later on the deﬁnition of OCM
+practices that either individually (Baruch, 1996, 1999) or as systems (Gunz, 1989; Lepak & Snell, 1999; Sonnenfeld & Peiperl, 1988)
+can support employees in reaching their career goals. However, with the exception ofRosenbaum's (1984) seminal work, which
+subsequent career studies have substantially overlooked, no authors have proposed a theoretical explanation of the relationship
+between organizational investments in career management and career success. The empirical research on career management is
+fragmented, since studies have been published in a variety of disciplinary areas (e.g., vocational psychology, labor economics, HR
+https://doi.org/10.1016/j.hrmr.2018.08.001
+Received 18 September 2017; Received in revised form 27 July 2018; Accepted 1 August 2018
+⁎ Corresponding author.
+1 Both authors contributed equally to the article.
+E-mail address: martina.gianecchini@unipd.it (M. Gianecchini).
+Human Resource Management Review xxx (xxxx) xxx–xxx
+1053-4822/ © 2018 Elsevier Inc. All rights reserved.
+Please cite this article as: Bagdadli, S., Human Resource Management Review (2018), 
+https://doi.org/10.1016/j.hrmr.2018.08.001
+<<<PAGE=2>>>
+management), have tested OCM practices (e.g., mentoring, training, assessment centers) in isolation (e.g.,⁎Dreher & Ash, 1990;
+⁎Georgakakis, Dauth, & Ruigrok, 2016; ⁎Jansen & Vinkenburg, 2006) and have achieved ambiguous results (e.g.,⁎Fagenson, 1989;
+⁎Whitely & Coetsier, 1993). Thus, no consolidated empirical research has stated the eﬀectiveness of OCM practices either as single
+practices or as a system of practices (De Vos, Dewettinck, & Buyens, 2008).
+We contribute to the theoretical and empirical career literature by proposing a theoretical framework that illustrates the re-
+lationship between OCM practices and individuals' objective career success (OCS). In developing this framework, we perform a
+systematic review (
+Denyer & Tranﬁeld, 2009) of the empirical research that tests the eﬀectiveness of OCM practices on OCS. This
+review approach is particularly appropriate for our research purpose since it can help us ascertainwhy and how a relationship
+between two variables occurs and underwhat circumstances it is most eﬀective (Denyer & Tranﬁeld, 2009, p. 682). In addition, the
+systematic review is useful in research on topics such as career development and success, which are characterized by interdisciplinary
+literature and empirical studies that adopt various deﬁnitions, measurements, and participants (
+Arthur, Hall, & Lawrence, 1989; Gunz
+& Peiperl, 2007).
+Our theoretical framework makes two primary contributions to the career literature. First, it deﬁnes three theoretical mechanisms
+- developmental, informational, and relational - that explainhow and why organizational investments in career development translate
+into individual career success, a topic that the literature has largely overlooked (e.g.,Rosenbaum, 1984). The framework also ad-
+vances the career literature that measures the diﬀusion of OCM practices (e.g.,Baruch, 1996; Gutteridge & Otte, 1983) but does not
+explain how they produce their eﬀects. This process must be described and understood both if career theory is to overcome a purely
+descriptive and“atheoretical” approach to career development (Baruch & Peiperl, 2000) and if companies and HR departments are to
+make well-guided investments in employees' development (Cappelli & Keller, 2014). These beneﬁts are possible because the proposed
+framework oﬀers a theoretically sound and evidence-based (Gill, 2018) explanation of the eﬀects of OCM practices on individual
+career success. Second, since our review focuses on empirical studies, we provide an overview of OCM practices' eﬃcacy in aﬀecting
+OCS. In doing so, we identify and include in our framework two sets of contingency factors that can aﬀect the relationship between
+OCM practices and individual career success - that is, factors that explain underwhat circumstances this relationship holds. This eﬀort
+can also guide HR departments in identifying career development practices that can be eﬀective in organizations, given their speciﬁc
+contingencies.
+1.1. The role of organizations in managing individual careers
+According to
+Orpen (1994, p. 28), OCM refers to“practices deliberately established by organizations, to improve the career
+eﬀectiveness of their employee, establishing what employees want from their careers, providing appropriate career opportunities for
+employees, identifying which employees deserve these opportunities and then providing them”. These practices include a wide range
+of programs and interventions (De Vos et al., 2008) that companies design“to promote and contribute to business goals [while giving
+individuals] the opportunity to fulﬁll their personal needs and aspirations” (Doyle, 2000, p. 229). In an analysis of the evolution of
+the organizational career models,Clarke (2013) showed that in many companies, employees take responsibility for their career
+management, but the organization continues to support their professional development through career management initiatives.
+Rosenbaum's (1984)seminal work explained the theoretical rationale that relates organizational investment to individual career
+development. Building onTurner's (1960)) contribution, Rosenbaum applied to organizational career management the notion of
+“sponsored mobility”, as opposed to the predictions of human capital theory (Becker, 1964), which posits that individual achieve-
+ments are the result of individuals' abilities and investments in education and training and that there are no barriers to career
+mobility, as individuals control the investments that determine their careers.
+Rosenbaum (1984) suggested instead that individual
+investments in developmental actions are lower and not comparable to those made by organizations, which invest primarily in
+“chosen” individuals who have the potential to grow into leadership positions (
+Spence, 1973). Given the diﬃculty and the costs
+involved in obtaining information about employees' abilities and potential, employers use information such as their past jobs, when
+they have advanced, and the rate at which they have advanced (
+Rosenbaum, 1984) as signals of their abilities and potential. In a
+dynamic process that occurs over time, organizational investments convert into individual achievements, which are both the starting
+point for further career development and the basis for selecting those who will advance in the corporate hierarchy.
+The process
+Rosenbaum (1984)sketched is one of the rare eﬀorts to deﬁne theoretically the organizational mechanisms through
+which companies sustain individual career development. Studies published in the 1970s focused primarily on career planning (e.g.,
+Bowen & Hall, 1977; Walker, 1978) and oﬀered companies practical solutions for the design of their succession plans. Since most
+studies published after the beginning of the 1980s (e.g.,Baruch, 1996, 1999) were concerned with the diﬀusion and implementation
+of OCM practices in companies, the mechanismsRosenbaum (1984)outlined remained substantially implicit and neglected in most of
+the subsequent career studies (Baruch, Szűcs, & Gunz, 2015).
+1.2. Organizational career management practices and career success
+While the deﬁnitions of OCM converge in identifying it as a set of practices, there is little consensus on the speciﬁc practices
+involved, which number anywhere from nine (Gutteridge & Otte, 1983) to thirty-two (Gutteridge, 1993). Table 1compares the lists of
+practices proposed by the literature, which repeat several activities but diﬀer with respect to labels, content, and the number of
+practices.
+The practices most frequently included in these lists are (seeBaruch, 2003 for a larger set of deﬁnitions): career counselling,
+which is the process of discussing with employees their current job activities and performance, personal skills, and career
+S. Bagdadli, M. Gianecchini Human Resource Management Review xxx (xxxx) xxx–xxx
+2
+<<<PAGE=3>>>
+Table 1
+OCM practices: relevant literature.
+Gutteridge and Otte
+(1983)
+Gutteridge (1993) Baruch (1996) Baruch (1999) Baruch and Peiperl
+(2000)
+Eby et al. (2005) De Vos, Dewettinck, and
+Buyens (2009)
+Job posting
+Career counselling/
+discussion
+Succession planning
+Career pathing
+Career workbooks
+Career planning
+workshops
+Career resource centers
+Outplacement
+counselling
+Skills inventory
+Career planning workshops
+Career workshops (stand alone)
+Pre-retirement workshops
+Computer software
+Promotability forecasts
+Psychological testing
+Assessment centers
+Interview process
+Job assignment
+Career information handbooks
+Career ladders or dual-career ladder
+Career resource center
+Other career information format
+Individual counselling or career
+discussion with supervisor or
+line manager
+Individual counselling or career
+discussion with senior career
+adviser
+Individual counselling or career
+discussion with personnel staﬀ
+Individual counselling or career
+discussion with specialised
+counsellor
+Informal canvassing
+Job posting
+Skills inventories or skills audit
+Replacement or succession
+planning
+Staﬃng committee
+Internal placement system
+Job enrichment or job design
+Job rotation
+In-house training and development
+programs
+External seminars or workshops
+Tuition reimbursement
+Supervisor training in career
+discussion
+Dual-career couple programs
+Mentoring system
+Employee orientation program
+Performance appraisal as a
+basis for career planning
+Career counselling by
+direct supervisor
+Career counselling by
+HRM unit
+Books and/or pamphlets on
+career issues.
+Common career paths
+Assessment centre
+Dual ladder
+Postings regarding internal
+job openings
+Appraisal committees
+Formal education
+Career workshops
+Written personal career
+planning programmes
+Retirement preparation
+programmes
+Mentoring
+Performance appraisal as
+a basis for salary review
+Succession planning
+Quality circles
+Training programmes for
+managers
+Posting (advertising) internal job
+openings
+Formal education
+Lateral moves
+Retirement preparation programs
+Booklets and/or pamphlets on
+career issues
+Dual ladder
+Induction
+Assessment and development
+centers
+Mentoring
+Career workshops
+Performance appraisal
+Career counselling by direct
+manager and by the HRM unit
+Succession planning
+360° performance appraisal
+systems
+Special programs for ethnic
+minorities, women, disabled, dual
+career couples
+Special programs for expatriates
+and re-patriates
+Special programs for highﬂyers
+Building psychological contracts
+Secondments
+Performance appraisal as a
+basis for career planning
+Assessment centers
+Peer appraisal
+Upward (subordinate)
+appraisal
+Career counselling by
+direct supervisor
+Career counselling by
+HR Department
+Formal mentoring
+Career workshops
+Common career paths
+Dual ladder
+Written personal career
+planning
+Retirement preparation
+programs
+Succession planning
+Books and/or pamphlets on
+career issues
+Postings regarding internal
+job openings
+Formal education
+Lateral moves
+Career planning
+workshops
+Formal mentoring
+programs
+Succession planning
+Outplacement
+Career ladders and
+paths
+Job posting
+Individual
+counselling
+External training
+seminars
+Tuition reimbursement
+In-house training
+Preretirement programs
+Promotability
+forecasting
+Job rotation
+Developmental
+assessment centers
+Career resource systems
+Career planning
+workbook
+Performance evaluation as a basis
+for career planning
+Feedback about performance by
+manager
+Formal career discussions
+with line manager
+Mentoring
+Job enrichment
+Developmental task
+Development centres
+Career discussions with HR
+professionals
+Workshops on career
+opportunities within the
+organization
+Personal development plan
+Succession planning
+Skill inventory
+Practices inbold are present in all the lists (even with diﬀerent labels). Practices initalic are present in at least three lists but not in all of them (even with diﬀerent labels).
+S. Bagdadli, M. Gianecchini Human Resource Management Review xxx (xxxx) xxx–xxx
+3
+<<<PAGE=4>>>
+development objectives; succession planning, which supports the identiﬁcation and development of key individuals for executive
+positions; and career-planning workshops that help employees make career decisions and set goals through the discussion with other
+people in similar situations and/or human resources professionals. Other practices frequently included in these lists are job postings,
+an internal recruitment channel that gives employees the opportunity to apply toﬁll vacancies in the organization; outplacement and
+preretirement programs that help sustain workers during job transitions; assessment centers for the evaluation of workers' compe-
+tences and potential; dual-ladder systems, which provide promotions and rewards to employees based on their career orientation
+(i.e., technical/scientiﬁc versus managerial); and mentoring programs that support workers with the personal and professional in-
+sights of experienced individuals.
+Although organizations tend to oﬀer OCM practices in combination (
+Baruch, 1999), there is no“generally accepted typology of
+OCM practices” (De Vos et al., 2008, p. 162). A few theoretical and empirical studies have suggested how OCM practices work as
+groups, but they have had a limited impact on the later career literature. The major theoretical eﬀort in this case is represented by the
+career systems models, which are frameworks that link the organizational structure's characteristics (Gunz, 1989), organizational
+strategy (Sonnenfeld & Peiperl, 1988), and individual competencies (Lepak & Snell, 1999) to the investments organizations should
+devote to employees to support their career development. On the empirical side, building on exploratory studies, a few authors (i.e.,
+Baruch & Peiperl, 2000; De Vos et al., 2008; Eby, Allen, & Brinley, 2005) have proposed categorizations of OCM practices based on
+their adoption by companies and how they support individual professional development.
+One of the main limitations of these studies is that they do not consider the eﬀect of the proposed OCM typologies or taxonomies
+on OCS, so they neglect OCM activities' original goal. We know from the career literature that career success can be both subjective,
+referring to an individual's satisfaction with all aspects of his or her career (
+Greenhaus, Parasuraman, & Wormley, 1990), and
+objective, referring to tangible professional achievement as evaluated by others (Judge, Cable, Boudreau, & Bretz, 1995). The primary
+purpose of OCM practices is to support employees' professional achievements based on organizational goals by rewarding them with
+promotions (e.g.,
+⁎Campion, Cheraskin, & Stevens, 1994; ⁎Cannings, 1988; ⁎Wakabayashi & Graen, 1984), salary (e.g.,⁎Dohmen,
+Kriechel, & Pfann, 2004; ⁎Suutari & Brewster, 2003; ⁎Turban & Dougherty, 1994), and movement to the upper echelons (e.g.,
+⁎Bozionelos, 2003; ⁎Kirchmeyer, 1998; ⁎Tharenou, Latimer, & Conroy, 1994). In other words, companies provide OCM activities
+with the primary purpose of increasing the individual's productivity and professional development, so subjective career success is,
+from the organization's point of view, a byproduct of this process.
+Moving from the limitations of the theoretical and empirical OCM literature, we use a systemic literature review to develop an
+overarching framework (the“OCM-OCS framework” hereafter) that explains the theoretical rationale (thewhy) and the mechanisms
+(the how) that underlie the relationship between OCM practices and OCS.
+We make two primary contributions to the career literature. First, we contribute to the“thin” (
+Baruch & Peiperl, 2000, p. 348)
+theoretical basis of OCM that, with the notable exception ofRosenbaum (1984), has not explained the relationship between OCM
+practices and career success. The purpose of our framework is to developRosenbaum's (1984)career process, which did not describe
+which OCM practices are involved in individuals' career development and their eﬀects on career attainment. In this way, we also add
+to the career literature that has proposed various classiﬁcations of OCM practices but has never considered their eﬀects on OCS as a
+criterion for grouping them. Second, our theoretical framework includes the contingency factors (underwhat circumstances) that
+aﬀect the main relationship. Drawing on the results of the empirical studies that are included in the systematic review, we identify the
+conditions under which OCM practices can be more or less eﬀective in increasing individual career success, thereby contributing to
+the empirical literature on OCM practices and providing managerial implications. Finally, our framework and its functioning inform
+the formulation of a set of research propositions that can guide future empirical research.
+2. Method
+Denyer and Tranﬁeld (2009, p. 671)deﬁned the systematic review as“a speciﬁc methodology that locates existing studies, selects
+and evaluates contributions, analyses and synthesizes data, and reports the evidence in such a way that allows reasonably clear
+conclusions to be reached about what is and is not known”. Unlike narrative approaches, systematic reviews are based on replicable
+methods that minimize bias related to the identiﬁcation, selection, and analysis of studies. In reviewing and synthesizing the lit-
+erature, we followed the stages
+Tranﬁeld, Denyer, and Smart (2003)proposed for a systematic review: planning, executing, and
+reporting.
+2.1. Planning
+The ﬁrst stage of a systematic review consists of identifying the key data sources that are consistent with the research's purpose.
+We limited our sources to articles published in scholarly (peer-reviewed) journals written in English. We chose a set of electronic
+databases that are among the most comprehensive databases in the social sciences: EconLit, Psychology and Behavioral Sciences
+Collection, Business Source Premier, SocINDEX with Full Text (EBSCO), and Web of Science (ISI). We also focused on empirical
+articles because, as evidence-based management suggests (
+Briner, Denyer, & Rousseau, 2009; Gill, 2018; Pfeﬀer & Sutton, 2006),
+studies on organizational practices (e.g., OCM) that seek to support management processes and decision-making should be based on
+evidence. In the academic literature, evidence is produced by empirical research that, as in our case, tests the eﬃcacy of a practice in
+delivering its expected outcomes. We reviewed all articles independently to determine whether they met our predeﬁned criteria,
+which are illustrated in the following paragraph, and then discussed ambiguous cases to achieve agreement.
+S. Bagdadli, M. Gianecchini
+Human Resource Management Review xxx (xxxx) xxx–xxx
+4
+<<<PAGE=5>>>
+2.2. Executing
+To identify and select the academic studies that are relevant to our research, we conducted our search in two steps. First, we
+performed a literature search for studies that listed OCM practices among their key words. To identify these key words, we referred to
+studies that listed OCM practices (
+Table 1), creating a list of twenty-six key terms, some of which refer to an OCM practice (e.g.,
+training) and others that can be combined to deﬁne one or more OCM practices (e.g.,“dual*” as a part of“dual ladder” or “dual
+career couple”). The twenty-six key terms used in the analysis are: job posting*, education, appraisal, counselling, counselling,
+lateral, job rotation*, *retirement, succession, mentor*, path*, dual*, book*, written, assessment, development*, workshop*, in-
+duction, orientation, network*, training, plan*, inventory, talent, *potential, and OCM. Next, we followed the same steps toﬁnd
+articles on OCS. After reading studies on the measures of OCS (
+Dries, Pepermans, Hofmans, & Rypens, 2009; Ng et al., 2005), we
+identiﬁed eight key terms (career, success, advancement*, promotion*, salary, top, pay, hierarch*) that reﬂect the three measures
+that are usually used to measure OCS (Dries et al., 2009): salary, promotions, and hierarchical level.
+We ran our search in the electronic databases with multiple search strings that combined the eight key terms related to OCS (e.g.,
+success AND advancement) with each of the twenty-six key terms related to OCM practices (e.g., success AND training). We extracted
+all the articles (as of May 2017) whose abstracts and/or titles contained combinations of the keywords, without restricting the date of
+publication. This primary search produced more than 100,000 articles, some of which were not relevant to our study (e.g., articles on
+students' academic achievement). We used theﬁlter Subject Thesaurus Term (in EBSCO databases) and Research Areas (in Web of
+Science) to restrict the sample to 5331 articles, selecting terms (e.g., personnel management) and areas (e.g., business economics)
+that were consistent with our research.
+Next, we read the selected articles' titles and abstracts and excluded studies that did not focus on OCM practices' eﬀect on OCS. We
+considered only empirical studies that collected and analyzed primary data, so literature reviews, meta-analyses, and theoretical
+articles were excluded. While these articles are not included in the review, we consulted some of them in developing the OCM-OCS
+framework to conceptualize the process and the links in the framework. Then, we excluded articles that analyzed the career success of
+professional groups, such as academics (
+Dowd & Kaplan, 2005), which are strongly regulated by country-level institutional rules that
+constrain organizations (i.e., universities) in their eﬀorts to manage individuals' career development. Finally, we excluded articles
+that analyze informal practices, as OCM refers to“practices deliberately established by organizations” (Orpen, 1994, p. 28). This
+procedure produced 73 journal articles that contain 128 empirical tests of the relationship between an OCM practice and one or more
+indicators of career success.
+2.3. Reporting
+The ﬁnal step of a systematic review produces a synthetic description of the studies and then reports the results of the analysis.
+Most of the seventy-three studies selected were conducted in North America (n = 39), but some were conducted in Europe (n = 16),
+Asia (n = 7), Australia (n = 6), and other parts of the world (n = 5).
+Most of the studies adopted a cross-sectional approach (n = 44), while others were longitudinal analyses (n = 29). Most of the
+studies' data were collected through surveys (n = 48) of managers and professionals, and the sizes of the samples the articles analyzed
+varied from thirty to thousands. Twenty-four studies focused on individuals who worked for one company only, but the company
+sizes and industries varied.
+The selected articles were published between 1969 and 2017, with forty-ﬁve studies published after 2000 and fourteen after 2010.
+The articles were published in thirty-ﬁve journals, but twenty-ﬁve of the articles appeared in just three journals (Journal of Applied
+Psychology, The International Journal of Human Resource Management, andAcademy of Management Journal).
+Table 2 provides information about the 128 empirical analyses (labeled“a” to distinguish them from the number of articles,
+labeled “n”) in the seventy-three articles. We found empirical tests for only eight out of the more than thirty OCM practices deﬁned in
+the literature (Table 1). The empirical analyses used promotion (a = 56), salary (a = 53), and hierarchical level (a = 19) as measures
+of OCS. Most of the empirical analyses veriﬁed a positive relationship between OCM practices and OCS (a = 73), but approximately
+Table 2
+Summary of the results.
+N. of empirical analyses
+(a)
+Objective career success measure (as % ofa)E ﬀect on career success
+(as % ofa)
+Salary Hierarchical position Promotion Positive Negative Null Mixed
+Training 18 27,8% 22,2% 50,0% 61,1% – 22,2% 16,7%
+International assignment 16 43,8% 6,3% 50,0% 50,0% 12,4% 18,8% 18,8%
+Developmental assignment 9 44,4% – 55,6% 55,6% – 22,2% 22,2%
+Assessment and development
+centre
+11 45,4% 36,4% 18,2% 100,0% –– –
+Performance appraisal 14 35,7% 14,3% 50,0% 57,1% – 42,9% –
+Mentoring 51 47,1% 9,8% 43,1% 51,0% 2,0% 47,0% –
+Networking 9 33,4% 33,3% 33,3% 44,4% 0,0% 55,6% –
+Total 128 41,4% 14,8% 43,8% 57,0% 2,3% 34,4% 6,3%
+S. Bagdadli, M. Gianecchini
+Human Resource Management Review xxx (xxxx) xxx–xxx
+5
+<<<PAGE=6>>>
+Table 3
+Results of the review.
+Reference theory Studies OCM practice Research method* Research setting E ﬀect on OCS** Journal
+Human capital
+⁎De Luis Carnicer, Martinez
+Sanchez, Perez Perez, & Vela
+Jimenez, 2004
+Training CS – Survey on a sample of
+companies
+1132 Spanish employees across
+industries
+Promotion = 0 Personnel Review
+⁎Fang et al., 2009 Training CS – Administrative data on
+a sample of companies
+4105 Canadian professionals
+across industries
+Salary = 0/+
+Promotion = 0/+
+International Journal of
+Manpower
+⁎Metz, 2004 Training CS – Survey on a sample of
+companies
+848 Australian employees from
+banking sector
+Hierarchical
+position = +
+Journal of Managerial
+Psychology
+⁎Benson & Pattie, 2008 International
+assignment
+CS – Administrative data
+one company
+365 American employees of a
+professional serviceﬁrm
+company
+Promotion =−
+Salary = 0
+The International Journal of
+Human Resource Management
+⁎Ramaswami, Carter, & Dreher,
+2016
+International
+assignment
+CS – Administrative data on
+a sample of companies
+440 young employees across
+countries and industries
+Salary = + Human Relations
+⁎Kraimer et al., 2009 International
+assignment
+CS – Survey on a sample of
+companies
+84 American employees across
+industries
+Promotion =−/+ Human Resource Management
+Developmental
+assignment
+CS – Survey on a sample of
+companies
+84 American employees across
+industries
+Promotion = + Human Resource Management
+⁎Campion et al., 1994 Developmental
+assignment
+CS – Survey on one
+company
+138 American managers and
+professional of a pharma
+company
+Promotion = +
+Salary = +
+Academy of Management
+Journal
+Human capital / Signaling theory
+⁎Dekker et al., 2002 Training L – Administrative data on a
+sample of companies
+1343 Dutch employees across
+industries
+Promotion = 0 International Journal of
+Manpower
+Human capital / Signaling theory
+/ Social capital theory
+⁎Biemann & Braakmann, 2013 International
+assignment
+CS – Administrative data on
+a sample of companies
+3521 German employees across
+industries
+Salary = + The International Journal of
+Human Resource Management
+Human capital / Social network
+theory
+⁎Georgakakis et al., 2016 International
+assignment
+CS – Administrative data on
+a sample of companies
+163 Managers across countries
+and industries
+Promotion =−/+ Journal of World Business
+Human capital / Tournament
+model
+⁎Melero, 2010 Training L – Administrative data on a
+sample of companies
+7894 UK employees across
+industries
+Salary = +
+Promotion = +
+Industrial Relations
+⁎Wayne et al., 1999 Training L – Survey on one company 245 American employees of a
+chemical company
+Salary = 0 Journal of Organizational
+Behavior
+Human capital / Tournament
+model / Credentialist theory
+⁎Sheridan et al., 1997 Training L – Administrative data one
+company
+338 American managers from a
+public utility company
+Promotion = +/0 Journal of Business and
+Psychology
+Tournament model
+⁎Cannings, 1988 Performance appraisal CS – Survey on one
+company
+648 Canadian managers of a
+service company
+Promotion = + Industrial and Labour
+Relations Review
+⁎Hurley, Wally, Segrest,
+Scandura, & Sonnenfeld, 2003
+Performance appraisal CS – Administrative data
+one company
+502 American managers of a
+service company
+Hierarchical
+position = +
+Personnel Review
+⁎Pema & Mehay, 2010 Performance appraisal L – Administrative data one
+company
+27,965 American employees of
+a public administration
+Promotion = + Labour Economics
+Signaling theory
+⁎Campbell & Bray, 1993 Assessment center L – Administrative data on a
+sample of companies
+509 American middle
+managers from ICT industry
+Promotion = + Personnel Psychology
+⁎Grant & Bray, 1969 Assessment center L – Administrative data on a
+sample of companies
+348 American middle
+managers from ICT industry
+Salary = + Journal of Applied Psychology
+⁎Hinrichs, 1978 Assessment center L – Administrative data one
+company
+30 American managers from a
+manufacturing company
+Hierarchical
+position = +
+Journal of Applied Psychology
+⁎Jansen & Stoop, 2001 Assessment center L – Administrative data one
+company
+679 Dutch managers from a
+postal company
+Salary = + Journal of Applied Psychology
+⁎Jansen & Vinkenburg, 2006 Assessment center L – Administrative data one
+company
+456 Dutch managers from a
+postal company
+Salary = + Journal of Vocational
+Behavior
+⁎Mitchel, 1975 Assessment center Salary = + Journal of Applied Psychology
+(continued on next page)
+S. Bagdadli, M. Gianecchini Human Resource Management Review xxx (xxxx) xxx–xxx
+6
+<<<PAGE=7>>>
+Table 3(continued)
+Reference theory Studies OCM practice Research method* Research setting E ﬀect on OCS** Journal
+L – Administrative data one
+company
+254 American managers from
+an oil company
+⁎Moses & Boehm, 1975 Assessment center L – Administrative data one
+company
+4846 American managers from
+an ICT company
+Hierarchical
+position = +
+Journal of Applied Psychology
+⁎Ritchie & Moses, 1983 Assessment center L – Administrative data one
+company
+1097 American managers from
+a telephone company
+Hierarchical
+position = +
+Journal of Applied Psychology
+⁎Wollowick & McNamara, 1969 Assessment center L – Administrative data one
+company
+94 American middle managers
+from electronics company
+Hierarchical
+position = +
+Journal of Applied Psychology
+⁎Wakabayashi & Graen, 1984 Assessment center CS – Survey on one
+company
+72 Japanese employees of a
+retail company
+Promotion = +
+Salary = +
+Journal of Applied Psychology
+Career development theory
+⁎Aryee et al., 1996 Mentoring CS – Survey on a sample of
+companies
+432 Hong Kong middle
+managers across industries
+Promotion = +
+Salary = 0
+Journal of Management
+Studies
+⁎Chao, Walz, & Gardner, 1992 Mentoring CS – Survey on a sample of
+companies
+552 American managers and
+professionals across industries
+Salary = 0 Personnel Psychology
+⁎Fagenson, 1989 Mentoring CS – Survey on one
+company
+249 American managers of
+health-care company
+Promotion = + Journal of Organizational
+Behavior
+⁎Kirchmeyer, 1998 Mentoring CS – Survey on a sample of
+companies
+292 American managers across
+industries
+Hierarchical position = 0
+Salary = +
+Journal of Management
+Networking CS – Survey on a sample of
+companies
+292 American managers across
+industries
+Hierarchical
+position = +
+Salary = 0
+Journal of Management
+⁎Johnson & Scandura, 1994 Mentoring CS – Survey on a sample of
+companies
+864 American professionals
+across industries
+Salary = 0 Industrial Relations
+⁎Lee & Nolan, 1998 Mentoring CS – Survey on one
+company
+269 American professionals of
+an education company
+Promotion = + Journal of Career
+Development
+⁎Metz, 2009 Mentoring CS – Survey on a sample of
+companies
+848 Australian managers of
+banking industry
+Promotion = + Applied Psychology
+⁎Orpen, 1995 Mentoring L – Survey on a sample of
+companies
+97 UK employees across
+industries
+Promotion = +
+Salary = +
+The Journal of Social
+Psychology
+⁎Ragins & Cotton, 1999 Mentoring CS – Survey on a sample of
+companies
+1162 American employees
+across industries
+Promotion = 0
+Salary = 0
+Journal of Applied Psychology
+⁎Singh et al., 2009 Mentoring L – Survey on a sample of
+companies
+236 Australian employees
+across industries
+Promotion = +
+Salary = 0
+Journal of Vocational
+Behavior
+⁎Tharenou, 2001 Mentoring L – Survey on a sample of
+companies
+2431 Australian employees
+across industries
+Promotion = 0 Academy of Management
+Journal
+⁎Tharenou, 2005 Mentoring L – Survey on a sample of
+companies
+3434 Australian employees
+across industries
+Hierarchical
+position =−
+Promotion = 0
+Salary = 0
+Australian Journal of
+Management
+⁎Wayne et al., 1999 Mentoring L – Survey on one company 245 American employees of a
+chemical company
+Promotion = +
+Salary = 0
+Journal of Organizational
+Behavior
+⁎Whitely, Dougherty, & Dreher,
+1991
+Mentoring CS – Survey on a sample of
+companies
+404 American employees
+across industries
+Promotion = +
+Salary = +
+Academy of Management
+Journal
+⁎Whitely & Coetsier, 1993 Mentoring CS – Survey on a sample of
+companies
+148 Belgian employees across
+industries
+Promotion = +
+Salary = 0
+Organization Studies
+Social capital theory
+⁎Bozionelos, 2003 Mentoring CS – Survey on a sample of
+companies
+264 UK employees of a sample
+of universities
+Hierarchical position = 0 International Journal of
+Organizational Analysis
+Networking CS – Survey on a sample of
+companies
+264 UK employees of a sample
+of universities
+Hierarchical
+position = +
+International Journal of
+Organizational Analysis
+(continued on next page)
+S. Bagdadli, M. Gianecchini Human Resource Management Review xxx (xxxx) xxx–xxx
+7
+<<<PAGE=8>>>
+Table 3(continued)
+Reference theory Studies OCM practice Research method* Research setting E ﬀect on OCS** Journal
+⁎Bozionelos & Wang, 2006 Mentoring CS – Survey on one
+company
+113 Chinese employees of a
+food company
+Promotion = 0 Journal of Human Resource
+Management
+Networking CS – Survey on one
+company
+113 Chinese employees of a
+food company
+Promotion = 0 Journal of Human Resource
+Management
+⁎Seibert et al., 2001 Mentoring CS – Survey on a sample of
+companies
+448 American employees
+across industries
+Promotion = +
+Salary = +
+Academy of Management
+Journal
+⁎Turban, Moake, Wu, & Cheung,
+2017
+Mentoring CS – Survey on a sample of
+companies
+330 American employees
+across industries
+Promotion = +
+Salary = +
+Journal of Career
+Development
+⁎Eddleston et al., 2004 Networking CS – Survey on a sample of
+companies
+676 American managers and
+professionals across industries
+Hierarchical position = 0
+Salary = 0
+Journal of Managerial
+Psychology
+Social network theory
+⁎Gong, Chen, & Yang, 2014 Mentoring CS – Survey on a sample of
+companies
+246 Taiwanese employees
+across industries
+Promotion = + Social Behavior and
+Personality
+⁎Higgins & Thomas, 2001 Networking L – Survey on a sample of
+companies
+130 American professionals
+across industries
+Promotion = + Journal of Organizational
+Behavior
+⁎Metz, 2009 Networking CS – Survey on a sample of
+companies
+848 Australian managers of
+banking industry
+Promotion = 0 Applied Psychology
+Social learning theory
+⁎Bozionelos, Bozionelos,
+Kostopoulos, & Polychroniou,
+2011
+Mentoring CS – Survey on a sample of
+companies
+194 UK middle managers
+across industries
+Promotion = 0
+Salary = +
+Career Development
+International
+Social capital theory / Social
+learning theory
+⁎Dreher & Ash, 1990 Mentoring CS – Survey on a sample of
+companies
+320 American employees
+across industries
+Promotion = +
+Salary = +
+Journal of Applied Psychology
+Social exchange theory / Social
+learning theory / social
+network theory
+⁎Kay, Hagan, & Parker, 2009 Mentoring CS – Survey on a sample of
+companies
+603 Canadian professionals
+across industries
+Salary = + Law and Policy
+Resource-based view
+⁎Carpenter et al., 2001 International
+assignment
+L – Administrative data on a
+sample of companies
+245 American CEOs across
+industries
+Salary = 0 Academy of Management
+Journal
+⁎Magnusson & Boggs, 2006 International
+assignment
+CS – Survey on a sample of
+companies
+78 American CEOs across
+industries
+Promotion = + Journal of International
+Management
+Career capital
+⁎Singh et al., 2009 Training L – Survey on a sample of
+companies
+236 Australian employees
+across industries
+Salary = +
+Promotion = 0
+Journal of Vocational
+Behavior
+Developmental
+assignment
+L – Survey on a sample of
+companies
+236 Australian employees
+across industries
+Salary = +
+Promotion = 0
+Journal of Vocational
+Behavior
+Internal Labour Market
+⁎Dohmen et al., 2004 Developmental
+assignment
+L – Administrative data one
+company
+17,610 Dutch employees from
+an aircraft company
+Salary = +
+Promotion = +/0
+Journal of Population
+Economics
+Person-job ﬁt
+⁎Lyness & Heilman, 2006 Performance appraisal L – Administrative data one
+company
+502 American managers of a
+ﬁnancial service company
+Promotion = + Journal of Applied Psychology
+Equity theory / Expectancy
+theory
+⁎Oh & Lewis, 2013 Performance appraisal L – Administrative data on a
+sample of companies
+120,598 American employees
+of public administrations
+Promotion = +
+Salary = +
+Public Management Review
+No reference theory Training -
+⁎Metz, 2009; ⁎Rowley, Kang, & Lim, 2016; ⁎Tharenou, 2001, 2005; ⁎Tharenou et al., 1994
+International assignment- ⁎Boudreau, Boswell, & Judge, 2001; ⁎Doherty & Dickmann, 2012; ⁎Hamori & Koyuncu, 2011; ⁎Lyness & Thompson, 2000; ⁎Suutari & Brewster, 2003
+Developmental assignment- ⁎Lyness & Thompson, 2000; ⁎Tharenou, 2001
+Performance appraisal- ⁎Campion et al., 1994; ⁎Cox & Harquail, 1991; ⁎Noback et al., 2016; ⁎Wakabayashi & Graen, 1984
+Mentoring - ⁎Blake-Beard, 1999; ⁎Blickle, Witzki, & Schneider, 2009; ⁎Bozionelos, 2006, 2008; ⁎Chang, Feng, & Shyu, 2014; ⁎Gubbins & Garavan, 2016; ⁎Kirchmeyer, 2002; ⁎Koyuncu
+et al., 2014; ⁎Turban & Dougherty, 1994
+Note: * CS = cross-sectional research, L = longitudinal research; ** Eﬀect on the measure of career success (‘+’positive, ‘0’null or mixed,‘-’negative).
+S. Bagdadli, M. Gianecchini Human Resource Management Review xxx (xxxx) xxx–xxx
+8
+<<<PAGE=9>>>
+one-third (a = 44) found no statistically signiﬁcant relationship. Only three analyses showed a negative relationship, while the results
+were mixed in eight cases (e.g., curvilinear relationship or diﬀerent results for diﬀerent samples).
+The ﬁnal phase of the systematic review concerns the reporting of“what is known and unknown about the questions addressed in
+the review” (Denyer & Tranﬁeld, 2009, p. 688). We report these results in the next section.
+3. Results
+Our review reveals the theoretical underpinnings of the relationship between OCM practice and OCS (the results of this analysis
+and the main characteristics of the reviewed articles are inTable 3). Our study conﬁrms the theoretical fragmentation of the literature
+and shows that more than a third of the studies (25 out of 73) are“atheoretical”, as the hypothesized relationship between OCM
+practice and OCS is not explicitly sustained by any theory. In some cases, the lack of a theoretical framing relates to the fact that the
+relationship between the OCM practice and OCS was not the study's core analysis, while in other cases the authors referred to the
+results of previous empirical studies to sustain the hypothesized relationship.
+Our analysis of the various theories adopted by the studies in depicting the relationship between OCM practices and OCS
+identiﬁed three main mechanisms - developmental, informational, and relational - that aﬀect three outcomes - competencies, in-
+formation, and relationships - respectively. Such outcomes lead to career success either directly or indirectly through mediating
+factors (e.g., individual performance). In addition, most OCM practices can inﬂuence more than one outcome. The next sections
+describe the three mechanisms that relate OCM practices to OCS and the contingency factors that aﬀect these relationships.
+3.1. The developmental mechanism: OCM practices that enhance competencies
+The developmental mechanism originates from OCM practices that increase the individual competencies (knowledge, skills, and
+abilities) that are necessary to job performance, which is an input for promotion and compensation decisions. As the review of the
+studies reveals, two main theories - human capital theory and social learning theory - underpin this mechanism.
+Human capital theory (
+Becker, 1964) posits that the labor market oﬀers opportunities and that individuals' abilities, education,
+and eﬀort lead to productivity and performance, which is the basis for promotions and compensation. Human capital theory is the
+reference theory in most of the studies that test the eﬀects of practices such as training, developmental assignments, and international
+assignments on career success. Since trаіnіng improves employees' skills, it enhances their job performance and consequently, their
+compensation. Training should also increase the likelihood of promotion when it improves the skills that are required to be pro-
+ductive at higher-level jobs. International assignments increase workers' - particularly managers' - human capital because they expose
+them to new organizational contexts, languages, and institutional environments (
+⁎Benson & Pattie, 2008) and give them a chance to
+gain important general-management skills. Such expertise may be particularly relevant to career advancement in global companies,
+as the resource-based view also suggests (
+⁎Carpenter, Sanders, & Gregersen, 2001; ⁎Magnusson & Boggs, 2006). Developmental
+assignments and lateral moves (or job rotation) require individuals to accomplish tasks for which they may not yet be fully qualiﬁed
+(⁎Lyness & Thompson, 2000). Challenging situations provide them with the opportunity to acquire new knowledge when they face
+dynamic and problematic settings in which they must make decisions under uncertainty. Such challenges reveal deﬁciencies in their
+current competencies, resulting in their desire to close these gaps through learning and experience (McCauley, Eastman, & Ohlott,
+1995).
+The second theory that underpins the developmental mechanism is social learning theory (Bandura, 1977), which posits that
+individuals may acquire new skills and/or change their behaviors by observing others (“models”), a process referred to as vicarious
+learning or modeling. The OCM practice of mentoring oﬀers a fertile ground for modeling, as mentoring is embedded in the re-
+lationship between a mentor and a protégé, who acquires important skills by observing the model (Malhotra & Singh, 2016).
+3.2. The informational mechanism: OCM practices that provide information
+The informational mechanism originates from OCM practices that provide career-related information to the organization and its
+employees. These mechanisms oﬀer organizations information that can be used in promotion and compensation decisions and in-
+dividuals the feedback they need for their professional development. Our review reveals one main theoretical perspective: the sig-
+naling theory that underpins this mechanism.
+As originally proposed, signaling theory (
+Arrow, 1973; Spence, 1973) acknowledges that it can be costly for managers who are
+recruiting new employees to obtain accurate information about a candidate's potential to beneﬁt the organization, so they often use
+formal education as a signal of future success. Since information asymmetry continues after employees are hired, as individuals often
+occupy a variety of jobs with diﬀering and seldom comparable requirements and are evaluated by various supervisors, organizations
+base promotions on job attainments such as past performance and results, which are considered signals of individual ability
+(
+Rosenbaum, 1984). Rosenbaum (1984, p. 287)observed that“employees who can exhibit short-term performance, perhaps even to
+the detriment of long-term outcomes, will be promoted in this system”. Our review reveals that articles that test the eﬀect of practices
+such as assessment centers, performance management, training, and international assignment on career success often explicitly or
+implicitly adopt signaling theory as the explicative theory (often together with other theoretical models). Assessment centers use
+situational exercises to identify individuals who have managerial and leadership potential and who will contribute to organizational
+performance by obtaining reliable information about individuals' skills that are useful in upper-level positions (
+Huck, 1973). Training
+can also serve as a screening device becauseﬁrms learn about workers' abilities and skills during training activities and can promote
+S. Bagdadli, M. Gianecchini Human Resource Management Review xxx (xxxx) xxx–xxx
+9
+<<<PAGE=10>>>
+the workers who best ﬁt the requirements to the next jobs in the hierarchy (⁎Dekker, De Grip, & Heijke, 2002). International
+assignments also provide a signal regarding employees' managerial potential. Since employees in these jobs go through a selection
+process to obtain the assignment, those who succeed tend to be motivated and competent and to seize the opportunity to increase
+their competencies and experience while they work abroad (
+⁎Biemann & Braakmann, 2013). Finally, and more intuitively, in-
+formation gathered through the performance management process provides the organization with useful signals for promotion de-
+cisions, according to a career system that
+Rosenbaum (1984, p. 25)refers to as the“tournament model”. The tournament model of
+careers contends that organizations' career management systems operate similar to sports tournaments, with a set number of rounds
+and with only the winners of each round allowed to compete at the next level. Performance appraisals that compare employees to one
+another or to certain standards (
+Boswell & Boudreau, 2002)o ﬀer a basis on which to decide who wins each tournament round.
+Organizations then usually base promotion decisions on a combination of performance and information about potential (Cappelli &
+Keller, 2014).
+The informative purpose of performance management is directed toward the organization, but it can also motivate individuals.
+Both equity theory (Adams, 1965) and expectancy theory (Vroom, 1964) argue that employees' motivation increases when their
+performance is recognized by the appraisal system, and higher motivation can improve future performance (⁎Oh & Lewis, 2013).
+Because the motivational aspects of OCM practices are as critical to explaining the process that leads to career success as they are
+under-considered by the articles we reviewed, we elaborate on this issue when we present the complete OCM-OCS framework.
+3.3. The relational mechanism: OCM practices that aﬀect relationships
+The relational mechanism originates from OCM practices that provide employees the support and visibility of their managers and
+peers. Our review reveals that two main theoretical perspectives - development career theory (
+Moore, Gunz, & Hall, 2007) and social
+capital theories - underpin this mechanism.
+The seminal work ofLevinson, Darrow, Klein, Levinson, and McKee (1978)is one of the most useful theoretical bases for studies
+that address individual career development. The central thesis of Levinson and colleagues' model was that people, no matter their
+occupation or background, grow through four life stages, each requiring the completion of several activities and psychological
+adjustments. These life stages - preadulthood, early adulthood, middle adulthood, and late adulthood - are closely associated with
+biological age. According to
+Levinson (1986), one of the key factors in supporting the individual in accomplishing the personal and
+professional challenges of each life stage is the person's relationships with signiﬁcant others, such as friends, lovers, bosses, teachers,
+and mentors.Kram's (1983, 1985)inﬂuential studies on mentoring translatedLevinson's (1986)intuition about the role of external
+actors in supporting the individual's life cycles into theﬁeld of organizational career development.
+Mentoring is an interpersonal relationship between a less-experienced individual (the protégé or mentee) and a more-experienced
+individual (the mentor), whose goal is to advance the protégé's personal and professional development. Mentors exert their support
+through career-related functions and psychosocial functions (
+Kram, 1985), the former of which (i.e., sponsorship, exposure and
+visibility, coaching and challenging assignments) are strong predictors of compensation and advancement (Allen, Eby, Poteet, Lentz,
+& Lima, 2004). Mentors oﬀer advice and“inside” information about the organizational culture and protocols that enable protégés to
+adapt rapidly to performance expectations (⁎Aryee, Wyatt, & Stone, 1996; ⁎Orpen, 1995; ⁎Singh, Ragins, & Tharenou, 2009). In
+addition, mentors advocate on their protégés' behalf, recommending them for leadership positions and communicating their ac-
+complishments to senior management (
+⁎Kirchmeyer, 2002; ⁎Lee & Nolan, 1998). Consequently, a mentor's sponsorship opens doors
+to promotions and salary increases (⁎Bozionelos, 2008; ⁎Eddleston, Baldridge, & Veiga, 2004) and increases protégés' visibility,
+which is especially important in organizational tournaments, where there might be incomplete or biased information (Longenecker,
+Sims Jr, & Gioia, 1987).
+Social capital theories provide the second perspective on the role of relationships in fostering career success. Social capital is
+deﬁned as any aspect of social structure that creates value and facilitates the actions of those who are in that social structure
+(Coleman, 1990). In proposing a social capital model of career success,⁎Seibert, Kraimer, and Liden (2001), p. 221) suggested
+combining the extant theories of social capital (i.e., weak tie theory [Granovetter, 1973], structural holes theory [Burt, 1992], and
+social resource theory [Lin, Ensel, & Vaughn, 1981]) into an overarching construct that deﬁnes social capital as“both the diﬀerent
+network structures that facilitate (or impede) access to social resourcesand the nature of the social resources embedded in the
+network”. Social capital can support individuals in their eﬀorts to achieve career success by providing access to new information,
+resources, and opportunities through a social network of friends, family, colleagues, and acquaintances. For instance, individuals can
+use their social capital to obtain information on job openings or to inﬂuence a promotion decision in their favor (
+⁎Metz, 2009).
+Higgins and Kram (2001)adopted social capital theory in reconsidering the role of the mentor, one of the many actors who constitute
+the individual's developmental network. However, networking diﬀers from mentoring because it encompasses many contacts (versus
+one or few mentors) whose status can be lower, higher, or equal to that of the individual, whereas the mentor usually has a higher
+status. Companies support formal networks of employees (e.g., women's leadership networks, expatriate networks) so they can share
+experiences, learn from each other, and increase their familiarity with other business units across the company. Such relationships
+support career success because they provide resources such as status, the information required to perform one's job, information on
+promotion opportunities, and advice on organizational norms (
+⁎Kirchmeyer, 1998). A similar eﬀect to that depicted in the studies on
+networking is also described regarding international and developmental assignments. International assignments help individuals
+build international social networks that may provide future employment opportunities (
+⁎Carpenter et al., 2001; ⁎Kraimer, Shaﬀer, &
+Bolino, 2009). Developmental assignments enlarge an individual's visibility and increase the availability of career-related resources
+when he or she contacts new coworkers and supervisors and extends his or her reach into new social circles (⁎Campion et al., 1994).
+S. Bagdadli, M. Gianecchini Human Resource Management Review xxx (xxxx) xxx–xxx
+10
+<<<PAGE=11>>>
+3.4. Contingency factors that aﬀect the three mechanisms
+As Table 2 shows, not all of the empirical analyses supported the hypothesized relationship between OCM practices and OCS.
+Whereas most of the articles that tested OCM practices whose primary purpose is to provide information (i.e., assessment centers and
+performance appraisals) conﬁrmed these practices' eﬃcacy in predicting career success, a minority of the analyses that related
+networking to career success demonstrated a statistically signiﬁcant relationship. The group of practices that leverage the devel-
+opmental mechanism (i.e., training, international assignments and developmental assignments) had mixed eﬀects (positive, negative
+or null) on career success. When an empirical study'sﬁndings did not support its theoretical expectations, the authors suggested
+contingency factors that could have aﬀected the relationship between OCM practice and OCS. Drawing on the explanations proposed
+in the studies, we identiﬁed two groups of contingency factors that work as moderators in the two-step process through which OCM
+practices aﬀect their direct outcomes (i.e., enhancing competencies, providing information, and creating relationships) and in turn,
+increase individual success.
+The ﬁrst group of contingency factors,Individual and organizational contingency factors,a ﬀects the initial part of the process and
+either strengthens or hinders how OCM practices create competencies, information, and relationships. These factors comprise both
+individual characteristics (e.g., personality traits, learning styles, nationality, career stage and experience, age, gender) and orga-
+nizational characteristics (e.g., informal HR practices, organizational procedures, communication processes, supervisor/managerial
+support, organizational structure, international scope).
+Individual characteristics can aﬀect the eﬃcacy of OCM practices in creating individual competencies. For instance, age plays a
+role, as training activities have more of an eﬀect on career success for young employees and new entrants, while developmental
+assignments are more eﬀective for older employees (
+⁎Tharenou, 2001). Individual attitudinal factors (e.g., an individual's learning
+style, readiness to learn and motivation) can also aﬀect the eﬀectiveness of OCM practices in creating useful competencies (⁎Metz,
+2004). Gender is relevant to OCM practices that create relationships and provide information. For instance, studies that have dis-
+cussed the eﬀect of mentoring on women have demonstrated that although mentor support may be particularly valuable in over-
+coming stereotyping and discrimination (⁎Ragins & Cotton, 1999), senior managers who provide mentoring tend to be male, and the
+nature of their relationships with female protégés may impair the beneﬁts of mentoring (⁎Kirchmeyer, 1998, 2002). The evaluation of
+performance and potential may also be aﬀected by gender biases, as women are expected to interrupt their careers to take re-
+sponsibility for children and aging parents, and assessments of their career potential are inﬂuenced by this expectation (⁎Cox &
+Harquail, 1991).
+Organizational characteristics can aﬀect the creation of useful competencies; for example, international assignments are oﬀered
+only by organizations that have an international scope, since these companies can exploit the knowledge the individuals accumulate
+abroad (
+⁎Kraimer et al., 2009). Organizational procedures and policies may also aﬀect OCM practices' ability to provide valuable
+information. As attribution theory suggests (Igbaria & Baroudi, 1995), performance appraisals (⁎Wakabayashi & Graen, 1984;
+Nathan, Mohrman, & Milliman, 1991) and assessment centers (Klimosky & Brickner, 1987)s uﬀer from a subjectivity bias that is
+reinforced both by the relationship between the supervisor and the employee and by organizational policies. Regarding the creation
+of relationships, the relative power of one gender (i.e., male) over another (i.e., female) in the organization may impair networking's
+eﬀect in supporting career advancement (
+⁎Kirchmeyer, 2002). Similarly, if organizations do a poor job of placing and supporting
+expatriates, the “out of sight, out of mind” syndrome (Tung, 1988) can result in expatriates' being overlooked for promotion op-
+portunities.
+The second group of contingency factors,Institutional contingency factors,a ﬀects the direct and indirect links between each of the
+three outcomes of OCM practices (i.e., competencies, information, relationships) and career success. Institutions are rules, norms, and
+collective meanings (
+Scott, 2014) that operate at both the organizational and the societal level. Internal labor market rules determine,
+for instance, whether the organization rewards a certain level of competence with career advancement (⁎Melero, 2010). Similarly,
+the competencies acquired during an international assignment will not lead to career advancement if the company does not have
+career-planning rules to ensure that these assignmentsﬁt into the employee's professional development (
+Pattie, White, & Tansky,
+2010). Concerning the eﬀect of information on success, studies of female managers have demonstrated that career promotion op-
+portunities are more likely to be oﬀered to men regardless of their performance ratings because of organizational norms holding
+lower-status individuals (i.e., women) to stricter standards than those to which higher-status individuals (i.e., men) are held (⁎Lyness
+& Heilman, 2006). Similarly, national level factors such as“seniority rules” in collective contracts, labor laws, the level of un-
+employment, and the country's rate of growth can aﬀect compensation and promotions regardless of individuals' performance
+(⁎Sheridan, Slocum, & Buda, 1997; ⁎Wayne, Liden, Kraimer, & Graf, 1999). Concerning the eﬀect of relationships on individual
+career success, since organizational rules can deﬁne who the mentors are, and the mentors' hierarchical positions are key to whether
+the mentors can aﬀect their protégés' career success (⁎Kirchmeyer, 1998), the eﬃcacy of mentoring relationships is aﬀected by
+company policies. As far as networking is concerned, since personalized relationships with coworkers are parts of collectivist so-
+cieties, such relationships are often not diﬀerential factors in these cultural contexts (
+⁎Bozionelos & Wang, 2006; ⁎Koyuncu, Burke,
+Alayoglu, & Wolpin, 2014).
+4. Framework development and propositions
+Our systematic review identiﬁed three mechanisms - developmental, informational, and relational - through which OCM practices
+increase the individual's competencies, provide the organization with information for promotion decisions, give individuals feedback
+they can use for development, and create relationships that enhance the individual's visibility and promotion chances. Each of the
+S. Bagdadli, M. Gianecchini Human Resource Management Review xxx (xxxx) xxx–xxx
+11
+<<<PAGE=12>>>
+Objective 
+Career 
+Success
+Individual and organizational contingency factors
+Individual characteristics (e.g. personality traits, learning 
+styles, nationality, career stage and experience, age, 
+gender) 
+Organizational characteristics (e.g. informal HR practices, 
+communication processes, supervisor/managerial support, 
+organizational structure, international scope)
+Individual 
+performance
+Developmental  
+career theory
+Social capital theories
+Institutional contingency factors
+Organizational level (e.g. Internal Labor 
+Market rules, organizational culture and 
+climate, organization of work) 
+Societal level (e.g. national culture, 
+employment laws, industrial relations)
+Relational 
+mechanism
+Developmental assignment, 
+international assignment, 
+career workshops
+Mentoring, networking, 
+career counselling
+OCM practices
+Competence
+Training, external seminars, 
+developmental assignment, 
+lateral moves, job rotation, 
+international assignment, job 
+enrichment
+Human capital theory
+Social learning theoryMentoring, networking 
+Developmental 
+mechanism Motivation
+Signalling theory
+Informational 
+mechanism
+Assessment and development 
+centre, performance 
+appraisal, training, career 
+paths, international 
+assignment, job posting, 
+succession planning
+Information
+Motivation
+Relationship
+Motivation
+Fig. 1.The OCM-OCS framework.
+S. Bagdadli, M. Gianecchini Human Resource Management Review xxx (xxxx) xxx–xxx
+12
+<<<PAGE=13>>>
+papers we reviewed presented a partial view of the process that leads to career success. By recombining, integrating, and interpreting
+these fragments of information, we develop ourOCM-OCS framework(
+Fig. 1), which oﬀers a comprehensive view of the mechanisms
+that lead to career success and the theories that explain them. We complement this comprehensive view with propositions to guide
+future research in testing the mechanisms and how they function.
+Our framework shows how OCM practices can aﬀect one or more intermediate outcomes (competence, information, relationship)
+through various mechanisms and a variety of explanatory theories. For instance, training primarily enhances competencies (devel-
+opmental mechanism), but it also provides the organization with information about the individual (informational mechanism).
+Developmental and international assignments increase competencies (developmental mechanism) and enlarge workers' relationships
+(relational mechanism). Mentoring and networking create relationships (relational mechanism) but also develop the competencies
+required for promotion (developmental mechanism). These elements suggest ourﬁrst proposition:
+Proposition 1.Competencies, information, and relationships mediate the relationship between OCM practices and objective career
+success. Each OCM practice can aﬀect objective career success through more than one mediator.
+The empirical papers in our review tested only a limited number of the OCM practices proposed in the literature, but the same
+types of mechanisms and eﬀects can be described for most of the practices listed in
+Table 1. For instance, OCM practices that rely on
+the developmental mechanism include external seminars or workshops and job enrichment. For the informational mechanism,
+practices such as development centers and 360-degree appraisals oﬀer organizations the information they need to make develop-
+mental decisions about their employees. Other practices, such as job posting, information on career ladders and paths, career
+counselling, and career planning workshops give employees the information they need to plan their professional development. Some
+of the same practices (e.g., career workshops, counselling) can also provide useful relationships for career advancement. Therefore,
+we propose a second set of propositions regarding the mechanisms activated by the OCM practices.
+Proposition 2.a) OCM practices that oﬀer opportunities to improve human capital and/or to observe more experienced individuals
+enhance career success by increasing individual competencies.b) OCM practices that 1) allow the company to collect signals about
+the performance and individuals' potential and 2) allow individuals to collect advice about the company's career policies and about
+their own potential and performance enhance career success by providing information.c) OCM practices that oﬀer opportunities to
+interact with more experienced individuals and with peers increase career success by creating relationships.
+Our framework shows that an OCM practice can activate various mechanisms in inﬂuencing OCS and that since many practices
+can activate the same mechanism, these practices are likely to interact when they are implemented. This result is in line with the rich
+theoretical and empirical strategic human resource management (SHRM) literature, which demonstrated decades ago that human
+resource management (HRM) practices do not work in isolation but only as sets of self-reinforcing activities or bundles (
+Delery &
+Doty, 1996; MacDuﬃe, 1995). Building on this literature, we expect a similar eﬀect for groups of OCM practices. In addition, since
+the goal of all OCM practices is to enhance career success through a variety of mechanisms, we expect that individuals who ex-
+perience more OCM practices reach a higher level of success than do those who experience fewer OCM activities. Therefore, we
+propose a set of propositions concerning how OCM practices work as a system.
+Proposition 3.a) The more OCM practices an individual experiences, the greater his or her career success.b) OCM practices that
+activate more than one mechanism (developmental, informational, or relational) are more eﬀective in increasing the individual's
+career success than are OCM practices that activate only one mechanism.c) OCM practices that leverage the same mechanism
+(developmental, informational, or relational) reinforce each other in enhancing the individual's career success.
+As our OCM-OCS framework shows, in some cases, the relationships between performance and the three outcomes of OCM
+practices are not only direct ones. In the case of the developmental mechanism, enhanced competencies can directly increase salary
+when the organization has a skill based-pay system in place (
+Armstrong & Stephens, 2005), but more often they improve job per-
+formance, which gives companies the information they need for promotion decisions and salary increases (particularly incentives).
+Similarly, as suggested in illustrating the informational mechanisms, many OCM practices can be sources of motivation, an element
+neglected in
+Rosenbaum's (1984)model and discussed in only one of the papers we reviewed (⁎Oh & Lewis, 2013). Several theories
+provide the theoretical rationale for what sustains OCM practices' motivational eﬀect on workers. Equity theory (Adams, 1965),
+expectancy theory (Vroom, 1964), and the job characteristics model (Hackman & Oldham, 1976) argue that employees' motivation
+increases when the appraisal system recognizes their performance. Motivation is a strong driver of increased employee eﬀort (and
+their performance in turn). More recently, the ability-motivation-opportunity (AMO) framework developed in the SHRM literature
+(
+Boxall & Purcell, 2016; Jiang, Lepak, Hu, & Baer, 2012) demonstrates that career development practices aﬀect motivation, while
+motivation and enhanced competencies (aﬀected by training) impact individual performance (Boxall & Purcell, 2016). Even though
+only one of the papers we reviewed mentioned this motivational eﬀect, we draw on the extensive theoretical and empirical literature
+on the topic to argue that motivation plays an important role in the process we analyze. Therefore, we added motivation to our OCM-
+OCM framework as a direct eﬀect of OCM practices.
+Proposition 4.a) Motivation interacts with OCM practices' outcomes (i.e., competencies, information, and relationships) in aﬀecting
+career success. b) Individual performance mediates the relationship between OCM practices' outcomes (i.e., competencies,
+information, and relationships) and career success.
+Finally, as described in the section about contingency factors, the processes that relate OCM practices to OCS are aﬀected by many
+individual, organizational, and institutional characteristics. Only a few empirical studies (e.g.,
+Ferris, Buckley, & Allen, 1992; Stumpf
+S. Bagdadli, M. Gianecchini Human Resource Management Review xxx (xxxx) xxx–xxx
+13
+<<<PAGE=14>>>
+& London, 1981) have tried to identify the factors aﬀecting the performance of a promotion system. Our OCM-OCS framework not
+only identiﬁes groups of contingency factors but also suggests how they are likely to aﬀect the steps of the process.
+Proposition 5. a) Individual and organizational contingency factors moderate the relationship between OCM practices and their
+proximal outcomes (i.e., competencies, information, relationships).b)Institutional factors at the organizational and societal levels aﬀect
+the relationship between objective career success and the accumulation of competencies, information, and relationships.
+5. Discussion and conclusion
+Despite the steady managerial and academic interest in OCM, thisﬁeld of study remains theoretically underdeveloped and
+empirically fragmented. Our systematic review of the research on the relationship between OCM practices and OCS addresses these
+issues by proposing a theoretical framework.
+Building on the results of the review, the OCM-OCS framework oﬀers a comprehensive view of the theoretical reasons (why) and
+mechanisms (how) through which OCM practices aﬀect career success, and it illustrates the circumstances (what) under which these
+relationships work. In addition, we formulated a set of propositions that provide useful guidelines for testing the framework and how
+it functions.
+As a ﬁrst theoretical contribution, this framework advances and extends the embryonic career process that
+Rosenbaum (1984)
+proposed by illustrating the developmental, informational, and relational mechanisms through which OCM practices aﬀect career
+success. Conﬁrming the interdisciplinarity of career studies (e.g.,Gunz & Peiperl, 2007), the OCM-OCS framework highlights which
+theories underpin the three mechanisms, showing that in some cases, more than one theory can explain why OCM practices favor the
+accumulation of competencies, the provision of information, or the creation of relationships. By grouping practices according to the
+main mechanisms to which they refer and considering the practices that have been tested empirically on OCS (
+Briner et al., 2009), we
+add to the studies in the career literature that have proposed a variety of classiﬁcations for OCM practices without grounding them
+theoretically (e.g.,Baruch & Peiperl, 2000; De Vos et al., 2008; Eby et al., 2005). With respect to the studies on career systems (Gunz,
+1989; Lepak & Snell, 1999; Sonnenfeld & Peiperl, 1988) that have suggested using any one OCM practice only in certain circum-
+stances or with certain employees, we contribute to clarifyingwhy and how these practices can result in individuals' success.
+As a second theoretical contribution, our framework includes two sets of contingency factors that are likely to aﬀect the process
+related to OCM and OCS. Thus, we add to the theoretical (e.g.,Mayrhofer, Meyer, & Steyrer, 2007) and empirical career literature
+(e.g., Ferris et al., 1992) that has suggested the relevance of contextual factors to career development but has not deﬁned which are
+relevant to the relationship between OCM practices and individual OCS.
+The empirical studies we reviewed provide tests for only eight practices out of more than thirty listed in the literature. These few
+tests suggest a detachment between the theoretical and the empirical literature on OCM since many practices are described but not
+tested for their eﬀect on career success, which should be the primary hypothesized outcome. In addition, our analysis demonstrates
+that the lists of OCM practices that the literature has proposed are not complete and current. For example, organizational work-life
+balance policies (e.g.,ﬂexible work hours, working from home) should be included; such policies support workers' eﬀorts to maintain
+eﬀective performance in the face of competing family demands (
+Beauregard & Henry, 2009), so they could support individual career
+success. We found four articles -Glass (2004), Hall, Lee, Kossek, and Las Heras (2012), Konrad and Yang (2012), and ⁎Noback,
+Broersma, and Dijk (2016)) - that discussed the role of work-life balance practices in supporting career development and success, but
+these practices may not be included among the traditional OCM practices because some may be mandatory in some national contexts
+(e.g., parental leave), while others help to reduce discrimination at work (e.g., equal opportunity interventions). Future research
+should also investigate the OCM practices that companies have developed recently in response to Millennials' career demands (
+Ng,
+Schweitzer, & Lyons, 2010), the needs of aging employees (Hall & Mirvis, 1995), and culturally diverse workers (Dheer &
+Lenartowicz, 2017).
+The results of our systematic review and the development of our framework oﬀer practical implications for companies and
+individuals. The three mechanisms identiﬁed in the framework show how OCM practices work as groups. This result cannot be
+deﬁned as new because of the SHRM literature that demonstrated decades ago that HRM practices do not work in isolation but only as
+sets of self-reinforcing activities or bundles (Delery & Doty, 1996; MacDuﬃe, 1995). Similarly, in the career literature, studies on
+organization career systems (e.g.,Bagdadli, 2007; Baruch, 2006; Sonnenfeld, 1989) have suggested the theoretical relevance of a
+comprehensive approach to OCM. However,ﬁfty-nine of the seventy-three articles we reviewed measured the eﬀects of single
+practices on career success, and many of them did notﬁnd the expected eﬀects, suggesting that the empirical studies neglected the
+literature's indication. Drawing on our framework, we reinforce the call for an integrated approach to career management and
+suggest that companies should group OCM according to the mechanisms they leverage to beneﬁt from their interaction.
+Other practical implications concern the design and the implementation of OCM practices. Because OCM practices can exert their
+eﬀect over diﬀering time horizons, companies should consider the temporal perspective when they design and test systems of OCM
+practices. For instance, while assessment centers have long-term eﬀects (
+⁎Jansen & Vinkenburg, 2006), performance appraisals have
+short-term eﬀects (⁎Oh & Lewis, 2013), and training can have both short- and long-term eﬀects, depending on its content and the
+recipients' characteristics (⁎Fang, Zikic, & Novicevic, 2009; ⁎Sheridan et al., 1997). In addition, as several studies have suggested,
+companies should also consider the curvilinear relationship between OCM practices and career success. For instance, the positive
+eﬀect of a career development activity can change over time, as
+⁎Sheridan et al. (1997)demonstrated for on-the-job training, which
+has a positive inﬂuence on promotion rates for theﬁrst job that diminishes in subsequent jobs. In addition, a greater investment in an
+OCM practice might not always be related to a higher return in terms of career success; for instance,⁎Kraimer et al. (2009)found that
+S. Bagdadli, M. Gianecchini Human Resource Management Review xxx (xxxx) xxx–xxx
+14
+<<<PAGE=15>>>
+the number of international assignments had a U-shaped relationship with career advancement upon repatriation. Together with the
+role of time, the rich set of contingency factors included in our framework suggests that companies should consider customizing their
+OCM practices according to individual and institutional characteristics. As the comparative career and HRM literature suggests (e.g.,
+Mayrhofer, Meyer, Iellatchitch, & Schiﬃnger, 2004), local culture aﬀects management practices at the national level, so multi-
+national companies should customize their career management activities at the local level.
+6. Limitations and future research
+Our framework has several limitations. First, although our research focuses on organizational careers, the social and political
+changes that have become particularly evident since the 1990s (
+Baruch et al., 2015) have favored the diﬀusion of ﬂexible and
+adaptive careers. These new career models (e.g., boundaryless, protean) are generally characterized by individuals' increased cen-
+trality in their career management by means of career self-management activities, a desire for mobility and voluntary turnover, and a
+focus on subjective career success (
+Arthur & Rousseau, 2001; Hall, 1996; Tomlinson et al., 2018). We acknowledge that our fra-
+mework has low explanatory power in depicting the career development of individuals who are not interested in climbing the
+organizational hierarchy. Companies are unlikely to be interested in investing in such employees' development (i.e., OCM practices)
+since they are not sure they can retain them, and these individuals are unlikely to be interested in creating competencies, receiving
+information, and establishing relationships that are mostlyﬁrm-speciﬁc. However, since the organizational career has not completely
+disappeared (
+Vinkenburg & Weber, 2012), our framework should be extended to include the features of the“new organizational
+career” model (Clarke, 2013, p. 684) that combines the characteristics of the traditional organization career, the boundaryless career,
+and the protean career. As the organization and the individual jointly manage the new organizational career, our framework might
+include career self-management practices such as self-promotion, networking, consultation with mentors, and extended job in-
+volvement (
+Gould & Penley, 1984) to verify the validity of the three theoretical mechanisms we identiﬁed.
+Second, we followed rigorous coding procedures for our literature review, but we acknowledge the limitations inherent in setting
+the key words and their combinations. Our intention was to adopt a comprehensive approach to gathering the empirical studies that
+measure the eﬀects of OCM practices, but we may have excluded articles on new and/or emerging OCM practices, the key words for
+which were not included in the list we compiled, along with articles published in journals that do not have a management focus (e.g.,
+medical journals). Extending the research to new OCM practices and/or testing the OCM-OCS framework in certain professional
+groups (e.g., teachers, nurses) is a potentially fruitful path forward.
+References
+⁎
+Adams, J. S. (1965). Inequity in social exchange.Advances in Experimental Social Psychology, 2, 267–299.
+Allen, T. D., Eby, L. T., Poteet, M. L., Lentz, E., & Lima, L. (2004). Career beneﬁts associated with mentoring for protégés: A meta-analysis.Journal of Applied Psychology,
+89(1), 127–136.
+Armstrong, M., & Stephens, T. (2005).A handbook of employee reward management and practice.London, UK: Kogan Page Publishers.
+Arrow, K. J. (1973). Higher education as aﬁlter. Journal of Public Economics, 2(3), 193–216.
+Arthur, M. B., Hall, D. T., & Lawrence, B. S. (Eds.). (1989).Handbook of career theory. New York, USA: Cambridge University Press.
+Arthur, M. B., & Rousseau, D. M. (Eds.). (2001).The boundaryless career: A new employment principle for a new organizational era. New York, USA: Oxford University
+Press.
+*Aryee, S., Wyatt, T., & Stone, R. (1996). Early career outcomes of graduate employees: The eﬀect of mentoring and ingratiation.Journal of Management Studies, 33(1),
+95–118.
+Bagdadli, S. (2007). Designing career systems: Are we ready for it? In H. Gunz, & M. Peiperl (Eds.).Handbook of career studies(pp. 497–501). Thousand Oaks, CA: SAGE
+Publications.
+Bandura, A. (1977).Social learning theory.New Jersey: Prentice-Hall.
+Baruch, Y. (1996). Organizational career planning and management techniques and activities in use in high-tech organizations.Career Development International, 1(1),
+40–49.
+Baruch, Y. (1999). Integrated career systems for the 2000s.International Journal of Manpower, 20(7), 432–457.
+Baruch, Y. (2003). Career systems in transition: A normative model for organizational career practices.Personnel Review, 32(2), 231–251.
+Baruch, Y. (2006). Career development in organizations and beyond: Balancing traditional and contemporary viewpoints.Human Resource Management Review, 16(2),
+125–138.
+Baruch, Y., & Peiperl, M. (2000). Career management practices: An empirical survey and implications.Human Resource Management, 39(4), 347–366.
+Baruch, Y., Szűcs, N., & Gunz, H. (2015). Career studies in search of theory: The rise and rise of concepts.Career Development International, 20(1), 3–20.
+Beauregard, T., & Henry, L. (2009). Making the link between work-life balance practices and organizational performance.Human Resource Management Review, 19(1),
+9–22.
+Becker, G. (1964).Human capital. New York: Columbia University Press.
+*Benson, G., & Pattie, M. (2008). Is expatriation good for my career? The impact of expatriate assignments on perceived and actual career outcomes.The International
+Journal of Human Resource Management, 19(9), 1636–1653.
+*Biemann, T., & Braakmann, N. (2013). The impact of international experience on objective and subjective career success in early careers.The International Journal of
+Human Resource Management, 24(18), 3438–3456.
+*Blake-Beard, S. (1999). The costs of living as an outsider within: An analysis of the mentoring relationships and career success of black and white women in the
+corporate sector.Journal of Career Development, 26(1), 21–36.
+*Blickle, G., Witzki, A., & Schneider, P. (2009). Mentoring support and power: A three year predictiveﬁeld study on protégé networking and career success.Journal of
+Vocational Behavior, 74(2), 181–189.
+Boswell, W., & Boudreau, J. (2002). Separating the developmental and evaluative performance appraisal uses.Journal of Business and Psychology, 16(3), 391–412.
+*Boudreau, J., Boswell, W., & Judge, T. (2001). Eﬀects of personality on executive career success in the United States and Europe.Journal of Vocational Behavior, 58(1),
+53–81.
+⁎ Studies included in review.
+S. Bagdadli, M. Gianecchini Human Resource Management Review xxx (xxxx) xxx–xxx
+15
+<<<PAGE=16>>>
+Bowen, D., & Hall, D. T. (1977). Career planning for employee development: A primer for managers.California Management Review, 20(2), 23–35.
+Boxall, P., & Purcell, J. (2016).Strategy and Human Resource Management(4th edition). London, UK: Palgrave.
+*Bozionelos, N. (2003). Intra-organizational network resources: Relation to career success and personality.International Journal of Organizational Analysis, 11(1),
+41–66.
+*Bozionelos, N. (2006). Mentoring and expressive network resources: Their relationship with career success and emotional exhaustion among Hellenes employees
+involved in emotion work.The International Journal of Human Resource Management, 17(2), 362–378.
+*Bozionelos, N. (2008). Intra-organizational network resources: How they relate to career success and organizational commitment.Personnel Review, 37(3), 249–263.
+*Bozionelos, N., Bozionelos, G., Kostopoulos, K., & Polychroniou, P. (2011). How providing mentoring relates to career success and organizational commitment: A
+study in the general managerial population.Career Development International, 16(5), 446–468.
+*Bozionelos, N., & Wang, L. (2006). The relationship of mentoring and network resources with career success in the Chinese organizational environment.The
+International Journal of Human Resource Management, 17(9), 1531–1546.
+Briner, R. B., Denyer, D., & Rousseau, D. M. (2009). Evidence-based management: Concept cleanup time?The Academy of Management Perspectives, 23(4), 19–32.
+Burt, R. S. (1992).Structural holes: The social structure of competition.Cambridge, MA: Harvard University Press.
+*Campbell, R., & Bray, D. (1993). Use of an assessment center as an aid in management selection.Personnel Psychology, 46(3), 691–698.
+*Campion, M., Cheraskin, L., & Stevens, M. (1994). Career-related antecedents and outcomes of job rotation.Academy of Management Journal, 37(6), 1518–1542.
+*Cannings, K. (1988). Managerial promotions: The eﬀect of socialization, specialization, and gender.Industrial and Labour Relations Review, 42(1), 77–88.
+Cappelli, P., & Keller, J. R. (2014). Talent management: Conceptual approaches and practical challenges.Annual Review of Organizational Psychology and Organizational
+Behavior, 1(1), 305–331.
+*Carpenter, M., Sanders, W., & Gregersen, H. (2001). Bundling human capital with organizational context: The impact of international assignment experience on
+multinational ﬁrm performance and CEO pay.Academy of Management Journal, 44(3), 493–511.
+*Chang, H. T., Feng, C. Y., & Shyu, C. L. (2014). Individual management and counseling as moderators in achieving career competencies and success.Social Behaviors
+and Personality, 42(5), 869–880.
+*Chao, G., Walz, P., & Gardner, P. (1992). Formal and informal mentorships: A comparison on mentoring functions and contrast with nonmentored counterparts.
+Personnel Psychology, 45(3), 619–636.
+Clarke, M. (2013). The organizational career: Not dead but in need of redeﬁnition. The International Journal of Human Resource Management, 24(4), 684–703.
+Coleman, J. S. (1990).Foundations of social theory.Cambridge, MA: Harvard University Press.
+*Cox, T., & Harquail, C. (1991). Career paths and career success in the early career stages of male and female MBAs.Journal of Vocational Behavior, 39(1), 54–75.
+*De Luis Carnicer, M., Martinez Sanchez, A., Perez Perez, M., & Vela Jimenez, M. (2004). Analysis of internal and external labour mobility.Personnel Review, 33(2),
+222–240.
+De Vos, A., & Cambré, B. (2017). Career management in High-Performing Organizations: A Set-Theoretic Approach.Human Resource Management, 56(3), 501–518.
+De Vos, A., Dewettinck, K., & Buyens, D. (2008). To move or not to move? The relationship between career management and preferred career moves.Employee
+Relations, 30(2), 156–175.
+De Vos, A., Dewettinck, K., & Buyens, D. (2009). The professional career on the right track: A study on the interaction between career self-management and orga-
+nizational career management in explaining employee outcomes.European Journal of Work and Organizational Psychology, 18(1), 55–80.
+*Dekker, R., De Grip, A., & Heijke, H. (2002). The eﬀects of training and overeducation on career mobility in a segmented labour market.International Journal of
+Manpower, 23(2), 106–125.
+Delery, J., & Doty, D. (1996). Modes of theorizing in strategic human resource management: Tests of universalistic, contingency, and conﬁgurational performance
+predictions. Academy of Management Journal, 39(4), 802–835.
+Denyer, D., & Tranﬁeld, D. (2009). Producing a systematic review. In D. Buchanan, & A. Bryman (Eds.).The SAGE handbook of organizational research methods(pp. 671–
+689). Thousands Oaks, CA: SAGE Publications.
+Dheer, R. J. S., & Lenartowicz, T. (2017). Career decisions of immigrants: Role of identity and social embeddedness.Human Resource Management Review, 28(2),
+144–163.
+*Doherty, N., & Dickmann, M. (2012). Measuring the return on investment in international assignments: an action research approach.The International Journal of
+Human Resource Management, 23(16), 3434–3454.
+*Dohmen, T., Kriechel, B., & Pfann, G. (2004). Monkey bars and ladders: The importance of lateral and vertical job mobility in internal labor market careers.Journal of
+Population Economics, 17(2), 193–228.
+Dowd, K., & Kaplan, D. (2005). The career life of academics: Boundaried or boundaryless?Human Relations, 58(6), 699–721.
+Doyle, M. (2000). Managing careers in organisations. In A. Collin, & R. Young (Eds.).The Future of Career(pp. 228–242). Cambridge, UK: Cambridge University Press.
+*Dreher, G., & Ash, R. (1990). A comparative study of mentoring among men and women in managerial, professional, and technical positions.Journal of Applied
+Psychology, 75(5), 539–546.
+Dries, N., Pepermans, R., Hofmans, J., & Rypens, L. (2009). Development and validation of an objective intra-organizational career success measure for managers.
+Journal of Organizational Behavior, 30(4), 543–560.
+Eby, L., Allen, T., & Brinley, A. (2005). A cross-level investigation of the relationship between career management practices and career-related attitudes.Group &
+Organization Management, 30(6), 565–596.
+*Eddleston, K., Baldridge, D., & Veiga, J. (2004). Toward modeling the predictors of managerial career success: does gender matter?Journal of Managerial Psychology,
+19(4), 360–385.
+*Fagenson, E. (1989). The mentor advantage: Perceived career/job experiences of protégés versus non-protégés.Journal of Organizational Behavior, 10(4), 309–320.
+*Fang, T., Zikic, J., & Novicevic, M. M. (2009). Career success of immigrant professionals: Stock andﬂow of their career capital.International Journal of Manpower,
+30(5), 472–488.
+Ferris, G. R., Buckley, M. R., & Allen, G. M. (1992). Promotion systems in organizations.Human Resource Planning, 15(3), 47–68.
+*Georgakakis, D., Dauth, T., & Ruigrok, W. (2016). Too much of a good thing: Does international experience variety accelerate or delay executives’career ad-
+vancement? Journal of World Business, 51(3), 425–437.
+Gill, C. (2018). Don't know, don't care: An exploration of evidence based knowledge and practice in human resource management.Human Resource Management Review,
+28(2), 103–115.
+Glass, J. (2004). Blessing or curse? Work-family policies and mother’s wage growth over time.Work and Occupations, 31(3), 367–394.
+*Gong, R., Chen, S., & Yang, M. (2014). Career outcome of employees: The mediating eﬀect of mentoring.Social Behaviors and Personality, 42(3), 487–501.
+Gould, S., & Penley, L. E. (1984). Career strategies and salary progression: A study of their relationships in a municipal bureaucracy.Organizational Behavior and Human
+Performance, 34(2), 244–265.
+Granovetter, M. S. (1973). The strength of weak ties.American Journal of Sociology, 78(6), 1360–1380.
+*Grant, D., & Bray, D. (1969). Contributions of the interview to assessment of management potential.Journal of Applied Psychology, 53(1), 24–34.
+Greenhaus, J. H., Parasuraman, S., & Wormley, W. M. (1990). Eﬀects of race on organizational experiences, job performance evaluations, and career outcomes.
+Academy of Management Journal, 33(1), 64–86.
+*Gubbins, C., & Garavan, T. (2016). Social capital eﬀects on the career and development outcomes of HR professionals.Human Resource Management, 55(2), 241–260.
+Gunz, H. (1989). The dual meaning of managerial careers: Organizational and individual levels of analysis.Journal of Management Studies, 26(3), 225–250.
+Gunz, H. P., & Peiperl, M. (2007).Handbook of career studies.Thousand Oaks, CA: SAGE Publications.
+Gutteridge, T. (1993).Organizational career development: Benchmarks for building a world-class workforce.San Francisco, CA: Jossey-Bass.
+Gutteridge, T., & Otte, F. (1983). Organizational career development: What’s going on out there?Training and Development Journal, 37,2 2–26.
+Hackman, J. R., & Oldham, G. R. (1976). Motivation through the design of work: Test of a theory.Organizational Behavior and Human Performance, 16(2), 250–279.
+Hall, D. T. (1996).The career is dead–long live the career: A relational approach to careers.San Francisco, CA: Jossey-Bass.
+S. Bagdadli, M. Gianecchini Human Resource Management Review xxx (xxxx) xxx–xxx
+16
+<<<PAGE=17>>>
+Hall, D. T., Lee, M., Kossek, E., & Las Heras, M. (2012). Pursuing career success while sustaining personal and family well-being: A study of reduced-load professionals
+over time.Journal of Social Issues, 68(4), 742–766.
+Hall, D. T., & Mirvis, P. (1995). The new career contract: Developing the whole person at midlife and beyond.Journal of Vocational Behavior, 47(3), 269–289.
+*Hamori, M., & Koyuncu, B. (2011). Career advancement in large organizations in Europe and the United States: Do international assignments add value?The
+International Journal of Human Resource Management, 22(4), 843–862.
+Higgins, M. C., & Kram, K. E. (2001). Reconceptualizing mentoring at work: A developmental network perspective.Academy of Management Review, 26(2), 264–288.
+*Higgins, M. C., & Thomas, D. (2001). Constellations and careers: Toward understanding the eﬀects of multiple developmental relationships.Journal of Organizational
+Behavior, 22(3), 223–247.
+*Hinrichs, J. (1978). An eight-year follow-up of a management assessment center.Journal of Applied Psychology, 63(5), 596–601.
+Huck, J. (1973). Assessment centers: A review of the external and internal validities.Personnel Psychology, 26(2), 191–212.
+*Hurley, A., Wally, S., Segrest, S., Scandura, T., & Sonnenfeld, J. (2003). An examination of the eﬀects of early and late entry on career attainment: the clean slate
+eﬀect? Personnel Review, 32(2), 133–150.
+Igbaria, M., & Baroudi, J. (1995). The impact of job performance evaluations on career advancement prospects: An examination of gender diﬀerences in the IS
+workplace. MIS Quarterly, 19(1), 107–123.
+*Jansen, P., & Stoop, B. (2001). The dynamics of Assessment Center validity: Results of a 7-year study.Journal of Applied Psychology, 86(4), 741–753.
+*Jansen, P., & Vinkenburg, C. (2006). Predicting management career success from assessment center data: A longitudinal study.Journal of Vocational Behavior, 68(2),
+253–266.
+Jiang, K., Lepak, D. P., Hu, J., & Baer, J. C. (2012). How does human resource management inﬂuence organizational outcomes? A meta-analytic investigation of
+mediating mechanisms.Academy of Management Journal, 55(6), 1264–1294.
+*Johnson, N., & Scandura, T. (1994). The eﬀect of mentorship and sex-role style on male-female earnings.Industrial Relations: A Journal of Economy and Society, 33(2),
+263–274.
+Judge, T., Cable, D., Boudreau, J., & Bretz, R. (1995). An empirical investigation of the predictors of executive career success.Personnel Psychology, 48(3), 485–519.
+*Kay, F., Hagan, J., & Parker, P. (2009). Principals in practice: The importance of mentorship in the early stages of career development.Law & Policy, 31(1), 69–110.
+*Kirchmeyer, C. (1998). Determinants of managerial career success: Evidence and explanation of male/female diﬀerences. Journal of Management, 24(6), 673–692.
+*Kirchmeyer, C. (2002). Gender diﬀerences in managerial careers: Yesterday, today, and tomorrow.Journal of Business Ethics, 37(1), 5–24.
+Klimoski, R., & Brickner, M. (1987). Why do assessment centers work? The puzzle of assessment center validity.Personnel Psychology, 40(2), 243–260.
+Koch, M., Forgues, B., & Monties, V. (2017). The way to the top: Career patterns of Fortune 100 CEOs.Human Resource Management, 56(2), 267–285.
+Konrad, A., & Yang, Y. (2012). Is using work–life interface beneﬁts a career-limiting move? An examination of women, men, lone parents, and parents with partners.
+Journal of Organizational Behavior, 33(8), 1095–1119.
+*Koyuncu, M., Burke, R., Alayoglu, N., & Wolpin, J. (2014). Mentoring relationships among managerial and professional women in Turkey: Potential beneﬁts? Cross
+Cultural Management, 21(1), 2–22.
+*Kraimer, M., Shaﬀer, M., & Bolino, M. (2009). The inﬂuence of expatriate and repatriate experiences on career advancement and repatriate retention.Human Resource
+Management, 48(1), 27–47.
+Kram, K. (1983). Phases of the mentor relationship.Academy of Management Journal, 26(4), 608–625.
+Kram, K. (1985).Mentoring at work: Developmental relationships in organizational life.Glenview, IL: Scott, Foresman.
+*Lee, J., & Nolan, R. (1998). The relationship between mentoring and the career advancement of women administrators in cooperative extension.Journal of Career
+Development, 25(1), 3–13.
+Lepak, D. P., & Snell, S. A. (1999). The human resource architecture: Toward a theory of human capital allocation and development.Academy of Management Review,
+24(1), 31–48.
+Levinson, D. J. (1986). A conception of adult development.American Psychologist, 41(1), 3–13.
+Levinson, D. J., Darrow, C. N., Klein, E. B., Levinson, M. A., & McKee, B. (1978).Seasons of a man's life.New York: Knopf.
+Lin, N., Ensel, W. M., & Vaughn, J. C. (1981). Social resources and occupational status attainment.Social Forces, 59(4), 1163–1181.
+Longenecker, C. O., Sims, H. P., Jr., & Gioia, D. A. (1987). Behind the mask: The politics of employee appraisal.The Academy of Management Executive, 1(3), 183–193.
+*Lyness, K., & Heilman, M. (2006). Whenﬁt is fundamental: Performance evaluations and promotions of upper-level female and male managers.Journal of Applied
+Psychology, 91(4), 777–785.
+*Lyness, K., & Thompson, D. (2000). Climbing the corporate ladder: Do female and male executives follow the same route?Journal of Applied Psychology, 85(1),
+86–101.
+MacDuﬃe, J. P. (1995). Human resource bundles and manufacturing performance: Organizational logic andﬂexible production systems in the world auto industry.
+Industrial & Labor Relations Review, 48(2), 197–221.
+*Magnusson, P., & Boggs, D. (2006). International experience and CEO selection: An empirical study.Journal of International Management, 12(1), 107–125.
+Malhotra, P., & Singh, M. (2016). Indirect impact of high performers on the career advancement of their subordinates.Human Resource Management Review, 26(3),
+209–226.
+Mayrhofer, W., Meyer, M., Iellatchitch, A., & Schiﬃnger, M. (2004). Careers and human resource management— A European perspective.Human Resource Management
+Review, 14(4), 473–498.
+Mayrhofer, W., Meyer, M., & Steyrer, J. (2007). Contextual issues in the study of careers. In H. Gunz, & M. Peiperl (Eds.).Handbook of career studies(pp. 215–240).
+Thousand Oaks, CA: SAGE Publication.
+McCauley, C. D., Eastman, L. J., & Ohlott, P. J. (1995). Linking management selection and development through stretch assignments.Human Resource Management,
+34(1), 93–115.
+*Melero, E. (2010). Training and promotion: Allocation of skills or incentives?Industrial Relations, 49(4), 640–667.
+*Metz, I. (2004). Do personality traits indirectly aﬀect women's advancement?Journal of Managerial Psychology, 19(7), 695–707.
+*Metz, I. (2009). Organisational factors, social factors, and women's advancement.Applied Psychology, 58(2), 193–213.
+*Mitchel, J. (1975). Assessment center validity: A longitudinal study.Journal of Applied Psychology, 60(5), 573–579.
+Moore, C., Gunz, H., & Hall, D. T. (2007). Tracing the historical roots of career theory in management and organization studies. In H. Gunz, & M. Peiperl (Eds.).
+Handbook of career studies(pp. 13–38). Thousand Oaks, CA: SAGE Publication.
+*Moses, J., & Boehm, V. (1975). Relationship of assessment-center performance to management progress of women.Journal of Applied Psychology, 60(4), 527–529.
+Nathan, B., Mohrman, A., & Milliman, J. (1991). Interpersonal relations as a context for the eﬀects of appraisal interviews on performance and satisfaction: A
+longitudinal study.Academy of Management Journal, 34(2), 352–369.
+Ng, E., Schweitzer, L., & Lyons, S. (2010). New generation, great expectations: Aﬁeld study of the millennial generation.Journal of Business and Psychology, 25(2),
+281–292.
+Ng, T., Eby, L., Sorensen, K., & Feldman, D. (2005). Predictors of objective and subjective career success: A meta-analysis.Personnel Psychology, 58(2), 367–408.
+*Noback, I., Broersma, L., & Dijk, J. (2016). Climbing the ladder: Gender-speciﬁc career advancement inﬁnancial services and the inﬂuence ofﬂexible work-time
+arrangements. British Journal of Industrial Relations, 54(1), 114–135.
+*Oh, S. S., & Lewis, G. (2013). Performance ratings and career advancement in the US Federal Civil Service.Public Management Review, 15(5), 740–761.
+Orpen, C. (1994). The eﬀects of organizational and individual career management on career success.International Journal of Manpower, 15(1), 27–37.
+*Orpen, C. (1995). The eﬀects of mentoring on employees' career success.The Journal of Social Psychology, 135(5), 667–668.
+Pattie, M., White, M. M., & Tansky, J. (2010). The homecoming: A review of support practices for repatriates.Career Development International, 15(4), 359–377.
+*Pema, E., & Mehay, S. (2010). The role of job assignment and human capital endowments in explaining gender diﬀerences in job performance and promotion.Labour
+Economics, 17(6), 998–1009.
+Pfeﬀer, J., & Sutton, R. I. (2006). Evidence-based management.Harvard Business Review, 84(1), 62–74.
+S. Bagdadli, M. Gianecchini Human Resource Management Review xxx (xxxx) xxx–xxx
+17
+<<<PAGE=18>>>
+*Ragins, B., & Cotton, J. (1999). Mentor functions and outcomes: A comparison of men and women in formal and informal mentoring relationships.Journal of Applied
+Psychology, 84(4), 529–550.
+*Ramaswami, A., Carter, N. M., & Dreher, G. F. (2016). Expatriation and career success: A human capital perspective.Human Relations, 69(10), 1959–1987.
+*Ritchie, R., & Moses, J. (1983). Assessment center correlates of women’s advancement into middle management: A 7-year longitudinal analysis.Journal of Applied
+Psychology, 68(2), 227–231.
+Rosenbaum, J. E. (1984).Career mobility in a corporate hierarchy.Orlando, FL: Academic Press.
+*Rowley, C., Kang, H. R., & Lim, H. J. (2016). Female manager career success: The importance of individual and organizational factors in South Korea.Asia Paciﬁc
+Journal of Human Resources, 54(1), 98–122.
+Scott, W. R. (2014).Institutions and organizations: Ideas, interests, and identities(4th edition). Thousand Oaks, CA: SAGE Publications.
+*Seibert, S., Kraimer, M., & Liden, R. (2001). A social capital theory of career success.Academy of Management Journal, 44(2), 219–237.
+*Sheridan, J., Slocum, J., & Buda, R. (1997). Factors inﬂuencing the probability of employee promotions: A comparative analysis of human capital, organization
+screening and gender/race discrimination theories.Journal of Business and Psychology, 11(3), 373–380.
+*Singh, R., Ragins, B., & Tharenou, P. (2009). What matters most? The relative role of mentoring and career capital in career success.Journal of Vocational Behavior,
+75(1), 56–67.
+Sonnenfeld, J. A. (1989). Career systems proﬁles and strategic staﬃng. In M. B. Arthur, D. T. Hall, & B. S. Lawrence (Eds.).Handbook of Career Theory(pp. 201–227).
+Cambridge, UK: Cambridge University Press.
+Sonnenfeld, J. A., & Peiperl, M. A. (1988). Staﬃng policy as a strategic response: A typology of career systems.Academy of Management Review, 13(4), 588–600.
+Spence, M. (1973). Job market signaling.The Quarterly Journal of Economics, 87(3), 355–374.
+Stumpf, S. A., & London, M. (1981). Management promotions: Individual and organizational factors inﬂuencing the decision process.Academy of Management Review,
+6(4), 539–549.
+*Suutari, V., & Brewster, C. (2003). Repatriation: Empirical evidence from a longitudinal study of careers and expectations among Finnish expatriates.International
+Journal of Human Resource Management, 14(7), 1132–1151.
+*Tharenou, P. (2001). Going up? Do traits and informal social processes predict advancing in management?Academy of Management Journal, 44(5), 1005–1017.
+*Tharenou, P. (2005). Does mentor support increase women's career advancement more than men’s? The diﬀerential eﬀects of career and psychosocial support.
+Australian Journal of Management, 30(1), 77–109.
+*Tharenou, P., Latimer, S., & Conroy, D. (1994). How do you make it to the top?Academy of Management Journal, 37(4), 899–931.
+Tomlinson, J., Baird, M., Berg, P., & Cooper, R. (2018). Flexible careers across the life course: Advancing theory, research and practice.Human Relations, 71(1), 4–22.
+Tranﬁeld, D., Denyer, D., & Smart, P. (2003). Towards a methodology for developing evidence-informed management knowledge by means of systematic review.
+British Journal of Management, 14(3), 207–222.
+Tung, R. L. (1988). Career issues in international assignments.The Academy of Management Executive, 2(3), 241–244.
+*Turban, D. B., & Dougherty, T. (1994). Role of protégé personality in receipt of mentoring and career success.Academy of Management Journal, 37(3), 688–702.
+*Turban, D. B., Moake, T. R., Wu, S. Y. H., & Cheung, Y. H. (2017). Linking extroversion and proactive personality to career success: The role of mentoring received and
+knowledge. Journal of Career Development, 44(1), 20–33.
+Turner, R. H. (1960). Sponsored and contest mobility and the school system.American Sociological Review, 25(6), 855–867.
+Vinkenburg, C., & Weber, T. (2012). Managerial career patterns: A review of the empirical evidence.Journal of Vocational Behavior, 80(3), 592–607.
+Vroom, V. H. (1964).Work and motivation.New York: Wiley.
+*Wakabayashi, M., & Graen, G. (1984). The Japanese career progress study: A 7-year follow-up.Journal of Applied Psychology, 69(4), 603–614.
+Walker, J. W. (1978). Does career planning rock the boat?Human Resource Management, 17(1), 1–7.
+*Wayne, S., Liden, R., Kraimer, M., & Graf, I. (1999). The role of human capital, motivation and supervisor sponsorship in predicting career success.Journal of
+Organizational Behavior, 20(5), 577–595.
+*Whitely, W., & Coetsier, P. (1993). The relationship of career mentoring to early career outcomes.Organization Studies, 14(3), 419–441.
+*Whitely, W., Dougherty, T., & Dreher, G. (1991). Relationship of career mentoring and socioeconomic origin to managers’and professionals’early career progress.
+Academy of Management Journal, 34(2), 331–350.
+*Wollowick, H., & McNamara, W. (1969). Relationship of the components of an assessment center to management success.Journal of Applied Psychology, 53(5),
+348–352.
+S. Bagdadli, M. Gianecchini Human Resource Management Review xxx (xxxx) xxx–xxx
+18

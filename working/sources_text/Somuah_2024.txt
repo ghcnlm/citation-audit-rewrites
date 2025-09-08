@@ -1,0 +1,925 @@
+<<<PAGE=1>>>
+Cogent Business & Management
+ISSN: 2331-1975 (Online) Journal homepage: www.tandfonline.com/journals/oabm20
+Training practices and job performance in public
+universities: leveraging on self-eﬃcacy and
+organizational politics
+Claudia Omari Somuah, Henry Koﬁ Mensah & Prince Gyimah
+To cite this article: Claudia Omari Somuah, Henry Koﬁ Mensah & Prince Gyimah (2024)
+Training practices and job performance in public universities: leveraging on self-eﬃcacy
+and organizational politics, Cogent Business & Management, 11:1, 2328309, DOI:
+10.1080/23311975.2024.2328309
+To link to this article:  https://doi.org/10.1080/23311975.2024.2328309
+© 2024 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 25 Mar 2024.
+Submit your article to this journal 
+Article views: 2192
+View related articles 
+View Crossmark data
+Citing articles: 4 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=oabm20
+<<<PAGE=2>>>
+ManageMent | ReseaRch aR ticle
+Cogent Business & ManageMent
+2024, VoL. 11, no . 1 , 2328309
+Training practices and job performance in public universities: 
+leveraging on self-efficacy and organizational politics
+claudia Omari s omuaha, henry Kofi Mensah b and Prince gyimah c 
+ainstitute of entrepreneurial Development e ducation and i nnovation, a kenten a ppiah-Menka university of skills training and 
+entrepreneurial Development, Kumasi, ghana; bKnust s chool of Business, Knust Post o ffice, PMB, Kwame n krumah 
+university of s cience and technology (Knust ), Kumasi, ghana; cDepartment of a ccounting s tudies e ducation, a kenten 
+appiah-Menka university of skills training and entrepreneurial Development, Kumasi, ghana
+ABSTRACT
+this study examines the effect of training practices on job performance in the public 
+sector of a sub-s aharan a frican region. Building on social cognitive theory, this study 
+integrates the mediating role of self-efficacy and the moderating role of perceived 
+organizational politics to explain employees’ performance in public universities. this 
+study is a quantitative survey using s tructural equation Modeling (seM) to analyze the 
+responses of 370 non-teaching staff members at public universities in ghana. the 
+findings show a positive and significant relationship between training and job 
+performance. the study also finds that self-efficacy fully mediates the effect of training 
+on task and contextual performance but partially on adaptive performance. the study 
+further establishes that perceived organizational politics moderate the effect of training 
+on contextual performance but not on self-efficacy and job performance. a gain, 
+perceived organizational politics moderated the relationship between self-efficacy and 
+job performance. Based on the findings, this study provides two key practical 
+implications for the leadership of public institutions in general and public universities. 
+First, the human resources divisions of various public universities must concentrate on 
+training to enhance job performance. s econd, the directorate of human resources of 
+public universities and all public sector institutions must devise strategies to minimize 
+organizational politics, which negatively affects overall job performance. implications for 
+theory and practice are also discussed.
+1.  Introduction
+globally, organizations rely on improved skills, knowledge, and capability of a talented workforce to cre -
+ate competitive advantage (halawi & haydar, 2018; lin & hsu, 2017; showkat et  al., 2023). t herefore, 
+organizations continuously focus on improving employees’ job performance to enrich organizational per -
+formance to gain a competitive advantage ( chatterjee et  al., 2023; thevanes & Dirojan, 2018). enhancing 
+employee performance cuts across all sectors of the economy, such as agriculture, manufacturing, con -
+struction, and services. to enhance the performance of the service sector, there is a need to consider the 
+work done by non-teaching staff in various universities. University non-teaching staff rarely achieve high 
+job performance, which is influenced by several factors ( gyimah et  al., 2022). Factors such as self-efficacy, 
+training, promotion, and salary are likely to significantly affect job performance within the university 
+context; hence, they deserve recognition and attention ( abu-tineh et  al., 2023). One of the crucial strat -
+egies for universities and organizations in general to gain a competitive advantage is to utilize training 
+(Yang et  al., 2023). training is an important function in cultivating employees’ explicit and implicit knowl -
+edge, skills, and abilities and transfers employees into valuable resources to improve job performance 
+© 2024 the a uthor(s). Published by i nforma uK Limited, trading as taylor & Francis group
+CONTACT Prince gyimah  princegyima@yahoo.co.uk ; pgyimah@aamusted.edu.gh  a kenten a ppiah-Menka university of skills training 
+and entrepreneurial Development, Department of a ccounting s tudies e ducation, Post o ffice Box 1277, Kumasi, ghana.
+https://doi.org/10.1080/23311975.2024.2328309
+this is an o pen a ccess article distributed under the terms of the Creative Commons a ttribution License ( http://creativecommons.org/licenses/by/4.0/), which 
+permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. the terms on which this article has been 
+published allow the posting of the a ccepted Manuscript in a repository by the author(s) or with their consent.
+ARTICLE HISTORY
+Received 1 December 
+2023
+Revised 12 January 2024
+accepted 4 March 2024
+KEYWORDS
+Organizational politics; 
+self-efficacy; public 
+sector; training and 
+performance; universities; 
+sub-saharan a frica
+JEL CLASSIFICATION 
+CODES
+1401; 1403; 1407; 1408
+REVIEWING EDITOR
+Rocio g allego-loasada, 
+Rey Juan carlos 
+University, spain
+<<<PAGE=3>>>
+2 c. O. sOMUah et al.
+(lin & huang, 2021). For these reasons, training has become a key variable in productivity drivers at the 
+firm and national levels. For instance, in Part iii under the Protection of employment of the ghana labor 
+act 2003, a ct 651 s ection 10 (Rights of a Worker) indicates that it is the right of an employee to be 
+trained and to help him/her to develop skills and be given information that applies to the job.
+current research studies on the subject have focused on how training practices affect job perfor -
+mance and suggest that employees’ job performance is dependent on the training received (haryono 
+et  al., 2020; Kanapathipillai & azam, 2020; sheeba & christopher, 2020). although training has a positive 
+relationship with job performance (l yons & Bandura, 2022; Park et  al., 2018), it is difficult to realize this 
+when employees undergoing the training program lack self-efficacy. s everal other studies, such as 
+Mangkunegara and agustine ( 2016), argue that training partially affects employees’ job performance. 
+therefore, to achieve the full effect of training on job performance, the literature has suggested that the 
+role of other factors, such as self-efficacy and environmental and organizational factors should be con -
+currently considered in the training-job performance relationship. For example, Park et  al. ( 2018) suggest 
+that future studies on the relationship between training and job performance could look at other moti -
+vational factors such as self-efficacy and how it will influence job performance. g aravan et  al. ( 2021) 
+suggest that environmental and organizational content moderators should be incorporated when exam -
+ining the job performance of employees.
+it is vital to understand the mediating and moderating roles of self-efficacy and perceived organiza -
+tional politics in employee performance after training. this is because the training of employees does 
+not automatically translate into performance unless they believe in their capabilities to do so, and 
+resources for the training practice are made available to employees. s elf-efficacy studies have consis -
+tently shown that it is one of the key factors that predict performance (Bandura, 2015; carter et  al., 2018; 
+Yagil et  al., 2023). thus, self-efficacy influences learners’ behavior and transfer outcomes both directly and 
+indirectly through its mediating effect on outcome expectations ( chiaburu & lindsay, 2008; grossman & 
+salas, 2011). For instance, chiaburu and lindsay ( 2008) indicate that employees’ perceived training and 
+self-efficacy positively influenced their motivation to perform. s tajkovic et  al. ( 2018) conclude that 
+employees with high levels of self-efficacy are less likely to give up on the pursuit of their responsibilities 
+and, therefore, perform better on their job. the behavior and actions that occur informally inside an 
+organization are usually perceived as organizational politics. this encompasses individuals’ actions aimed 
+at supporting their private interests, which may agree or disagree with those of other individuals (Bukhari 
+& Kamal, 2015; Ferris et  al., 2018). the individual actions directed toward achieving one’s own self-interest 
+goals without regard for the well-being of others or the organization, which is referred to as organiza -
+tional politics (Kacmar & Baron, 1999), is notable for both its pervasiveness and capacity to disrupt orga -
+nizational processes and impact workers’ job performance and well-being. For example, a hmad et  al. 
+(2017) conclude that organizational politics have a significant and negative relationship with job 
+performance.
+Despite the impact of self-efficacy on the performance of trained employees coupled with burgeoning 
+research on training-job performance relationships, there is a paucity of studies and inconsistencies in 
+the literature on how self-efficacy and perceived organizational politics partially or fully affect the job 
+performance of trained employees, particularly in developing countries (Mangkunegara, 2021). Meanwhile, 
+these regions are emerging in terms of the labor force and hence need more training to build the strong 
+human capital that would be used to increase productivity ( gyimah et  al., 2023). this study sought to fill 
+this gap by analyzing the influence of training practices on job performance, which is the mediating and 
+moderating role of self-efficacy and perceived organizational politics on the job performance of 
+non-teaching staff at public universities in ghana.
+this study makes some key contributions to both literature and practice. First, the study employs 
+social cognitive theory to explain this integrative training–job performance relationship through 
+self-efficacy and its dependence on organizational politics. By so doing, the study advances training and 
+performance research by drawing on the tenets of social cognitive theory (Bandura, 2015) to theoreti -
+cally specify and validate training and job performance. s econd, the study offers empirical evidence that 
+will augment the discussion on the effect of training on employee job performance in relation to, per -
+haps, mediating and moderating variables. third, this study provides evidence that self-efficacy plays a 
+mediating role in the training-performance relationship, and this relationship is also dependent on
+<<<PAGE=4>>>
+cOgent BUsiness & ManageMent 3
+organizational politics. Based on this assertion, this study makes a fourth contribution by theorizing that 
+the suggested relationships will provide diverse perceptions in understanding the dynamics through 
+which training improves job performance. last but not the least, the study focuses on developing econ -
+omy, particularly, a frica and ghana to be precise. this will widen the range of empirical inquiries on 
+training and the resultant benefits, which have mainly focused on e uropean, american, and a sian con -
+texts (haryono et  al., 2020; l yons, 2020; sheeba & christopher, 2020). i t is innovative to focus on the 
+public sector of ghana, particularly because performance studies have gradually begin to shift toward 
+research in developing economies, including those in a frica (Bonsu et  al., 2022; Mohammed et  al., 2023; 
+sakyiwaa et  al., 2020). For example, from the few studies from an a frican perspective (Olonade et  al., 
+2020; nsazi, 2013), the case of ghana remains gray; hence, there is a need for more studies to fill this 
+void in the literature.
+the remainder of this paper is organized as follows. the second section presents the theoretical back -
+ground and hypothesis development. the third section covers the method; data employed, and study 
+design. the fourth section also presents the analysis of the data employed whereas  the fifth section  
+discusses the empirical findings. the sixth section presents the conclusions and implications of the study, 
+and the final section highlights the limitations and future directions of the study.
+2.  Theory and hypothesis
+social cognitive theory posits that people take part in intentional influence over their inspiration and that 
+whatever a person does in life is dictated by this intentional influence (Bandura, 2015). the theory, there -
+fore, argues that in every human institution, self-efficacy convictions are the focal instrument; they are 
+conceived to affect everything from inspiration to a fulfilled life (Bandura, 2015). Bandura ( 2015) further 
+argued that if people are not convinced that they can accomplish the behavior required to achieve an 
+expected goal, they would not participate in that behavior or would exert very little effort. s ocial cognitive 
+theory suggests that people are more productive when they are motivated, which happens when they are 
+convinced that they can participate in the behaviors required to attain their goals. specifically, according 
+to social cognitive theory, people with greater self-efficacy are bound to accept goals, set progressively 
+more complex goals, and persevere on goals during challenges. these procedures, at that point, result in 
+improved performance (Bandura & l ocke, 2003; locke & latham, 1990). anytime a person has an ambition, 
+he is inspired to go through the necessary process, irrespective of the obstacles, to accomplish such ambi -
+tions. as indicated by Baron and Kenny ( 1986), because people perform well on their tasks because of their 
+motivation to achieve their set goals, goals act partially as mediators.
+although most studies and theories on self-efficacy usually concentrate on its positive impact, Bandura 
+(2015) opines that in an introductory setting, self-efficacy may negatively affect job productivity. i n a 
+preliminary context, Bandura ( 2015) posited that self-doubt may not be bad. For instance, in a discussion 
+on athletes, he noted that an athlete who sees him/her to be very effective in his abilities does not have 
+much motivation to devote a lot of effort to tiresome preparatory practice in learning tasks. i n this case, 
+the level of doubt undoubtedly aids training. hence, he opines that when people have great self-efficacy, 
+they might not exert effort in preparation for a future task, because they are convinced that they have 
+what it takes to succeed. s ocial cognitive theory postulates that self-efficacy is the fundamental instru -
+ment responsible for people’s motivation, productivity, and fulfillment in life (Bandura, 2015). that is to 
+say, despite all the training that employees may receive, if they are not motivated by their inspiration to 
+fulfill certain things in life that are connected to their role, training will not result in the expected out -
+come (performance). a lthough, overall, the theory concentrates on the positive impact of self-efficacy, 
+there is some uncertainty regarding the role played by self-efficacy in overall performance.
+2.1.  Training and job performance
+training is a significant element in improving a firm’s human capital, capabilities, and organizational 
+knowledge, thus strengthening its competitive advantage (Febrian et  al., 2016; gyimah et  al., 2020; idris 
+et  al., 2020). according to Dessler ( 2006), training improves current and future job performance, as well
+<<<PAGE=5>>>
+4 c. O. sOMUah et al.
+as activities that serve to improve job performance. there are several ways to improve job performance, 
+including by providing work training to employees (haryono et  al., 2020). s ome previous scholars (includ -
+ing n yaisu et  al., 2017) conclude that training employees has a positive effect on staff job performance. 
+this viewpoint stems from the goal-setting theory, which suggests that a minute a difficult task is given, 
+the only rational course of action is to attempt and keep at it until it is accomplished, leading to per -
+formance (task, adaptive, and contextual). Bandura and c ervone ( 1986) stress that goals perform a stim -
+ulating function, as they lead to better performance. a gain, as observed by smith et  al. ( 1990), if the task 
+for which a goal is allocated is new to the individual in charge of accomplishing it, they would carefully 
+plan to design strategies that would aid them in achieving their goals. Universities are mainly formal and 
+thrive in employee training to improve performance. For non-teaching staff of universities to perform 
+better, they need to be trained to achieve a competitive advantage. therefore, this study hypothesizes 
+the following:
+H1: training practices have a significant positive effect on employee performance
+2.2.  The direct and mediating roles of self-efficacy
+as recognized by social cognitive theory, a strong sense of self-efficacy encourages the achievement of 
+personal goals. People with high levels of certainty can handle challenging tasks and critical challenges. 
+self-efficacy makes people design challenging goals, stick to them, be more prepared to face failure, and 
+regain their motivation after each situation (Bandura, 2012). in addition, self-efficacy helps address vari -
+ous phenomena such as changes in behavior, level of reactions, despair, and failure (Bandura, 2015). 
+self-efficacy is a significant variable that mediates the effect of dispositional variables on learning per -
+formance (lazzara et  al., 2021). i t is likely that people already possess self-efficacy before entering a 
+program or gain it in the course of training (s alas & c annon-Bowers, 2001). haccoun and s aks ( 1998) 
+suggested that training boosts self-efficacy while self-efficacy mediates the impact of training on training 
+results.
+Post-training self-efficacy plays two roles. First, it makes people to ponder about their learning out -
+comes and arrive at the conclusion that they are “able to do”; and secondly, this knowledge serves as 
+motivation to increase a person’s readiness to perform (willingness to do). While haccoun and s aks 
+(1998) take a positive stance on the likelihood that training programme designs might essentially result 
+in decreasing self-efficacy. this is significant because the structure of the training program (content and 
+assimilation difficulty) affects a person’s level of self-efficacy, with effects on the application of training. 
+if the content of the training enables the attainment of knowledge, this increases self-efficacy levels and, 
+as such, a positive effect on the application of training is possible. i ndividual-level variables (e.g., cogni -
+tive ability) play a role in self-efficacy of people (Bandura, 2012). nevertheless, this study argues that 
+self-efficacy encompasses the effects of these factors. c onsequently, post-training self-efficacy is per the 
+purposes of this study is defined as people’s perceived capacity to act as set by the training program. 
+self-efficacy is essential to the learning and development profession because available data demonstrate 
+that it is connected to people’s performance ( guerra et  al., 2022). subsequently, self-efficacy has aided 
+individuals in learning many new behaviors and an array of work-related skills. For instance, research 
+indicates that self-efficacy expectations influence salesforce performance, academic research performance, 
+workers’ attendance at work, enlisting people’s achievement in fundamental training, and managers’ 
+decision-making capabilities (l yons & Bandura, 2022).
+empirically, c anrinus et  al. ( 2012) explored the connections between self-efficacy, work fulfilment, 
+motivation, and commitment among teachers. the authors concentrated on how relevant indicators of 
+teachers’ perceptions of professional identity (work fulfilment, commitment to work, self-efficacy, and 
+alterations in level of motivation) are connected. Based on their analysis, they argue that classroom 
+self-efficacy and relationship fulfilment play a major role in influencing the connections between these 
+factors. tojjari et  al. ( 2013) also in their studies analyzed the impact of self-efficacy on job satisfaction 
+and performance in sports referees in i ran. their study demonstrated that the general self-efficacy of 
+sport referees has a significant influence on the intrinsic and extrinsic features of job satisfaction. While
+<<<PAGE=6>>>
+cOgent BUsiness & ManageMent 5
+this effect is not significant for general factors of job satisfaction, it had an impact on their performance. 
+in another study based on social cognitive theory, s alman et  al. ( 2016) investigated the effect of 
+self-efficacy on workers’ job performance in Pakistan’s health sector and revealed that self-efficacy has a 
+strong connection with job performance factors, such as job commitment, job satisfaction, and absen -
+teeism. hence, the second hypothesis of this study is as follows:
+H a2 : s elf-efficacy has a significant positive effect on employee performance
+H2b: s elf-efficacy positively mediates the relationship between training practices and employee performance
+2.3.  Moderating role of perceived organisational politics
+Politics in an organization represent machinations of personal interest that fit well with the concept of 
+the social market (Khan & chaudhary, 2023). the perception of organizational politics depends on an 
+individual’s awareness of politics and reactions ( cooper-thomas & Morrison, 2018). Organizational politics 
+should not be understood as a concept that is only harmful and can undermine the organization’s ability 
+to operate (Khan & chaudhary, 2023). thus, managers must make decisions and implement new meth -
+ods to mitigate the adverse effects of politics in the organization. Perceived organizational politics can 
+negatively impact job performance outcomes when employees believe that their work environment does 
+not support them (noori et  al., 2022). hence, the political climate perceived by members may cause a 
+significant difference in the responses of employees toward their role in the organization ( awaah, 2023). 
+therefore, when individuals in an organization perceive the environment to be negative, they can reduce 
+resources, actions, effective organizational change, job performance, and trust among managers and 
+employees (Zhang et  al., 2019).
+in ghana, organizational politics can take various forms, such as favoritism, power struggles, and the 
+manipulation of information and resources ( awaah, 2023). these political behaviors can have a significant 
+impact on employee attitudes towards training and job performance (Zhang et  al., 2019). When employ -
+ees perceive that promotions, rewards, and opportunities for growth are based on factors other than 
+merit and performance, it can create a sense of unfairness and demotivation ( awaah, 2023). a dditionally, 
+organizational politics can create a culture of distrust and competition among employees ( akoto et  al., 
+2022; horsey et  al., 2023). this may lead to a lack of enthusiasm for training initiatives and a decrease 
+in job performance (noori et  al., 2022).
+the literature has indicated that there is a negative relationship between organizational politics, per -
+formance, and satisfaction (noori et  al., 2022) as well as loyalty (Riaz et  al., 2023). specifically, a review 
+of the literature indicates that the relationship between self-efficacy and job performance is based on 
+the mechanistic condition of perceived organizational politics (s alman et  al., 2016 and tojjari et  al., 2013). 
+therefore, there is a relationship between self-efficacy and job performance based on perceived organi -
+sational politics. thus, the negative organizational politics perceived by an individual leads to less 
+self-efficacy and decreases organizational attractiveness to encourage appropriate input (Jabbar et  al., 
+2020). therefore, the third hypothesis of this study is as follows:
+H3: Perceived organisational politics moderate the role of self-efficacy in the relationship between training and 
+job performance.
+Based on the above discussion, a theoretical framework for the study is constructed, as shown in 
+Figure 1 .
+3.  Methods
+3.1.  Study context and setting
+the non-teaching staff of public universities in Kumasi, the second-largest city in ghana, are selected to 
+test our hypothesized model specified above. there are three (3) public universities: Kwame n krumah 
+University of s cience and technology (KnUst ), a kenten a ppiah-Menka University of skill training and
+<<<PAGE=7>>>
+6 c. O. sOMUah et al.
+entrepreneurial Development ( aaMUsteD), and Kumasi technical University (K tU). KnUst is the first and 
+largest public tertiary institution in Kumasi, the entire a shanti region, and the second oldest institution 
+in ghana. KnUst was established in 1951 as the Kumasi c ollege of technology, with the chancellor, 
+chairman of the university council, and the vice-chancellor as the main leaders of the institution. the 
+akenten a ppiah-Menka University of skills training and entrepreneurial Development ( aaMUsteD), was 
+established on a ugust 27, 2020, under a ct 1026 of 2020 of the Parliament of the Republic of ghana. 
+aaMUsteD was formed from the c ollege of technology e ducation, Kumasi ( cOlteK) and the c ollege of 
+agriculture education ( cagRic), asante-Mampong, which are campuses of the University of education, 
+Winneba. the University traces its history to the evolution of c OlteK and cagRic. c OlteK started as a 
+technical teachers c ollege ( ttc) in 1966 and later metamorphosed into the Kumasi a dvanced technical 
+teachers c ollege (K attc) in 1978. Kumasi technical University was founded in 1954 as the Kumasi 
+technical i nstitute and later promoted to a non-tertiary polytechnic rank under the ghana e ducation 
+service. the technical University a ct 2016 ( act 1992) upgraded the former Kumasi Polytechnic to the 
+present Kumasi technical University. the university has a mission to be a center of experience for tech -
+nological and entrepreneurial development.
+there are two broad categories of staff in each of the selected institutions: teaching and non-teaching 
+staff. While the teaching staff are mainly involved in academic work, the non-teaching staff ensure 
+day-to-day administration and management of the university. a dministrative and management issues 
+such as staff and student welfare matters, employment and recruitment, and the like are some of the 
+key tasks of university non-teaching staff (s arpong-Danquah et  al., 2018). the study population includes 
+non-teaching staff of public universities in the a shanti Region. a ccording to the records of the three 
+selected institutions, there is a total of 1816 non-teaching staff at the time the inquiries are made. the 
+study includes non-teaching staff within lower-level and middle-level management positions in the study 
+institutions across gender.
+3.2.  Study design and sample
+the study uses cross-sectional survey data gathered through a questionnaire and employed both descrip -
+tive and inferential study designs for the analysis. specifically, the study design is chosen to help estab -
+lish the relationship between three variables: training, performance, self-efficacy, and perceived 
+organizational politics (s arantakos, 2005). to determine the representative sample size from the three 
+institutions, the Krejcie and Morgan ( 1970) sample size determination formula is utilized and applied to 
+each campus center. Krejcie and Morgan’s ( 1970) sample size determination is as follows:
+ s X N PP d N X PP= − () ÷− () +− ()
+2 22 1 11  (1)
+Figure 1.  Hypothesized theoretical Framework.
+<<<PAGE=8>>>
+cOgent BUsiness & ManageMent 7
+where s = required sample size; X2 = the table value of chi-square for one level of freedom at the desired 
+confidence level (3.841); n = the population size; P = the population proportion (assumed to be 0.50, since 
+this will give the maximum sample size); and d is the degree of accuracy expressed as a proportion (0.05).
+after computations, the sample sizes for the respective campus centers are as follows: KnUst (767), 
+aaMUsteD (415), and K tU (166), making a total sample size of 936. i n applying a sampling technique 
+to enhance representatives, the researcher adopted a proportionate sampling technique to determine 
+the proportion of non-teaching staff at each study institution. the proportionate sampling technique is 
+given by
+ P = ×study respondents
+target population sample size. 
+after obtaining the sample for each stratum, a systematic sampling technique was employed to 
+ identify respondents from a sampling frame (register). i n doing so, the systematic sampling technique 
+formula, population
+sample size, is used to arrive at the k th term.
+after administering questionnaires to all 936 sampled participants from the three selected intuitions, 
+370 successfully filled questionnaires are retrieved after several follow-ups and visits. this represents an 
+approximately 40% response rate, which is quite good for an empirical study of this nature. table 1  
+presents the demographics of the data based on which we justify that the sample size is representative 
+of the non-teaching staff of public universities in ghana. hence, the study can make generalizations 
+based on the findings.
+3.3.  Measurement of variable
+the study uses prevailing tested and validated questionnaires in the literature such as a waah ( 2023), 
+horsey et  al. ( 2023), hochwarter et  al. ( 2003), Kirkpatrick ( 1996), Pradhan and Jena ( 2017), and noori 
+et  al. ( 2022). a ll items on the questionnaire are closed-ended, with the exception of section a 
+Table 1. Demographic profile of respondents.
+Variable Categories Frequency Percentage
+sex Male 185 49.9
+Female 175 47.2
+Missing 11 3.0
+age Below 24 years 16 4.3
+25-29 years 58 15.6
+30-34 years 84 22.6
+35-39 years 50 13.5
+40-49 years 120 32.3
+50 years and above 39 10.5
+Missing 4 1.1
+Highest academic qualification technical/Vocational 13 3.5
+sssCe 9 2.4
+Diploma/HnD 39 10.5
+Bachelors’ Degree 144 38.8
+Masters’ Degree 136 36.7
+Doctorate Degree 29 7.8
+Missing 1 0.3
+staff category senior Member 85 22.9
+senior s taff 183 49.3
+Junior s taff 91 24.5
+Missing 3 0.8
+Length of service Below 1 year 59 15.9
+2-3 years 63 17.0
+4-6 years 57 15.4
+above 6 years 179 48.2
+Missing 13 3.5
+no 58 15.6
+Missing 4 1.1
+<<<PAGE=9>>>
+8 c. O. sOMUah et al.
+(respondents’ demographics features) which collected nominal data. a ll other items on training, organi -
+zational politics, self-efficacy, job performance, and the control variables are ordinal data measured on a 
+five-point likert scale, ranging from strongly disagree (1) to strongly agree (5). the construct column in 
+table 2  provides the items of each variable.
+3.4.  Reliability and validity measurement
+composite reliability and c ronbach’s alpha reliability tests are employed in this study to estimate the 
+consistency (reliability) of the instruments (n kukpornu et  al., 2020). a c ronbach’s alpha coefficient 
+greater than 0.7, is enough to accept that the instrument is reliable and good for analysis (hair et  al., 
+2019; Jalloh et  al., 2019). a s reported in table 2 , all the factor loadings for each item are significant, 
+ranging from 0.599 to 0.872, indicating strong convergent validity. i n addition, a Ve scores are generally 
+above the threshold value of 0.5, demonstrating the validity of the instruments. Moreover, it can be 
+observed that the composite reliability ( cR) and c ronbach’s alpha values ( ca) are also generally higher 
+than the minimum cutoff point of 0.7, which also illustrates strong scale reliability.
+confirmatory factor analysis assessing the performance of the six factors suggests that the model 
+provides a good fit to the data. Basing on the criterion as suggested by Kline (2004) and hair et  al. 
+(2019) that a good fit model should have a normed chi-square (X 2/df ) of less than 5 as well as a com -
+parative fit index ( cFi) above 0.90; a standardized root mean square residual (sRMR) close to .04; and a 
+root mean square error of approximation (RMsea ) less than 0.08, we can conclude that the model is a 
+good fit. a gain, the fitness of the sub-models in the six-factor model further emphasized the overall 
+fitness of the model used in this study ( table 3 ). thus, the model thoroughly accounts for all the dynam -
+ics and characteristics inherent in the data, and is therefore suitable for further analysis. a ll model fit 
+indices for each construct exceed the standard criteria and demonstrated the adequacy of the proposed 
+model to analyze the connection between training, self-efficacy, organizational politics, and employee 
+performance.
+4.  Results
+Descriptive and correlation analyses (mean, standard deviation, and correlation coefficients) indicating 
+the scope and degree of association of all the variables show that training had a significant positive 
+relationship with self-efficacy and job performance ( r = 0.139, p < 0,05; r = 0.258, p < 0.01). although the 
+association between training and organizational politics is positive, it is insignificant at the 5% signif -
+icance level. Meanwhile, there is a significant positive association between organizational politics and 
+job performance ( r = 0.133, p < 0.05). table 4  indicates that it is possible to test the hypotheses (h1 
+– h3).
+4.1.  Baseline (direct) SEM regression results
+table 5  presents the estimates of the effect of training and self-efficacy and organizational politics on 
+three indicators (task, contextual, and adaptive) of performance under each of the three models: (1), (2), 
+and (3). there is a significant positive effect of training on adaptive performance (β = β = .24, p < 1%), as 
+observed in model (3). however, the results reveal that there is no statistically significant relationship 
+between training and task and contextual performance, as reported by models (1) and (2). c oncerning 
+the effect of organizational politics, there is a positive significant effect on task and contextual perfor -
+mance at 1% and 5% (β = .141, p < 1%, β = .08, p < 5%), respectively. therefore, it can be conclude that 
+organizational politics are relevant for increasing both task and contextual performance. On the contrary, 
+there is no indication that organizational politics has an effect on employees’ adaptive performance, even 
+at the 10% significance level, as observed in model (3) [β = -.006, p > 10%]. however, for the relationship 
+between self-efficacy and job performance, all results from the three models indicated a significant pos -
+itive relationship at the 1% significance level. thus, self-efficacy generally improves employee 
+performance.
+<<<PAGE=10>>>
+cOgent BUsiness & ManageMent 9
+4.2.  Mediation—moderation results
+this study further investigates whether organizational politics moderated the effect of training and 
+self-efficacy on performance. the results from Model (1) indicate that organizational politics moderates 
+the effect of self-efficacy on task performance (β = −.012, p < 1%), but not the relationship between 
+training and task performance (β = .01, p > 10%, ns). i n Model (2), the effects of both training (β = .049, 
+p < 5%) and self-efficacy (β = −.07, p < 1%) on contextual performance are moderated by organizational 
+politics. On the other hand, Model (3) reports that the interaction of organizational politics and training 
+(β = −.044, p > 10%, ns) does not have any statistical effect on adaptive performance. i n contrast, the 
+results show that the interaction between organizational politics and self-efficacy (β = −.052, p < 10%) 
+Table 2. Reliability and validity tests.
+Construct items Loadings Bootstrap aVe CR Ca
+training training programs that guide you 
+towards professional and career 
+development are provided
+.598 (fixed) .599 .560 .883 .882
+there are regular seminars and 
+professional speeches
+.877 (9.910) .876
+Workshop focused on equipping you 
+with relevant competencies and 
+skills
+.756 (9.537) .757
+Conference and symposium are 
+provided…
+.736 (9.230) .737
+self-efficacy When i am confronted with a 
+challenge, i can usually find…
+.761 (fixed) .763 .468 .813 .810
+i have confidence when performing 
+my roles
+.618 (9.292) .616
+i can stay calm when i face difficulties 
+as i can rely …
+.645 (9.684) .645
+i try to find innovative ways of doing 
+things
+.785 (11.40) .785
+i can usually manage to solve difficult 
+issues if i try hard
+.588 (8.835) .587
+organizational politics People do what is best for them not 
+what’s best for the organization
+.763 (fixed) .762 .502 .831 .829
+People are working behind the scenes 
+to ensure that they …
+.762 (11.781) .762
+Many employees are trying to 
+maneuver their way into …
+.791 (12.154) .790
+individuals are stabbing each other in 
+the back to look…
+.673 (10.439) .675
+there is a group of people in my 
+department who constantly ….
+.516 (7.937) .514
+task performance i make sure i am able to achieve the 
+results expected of me
+.581 (fixed) .581 .532 .819 .819
+i adequately complete assigned duties 
+without much supervision
+.806 (9.031) .805
+i fulfil multiple responsibilities to 
+achieve organisational goals
+.755 (8.874) .752
+i am passionate about my work .763 (8.828) .759
+Contextual 
+performance
+i corporate with other workers in my 
+department
+.723 (fixed) .722 .502 .800 .799
+i am able to accept and learn from 
+my mistakes
+.781 (10.15) .782
+i actively take part in group 
+discussions and work meetings
+.613 (8.71) .608
+i communicate with my co-workers 
+and superiors
+.708 (9.83) .700
+adaptive performance i come up with creative solutions to 
+problems
+.824 (fixed) .824 .597 .851 .850
+i keep institutional records/ 
+information up to date
+.816 (14.75) .816
+i can effectively handle my work in 
+the face of changes
+.874 (15.62) .872
+i can deal with unexpected event .527 (8.69) .525
+Fitness indices of measurement model
+test X2/df CFI SRMR RMSEA
+score 3.77 0.98 0.04 0.07
+Note: estimates in parenthesis are the t-Values.
+<<<PAGE=11>>>
+10 c. O. sOMUah et al.
+has a small but significant negative effect on adaptive performance ( table 5 ). Figures 2–5 show a graph -
+ical representation of these relationships.
+the mediating role of self-efficacy in the relationship between training and performance measures is 
+then examined with and without the moderating effect of organizational politics. i t can be observes 
+from table 6  that self-efficacy mediates the effects of training on adaptive, task, and contextual perfor -
+mance. the nature of the mediation effect is identified to be full with the training-task and 
+training-contextual performance relationships but partially mediates the effect of training on adaptive 
+performance (0.10, 95% bias-corrected ci [0.024 0.170], 0.11 at a 95% bias-corrected ci [0.027 0.178], 
+-0.091 at a 95% bias-corrected ci [-0.159 -0 .024], respectively). there is no indication that self-efficacy 
+mediates the effect of organizational politics on performance measures. Focusing on the moderated 
+mediation effect of self-efficacy, it can be observed that controlling for the effect of organizational poli -
+tics does not instigate any significant change in the mediating role of self-efficacy. thus, organizational 
+politics do not moderate the mediation effect of self-efficacy on the relationship between training and 
+Table 3. Validation of first order construct.
+CFa model χ2 df χ2/df P-Value RMsea CFi sRMR
+1. training 0.015 2 0.008 .99 .00 1.00 .00
+2. s elf-efficacy 8.732 5 1.746 .12 .05 0.99 .03
+3. o rganisational politics 1.765 5 .353 .88 .00 1.00 .01
+4. task performance 1.422 2 .711 .49 .00 1.00 .01
+5. Contextual 
+performance
+2.260 2 1.130 .32 .02 .99 .01
+6. a daptive performance 1.206 2 .603 .55 .00 1.00 .00
+Note: χ 2 =Chi-square; DF = degree of freedom; RMsea = root mean square error of approximation; CFi = comparative fit index; sRMR = standard-
+ized root mean.
+Table 4. Descriptive and correlation analysis.
+Mean sD 1 2 3 4 5 6
+1. training 2.877 0.876 1.000
+2. se 4.069 0.626 .139* 1000
+3. oP 3.372 0.791 .012 .021 1.000
+4. task 4.357 0.618 .063 .591** .133* 1.000
+5. Contextual 4.348 0.563 .105 .569** .069 .662** 1.000
+6. a daptive 4.156 0.679 .258** .527** −.013 .562** .585** 1.000
+Note: * and ** indicate significance at the 5% and 1% levels, respectively; se, self-efficacy and oP , organizational politics.
+Table 5. seM regression analysis.
+Variable task performance (1) Contextual performance (2) adaptive performance (3)
+• intercept 4.27 (.210) *** 4.43 (.20) *** 4.14 (.245) ***
+• gender .121 (.06) ** −0.012 (.057) −0.02 (.07)
+• age .012 (.025) −0.004 (.02) −0.011 (.029)
+• academic Qualification −0.031 (.036) −0.013 (.035) 0.02 (.042)
+Hypothesised paths
+• training 0.049 (.053) −0.006 (.05) 0.24 (0.062) ***
+• oP 0.141 (0.04) *** 0.08 (.038) ** −0.006 (.047)
+• se 0.58 (.049) *** 0.51 (.046) *** 0.559 (0.057) ***
+• training*oP 0.01 (.026) 0.049 (.024) ** −0.044 (.031)
+• se*oP −0.12 (.026) *** −0.07 (.024) *** −0.052 (.03) *
+Model fit
+Deviance 5474.22 5446.67 5559.06
+X2 ( p-value) 0.625 (0.732) 0.625 (0.732) 0.625 (0.732)
+RMsea 0.000 0.000 0.000
+ CFi 1.000 1.000 1.000
+sRMR 0.000 0.000 0.000
+aiC 5508.22 5480.66 5592.06
+R-square 0.162 0.118 0.127
+Note: (1).
+***p < 0.01.
+**p < 0.05.
+*p > 0.1,
+(2) se, s elf-efficacy; oP , organizational, CFi, comparative fit index.
+<<<PAGE=12>>>
+cOgent BUsiness & ManageMent 11
+performance measures. Figures 6 –9 presentthe plot of the moderation effect of training and self-efficacy 
+on performance measures at various levels of organizational performance.
+5.  Discussion of findings
+the findings from the direct regression results indicate that training had a significant positive effect on 
+adaptive performance against task and contextual performance. this implies that an enhancement in 
+the training programs for the university staff, particularly non-teaching staff, and increases the capacity 
+of the staff to adapt to conditions within the working environment rather than enabling them to 
+improve their task and contextual performance. Based on this result, hypothesis H1 is supported. this 
+finding is in line with Wamwayi et  al. ( 2016), who find that training needs appraisal, length of training, 
+training method, and training feedback positively affect the productivity of non-teaching employees in 
+their study of public universities in Kenya. i n other words, for universities to improve the productivity 
+of their staff in order to gain competitive advantage, training programs should be highly considered in 
+any decision aimed at driving changes and modifications in the structure and process of business at 
+universities. a ccording to the literature, a fast-paced digital world requires employees to have the 
+knowledge, skills, and capabilities required to adapt to new processes and production methods. through 
+training, the findings of this study suggest that non-teaching staff will be able to acquire the 
+Figure 2.  Path Diagram of the e ffect of training, s elf-efficacy and o rganisational Politics on o verall Performance.
+Figure 3.  Path Diagram of the e ffect of training, s elf-efficacy and o rganisational Politics on task Performance.
+<<<PAGE=13>>>
+12 c. O. sOMUah et al.
+capabilities needed to fuel their drive to adapt and use new processes and systems within the univer -
+sity environment.
+Regarding the mediating role of self-efficacy in the relationship between training practices and job 
+performance, the results indicate that the nature of the mediating role of self-efficacy is dependent on 
+the dimension of performance under investigation. c oncerning the impact of training on adaptive per -
+formance, the findings of this study suggest partial mediation of self-efficacy. however, for task and 
+Figure 4.  Path Diagram of the e ffect of training, s elf-efficacy and o rganisational Politics on Contextual Performance.
+Figure 5.  Path Diagram of the e ffect of training, s elf-efficacy and o rganisational Politics on a daptive Performance.
+Table 6. Mediating effect of self-efficacy (indirect effect).
+indirect effect - without interactions
+adaptive performance task performance Contextual performance
+Politics −.014 [−.069 .041] −.014 [−.073 .043] 0.012 [−.063 .037]
+training .10 [.025 .174] .11 [.027 .178] −0.091 [−.159 −.024]
+indirect effect—with interactions
+adaptive performance task performance Contextual performance
+Politics −.012 [−.068 .041] −.014 [−.070 .043] 0.013 [−.061 .037]
+training .10 [.025 .173] .10 [.026 .178] −0.089 [−.156 −.023]
+Note: bias corrected confidence interval in parentheses.
+<<<PAGE=14>>>
+cOgent BUsiness & ManageMent 13
+contextual performance indicators, the results of this study suggest that self-efficacy fully mediates the 
+effect of training on task performance. this implies that training can only lead to higher task and con -
+textual performance because there is a resultant increment in the self-efficacy of the non-teaching staff. 
+this confirms the findings of haccoun and s aks ( 1998), which conclude a similar mediating effect of 
+self-efficacy on the relationship between training and employee performance. the findings further indi -
+cate that a higher level of self-efficacy is required to improve task, contextual, and adaptive performance; 
+thus, hypotheses H a2 and H b2 are all supported. a gain, tojjari et  al. ( 2013) report that the self-efficacy of 
+sports referees is a significant contributor to the intrinsic and extrinsic elements of job satisfaction. 
+Figure 6.  Plot of the Moderation of o rganisational Politics on s elf-efficacy – a daptive Performance Relationship.
+Figure 7.  Plot of the Moderation of o rganisational Politics on s elf-efficacy – Contextual Performance Relationship.
+Figure 8.  Plot of the Moderation of o rganisational Politics on s elf-efficacy – task Performance Relationship.
+<<<PAGE=15>>>
+14 c. O. sOMUah et al.
+Workers with high self-efficacy usually work hard to learn how to carry out new tasks because they are 
+sure that their hard work will be successful. On the other hand, workers with low self-efficacy might 
+exert less effort to learn and perform complex tasks because they are unsure that their efforts would be 
+successful.
+We observe that organizational politics do not have a statistically significant positive effect on 
+task and contextual performance, but not on adaptive performance. notwithstanding this mixed 
+effect, evidence indicates that it negatively moderates the effect of self-efficacy on task, contex -
+tual, and adaptive performance. thus, H3, which states that the path from self-efficacy to perfor -
+mance outcomes is leveraged by organizational politics, is strongly supported. however, this study 
+did not find any evidence that organizational politics moderated the effect of training on 
+self-efficacy.
+however, we find that the effect of training on contextual performance can be moderated by the 
+existence of organizational politics. this result therefore demonstrates the varied effect of organiza -
+tional politics at the workplace and is indicative of the fact that stakeholders handle organizational 
+politics with some level of circumspection and tone; the mixed findings concord with the study by 
+Ugwu et  al. ( 2014), who argue that bad political behavior negatively influences the productivity of 
+workers and decreases overall organizational productivity, while great political behavior positively 
+influences the performance of workers and raises organizational productivity. i n addition, a bbas and 
+Raja ( 2014) and Vigoda- gadot (2007) report that the perception of organizational politics has a mixed 
+effect on performance.
+6.  Conclusion and implications
+6.1.  Conclusion
+this study aims to examine the role that self-efficacy plays in enhancing the benefit of training on employees’ 
+job performance in the organization. additionally, the study further investigates how organizational politics 
+influences self-efficacy in its mediation role in the relationship between training and job performance. the 
+structural equation modeling technique is employed to analyze the data with the help of a survey question -
+naire from 370 non-teaching staff of public universities in Kumasi, ghana, which are randomly sampled. We 
+suggest that job training practices can influence employee performance due to the resultant improvement in 
+self-efficacy. this work highlights that training on its own does not necessarily result in an increment in the 
+job performance of non-teaching staff, unless self-efficacy is actualized or boosted.
+6.2.  Theoretical implications
+theoretically, the current study has pointed out the heterogeneous effect of organizational politics 
+and how an uncontrolled political climate within the workplace can be harmful to employees’  
+Figure 9.  Plot of the Moderation of o rganisational Politics on training – a daptive Performance Relationship.
+<<<PAGE=16>>>
+cOgent BUsiness & ManageMent 15
+self-efficacy and extending their performance on the job. On its own, organizational politics is iden -
+tified as a boosting task and contextual performance; however, it minimizes the effect of self-efficacy 
+on task and contextual performance. therefore, it can produce net harm or benefit depending on 
+the direct effect size on performance measures (particularly task and contextual performance). this 
+calls for circumspection of the extent to which politics are practiced and encouraged at the work -
+place, particularly among non-teaching staff. Furthermore, the study highlighted the significance of 
+training in boosting the adaptive performance of non-teaching staff. this emphasizes the critical role 
+that training plays in managing change and motivating employees to take up new challenges and 
+improve the status quo in the workplace. the study therefore theorizes that training targeted at 
+improving skills, competence, and instilling a sense of self-belief among workers is vital for improv -
+ing employee performance.
+6.3.  Practical and managerial implications
+Our findings have the following implications for management and practice. First, there is a need for 
+managers (university management) to periodically build workers’ capacity to improve their level of 
+self-efficacy. Based on the result that training increases self-efficacy, which enhances work outcomes, 
+we again recommend that human resource managers concentrate on training regimes that not only 
+improve the task capacity of the working staff, but also build their level of self-efficacy. i n this regard, 
+training that requires mentorship and coaching or job training is recommended compared with train -
+ing through symposiums and conferences. through coaching or mentoring, workers receive advice and 
+support from supervisors, which is likely to enhance self-efficacy. Finally, employers must put systems 
+and measures in place to balance the level of politics in the workplace. Politics itself is not a bad 
+thing; the problem is that when it is unchecked, it negatively impacts employees’ output, which may 
+accumulate and jeopardize work outcomes. there is a need for authorities to handle organizational 
+politics at some level of circumspection and tact. therefore, it is important for every political maneuver 
+to be regulated.
+7.  Limitation and further studies
+this study had some limitations that need to be acknowledged. the first issue to recognize as far as the 
+limitations of the study are concerned is the complexity of job performance. Job performance is com -
+plex, multi-faceted, and underpinned by several variables; the researcher concentrates on only two main -
+stream variables directly related to the research problem and topic under study. a gain, the use of only 
+closed-ended items in collecting the data made it impossible for respondents to provide unsolicited 
+responses. Moreover, although the use of triangulation in collecting research data significantly improves 
+the validity of the data, questionnaires are the only instrument used to collect data. Future studies can 
+take the opportunity and include more variables that may affect job performance and examine their 
+relationship. Furthermore, future studies can take advantage of triangulation in data collection by includ -
+ing other designs, such as interviews and other qualitative means, in addition to the quantitative design 
+employed in the current study.
+Author’s contributions
+claudia Omari s omuah: collected the responses for analysis; data analysis or perform the analysis, and draft the 
+paper. henry Kofi Mensah: conceived the research idea, supervised and validate the analysis. Prince gyimah: Designed 
+the analysis, revised the paper, and supervised.
+Disclosure statement
+no potential conflict of interest was reported by the author(s).
+<<<PAGE=17>>>
+16 c. O. sOMUah et al.
+Funding
+the authors received no direct funding for this research.
+About the authors
+Claudia Omari Somuah  is a PhD student at Kwame nkrumah University of science and technology. she is an 
+assistant Registrar and a part-time lecturer at the a kenten a ppiah-Menkah University of skills training and 
+entrepreneurial Development. her research interests are in human Relations, Organizational Development and 
+socially responsible hRM.
+Henry Kofi Mensah  holds a PhD in Organizational Development from the Kwame n krumah University of s cience and 
+technology (KnUst ). henry is an a ssociate Professor of Management at KnUst , and has over 10 years’ experience 
+in teaching and researching Organizational Behaviour, Business sustainability, Responsible Management and small 
+Business strategy.
+Prince Gyimah  is a l ecturer at the Department of a ccounting s tudies e ducation, a kenten a ppiah-Menka University 
+of skills training and entrepreneurial Development, ghana. he received his PhD in a ccounting from Kwame n krumah 
+University of s cience and technology, and is actively involved in research covering the areas of accounting, business, 
+or management.
+ORCID
+Prince gyimah  http://orcid.org/0000-0002-4750-1326
+Data availability statement
+Data availability statement will be made available on request.
+References
+abbas, M., & Raja, U. ( 2014). i mpact of perceived organizational politics on supervisory-rated innovative performance 
+and job stress: e vidence from Pakistan. Journal of Advanced Management Science , 2(2), 1–19. https://doi.
+org/10.12720/joams.2.2.158-162
+abu-tineh, a. M., Romanowski, M. h., chaaban, Y., a lkhatib, h., ghamrawi, n., & a lshaboul, Y. M. ( 2023). c areer ad -
+vancement, job satisfaction, career retention, and other related dimensions for sustainability: a perception study 
+of Qatari public school teachers. Sustainability, 15(5), 4370. https://doi.org/10.3390/su15054370
+ahmad, J., akhtar, h. M. W., Rahman, h., & Muhammad, R. ( 2017). effect of diversified model of organizational politics 
+on diversified emotional intelligence. Journal of Basic and Applied Sciences , 13, 375–385.
+akoto, e., Owusu, e ., gyimah, P ., acheampong, a., & a du-Brobbey, V, henderson s tate University, Usa. ( 2022). c ultural 
+profile as determinant of work outcomes in a collectivist context. Journal of Global Awareness , 3(2), 1–24. https://
+doi.org/10.24073/jga/3/02/07
+awaah, F. (2023). Does organisational politics moderates the relationship between organisational culture and employee 
+efficiency? Journal of Economic and Administrative Sciences , forthcoming. https://doi.org/10.1108/Jeas-12-2022-0264
+Bandura, a. ( 2012). On the functional properties of perceived self-efficacy revisited. Journal of Management , 38(1), 
+9–44. https://doi.org/10.1177/0149206311410606
+Bandura, a. ( 2015). On deconstructing commentaries regarding alternative theories of self-regulation. Journal of 
+Management, 41(4), 1025–1044. https://doi.org/10.1177/0149206315572826
+Bandura, a., & cervone, D. ( 1986). Differential engagement of self-reactive influences in cognitive motivation. 
+Organizational Behavior and Human Decision Processes , 38(1), 92–113. https://doi.org/10.1016/0749-5978(86)90028-2
+Bandura, a., & l ocke, e . a. ( 2003). negative self-efficacy and goal effects revisited. The Journal of Applied Psychology , 
+88(1), 87–99. https://doi.org/10.1037/0021-9010.88.1.87
+Bandura, a., Barbaranelli, c., c aprara, g. V., & Pastorelli, c. (2001). s elf‐efficacy beliefs as shapers of children’s aspira -
+tions and career trajectories. Child Development , 72(1), 187–206. https://doi.org/10.1111/1467-8624.00273
+Baron, R. M., & Kenny, D. a. ( 1986). the moderator–mediator variable distinction in social psychological research: 
+conceptual, strategic, and statistical considerations. Journal of Personality and Social Psychology , 51(6), 1173–1182. 
+https://doi.org/10.1037/0022-3514.51.6.1173
+Bonsu, a. B., a ppiah, K. O., gyimah, P ., & Owusu- afriyie, R. ( 2022). Public sector accountability: do leadership practic -
+es, integrity and internal control systems matter? IIM Ranchi Journal of Management Studies , 2(1), 4–15. https://doi.
+org/10.1108/iRJMs-02-2022-0010
+<<<PAGE=18>>>
+cOgent BUsiness & ManageMent 17
+Bukhari, i., & Kamal, a. ( 2015). Relationship between perceived organizational politics and its negative outcomes: 
+Moderating role of perceived organizational support. Pakistan Journal of Psychological Research , 30(2), 271–288.
+canrinus, e. t., helms-lorenz, M., Beijaard, D., Buitink, J., & hofman, a. ( 2012). s elf-efficacy, job satisfaction, motivation 
+and commitment: exploring the relationships between indicators of teachers’ professional identity. European 
+Journal of Psychology of Education , 27(1), 115–132. https://doi.org/10.1007/s10212-011-0069-2
+carter, W. R., nesbit, P . l., Badham, R. J., Parker, s. K., & sung, l. K. ( 2018). the effects of employee engagement and 
+self-efficacy on job performance: a longitudinal field study. The International Journal of Human Resource 
+Management, 29(17), 2483–2502. https://doi.org/10.1080/09585192.2016.1244096
+chatterjee, s., chaudhuri, R., Vrontis, D., & giovando, g. ( 2023). Digital workplace and organization performance: 
+Moderating role of digital leadership capability. Journal of Innovation & Knowledge , 8(1), 100334. https://doi.
+org/10.1016/j.jik.2023.100334
+chiaburu, D. s., & lindsay, D. R. ( 2008). can do or will do? the importance of self-efficacy and instrumentality for train -
+ing transfer. Human Resource Development International, 11(2), 199–206. https://doi.org/10.1080/13678860801933004
+cooper-thomas, h. D., & Morrison, R. l. ( 2018). give and take: needed updates to social exchange theory. Industrial 
+and Organizational Psychology , 11(3), 493–498. https://doi.org/10.1017/iop.2018.101
+Dessler, g. ( 2006). a framework for human resource management: Pearson e ducation i ndia.
+Febrian, F. K., Maarif, s., & hubeis, a. ( 2016). the role of leadership, motivation and training on employee perfor -
+mance in Pt XYZ. International Journal of Scientific and Research Publications , 6(8), 119–125.
+Ferris, g. R., Bhawuk, D. P ., Fedor, D. F., & Judge, t. a. ( 2018). Organizational politics and citizenship: a ttributions of 
+intentionality and construct definition. in Attribution theory  (pp. 231–252). Routledge.
+garavan, t., Mcc arthy, a., lai, Y., Murphy, K., sheehan, M., & carbery, R. ( 2021). training and organisational perfor -
+mance: a meta‐analysis of temporal, institutional and organisational context moderators. Human Resource 
+Management Journal , 31(1), 93–119. https://doi.org/10.1111/1748-8583.12284
+grossman, R., & s alas, e . ( 2011). the transfer of training: what really matters. International Journal of Training and 
+Development, 15(2), 103–120. https://doi.org/10.1111/j.1468-2419.2011.00373.x
+guerra, R., Bierwiaczonek, K., Ferreira, M., g olec de Zavala, a., a bakoumkin, g., Wildschut, t., & s edikides, c. ( 2022). 
+an intergroup approach to collective narcissism: intergroup threats and hostility in four european Union countries. 
+Group Processes & Intergroup Relations , 25(2), 415–433. https://doi.org/10.1177/1368430220972178
+gyimah, P ., appiah, K. O., & a ppiagyei, K. ( 2023). s even years of United nations’ sustainable development goals in 
+africa: a bibliometric and systematic methodological review. Journal of Cleaner Production , 395, 136422. https://doi.
+org/10.1016/j.jclepro.2023.136422
+gyimah, P ., a ppiah, K. O., & l ussier, R. n. ( 2020). success versus failure prediction model for small businesses in 
+ghana. Journal of African Business , 21(2), 215–234. https://doi.org/10.1080/15228916.2019.1625017
+gyimah, P ., Otoo, J. a., Zoiku, s., & Krapah, e . O. ( 2022). nexus between the c OsO framework and the effectiveness 
+of internal control systems: Public universities’ perspectives. Euro Med J. of Management , 4(4), 315–331. https://doi.
+org/10.1504/eMJM.2022.127445
+haccoun, R. R., & s aks, a. M. ( 1998). training in the 21st century: s ome lessons from the last one. Canadian Psychology/
+Psychologie Canadienne , 39(1-2), 33–51. https://doi.org/10.1037/h0086793
+hair, J. F., Page, M., & Brunsveld, n. ( 2019). Essentials of business research methods . Routledge.
+halawi, a., & haydar, n. ( 2018). effects of training on employee performance: a case study of Bonjus and Khatib and 
+alami c ompanies. International Humanities Studies , 5(2), 24–45.
+haryono, s., supardi, s., & Udin, U. ( 2020). the effect of training and job promotion on work motivation and its 
+implications on job performance: e vidence from i ndonesia. Management Science Letters , 10(9), 2107–2112. https://
+doi.org/10.5267/j.msl.2020.1.019
+hochwarter, W. a., Kacmar, c., Perrewé, P . l., & Johnson, D. ( 2003). Perceived organizational support as a mediator of 
+the relationship between politics perceptions and work outcomes. Journal of Vocational Behavior , 63(3), 438–456. 
+https://doi.org/10.1016/s0001-8791(02)00048-9
+horsey, e . M., guo, l., & huang, J. ( 2023). e thical party culture, control, and citizenship behavior: e vidence from 
+ghana. Humanities and Social Sciences Communications , 10(1), 1–11. https://doi.org/10.1057/s41599-023-01698-8
+idris, i., a di, K. R., s oetjipto, B. e ., & supriyanto, a. s. ( 2020). the mediating role of job satisfaction on compensation, 
+work environment, and employee performance: e vidence from i ndonesia. Entrepreneurship and Sustainability Issues , 
+8(2), 735–750. https://doi.org/10.9770/jesi.2020.8.2(44)
+Jabbar, h., chanin, J., haynes, J., & slaughter, s. ( 2020). teacher power and the politics of union organizing in the 
+charter sector. Educational Policy , 34(1), 211–238. https://doi.org/10.1177/0895904819881776
+Jalloh, B. M. Y., a ppiah, K. O., & gyimah, P . ( 2019). Does gender affect loan default? EuroMed J. of Management , 3(1), 
+42–49. https://doi.org/10.1504/eMJM.2019.099956
+Kacmar, K. M., & Baron, R. a. ( 1999). Organizational politics. Research in Human Resources Management , 1, 1–39.
+Kanapathipillai, K., & a zam, s. F. ( 2020). the impact of employee training programs on job performance and job 
+satisfaction in the telecommunication companies in Malaysia. European Journal of Human Resource Management 
+Studies, 4(3), 1–17. https://doi.org/10.46827/ejhrms.v4i3.857
+Khan, a., & chaudhary, R. ( 2023). Perceived organizational politics and workplace gossip: the moderating role of 
+compassion. International Journal of Conflict Management, 34(2), 392–416. https://doi.org/10.1108/iJcMa-07-2022-0121
+<<<PAGE=19>>>
+18 c. O. sOMUah et al.
+Kirkpatrick, D. ( 1996). Revisiting Kirkpatrick’s four-level model. Training and Development , 50(1), 54–57.
+Krejcie, R. V., & Morgan, D. W. ( 1970). Determining sample size for research activities. Educational and Psychological 
+Measurement, 30(3), 607–610. https://doi.org/10.1177/001316447003000308
+lazzara, e . h., Benishek, l. e ., hughes, a. M., Zajac, s., spencer, J. M., heyne, K. B., Rogers, J. e ., & s alas, e . ( 2021). 
+enhancing the organization’s workforce: guidance for effective training sustainment. Consulting Psychology Journal: 
+Practice and Research , 73(1), 1–26. https://doi.org/10.1037/cpb0000185
+lin, c. Y., & huang, c. K. ( 2021). employee turnover intentions and job performance from a planned change: the 
+effects of an organizational learning culture and job satisfaction. International Journal of Manpower , 42(3), 409–423. 
+https://doi.org/10.1108/iJM-08-2018-0281
+lin, s. R., & hsu, c. c. ( 2017). a study of impact on-job training on job performance of employees in catering indus -
+try. International Journal of Organizational Innovation , 9(3), 125a.
+locke, e . a., & latham, g. P . (1990). A theory of goal setting and task performance . Prentice-hall, i nc.
+lyons, e . ( 2020). the impact of job training on temporary worker performance: Field experimental evidence from 
+insurance sales agents. Journal of Economics & Management Strategy , 29(1), 122–146. https://doi.org/10.1111/
+jems.12333
+lyons, P ., & Bandura, R. ( 2022). c oaching to enhance learning and engagement and reduce turnover. Journal of 
+Workplace Learning, 34(1), 27–40. https://doi.org/10.1108/JWl-04-2021-0037
+Mangkunegara, a. P . ( 2021). the role of transformational leadership in building work engagement and performance 
+of business company managers. Journal of Legal, Ethical and Regulatory Issues , 24, 1–19.
+Mangkunegara, a. P ., & a gustine, R. ( 2016). effect of training, motivation and work environment on physicians’ per -
+formance. Academic Journal of Interdisciplinary Studies , 5(1), 173–188. https://doi.org/10.5901/ajis.2016.v5n1p173
+Mohammed, M., gyimah, P ., & a disa, i. ( 2023). Drivers and challenges of social media usage in ghana’s local govern -
+ment administration. i n Public sector marketing communications, volume ii: traditional and digital perspectives  (pp. 
+131–153). springer international Publishing.
+nkukpornu, e ., gyimah, P ., & s akyiwaa, l. ( 2020). Behavioural finance and investment decisions: does behavioral bias 
+matter. International Business Research , 13(11), 65. https://doi.org/10.5539/ibr.v13n11p65
+noori, R., shoaib, s., & Mujtaba, B. g. ( 2022). a ntecedents and consequences of perception of organizational politics: 
+empirical evidence for public sector universities in eastern a fghanistan. Public Organization Review , 23(4), 1477–
+1503. https://doi.org/10.1007/s11115-022-00685-y
+nyaisu, a., Muya, J., & ngacho, c. ( 2017). the influence of employee training implementation on job performance: a 
+case of the non-teaching staff of the University of Kabianga, Kenya. International Journal of Social Science and 
+Information Technology, 3(5), 2138–2146.
+Olonade, Z. O., a jibola, K. s., & Omotoye, O. O. ( 2020). a ntecedents of perceived job commitment among employees 
+of local government in ilesha metropolis. Quest Journal of Management and Social Sciences , 2(2), 225–239. https://
+doi.org/10.3126/qjmss.v2i2.33272
+Park, s., Kang, h. s., & Kim, e . J. ( 2018). the role of supervisor support on employees’ training and job performance: 
+an empirical study. European Journal of Training and Development , 42(1/2), 57–74. https://doi.org/10.1108/
+eJtD-06-2017-0054
+Pradhan, R. K., & Jena, l. K. ( 2017). employee performance at workplace: c onceptual model and empirical validation. 
+Business Perspectives and Research , 5(1), 69–85. https://doi.org/10.1177/2278533716671630
+Riaz, a., Jamil, s. a., & Mahmood, s. ( 2023). Organizational politics and affective commitment of expatriates: 
+Moderating role of islamic work ethics. Asian Journal of Business Ethics ,  12(2), 419-439.
+sakyiwaa, l., gyimah, P ., & n kukpornu, e . ( 2020). Preferred investment vehicles of salaried workers of universities in 
+sub-saharan a frica. EuroMed J. of Management , 3(3/4), 288–305. https://doi.org/10.1504/eMJM.2020.113091
+salas, e ., & c annon-Bowers, J. a. ( 2001). the science of training: a decade of progress. Annual Review of Psychology , 
+52(1), 471–499. https://doi.org/10.1146/annurev.psych.52.1.471
+salman, M., Khan, M. n., Draz, U., iqbal, M. J., & a slam, K. ( 2016). i mpact of self-efficacy on employee’s job perfor -
+mance in health sector of Pakistan. American Journal of Bossiness and Society , 1(3), 136–142.
+sarantakos, s. ( 2005). Social research (Third Edition) . Palgrave Macmillan.
+sarpong-Danquah, B., gyimah, P ., Poku, K., & Osei-Poku, B. ( 2018). Financial literacy assessment on tertiary students 
+in sub-s aharan a frica: a ghanaian perspective. International Journal of Accounting and Financial Reporting , 8(2), 
+76–91. https://doi.org/10.5296/ijafr.v8i2.12928
+sheeba, M. J., & christopher, P . B. ( 2020). exploring the role of training and development in creating innovative work 
+behaviors and accomplishing non-routine cognitive jobs for organizational effectiveness. Journal of Critical Reviews , 
+7(4), 263–267.
+showkat, s., Wani, t., & Kaur, J. ( 2023). “new normal” implications for global talent in the wake of economic nation -
+alism and slowdown. Thunderbird International Business Review , 65(1), 161–175. https://doi.org/10.1002/tie.22270
+smith, K. g., locke, e. a., & Barry, D. ( 1990). goal setting, planning, and organizational performance: an experimental simu-
+lation. Organizational Behavior and Human Decision Processes, 46(1), 118–134. https://doi.org/10.1016/0749-5978(90)90025-5
+stajkovic, a. D., Bandura, a., l ocke, e . a., l ee, D., & s ergent, K. ( 2018). test of three conceptual models of influence 
+of the big five personality traits and self-efficacy on academic performance: a meta-analytic path-analysis. 
+Personality and Individual Differences , 120, 238–245. https://doi.org/10.1016/j.paid.2017.08.014
+<<<PAGE=20>>>
+cOgent BUsiness & ManageMent 19
+thevanes, n., & Dirojan, t. ( 2018). i mpact of training and job involvement on job performance. International Journal 
+of Scientific and Management Research , 1(1), 1–10.
+tojjari, F., esmaeili, M. R., & Bavandpour, R. ( 2013). the effect of self-efficacy on job satisfaction of sport referees. 
+European Journal of Experimental Biology , 3(2), 219–225.
+Ugwu, K. e ., ndugbu, M., & Okoroji, l. i. ( 2014). Organizational politics and employees’ performance in private sector 
+investment: a comparative study of Zenith Bank Plc. and a lcon Plc. n igeria. European Journal of Business and 
+Management, 6(26), 103–116.
+Vigoda‐gadot, e . (2007). l eadership style, organizational politics, and employees’ performance: a n empirical examina -
+tion of two competing models. Personnel Review , 36(5), 661–683. https://doi.org/10.1108/00483480710773981
+Wamwayi, s. K., i ravo, M. a., elegwa, M., & gichuhi, a. W. ( 2016). Role of training needs assessment in the perfor -
+mance of non-teaching employees at management level in public universities in Kenya. International Journal of 
+Scientific and Research Publications , 6(8), 242–257.
+Yagil, D., Medler-liraz, h., & Bichachi, R. ( 2023). Mindfulness and self-efficacy enhance employee performance by 
+reducing stress. Personality and Individual Differences , 207, 112150. https://doi.org/10.1016/j.paid.2023.112150
+Yang, M., a l Mamun, a., & s alameh, a. a. ( 2023). l eadership, capability and performance: a study among private 
+higher education institutions in i ndonesia. Heliyon, 9(1), e13026. https://doi.org/10.1016/j.heliyon.2023.e13026
+Zhang, Q., sun, s., Zheng, X., & liu, W. ( 2019). the role of cynicism and personal traits in the organizational political 
+climate and sustainable creativity. Sustainability, 11(1), 257. https://doi.org/10.3390/su11010257

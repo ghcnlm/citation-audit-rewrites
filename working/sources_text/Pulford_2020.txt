@@ -1,0 +1,1264 @@
+<<<PAGE=1>>>
+Open Peer Review
+Any reports and responses or comments on the
+article can be found at the end of the article.
+RESEARCH ARTICLE
+Measuring the outcome and impact of research capacity
+strengthening initiatives: A review of indicators used or
+ described in the published and grey literature [version 1; peer
+review: 4 approved]
+Justin Pulford ,
+     Natasha Price,Jessica Amegee Quach,Imelda Bates
+Department of International Public Health, Liverpool School of Tropical Medicine, Liverpool, L3 5QA, UK
+Abstract
+ Development partners and research councils areBackground:
+increasingly investing in research capacity strengthening initiatives in low-
+and middle-income countries to support sustainable research systems.
+However, there are few reported evaluations of research capacity
+strengthening initiatives and no agreed evaluation metrics.
+ To advance progress towards a standardised set of outcomeMethods:
+and impact indicators, this paper presents a structured review of research
+capacity strengthening indicators described in the published and grey
+literature.
+ We identified a total of 668 indicators of which 40% measuredResults:
+output, 59.5% outcome and 0.5% impact. Only 1% of outcome and impact
+indicators met all four quality criteria applied. A majority (63%) of reported
+outcome indicators clustered in four focal areas, including: research
+management and support (97/400), the attainment and application of new
+research skills and knowledge (62/400), research collaboration (53/400),
+and knowledge transfer (39/400).
+Whilst this review identified few examples of quality researchConclusions: 
+capacity strengthening indicators, it has identified priority focal areas in
+which outcome and impact indicators could be developed as well as a small
+set of ‘candidate’ indicators that could form the basis of development
+efforts.
+Keywords
+Research capacity strengthening, Evaluation, Indicators, Review, LMICs
+ 
+This article is included in the Science Policy
+ gateway.Research
+       Reviewer Status
+  Invited Reviewers
+ version 1
+04 Jun 2020
+     1 2 3 4
+report
+ report
+ report
+ report
+, Dalla Lana School of PublicErica Di Ruggiero
+Health, University of Toronto, Toronto, Canada
+1
+, Institute of DevelopmentPeter Taylor
+Studies, Brighton, UK
+2
+, Global DevelopmentFrancesco Obino
+Network, New Delhi, India
+, Global Development Network,Daniel Fussy
+New Delhi, India
+3
+, London School ofMeriel Flint-O'Kane
+Hygiene and Tropical Medicine, London, UK
+4
+ 04 Jun 2020,  :517 First published: 9
+https://doi.org/10.12688/f1000research.24144.1
+ 04 Jun 2020,  :517 Latest published: 9
+https://doi.org/10.12688/f1000research.24144.1
+v1
+Page 1 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=2>>>
+Justin Pulford ( )Corresponding author: justin.pulford@lstmed.ac.uk
+  : Conceptualization, Formal Analysis, Funding Acquisition, Investigation, Methodology, Supervision, Writing – OriginalAuthor roles: Pulford J
+Draft Preparation;  : Formal Analysis, Investigation, Project Administration, Writing – Original Draft Preparation;  :Price N Amegee Quach J
+Investigation, Validation, Writing – Review & Editing;  : Conceptualization, Funding Acquisition, Methodology, Writing – Review & EditingBates I
+ No competing interests were disclosed.Competing interests:
+ This work was funded by the American Thoracic Society.Grant information:
+The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+ © 2020 Pulford J  . This is an open access article distributed under the terms of the  , whichCopyright: et al Creative Commons Attribution License
+permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+ Pulford J, Price N, Amegee Quach J and Bates I. How to cite this article: Measuring the outcome and impact of research capacity
+strengthening initiatives: A review of indicators used or described in the published and grey literature [version 1; peer review: 4
+ F1000Research 2020,  :517 approved] 9 https://doi.org/10.12688/f1000research.24144.1
+ 04 Jun 2020,  :517 First published: 9 https://doi.org/10.12688/f1000research.24144.1
+Page 2 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=3>>>
+Introduction
+Research capacity strengthening (RCS) has been defined as 
+the “process of individual and institutional development which  
+leads to higher levels of skills and greater ability to perform  
+useful research” 1. National capacity to generate robust, innova -
+tive and locally appropriate research is considered essential to  
+population health 2,3 and socioeconomic development 4,5. 
+However, wide global disparities in research capacity and 
+productivity currently exist: South Asian countries account  
+for 23% of the World’s population yet produced less than 5%  
+of the global output of scientific publications in 2013 6; and  
+sub-Saharan Africa (accounting for 13% of the global popu -
+lation), contributes 1% of global investment in research and  
+development and holds 0.1% of global patents 6. Accord -
+ingly, international development partners and research funding  
+bodies are increasingly investing in RCS initiatives in low- and  
+middle-income countries (LMICs). The UK Collaborative on 
+Development Research predicts the United Kingdom’s total aid  
+spend on research will rise to £1.2 billion by 2021 7, a  
+large proportion of which would be direct or indirect invest -
+ment in RCS in LMICs. The total global spend on RCS in  
+LMICs, while not yet calculated, would likely be many times this 
+figure.
+Despite this substantial investment, few robust evaluations of 
+RCS initiatives in LMIC contexts have been presented in the  
+published or grey literatures with the available evidence base 
+characterised by reflective, largely qualitative individual case  
+studies or commentaries 8. RCS evaluation frameworks have been 
+described9–11, but a comprehensive set of standard outcome or 
+impact indicators have not been agreed and common indicators  
+are used inconsistently. For example, publication count has been 
+used as both an output 12 and outcome indicator 13 sometimes  
+with14 or without10 accounting for publication quality.
+The dearth of robust RCS programme evaluation and, more 
+fundamentally, robust evaluation metrics available for consist -
+ent application across RCS programmes, has contributed to a  
+paradoxical situation in which investments designed to 
+strengthen the quantity, quality and impact of locally produced 
+research in LMIC settings are themselves hindered by a lack of  
+supporting evidence. As a substantial proportion of RCS invest -
+ment is derived from publicly funded development assistance 15–17, 
+then ensuring the means to reliably evaluate impact and value for  
+money of research and health system investments assumes  
+even further importance.
+This paper aims to advance progress towards the establishment 
+of a standardised set of outcome and impact indicators for use 
+across RCS initiatives in LMIC contexts. As a first step towards  
+this goal, a systematic review of RCS outcome and impact indi -
+cators previously described in the published and grey literatures 
+is presented. The review findings highlight the range, type and  
+quality of RCS indicators currently available and allows incon -
+sistencies, duplications, overlaps and gaps to be identified.  
+These results may then be used to inform planning and decision 
+making regarding the selection and/or development of stand -
+ard RCS evaluation metrics. In the interim, the resulting list  
+of indicators may also serve as a useful resource for RCS  
+programme funders, managers and evaluators as they design their 
+respective monitoring and evaluation frameworks.
+Methods
+Search strategy and study selection
+Peer reviewed publications were sought via the following 
+databases: PubMed, Global Health, CINAHL Complete and  
+International Bibliography of the Social Sciences (IBSS). The  
+search was limited to English language publications and was  
+conducted using the keywords: (research capacity) AND  
+(develop* OR build* OR strengthen*) AND (indicator) AND  
+(monitoring OR evaluation). The search was conducted with -
+out date limitations up until March 2018. Following removal of 
+duplicates, all retrieved publications were subject to an initial  
+review of the title, abstract and listed keywords. Publications  
+that met, or were suggestive of meeting, the inclusion criteria  
+were then subjected to full text review. Publications subjected  
+to full text review met the inclusion criteria if they: were  
+peer-reviewed; pertained to ‘research capacity’ (as either a  
+primary or secondary focus); and included at least one output,  
+outcome or impact indicator that has been used to measure  
+research capacity or was proposed as a possible measure of  
+research capacity.
+The search was supplemented by a manual review of the refer -
+ences listed in each paper that met the final inclusion criteria  
+and by a citation search using first author names for all papers  
+which met the final inclusion criteria from both the initial elec -
+tronic and supplementary manual searches. A further 19 papers  
+which met the inclusion criteria were identified in this way and 
+included in the review.
+Relevant grey literature was then sought via the follow -
+ing databases: Google Advanced, BASE, Grey Literature and  
+OpenGrey. The same search terms and inclusion criteria as 
+described above were used. This search was supplemented by a  
+request circulated across the authors’ personal networks for 
+relevant research reports pertaining to RCS evaluation which  
+may fit the inclusion criteria. There were seven reports identi -
+fied this way, resulting in a final sample of 25 publications and  
+seven reports. Figure 1 depicts the overall process and outcomes 
+from this search strategy.
+Data extraction
+Research capacity strengthening indicator descriptions and defi -
+nitions were extracted from each publication/report and recorded 
+verbatim in an Excel spreadsheet (see Underlying data )18. 
+Other information recorded alongside each indicator included: 
+the type of indicator (output, outcome or impact) ( Box 1 ); the 
+level of measurement (individual research capacity; institutional 
+research capacity; or systemic research capacity); source infor -
+mation (author, year and title of publication/report); and a brief  
+summary of the context in which the indicator was applied. Des -
+ignation of indicator type (output, outcome or impact) and level 
+of measurement (individual, institutional or systemic) were  
+based on those ascribed by the author/s when reported. Where 
+indicator type and measurement level were not reported, we  
+used our own judgement drawing on the reported context from  
+the respective publication/report.
+Page 3 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=4>>>
+Figure 1. Process and outcomes from literature search strategy.
+Box 1. Defining output, outcome, and impact indicators
+Output indicators - defined as measures of programme or 
+project activities that are directly controllable by the RCS 
+initiative (e.g. number of infectious disease experts from country 
+X training in academic writing).
+Outcome indicators - defined as measures of change in 
+behaviour or performance, in the short- to mid-term, that could 
+reasonably be attributed to the RCS initiative in full or large part 
+(e.g. number of manuscripts published by infectious disease 
+experts from country X following an academic writing course).
+Impact indicators - defined as measures of longer-term change 
+that may not be directly attributable to the RCS initiative but 
+directly relate to the overarching aims of the RCS initiative (e.g. 
+reduction in infectious disease mortality in country X).
+Some publications/reports used the same indicators across  
+different levels (i.e. as both an individual and an institutional 
+measure) and in these cases we reported the indicator at a single  
+level only based on apparent best fit. However, if the same  
+publication reported the same indicator as both an output and 
+an outcome measure, then it was reported twice. Where there  
+was variation between the way that one publication or another 
+classified an indicator (e.g. the same indicator being described 
+as an ‘output’ indicator in one publication and an ‘outcome’  
+indicator in another), we remained true to the texts and recorded 
+each separately. Indicators that pertained to the evaluation of  
+course materials or content (e.g. how useful were the Power -
+Point slides provided?) were excluded from analysis, although 
+indicators that focused on the outcome of course attendance  
+were retained.
+Page 4 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=5>>>
+Data analysis
+Once all listed indicators from across the 32 publications 
+and reports had been entered into the Excel spreadsheet, the  
+research team coded all outcome and impact indicators  
+according to their respective focus (i.e. the focus of the indi -
+cated measure, such as publication count or grant submissions)  
+and quality. Output indicators were excluded from further  
+analysis. Indicators were coded independently by two research -
+ers, checking consistency and resolving discrepancies through  
+discussion and, if necessary, by bringing in a third reviewer.  
+‘Focus’ codes were emergent and were based on stated or  
+implied focal area of each indicator. ‘Quality’ was coded 
+against four pre-determined criteria: 1) a measure for the stated  
+indicator was at least implied in the indicator description;  
+2) the measure was clearly defined; 3) the defined measure  
+was sensitive to change; and 4) the defined measure was  
+time-bound (thus, criteria 2 is only applied if criteria 1 is met  
+and criteria 3 and 4 are only applied if criteria 2 is met).
+Results
+Type and level of identified indicators
+We identified a total of 668 reported or described indicators 
+of research capacity from across the 32 publications or reports 
+included in the review. Of these, 40% (265/668) were output 
+indicators, 59.5% (400/668) were outcome indicators and 0.5%  
+(3/668) were impact indicators. A total of 34% (225/668) of these 
+indicators were measures of individual research capacity, 38% 
+(265/668) were measures of institutional research capacity and 
+21% (178/668) were systemic measures of research capacity.  
+Figure 2  illustrates the spread of indicator type across these 
+three categories by level. The full list of 668 indicators, inclusive  
+of source information, is available as Underlying data18.
+Outcome indicators
+The 400 outcome indicators were subsequently coded to nine 
+thematic categories and 36 sub-categories, as described in  
+Box 2 . The categories and the total number of indicators in 
+each (across all three levels) were as follows: research manage -
+ment and support (n=97), skills/knowledge (n=62), collaboration  
+activities (n=53), knowledge translation (n=39), bibliometrics 
+(n=31), research funding (n=25), recognition (n=11), infrastruc -
+ture (n=5) and other (n=77). Figure 3  depicts the number of  
+outcome indicators by category and level.
+Table 1 –Table 3  present the number of outcome indicators in 
+each sub-category as well as an example indicator for each, by 
+the three respective research capacity levels (individual, insti -
+tutional and systemic). The category and sub-category desig -
+nation assigned to all 400 outcome indicators are available as  
+Underlying data18.
+Table 4  presents the percentage of outcome indicators that  
+met each of the four quality measures as well as the percent -
+age that met all four quality indicators by indicator category. As 
+shown, all outcome indicators implied a measurement focus (e.g.  
+received a national grant or time spent on research activities),  
+21% presented a defined measure (e.g. had at least one  
+publication), 13% presented a defined measure sensitive to change 
+(e.g. number of publications presented in peer reviewed jour -
+nals) and 5% presented a defined measure, sensitive to change  
+and time bound (e.g. number of competitive grants won per 
+year). Only 1% (6/400) of outcome indicators met all four quality  
+criteria including: 1) Completed research projects written up 
+and submitted to peer reviewed journals within 4 weeks of the  
+course end; 2) Number of competitive grants won per year  
+Figure 2. Number of indicators by type and level.
+Page 5 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=6>>>
+Box 2. Outcome indicator categories and sub-categories
+1.    Bibliometrics: Indicators relating to the development, 
+publication and use of written outputs such as peer reviewed 
+journal articles.
+       Sub-categories: peer reviewed publication; publication (any 
+form of publication other than peer review); reference (e.g. 
+records of citations); quality (e.g. rating by impact factor).
+2.    Collaboration Activities: Indicators relating to networking, 
+collaborating, mentoring type activities.
+       Sub-categories: engagement (evidence of working 
+collaboratively); establishment (creating new networks, 
+collaborations); experience (e.g. perception of equity in a 
+specific partnership).
+3.    Infrastructure: Indicators relating to research infrastructure 
+including buildings, labs, equipment, libraries and other 
+physical resources.
+       Sub-categories: suitability (the provision of adequate facilities 
+for research); procurement (e.g. purchase of laboratory 
+equipment).
+4.    Knowledge translation: Indicators relating to the 
+dissemination of research and knowledge, including 
+conferences, media and public education/outreach.
+       Sub-categories: dissemination (examples of research being 
+communicated to different audiences); influence (using 
+research knowledge to influence policy, the commissioning of 
+new research, etc).
+5.    Recognition: Indicators relating to professional or 
+institutional esteem.
+       Sub-categories: Appointment (e.g. appointed to leadership 
+positions); Awards (i.e. receiving an award); reputation (e.g. 
+invited keynote address).
+6.    Research funding: Indicators relating to funding for 
+research.
+       Sub-categories: funds received (e.g. competitive grants); 
+allocation (e.g. allocate budget to support local research); 
+expenditure (use of research funds); access (access to 
+research funding/competitive awards).
+7.    Research Management & Support (RMS): Indicators 
+relating to the administration of university or research 
+institution systems that make research possible (e.g. finance, 
+ITC and project management).
+       Sub-categories: career support (e.g. working conditions, 
+salary and career development); organisation capacity (to 
+manage/support research); research investment; resource 
+access (e.g. to IT, libraries etc); sustainability (of RMS); 
+governance (e.g. formation of ethics review committees); 
+national capacity (to support research); national planning 
+(e.g. developing national research priorities).
+8.    Skills/training activities: Indicators relating to training and 
+educational activities relating to research or research subject 
+area knowledge.
+       Sub-categories: attainment (of new skills); application (of new 
+skills); transfer (of new skills).
+9.    Other: Indicators relating to any area other than the eight 
+described above.
+       Sub-categories: research quality (e.g. quality of work 
+undertaken); research production (e.g. increase in research 
+activity); research process (e.g. inclusion of new methods or 
+techniques); research workforce (e.g. growth in number of 
+researchers); career advancement (e.g. promotion); equity 
+(e.g. gender equity); miscellaneous.
+(independently or as a part of a team); 3) Number and evidence 
+of projects transitioned to and sustained by institutions, organiza -
+tions or agencies for at least two years; 4) Proportion of females  
+among grantees/contract recipients (over total number and 
+total funding); 5) Proportion of [Tropical Disease Research]  
+grants/contracts awarded to [Disease Endemic Country] (over 
+total number and total funding); and 6) Proportion of [Tropical  
+Disease Research] grants/contracts awarded to low-income  
+countries (over total number and total funding). Indicators  
+pertaining to research funding and bibliometrics scored highest 
+on the quality measures whereas indicators pertaining to research 
+management and support and collaboration activities scored the 
+lowest.
+Impact indicators
+The three impact indicators were all systemic-level indicators 
+and were all coded to a ‘health and wellbeing’ theme; two to  
+a sub-category of ‘people’, one to a sub-category of ‘disease’. 
+The three impact indicators were: 1) Contribution to health of  
+populations served; 2) Impact of project on patients’ quality of 
+life, including social capital and health gain; and 3) Estimated  
+impact on disease control and prevention. All three met the 
+‘implied measure’ quality criteria. No indicators met any of the  
+remaining three quality criteria.
+Discussion
+This paper sought to inform the development of standardised 
+RCS evaluation metrics through a systematic review of RCS  
+indicators previously described in the published and grey  
+literatures. The review found a spread between individual- (34%), 
+institutional- (38%) and systemic-level (21%) indicators, imply -
+ing both a need and interest in RCS metrics across all levels  
+of the research system. This is consistent with contempo -
+rary RCS frameworks 10,19, although the high proportion of  
+institutional-level indicators is somewhat surprising given the  
+continued predominance of individual-level RCS initiatives and 
+activities such as scholarship provision, individual skills training 
+and research-centred RCS consortia20.
+Outcome indicators were the most common indicator type  
+identified by the review, accounting for 59.5% (400/669) of the 
+total. However, the large number of outcome indicators were  
+subsequently assigned to a relatively small number of  
+post-coded thematic categories (n=9), suggestive of consider -
+able overlap and duplication among the existing indicator stock. 
+Just under two-thirds of the outcome indicators pertained to  
+four thematic domains (research management and support,  
+skills/knowledge attainment or application, collaboration activi -
+ties and knowledge translation) suggesting an even narrower  
+focus in practice. It is not possible to determine on the basis of 
+this review whether the relatively narrow focus of the reported  
+indicators is reflective of greater interest in these areas or practi -
+cal issues pertaining to outcome measurement (e.g. these domains  
+may be inherently easier to measure); however, if standardised  
+indicators in these key focal areas are identified and agreed,  
+then they are likely to hold wide appeal.
+The near absence of impact indicators is a finding of significant  
+note, highlighting a lack of long-term evaluation of RCS  
+interventions8 as well as the inherent complexity in attempting  
+Page 6 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=7>>>
+Figure 3. Number of outcome indicators by category and level.
+Table 1. Number of individual level outcome indicators by category and sub-variant.
+Category Variant Number Example indicator
+Bibliometrics Peer-reviewed 
+publication 
+Publication 
+Reference 
+Quality
+5 
+ 
+13 
+3 
+6
+Number of articles published in peer-reviewed journals13 
+ 
+Number of conference papers10 
+Citations14 
+Publications with impact factor indexed in WoS21
+Collaboration Activities Engagement 
+Establishment 
+Experience
+10 
+4 
+1
+Evidence of contribution/membership to networks22 
+Development of sustainable research collaborations23 
+Attitudes/behavior are conducive to working effectively in 
+partnership towards development goals24
+Knowledge Translation Dissemination 
+Influence
+4 
+5
+Applied dissemination of findings22 
+Evidence of influence on local strategy & planning22
+Recognition Appointment 
+Awards 
+Reputation
+2 
+3 
+3
+Editor of international/national conference proceedings14 
+Number of awards/type of awards10 
+Invitations to speak at meetings23
+Research Funding Funds received 11 New research funding obtained23
+RMS Career support 3 Percent of time spent on research activities23
+Skills/knowledge Application 
+Attainment 
+Transfer
+13 
+27 
+2
+Applying/using new evaluation methodology25 
+Evidence of progressive skill development22 
+Shared lessons learned from the distance education program 
+with other personnel at the site26
+Other Research quality 
+Research production 
+Research process 
+ 
+Research workforce 
+ 
+Career advancement
+2 
+3 
+8 
+ 
+2 
+ 
+4
+Scientific merit of research proposal13 
+Number of grants completed27 
+Incorporation of end-users’ concerns into research planning & 
+design19 
+Evidence that awardees returned to active & independent 
+research in LMICs23 
+Returned fellows take up leadership roles in scientific networks 
+& communities of practice21
+Page 7 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=8>>>
+Table 2. Number of institutional level outcome indicators by category and sub-variant.
+Categories Variants Number Example indicator
+Bibliometrics Peer-review 
+publication 
+Publication 
+Quality
+1 
+ 
+1 
+1
+Number of joint scientific publications10 
+ 
+Number of research reports published10 
+Production of high quality/scientifically sound literature 
+reviews25
+Collaboration Activities Engagement 
+Establishment 
+Experience
+15 
+6 
+3
+Number of joint activities with other research organizations10 
+Develop research networks within and between institutions28 
+Collaborations characterized by trust & commitment and 
+continue after award concludes23
+Infrastructure Suitability 
+ 
+Procurement
+4 
+ 
+1
+Facilities and infrastructure are appropriate to research needs 
+and researchers’ capacities24 
+Research equipment obtained at home institution27
+Knowledge Translation Dissemination 
+Influence
+9 
+5
+Number of knowledge exchange events10 
+Examples of applying locally developed knowledge in strategy 
+policy and practice22
+Recognition Reputation 2 Enhanced reputation & increased appeal of institutions19
+Research Funding Funds Received 
+ 
+Allocation 
+Expenditure
+3 
+ 
+1 
+1
+Obtaining more funding for research & research skill building 
+training at host organisation29 
+Budget allocation for specific priority health research areas19 
+Proportion of funds spent according to workplans30
+RMS Organisational 
+capacity 
+Research investment 
+ 
+Career support 
+Resource access 
+Sustainability 
+Governance
+14 
+ 
+3 
+ 
+10 
+4 
+3 
+12
+Applying data systems for reporting at organizational level25 
+ 
+Funding to support practitioners & teams to disseminate 
+findings22 
+ 
+Evidence of matching novice & experienced researchers22 
+Access to information technology19 
+Level of financial sustainability10 
+Growth & development of institution in line with vision & 
+mission31
+Skills/knowledge Application 
+ 
+Attainment 
+ 
+Transfer
+6 
+ 
+11 
+ 
+2
+Applying new skills in financial management to research 
+projects25 
+Strengthening capacities to carry out methodologically sound 
+evaluations in the South25 
+Counselling master’s and PhD students about appropriate 
+research design and protocols32
+Other Research quality 
+Career advancement 
+Research production 
+Research workforce 
+ 
+Research process
+5 
+1 
+12 
+6 
+ 
+4
+Quality of research outputs19 
+Evidence of secondment opportunities offered & taken up22 
+Range & scale of research projects19 
+Levels of skills within workforce & skill mix of the skills across 
+groups22 
+Evidence of supporting service user links in research22
+to evaluate a multifaceted, long-term, continuous process sub -
+ject to a diverse range of influences and assumptions. Theo -
+retical models for evaluating complex interventions have been  
+developed33, as have broad guidelines for applied evaluation of 
+complex interventions 34; thus, the notion of evaluating ‘impact’ 
+of RCS investment is not beyond the reach of contemporary  
+evaluation science and evaluation frameworks tailored for 
+RCS interventions have been proposed 11. Attempting to meas -
+ure RCS impact by classic, linear evaluation methodologies via 
+precise, quantifiable metrics may not be the best path forward.  
+However, the general dearth of any form of RCS impact  
+indicator (as revealed in this review) or robust evaluative  
+Page 8 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=9>>>
+Table 3. Number of systemic level outcome indicators by category and sub-variant.
+Categories Variants Number Example indicator
+Bibliometrics Publication 1 Proportion of TDR grantees’ publications with first author [country] 
+institutions30
+Collaboration Activities Engagement 
+ 
+Establishment 
+ 
+Experience
+4 
+ 
+9 
+ 
+1
+Changing how organizations work together to share/exchange 
+information, research results25 
+Partnerships for research dialogue at local, regional & international 
+levels23 
+TDR partnerships are perceived as useful & productive30
+Knowledge Translation Dissemination 
+Influence
+2 
+14
+Media interest in health research19 
+Policy decision are influenced by research outputs24
+Recognition Reputation 1 Greater Sth-Sth respect between organisations leading to Sth-Sth 
+learning activities24
+Research Funding Allocation 
+Access
+6 
+3
+Level of funding of research by the Government10 
+Local responsive funding access & use22
+RMS National capacity 
+National planning 
+Governance 
+Career support
+18 
+11 
+18 
+1
+Local ownership of research & health research system evaluation19 
+Harmonised regional research activities23 
+Governance of health research ethics35 
+Researcher salary on par or above other countries in region (by 
+gender)10
+Skills/knowledge Transfer 1 Secondary benefits to students through training, travel & education 
+made them ‘diffusers’ of new techniques between institutions23
+Other Research 
+production 
+Research workforce 
+Research process 
+ 
+Equity 
+Research quality 
+Miscellaneous
+11 
+ 
+5 
+7 
+ 
+4 
+1 
+2
+Generating new knowledge on a research problem at a regional 
+level25 
+Evidence of brain drain or not19 
+Several institutions using/applying common methodology to 
+conduct research towards common goal25 
+Equitable access to knowledge & experience across partnerships24 
+Proportion of positive satisfaction response from TDR staff30 
+Importance of multidisciplinary research over the past 5 years36
+Table 4. Outcome indicator quality by category.
+Level No Quality measure All 4 quality 
+measures evidentImplied Defined Sensitive to 
+change
+Time-Bound
+% % % % %
+Bibliometrics 31 100 42 29 6 3
+Collaboration Activities 53 100 13 9 0 0
+Infrastructure 5 100 20 0 0 0
+Knowledge Translation 39 100 18 18 0 0
+Recognition 11 100 27 18 0 0
+Research Funding 25 100 56 40 12 12
+RMS 97 100 7 7 1 1
+Skills/Knowledge 62 100 27 0 21 0
+Other 77 100 19 19 1 1
+Total 400 100 21 13 5 1
+Page 9 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=10>>>
+investigation8,20 suggests an urgent need for investment in 
+RCS evaluation frameworks and methodologies irrespective of  
+typology.
+The quality of retrieved indicators, as assessed by four  
+specified criteria (measure for the stated indicator was implied 
+by indicator description; measure clearly defined; defined meas -
+ure was sensitive to change; and defined measure was time-  
+bound) was uniformly poor. Only 1% (6/400) of outcome  
+indicators and none of the impact indicators met all four crite -
+ria. Quality ratings were highest amongst indicators focused on 
+measuring research funding or bibliometrics and lowest amongst  
+research management and support and collaboration activities. 
+This most likely reflects differences in the relative complexity of  
+attempting to measure capacity gain across these different domain 
+types; however, as ‘research management and support’ and ‘col -
+laboration activity’ indicators were two of the most common 
+outcome indicator types, this finding suggests that the quality of  
+measurement is poorest in the RCS domains of most apparent  
+interest. The quality data further suggest that RCS indica -
+tors retrieved by the review were most commonly (by design or  
+otherwise) ‘expressions’ of the types of RCS outcomes that 
+would be worthwhile measuring as opposed to well defined RCS  
+metrics. For example, ‘links between research activities and  
+national priorities’ 19 or ‘ease of access to research undertaken 
+locally’22 are areas in which RCS outcome could be assessed,  
+yet precise metrics to do so remain undescribed.
+Despite the quality issues, it is possible to draw potential ‘candi -
+date’ outcome indicators for each focal area, and at each research  
+capacity level, from the amalgamated list (see Underlying data)18. 
+These candidate indicators could then be further developed or 
+refined through remote decision-making processes, such as those  
+applied to develop other indicator sets 37, or through a dedi -
+cated conference or workshop as often used to determine health  
+research priorities 38. The same processes could also be used 
+to identify potential impact indicators and/or additional focal 
+areas and associated indicators for either outcome or impact 
+assessment. Dedicated, inclusive and broad consultation of 
+this type would appear to be an essential next step towards the 
+development of a comprehensive set of standardised, widely 
+applicable RCS outcome and impact indicators given the  
+review findings.
+Limitations
+RCS is a broad, multi-disciplinary endeavour without a stand -
+ardised definition, lexicon or discipline-specific journals 8. As  
+such, relevant literature may have gone undetected by the search 
+methodology. Similarly, it is quite likely that numerous RCS 
+outcome or impact indicators exist solely in project specific  
+log frames or other forms of project-specific documentation 
+not accessible in the public domain or not readily accessible by  
+conventional literature search methodologies. Furthermore, RCS 
+outcome or impact indicators presented in a language other than 
+English were excluded from review. The review findings, there -
+fore, are unlikely to represent the complete collection of RCS 
+indicators used by programme implementers and/or potentially 
+accessible in the public domain. The quality measurement cri -
+teria were limited in scope, not accounting for factors such as  
+relevance or feasibility, and were biased towards quantitative 
+indicators. Qualitative indicators would have scored poorly by 
+default. Nevertheless, the review findings represent the most com -
+prehensive listing of currently available RCS indicators compiled 
+to date (to the best of the authors’ knowledge) and the indica -
+tors retrieved are highly likely to be reflective of the range, type  
+and quality of indicators in current use, even if not identified  
+by the search methodology.
+Conclusion
+Numerous RCS outcome indicators are present in the public 
+and grey literature, although across a relatively limited range.  
+This suggests significant overlap and duplication in currently 
+reported outcome indicators as well as common interest in  
+key focal areas. Very few impact indicators were identified by 
+this review and the quality of all indicators, both outcome and 
+impact, was uniformly poor. Thus, on the basis of this review,  
+it is possible to identify priority focal areas in which outcome 
+and impact indicators could be developed, namely: research  
+management and support, the attainment and application of  
+new skills and knowledge, research collaboration and knowl -
+edge transfer. However, good examples of indicators in each of 
+these areas now need to be developed. Priority next steps would  
+be to identify and refine standardised outcome indicators in the 
+focal areas of common interest, drawing on the best candidate  
+indicators among those currently in use, and proposing potential 
+impact indicators for subsequent testing and application.
+Data availability
+Underlying data
+Harvard Dataverse: Measuring the outcome and impact of 
+research capacity strengthening initiatives: A review of indica -
+tors used or described in the published and grey literature - Full 
+listing of retrieved RCS indicators. https://doi.org/10.7910/DVN/ 
+K6GIGX18.
+This project contains the following underlying data:
+• List of RCS Impact Indicators
+• List of RCS Outcome Indicators
+• List of RCS Output Indicators
+• List of Source Documents
+Data are available under the terms of the Creative Commons  
+Zero “No rights reserved” data waive r (CC0 1.0 Public domain 
+dedication).
+Page 10 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=11>>>
+References
+1.  Golenko X, Pager S, Holden L: A thematic analysis of the role of the 
+organisation in building allied health research capacity: a senior managers’ 
+perspective. BMC Health Serv Res. 2012; 12: 276.  
+PubMed Abstract | Publisher Full Text | Free Full Text 
+2.  Dye C, Boerma T, Evans D, et al.: The World Health Report 2013: research for 
+universal health coverage. Geneva: World Health Organisation; 2013. 
+3.  Pang T, Sadana R, Hanney S, et al.: Knowledge for better health: a conceptual 
+framework and foundation for health research systems. Bull World Health 
+Organ. 2003; 81(11): 815–20.  
+PubMed Abstract | Free Full Text 
+4.  Pastor J, Peraita C, Serrano L, et al.: Higher education institutions, economic 
+growth and GDP per capita in European Union countries. European Planning 
+Studies. 2018; 26(8): 1616–37.  
+Publisher Full Text 
+5.  Drucker J: Reconsidering the regional economic development impacts of 
+higher education institutions in the United States. Regional Studies. 2016; 
+50(7): 1185–202.  
+Publisher Full Text 
+6.  UNESCO: UNESCO Science Report: Towards 2030. Paris, France: UNESCO 
+Publishing; 2016.  
+Reference Source
+7.  UK Collaborative on Development Research: UKCDR Strategy: The next 4 years 
+(2018-2022). London: UKCDR; 2018.  
+Reference Source
+8.  Dean L, Gregorius S, Bates I, et al.: Advancing the science of health research 
+capacity strengthening in low-income and middle-income countries: a scoping 
+review of the published literature, 2000-2016. BMJ Open. 2017; 7(12): e018718.  
+PubMed Abstract | Publisher Full Text | Free Full Text 
+9.  Bates I, Boyd A, Smith H, et al.: A practical and systematic approach to 
+organisational capacity strengthening for research in the health sector in 
+Africa. Health Res Policy Syst. 2014; 12: 11.  
+PubMed Abstract | Publisher Full Text | Free Full Text 
+10.  ESSENCE on Health Research: Planning, Monitoring and Evaluation Framework 
+for Research Capacity Strengthening. Geneva: ESSENCE on Health Research; 
+2016.  
+Reference Source
+11.  Khisa A, Gitau E, Pulford J, et al.: A framework and indicators to improve 
+research capacity strengthening evaluation practice. Liverpool, UK: Liverpool 
+School of Tropical Medicine and the African Population Health Research Centre; 
+2019.  
+Publisher Full Text 
+12.  Zachariah R, Tayler-Smith K, Van den Bergh R, et al.: Research to Policy and 
+Practice Change: is Capacity Building in Operational Research Delivering the 
+Goods? Trop Med Int Health. 2014; 19(9): 1068–75.  
+PubMed Abstract | Publisher Full Text 
+13.  Kebede D, Zielinski C, Mbondji PE, et al.: Human Resources in Health Research 
+Institutions in Sub-Saharan African Countries: Results of a Questionnaire-
+Based Survey. J R Soc Med. 2014; 107(1 Suppl): 85–95.  
+PubMed Abstract | Publisher Full Text | Free Full Text 
+14.  Bucur A, Kifor CV, Mărginean SC: Evaluation of the quality and quantity of 
+research results in higher education. Quality and Quantity. 2018; 52(1): 101–18.  
+Publisher Full Text 
+15.  Morel T, Maher D, Nyirenda T, et al.: Strengthening health research capacity in 
+sub-Saharan Africa: mapping the 2012-2017 landscape of externally funded 
+international postgraduate training at institutions in the region. Global Health. 
+2018; 14(1): 77.  
+PubMed Abstract | Publisher Full Text | Free Full Text 
+16.  National Institutues of Health (NIH): WORLD RePORT: National Institutues of 
+Health (NIH). 2018.  
+Reference Source
+17.  UKCDS: Health Research Capacity Strengthening: A UKCDS Mapping. London: 
+United Kingdon Collaborative on Development Sciences (UKCDS); 2015.  
+Reference Source
+18.  Pulford J, Price N, Amegee J, et al.: List of RCS Outcome Indicators.xlsx. 
+Measuring the outcome and impact of research capacity strengthening 
+initiatives: A review of indicators used or described in the published and grey 
+literature - Full listing of retrieved RCS indicators. V1 ed: Harvard Dataverse; 
+2020. 
+19.  COHRED: Changing Mindsets: Research capacity Strengthening in Low and 
+Middle-Income Countries. Council on Health Research for Development. 2005.  
+Reference Source
+20.  Franzen SR, Chandler C, Lang T: Health research capacity development in low 
+and middle income countries: reality or rhetoric? A systematic meta-narrative 
+review of the qualitative literature. BMJ Open. 2017; 7(1): e012332.  
+PubMed Abstract | Publisher Full Text | Free Full Text 
+21.  CGIAR: Capacity Development Indicators for the second phase of CGIAR 
+Research Programs. [Report]. In press. 2015.
+22.  Cooke J: A Framework to Evaluate Research Capacity Building in Health Care. 
+BMC Fam Pract. 2005; 6: 44.  
+PubMed Abstract | Publisher Full Text | Free Full Text  
+23.  Cole DC, Boyd A, Aslanyan G, et al.: Indicators for Tracking Programmes to 
+Strengthen Health Research Capacity in Lower- and Middle-Income Countries: 
+a Qualitative Synthesis. Health Res Policy Syst. 2014; 12: 17.  
+PubMed Abstract | Publisher Full Text | Free Full Text 
+24.  DFID: How to Note: Capacity Building in Research. Department for International 
+Development; 2010. 
+Reference Source
+25.  Neilson S, Lusthaus C: IDRC Supported Capacity Building: Developing a 
+Framework for Capturing Capacity Changes. 2007.  
+Reference Source
+26.  Wilson LL, Rice M, Jones CT, et al.: Enhancing Research Capacity for Global 
+Health: Evaluation of a Distance-Based Program for International Study 
+Coordinators. J Contin Educ Health Prof. 2013; 33(1): 67–75.  
+PubMed Abstract | Publisher Full Text | Free Full Text 
+27.  Minja H, Nsanzabana C, Maure C, et al.: Impact of Health Research Capacity 
+Strengthening in Low- and Middle-Income Countries: the Case of WHO/TDR 
+Programmes. PLoS Negl Trop Dis. 2011; 5(10): e1351.  
+PubMed Abstract | Publisher Full Text | Free Full Text 
+28.  Uzochukwu B, Mbachu C, Onwujekwe O, et al.: Health Policy and Systems 
+Research and Analysis in Nigeria: Examining Health Policymakers’ and 
+Researchers’ Capacity Assets, Needs and Perspectives in South-East Nigeria. 
+Health Res Policy Syst. 2016; 14: 13.  
+PubMed Abstract | Publisher Full Text | Free Full Text 
+29.  Erasmus E, Lehmann U, Agyepong IA, et al.: Strengthening Post-Graduate 
+Educational Capacity for Health Policy and Systems Research and Analysis: 
+the Strategy of the Consortium for Health Policy and Systems Analysis in 
+Africa. Health Res Policy Syst. 2016; 14: 29.  
+PubMed Abstract | Publisher Full Text | Free Full Text 
+30.  Halpaap B: TDR [Tropical Disease Research] Performance Assessment 
+Framework. WHO; 2011.  
+Reference Source
+31.  Mahmood S, Hort K, Ahmed S, et al.: Strategies for Capacity Building for Health 
+Research in Bangladesh: Role of Core Funding and a Common Monitoring and 
+Evaluation Framework. Health Res Policy Syst. 2011; 9(1): 31.  
+PubMed Abstract | |Publisher Full Text | Free Full Text 
+32.  Mahendradhata Y, Nabieva J, Ahmad RA, et al.: Promoting Good Health 
+Research Practice in Low- and Middle-income Countries. Global Health Action. 
+2016; 9: 32474.  
+PubMed Abstract | Publisher Full Text | Free Full Text 
+33.  Rogers PJ: Using Programme Theory to Evaluate Complicated and Complex 
+Aspects of Interventions. Evaluation. 2008; 14(1): 29–48.  
+Publisher Full Text 
+34.  Craig P, Dieppe P, Macintyre S, et al.: Developing and evaluating complex 
+interventions: the new Medical Research Council guidance. Int J Nurs Stud. 
+2013; 50(5): 587–92. 
+PubMed Abstract | Publisher Full Text
+35.  Motari M, Ota MO, Kirigia JM: Readiness of ethics review systems for a 
+changing public health landscape in the WHO African Region. BMC Med Ethics. 
+2015; 16(1): 82.  
+PubMed Abstract | Publisher Full Text | Free Full Text 
+36.  Chataway J, Ochieng C: Case Studies of the Political Economy of Science 
+Granting Councils in Sub-Saharan Africa. University of Sussex: Science Policy 
+Research Unit (SPRU), University of Sussex, United Kingdom and African Centre 
+for Technology Studies (ACTS), Kenya; 2017.  
+Reference Source
+37.  Jordans MJD, Chisholm D, Semrau M, et al.: Indicators for routine monitoring 
+of effective mental healthcare coverage in low- and middle-income settings: a 
+Delphi study. Health Policy Plan. 2016; 31(8): 1100–6.  
+PubMed Abstract | Publisher Full Text 
+38.  McGregor S, Henderson KJ, Kaldor JM: How are health research priorities set in 
+low and middle income countries? A systematic review of published reports. 
+PLoS One. 2014; 9(9): e108787.  
+PubMed Abstract | Publisher Full Text | Free Full Text
+Page 11 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=12>>>
+Open Peer Review
+    Current Peer Review Status:
+Version 1
+ 29 June 2020Reviewer Report
+https://doi.org/10.5256/f1000research.26632.r64405
+© 2020 Flint-O'Kane M. This is an open access peer review report distributed under the terms of the Creative Commons
+, which permits unrestricted use, distribution, and reproduction in any medium, provided the originalAttribution License
+work is properly cited.
+   Meriel Flint-O'Kane
+Faculty of Public Health and Policy, London School of Hygiene and Tropical Medicine, London, UK
+Summary: This paper provides a review and analysis of the quality and suitability of M&E metrics for
+funding that is allocated to strengthen research capacity in LMIC's. Published and grey literature has been
+reviewed to identify indicators used to measure the outputs, outcomes and impacts of
+relevant programmes and the findings have been assessed in terms of content and quality. The authors
+conclude that the outcome indicators identified were of low quality and impact indicators are almost
+always missing from RCS MEL frameworks and recommend further work to develop appropriate
+indicators to measure the outcomes and impacts of research capacity strengthening
+programmes/activities. Through the review of existing outcome indicators the authors have identified four
+focal areas against which indicators could be developed.
+Methods:
+The search strategy and study selection is clearly described and links to source data are available.
+Data extraction and analysis methods are also clearly described.
+Major:
+No major points to address. This work is by a leading team in the field of RCS research and makes
+a useful contribution to the literature in providing a thorough review of indicators used to monitor
+and evaluate work funded to strengthen research capacity.
+Minor:
+Though the article is not focused on health research, health is specifically referred to in a few
+places throughout the article e.g. line 4 (and corresponding references) of the introduction,
+Research Funding example indicators in Table 2, RMS example indicators in Table 3, numbers 5
+and 6 of the 6 outcome indicators meeting all four quality criteria refer to TDR, and the impact
+indicators are all acknowledged as being specific to health and wellbeing. It would be interesting to
+understand which other research disciplines featured in the literature reviewed, and the spread of
+results across disciplines in order that analysis and findings could indicate if there is variety
+between and/or within disciplines in approaches to MEL for RCS and what can be learnt from this.
+ 
+No background, references or justification is given for the pre-determined 'quality' criteria.
+ 
+The authors note in 'Limitations' that project documents were not available in the public domain
+Page 12 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=13>>>
+The authors note in 'Limitations' that project documents were not available in the public domain
+and documents not in English were excluded. Further reflection on to what extent Log Frames,
+ToC's and other MEL docs  for programmes that have RCS as a primary or secondary outcome
+would be in the public domain could be helpful e.g. is it common for delivery partners of RCS
+programmes to make their MEL docs publicly available? If not, are these indicators representative
+of those currently/recently being used by actors in the RCS programme delivery space or do they
+represent a subset that is more likely to have publicly available data?
+Is the work clearly and accurately presented and does it cite the current literature?
+Yes
+Is the study design appropriate and is the work technically sound?
+Yes
+Are sufficient details of methods and analysis provided to allow replication by others?
+Yes
+If applicable, is the statistical analysis and its interpretation appropriate?
+Not applicable
+Are all the source data underlying the results available to ensure full reproducibility?
+Yes
+Are the conclusions drawn adequately supported by the results?
+Yes
+ Professor Imelda Bates is a co-author on this paper and is on the Advisory BoardCompeting Interests:
+for my DrPH studies. I confirm that this has not affected my ability to write an objective and unbiased
+review of the article.
+Reviewer Expertise: Global health, research capacity strengthening, higher education capacity
+I confirm that I have read this submission and believe that I have an appropriate level of
+expertise to confirm that it is of an acceptable scientific standard.
+ 24 June 2020Reviewer Report
+https://doi.org/10.5256/f1000research.26632.r64402
+© 2020 Obino F et al. This is an open access peer review report distributed under the terms of the Creative Commons
+, which permits unrestricted use, distribution, and reproduction in any medium, provided the originalAttribution License
+work is properly cited.
+ Francesco Obino
+Global Development Network, New Delhi, Delhi, India
+ Daniel Fussy
+Global Development Network, New Delhi, Delhi, India
+The article is an timely contribution to an urgent question: how do we know if research capacity
+Page 13 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=14>>>
+1.  
+2.  
+3.  
+4.  
+The article is an timely contribution to an urgent question: how do we know if research capacity
+strengthening is working? The analysis of the problem (a. the lack of a shared reference framework for
+evaluating research capacity strengthening, which in turn implies that b. the scope for systematic and
+cumulative learning remains limited) is convincing and valid. The methodology is clearly explained and up
+to existing standards and expectations for this kind of exercise. The conclusions are straightforward, and
+the limitations well articulated (the focus on English, and the bias towards quantitative measures being the
+most important ones.)
+A few overall comments for the authors, keeping in mind the 'agenda' the article is trying to support (i.e.
+developing good examples of RCS indicators), and its potential uptake:
+RCS lack definition too, not just indicators. The article does not differentiate between research
+capacity strengthening done at the national level and at the international level, or in different fields
+(health sciences vs social sciences, etc.). While this is key to the aim of the paper to 'survey'
+existing indicators, the lack of solid evaluation of RCS can be also understood as the result not so
+much of 'underdevelopment' of the field, but of its overdevelopment in the absence of a shared
+definition of what RCS is. In this sense, putting all RCS (indicators) in the 'same box' might in fact
+reinforce the confusion around what is there to be measured, and how. International donor-funded,
+project-based RCS efforts differ (in scope, objectives and means) from the RCS effort of a science
+council or a local research training institution - despite overlaps. Often, the difference in objectives
+might make indicators hard to include in the same box. In this sense, the paper should
+acknowledge the lack of a shared definition of RCS, and the limitation it poses to an analysis of
+indicators. For this specific article, it might be useful to define RCS as international, donor-funded,
+project-based set of activities. Arguably, the very need of a discussion on RCS evaluation is largely
+driven by the fact that RCS is part of the evaluation-heavy international donor sector. This might
+help further defining the relevant timeframe for the search, and situating RCS historically.
+ 
+RCS is more than the sum of quality outputs. I wonder about the lack of discussion on 'process
+indicators' given the nature of RCS as a set of activities. These are notoriously difficult (but not
+impossible) to use in the donor-funded, project-based, time-bound RCS efforts, but might be very
+relevant to describe change and ultimately impact.
+ 
+RCS impacts research systems, policy, or development? When it comes to discussion of impacts
+and impact indicators, the lack of definition of RCS becomes an insurmountable limitation. The
+study could acknowledge the need for unpacking the link between output, outcome and impact
+measurement/definition (particularly in light of lack of shared definition of RCS) in internationally
+funded programs, as a complementary exercise to the surveying of indicators. The fact that the
+very few impact indicators identified reveal an expectation for RCS to deliver impact on population
+health outcomes is a good example of the limitations imposed by lack of clear definitions.
+ 
+How important is the UK? Given the global audience of the piece, it might be useful to explain why
+the figures relating to projected RCS funding from the UK are significant to describe larger trends -
+particularly if figures include both 'direct' and 'indirect' RCS.
+Is the work clearly and accurately presented and does it cite the current literature?
+Yes
+Is the study design appropriate and is the work technically sound?
+Yes
+Are sufficient details of methods and analysis provided to allow replication by others?
+Page 14 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=15>>>
+Are sufficient details of methods and analysis provided to allow replication by others?
+Yes
+If applicable, is the statistical analysis and its interpretation appropriate?
+Yes
+Are all the source data underlying the results available to ensure full reproducibility?
+Yes
+Are the conclusions drawn adequately supported by the results?
+Yes
+ No competing interests were disclosed.Competing Interests:
+Reviewer Expertise: Research capacity building methodologies, political theory, international relations
+We confirm that we have read this submission and believe that we have an appropriate level of
+expertise to confirm that it is of an acceptable scientific standard.
+ 23 June 2020Reviewer Report
+https://doi.org/10.5256/f1000research.26632.r64403
+© 2020 Taylor P. This is an open access peer review report distributed under the terms of the Creative Commons
+, which permits unrestricted use, distribution, and reproduction in any medium, provided the originalAttribution License
+work is properly cited.
+   Peter Taylor
+Institute of Development Studies, Brighton, UK
+The article addresses an issue that is receiving renewed interest in recent years - research capacity
+strengthening (RCS), and the particular challenge of evaluating outputs, outcomes and impacts of RCS
+initiatives.
+The study undertook a structured review of RCS indicators in the published and grey literature. Key
+findings included the identification of rather few examples of quality RCS, with emphasis on four focal
+areas (research management and support, skill and knowledge development, research collaboration and
+knowledge transfer. The study concludes that there is significant room for development of indicators, and
+consequently the potential adoption of these to allow a more systematic approach to RCS approaches
+and to their subsequent evaluation.
+The study is clearly presented and has a solid methodology. The validity of the findings rest on the extent
+to which the systematic review did identify published material that engages in this issue. As the authors
+note, it is likely that there is a wider body of grey literature in the form of project and program reports that
+were not located through the search. This suggests that there is need for more published work on this
+topic (making the paper therefore relevant and useful), and perhaps reinforces a wider view that many
+RCS efforts are inadequately evaluated (or not evaluated at all). An earlier World Bank Institute report on
+evaluation of training (Taschereau, 2010 ), for example, had highlighted challenges in evaluation of the
+impact of training and institutional development programs. The study refers briefly to RCS interventions,
+1
+Page 15 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=16>>>
+impact of training and institutional development programs. The study refers briefly to RCS interventions,
+taking training as an example, but this only related to training which makes up a small percentage of the
+overall efforts towards RCS.
+It would be very interesting to situate this welcome study in the context of broader discussions and
+debates on RCS, particularly as a contribution to theory and practice at strengthening research capacity
+at individual, organizational and system levels. The latter of these is the most complex to conceptualise,
+to implement, and to measure, and is receiving valuable attention from RCS stakeholders such as the
+Global Development Network (GDN, 2017 ) through their Doing Research Program - a growing source of
+literature for subsequent review.
+As the authors of the study note, there is a danger in identifying RCS indicators that are seen as having
+universal application and attractiveness because they are relatively easy to measure. There is an equal,
+related danger that, due to relative measurability, a majority of RCS interventions become so streamlined
+in terms of their approach that they begin to follow recipe or blueprint approaches.
+The study is agnostic on different approaches to RCS. Work undertaken by the Think Tank Initiative (TTI)
+for example (Weyrauch, 2014 ) has demonstrated a range of useful RCS approaches, including flexible
+financial support, accompanied learning supported by trusted advisors/program officers, action learning,
+training and others. In a final evaluation of the Think Tank Initiative (Christoplos  , 2019 ), training waset al.
+viewed as having had the least value amongst several intervention types in terms of RCS outcomes,
+whilst flexible financial support and accompanied learning processes were viewed as being significantly
+more effective. It would be interesting to identify indicators of outcomes or even impacts that might relate
+to different types of RCS interventions which were not included in the publications reviewed by this study.
+A key indicator of RCS identified by the TTI evaluation, which interestingly does not appear explicitly in
+the indicator list of this study, was leadership. As the authors indicate, there are likely to be other valuable
+indicators not surfaced through this review and this requires more work.
+This study offers a very important contribution to a field currently being reinvigorated and is highly
+welcome. Rather than being valued because it may potentially offer a future blueprint list of indicators,
+(not least since, as the authors observe, the indicator list generated in this study is partial in comparison to
+a much wider potential range), its value lies particularly in its potential for contribution to further debate
+and dialogue on the theory and practice of RCS interventions and their evaluation; this dialogue can in
+turn be further informed by access to a more diverse set of grey literature and by engagement with
+stakeholders who have experience and interest in strengthening this work. Hopefully the authors of this
+study, and other researchers, will continue this important line of work and promote ongoing discussion
+and debate.
+References
+1. Taschereau S: Evaluating the impact of training and institutional development programs - a
+collaborative approach (English).  . 2010. EDI Learning Resources Series, World Bank Institute (WBI)
+ Reference Source
+2. Gévaudan C: Doing Research Assessments: Understanding Research Systems in Developing
+Countries.  . 2017.   Global Development Network: New Delhi Reference Source
+3. Weyrauch V: Capacity Development within the Think Tank Initiative.  .Think Tank Initiative: Ottawa
+2014.   Reference Source
+4. Christoplos I, Pain A, Kluyskens J, Fruhling P: External Evaluation of the Think Tank Initiative (TTI)
+Phase Two, 2014-2019.  . 2019.   NIRAS: Allerød Reference Source
+2
+3
+4
+Page 16 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=17>>>
+Is the work clearly and accurately presented and does it cite the current literature?
+Yes
+Is the study design appropriate and is the work technically sound?
+Yes
+Are sufficient details of methods and analysis provided to allow replication by others?
+Yes
+If applicable, is the statistical analysis and its interpretation appropriate?
+Yes
+Are all the source data underlying the results available to ensure full reproducibility?
+Yes
+Are the conclusions drawn adequately supported by the results?
+Yes
+ No competing interests were disclosed.Competing Interests:
+Reviewer Expertise: International development, organizational learning and development, research
+capacity strengthening
+I confirm that I have read this submission and believe that I have an appropriate level of
+expertise to confirm that it is of an acceptable scientific standard.
+ 23 June 2020Reviewer Report
+https://doi.org/10.5256/f1000research.26632.r64400
+© 2020 Di Ruggiero E. This is an open access peer review report distributed under the terms of the Creative Commons
+, which permits unrestricted use, distribution, and reproduction in any medium, provided the originalAttribution License
+work is properly cited.
+ Erica Di Ruggiero
+Dalla Lana School of Public Health, University of Toronto, Toronto, ON, Canada
+The article outlines clear research questions and methods and provides a very useful summary of
+findings from a structured review of research capacity strengthening indicators for use in low- and
+middle-income countries (LMICs). Terminology is overall quite clearly defined. Some greater
+precision relate to the use of the terminology: context for indicator's application; knowledge transfer
+vs. knowledge translation are used.
+ 
+The definition of knowledge translation provided seems limiting and perhaps the authors meant
+only transfer. It would have been helpful to have some descriptive data on the sources of the
+publications/reports from which the indicators were derived (i.e. were they all published by
+academics vs. any from research funders). For example, it's unclear if any indicators developed by
+funders such as the International Development Research Centre and others that support LMIC
+Page 17 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=18>>>
+funders such as the International Development Research Centre and others that support LMIC
+research are included.
+ 
+The limitations section is clear.
+ 
+It would have been helpful to have the authors elaborate a bit more on the dearth of qualitative
+indicators, appreciating the fact that they would have 'scored poorly by default' because of the
+methodology used. Could the authors comment in the conclusion on areas for indicator
+development (like qualitative indicators; equity-related indicators - for e.g. I note that perception of
+equity in a specific partnership was part of the definition for collaboration and in the 'other'
+category, but to my knowledge, equity didn't really appear elsewhere)?
+Is the work clearly and accurately presented and does it cite the current literature?
+Yes
+Is the study design appropriate and is the work technically sound?
+Yes
+Are sufficient details of methods and analysis provided to allow replication by others?
+Partly
+If applicable, is the statistical analysis and its interpretation appropriate?
+Yes
+Are all the source data underlying the results available to ensure full reproducibility?
+Yes
+Are the conclusions drawn adequately supported by the results?
+Yes
+ No competing interests were disclosed.Competing Interests:
+Reviewer Expertise: Public health research; evaluation
+I confirm that I have read this submission and believe that I have an appropriate level of
+expertise to confirm that it is of an acceptable scientific standard.
+Page 18 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
+<<<PAGE=19>>>
+The benefits of publishing with F1000Research:
+Your article is published within days, with no editorial bias
+You can publish traditional articles, null/negative results, case reports, data notes and more
+The peer review process is transparent and collaborative
+Your article is indexed in PubMed after passing peer review
+Dedicated customer support at every stage
+For pre-submission enquiries, contact   research@f1000.com
+Page 19 of 19
+F1000Research 2020, 9:517 Last updated: 29 JUN 2020
