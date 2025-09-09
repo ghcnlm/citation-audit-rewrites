@@ -5,7 +5,6 @@ from typing import List
 from docx import Document
 from audit_lib.text_utils import split_sentences, has_numbers, is_causal_or_normative
 from audit_lib.citations import parse_citations
-from audit_lib.models import Citation
 
 CONFIG = yaml.safe_load(open("config/config.yaml","r",encoding="utf-8"))
 
@@ -70,7 +69,7 @@ def main():
         current_review_id = f.stem
         for section, line in infer_sections(lines):
             for sent in split_sentences(line):
-                cits: List[Citation] = parse_citations(sent)
+                cits = parse_citations(sent)
                 if not cits: 
                     continue
                 is_quote = bool(re.search(r'["“”\']', sent))
@@ -78,12 +77,14 @@ def main():
                 causal = is_causal_or_normative(sent)
                 for cit in cits:
                     claim_id = str(uuid.uuid4())[:8]
-                    fa_key = first_author_key(cit.author)
-                    yr_key = cit.year.lower()
+                    author = cit.get("author", "") if isinstance(cit, dict) else getattr(cit, "author", "")
+                    year = cit.get("year", "") if isinstance(cit, dict) else getattr(cit, "year", "")
+                    fa_key = first_author_key(author)
+                    yr_key = str(year).lower()
                     in_refs = (fa_key, yr_key) in refs_set if refs_set else ""
                     pdf_guess = os.path.join(
                         PDF_DIR,
-                        f"{cit.author.split(',')[0].replace(' ','_')}_{cit.year}.pdf",
+                        f"{author.split(',')[0].replace(' ','_')}_{year}.pdf",
                     )
                     rows.append(
                         {
@@ -94,14 +95,14 @@ def main():
                             "is_quote": is_quote,
                             "has_numbers": nums,
                             "is_causal_or_normative": causal,
-                            "citation_text": cit.citation_text,
-                            "citation_type": cit.citation_type,
-                            "citation_author": cit.author,
-                            "citation_year": cit.year,
-                            "is_secondary": bool(cit.is_secondary),
-                            "primary_mentioned_author": cit.primary_mentioned_author or "",
-                            "primary_mentioned_year": cit.primary_mentioned_year or "",
-                            "stated_page": cit.stated_page or "",
+                            "citation_text": cit.get("citation_text") if isinstance(cit, dict) else getattr(cit, "citation_text", ""),
+                            "citation_type": cit.get("citation_type") if isinstance(cit, dict) else getattr(cit, "citation_type", ""),
+                            "citation_author": author,
+                            "citation_year": year,
+                            "is_secondary": bool(cit.get("is_secondary")) if isinstance(cit, dict) else bool(getattr(cit, "is_secondary", False)),
+                            "primary_mentioned_author": (cit.get("primary_mentioned_author") or "") if isinstance(cit, dict) else (getattr(cit, "primary_mentioned_author", "") or ""),
+                            "primary_mentioned_year": (cit.get("primary_mentioned_year") or "") if isinstance(cit, dict) else (getattr(cit, "primary_mentioned_year", "") or ""),
+                            "stated_page": (cit.get("stated_page") or "") if isinstance(cit, dict) else (getattr(cit, "stated_page", "") or ""),
                             "in_reference_list": in_refs,
                             "source_pdf_path": pdf_guess if os.path.exists(pdf_guess) else "",
                             "priority": priority_flag(is_quote, nums, causal),
