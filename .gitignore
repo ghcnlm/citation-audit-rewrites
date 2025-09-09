@@ -1,36 +1,19 @@
 ﻿# Python
 __pycache__/
-*.py[cod]
-*.egg-info/
+*.pyc
 .venv/
 .env
-*.log
-.pytest_cache/
-.mypy_cache/
-.ruff_cache/
-dist/
-build/
 
-# VS Code / OS
+# Editors/OS
 .vscode/
-.history/
+.idea/
 .DS_Store
-Thumbs.db
 
-# Data / artifacts
+# Build/Temp
+temp/
+tmp/
+*.log
+
+# Project artifacts (skip heavy/derived data)
 outputs/
-data/
-.cache/
-*.parquet
-*.feather
-*.csv
-*.tsv
-*.jsonl
-*.sqlite
-*.db
-
-# Secrets / keys
-*.key
-*.pem
-*.crt
-*.p12
+pilot_inputs/sources_text/

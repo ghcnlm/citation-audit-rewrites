@@ -1,0 +1,9 @@
+verdict,count,level,review_id,section
+UNSUPPORTED_FAIL,34,overall,,
+FAITHFUL_PARAPHRASE_PASS,17,overall,,
+FAITHFUL_PARAPHRASE_PASS,17,review,4_1,
+UNSUPPORTED_FAIL,34,review,4_1,
+FAITHFUL_PARAPHRASE_PASS,5,section,4_1,several elements of this definition warrant unpacking
+UNSUPPORTED_FAIL,11,section,4_1,several elements of this definition warrant unpacking
+FAITHFUL_PARAPHRASE_PASS,12,section,4_1,unknown
+UNSUPPORTED_FAIL,23,section,4_1,unknown
