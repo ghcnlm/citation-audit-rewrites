@@ -14,6 +14,8 @@ from audit_lib.enrich import enrich_registry_rows, write_enriched_csv
 CFG = load_config()
 OUT_DIR = Path(CFG["paths"]["outputs_dir"])
 REVIEWS_DIR = Path(CFG["paths"]["reviews_dir"])
+# Optional PDFs directory for resolving source_pdf_path
+PDF_DIR = Path(CFG["paths"].get("pdf_dir", "")) if CFG["paths"].get("pdf_dir") else None
 
 def extract_raw_rows() -> List[Dict[str, str]]:
     """
@@ -34,7 +36,7 @@ def extract_raw_rows() -> List[Dict[str, str]]:
 
 def main():
     rows = extract_raw_rows()
-    enriched = enrich_registry_rows(rows, REVIEWS_DIR)
+    enriched = enrich_registry_rows(rows, REVIEWS_DIR, pdf_dir=PDF_DIR)
     out_csv = OUT_DIR / "ccp_registry_enriched.csv"
     write_enriched_csv(enriched, out_csv)
     print(f"[OK] wrote enriched registry -> {out_csv}")
