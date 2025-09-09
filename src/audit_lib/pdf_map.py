@@ -8,7 +8,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Tuple
 
-_BASENAME_RE = re.compile(r"^([A-Za-z]+)_(\d{4})\b.*\.pdf$", re.IGNORECASE)
+_BASENAME_RE = re.compile(r"^([A-Za-z]+)_(\d{4})(?:\b|_).*\.pdf$", re.IGNORECASE)
 
 
 def _strip_diacritics(s: str) -> str:
@@ -33,9 +33,9 @@ def normalize_lead_surname(name: str) -> str:
     s = re.sub(r"\s+", " ", s).strip()
     # take first chunk before 'and' or '&' or comma
     first = re.split(r",|\band\b|&", s, maxsplit=1, flags=re.IGNORECASE)[0].strip()
-    # pick the last token (surname) for personal names; for institutions, the first token is fine too
+    # pick the FIRST token for both personal and institutional cases
     tokens = [t for t in re.split(r"\s+", first) if t]
-    candidate = tokens[-1] if tokens else first
+    candidate = tokens[0] if tokens else first
     # remove any non-letters
     candidate = re.sub(r"[^A-Za-z]", "", candidate)
     return candidate.lower()
@@ -131,4 +131,3 @@ __all__ = [
     "ResolveResult",
     "write_warnings",
 ]
-
