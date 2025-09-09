@@ -1,5 +1,5 @@
 import re
-from typing import List, Dict, Any
+from typing import Any, Dict, List
 
 PAREN_BLOCK_RE = re.compile(r"\(([^()]+)\)")
 PAIR_RE = re.compile(r"([A-Z][^,;()]+?)\s*,\s*(\d{4}[a-z]?)")
@@ -7,8 +7,27 @@ NARR_RE = re.compile(r"\b([A-Z][A-Za-z'’\-]+(?:\s+(?:&|and)\s+[A-Z][A-Za-z'’
 AS_CITED_IN_RE = re.compile(r"\bas cited in\s+([A-Z][^,;()]+?)\s*,\s*(\d{4}[a-z]?)", re.I)
 PAGE_RE = re.compile(r"\bpp?\.\s*(\d+(?:\s*[-–]\s*\d+)?)", re.I)
 
-def _extract_parenthetical_pairs(sentence: str):
-    out = []
+def _extract_parenthetical_pairs(sentence: str) -> List[Dict[str, Any]]:
+    """Extract parenthetical citation information from a sentence.
+
+    Parameters
+    ----------
+    sentence: str
+        Sentence potentially containing parenthetical citations.
+
+    Returns
+    -------
+    List[Dict[str, Any]]
+        A list of dictionaries describing each citation found. The list is
+        empty when no citations are present.
+
+    Notes
+    -----
+    No exceptions are raised; invalid input types will result in a
+    ``TypeError`` from the underlying regex operations.
+    """
+
+    out: List[Dict[str, Any]] = []
     for m in PAREN_BLOCK_RE.finditer(sentence):
         block = m.group(1)
         span = (m.start(), m.end())
@@ -45,8 +64,27 @@ def _extract_parenthetical_pairs(sentence: str):
             })
     return out
 
-def _extract_narrative_pairs(sentence: str):
-    out = []
+def _extract_narrative_pairs(sentence: str) -> List[Dict[str, Any]]:
+    """Extract narrative citation information from a sentence.
+
+    Parameters
+    ----------
+    sentence: str
+        Sentence potentially containing narrative citations.
+
+    Returns
+    -------
+    List[Dict[str, Any]]
+        A list of dictionaries describing each citation found. The list is
+        empty when no citations are present.
+
+    Notes
+    -----
+    No exceptions are raised; invalid input types will result in a
+    ``TypeError`` from the underlying regex operations.
+    """
+
+    out: List[Dict[str, Any]] = []
     for m in NARR_RE.finditer(sentence):
         a, y = m.groups()
         span = (m.start(), m.end())
@@ -83,11 +121,29 @@ def _extract_narrative_pairs(sentence: str):
             })
     return out
 
-def parse_citations(sentence: str) -> List[Dict[str,Any]]:
+def parse_citations(sentence: str) -> List[Dict[str, Any]]:
+    """Parse all citation forms within a sentence.
+
+    Parameters
+    ----------
+    sentence: str
+        Sentence containing potential parenthetical or narrative citations.
+
+    Returns
+    -------
+    List[Dict[str, Any]]
+        A list of unique citation dictionaries extracted from the sentence.
+
+    Notes
+    -----
+    No exceptions are raised; invalid input types will result in a
+    ``TypeError`` from the underlying regex operations.
+    """
+
     parenth = _extract_parenthetical_pairs(sentence)
     narr = _extract_narrative_pairs(sentence)
     seen = set()
-    out = []
+    out: List[Dict[str, Any]] = []
     for item in parenth + narr:
         key = (item["author"], item["year"], item["citation_type"], item["span"])
         if key not in seen:
