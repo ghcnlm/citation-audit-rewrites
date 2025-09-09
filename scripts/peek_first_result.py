@@ -1,6 +1,11 @@
-import json, pathlib, sys, importlib
+import json
+import logging
+import pathlib
+import sys
+import importlib
+
 sys.path.insert(0, str(pathlib.Path("src").resolve()))
-from audit_lib.llm import _load_file, openai_call
+from audit_lib.llm import _load_file, LLMClient
 from jinja2 import Template
 
 M = importlib.import_module("scripts.50_adjudicate")
@@ -10,7 +15,10 @@ USER_TMPL   = getattr(M, "USER_TMPL",   pathlib.Path("prompts/adjudicator_user.j
 SCHEMA_PATH = getattr(M, "SCHEMA_PATH", pathlib.Path("prompts/adjudicator_json_schema.json"))
 MODEL       = getattr(M, "MODEL")
 
-with open("outputs/adjudication_inputs.jsonl","r",encoding="utf-8") as f:
+# Basic logging config for a quick preview script
+logging.basicConfig(level=logging.INFO)
+
+with open("outputs/adjudication_inputs.jsonl", "r", encoding="utf-8") as f:
     line = next(l for l in f if l.strip())
 obj = json.loads(line)
 
@@ -31,6 +39,7 @@ user_prompt = tmpl.render(
     evidence=obj["evidence"][:3]
 )
 schema = json.loads(_load_file(SCHEMA_PATH))
-res = openai_call(MODEL, system_prompt, user_prompt, schema)
-print("Returned keys:", list(res.keys()))
-print(json.dumps(res, ensure_ascii=False, indent=2))
+client = LLMClient(model=MODEL)
+res = client.json_call(system_prompt, user_prompt, schema)
+logging.info("Returned keys: %s", list(res.keys()))
+logging.info(json.dumps(res, ensure_ascii=False, indent=2))
