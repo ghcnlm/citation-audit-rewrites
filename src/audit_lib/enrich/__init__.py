@@ -79,7 +79,12 @@ def enrich_registry_rows(raw_rows: List[dict], reviews_dir: Path, pdf_dir: Optio
             candidates: List[Path] = []
 
             if chosen_author and chosen_year and exact_index:
-                res = resolve_source_pdf(chosen_author, chosen_year, exact_index)
+                res = resolve_source_pdf(
+                    chosen_author,
+                    chosen_year,
+                    exact_index,
+                    citation_text=out.get("citation_text", ""),
+                )
                 resolved_path = res.path
                 reason = res.reason
                 candidates = res.candidates

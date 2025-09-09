@@ -90,7 +90,7 @@ def main() -> int:
         candidates: List[Path] = []  # type: ignore[name-defined]
 
         if chosen_author and chosen_year:
-            res = resolve_source_pdf(chosen_author, chosen_year, index)
+            res = resolve_source_pdf(chosen_author, chosen_year, index, citation_text=out.get("citation_text",""))
             resolved_path = res.path
             reason = res.reason
             candidates = res.candidates
