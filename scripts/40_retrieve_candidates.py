@@ -11,6 +11,8 @@ import pandas as pd
 
 from audit_lib.pdf_utils import split_pages
 from audit_lib.retrieval import chunk_pages_to_windows, top_k_chunks_for_claim
+from audit_lib.config import load_config
+from audit_lib.logging_utils import setup_logging
 
 CONFIG = load_config()
 
