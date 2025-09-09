@@ -102,8 +102,8 @@ def main() -> int:
             except Exception:
                 out["source_pdf_path"] = str(resolved_path).replace("\\", "/")
         else:
-            # leave as-is if already set, else blank
-            out["source_pdf_path"] = existing.replace("\\", "/") if existing else ""
+            # No exact match: leave blank (no cross-year fallback)
+            out["source_pdf_path"] = ""
             if chosen_author and chosen_year:
                 reason = reason or "no_match"
 
@@ -134,4 +134,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
-
