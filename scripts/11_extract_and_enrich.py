@@ -6,6 +6,7 @@ Refactor your extractor so extract_raw_rows() returns a list[dict] in the same s
 """
 from pathlib import Path
 from typing import List, Dict
+import pandas as pd
 
 from audit_lib.config import load_config
 from audit_lib.enrich import enrich_registry_rows, write_enriched_csv
@@ -14,7 +15,7 @@ CFG = load_config()
 OUT_DIR = Path(CFG["paths"]["outputs_dir"])
 REVIEWS_DIR = Path(CFG["paths"]["reviews_dir"])
 
-def extract_raw_rows() -> List[Dict[str,str]]:
+def extract_raw_rows() -> List[Dict[str, str]]:
     """
     TODO: Replace this stub with a call to your current extraction logic that returns rows in memory.
     Must return rows with columns:
@@ -23,7 +24,13 @@ def extract_raw_rows() -> List[Dict[str,str]]:
       primary_mentioned_author, primary_mentioned_year, stated_page, in_reference_list,
       source_pdf_path, priority
     """
-    raise NotImplementedError("Wire this to your extraction routine so it returns a list[dict].")
+    csv_path = OUT_DIR / "ccp_registry.csv"
+    if not csv_path.exists():
+        raise FileNotFoundError(
+            f"Missing {csv_path}. Run 'python scripts/10_extract_ccps.py' first, or wire your extractor here."
+        )
+    df = pd.read_csv(csv_path, dtype=str).fillna("")
+    return df.to_dict(orient="records")
 
 def main():
     rows = extract_raw_rows()
