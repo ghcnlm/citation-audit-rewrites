@@ -1,5 +1,5 @@
 import re
-from typing import List
+from typing import List, Dict, Any
 
 from .models import Citation
 
@@ -113,15 +113,24 @@ def _extract_narrative_pairs(sentence: str) -> List[Citation]:
     return out
 
 
-def parse_citations(sentence: str) -> List[Citation]:
+def parse_citations(sentence: str) -> List[Dict[str, Any]]:
     parenth = _extract_parenthetical_pairs(sentence)
     narr = _extract_narrative_pairs(sentence)
     seen = set()
-    out: List[Citation] = []
+    out: List[Dict[str, Any]] = []
     for item in parenth + narr:
         key = (item.author, item.year, item.citation_type, item.span)
         if key not in seen:
             seen.add(key)
-            out.append(item)
+            out.append({
+                "citation_text": item.citation_text,
+                "citation_type": item.citation_type,
+                "author": item.author,
+                "year": item.year,
+                "is_secondary": bool(item.is_secondary),
+                "primary_mentioned_author": item.primary_mentioned_author or "",
+                "primary_mentioned_year": item.primary_mentioned_year or "",
+                "stated_page": item.stated_page or "",
+                "span": item.span,
+            })
     return out
-
