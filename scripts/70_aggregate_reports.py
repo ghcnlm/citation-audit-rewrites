@@ -1,32 +1,45 @@
-# scripts/70_aggregate_reports.py
-from __future__ import annotations
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+70_aggregate_reports.py
+Aggregate adjudication results for dashboarding.
 
+Output:
+  - outputs/summary_dashboard.csv
+"""
+
+from __future__ import annotations
+from pathlib import Path
 import pandas as pd
 import yaml
-from pathlib import Path
-from audit_lib.paths import load_adjudications  # NEW central loader
 
-CONFIG = yaml.safe_load(open("config/config.yaml", "r", encoding="utf-8"))
+ROOT = Path(__file__).resolve().parents[1]
+CONFIG = yaml.safe_load((ROOT / "config" / "config.yaml").read_text(encoding="utf-8"))
 OUT_DIR = Path(CONFIG["paths"]["outputs_dir"])
 
+WR = OUT_DIR / "adjudications_with_rewrites.csv"
 DASH = OUT_DIR / "summary_dashboard.csv"
 
 def main():
-    df = load_adjudications()  # adjudications_with_rewrites.csv
+    if not WR.exists():
+        print(f"Missing {WR}. Run 50_adjudicate.py first.")
+        return
+
+    df = pd.read_csv(WR, dtype=str).fillna("")
     if df.empty:
-        print("No adjudications_with_rewrites.csv data.")
+        print("No rows in adjudications_with_rewrites.csv")
         return
 
     counts = df["verdict"].value_counts(dropna=False).rename_axis("verdict").reset_index(name="count")
-    by_review = df.groupby(["review_id", "verdict"], dropna=False).size().reset_index(name="count")
-    by_section = df.groupby(["review_id", "section", "verdict"], dropna=False).size().reset_index(name="count")
+    by_review = df.groupby(["review_id","verdict"]).size().reset_index(name="count")
+    by_section = df.groupby(["review_id","section","verdict"]).size().reset_index(name="count")
 
     counts["level"] = "overall"
     by_review["level"] = "review"
     by_section["level"] = "section"
-    out = pd.concat([counts, by_review, by_section], ignore_index=True)
 
-    out.to_csv(DASH, index=False)
+    out = pd.concat([counts, by_review, by_section], ignore_index=True)
+    out.to_csv(DASH, index=False, encoding="utf-8")
     print(f"[OK] wrote dashboard -> {DASH}")
 
 if __name__ == "__main__":

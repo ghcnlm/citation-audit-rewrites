@@ -1,6 +1,7 @@
 paths:
   reviews_dir: pilot_inputs/reviews
   pdf_dir: pilot_inputs/sources_pdf
+  sources_pdf_dir: pilot_inputs/sources_pdf
   sources_text_dir: working/sources_text
   indices_dir: working/indices
   outputs_dir: outputs
