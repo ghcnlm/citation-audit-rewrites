@@ -1,44 +1,50 @@
+# scripts/00_run_all.py
+from __future__ import annotations
 import sys
+import importlib.util
 import subprocess
-from pathlib import Path
 
-# Paths
-REPO_ROOT = Path(__file__).resolve().parents[1]
-PY = sys.executable
+def have(mod: str) -> bool:
+    return importlib.util.find_spec(mod) is not None
 
-def run(cmd, cwd=REPO_ROOT):
-    print(f"\n>>> {cmd}")
-    res = subprocess.run(cmd, cwd=cwd, shell=True)
-    if res.returncode != 0:
-        raise SystemExit(res.returncode)
+def runm(mod: str, *args: str) -> None:
+    cmd = [sys.executable, "-m", mod] + list(args)
+    print(">>> " + " ".join(cmd), flush=True)
+    subprocess.run(cmd, check=True)
 
-def main():
-    # 1) Extract & enrich (your existing script; file path safest on Windows)
-    extractor = REPO_ROOT / "scripts" / "11_extract_and_enrich_DIRECT.py"
-    if extractor.exists():
-        run(f'"{PY}" "{extractor}"')
+def main() -> int:
+    # 1) Extract + enrich (optional)
+    if have("scripts.11_extract_and_enrich_DIRECT"):
+        runm("scripts.11_extract_and_enrich_DIRECT")
     else:
-        print("WARNING: extractor not found; skipping 11_extract_and_enrich_DIRECT.py")
+        print("[WARN] scripts/11_extract_and_enrich_DIRECT.py not found; skipping")
 
-    # 2) Build canonical artifact (+ back-compat copy)
-    builder = REPO_ROOT / "scripts" / "99_build_enriched_fixed.py"
-    run(f'"{PY}" "{builder}"')
+    # 2) Canonical builder (required for schema + source_pdf fill)
+    try:
+        runm("scripts.99_build_enriched_fixed")
+    except subprocess.CalledProcessError as e:
+        print("[ERROR] canonical build failed; see traceback above")
+        return e.returncode
 
-    # 3) Adjudicate (unchanged)
-    adj = REPO_ROOT / "50_adjudicate.py"
-    if adj.exists():
-        run(f'"{PY}" "{adj}"')
+    # 3) Adjudication (optional)
+    if have("scripts.50_adjudicate"):
+        try:
+            runm("scripts.50_adjudicate")
+        except subprocess.CalledProcessError as e:
+            print("[WARN] adjudication failed; continuing")
     else:
-        print("WARNING: 50_adjudicate.py not found; skipping")
+        print("[WARN] scripts/50_adjudicate.py not found; skipping")
 
-    # 4) Propose rewrites (unchanged)
-    rew = REPO_ROOT / "52_propose_rewrites.py"
-    if rew.exists():
-        run(f'"{PY}" "{rew}"')
+    # 4) Rewrite proposals (optional)
+    if have("scripts.52_propose_rewrites"):
+        try:
+            runm("scripts.52_propose_rewrites")
+        except subprocess.CalledProcessError as e:
+            print("[WARN] rewrite proposals failed; continuing")
     else:
-        print("WARNING: 52_propose_rewrites.py not found; skipping")
+        print("[WARN] scripts/52_propose_rewrites.py not found; skipping")
 
-    print("\nAll steps finished.")
+    print("[OK] run-all complete")
     return 0
 
 if __name__ == "__main__":
