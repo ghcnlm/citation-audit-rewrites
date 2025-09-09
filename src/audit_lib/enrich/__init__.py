@@ -75,4 +75,16 @@ def write_enriched_csv(enriched_rows: List[dict], out_path: Path) -> None:
     _write_csv(out_path, enriched_rows, fieldnames)
 
 
-__all__ = ["enrich_registry_rows", "write_enriched_csv"]
+def _best_section_for_claim(claim_text: str, sections: List[Dict]) -> tuple[str, str, int | str]:
+    """Backwards-compatible alias expected by tests.
+
+    Returns (section_title, canonical_title, level).
+    """
+    return best_section_for_claim(claim_text, sections)
+
+
+__all__ = [
+    "enrich_registry_rows",
+    "write_enriched_csv",
+    "_best_section_for_claim",
+]
