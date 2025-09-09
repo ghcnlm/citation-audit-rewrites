@@ -1,16 +1,18 @@
 # scripts/40_retrieve_candidates.py
+import argparse
 import json
+import logging
+import os
 import re
 from pathlib import Path
 from typing import Dict, List, Optional, Set
 
 import pandas as pd
-import yaml
 
 from audit_lib.pdf_utils import split_pages
 from audit_lib.retrieval import chunk_pages_to_windows, top_k_chunks_for_claim
 
-CONFIG = yaml.safe_load(open("config/config.yaml", "r", encoding="utf-8"))
+CONFIG = load_config()
 
 TEXT_DIR: Path = Path(CONFIG["paths"]["sources_text_dir"])
 OUT_DIR: Path = Path(CONFIG["paths"]["outputs_dir"])
@@ -71,10 +73,26 @@ def find_exact_quote_pages(pages: Dict[int, str], claim_text: str) -> List[int]:
     return sorted(pages_with_quote)
 
 
-def main():
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Retrieve candidate evidence chunks")
+    parser.add_argument(
+        "--log-level",
+        default=os.getenv("LOG_LEVEL", "INFO"),
+        help="Logging level (e.g., DEBUG, INFO, WARNING)",
+    )
+    return parser.parse_args()
+
+
+def main(args: Optional[argparse.Namespace] = None):
+    if args is None:
+        args = parse_args()
+    setup_logging(args.log_level)
+
     src = _pick_enriched()
     if not src:
-        print("Missing enriched registry (expected outputs/ccp_registry_enriched*.csv).")
+        logging.error(
+            "Missing enriched registry (expected outputs/ccp_registry_enriched*.csv)."
+        )
         return
 
     df = pd.read_csv(src, dtype=str).fillna("")
@@ -99,7 +117,19 @@ def main():
                 continue
 
             pages = split_pages(txt)
-            chunks = chunk_pages_to_windows(pages, chunk_words=CHUNK_W, stride=STRIDE)
+
+            # Enable cross-page windows when individual pages are shorter than
+            # the desired chunk size so that context can span adjacent pages.
+            use_cross_page = any(
+                len(re.split(r"\s+", ptxt.strip())) < CHUNK_W
+                for ptxt in pages.values()
+            )
+            chunks = chunk_pages_to_windows(
+                pages,
+                chunk_words=CHUNK_W,
+                stride=STRIDE,
+                cross_page=use_cross_page,
+            )
 
             candidate_chunks: List[Dict] = []
             used_idx: Set[int] = set()
@@ -163,7 +193,7 @@ def main():
                 "evidence": candidate_chunks[:TOPK],
             }
             fout.write(json.dumps(payload, ensure_ascii=False) + "\n")
-    print(f"[OK] wrote candidates to {CANDIDATES_JSONL}")
+    logging.info("Wrote candidates to %s", CANDIDATES_JSONL)
 
 
 if __name__ == "__main__":

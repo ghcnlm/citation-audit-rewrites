@@ -4,13 +4,13 @@
 Final direct-output path: run CCP extraction in-memory, then enrich and write ONLY outputs/ccp_registry_enriched.csv.
 Refactor your extractor so extract_raw_rows() returns a list[dict] in the same schema your old ccp_registry.csv used.
 """
-import yaml
 from pathlib import Path
 from typing import List, Dict
 
+from audit_lib.config import load_config
 from audit_lib.enrich import enrich_registry_rows, write_enriched_csv
 
-CFG = yaml.safe_load(open("config/config.yaml","r",encoding="utf-8"))
+CFG = load_config()
 OUT_DIR = Path(CFG["paths"]["outputs_dir"])
 REVIEWS_DIR = Path(CFG["paths"]["reviews_dir"])
 

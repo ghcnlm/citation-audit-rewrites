@@ -1,4 +1,4 @@
-from typing import List, Dict, Any
+from typing import Any, Dict, List
 from rapidfuzz import fuzz, process
 import re
 def chunk_pages_to_windows(pages: Dict[int,str], chunk_words=180, stride=90) -> List[Dict[str,Any]]:
@@ -15,10 +15,40 @@ def chunk_pages_to_windows(pages: Dict[int,str], chunk_words=180, stride=90) -> 
                 "text": piece
             })
     return chunks
-def top_k_chunks_for_claim(claim: str, chunks: List[Dict[str,Any]], k=5) -> List[Dict[str,Any]]:
+
+
+def top_k_chunks_for_claim(
+    claim: str, chunks: List[Dict[str, Any]], k: int = 5
+) -> List[Dict[str, Any]]:
+    """Return the best matching text chunks for a claim.
+
+    Parameters
+    ----------
+    claim: str
+        The statement to match against the corpus.
+    chunks: List[Dict[str, Any]]
+        Candidate text chunks produced by :func:`chunk_pages_to_windows`.
+    k: int, optional
+        Number of results to return. Must be positive.
+
+    Returns
+    -------
+    List[Dict[str, Any]]
+        A list of the top ``k`` chunks with ``page_range``, ``text`` and
+        ``score`` keys.
+
+    Raises
+    ------
+    ValueError
+        If ``k`` is non-positive.
+    """
+
+    if k <= 0:
+        raise ValueError("k must be positive")
+
     corpus = [c["text"] for c in chunks]
     ranked = process.extract(claim, corpus, scorer=fuzz.token_set_ratio, limit=k)
-    results = []
+    results: List[Dict[str, Any]] = []
     for (_, score, idx) in ranked:
         c = chunks[idx]
         results.append({

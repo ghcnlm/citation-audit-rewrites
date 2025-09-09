@@ -18,12 +18,17 @@ Notes:
 """
 
 from __future__ import annotations
+import argparse
+import logging
+import os
+import sys
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Optional
+
 import pandas as pd
 import yaml
-import sys
-import os
+
+from audit_lib.logging_utils import setup_logging
 
 # ---------------------------
 # Config / Paths
@@ -80,7 +85,7 @@ def _ensure_columns(df: pd.DataFrame, cols: List[str]) -> pd.DataFrame:
 
 def _scaffold_from_enriched(enriched: pd.DataFrame) -> pd.DataFrame:
     if enriched.empty:
-        print(f"[ERR] Missing or empty {ENRICHED_CSV}.")
+        logging.error("Missing or empty %s.", ENRICHED_CSV)
         sys.exit(2)
     # only take the columns we need if they exist
     have = [c for c in BASE_COLS if c in enriched.columns]
@@ -138,7 +143,11 @@ def merge_fill(left: pd.DataFrame, right: pd.DataFrame, on_cols: List[str], stag
         merged.loc[before_blank, "source_pdf_path"] = candidate[before_blank]
         merged = merged.drop(columns=["source_pdf_path_r"])
 
-    print(f"[MERGE {stage_name}] " + ", ".join(f"{k}={v}" for k, v in counts.items()))
+    logging.info(
+        "[MERGE %s] %s",
+        stage_name,
+        ", ".join(f"{k}={v}" for k, v in counts.items()),
+    )
     return merged, counts
 
 
@@ -155,24 +164,40 @@ def _write_unmatched_keys(right: pd.DataFrame, left_keys: pd.DataFrame, on_cols:
     if not unmatched.empty:
         outp = STAGING_DIR / "legacy_unmatched_after_merge.csv"
         unmatched.to_csv(outp, index=False, encoding="utf-8")
-        print(f"[DEBUG] Unmatched legacy keys written → {outp}")
+        logging.debug("Unmatched legacy keys written → %s", outp)
 
 
 # ---------------------------
 # Main
 # ---------------------------
 
-def main():
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Merge decisions into a single working CSV"
+    )
+    parser.add_argument(
+        "--log-level",
+        default=os.getenv("LOG_LEVEL", "INFO"),
+        help="Logging level (e.g., DEBUG, INFO, WARNING)",
+    )
+    return parser.parse_args()
+
+
+def main(args: Optional[argparse.Namespace] = None):
+    if args is None:
+        args = parse_args()
+    setup_logging(args.log_level)
+
     # 1) Load scaffold
     enriched = _read_csv(ENRICHED_CSV)
     left = _scaffold_from_enriched(enriched)
     left = _ensure_columns(left, ALL_COLS)
-    print(f"[INFO] Scaffold rows: {len(left)}")
+    logging.info("Scaffold rows: %s", len(left))
 
     # 2) Load legacy decisions (or LLM-generated adjudications.csv)
     legacy = _read_csv(LEGACY_ADJ_CSV)
     if legacy.empty:
-        print(f"[WARN] {LEGACY_ADJ_CSV} missing or empty. No decisions to merge.")
+        logging.warning("%s missing or empty. No decisions to merge.", LEGACY_ADJ_CSV)
     else:
         legacy = _ensure_columns(legacy, BASE_COLS + DECISION_COLS)
         # strictly ensure key types
@@ -193,12 +218,17 @@ def main():
 
     # Decision-blank rows (for honest reporting)
     blanks = (
-        (left["verdict"].astype(str).str.len() == 0) &
-        (left["required_fix"].astype(str).str.len() == 0) &
-        (left["proposed_rewrite"].astype(str).str.len() == 0)
+        (left["verdict"].astype(str).str.len() == 0)
+        & (left["required_fix"].astype(str).str.len() == 0)
+        & (left["proposed_rewrite"].astype(str).str.len() == 0)
     )
     left.to_csv(WR_OUT, index=False, encoding="utf-8")
-    print(f"[OK] wrote {WR_OUT} | rows={len(left)} | decision-blank rows={int(blanks.sum())}")
+    logging.info(
+        "Wrote %s | rows=%s | decision-blank rows=%s",
+        WR_OUT,
+        len(left),
+        int(blanks.sum()),
+    )
 
 
 if __name__ == "__main__":
