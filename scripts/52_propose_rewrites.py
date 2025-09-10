@@ -145,8 +145,9 @@ def main(limit: int | None = None):
     wr = pd.read_csv(WR_CSV, dtype=str).fillna("")
     rq = pd.read_csv(ENRICHED, dtype=str).fillna("") if ENRICHED.exists() else pd.DataFrame()
     if not rq.empty:
-        rq = rq[["review_id","section","claim_id","research_question"]].copy()
-        wr = wr.merge(rq, how="left", on=["review_id","section","claim_id"])
+        cols = [c for c in ["review_id","claim_id","research_question"] if c in rq.columns]
+        rq = rq[cols].copy()
+        wr = wr.merge(rq, how="left", on=["review_id","claim_id"]) if "claim_id" in wr.columns else wr
 
     need = (
         (wr["proposed_rewrite"].str.len() == 0) &

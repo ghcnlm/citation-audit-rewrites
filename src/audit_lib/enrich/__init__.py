@@ -148,6 +148,9 @@ def write_enriched_csv(enriched_rows: List[dict], out_path: Path) -> None:
         _write_csv(out_path, [], [])
         return
     base_cols = list(enriched_rows[0].keys())
+    # Remove obsolete 'section' column from outputs
+    if "section" in base_cols:
+        base_cols.remove("section")
     for c in ["section_canonical", "section_level", "research_question", "section_title"]:
         if c in base_cols:
             base_cols.remove(c)

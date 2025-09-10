@@ -32,13 +32,11 @@ def main():
 
     counts = df["verdict"].value_counts(dropna=False).rename_axis("verdict").reset_index(name="count")
     by_review = df.groupby(["review_id","verdict"]).size().reset_index(name="count")
-    by_section = df.groupby(["review_id","section","verdict"]).size().reset_index(name="count")
+    # 'section' removed from pipeline; drop section-level aggregation
 
     counts["level"] = "overall"
     by_review["level"] = "review"
-    by_section["level"] = "section"
-
-    out = pd.concat([counts, by_review, by_section], ignore_index=True)
+    out = pd.concat([counts, by_review], ignore_index=True)
     out.to_csv(DASH, index=False, encoding="utf-8")
     print(f"[OK] wrote dashboard -> {DASH}")
 

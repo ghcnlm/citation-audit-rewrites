@@ -1,4 +1,4 @@
-# verify_all.py
+﻿# verify_all.py
 from pathlib import Path
 import pandas as pd
 
@@ -44,5 +44,6 @@ if enr is not None and adj is not None:
     ek = set(enr[['review_id','section','claim_id']].apply(tuple, axis=1))
     ak = set(adj[['review_id','section','claim_id']].apply(tuple, axis=1))
     print("\n== Cross-check ==")
-    print("Same keys (review_id,section,claim_id):", ek == ak)
-    print("Counts — enriched vs adjudications:", len(enr), len(adj))
+    print("Same keys (review_id,claim_id):", ek == ak)
+    print("Counts â€” enriched vs adjudications:", len(enr), len(adj))
+

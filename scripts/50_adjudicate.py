@@ -47,7 +47,7 @@ LEGACY_ADJ_CSV = OUT_DIR / "adjudications.csv"
 WR_OUT = OUT_DIR / "adjudications_with_rewrites.csv"
 
 BASE_COLS = [
-    "review_id", "section", "claim_id",
+    "review_id", "claim_id",
     "claim_text",
     "citation_author", "citation_year",
     "source_pdf_path",
@@ -201,13 +201,13 @@ def main(args: Optional[argparse.Namespace] = None):
     else:
         legacy = _ensure_columns(legacy, BASE_COLS + DECISION_COLS)
         # strictly ensure key types
-        for c in ["review_id", "section", "claim_id"]:
+        for c in ["review_id", "claim_id"]:
             legacy[c] = legacy[c].astype(str).fillna("")
             left[c] = left[c].astype(str).fillna("")
 
         # 3) Merge-fill decisions
-        on = ["review_id", "section", "claim_id"]
-        left, _ = merge_fill(left, legacy, on_cols=on, stage_name="K=review_id+section+claim_id")
+        on = ["review_id", "claim_id"]
+        left, _ = merge_fill(left, legacy, on_cols=on, stage_name="K=review_id+claim_id")
 
         # 4) Report any keys in legacy not present in scaffold (debugging)
         _write_unmatched_keys(legacy, left[on], on_cols=on)

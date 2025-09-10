@@ -121,7 +121,6 @@ def normalize_result(d: Dict[str, Any]) -> Dict[str, Any]:
 def to_row(item: Dict[str, Any], resp: Dict[str, Any]) -> Dict[str, Any]:
     return {
         "review_id": item.get("review_id",""),
-        "section": item.get("section",""),
         "claim_id": item.get("claim_id",""),
         "claim_text": item.get("claim_text",""),
         "citation_author": item.get("citation_author",""),
@@ -236,7 +235,7 @@ def main(limit: int | None = None, resume: bool = True):
     with RESULTS_JSONL.open(rmode, encoding="utf-8") as fout:
         for item in iter_jsonl(INPUTS_JSONL):
             n_total += 1
-            k = f"{item.get('review_id','')}|{item.get('section','')}|{item.get('claim_id','')}"
+            k = f"{item.get('review_id','')}|{item.get('claim_id','')}"
             if k in done_keys:
                 n_skipped += 1
                 continue
@@ -260,7 +259,7 @@ def main(limit: int | None = None, resume: bool = True):
     df_new = pd.DataFrame(rows)
     if ADJUDICATIONS.exists():
         old = pd.read_csv(ADJUDICATIONS, dtype=str).fillna("")
-        keycols = ["review_id","section","claim_id"]
+        keycols = ["review_id","claim_id"]
         # Put NEW first so new results override old blanks
         allp = pd.concat([df_new, old], ignore_index=True)
         allp = allp.drop_duplicates(subset=keycols, keep="first")

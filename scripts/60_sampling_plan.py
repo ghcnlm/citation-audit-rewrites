@@ -30,19 +30,19 @@ def main():
     en = pd.read_csv(EN, dtype=str).fillna("") if EN.exists() else pd.DataFrame()
 
     # priority from enriched preferred; fallback to High
-    pri = en[["review_id","section","claim_id","priority"]].copy() if not en.empty else pd.DataFrame()
+    pri = en[["review_id","claim_id","priority"]].copy() if not en.empty else pd.DataFrame()
     if pri.empty:
         wr["priority"] = "High"
     else:
-        wr = wr.merge(pri, how="left", on=["review_id","section","claim_id"])
+        wr = wr.merge(pri, how="left", on=["review_id","claim_id"])
         wr["priority"] = wr["priority"].replace("", "High")
 
-    # compute bad rate by (review_id, section)
+    # compute bad rate by review_id (section removed)
     wr["_is_bad"] = wr["verdict"].isin(BAD_VERDICTS)
-    rates = wr.groupby(["review_id","section"])["_is_bad"].mean().reset_index().rename(columns={"_is_bad": "bad_rate"})
+    rates = wr.groupby(["review_id"])["_is_bad"].mean().reset_index().rename(columns={"_is_bad": "bad_rate"})
 
     plan_rows = []
-    for (rid, sec), group in wr.groupby(["review_id","section"]):
+    for rid, group in wr.groupby(["review_id"]):
         high = group[group["priority"] == "High"]
         low  = group[group["priority"] == "Low"]
 
@@ -50,7 +50,7 @@ def main():
         n_sample = max(10, int(len(low) * LOW_SAMPLE_FRACTION)) if len(low) > 0 else 0
         low_sample = low.sample(n=min(n_sample, len(low)), random_state=42) if n_sample > 0 else low.iloc[0:0]
 
-        bad_rate = rates[(rates["review_id"]==rid) & (rates["section"]==sec)]["bad_rate"]
+        bad_rate = rates[(rates["review_id"]==rid)]["bad_rate"]
         escalate = bool((not bad_rate.empty) and (bad_rate.values[0] > FAIL_REVIEW_ESCALATE_THRESHOLD))
 
         include = pd.concat([high, low_sample], ignore_index=True)
@@ -59,10 +59,9 @@ def main():
         for _, r in include.iterrows():
             plan_rows.append({
                 "review_id": rid,
-                "section": sec,
-                "claim_id": r["claim_id"],
-                "priority": r["priority"],
-                "escalate_to_full_section": escalate
+                "claim_id": r.get("claim_id", ""),
+                "priority": r.get("priority", ""),
+                "escalate_to_full_section": escalate,
             })
 
     pd.DataFrame(plan_rows).to_csv(PLAN, index=False, encoding="utf-8")

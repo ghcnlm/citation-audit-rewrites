@@ -15,7 +15,7 @@ PDF_DIR = CONFIG["paths"]["pdf_dir"]
 CCP_PATH = os.path.join(OUTPUTS_DIR, "ccp_registry.csv")
 REFS_INDEX = Path(OUTPUTS_DIR)/"references_index.csv"
 
-FIELDNAMES = ["review_id","section","claim_id","claim_text","is_quote","has_numbers","is_causal_or_normative",
+FIELDNAMES = ["review_id","claim_id","claim_text","is_quote","has_numbers","is_causal_or_normative",
               "citation_text","citation_type","citation_author","citation_year","is_secondary",
               "primary_mentioned_author","primary_mentioned_year","stated_page","in_reference_list",
               "source_pdf_path","priority"]
@@ -89,7 +89,6 @@ def main():
                     rows.append(
                         {
                             "review_id": current_review_id,
-                            "section": section,
                             "claim_id": claim_id,
                             "claim_text": sent.strip(),
                             "is_quote": is_quote,
@@ -109,7 +108,12 @@ def main():
                         }
                     )
     if rows:
-        pd.DataFrame(rows, columns=FIELDNAMES).to_csv(CCP_PATH, index=False)
+        # Drop obsolete 'section' from rows if present
+        df = pd.DataFrame(rows)
+        if "section" in df.columns:
+            df = df.drop(columns=["section"])
+        df = df.reindex(columns=FIELDNAMES)
+        df.to_csv(CCP_PATH, index=False)
         print(f"[OK] wrote {CCP_PATH}")
     else:
         print("No citations found. Check formats or improve parsing rules.")

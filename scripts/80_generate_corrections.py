@@ -4,7 +4,7 @@ Canonical corrections builder (replaces any legacy logic that read adjudications
 
 Input:  outputs/adjudications_with_rewrites.csv
 Output: outputs/corrections_list.csv with schema:
-        review_id,section,claim_id,action_type,proposed_text,notes
+        review_id,claim_id,action_type,proposed_text,notes
 """
 from pathlib import Path
 import pandas as pd
@@ -37,7 +37,6 @@ def main():
         rows.append(
             {
                 "review_id": r.get("review_id", ""),
-                "section": r.get("section", ""),
                 "claim_id": r.get("claim_id", ""),
                 "action_type": "edit_or_remove",  # stable action label
                 "proposed_text": r.get("proposed_rewrite", "") or r.get("required_fix", "") or "",
@@ -46,7 +45,7 @@ def main():
         )
 
     pd.DataFrame(rows, columns=[
-        "review_id","section","claim_id","action_type","proposed_text","notes"
+        "review_id","claim_id","action_type","proposed_text","notes"
     ]).to_csv(CORR, index=False)
     print(f"[OK] wrote corrections list -> {CORR} (rows={len(rows)})")
 
